@@ -10,9 +10,10 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 | 04 | `translations/dot_04/hoi_thoai_005.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
 | 05 | `translations/dot_05/hoi_thoai_006.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
 | 06 | `translations/dot_06/hoi_thoai_007.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
-| **Tổng** | | **1.850** | **4 nguồn hoãn** | Chưa nhập ROM |
+| 07 | `translations/dot_07/hoi_thoai_008.jsonl` | 180 | 1 nhãn NPC nghi nội bộ, cần kiểm tra | Kiểm tra kỹ thuật đạt |
+| **Tổng** | | **2.030** | **4 nguồn hoãn, 1 nhãn cần rà** | Chưa nhập ROM |
 
-**Mục ưu tiên trong gói nguồn: 17.935. Đã dịch: 1.850 (10,3%). Còn chưa dịch: 16.085.**
+**Mục ưu tiên trong gói nguồn: 17.935. Đã dịch: 2.030 (11,3%). Còn chưa dịch: 15.905.**
 
 ## Phạm vi từng đợt
 
@@ -22,6 +23,7 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 - **Đợt 04:** `hoi_thoai_005` (180), NPC, họa sĩ, hôn nhân, ước mơ làm bác sĩ.
 - **Đợt 05:** `hoi_thoai_006` (180), Mirant, chữ Astram trang 124, Nhẫn Qi, Đại sứ Du lịch, tình mẹ và sách ẩm thực.
 - **Đợt 06:** `hoi_thoai_007` (180), nhiệm vụ Nghêu Bổ Dưỡng, người lính mất Can Đảm, Mary–Suren, Sáo Clarion, núi Dekarock và hai phép Thánh Tiễn/Xung Ba.
+- **Đợt 07:** `hoi_thoai_008` (180), Ichi no Kuni, Nữ hoàng Cowla, Đài phun Sữa và phép Gia Vị Bí Mật, cô giáo thiếu Nhân Ái, Roy–Sophia thiếu Tình Yêu. Dùng tên **Sophia** thống nhất dù nguồn có một chỗ ghi Sofia.
 
 ### ID nguồn đang hoãn
 
@@ -29,6 +31,10 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 - `HOI_eef7e40c981caa` — `U`
 - `HOI_b715c8861e9918` — `愈`
 - `HOI_7ecf274c3ca2db` — `!+f ﾆ`
+
+### Mục cần xác minh trước khi nhúng
+
+- `HOI_d66c6b0d4ef33b`: `Recipe Distribution NPC (Temp)` có vẻ là nhãn phát triển, tạm dịch `NPC phát công thức (tạm)` nhưng chưa xác minh có hiển thị cho người chơi.
 
 ## Luật để không sót, trùng hoặc lệch giọng
 
@@ -40,4 +46,4 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 
 **Chưa kiểm thử:** chất lượng bản dịch theo toàn tuyến truyện; font tiếng Việt; độ rộng ô thoại NDS; nhúng lại kịch bản, sửa offset/nhảy lệnh; chạy trong game thật. Các bước kiểm tra hiện tại chỉ xác minh ID/JSON/mã điều khiển.
 
-**Đợt tiếp theo:** `hoi_thoai_008.jsonl`. Bản gộp sau đợt 6 nên chỉ dùng **thay cho** chứ không nhập cùng lúc với các tệp riêng.
+**Đợt tiếp theo:** `hoi_thoai_009.jsonl`. Bản gộp sau đợt 7 nên chỉ dùng **thay cho** chứ không nhập cùng lúc với các tệp riêng.
