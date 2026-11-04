@@ -339,3 +339,29 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Shadaar | Shadaar (bản nguồn cũng gọi Jabou; chưa tự gộp tên) |
 
 **Ngôi xưng:** Flint (thầy/cha) với Tamara: ta/con, cha/con theo cảnh; Tamara với Flint: con/cha. Nicky tự nhận kỳ phùng địch thủ, xưng ta/cậu hoặc ta/nhóc; Oliver lịch sự với người lớn. Gapollino pha trò nhưng vẫn là bậc Hiền Giả. Marcel mang giọng uất ức, tổn thương, không cố gây cười trong cảnh mất bạn.
+
+
+## Bổ sung đợt 34–37 (05/11/2026)
+
+| Nguyên gốc DS | Cách dùng thống nhất |
+|---|---|
+| Lifewood | Gỗ Sinh Mệnh |
+| Lifecense burner | Lư Hương Sinh Mệnh |
+| Sealed Island | Đảo Phong Ấn |
+| Soulgem | Hồn Ngọc |
+| Hero Points | Điểm Anh Hùng |
+| Poison Weed | Cỏ Độc |
+| White Combo Key | Chìa Ghép Trắng |
+| Red Combo Key | Chìa Ghép Đỏ |
+| Blue Combo Key | Chìa Ghép Xanh |
+| Fuse (spell) | Hợp Nhất *(cần xác nhận nhãn UI)* |
+| Storm's Eye | Mắt Bão |
+| Worn-Out Book | Cuốn Sách Cũ Mòn |
+| Synthesis (action) | Ghép Đồ *(cần đối chiếu tên nút; Nồi Ghép là đồ vật)* |
+| Altena Battle Mages | Pháp sư chiến đấu Altena |
+| Corpse Lake | Hồ Tử Thi |
+| Misleading Miasma | Chướng Khí Lạc Lối |
+
+**Ngôi xưng:** Marcel trước đây mất niềm tin, cần giữ ngữ điệu cay đắng/giằng xé; Oliver với bạn bè dùng tớ/cậu và với người lớn dùng cháu/ông, thầy; mẹ–Oliver dùng mẹ/con; Mark–Oliver là bạn thuở nhỏ tớ/cậu. Nhân vật bí ẩn ở khu câu đố tự xưng ta/cậu, kỳ quặc nhưng không phá lời giải.
+
+**Cần rà khi nhập ROM:** Câu nguồn `hoi_thoai_038` nhắc phép `Take Heart` để *trao* Mảnh Tim cho Mark (thông thường `Give Heart`/Trao Tim); bản dịch giữ tên phép theo nguồn thành `Thu Tim`, chờ xác minh nút thực tế. Một số câu đố trong `hoi_thoai_037` dựa trên từ đối xứng tiếng Anh (ví dụ “racecar”) — đã giữ ví dụ tiếng Anh để không làm sai logic.
