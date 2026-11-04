@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-05",
   "priority_total": 17935,
-  "translated_total": 7423,
-  "remaining": 10512,
-  "ratio": 0.41388,
+  "translated_total": 8143,
+  "remaining": 9792,
+  "ratio": 0.45403,
   "batches": [
     {
       "batch": 1,
@@ -369,8 +369,36 @@
       "repo_file": "translations/dot_37/hoi_thoai_038.jsonl",
       "validated": true,
       "topic": "Dream of Oliver mother, Mark, Ambition, Storm Eye"
+    },
+    {
+      "batch": 38,
+      "done": 180,
+      "repo_file": "translations/dot_38/hoi_thoai_039.jsonl",
+      "validated": true,
+      "topic": "Cowla, Clarion and treasure-finding spells"
+    },
+    {
+      "batch": 39,
+      "done": 180,
+      "repo_file": "translations/dot_39/hoi_thoai_040.jsonl",
+      "validated": true,
+      "topic": "Alicia-Jabou, Ghost Valley and Catnap gatekeeper"
+    },
+    {
+      "batch": 40,
+      "done": 180,
+      "repo_file": "translations/dot_40/hoi_thoai_041.jsonl",
+      "validated": true,
+      "topic": "Centree saplings, town NPCs, red earrings"
+    },
+    {
+      "batch": 41,
+      "done": 180,
+      "repo_file": "translations/dot_41/hoi_thoai_042.jsonl",
+      "validated": true,
+      "topic": "Wizard's Pledge, Tail Wrestling and Catnap sewers"
     }
   ],
-  "qa": "All 37 batches validated for IDs, JSON and protected tokens. Gameplay/ROM, text rendering and font tests pending.",
+  "qa": "Technical checks passed for 41 batches: source IDs, JSON, protected tokens and unique IDs. ROM/font/layout/gameplay checks pending.",
   "notes": "7 technical Sample text rows from hoi_thoai_030 deferred; 4 older damaged rows in hoi_thoai_003 still deferred."
 }
