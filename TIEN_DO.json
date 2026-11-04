@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-04",
   "priority_total": 17935,
-  "translated_total": 1670,
-  "remaining": 16265,
-  "ratio": 0.09311,
+  "translated_total": 1850,
+  "remaining": 16085,
+  "ratio": 0.10315,
   "batches": [
     {
       "batch": 1,
@@ -51,7 +51,14 @@
       "done": 180,
       "repo_file": "translations/dot_05/hoi_thoai_006.jsonl",
       "validated": true
+    },
+    {
+      "batch": 6,
+      "done": 180,
+      "repo_file": "translations/dot_06/hoi_thoai_007.jsonl",
+      "validated": true,
+      "topic": "Nghêu Bổ Dưỡng; Can Đảm; Mary-Suren; Sáo Clarion; núi Dekarock"
     }
   ],
-  "qa": "JSON, unique IDs, protected tokens validated locally; ROM, Vietnamese font, script relocation, visual layout and gameplay still untested."
+  "qa": "All 1850 IDs unique and nonempty; batch 06 has 180 valid source IDs with protected tokens preserved. ROM/font/layout/gameplay and full-context editorial review untested."
 }
