@@ -12,3 +12,7 @@ Dự án độc lập trong kho Việt hóa NDS chung; chỉ lưu dữ liệu b�
 - [QA đợt 22–25](QA_DOT_22_25.json)
 
 Bản gộp tích lũy nằm trong gói ZIP bàn giao, không lưu song song trên GitHub để tránh nhập trùng. Bản dịch **chưa được nhúng ROM hoặc thử hiển thị trên NDS**.
+
+## Tham khảo bản dịch tay năm 2024
+
+Đã đối chiếu tệp Excel dịch tay 2024 với kịch bản bản DS: **325 mục trùng câu gốc**, trong đó **255 mục chưa có bản dịch**, nhưng phần lớn là câu rất ngắn/tên riêng và có khác biệt Drippy/Shizuku, Ding Dong Dell/Catnap, Mornstar/Gladion. Xem [báo cáo đối chiếu](references/DICH_TAY_2024_DOI_CHIEU.md) trước khi sử dụng. **Không tự ghi đè các bản dịch đã duyệt hoặc tính số mục tham khảo vào tiến độ.**
