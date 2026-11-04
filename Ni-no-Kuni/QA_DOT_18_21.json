@@ -1,0 +1,21 @@
+{
+  "batch_range": "18–21",
+  "new_entries": 720,
+  "cumulative_entries_at_time": 4550,
+  "source_files": [
+    "hoi_thoai_019.jsonl",
+    "hoi_thoai_020.jsonl",
+    "hoi_thoai_021.jsonl",
+    "hoi_thoai_022.jsonl"
+  ],
+  "entry_counts": [
+    180,
+    180,
+    180,
+    180
+  ],
+  "unique_ids_at_time": 4550,
+  "duplicate_ids": 0,
+  "protected_tokens_ok": true,
+  "qa_scope": "JSON/ID/protected-token validation only; not tested inside ROM"
+}
