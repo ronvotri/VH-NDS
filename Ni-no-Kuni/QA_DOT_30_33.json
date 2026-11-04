@@ -1,0 +1,61 @@
+{
+  "batch_range": "30–33",
+  "source_files": [
+    "hoi_thoai_031",
+    "hoi_thoai_032",
+    "hoi_thoai_033",
+    "hoi_thoai_034"
+  ],
+  "source_records": 720,
+  "translated": 720,
+  "deferred": 0,
+  "cumulative": 6703,
+  "priority_total": 17935,
+  "batch_details": {
+    "30": {
+      "file": "hoi_thoai_031.jsonl",
+      "count": 180,
+      "sha256": "060788f2fc385c9a112023e40801902b2c6397ebca03e6a729ae0d2f166d3f7c",
+      "more_than_three_lines": 0
+    },
+    "31": {
+      "file": "hoi_thoai_032.jsonl",
+      "count": 180,
+      "sha256": "708e5b809b7e7309618e33d10ef8b51da66a9b361b67f3ea813b9a44d7b15eb9",
+      "more_than_three_lines": 0
+    },
+    "32": {
+      "file": "hoi_thoai_033.jsonl",
+      "count": 180,
+      "sha256": "86d1e1dda1d598d3e8bcc86d7037d1981e65d0c2c55a146fc5ff9a79441f64cd",
+      "more_than_three_lines": 0
+    },
+    "33": {
+      "file": "hoi_thoai_034.jsonl",
+      "count": 180,
+      "sha256": "fc1987b676cc2b92ef134d697100f56a74a80750163aaa01bd043cf94c5d95b0",
+      "more_than_three_lines": 0
+    }
+  },
+  "line_count_histogram": {
+    "2": 394,
+    "1": 226,
+    "3": 100
+  },
+  "more_than_three_lines": 0,
+  "maximum_line_characters": 48,
+  "notes": [
+    "Protected tokens and ID validation only; NOT a game/ROM layout proof.",
+    "Shadaar vs Jabou name forms appear in source; verify canon in NDS game.",
+    "Big Burn Out and Casino ticket terms pending visual fit checks.",
+    "2024 manual translation memory has only four exact English-string matches across these four source batches."
+  ],
+  "source_tool_check": {
+    "files": 4,
+    "ids_seen": 720,
+    "translations_ok": 720,
+    "empty_skipped": 0,
+    "errors": [],
+    "note": "This checks IDs, JSON and protected tokens only. Font coverage, byte capacity, script relocation, layout and meaning need a separate import/review step."
+  }
+}
