@@ -213,3 +213,29 @@ Suren nói **ta/cháu** với Oliver, **cha/con** với Mary; Oliver nói **chá
 - **Cha và con gái ở quán ăn:** thống nhất **cha/con**; người cha ngoài cứng trong mềm, Shizuku trêu gọi **ông bác**. Oliver gọi **bác**, cô gái là **chị**.
 - **Người giới thiệu Boniato:** đầy **Hoài Bão**, dí dỏm vừa phải, gọi Oliver là **cậu**, Oliver xưng **cháu/cô**.
 - **Plessie:** không mặc định mọi cá thể là quái vật xấu; giữ giọng xúc động ở đoạn cứu và nuôi Plessie.
+
+## Bổ sung đợt lớn 14–17
+
+| Nguồn | Thống nhất tiếng Việt |
+|---|---|
+| Sinbad | Sinbad (tên riêng; chú thích `Sinbad (?)` cần kiểm tra) |
+| Queen Cowla (ship) | Queen Cowla (tên tàu, phân biệt Nữ hoàng Cowla) |
+| Carrying Cage | Lồng Mang Imagen |
+| Lockpick Gun | Súng Mở Khóa |
+| Imagen Manhole | Cống Imagen (tạm, kiểm tra UI) |
+| The Mother of Boarg | Thánh Mẫu Boarg |
+| Septimus Medals | Huy chương Septimus |
+| Magic Pirate Crew | Băng Hải Tặc Phép Thuật |
+| Seek Fortune | Tầm Bảo (tạm, kiểm tra UI) |
+| Ward | Hộ Thể (tạm, kiểm tra UI) |
+| Jade Sphere | Cầu Ngọc Bích (tạm, kiểm tra UI) |
+| Rabbot / Jackrabbot | Rabbot / Jackrabbot |
+| Hubber Blubber | Hubber Blubber |
+| Silvervine Lodge | Nhà nghỉ Silvervine |
+| East District | Khu Đông |
+
+- **Jairo:** ngang tàng mà giàu kinh nghiệm, thích gọi Oliver là nhóc, có câu đùa Oliver-Không-Phải-Nhóc.
+- **Shizuku:** dí dỏm; khi xin nghỉ chiến đấu, vẫn giữ sắc thái bạn bè thân thiết.
+- **Mirant:** tớ/cậu, giàu cảm xúc khi hồi tưởng về bạn cũ.
+- **Thánh Mẫu Boarg:** giọng thầy bói, ta/cháu với Oliver.
+- **Thủy thủ già:** hào sảng, ta/nhóc, không lạm dụng từ cổ hay thô tục.
