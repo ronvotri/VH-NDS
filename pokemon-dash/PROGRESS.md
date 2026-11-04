@@ -52,3 +52,13 @@ Chạy công cụ `tools/audit_dash_archive.py` trong thư mục dự án trên 
 - Công cụ và ghi chú chi tiết: `3D_VISUAL_BREAKTHROUGH.md` và `tools/rel_visual_inventory.py`.
 
 **Bản chơi thử mới nhất giữ nguyên v0.6**. Bước tiếp: xác minh điểm bắt đầu texture / định dạng palette / UV và kiểm thử trong giả lập trước khi xuất v0.7.
+
+## Bản thử 3D A3I5 v0.7 Alpha (04/11/2026)
+
+- Đã thử biên dịch bản ROM mới kế thừa v0.6, chỉ thay **một mô hình 3D** `en/mdl_pause_title.rel` (`Back to Title` → `Về menu`), bốn vùng chữ / hai trạng thái.
+- Dữ liệu raster rất giống A3I5 (alpha 3-bit, palette index 5-bit); giả thuyết chưa được kiểm chứng trực tiếp bằng engine.
+- Header, kích thước mô hình, 317 tệp archive khác giữ nguyên. **1872 byte** thay đổi trong đúng vùng thử.
+- **IPS round-trip PASS; SHA-256 ROM Alpha:** `d592391af5d125c902545d143c3bca3bc65acc2986efdd1690c6248fd856a16d`.
+- Bộ nguồn và bản vá thử: [3D_A3I5_ALPHA_TEST.md](3D_A3I5_ALPHA_TEST.md), `patches/v06_to_v07_alpha_pause_title.ips`, `tools/apply_v07_alpha.py`.
+- **Chưa kiểm thử runtime trên melonDS/NDS**. Vẫn giữ v0.6 là bản dùng chính; v0.7 chỉ là **Alpha test**.
+- Ưu tiên kế: xác minh nhãn Pause trong game trước, sau đó mới sửa `mdl_pause_course`, `mdl_t_goal`, `mdl_t_timesup`.
