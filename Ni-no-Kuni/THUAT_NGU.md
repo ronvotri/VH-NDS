@@ -389,3 +389,21 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 
 **Giọng thoại:** Alicia–Jabou nghiêm túc; Cowla hài hước, Kuran kính cẩn. Trẻ Purrsian xưng tớ/cậu, em/anh tùy đối tượng. Không tự bỏ các đoạn lặp nội dung nếu ID gốc khác nhau.
 
+## Bổ sung đối chiếu đợt 42–45
+
+| Gốc | Dùng trong bản dịch | Lưu ý |
+|---|---|---|
+| Tail Wrestling | Đấu Đuôi | Giữ thuật ngữ cũ |
+| Motivation | Nhiệt Huyết | Giữ thuật ngữ cũ |
+| Give Heart | Trao Tim | Giữ thuật ngữ cũ |
+| Longevity Mushroom | Nấm Trường Thọ | Giữ thuật ngữ cũ |
+| Gale Cloak | Áo Choàng Gió | Rà với tên vật phẩm trong UI |
+| Reclusive Deerbeast | Hươu Thú Ẩn Dật | Rà tên quái |
+| Chubell the 17th | Chubell Đệ Thập Thất | Rà tên boss |
+| Catnap Coin | Đồng Catnap | Mục Vật Phẩm Quan Trọng |
+| Catnap King Badge | Huy Hiệu Vua Catnap | Rà tên vật phẩm |
+| Seance | Gọi Hồn | Rà tên phép |
+| Astram | Astram | Chữ cổ, giữ nguyên |
+| Mouse Men | Chuột Nhân | Danh từ chỉ tộc người |
+| Purrsian | Purrsian | Giữ tên bản DS |
+| Silvervine Inn | Quán trọ Silvervine | Giữ địa danh |
