@@ -1,21 +1,9 @@
-# Ni no Kuni (Nintendo DS) — Bản dịch tiếng Việt
+# Ni no Kuni DS — Bản dịch tiếng Việt
 
-Bản dịch JSONL được đối chiếu theo ID từ `Goi_dich_NiNoKuni.zip`. **Chưa phải ROM đã nhúng tiếng Việt.**
+**Tiến độ:** 3.830 / 17.935 mục ưu tiên (~21,36%), qua 17 đợt. Đợt lớn 14–17 đã dịch thêm **720 câu**, thuộc `hoi_thoai_015` đến `hoi_thoai_018`.
 
-## Tiến độ — 04/11/2026
+Bản dịch theo ID từ `Goi_dich_NiNoKuni.zip`; giữ giọng nhân vật, xưng hô và mã điều khiển. Xem `TIEN_DO.md`, `THUAT_NGU.md`, `TIEN_DO.json` và `QA_DOT_14_17.json`.
 
-**3.110 / 17.935 mục (~17,3%), qua 13 đợt đã qua kiểm tra dữ liệu.**
+**Chưa phải ROM đã nhúng tiếng Việt.** Đã kiểm tra ID/JSON/placeholder; chưa kiểm tra font, ô thoại, chạy game. Khi nhập về hệ thống, chỉ dùng bản gộp hoặc bản rời, không dùng cả hai. Bản gộp tích lũy nằm trong ZIP bàn giao và không đẩy lên repo để tránh nhân đôi dữ liệu.
 
-| Đợt | Số mục |
-|---|---:|
-| 01 | 954 |
-| 02 | 176 (4 chuỗi nguồn nghi hỏng được hoãn) |
-| 03–13 | 180 mục/đợt |
-
-Đợt mới nhất: `translations/dot_13/hoi_thoai_014.jsonl`.
-
-Bản dịch gộp `BAN_DICH_GOP_DOT_01_13.jsonl` có trong ZIP bàn giao, không nhập cùng các tệp rời vì sẽ trùng ID.
-
-Xem `TIEN_DO.md`, `TIEN_DO.json`, `THUAT_NGU.md` và `QA_DOT_13.json`. Đợt 13 đã kiểm tra JSONL/ID/placeholder. Có bốn chỗ dữ liệu nguồn/ngữ cảnh cần xem lại.
-
-Còn cần thực hiện: kiểm tra phong cách trên toàn cốt truyện, font tiếng Việt, độ rộng ô thoại, tái dựng kịch bản và thử nghiệm trên giả lập/NDS thật.
+**Tiếp theo:** `hoi_thoai_019`.
