@@ -14,7 +14,8 @@ Nơi lưu bản dịch và theo dõi tiến độ Việt hóa từ gói chữ xu
 | 06 | `hoi_thoai_007` — Nghêu Bổ Dưỡng, Can Đảm, Mary–Suren và Sáo Clarion | 180 | Kiểm tra kỹ thuật đạt |
 | 07 | `hoi_thoai_008` — Ichi no Kuni, Cowla, phô mai, Nhân Ái, Roy–Sophia | 180 | 1 nhãn nguồn nghi nội bộ cần rà |
 | 08 | `hoi_thoai_009` — Roy–Sophia, Kiềm Chế, Tự Tin, nhà nghiên cứu Imagen Nellory | 180 | Kiểm tra kỹ thuật đạt |
-| **Tổng** | | **2.210/17.935 (~12,3%)** | Chưa nhúng ROM |
+| 09 | `hoi_thoai_010` — Nellory, Moya, kẹo caramen sữa, Kiềm Chế | 180 | Kiểm tra kỹ thuật đạt |
+| **Tổng** | | **2.390/17.935 (~13,3%)** | Chưa nhúng ROM |
 
 Tệp dịch là JSONL, mỗi dòng `{"id":"...","translation":"..."}`. Sử dụng ID từ gói nguồn để nhập lại, không tự đổi mã điều khiển. **Không nhập cùng lúc bản gộp và các bản riêng**.
 
@@ -24,4 +25,4 @@ Nguyên tắc: giữ đúng bối cảnh và ngôi xưng; Oliver chân thành; S
 
 **Chưa kiểm tra:** font Việt, độ rộng ô thoại NDS, tái dựng kịch bản, nhúng vào ROM và thử chơi thật. 4 chuỗi nguồn nghi lỗi của `hoi_thoai_003` vẫn được để riêng, không dịch đoán.
 
-**Tiếp theo:** `hoi_thoai_010`. Bản gộp `BAN_DICH_GOP_DOT_01_08.jsonl` nằm trong ZIP bàn giao đợt 8; không nhập đồng thời bản gộp và các tệp rời. Mục `HOI_d66c6b0d4ef33b` là nhãn NPC nghi nội bộ, cần xác minh khi nhúng. Mục `HOI_d66c6b0d4ef33b` là nhãn NPC nghi nội bộ, cần xác minh khi nhúng.
+**Tiếp theo:** `hoi_thoai_011`. Bản gộp `BAN_DICH_GOP_DOT_01_09.jsonl` nằm trong ZIP bàn giao đợt 9; không nhập đồng thời bản gộp và các tệp rời. Mục `HOI_d66c6b0d4ef33b` là nhãn NPC nghi nội bộ, cần xác minh khi nhúng.
