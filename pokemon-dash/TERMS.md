@@ -48,3 +48,10 @@ Nguồn duyệt: bản Việt hóa v0.1–v0.6 và các yêu cầu sửa trực 
 - Giữ pixel-art, kích thước bản gốc, bảng màu NDS; không làm tràn hoặc che nút.
 - Với các hộp nhỏ, giữ ý ngắn gọn, đừng tự động thay mọi chữ tiếng Anh tìm thấy trong metadata kỹ thuật.
 - Các nhãn mô hình 3D chưa được sửa, dù từ điển đã chốt. Cần giải mã và test thật trước.
+
+## Ngoại lệ nhãn 3D hẹp (v0.8.4 Alpha)
+
+- `Retry` → **Đua lại** tại model 3D Pause cao 7 px, thay cho “Thử lại” vì ít dấu khó hiển thị và phù hợp ngữ cảnh đua. Với chỗ có đủ diện tích, vẫn có thể dùng “Thử lại”.
+- `Back to Course` → **Trở lại đường đua** (đủ dấu; 17 px).
+- Vẫn giữ `Zigzag Road` → **Đường Zigzag**.
+- Những bản dịch 3D này là **bản vá Alpha chưa qua gameplay test**, chưa xác nhận hoàn tất.
