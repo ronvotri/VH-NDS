@@ -2,22 +2,13 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-04",
   "priority_total": 17935,
-  "translated_total": 5983,
-  "remaining": 11952,
-  "ratio": 0.33359,
+  "translated_total": 6703,
+  "remaining": 11232,
+  "ratio": 0.37374,
   "batches": [
     {
       "batch": 1,
       "done": 954,
-      "files": [
-        "hoi_thoai_001",
-        "hoi_thoai_002",
-        "dia_danh_001",
-        "huong_dan_chien_dau_001",
-        "nhiem_vu_phu_001",
-        "lua_chon_thong_bao_002",
-        "noi_dung_bo_sung_001"
-      ],
       "repo_file": "translations/dot_01/BAN_DICH_GUI_LAI.jsonl",
       "validated": true
     },
@@ -57,18 +48,18 @@
       "done": 180,
       "repo_file": "translations/dot_06/hoi_thoai_007.jsonl",
       "validated": true,
-      "topic": "Nghêu Bổ Dưỡng; Can Đảm; Mary-Suren; Sáo Clarion; núi Dekarock"
+      "topic": "Hearty Clam; Babanacia; Courage; Suren and Mary; Clarion; Mount Dekarock; Sacred Arrow and Pulse"
     },
     {
       "batch": 7,
       "done": 180,
       "repo_file": "translations/dot_07/hoi_thoai_008.jsonl",
       "validated": true,
-      "topic": "Ichi no Kuni; Đài phun Sữa; cô giáo thiếu Nhân Ái; Roy–Sophia thiếu Tình Yêu",
+      "topic": "Ichi no Kuni and Mary; Babanacia; Queen Cowla; Milk Fountain and cheese; teacher missing Kindness; Roy and Sophia missing Love",
       "review_flags": [
         {
           "source_index": 89,
-          "type": "potential temporary NPC marker",
+          "type": "temporary NPC/internal marker",
           "source": "Recipe Distribution NPC (Temp)"
         }
       ]
@@ -78,14 +69,14 @@
       "done": 180,
       "repo_file": "translations/dot_08/hoi_thoai_009.jsonl",
       "validated": true,
-      "topic": "Roy–Sophia; Confidence, Restraint; Nellory; Sea Naiad; Teeny Bopper evolutions"
+      "topic": "Roy and Sophia reconciliation; Secret Ingredient cheese; Confidence and Restraint donors; researcher Nellory, Sea Naiad and Teeny Bopper evolutions"
     },
     {
       "batch": 9,
       "done": 180,
       "repo_file": "translations/dot_09/hoi_thoai_010.jsonl",
       "validated": true,
-      "topic": "Nellory nghiên cứu Imagen; Imagen kính râm, Moya/Papa Sasquash; kẹo caramen sữa Babanacia; Kiềm Chế; món quà từ chủ nhân cho pháp sư đối đầu Jabou"
+      "topic": "Nellory Imagen research; bat-shaped sunglass Imagen, Moya/Papa Sasquash; Milk Caramel; Restraint and a gift for wizard against Jabou"
     },
     {
       "batch": 10,
@@ -99,30 +90,30 @@
       "done": 180,
       "repo_file": "translations/dot_11/hoi_thoai_012.jsonl",
       "validated": true,
-      "topic": "Alec and Silver Locket; Al-Khemie and synthesis; Travelling Eggs; Bikini swimsuit law"
+      "topic": "Alec/Silver Locket conclusion; cauldron genie Al-Khemie; Peppy Syrup synthesis; Travelling Eggs and Bikini Mayor swimsuit policy"
     },
     {
       "batch": 12,
       "done": 180,
       "repo_file": "translations/dot_12/hoi_thoai_013.jsonl",
       "validated": true,
-      "topic": "Mirant and Soft Caramel; Wanderer missing Restraint; secret sorceress; seaplane pilot missing Confidence; Bikini sailing school",
+      "topic": "Bikini visitors, Mirant Soft Caramel/Speedshoes recipe, Wanderer missing Restraint, secret sorcerer fearing Jabou, seaplane pilot missing Confidence, harsh sailing school",
       "review_flags": [
         {
           "source_index": 38,
-          "note": "Beastly Mask and Beast Mask inconsistent in source"
+          "note": "Beastly Mask vs Beast Mask at line 62; preserve consistent Vietnamese term for now"
         },
         {
           "source_index": 63,
-          "note": "Temporary after-completion dialogue marker"
+          "note": "Temporary/internal after-completion dialogue marker"
         },
         {
           "source_index": 125,
-          "note": "Martin's Missions temporary placeholder label"
+          "note": "Martin's Missions (subject to change): temporary location label"
         },
         {
           "source_index": 146,
-          "note": "Source says Courage once, Confidence elsewhere for same pilot"
+          "note": "Source says Courage but later states Confidence for same pilot; translation preserves per-line source terms, verify against in-game quest"
         }
       ]
     },
@@ -143,7 +134,7 @@
         },
         {
           "source_index": 176,
-          "note": "Source has typo 'input', context indicates 'inlet' (vịnh nhỏ); translation follows context."
+          "note": "Source has typo \"input\", context indicates \"inlet\" (vịnh nhỏ); translation follows context."
         },
         {
           "source_index": 179,
@@ -156,11 +147,11 @@
       "done": 180,
       "repo_file": "translations/dot_14/hoi_thoai_015.jsonl",
       "validated": true,
-      "topic": "Plessie đỏ; tàu Queen Cowla; thư trong chai; Sinbad; truy đuổi kẻ trộm tấm ảnh",
+      "topic": "Plessie; Babanacia babanas; Queen Cowla ship captain Sinbad; message in bottle; photograph robber",
       "review_flags": [
         {
           "source_index": 102,
-          "note": "Source contains Sinbad (?) – needs contextual verification"
+          "note": "Source \"Sinbad (?)\" includes a question mark; preserved as name marker pending ROM context."
         }
       ]
     },
@@ -169,19 +160,19 @@
       "done": 180,
       "repo_file": "translations/dot_15/hoi_thoai_016.jsonl",
       "validated": true,
-      "topic": "Jairo gia nhập; Súng Mở Khóa; Shizuku ngừng chiến đấu; Kiềm Chế ở Bikini; Hubber Blubber",
+      "topic": "Jairo and photo; Hollowed Restraint; Jairo skills and Imagen cage; Shizuku quits fighting; Bikini mayor; veteran sailor Courage",
       "review_flags": [
         {
           "source_index": 62,
-          "note": "Imagen Manhole term Cống Imagen provisional"
+          "note": "Imagen Manhole -> Cống Imagen follows prior glossary but UI wording still provisional."
         },
         {
           "source_index": 141,
-          "note": "Internal label NPC20 Lady Hint"
+          "note": "Internal NPC/debug label, needs ROM UI confirmation (not ordinary spoken dialogue)."
         },
         {
           "source_index": 149,
-          "note": "Japanese internal NPC marker ＮＰＣ２４ 店主_マタタビ"
+          "note": "Internal NPC/debug label, needs ROM UI confirmation (not ordinary spoken dialogue)."
         }
       ]
     },
@@ -190,19 +181,31 @@
       "done": 180,
       "repo_file": "translations/dot_16/hoi_thoai_017.jsonl",
       "validated": true,
-      "topic": "Hải Tặc Phép Thuật; Huy chương Septimus; Boarg và các đạo luật; Robin–Elena; Jairo bí ẩn",
+      "topic": "Hubber Blubber; Magic Pirate Crew treasure and Septimus Medals; Boarg laws; Robin and Elena; Jairo disappears; Mother of Boarg",
       "review_flags": [
         {
+          "source_index": 30,
+          "note": "Treasure/puzzle/historical clue: check exact terms and answer continuity in game."
+        },
+        {
+          "source_index": 35,
+          "note": "Treasure/puzzle/historical clue: check exact terms and answer continuity in game."
+        },
+        {
+          "source_index": 46,
+          "note": "Treasure/puzzle/historical clue: check exact terms and answer continuity in game."
+        },
+        {
           "source_index": 153,
-          "note": "Password riddle about boar rock-paper-scissors: confirm game puzzle matching"
+          "note": "Treasure/puzzle/historical clue: check exact terms and answer continuity in game."
+        },
+        {
+          "source_index": 157,
+          "note": "Treasure/puzzle/historical clue: check exact terms and answer continuity in game."
         },
         {
           "source_index": 162,
-          "note": "Temporary tutorial NPC internal label"
-        },
-        {
-          "source_index": 34,
-          "note": "Septimus Medals, Seek Fortune: confirm names with magic UI"
+          "note": "Treasure/puzzle/historical clue: check exact terms and answer continuity in game."
         }
       ]
     },
@@ -211,19 +214,19 @@
       "done": 180,
       "repo_file": "translations/dot_17/hoi_thoai_018.jsonl",
       "validated": true,
-      "topic": "Thánh Mẫu Boarg và Niềm Tin; Rabbot/Jackrabbot; Mirant nhớ phép Ward; Jade Sphere",
+      "topic": "Mother of Boarg Faith; valve repair with Rabbot and Jackrabbot; Mirant spell Ward; Jade Sphere; Boarg odd citizens",
       "review_flags": [
         {
           "source_index": 55,
-          "note": "Source numeration of 13 children, including quintuplets, should be verified in game"
+          "note": "Count of children, Ward spell, or Jade Sphere item: verify game-specific UI terminology."
         },
         {
           "source_index": 126,
-          "note": "Ward translated Hộ Thể is provisional spell UI term"
+          "note": "Count of children, Ward spell, or Jade Sphere item: verify game-specific UI terminology."
         },
         {
           "source_index": 151,
-          "note": "Jade Sphere translated Cầu Ngọc Bích is provisional item UI term"
+          "note": "Count of children, Ward spell, or Jade Sphere item: verify game-specific UI terminology."
         }
       ]
     },
@@ -232,85 +235,114 @@
       "done": 180,
       "repo_file": "translations/dot_18/hoi_thoai_019.jsonl",
       "validated": true,
-      "topic": "Laura; Jairo; kế hoạch vào cung điện; Nhân Ái"
+      "topic": "Laura and Imperial Law Institute; palace infiltration; Wanderer kindness"
     },
     {
       "batch": 19,
       "done": 180,
       "repo_file": "translations/dot_19/hoi_thoai_020.jsonl",
       "validated": true,
-      "topic": "Luật Boarg; Micah; Kiềm Chế; người thợ bảo trì"
+      "topic": "Boarg laws; soldier restraint; Micah ambition; maintenance engineer"
     },
     {
       "batch": 20,
       "done": 180,
       "repo_file": "translations/dot_20/hoi_thoai_021.jsonl",
       "validated": true,
-      "topic": "Bác sĩ thiếu Tình Yêu; bí mật Hoàng đế"
+      "topic": "engineer confidence; slot machine motor; doctor loses love; sneaking into palace; Micah"
     },
     {
       "batch": 21,
       "done": 180,
       "repo_file": "translations/dot_21/hoi_thoai_022.jsonl",
       "validated": true,
-      "topic": "Micah; chữa Luca; Lư Hương Sinh Mệnh"
+      "topic": "Micah and Luca medicine; underground passage; Caldon trades for Lifecense burner"
     },
     {
       "batch": 22,
       "done": 180,
       "repo_file": "translations/dot_22/hoi_thoai_023.jsonl",
       "validated": true,
-      "topic": "Luca và Micah; Hoàng đế Max/Porcus Maximus; Jairo"
+      "topic": "Luca, Micah, Hoàng đế Boarg; Thu Tim, Trao Tim và bí mật Jairo/Max"
     },
     {
       "batch": 23,
       "done": 180,
       "repo_file": "translations/dot_23/hoi_thoai_024.jsonl",
       "validated": true,
-      "topic": "Thung lũng Ma; Gladion; Viper; làng Jungle; chiến hạm"
+      "topic": "Thung lũng Ma, Gladion, Viper, làng Jungle, phép Dịch Chuyển, chiến hạm Jolly Rogerer"
     },
     {
       "batch": 24,
       "done": 180,
       "repo_file": "translations/dot_24/hoi_thoai_025.jsonl",
       "validated": true,
-      "topic": "Thủy thủ đoàn xương; Ma Thạch; Đá Mặt Trời"
+      "topic": "Đội thợ xương, tàu Jaunty Rogerer, Ma Thạch, Đá Mặt Trời và đoàn tụ gia đình"
     },
     {
       "batch": 25,
       "done": 180,
       "repo_file": "translations/dot_25/hoi_thoai_026.jsonl",
       "validated": true,
-      "topic": "Đào Vàng; Viper; Chổi Lướt Mây; Kuro; Sazara"
+      "topic": "Đào Vàng, Haven, Viper, Chổi Lướt Mây, Kuro và Sazara"
     },
     {
       "batch": 26,
       "done": 180,
       "repo_file": "translations/dot_26/hoi_thoai_027.jsonl",
-      "deferred": 0,
-      "validated": true
+      "validated": true,
+      "deferred": 0
     },
     {
       "batch": 27,
       "done": 180,
       "repo_file": "translations/dot_27/hoi_thoai_028.jsonl",
-      "deferred": 0,
-      "validated": true
+      "validated": true,
+      "deferred": 0
     },
     {
       "batch": 28,
       "done": 180,
       "repo_file": "translations/dot_28/hoi_thoai_029.jsonl",
-      "deferred": 0,
-      "validated": true
+      "validated": true,
+      "deferred": 0
     },
     {
       "batch": 29,
       "done": 173,
       "repo_file": "translations/dot_29/hoi_thoai_030.jsonl",
-      "deferred": 7,
-      "validated": true
+      "validated": true,
+      "deferred": 7
+    },
+    {
+      "batch": 30,
+      "done": 180,
+      "repo_file": "translations/dot_30/hoi_thoai_031.jsonl",
+      "validated": true,
+      "topic": "Casino tickets and Triple Sevens; Flint–Tamara Caraway Chrysanthemum reconciliation"
+    },
+    {
+      "batch": 31,
+      "done": 180,
+      "repo_file": "translations/dot_31/hoi_thoai_032.jsonl",
+      "validated": true,
+      "topic": "Tamara rainbow fireworks; Battle Coliseum; Pandora League and Nicky"
+    },
+    {
+      "batch": 32,
+      "done": 180,
+      "repo_file": "translations/dot_32/hoi_thoai_033.jsonl",
+      "validated": true,
+      "topic": "Pandora League finals, Nicky, Four Sages, Legendary Imagen"
+    },
+    {
+      "batch": 33,
+      "done": 180,
+      "repo_file": "translations/dot_33/hoi_thoai_034.jsonl",
+      "validated": true,
+      "topic": "Pokoro, Hermit, Nicky and Gapollino; Pandora Box; Corpse Lake, Clarion, Marcel"
     }
   ],
-  "qa": "All 29 batches have unique IDs; batches 26-29 checked by original KIEM_TRA_BAN_DICH.py. Seven debug Sample text strings deferred; no ROM/font/gameplay tests."
+  "qa": "ID, JSON, protected-token validation passed using original source-package tool; still pending NDS font/layout, ROM reconstruction and contextual playtest.",
+  "notes": "7 technical Sample text rows from hoi_thoai_030 deferred; 4 older damaged rows in hoi_thoai_003 still deferred."
 }
