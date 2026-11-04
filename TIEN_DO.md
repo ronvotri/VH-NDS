@@ -9,9 +9,10 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 | 03 | `translations/dot_03/hoi_thoai_004.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
 | 04 | `translations/dot_04/hoi_thoai_005.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
 | 05 | `translations/dot_05/hoi_thoai_006.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
-| **Tổng** | | **1.670** | **4 nguồn hoãn** | Chưa nhập ROM |
+| 06 | `translations/dot_06/hoi_thoai_007.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
+| **Tổng** | | **1.850** | **4 nguồn hoãn** | Chưa nhập ROM |
 
-**Mục ưu tiên trong gói nguồn: 17.935. Đã dịch: 1.670 (9,3%). Còn chưa dịch: 16.265.**
+**Mục ưu tiên trong gói nguồn: 17.935. Đã dịch: 1.850 (10,3%). Còn chưa dịch: 16.085.**
 
 ## Phạm vi từng đợt
 
@@ -20,7 +21,7 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 - **Đợt 03:** `hoi_thoai_004` (180), đoạn Babanacia, hội thoại NPC và sự kiện về Kiềm Chế/Niềm Tin.
 - **Đợt 04:** `hoi_thoai_005` (180), NPC, họa sĩ, hôn nhân, ước mơ làm bác sĩ.
 - **Đợt 05:** `hoi_thoai_006` (180), Mirant, chữ Astram trang 124, Nhẫn Qi, Đại sứ Du lịch, tình mẹ và sách ẩm thực.
-- **Đợt 04:** `hoi_thoai_005` (180), nhiệm vụ Can Đảm, họa sĩ Leonardo/Nhiệt Huyết, ca sĩ mất giọng, Nhân Ái, trả tiền thừa và bác sĩ trẻ. Đã qua kiểm tra ID/JSON/mã, chưa duyệt toàn tuyến giọng nhân vật hoặc thử trên ROM.
+- **Đợt 06:** `hoi_thoai_007` (180), nhiệm vụ Nghêu Bổ Dưỡng, người lính mất Can Đảm, Mary–Suren, Sáo Clarion, núi Dekarock và hai phép Thánh Tiễn/Xung Ba.
 
 ### ID nguồn đang hoãn
 
@@ -38,3 +39,5 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 5. Chỉ ghi "đã dịch" cho file thực tế có trên repo và đã kiểm tra, không lấy số liệu từ nháp hoặc lời hứa.
 
 **Chưa kiểm thử:** chất lượng bản dịch theo toàn tuyến truyện; font tiếng Việt; độ rộng ô thoại NDS; nhúng lại kịch bản, sửa offset/nhảy lệnh; chạy trong game thật. Các bước kiểm tra hiện tại chỉ xác minh ID/JSON/mã điều khiển.
+
+**Đợt tiếp theo:** `hoi_thoai_008.jsonl`. Bản gộp sau đợt 6 nên chỉ dùng **thay cho** chứ không nhập cùng lúc với các tệp riêng.
