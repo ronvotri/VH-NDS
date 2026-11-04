@@ -17,6 +17,8 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 - **Đợt 01:** `hoi_thoai_001` (180), `hoi_thoai_002` (180), `dia_danh_001` (30), `huong_dan_chien_dau_001` (139), `nhiem_vu_phu_001` (180), `lua_chon_thong_bao_002` (180), `noi_dung_bo_sung_001` (65).
 - **Đợt 02:** `hoi_thoai_003` (176). Hoãn vị trí 123–126: `D`, `U`, `愈`, `!+f ﾆ`. Không suy đoán thành câu có nghĩa.
 - **Đợt 03:** `hoi_thoai_004` (180), đoạn Babanacia, hội thoại NPC và sự kiện về Kiềm Chế/Niềm Tin.
+- **Đợt 04:** `hoi_thoai_005` (180), NPC, họa sĩ, hôn nhân, ước mơ làm bác sĩ.
+- **Đợt 05:** `hoi_thoai_006` (180), Mirant, chữ Astram trang 124, Nhẫn Qi, Đại sứ Du lịch, tình mẹ và sách ẩm thực.
 - **Đợt 04:** `hoi_thoai_005` (180), nhiệm vụ Can Đảm, họa sĩ Leonardo/Nhiệt Huyết, ca sĩ mất giọng, Nhân Ái, trả tiền thừa và bác sĩ trẻ. Đã qua kiểm tra ID/JSON/mã, chưa duyệt toàn tuyến giọng nhân vật hoặc thử trên ROM.
 
 ### ID nguồn đang hoãn
