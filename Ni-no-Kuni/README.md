@@ -1,9 +1,14 @@
 # Ni no Kuni DS — Bản dịch tiếng Việt
 
-**Tiến độ:** 3.830 / 17.935 mục ưu tiên (~21,36%), qua 17 đợt. Đợt lớn 14–17 đã dịch thêm **720 câu**, thuộc `hoi_thoai_015` đến `hoi_thoai_018`.
+Dự án độc lập trong kho Việt hóa NDS chung; chỉ lưu dữ liệu bản dịch có ID và công cụ QA, không có ROM thương mại.
 
-Bản dịch theo ID từ `Goi_dich_NiNoKuni.zip`; giữ giọng nhân vật, xưng hô và mã điều khiển. Xem `TIEN_DO.md`, `THUAT_NGU.md`, `TIEN_DO.json` và `QA_DOT_14_17.json`.
+**Tiến độ: 5.270 / 17.935 mục ưu tiên (29.38%) qua 25 đợt.**
 
-**Chưa phải ROM đã nhúng tiếng Việt.** Đã kiểm tra ID/JSON/placeholder; chưa kiểm tra font, ô thoại, chạy game. Khi nhập về hệ thống, chỉ dùng bản gộp hoặc bản rời, không dùng cả hai. Bản gộp tích lũy nằm trong ZIP bàn giao và không đẩy lên repo để tránh nhân đôi dữ liệu.
+Đợt 18–21 và 22–25 đã có đủ tệp JSONL trên GitHub; 1.440 câu mới đồng bộ, không còn trạng thái chờ đồng bộ.
 
-**Tiếp theo:** `hoi_thoai_019`.
+- [Tiến độ chi tiết](TIEN_DO.md)
+- [Bảng thuật ngữ/ngôi xưng](THUAT_NGU.md)
+- [Manifest máy đọc](TIEN_DO.json)
+- [QA đợt 22–25](QA_DOT_22_25.json)
+
+Bản gộp tích lũy nằm trong gói ZIP bàn giao, không lưu song song trên GitHub để tránh nhập trùng. Bản dịch **chưa được nhúng ROM hoặc thử hiển thị trên NDS**.
