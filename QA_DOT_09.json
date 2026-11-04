@@ -1,0 +1,12 @@
+{
+  "batch": 9,
+  "source_file": "hoi_thoai_010.jsonl",
+  "new_entries": 180,
+  "cumulative_unique_ids": 2390,
+  "issues": [],
+  "official_validator": "PASS: 180/180, original IDs and protected tokens match",
+  "remaining_priority_entries": 15545,
+  "rom_tested": false,
+  "font_tested": false,
+  "textbox_tested": false
+}
