@@ -1,83 +1,52 @@
-# Tiến độ Việt hóa — Ni no Kuni (Nintendo DS)
+# Ni no Kuni DS — Tiến độ Việt hóa
 
-Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ cập nhật những câu đã thực sự dịch và kiểm tra.
+**Ngày 04/11/2026 · 5.270/17.935 mục ưu tiên (29.38%) · còn 12.665 mục.**
 
-| Đợt | Tệp | Số mục hợp lệ | Vướng mắc | Trạng thái |
-|---|---|---:|---|---|
-| 01 | `translations/dot_01/BAN_DICH_GUI_LAI.jsonl` | 954 | — | Kiểm tra kỹ thuật đạt |
-| 02 | `translations/dot_02/hoi_thoai_003.jsonl` | 176 | 4 nguồn nghi lỗi, hoãn | Kiểm tra kỹ thuật đạt |
-| 03 | `translations/dot_03/hoi_thoai_004.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
-| 04 | `translations/dot_04/hoi_thoai_005.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
-| 05 | `translations/dot_05/hoi_thoai_006.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
-| 06 | `translations/dot_06/hoi_thoai_007.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
-| 07 | `translations/dot_07/hoi_thoai_008.jsonl` | 180 | 1 nhãn NPC nghi nội bộ, cần kiểm tra | Kiểm tra kỹ thuật đạt |
-| 08 | `translations/dot_08/hoi_thoai_009.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
-| 09 | `translations/dot_09/hoi_thoai_010.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
-| 10 | `translations/dot_10/hoi_thoai_011.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
-| 11 | `translations/dot_11/hoi_thoai_012.jsonl` | 180 | 3 thuật ngữ UI cần kiểm tra | Kiểm tra kỹ thuật đạt |
-| 12 | `translations/dot_12/hoi_thoai_013.jsonl` | 180 | 4 chỗ nguồn cần rà | Kiểm tra kỹ thuật đạt |
-| 13 | `translations/dot_13/hoi_thoai_014.jsonl` | 180 | 4 chỗ cần rà nguồn/ngữ cảnh | Kiểm tra kỹ thuật đạt |
-| **Tổng** | | **3.110** | **4 nguồn hoãn và các mục cần rà** | Chưa nhập ROM |
+## Đã dịch theo đợt
 
-**Mục ưu tiên trong gói nguồn: 17.935. Đã dịch: 3.110 (17,3%). Còn chưa dịch: 14.825.**
+| Đợt | Đường dẫn trong thư mục Ni-no-Kuni | Mục đã dịch |
+|---:|---|---:|
+| 01 | `translations/dot_01/BAN_DICH_GUI_LAI.jsonl` | 954 |
+| 02 | `translations/dot_02/hoi_thoai_003.jsonl` | 176 |
+| 03 | `translations/dot_03/hoi_thoai_004.jsonl` | 180 |
+| 04 | `translations/dot_04/hoi_thoai_005.jsonl` | 180 |
+| 05 | `translations/dot_05/hoi_thoai_006.jsonl` | 180 |
+| 06 | `translations/dot_06/hoi_thoai_007.jsonl` | 180 |
+| 07 | `translations/dot_07/hoi_thoai_008.jsonl` | 180 |
+| 08 | `translations/dot_08/hoi_thoai_009.jsonl` | 180 |
+| 09 | `translations/dot_09/hoi_thoai_010.jsonl` | 180 |
+| 10 | `translations/dot_10/hoi_thoai_011.jsonl` | 180 |
+| 11 | `translations/dot_11/hoi_thoai_012.jsonl` | 180 |
+| 12 | `translations/dot_12/hoi_thoai_013.jsonl` | 180 |
+| 13 | `translations/dot_13/hoi_thoai_014.jsonl` | 180 |
+| 14 | `translations/dot_14/hoi_thoai_015.jsonl` | 180 |
+| 15 | `translations/dot_15/hoi_thoai_016.jsonl` | 180 |
+| 16 | `translations/dot_16/hoi_thoai_017.jsonl` | 180 |
+| 17 | `translations/dot_17/hoi_thoai_018.jsonl` | 180 |
+| 18 | `translations/dot_18/hoi_thoai_019.jsonl` | 180 |
+| 19 | `translations/dot_19/hoi_thoai_020.jsonl` | 180 |
+| 20 | `translations/dot_20/hoi_thoai_021.jsonl` | 180 |
+| 21 | `translations/dot_21/hoi_thoai_022.jsonl` | 180 |
+| 22 | `translations/dot_22/hoi_thoai_023.jsonl` | 180 |
+| 23 | `translations/dot_23/hoi_thoai_024.jsonl` | 180 |
+| 24 | `translations/dot_24/hoi_thoai_025.jsonl` | 180 |
+| 25 | `translations/dot_25/hoi_thoai_026.jsonl` | 180 |
+| **Tổng** | | **5.270** |
 
-## Phạm vi từng đợt
+Đợt 18–21 đồng bộ bốn tệp `hoi_thoai_019–022` (720 câu). Đợt 22–25 đồng bộ bốn tệp `hoi_thoai_023–026` (720 câu). Tổng cộng có 25 đợt; 4 chuỗi nghi lỗi của đợt 2 vẫn hoãn.
 
-- **Đợt 01:** `hoi_thoai_001` (180), `hoi_thoai_002` (180), `dia_danh_001` (30), `huong_dan_chien_dau_001` (139), `nhiem_vu_phu_001` (180), `lua_chon_thong_bao_002` (180), `noi_dung_bo_sung_001` (65).
-- **Đợt 02:** `hoi_thoai_003` (176). Hoãn vị trí 123–126: `D`, `U`, `愈`, `!+f ﾆ`. Không suy đoán thành câu có nghĩa.
-- **Đợt 03:** `hoi_thoai_004` (180), đoạn Babanacia, hội thoại NPC và sự kiện về Kiềm Chế/Niềm Tin.
-- **Đợt 04:** `hoi_thoai_005` (180), NPC, họa sĩ, hôn nhân, ước mơ làm bác sĩ.
-- **Đợt 05:** `hoi_thoai_006` (180), Mirant, chữ Astram trang 124, Nhẫn Qi, Đại sứ Du lịch, tình mẹ và sách ẩm thực.
-- **Đợt 06:** `hoi_thoai_007` (180), nhiệm vụ Nghêu Bổ Dưỡng, người lính mất Can Đảm, Mary–Suren, Sáo Clarion, núi Dekarock và hai phép Thánh Tiễn/Xung Ba.
-- **Đợt 07:** `hoi_thoai_008` (180), Ichi no Kuni, Nữ hoàng Cowla, Đài phun Sữa và phép Gia Vị Bí Mật, cô giáo thiếu Nhân Ái, Roy–Sophia thiếu Tình Yêu. Dùng tên **Sophia** thống nhất dù nguồn có một chỗ ghi Sofia.
-- **Đợt 08:** `hoi_thoai_009` (180), Roy–Sophia đoàn tụ; Kiềm Chế và Tự Tin; ông Nellory, Sea Naiad, hai nhánh tiến hóa Teeny Bopper. Đã kiểm tra bằng công cụ nguồn `KIEM_TRA_BAN_DICH.py`.
+## Nội dung đợt 22–25
 
-- **Đợt 09:** `hoi_thoai_010` (180), Nellory nghiên cứu Imagen và Moya/Papa Sasquash; kẹo caramen sữa Babanacia; Kiềm Chế; người gửi quà cho pháp sư chống Jabou. Đã kiểm tra bằng `KIEM_TRA_BAN_DICH.py`.
+- **Đợt 22**: Luca, Micah, bí mật của Hoàng đế Porcus Maximus và Jairo.
+- **Đợt 23**: Gladion, Thung lũng Ma, Viper; đầu phần hang Coconanda.
+- **Đợt 24**: đội thủy thủ xương, chiến hạm nghìn năm và Ma Thạch.
+- **Đợt 25**: Đào Vàng, sào huyệt Viper, Kuro và Chổi Lướt Mây.
 
-- **Đợt 10:** `hoi_thoai_011` (180), Nữ hoàng Cowla và ông Kuran, Mảnh Tim Kiềm Chế, Imagen mắc chứng Nhớ Nhung, Alec và quái biển Blubber Bubbler. Đã kiểm tra bằng `KIEM_TRA_BAN_DICH.py`.
+## Điểm cần rà khi thử game
 
-- **Đợt 11:** `hoi_thoai_012` (180), trả Mề Đay Bạc, thần nồi Al-Khemie, ghép Si-rô Vui Vẻ, Trứng Du Hành và luật đồ bơi tại Bikini. Đã chạy công cụ kiểm tra nguồn `KIEM_TRA_BAN_DICH.py`.
+- Bản nguồn dùng cả tên tàu **Jolly Rogerer** và **Jaunty Rogerer**, tạm giữ theo đúng từng câu gốc.
+- **Teleport** hiện dịch là *Dịch Chuyển*, **Travel** là *Du Hành*; đối chiếu danh sách phép thực tế khi nhúng.
+- **Jabou** và **Shadaar** giữ tên theo nguồn, chưa tự gộp.
+- Các nhãn nội bộ và lỗi nguồn đã liệt kê trong các báo cáo QA cũ chưa được coi là đã giải quyết.
 
-- **Đợt 12:** `hoi_thoai_013` (180), Mirant nhớ Kẹo Caramen Mềm; người Lữ Khách mất Kiềm Chế; nữ pháp sư giấu thân phận trước Jabou; người anh lái thủy phi cơ mất Tự Tin, trường thủy thủ Bikini. Đã chạy `KIEM_TRA_BAN_DICH.py` và rà trùng ID.
-
-### ID nguồn đang hoãn
-
-- `HOI_dd913e6676a5f6` — `D`
-- `HOI_eef7e40c981caa` — `U`
-- `HOI_b715c8861e9918` — `愈`
-- `HOI_7ecf274c3ca2db` — `!+f ﾆ`
-
-### Mục cần xác minh trước khi nhúng
-
-- `HOI_d66c6b0d4ef33b`: `Recipe Distribution NPC (Temp)` có vẻ là nhãn phát triển, tạm dịch `NPC phát công thức (tạm)` nhưng chưa xác minh có hiển thị cho người chơi.
-
-- `hoi_thoai_011`: nguồn có cả `Alex` và `Alec`; bản dịch thống nhất **Alec** theo tên đã dịch trong các nhiệm vụ. `Take Heart` dùng **Thu Tim** đối ứng với **Trao Tim**. Giữ nguyên tên **Blubber Bubbler**.
-
-- `hoi_thoai_012`: thần nồi **Al-Khemie** tự xưng **thần**, gọi Oliver là **ngài/chủ nhân**. Dùng **Nồi Ghép**, **Ghép theo Công thức**, **Trứng Du Hành**. **Cống Imagen** là bản dịch tạm của `Imagen Manhole`, cần đối chiếu tên giao diện trong ROM.
-
-- `hoi_thoai_013`: #38 gọi `Beastly Mask` nhưng #62 lại gọi `Beast Mask`. Tạm dịch chung **Mặt Nạ Quái Thú**, cần kiểm tra vật phẩm.
-- #63 là `(Temporary) Conversation After Completion` (có vẻ nhãn nội bộ); #125 là `Martin's Missions (subject to change)` (nhãn tạm).
-- #146 nói người phi công mất **Courage** nhưng các câu tiếp theo xác nhận **Confidence**. Bản dịch hiện giữ đúng từ nguồn từng câu (Can Đảm/Tự Tin), cần xác minh trong nhiệm vụ.
-
-- `hoi_thoai_014`: #48 `ＮＰＣ９ ツバクロ` là nhãn NPC Nhật, tạm phiên **NPC 9 – Tsubakuro**; #49 `(Dummy)` là nhãn tạm; #177 nguồn viết `input` nhưng ngữ cảnh là **inlet** (vịnh nhỏ); #180 đang là câu dang dở, cần đọc nối đợt 14.
-
-## Luật để không sót, trùng hoặc lệch giọng
-
-1. Mỗi `id` phải duy nhất trên toàn bộ các tệp dịch; **không nhập cùng lúc bản gộp và tệp riêng**.
-2. Bản dịch phải giữ nguyên các mã trong nguồn như `{3:4}`, `{1:2}`, `<CTRL:01>`, `%s` và `[1000]`.
-3. Tên riêng giữ theo bản DS. Oliver nói chân thành, tớ/cậu với bạn bè, con/mẹ và cháu/cô/chú với người lớn. Shizuku lanh lẹ, lém lỉnh nhưng không thô tục. NPC có ngữ cảnh riêng.
-4. Xem `THUAT_NGU.md` trước khi dịch batch tiếp theo.
-5. Chỉ ghi "đã dịch" cho file thực tế có trên repo và đã kiểm tra, không lấy số liệu từ nháp hoặc lời hứa.
-
-**Chưa kiểm thử:** chất lượng bản dịch theo toàn tuyến truyện; font tiếng Việt; độ rộng ô thoại NDS; nhúng lại kịch bản, sửa offset/nhảy lệnh; chạy trong game thật. Các bước kiểm tra hiện tại chỉ xác minh ID/JSON/mã điều khiển. Đợt 13: 180/180 mục hợp lệ; tổng tích lũy 3.110 ID duy nhất.
-
-**Đợt tiếp theo:** `hoi_thoai_015.jsonl`. Bản gộp sau đợt 13 nằm trong ZIP bàn giao, chỉ dùng **thay cho** chứ không nhập cùng lúc với các tệp riêng.
-
-## Bổ sung đợt lớn 14–17
-
-- **720 câu mới** trên bốn tệp `hoi_thoai_015–018`, gấp bốn lần một đợt cũ. Đã kiểm tra bằng `KIEM_TRA_BAN_DICH.py` từ gói nguồn: 720 mục hợp lệ, 0 lỗi ID/JSON/placeholder.
-- `hoi_thoai_015`: `Sinbad (?)` ở dòng 102 cần xác minh là chú thích hay nhãn hiển thị.
-- `hoi_thoai_016`: `NPC20 Lady Hint` và `ＮＰＣ２４ 店主_マタタビ` là nhãn nội bộ; `Imagen Manhole` tạm dịch **Cống Imagen** theo thuật ngữ trước.
-- `hoi_thoai_017`: kiểm tra câu đố mật khẩu Boarg, Huy chương Septimus và phép **Tầm Bảo** khi nhúng game.
-- `hoi_thoai_018`: kiểm tra UI phép **Hộ Thể (Ward)** và vật phẩm **Cầu Ngọc Bích (Jade Sphere)**.
-- Chưa nhúng ROM, chưa xác minh font tiếng Việt hoặc độ rộng ô thoại. **Tệp kế tiếp: `hoi_thoai_019`.**
+**Đã kiểm tra:** JSONL, định danh ID, ID duy nhất toàn bộ 25 đợt, các mã điều khiển/placeholder giữ nguyên. **Chưa kiểm tra:** font dấu Việt, độ rộng ô thoại, giới hạn byte, chèn dữ liệu vào ROM và chơi thử trên NDS/giả lập. Không có ROM trong repo. Chỉ nhập bản gộp *hoặc* tệp riêng, không nhập cả hai.
