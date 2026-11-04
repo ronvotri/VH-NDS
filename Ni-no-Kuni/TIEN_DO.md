@@ -31,6 +31,10 @@
 | 23 | `translations/dot_23/hoi_thoai_024.jsonl` | 180 |
 | 24 | `translations/dot_24/hoi_thoai_025.jsonl` | 180 |
 | 25 | `translations/dot_25/hoi_thoai_026.jsonl` | 180 |
+| 26 | `translations/dot_26/hoi_thoai_027.jsonl` | 180 |
+| 27 | `translations/dot_27/hoi_thoai_028.jsonl` | 180 |
+| 28 | `translations/dot_28/hoi_thoai_029.jsonl` | 180 |
+| 29 | `translations/dot_29/hoi_thoai_030.jsonl` | 173 |
 | **Tổng** | | **5.270** |
 
 Đợt 18–21 đồng bộ bốn tệp `hoi_thoai_019–022` (720 câu). Đợt 22–25 đồng bộ bốn tệp `hoi_thoai_023–026` (720 câu). Tổng cộng có 25 đợt; 4 chuỗi nghi lỗi của đợt 2 vẫn hoãn.
@@ -50,3 +54,13 @@
 - Các nhãn nội bộ và lỗi nguồn đã liệt kê trong các báo cáo QA cũ chưa được coi là đã giải quyết.
 
 **Đã kiểm tra:** JSONL, định danh ID, ID duy nhất toàn bộ 25 đợt, các mã điều khiển/placeholder giữ nguyên. **Chưa kiểm tra:** font dấu Việt, độ rộng ô thoại, giới hạn byte, chèn dữ liệu vào ROM và chơi thử trên NDS/giả lập. Không có ROM trong repo. Chỉ nhập bản gộp *hoặc* tệp riêng, không nhập cả hai.
+
+## Đợt mới 26–29 (713 câu)
+
+- 26: Viper, Haven, Del Mokahl; 180 câu.
+- 27: Ảo thuật gia, Mảnh Tim và các nhân vật trong sòng bạc; 180 câu.
+- 28: Mirant, Astram, Mary và Tamara; 180 câu.
+- 29: Mary – Jairo, casino, vé VIP; 173 câu.
+- **7 nhãn `Sample text` ở `hoi_thoai_030` chưa dịch:** vị trí 75, 76, 80, 82, 95, 96, 101. Không tính vào tiến độ.
+- Bản dịch tay 2024 được tra cứu trước, chỉ các câu đồng nhất mới dùng làm tham khảo.
+- QA kỹ thuật đạt, chưa nhúng ROM hoặc kiểm tra font/ô thoại NDS. Xem `QA_DOT_26_29.json`.
