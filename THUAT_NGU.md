@@ -152,3 +152,25 @@ Suren nói **ta/cháu** với Oliver, **cha/con** với Mary; Oliver nói **chá
 - Các cảnh Nữ hoàng chỉ ăn uống là hài tình huống, giữ phép lịch sự khi nhân vật nói với cận thần.
 - Khi nói về chuyện đoàn tụ gia đình của Alec, giữ giọng nghiêm túc; Shizuku chỉ chọc vui chuyện ông gọi Mề Đay Bạc là “người thương”.
 - Tên `Blubber Bubbler` giữ nguyên vì đã xuất hiện trong nhiệm vụ ở đợt 1.
+
+## Bổ sung sau đợt 11
+
+| Nguồn | Cách dùng |
+|---|---|
+| Al-Khemie | Al-Khemie (giữ tên thần nồi) |
+| genie of the Synthesis Cauldron | thần nồi; tự xưng **thần**, gọi Oliver **ngài/chủ nhân** |
+| Synthesis Cauldron | Nồi Ghép |
+| Synthesize with Recipe | Ghép theo Công thức (cần đối chiếu nhãn UI) |
+| Recipe | Công thức |
+| Travelling Eggs | Trứng Du Hành (cần đối chiếu màn trao đổi) |
+| Imagen Manhole | Cống Imagen (**tạm**, cần kiểm tra tên tính năng) |
+| Carrying Cage | Lồng Mang Imagen (theo thuật ngữ trước, cần kiểm tra UI) |
+| Peppy Syrup | Si-rô Vui Vẻ |
+| Bikini Bay | vịnh Bikini |
+| Bikini (city) | Bikini |
+| mayor of Bikini | Thị trưởng Bikini / ngài Thị trưởng |
+| Eisberg | Eisberg (giữ tên bản DS) |
+
+- **Al-Khemie:** nói trịnh trọng, hơi cổ nhưng có duyên; phân biệt với Shizuku nói gần gũi, tinh quái.
+- **Bikini:** luật mặc đồ bơi là hài tình huống, nhưng thị trưởng vẫn chân thành và tự hào.
+- **Alec:** khi nhận lại kỷ vật của vợ và ảnh Elsa, dịch ấm áp, không pha trò.
