@@ -1,0 +1,954 @@
+{"id":"DIA_18fc0ba9168858","translation":"Nachelnacht"}
+{"id":"DIA_1bab00f8e1fde8","translation":"Hang Coconanda"}
+{"id":"DIA_25e0064222ff32","translation":"Vương quốc Catnap"}
+{"id":"DIA_28fe6cb9cb475a","translation":"Lâu đài Arcano"}
+{"id":"DIA_2a93272f273985","translation":"Thác Thì Thầm"}
+{"id":"DIA_31b1ca2c136c49","translation":"Núi Dekarock 1"}
+{"id":"DIA_32e75de77ff28c","translation":"Sào huyệt 2"}
+{"id":"DIA_354b58224edbff","translation":"Tàn tích Nachelnacht"}
+{"id":"DIA_42b686f07c6e6d","translation":"Địa đạo Nachelnacht"}
+{"id":"DIA_56e6fd0dd2fa6b","translation":"Rừng Phương Bắc"}
+{"id":"DIA_5bfe502583eeed","translation":"Coconanda 1"}
+{"id":"DIA_64ad3f5a9a5201","translation":"Núi Dekarock 2"}
+{"id":"DIA_65ac5abcdb188b","translation":"Lâu đài Arcano 1"}
+{"id":"DIA_67dc0c9d62d472","translation":"Hang Băng Giá"}
+{"id":"DIA_6a874fa79cb9fe","translation":"Hang Băng Giá 1"}
+{"id":"DIA_7572cb7dd2f2b4","translation":"Thung lũng Ma"}
+{"id":"DIA_7df381f000e932","translation":"Đền Thử Thách"}
+{"id":"DIA_8fad18930c1ee6","translation":"Coconanda 2"}
+{"id":"DIA_b37437949a3621","translation":"Sào huyệt 1"}
+{"id":"DIA_bb8afb57b866bc","translation":"Rừng Morel"}
+{"id":"DIA_c1c31a2ebca9ce","translation":"Hang Rồng"}
+{"id":"DIA_c3cf35431ce91f","translation":"Cống ngầm Catnap"}
+{"id":"DIA_c7beccc2bef55c","translation":"Núi Dekarock"}
+{"id":"DIA_cb271c0a4b93b4","translation":"Thung lũng Ma 1"}
+{"id":"DIA_ce77b5c37d59d3","translation":"Hang Băng Giá 2"}
+{"id":"DIA_e25ac5593ee195","translation":"Sào huyệt Hải tặc Trời"}
+{"id":"DIA_e5900d40994c2e","translation":"Hang Hải tặc Trời"}
+{"id":"DIA_ee2acc7d4e61b7","translation":"Lâu đài Arcano 2"}
+{"id":"DIA_f0684ad78750bd","translation":"Thung lũng Ma 2"}
+{"id":"DIA_ff7779ef284019","translation":"Hồ Tử Thi"}
+{"id":"HOI_01781439805b0a","translation":"Hay là dùng nút Đội để cho Mite nghỉ trận này nhỉ?"}
+{"id":"HOI_029b3a2f8c3b5f","translation":"Khi cậu tìm Mảnh Tim cho người khác, chiếc Mề Đay sẽ phát sáng lấp lánh nếu ở gần một mảnh."}
+{"id":"HOI_030c09422fb234","translation":"Hoặc dùng phím điều hướng hình dấu cộng cũng được."}
+{"id":"HOI_0426e5a8aaa0ca","translation":"Nếu đặt Thứ tự Tấn công thành Giữ, đội hình hiện tại sẽ được ghi nhớ cho trận tiếp theo."}
+{"id":"HOI_0429be04a6e9b1","translation":"Chơi sai bài thì nó hết hứng ngay, quay sang tấn công cậu đấy. Nhớ quan sát phản ứng nhé."}
+{"id":"HOI_04b62203337bde","translation":"Gặp Hố Cất Imagen, cậu có thể gửi Imagen vào nghỉ ngơi. Lúc đó menu Hố Cất sẽ hiện ra."}
+{"id":"HOI_05347ba479c469","translation":"Trong hầm ngục, ngoài Bia Dẫn Đường thì chẳng còn chỗ nào lưu được đâu."}
+{"id":"HOI_0650b0edcfbe49","translation":"Đỡ đòn cho đồng đội, đánh trúng điểm yếu… Còn khối cách khác để kiếm điểm nữa cơ!"}
+{"id":"HOI_06534cd15333ae","translation":"Muốn Gắn Vật Phẩm cho Imagen, vật phẩm phải có màu khớp với Ô Gắn."}
+{"id":"HOI_0663787679d00d","translation":"Giờ nói về cách sửa khi lỡ vẽ rune sai nhé."}
+{"id":"HOI_06e6549b98fcc0","translation":"Thấy không? Khi quái vật động lòng, hình trái tim sẽ xuất hiện trên đầu chúng."}
+{"id":"HOI_07101a2dcfac74","translation":"Vậy là xong phần Lên Cấp!"}
+{"id":"HOI_079efcd5f4f4d0","translation":"Muốn biết thêm về Tiến hóa Imagen, hãy hỏi Đại Hiền Giả Pokoro."}
+{"id":"HOI_07d6d95c4c815b","translation":"Muốn xem kỹ các kỹ năng của nhân vật, hãy vào menu và chọn “Kính Soi Chỉ Số”."}
+{"id":"HOI_09a0f5454f8164","translation":"Giả sử đang khám phá hăng say, quay lại lại quên béng mình cần làm gì thì sao?"}
+{"id":"HOI_09abae1ce01b2f","translation":"Tiến hóa có thể đổi ngoại hình Imagen, màu Ô Gắn và cả Tương thích Nguyên tố của nó."}
+{"id":"HOI_0a2c784b39e0af","translation":"Nhìn là hiểu ngay thôi. Trận sau cứ thử từng món là biết!"}
+{"id":"HOI_0b1800c0bba50f","translation":"Lồng Chăm Sóc là nơi cậu chăm lo cho những Imagen đồng hành trong chuyến phiêu lưu."}
+{"id":"HOI_0f23b9bb0b4e02","translation":"Giờ nói về cách tận dụng {3:4}Thuộc tính Nguyên tố{1:2} của đòn đánh nhé."}
+{"id":"HOI_0f3e910f73d8b6","translation":"Gặp trận dễ, cứ để đồng đội lo phần nặng nhọc. Thi thoảng nhàn một chút cũng hay!"}
+{"id":"HOI_0fbec0c7d3e885","translation":"Muốn nhớ lại, hãy tìm rune tương ứng trong Sách Pháp Thuật rồi vẽ lại trong mục Phép thuật."}
+{"id":"HOI_128a8a0f6139d1","translation":"Vậy là xong phần Bách khoa Imagen!"}
+{"id":"HOI_139ae8d88516ab","translation":"Giờ nói về {3:4}Dò Mảnh Tim bằng Mề Đay{1:2} nhé!"}
+{"id":"HOI_13fe3850c14d64","translation":"Mỗi loài quái thích một khúc ca khác nhau. Cứ thử cả ba để xem chúng mê bài nào!"}
+{"id":"HOI_147efc24012b62","translation":"Vậy là xong phần Lưu game!"}
+{"id":"HOI_14806c4455466e","translation":"Đấy, đúng rồi! Đó gọi là đội hình hàng trước."}
+{"id":"HOI_14b385f50c1c45","translation":"Hàng trước tăng Tấn công nhưng giảm Phòng thủ. Họ cũng che chắn cho người phía sau. Ai trâu bò thì cho lên đầu!"}
+{"id":"HOI_1882f077c0d729","translation":"Cậu có thể xem vị trí trên Bản đồ Thế giới và các loại rương báu ở đó."}
+{"id":"HOI_19080077916611","translation":"Danh sách này chứa thông tin về những địa điểm cậu đã khám phá."}
+{"id":"HOI_195a8f44e6c330","translation":"Nhưng mỗi loại Mảnh Tim chỉ giữ được một mảnh thôi."}
+{"id":"HOI_1983612022cb5c","translation":"Trên bản đồ nhỏ ở màn hình trên, chấm của người mang mảnh ấy cũng nhấp nháy! Đấy là Mề Đay đang dò đúng mục tiêu."}
+{"id":"HOI_19d61711f65dc9","translation":"Tại sao ư? Chuyện người lớn cả, đừng hỏi khó tớ nhé!"}
+{"id":"HOI_1a1165b6c7f25d","translation":"Nhờ dấu chỉ đường, cậu cứ thoải mái khám phá mà chẳng sợ lạc mất tiêu."}
+{"id":"HOI_1b6c5904854119","translation":"Giờ nói về Hố Cất Imagen nhé!"}
+{"id":"HOI_1c05d7d1139868","translation":"Vậy là xong phần nút Đội!"}
+{"id":"HOI_1c21b9440e7426","translation":"Muốn điều khiển Imagen đánh cho ra trò, cậu phải biết tận dụng {3:4}Đội hình{1:2}."}
+{"id":"HOI_1c7863055dd9f6","translation":"Theo thời gian, Imagen sẽ có thêm nhiều loại Ô Gắn. Mục Gắn Vật Phẩm nằm trong menu Trang bị."}
+{"id":"HOI_1ce8e493bb3e3d","translation":"Giờ nói về những thứ có thể đập vỡ ngoài kia nhé!"}
+{"id":"HOI_1cf89e59723e88","translation":"May là {3:4}đòn Phép thuật{1:2} và {3:4}đòn Đặc biệt{1:2} của người đứng sau không bị ảnh hưởng."}
+{"id":"HOI_1d47ca877c88d4","translation":"Hình rune đúng đang hiện trên màn hình phía trên."}
+{"id":"HOI_1df7d2340af3af","translation":"Vậy là xong phần điểm Nice!"}
+{"id":"HOI_1f3f4a9484e767","translation":"Đến vùng đất mới phải cảnh giác nhé. Ai biết có thứ gì đang chờ mình!"}
+{"id":"HOI_1fa3c7b727a6c4","translation":"Bình tĩnh, nhìn thật kỹ màn hình trên rồi hãy vẽ nhé."}
+{"id":"HOI_202f054b4f9ba0","translation":"Giờ nói về những món gọi là {3:4}Ngọc Kỹ Năng{1:2}!"}
+{"id":"HOI_20c1115799b43a","translation":"Vậy là xong phần các viên Bi!"}
+{"id":"HOI_22fab104b3308a","translation":"Có vậy thôi mà cũng trượt à? Làm lại nào!"}
+{"id":"HOI_2386f8d6bd90d2","translation":"Bản đồ Thế giới hiện trên màn hình trên, thường có {3:4}dấu chỉ đường{1:2} màu đỏ."}
+{"id":"HOI_23955d27095ffc","translation":"Giờ nói về {3:4}Tự động Tấn công{1:2} nhé."}
+{"id":"HOI_23a90daad7f824","translation":"Trước khi chơi bản trải nghiệm Ni no Kuni, có vài điều tớ muốn kể. Nghe một chút được chứ?"}
+{"id":"HOI_245bdd146c9b11","translation":"Vừa thấy không? Có đòn đánh theo một cột dọc. Người đứng sau sẽ được {3:4}che chắn{1:2} đấy!"}
+{"id":"HOI_24e3792cd906ff","translation":"Vậy là xong phần Giọt Hạnh Phúc!"}
+{"id":"HOI_25d99128d0b68c","translation":"Cậu còn thấy {3:4}Cấp Trứng{1:2} của họ. Mỗi lần Trứng được trao đổi, cấp lại tăng lên."}
+{"id":"HOI_267fb5394d2b55","translation":"Trên màn hình tiêu đề có mục Tải về, nhưng với bản fan dịch này, cậu không cần dùng nó đâu."}
+{"id":"HOI_275ce322cf9d0c","translation":"Hãy nói chuyện với mọi người và xem bảng nhiệm vụ của Martin để không bỏ sót Dấu Ấn Anh Hùng!"}
+{"id":"HOI_29e894ee578bac","translation":"Nguyên tố cuối cùng là {3:4}Sét{1:2}. Nó không mạnh vượt trội hay dễ chí mạng, nhưng…"}
+{"id":"HOI_2ad72bd4604b91","translation":"Trong Cài đặt, cậu có thể chỉnh tốc độ hiện chữ, âm lượng hiệu ứng và nhạc nền."}
+{"id":"HOI_2b1db47d2fc151","translation":"Đúng rồi, khá lắm! Giờ chọn kẻ địch để tấn công đi."}
+{"id":"HOI_2ba9fc0b0219a8","translation":"Có bẫy khiến cậu quên phép, nên nếu giẫm trúng bẫy thì nhớ kiểm tra ngay để học lại nhé."}
+{"id":"HOI_2bb66c3c09c36b","translation":"Lúc ấy, rút lui cũng chẳng sao. Gục trong trận thì còn ai cứu thế giới nữa!"}
+{"id":"HOI_2bc0663c20d894","translation":"Điểm kinh nghiệm thường viết tắt là “XP”."}
+{"id":"HOI_2bd7258d2ad6dc","translation":"Tích đủ 10 dấu ấn sẽ thành một thẻ đầy. Cậu có thể đổi thẻ lấy Giấy phép Anh Hùng!"}
+{"id":"HOI_2cb0f192b053b9","translation":"Bấm nút Đội hình để đổi vị trí các thành viên trong đội."}
+{"id":"HOI_2cd39c71a35d29","translation":"Vậy là xong phần Tấn công Nguyên tố!"}
+{"id":"HOI_2d50d4117e68fe","translation":"Tích đủ điểm Nice, lệnh sẽ phát sáng. Khi ấy cậu có thể tung chiêu Kết Liễu cực mạnh!"}
+{"id":"HOI_2d67ea803c8f1b","translation":"Khi lưu, cậu sẽ thấy thời gian chơi, vị trí hiện tại và mục tiêu đang làm."}
+{"id":"HOI_2d7079a6323e40","translation":"Biết dùng đúng nguyên tố thì những trận khó cũng nhẹ nhàng hơn nhiều!"}
+{"id":"HOI_2ddecd5c7f3fb3","translation":"Giờ thử nói về cách dùng {3:4}Phép thuật{1:2} nào."}
+{"id":"HOI_2e1444d64dfb48","translation":"Ưng ý đội hình rồi thì chạm biểu tượng OK nhé."}
+{"id":"HOI_2e24cc7b4aebc4","translation":"Viên Bi giúp Imagen có thêm một Ô Gắn mang màu của chính viên Bi đó."}
+{"id":"HOI_30fd8fa8c447c6","translation":"Có rất nhiều loài Imagen để kết bạn, nên cách bố trí đội hình cũng đa dạng lắm."}
+{"id":"HOI_31577505109bd5","translation":"Đến gần người muốn nói chuyện, cậu sẽ thấy {3:4}biểu tượng hội thoại{1:2}."}
+{"id":"HOI_32b77bb4206caa","translation":"Vậy là xong phần Bia Dẫn Đường!"}
+{"id":"HOI_35cce79efd1e9c","translation":"Vậy là xong phần chiến đấu với pháp sư khác!"}
+{"id":"HOI_35f35751a124ea","translation":"Thế là bọn tớ quyết định đi tìm báu vật trước. Tìm được rồi, chắc nhà vua sẽ chịu nghe thôi!"}
+{"id":"HOI_375dfea7705dd4","translation":"Dùng bút cảm ứng đổi Mite lấy một Imagen khác mà cậu đã kết bạn."}
+{"id":"HOI_380e3a21efbdf9","translation":"Danh sách còn hiển thị mức độ khám phá từng hầm ngục, giúp cậu biết nơi nào cần quay lại."}
+{"id":"HOI_382344622af301","translation":"Menu Hố Cất cho phép cậu đấu với những pháp sư ở gần. Cùng xem thử nhé!"}
+{"id":"HOI_38c6c437ec05d0","translation":"Để vượt qua nỗi đau ấy và mang hòa bình trở lại Ni no Kuni, cậu nhóc đã từ thế giới thực đến đây."}
+{"id":"HOI_395cbad9041f16","translation":"Vậy là xong phần phép thuật bị quên!"}
+{"id":"HOI_3978b0cffcf8ed","translation":"Giờ nói về {3:4}Kính Soi Chỉ Số{1:2}."}
+{"id":"HOI_3984468df52425","translation":"Cậu còn có thể chỉ hiện nhiệm vụ đã hoàn thành hoặc chưa hoàn thành nữa."}
+{"id":"HOI_39a93053bf9c9a","translation":"Khi Imagen bắt đầu thích cậu, những trái tim nhỏ sẽ hiện trên đầu nó. Đến lúc Mary trổ tài rồi!"}
+{"id":"HOI_3ca38e5bac9188","translation":"Đang đau đầu chọn vị trí à? Đổi đội hình bao nhiêu lần cũng được, khỏi căng thẳng!"}
+{"id":"HOI_3d0ac971d5ace4","translation":"Ngược lại, lẻn ra sau Imagen trước thì cậu sẽ được ra đòn phủ đầu!"}
+{"id":"HOI_3d0e1267fe1fe0","translation":"Bình, hộp, thùng gỗ đôi khi chứa đồ hay ho; đôi khi thì… trống trơn!"}
+{"id":"HOI_3d86a9d700413d","translation":"Vậy là xong phần Ngọc Kỹ Năng!"}
+{"id":"HOI_3e7a6f093f4846","translation":"Mỗi Imagen chỉ gắn được một số loại vật phẩm, tùy màu {3:4}Ô Gắn{1:2} mà nó có."}
+{"id":"HOI_3f3dbbfd1e90ee","translation":"Giờ nói về {3:4}Trang bị{1:2} của Oliver và các bạn nhé!"}
+{"id":"HOI_3f9675e6c51cbe","translation":"Biết điểm yếu của kẻ địch thì cứ nhắm vào đó mà đánh, sát thương sẽ tăng đấy."}
+{"id":"HOI_409a7c6ca77ec7","translation":"Giỏi lắm! Cậu dùng nút Đội chuẩn không cần chỉnh!"}
+{"id":"HOI_40a6eebe501cb1","translation":"Chọn cách nào thì phép cũng sẽ được thi triển ngay."}
+{"id":"HOI_40bde0fdc6c588","translation":"Riêng sức mạnh Phép thuật và Kỹ năng không thay đổi theo đội hình."}
+{"id":"HOI_415151305718ff","translation":"Giờ nói về {3:4}Trứng Phiêu Lưu{1:2} nhé!"}
+{"id":"HOI_41faac3ba9f4a1","translation":"Vậy là hết bài học trò chuyện!"}
+{"id":"HOI_42bad2935aacdc","translation":"Chạm chúng bằng bút cảm ứng, hoặc đến gần rồi bấm A để đập."}
+{"id":"HOI_454b74046fdd8e","translation":"Cậu cũng có thể dùng Phép thuật, Kỹ năng hay Vật phẩm trong các menu tương ứng."}
+{"id":"HOI_455fad5d6a061b","translation":"Đứng {3:4}hàng trước{1:2} nghĩa là sát địch hơn nên thủ yếu đi. Đồng đội đứng {3:4}phía sau{1:2} sẽ tăng thủ nhưng giảm sức đánh."}
+{"id":"HOI_45ba453f688e48","translation":"Vậy là xong phần kết bạn với Imagen hoang dã!"}
+{"id":"HOI_4703f20d3b1287","translation":"Vậy là xong phần Túi Vật Phẩm!"}
+{"id":"HOI_4735808bad178e","translation":"Trong Ba lô, mở mục Trang bị để đổi quần áo và phụ kiện cho Oliver cùng đồng đội là người."}
+{"id":"HOI_48784cbd72690c","translation":"Không, không! Chọn {3:4}Oliver{1:2} đã."}
+{"id":"HOI_48afe13af58075","translation":"Giờ nói về {3:4}Danh sách Hầm Ngục{1:2} nhé!"}
+{"id":"HOI_49ad5122e865f6","translation":"Nhưng cẩn thận nhé: mỗi Imagen chỉ ăn tối đa 10 Giọt cùng loại, rồi sẽ chê không ăn thêm đâu."}
+{"id":"HOI_4a40728a350a27","translation":"Lúc đó, hãy gảy Đàn Hạc Thuần Khiết để thuần hóa, khiến chúng nghe lời cậu."}
+{"id":"HOI_4a6d7523712752","translation":"Chấm đỏ là cậu đấy! Còn chấm xanh là những người có thể tương tác."}
+{"id":"HOI_4c4283544b4783","translation":"Ở đó còn có thông tin chi tiết về sức tấn công và nhiều chỉ số khác."}
+{"id":"HOI_4c80be77e03f44","translation":"Vậy là xong phần Gắn Vật Phẩm cho Imagen!"}
+{"id":"HOI_4c82f4889b72d9","translation":"Nhận Mảnh Tim từ người sẵn lòng chia sẻ rồi thì mau tìm người cần nó để trao nhé."}
+{"id":"HOI_4e1d549a0fae09","translation":"Vậy là xong phần Đội hình!"}
+{"id":"HOI_4f453e2644c1af","translation":"Phần chỉ đường chỉ có vậy thôi!"}
+{"id":"HOI_509471746fae55","translation":"Cho Imagen ăn những món đặc biệt còn có thể giúp chúng học kỹ năng mới."}
+{"id":"HOI_50f7789eb85526","translation":"Khi cả đội đã chọn xong hành động, đến lúc ra đòn rồi!"}
+{"id":"HOI_511f1e57e7fecd","translation":"Không phải Imagen nào cũng yếu xìu đâu. Có con cực dữ và sẽ trở thành chiến binh đáng gờm nếu về đội."}
+{"id":"HOI_5187c4a18c7a22","translation":"Tôi sẽ hướng dẫn đọc {3:3}Bản đồ Thế giới{1:2}."}
+{"id":"HOI_52761bf115023f","translation":"Giờ nói về {3:4}Tương thích Nguyên tố{1:2} nhé!"}
+{"id":"HOI_52a134882b603b","translation":"Oliver phải chịu một chuyện đau lòng. Nhưng cũng nhờ vậy mà tớ mới được hồi sinh."}
+{"id":"HOI_538a6b2fa64d39","translation":"Hãy săn Trứng hiếm và trao đổi thật nhiều để có Trứng tốt nhất!"}
+{"id":"HOI_540ce0fbec45a9","translation":"Chọn nút {3:4}Đội hình{1:2} trong trận để đổi vị trí các thành viên."}
+{"id":"HOI_549cdf4a02f971","translation":"Chạm vào người đó bằng bút cảm ứng, hoặc bấm A để bắt chuyện."}
+{"id":"HOI_54bb7535b959c0","translation":"Giờ nói về {3:4}Bách khoa Imagen{1:2} nhé."}
+{"id":"HOI_54dab367bc9e9a","translation":"Cậu có thể cho Imagen ăn Giọt trong Lồng Chăm Sóc."}
+{"id":"HOI_54f5759d8f61a6","translation":"Cậu biết dùng {3:4}bản đồ nhỏ{1:2} trên màn hình trên rồi chứ?"}
+{"id":"HOI_5527fc27d5c7cb","translation":"Hàng trước {3:4}tấn công mạnh nhất, nhưng phòng thủ sẽ giảm{1:2}."}
+{"id":"HOI_5661b90bc22302","translation":"Nhìn đôi tai dữ dằn của nó kìa, Oliver!"}
+{"id":"HOI_5840eff1b29bfd","translation":"Dĩ nhiên, không phải lúc nào cũng chạy thoát. Dù hơi đáng sợ, đôi khi vẫn phải liều thắng một trận tưởng chừng vô vọng."}
+{"id":"HOI_58d13e6ccba07d","translation":"Trong thành phố hoặc ngoài thế giới rộng lớn, cậu muốn lưu lúc nào cũng được."}
+{"id":"HOI_58e43343b6abb7","translation":"Ở đó, cậu có thể trao đổi Imagen với người ở gần và xem danh sách Imagen họ muốn đổi. Thử đi!"}
+{"id":"HOI_59b1385a3edce3","translation":"Không phải thế! Trước hết, đưa cậu ấy lên {3:4}hàng trước{1:2} đi."}
+{"id":"HOI_5a8d40a9c52f4f","translation":"Giờ nói về nút {3:4}Đội{1:2} nhé!"}
+{"id":"HOI_5aa5606d668a53","translation":"Làm tốt lắm!"}
+{"id":"HOI_5b7d7209f05a60","translation":"Thế là giải thích xong rồi! Giờ cậu hãy chọn chỗ đứng cho Mite và tôi đi. Thích đâu đặt đấy!"}
+{"id":"HOI_5c699b74b053cf","translation":"Vậy là xong phần Danh sách Hầm Ngục!"}
+{"id":"HOI_5ca8060187f50f","translation":"Khi không ở thành phố hay hầm ngục, cậu có thể gặp Imagen hoang dã."}
+{"id":"HOI_5cc05158d14cc2","translation":"Xem đòn ấy mạnh cỡ nào và đồng đội còn bao nhiêu HP rồi hẵng chọn người đỡ!"}
+{"id":"HOI_5d0827023fc427","translation":"Vậy là xong phần Trúng Độc!"}
+{"id":"HOI_5d58a4099c7704","translation":"Ê, khoan khoan! Phải chọn {3:4}Oliver{1:2} chứ!"}
+{"id":"HOI_5da066f8172d63","translation":"Giờ tìm hiểu cách {3:4}chiến đấu{1:2} nhé."}
+{"id":"HOI_5ed144761c1fce","translation":"Né đòn đẹp mắt hay che chắn cho đồng đội sẽ giúp cậu nhận điểm Nice!"}
+{"id":"HOI_603e4868cd7589","translation":"Giờ nói về việc trao đổi Imagen với pháp sư ở các thế giới song song!"}
+{"id":"HOI_604d09873d731d","translation":"Con người dùng quần áo, phụ kiện; Imagen thì gắn vật phẩm để chiến đấu mạnh hơn."}
+{"id":"HOI_612a9e7bc4c6f2","translation":"Đôi khi đang phiêu lưu, cậu sẽ quên mất phép từng học. Bực thật, nhưng chuyện ấy có thể xảy ra."}
+{"id":"HOI_6277599f5dc881","translation":"Và Ni no Kuni chính là một trong số đó!"}
+{"id":"HOI_6386d5234c0241","translation":"Đánh trúng bằng hệ Sét sẽ giật kẻ địch, làm gián đoạn hành động chúng sắp thực hiện."}
+{"id":"HOI_6395d1038f2eab","translation":"Thế là xong phần Phép thuật!"}
+{"id":"HOI_63aa33e6ee8ebb","translation":"Chơi đúng bài, Imagen sẽ càng thích cậu, thậm chí muốn kết bạn luôn!"}
+{"id":"HOI_63bf5b963af282","translation":"Giờ nói về chiếc {3:4}Ba lô{1:2} của cậu nhé."}
+{"id":"HOI_6465eb3055e15e","translation":"Đòn có nước hoặc băng thuộc {3:4}hệ Nước{1:2}. Đòn hệ này thường dễ đánh trúng."}
+{"id":"HOI_64b1d2b46e4394","translation":"Trong menu Hố Cất, cậu có thể gửi Imagen vào hoặc lấy những con từng gửi ra."}
+{"id":"HOI_66f06e7ef77af4","translation":"Màn hình trên sẽ hiển thị phần tóm tắt của mục cậu đang xem."}
+{"id":"HOI_6748e9b4b32f6d","translation":"Cậu cũng có thể dùng phím điều hướng và nút A."}
+{"id":"HOI_6761274971134f","translation":"Có nhiều loại vật phẩm gắn được cho Imagen nhằm cải thiện đặc tính của chúng."}
+{"id":"HOI_676a2986203479","translation":"Nếu Imagen lén áp sát từ phía sau, cậu sẽ bị đánh úp."}
+{"id":"HOI_67c680a7214fd5","translation":"Tên này chẳng dễ xơi đâu. Ít nhất phải tìm ra {3:4}điểm yếu{1:2} của nó đã."}
+{"id":"HOI_68161d3924cf2e","translation":"Mỗi đòn có thể mang sức mạnh nguyên tố. Đánh bằng nguyên tố mà địch yếu sẽ gây sát thương lớn hơn."}
+{"id":"HOI_6a77239cd35aa1","translation":"Chạm biểu tượng đũa phép để dùng những {3:4}phép đã học{1:2}."}
+{"id":"HOI_6b41c5cac518df","translation":"Quái ở khu này không phải dạng vừa đâu. Hãy chọn đội hình thật cẩn thận."}
+{"id":"HOI_6b54ce6a760f84","translation":"Nhưng đội hình chỉ ảnh hưởng đến Tấn công và Phòng thủ thôi. Phép thuật và Kỹ năng không bị tác động."}
+{"id":"HOI_6b8cab9cad94ce","translation":"Cậu có thể cất {3:4}Mảnh Tim{1:2} của nhiều người trong Mề Đay cùng lúc."}
+{"id":"HOI_6cea05cb27e674","translation":"Trong menu ấy còn có dấu ấn của Imagen bên ta để dễ so ưu, nhược điểm."}
+{"id":"HOI_6ceada115af7e6","translation":"Vậy là xong phần Tự động Tấn công!"}
+{"id":"HOI_6d1b5be741bf88","translation":"Có cả đống cách kiếm điểm Nice. Cứ thử nhiều kiểu hành động để khám phá nhé!"}
+{"id":"HOI_6dcb9b630ac785","translation":"Thế là hết phần hướng dẫn chiến đấu!"}
+{"id":"HOI_6e6d8d1813910e","translation":"Thay đúng Imagen mạnh hơn hoặc có khả năng kháng phù hợp sẽ giúp cậu nắm lợi thế!"}
+{"id":"HOI_6ed647fffc8c53","translation":"Imagen nào cũng thích được chiều chuộng. Đừng bỏ bê mấy đứa nhỏ nhé!"}
+{"id":"HOI_6ee7f7ee3c8050","translation":"Rồi rồi, vất vả cho mọi người quá! Lần này chơi đến đây thôi nhé!"}
+{"id":"HOI_6f0f43a7a52efd","translation":"Nhưng mỗi Imagen chỉ nhớ được ba kỹ năng một lúc. Nếu đã đủ ba, cậu phải chọn quên bớt một kỹ năng cũ."}
+{"id":"HOI_6ff2e5dab4823b","translation":"Vậy là xong phần Cài đặt!"}
+{"id":"HOI_703da05035fa9b","translation":"Hả? Nhanh quá á?"}
+{"id":"HOI_710eb18c4b7e4a","translation":"Vào trận rồi, tìm nút {3:4}Bỏ chạy{1:2}. Bấm vào là cả đội co giò chạy ngay!"}
+{"id":"HOI_71380ad927679f","translation":"Nếu nghĩ cả đội đủ sức thắng mà chẳng cần cậu {3:4}bày mưu tính kế{1:2}, cứ để họ tự đánh."}
+{"id":"HOI_713b9fbc58653d","translation":"Có ba Khúc Ca Thuần Hóa: Khúc Ca Đất, Khúc Ca Trời và Khúc Ca Biển."}
+{"id":"HOI_7187cda64933cf","translation":"Dù cậu còn yếu, cây đũa phép cũng chỉ thuộc loại xoàng thôi, dùng phép vẫn đủ sức gây sát thương đấy."}
+{"id":"HOI_71ba1556233f2e","translation":"Nhưng làm ơn đừng bao giờ nghĩ đến chuyện đập tôi đấy nhé!"}
+{"id":"HOI_72a6412bad0956","translation":"Giờ nói về các Bia Dẫn Đường trong hầm ngục nhé!"}
+{"id":"HOI_73256eb4ed9f67","translation":"Bấm X mở ba lô, cậu sẽ thấy nhiều mục trên màn hình dưới."}
+{"id":"HOI_74a24965210128","translation":"Đặt bút cảm ứng lên màn hình dưới và kéo theo hướng muốn đi."}
+{"id":"HOI_74f556832367b0","translation":"Giờ nói về {3:4}Túi Vật Phẩm{1:2} nhé."}
+{"id":"HOI_74f8dfaa6fba40","translation":"Khi Imagen tiến hóa, cậu có thể cho chúng ăn Giọt Tái Sinh để đổi sang dạng Imagen khác."}
+{"id":"HOI_755d8e38409e05","translation":"Giờ thử chuyển xuống hàng sau nhé."}
+{"id":"HOI_770d1911ff96d5","translation":"Phép bị quên sẽ biến mất khỏi danh sách “Phép đã học” và cả menu phép dùng trong trận."}
+{"id":"HOI_772301623461d1","translation":"Cậu ấy tìm được cuốn Sách Pháp Thuật và đã biết dùng vài phép cơ bản."}
+{"id":"HOI_7920589638b5e2","translation":"Ni no Kuni rộng lắm, nên dấu chỉ đường giúp cậu biết phải đến đâu. Không thấy thì nhìn kỹ bản đồ nhé!"}
+{"id":"HOI_79a7f8901a65e9","translation":"Khi muốn nghỉ sau một chuyến phiêu lưu, nhớ {3:4}Lưu game{1:2} nhé."}
+{"id":"HOI_7a8b73235b05ee","translation":"Cứ cân nhắc vị trí cả đội để tận dụng khả năng che chắn nhé."}
+{"id":"HOI_7a9a4b196d719b","translation":"Vậy là xong phần học phép mới!"}
+{"id":"HOI_7aa28ec8b280c5","translation":"Khi bị Độc, cậu mất HP mỗi lượt đánh; chạy ngoài bản đồ còn mất HP theo từng bước chân nữa!"}
+{"id":"HOI_7ad88f06cad6f6","translation":"Biết nơi chúng sống không có nghĩa chắc chắn gặp được, nhưng ít ra còn hơn mò mẫm!"}
+{"id":"HOI_7b22835767e1a4","translation":"Vậy cứ yên tâm bỏ qua menu Tải về nhé. Bản vá này chẳng cần đến nó đâu. Chơi vui!"}
+{"id":"HOI_7d1a95231d6c72","translation":"Làm việc tốt như trả lại Mảnh Tim bị mất, đôi khi cảm xúc biết ơn sẽ hóa thành một Giọt hữu hình."}
+{"id":"HOI_7ee2e8469f2012","translation":"Nhiệm vụ cốt truyện và nhiệm vụ phụ có danh sách riêng, dễ tìm lắm."}
+{"id":"HOI_7fa40550ec8f57","translation":"Giờ nói về cách {3:4}Lên Cấp{1:2} nào!"}
+{"id":"HOI_818b7abc9aedaa","translation":"Giờ nói về đấu với các pháp sư ở thế giới song song!"}
+{"id":"HOI_81d11f3623f921","translation":"Cậu có thể chơi tiếp hoặc quay về màn hình tiêu đề."}
+{"id":"HOI_821229a3a98711","translation":"Giờ nói về cách kết bạn với Imagen hoang dã!"}
+{"id":"HOI_824adb3f7b322c","translation":"Xếp hàng khéo để bảo vệ đồng đội thì cậu sẽ nhận được một điểm Nice."}
+{"id":"HOI_8437bf3955ec75","translation":"Trong menu có lựa chọn Trao đổi."}
+{"id":"HOI_86f756764f9d6e","translation":"Được rồi, giờ học cách {3:4}di chuyển{1:2} trên màn hình nhé."}
+{"id":"HOI_870ecec0f72cdc","translation":"Giữa trận có khi cậu lâm thế bí: Imagen khắc hệ, hoặc HP tụt ào ào chẳng hạn."}
+{"id":"HOI_87990723e6304a","translation":"Phụ kiện có thể tăng công, thủ hoặc tạo hiệu ứng khác. Hãy đọc mô tả thật kỹ."}
+{"id":"HOI_89604d3a69f276","translation":"Cho Imagen ăn những Giọt ấy để tăng chỉ số như HP hay Sức mạnh."}
+{"id":"HOI_8960c60b8c39c7","translation":"Nhặt được phụ kiện mới thì nhớ kiểm tra tác dụng của nó."}
+{"id":"HOI_8a6602afe0073e","translation":"Ối chà! Tên này trông dữ dằn đấy! Lần này phải tính đến đội hình chiến đấu rồi."}
+{"id":"HOI_8b67321fd27fa9","translation":"Ba lô chứa gần như mọi thứ cậu cần trong chuyến phiêu lưu."}
+{"id":"HOI_8c0a4588989b60","translation":"Thế là hết phần Kính Soi Chỉ Số!"}
+{"id":"HOI_8c2896cfa7e1c6","translation":"Ngoài thế giới cậu đang sống, còn vô số thế giới khác nữa."}
+{"id":"HOI_9008b1e0ca7659","translation":"Ê, đừng! Đừng bấm {3:4}nút đó{1:2}. Đưa Oliver lên hàng trước cơ mà!"}
+{"id":"HOI_90750df3be1be4","translation":"Khi ấy, dùng nút Đội để thay Imagen đang chiến đấu bằng con ở Lồng Chăm Sóc."}
+{"id":"HOI_90beb27bdbe5c5","translation":"Sau đó, cậu dùng số điểm ấy cho những Trứng mình vẫn đang giữ."}
+{"id":"HOI_90f5d58b4e8d8f","translation":"Di chuyển chỉ có vậy thôi, dễ ợt nhỉ!"}
+{"id":"HOI_91d883756fc59b","translation":"Chúng tôi cũng cài sẵn Nhật báo Pháp sư, gồm nhiều bài viết giúp cậu hiểu thêm về Ni no Kuni."}
+{"id":"HOI_91dbaf0c50edbd","translation":"Trao đổi một Trứng sẽ cho cậu số điểm bằng cấp của Trứng vừa đổi."}
+{"id":"HOI_921f12b731b40e","translation":"Cậu có thể cho chúng ăn, vuốt ve và chơi cùng chúng."}
+{"id":"HOI_92b854303283b6","translation":"Ối! Đòn vừa rồi đau điếng! Có khi một Imagen khác của cậu sẽ chịu đòn tốt hơn đấy."}
+{"id":"HOI_92f31e94218c73","translation":"Vị trí đứng ảnh hưởng đến nhiều thứ trên chiến trường. Thử xếp hàng trước xem!"}
+{"id":"HOI_9440e8c9d4eb0d","translation":"Vậy là hết chuyện về chiếc ba lô!"}
+{"id":"HOI_950afc04dc1425","translation":"Khi gặp người khác qua StreetPass, cậu có thể trao đổi Trứng với họ."}
+{"id":"HOI_988e171b71ca9e","translation":"Cậu có thể cho cả đội tự đánh, hoặc chỉ một thành viên thôi."}
+{"id":"HOI_98995ef2783d51","translation":"Bọn tớ đến Hội buôn Cú Mèo để dò hỏi tin tức, nhưng mà…"}
+{"id":"HOI_98de5d0f888317","translation":"Giờ nói về {3:4}Dấu Ấn Thiên Thể{1:2} của Imagen nhé!"}
+{"id":"HOI_9998501df2cef9","translation":"Dọc đường cậu sẽ nhặt được đủ thứ hữu ích. Tất cả đều cất trong chiếc Túi Vật Phẩm phép thuật không đáy."}
+{"id":"HOI_9a830940d1c7eb","translation":"Vốn dĩ menu này dùng Wi-Fi để tải vật phẩm và nhiệm vụ mới. Giờ chúng tôi đã tích hợp sẵn các nhiệm vụ đó cho tiện rồi."}
+{"id":"HOI_9aefec15a1e2b7","translation":"Trúng Độc rồi thì mau dùng vật phẩm hoặc phép thuật để chữa."}
+{"id":"HOI_9b0f61701c53c4","translation":"Thời gian vui vẻ trôi cái vèo ấy mà! Thôi thì tớ bật mí thêm tí nhé."}
+{"id":"HOI_9c66a86c231d6f","translation":"Nếu đặt Thứ tự Tấn công thành Quên, trận sau sẽ bắt đầu với đội hình dàn hàng ngang."}
+{"id":"HOI_9e4aafce5b4f42","translation":"Trước tiên tìm hiểu Hố Cất Imagen, rồi đến menu của nó."}
+{"id":"HOI_9fab7aee690712","translation":"Mỗi lượt chỉ đổi được một thành viên. Đổi ý thì có thể hủy hoặc chọn lại."}
+{"id":"HOI_a0fc4c5676308d","translation":"Tìm thấy Bia Dẫn Đường, cả đội sẽ hồi đầy HP và MP, lại còn lưu game được nữa."}
+{"id":"HOI_a2b4bf78d654df","translation":"Cậu có thể chọn người muốn đấu và xem một số thông tin về họ."}
+{"id":"HOI_a2fc3212cf910e","translation":"Thỉnh thoảng cậu thấy chữ {3:4}Nice{1:2} hiện lên, đúng không? Nghĩa là cậu xử lý trận đấu rất khéo đấy."}
+{"id":"HOI_a3fd996333d4ee","translation":"Nếu cả đội đều gục ngã thì cậu sẽ thua trận."}
+{"id":"HOI_a43bb902692233","translation":"Dùng bút cảm ứng vẽ rune đang hiện trên màn hình trên vào ô tròn này. Thử đi!"}
+{"id":"HOI_a455c64eca3e21","translation":"Phải rồi! Đứng hàng sau sẽ {3:4}tăng Phòng thủ nhưng giảm Tấn công{1:2}."}
+{"id":"HOI_a458e17fd0f252","translation":"Hôm nay mọi người đến dự buổi công bố Ni no Kuni, cảm ơn nhiều lắm nhé!"}
+{"id":"HOI_a47afbe461c2fa","translation":"Ta đã nói sơ về những chức năng thường dùng của menu Hố Cất rồi. Giờ mở ra xem nhé."}
+{"id":"HOI_a52c458d7eef57","translation":"Chẳng hạn, có Ô Gắn màu đỏ thì Imagen có thể gắn vật phẩm Vũ khí."}
+{"id":"HOI_a53aa8e6056d6d","translation":"Đánh bại kẻ địch sẽ nhận kinh nghiệm, nhiều hay ít tùy số lượng và độ mạnh của chúng."}
+{"id":"HOI_a695fe842dce05","translation":"Hãy để mắt đến đội hình của cả ta lẫn địch. Sắp xếp khôn ngoan có thể xoay chuyển cả trận khó."}
+{"id":"HOI_a8b267665d6bef","translation":"Gặp đòn bắn xuyên như thế, hãy xếp thành một cột để {3:4}Đỡ đòn{1:2} cho đồng đội phía sau."}
+{"id":"HOI_a96438d53104c9","translation":"Kiếm được đũa phép mạnh hơn thì dùng được phép mạnh hơn! Nhưng trước hết phải vẽ đúng {3:4}Rune{1:2}."}
+{"id":"HOI_a96b954903e61a","translation":"Thấy tia sáng vàng lóe giữa trận không? Đó là khi đòn đánh khai thác đúng điểm yếu Dấu Ấn Thiên Thể."}
+{"id":"HOI_aabb0310a766eb","translation":"Trứng Phiêu Lưu rất bí ẩn, thường được chuyền tay giữa mọi người. Thi thoảng còn có người đem bán."}
+{"id":"HOI_af1fbcfb0a1a6f","translation":"Trước hết, vào mục Phép thuật rồi chạm biểu tượng “Phép đã học”."}
+{"id":"HOI_af436a869d88b5","translation":"Ở đó có danh sách phép cây đũa của cậu có thể thi triển. Phép nào chưa có rune bên cạnh là chưa học đâu."}
+{"id":"HOI_af7a997e8ec9de","translation":"Cậu có thể tra Imagen theo Loài, Tên hoặc danh sách Yêu thích đã đánh dấu."}
+{"id":"HOI_afc0327808c206","translation":"Muốn học phép mới thì chạm biểu tượng {3:4}Vẽ Rune{1:2} rồi thử vẽ nhé."}
+{"id":"HOI_afc2c94c3b86b1","translation":"Vậy là xong phần Tiến hóa Imagen!"}
+{"id":"HOI_b078edaa761a38","translation":"Ni no Kuni có rất nhiều loài có thể đầu độc cậu, nên nhớ đề phòng!"}
+{"id":"HOI_b0e6060f560947","translation":"Khi đó, chạm nút {3:4}Xóa{1:2} màu xanh bên trái màn hình dưới, hoặc bấm Y."}
+{"id":"HOI_b1823abf45ea0c","translation":"Imagen được đưa về Lồng Chăm Sóc sẽ không bị tác hại của Độc khi cậu đi lại bên ngoài."}
+{"id":"HOI_b1a61a5124b449","translation":"Tích đủ điểm Nice, một điều cực kỳ hay ho sẽ xảy ra! Là gì ư? Ha ha, tự khám phá đi!"}
+{"id":"HOI_b25ebb2b42e028","translation":"Quái vật chẳng nương tay với kẻ yếu đâu. Vào trận là phải ra dáng ngay!"}
+{"id":"HOI_b26f20e83e5ce2","translation":"Oliver đụng độ Imagen hoang dã thì trận chiến bắt đầu!"}
+{"id":"HOI_b324244bb116aa","translation":"Chọn Tấn công rồi thì chọn tiếp mục tiêu muốn đánh."}
+{"id":"HOI_b3559ac2732707","translation":"Quái vật lộ trái tim nghĩa là nó có cảm tình với cậu. Không thấy thì thử cách khác nhé."}
+{"id":"HOI_b5c68e7deb4ca9","translation":"Chưa đủ cấp để nở thì cứ tiếp tục trao đổi với mọi người. Đừng bỏ cuộc nhé!"}
+{"id":"HOI_b5fea76a17fa4d","translation":"Giờ xem mục {3:4}Cài đặt{1:2} nào!"}
+{"id":"HOI_b63d7fe4f0e9a5","translation":"Trước hết, bấm nút Đội hình nào."}
+{"id":"HOI_b6839dc09728a3","translation":"Giờ nói về {3:4}Giọt Hạnh Phúc{1:2}!"}
+{"id":"HOI_b7481944de186b","translation":"Chẳng hạn, Oliver có một phép trị quái yếu với lửa rất nhanh gọn."}
+{"id":"HOI_b7c5824bc14482","translation":"Muốn biết kỹ hơn về Dấu Ấn Thiên Thể, hãy đọc Sách Pháp Thuật."}
+{"id":"HOI_b8572a59c0a69c","translation":"Vậy là xong phần Trang bị!"}
+{"id":"HOI_b93af8aaa63ea7","translation":"Quái vật sẽ phản ứng khi nghe cậu đàn. Quan sát kỹ là biết chúng muốn nghe tiếp điệu gì."}
+{"id":"HOI_b99bb93a0287ce","translation":"Bách khoa Imagen chứa đủ loại thông tin về những Imagen cậu từng chiến đấu hoặc kết bạn."}
+{"id":"HOI_b9aabb3b0fc2fc","translation":"Muốn xem đã tích được bao nhiêu điểm Nice, hãy bấm SELECT trong trận."}
+{"id":"HOI_b9d33b8f07d913","translation":"Mỗi mục có hướng dẫn riêng, nhưng cậu cứ thử nghịch các menu đi. Không hỏng gì đâu!"}
+{"id":"HOI_b9f9d9896a4c1f","translation":"Nhớ chọn đúng người đứng đầu để che chắn cho cả đội nhé."}
+{"id":"HOI_babcd4e3fa5e10","translation":"Nếu địch yếu trước một nguyên tố, hãy dùng đòn thuộc hệ ấy để khai thác điểm yếu."}
+{"id":"HOI_bada9ab241f675","translation":"Vì thế, cho phép tớ kể vắn tắt những chuyện đã xảy ra trước đó nha!"}
+{"id":"HOI_bae366fd44ab41","translation":"Imagen cũng có trái tim như con người. Chúng muốn yêu thương và được yêu thương. Càng chăm sóc, hai bên càng gắn bó."}
+{"id":"HOI_bc228013c84735","translation":"Cảm ơn mọi người rất nhiều vì đã chơi đến tận cuối!"}
+{"id":"HOI_bcbadd756f2e6a","translation":"Ngoài Độc còn nhiều trạng thái xấu khác, vậy nên luôn dự trữ thuốc giải nhé!"}
+{"id":"HOI_bcd911340a102d","translation":"Vậy thì thử đàn cho con khác trong trận, biết đâu có đứa đang muốn kết bạn với cậu!"}
+{"id":"HOI_bd108262cfece7","translation":"Đánh trúng điểm yếu thì số sát thương sẽ {3:4}đỏ{1:2}, lại còn được thêm {3:4}điểm Nice{1:2}!"}
+{"id":"HOI_bd18952c0ed161","translation":"Có vẻ cậu bắt nhịp được rồi đấy! Tiếp theo là cách dùng {3:4}phép thuật{1:2}!"}
+{"id":"HOI_bdde4bef7b664e","translation":"Máy chủ đã ngừng hoạt động, nên vào đây cậu chỉ gặp một đống thông báo lỗi tải về chẳng có ích mấy."}
+{"id":"HOI_bea5998a6d6047","translation":"Thế nào cũng có lúc cậu vẽ rune trật lất. Ai mà chẳng từng sai, lo gì!"}
+{"id":"HOI_bebb142f65d003","translation":"Tớ có linh cảm chẳng lành… Cẩn thận đấy!"}
+{"id":"HOI_bfad05012082d8","translation":"Giờ nói về trạng thái {3:4}Trúng Độc{1:2} nhé!"}
+{"id":"HOI_c19b4e28d151c1","translation":"Vậy là xong phần Lồng Chăm Sóc Imagen!"}
+{"id":"HOI_c201f066cf5f78","translation":"Nhưng vẽ sai rune thì đừng mong học được phép ấy nhé!"}
+{"id":"HOI_c239d1ff39f018","translation":"Ở Ni no Kuni, có sinh vật rất hợp với lửa, nhưng cũng có loài yếu kinh khủng trước lửa."}
+{"id":"HOI_c25cc76c1ed3f4","translation":"Vào mục Trứng trong menu Hố Cất để xem những loại Trứng người gần cậu đang có."}
+{"id":"HOI_c3d135453b276a","translation":"Tích đủ XP thì cậu sẽ Lên Cấp!"}
+{"id":"HOI_c3fb0d1eb4a8a0","translation":"Ngoài kia còn vô số Imagen. Hãy kết bạn thật nhiều để khỏi lúng túng khi lâm trận nhé."}
+{"id":"HOI_c8149412df182c","translation":"Tùy tình huống mà đổi đội hình. Biết tận dụng hàng trước, giữa và sau thì đánh nhau nhàn hơn nhiều!"}
+{"id":"HOI_ca7c8090c56e57","translation":"Không phải! Giờ đưa Oliver xuống {3:4}hàng sau{1:2} nhé."}
+{"id":"HOI_cbc7aedce192d3","translation":"Dùng phép cũng giống đánh thường thôi. Chọn phép trong mục Phép thuật, rồi chọn kẻ xấu số!"}
+{"id":"HOI_ccc6501e832278","translation":"Mỗi Trứng có một {3:4}Mốc Nở{1:2} và Cấp Trứng. Khi Cấp Trứng bằng Mốc Nở, Trứng có thể nở!"}
+{"id":"HOI_cd7bd4a8d56cab","translation":"Vậy là xong phần Nhật ký Nhiệm vụ!"}
+{"id":"HOI_ce2fe11e1f7192","translation":"Thể hiện sức mạnh ngay đầu trận, chúng sẽ phải chú ý đến cậu."}
+{"id":"HOI_d0186b2b910c82","translation":"Đòn trông như lửa thường thuộc {3:4}hệ Lửa{1:2}, vốn nổi tiếng với sát thương cao."}
+{"id":"HOI_d03adcf56ba648","translation":"Chọn kiểu Thứ tự Tấn công nào hợp với cậu nhé."}
+{"id":"HOI_d0587593387a12","translation":"Muốn xem Dấu Ấn Thiên Thể của địch, dùng nút Sức mạnh trên menu dưới."}
+{"id":"HOI_d06a6a066621f5","translation":"Lúc ấy, {3:4}Nhật ký Nhiệm vụ{1:2} sẽ cứu nguy cho cậu."}
+{"id":"HOI_d1293a3fa8b43d","translation":"Mọi nét vừa vẽ sẽ biến mất, cho cậu bắt đầu lại. Giờ từ từ vẽ lại cho chuẩn nào."}
+{"id":"HOI_d16fd54dd47c7a","translation":"Vậy là xong phần Imagen hoang dã!"}
+{"id":"HOI_d2686347231789","translation":"Chẳng hạn, Mite có rất nhiều HP. Cho cậu ta đứng hàng trước là hợp lý quá còn gì!"}
+{"id":"HOI_d31714cfab8df9","translation":"Vậy là xong phần Tương thích Nguyên tố!"}
+{"id":"HOI_d3ea2f6c622e9b","translation":"Giờ nói một chút về {3:4}trò chuyện{1:2} nhé."}
+{"id":"HOI_d43362ac079269","translation":"Ha ha! Cậu hạ được con quái đó rồi hả? Đa tạ nhé!"}
+{"id":"HOI_d4435bb0138282","translation":"Hàng sau thì ngược lại: tăng Phòng thủ, giảm Tấn công. Nhưng đứng tận đấy không che cho ai được đâu."}
+{"id":"HOI_d4c0d3f95ecb7b","translation":"Vậy là xong phần Trứng Phiêu Lưu!"}
+{"id":"HOI_d51b6451f24383","translation":"Trước hết, bản chơi thử này bắt đầu từ giữa câu chuyện đấy!"}
+{"id":"HOI_d5bfa40e28d42a","translation":"Tôi đề nghị nện nó bằng {3:4}Cầu Lửa{1:2}. Thấy sao?"}
+{"id":"HOI_d781bb7fa440b0","translation":"Nhưng muốn cứu thế giới thì phải học phép cao cấp hơn, nên cả bọn mới đến Vương quốc Catnap."}
+{"id":"HOI_d88b6e199c16a6","translation":"Giờ nói về {3:4}Lồng Chăm Sóc{1:2} Imagen nào!"}
+{"id":"HOI_d9bb0d2d6b3a9a","translation":"Vậy là xong phần Dấu Ấn Thiên Thể!"}
+{"id":"HOI_da3745f5a33db5","translation":"Vậy là hết phần hướng dẫn bỏ chạy!"}
+{"id":"HOI_dc1e061e9089a0","translation":"Ni no Kuni đầy những sinh vật kỳ thú. Đôi khi cậu sẽ gặp một con mạnh đến mức đánh mãi chẳng thắng."}
+{"id":"HOI_dcb01754fc7f86","translation":"Muốn dùng món nào thì mở Túi Vật Phẩm, tìm nó trong danh sách. Còn lại dễ hiểu thôi!"}
+{"id":"HOI_dcefb339b4b098","translation":"Vào Lồng Chăm Sóc, chọn Cho ăn để dùng Ngọc Kỹ Năng cho Imagen."}
+{"id":"HOI_de0493944d0504","translation":"Đánh nhau với Imagen sẽ giúp cậu biết điểm yếu cùng nhiều đặc điểm khác của nó."}
+{"id":"HOI_de17a85420e9ca","translation":"Khổ nỗi, trong lâu đài đang náo loạn vì báu vật của nhà vua bị đánh cắp. Chẳng ai rảnh tiếp chúng tớ!"}
+{"id":"HOI_def5bfd354e4f0","translation":"Trước tiên cứ thử đủ kiểu tấn công. Đánh trúng điểm yếu thì số sát thương sẽ hiện {3:4}màu đỏ{1:2}!"}
+{"id":"HOI_df453fd821fd23","translation":"Đó là những điều cần biết về Bản đồ Thế giới và dấu chỉ đường."}
+{"id":"HOI_df8b0e93b17dfd","translation":"Ồ! Thấy chưa? Đòn vừa rồi đánh Mite hiện {3:4}số đỏ{1:2}! Nghĩa là nó trúng {3:4}điểm yếu{1:2} đấy."}
+{"id":"HOI_e08e6956a159e2","translation":"Vậy là xong phần Thẻ Dấu Ấn Anh Hùng!"}
+{"id":"HOI_e0b20cd8891250","translation":"Cậu còn biết Imagen thường sống ở đâu, nhờ đó tìm đến kết bạn dễ hơn."}
+{"id":"HOI_e0e68dde2cb130","translation":"Rồi, bắt đầu nào! Trận đấu nào cũng mở màn bằng nút Tấn công, nhớ chưa?"}
+{"id":"HOI_e123723cb3a72d","translation":"Ui, đòn gì mà đau thế! Cứ hứng thêm vài cú nữa là cả bọn nằm đo ván mất!"}
+{"id":"HOI_e1fa99f0e7c8ea","translation":"Nếu đàn xong mà không thấy trái tim, nghĩa là lúc này nó chưa muốn nghe đâu."}
+{"id":"HOI_e279ae7896cfb7","translation":"Dùng bút cảm ứng thì không cần chạm trúng phóc đâu. Lệch một chút vẫn được!"}
+{"id":"HOI_e2df03b891247e","translation":"Trên đường phiêu lưu, đôi lúc cậu sẽ gặp mấy thứ trông có vẻ đập được."}
+{"id":"HOI_e4fd25edd1437c","translation":"Vậy là xong phần Mề Đay!"}
+{"id":"HOI_e5217a4077c069","translation":"Giờ nói về chiếc {3:4}Mề Đay{1:2} nhé."}
+{"id":"HOI_e528ab9a336a0d","translation":"Thấy {3:4}mũi tên đỏ{1:2} không? Đó là dấu chỉ đường, cho biết điểm đến tiếp theo."}
+{"id":"HOI_e5a2954e44d8bf","translation":"Giờ nói về các viên Bi nhé!"}
+{"id":"HOI_e5ae62bd4ef7f5","translation":"Chọn {3:4}Đấu{1:2} trong menu đó để tìm một pháp sư ở gần làm đối thủ."}
+{"id":"HOI_e7196771fa8b2f","translation":"Đây, nhận món quà này đi. Coi như công cho những gì cậu vừa làm!"}
+{"id":"HOI_e7e9322ba88dba","translation":"Khi giúp người khác, cậu sẽ nhận nhiệm vụ có ghi rõ phần thưởng bằng dấu ấn."}
+{"id":"HOI_e985edabf42313","translation":"Imagen càng đánh càng tích kinh nghiệm và lên cấp. Đến lúc nào đó, chúng sẽ tiến hóa thành dạng mới với sức mạnh và kỹ năng mới."}
+{"id":"HOI_eb08f98b02eac9","translation":"Ê, không! Đừng bấm {3:4}nút đó{1:2}. Chuyển Oliver xuống hàng sau đi."}
+{"id":"HOI_ec28f53a74ebfc","translation":"Cho Imagen tấn công đi, để đám quái biết ai mới là trùm ở đây!"}
+{"id":"HOI_ecd2616a0dce25","translation":"Ngọc Kỹ Năng giống sách dạy chiêu đặc biệt. Cho Imagen ăn là chúng có thể học kỹ năng chưa biết."}
+{"id":"HOI_eceee0850477bc","translation":"Giờ nói về {3:4}Thẻ Dấu Ấn Anh Hùng{1:2}!"}
+{"id":"HOI_eda4e277e6b245","translation":"Vậy là xong phần Trao đổi Imagen!"}
+{"id":"HOI_efe576ef4e3e8a","translation":"Cả bạn lẫn thù đều có Dấu Ấn Thiên Thể. Hiểu chúng là cậu có thể gây sát thương lớn hơn nhiều!"}
+{"id":"HOI_f1bb3b32321b8e","translation":"Nhưng đừng vung phép bừa bãi! Mỗi lần niệm phép đều tốn MP. Coi chừng hết sạch giữa trận nhé."}
+{"id":"HOI_f24249d14789a3","translation":"Bách khoa có khối điều thú vị. Khi muốn nghỉ chân, cứ mở ra đọc nhé."}
+{"id":"HOI_f34ef75753847a","translation":"Mary biết ba khúc ca đặc biệt. Mỗi Imagen chỉ thích một vài khúc trong số ấy thôi."}
+{"id":"HOI_f5005479f3f3af","translation":"Giờ nói về {3:4}Gắn Vật Phẩm{1:2} cho Imagen!"}
+{"id":"HOI_f66fb15fb8a70c","translation":"Nhớ nhé, chiêu Kết Liễu chỉ dùng được trong chốc lát thôi. Đừng để phí!"}
+{"id":"HOI_f7bc720c7f12c9","translation":"Trong trận, lựa chọn đầu tiên luôn là {3:4}Tấn công{1:2} kẻ địch."}
+{"id":"HOI_f86459b618c431","translation":"Vậy là xong phần Dò Mảnh Tim bằng Mề Đay!"}
+{"id":"HOI_f8ac949d292721","translation":"Giờ nói về Tiến hóa Imagen!"}
+{"id":"HOI_f9d457a60d43c7","translation":"Giờ nói về menu {3:4}Tải về{1:2} nhé!"}
+{"id":"HOI_fa1cbdcd44b349","translation":"Cậu có thể cho Imagen ăn Bi trong mục Cho ăn của Lồng Chăm Sóc."}
+{"id":"HOI_fa4d74f7e55692","translation":"Chú ý điểm yếu của đối thủ, cậu sẽ kết thúc trận nhanh đến không ngờ!"}
+{"id":"HOI_fb9da8e3c8ff66","translation":"Thế nhé, chào nha!"}
+{"id":"HOI_fbd5310584be10","translation":"Trong trận, nhìn hàng menu thứ hai bên dưới rồi chọn Đội."}
+{"id":"HOI_fc93bd8abc580d","translation":"Phần tiếp theo hẹn đến tháng Mười Hai nha! Mong mọi người đón chờ!"}
+{"id":"HOI_fd551f2f82f787","translation":"Giọt Hạnh Phúc giúp tăng điểm mạnh hoặc bù điểm yếu cho Imagen. Hữu ích lắm, nhưng khá hiếm đấy."}
+{"id":"HOI_fd8710b3394553","translation":"Đòn như lốc xoáy hay gió giật thường thuộc {3:4}hệ Gió{1:2}, dễ gây Chí Mạng hơn."}
+{"id":"HOI_fdd7d65a6a06ea","translation":"Cho ăn thì dễ, nhưng dùng Bi rồi là không lấy lại được đâu. Nghĩ kỹ trước khi cho ăn nhé!"}
+{"id":"HOI_fe1624b3e4ab19","translation":"Có thể cậu chưa biết, thế giới này tồn tại nhiều thế giới song song đấy."}
+{"id":"HOI_fe5687eb4cc2ca","translation":"Vậy là xong phần Hố Cất Imagen!"}
+{"id":"HOI_fea5cd18f78b11","translation":"Giờ nói về điểm Nice nhé!"}
+{"id":"HOI_ff2b66a0a78828","translation":"Nhưng phải chọn người đứng đầu thật kỹ. Người che chắn sẽ chịu nhiều sát thương hơn mà."}
+{"id":"HOI_ff4c75d95f618f","translation":"Nếu tìm thấy rune của phép đó trong Sách Pháp Thuật, cậu có thể vẽ lại để học phép."}
+{"id":"HOI_ff936b370e3572","translation":"Vậy là xong phần sửa rune vẽ sai!"}
+{"id":"HUO_00f387775c596a","translation":"Hồi HP cho một đồng đội."}
+{"id":"HUO_00ffce55a99186","translation":"Giảm Kỹ năng của toàn bộ địch."}
+{"id":"HUO_03cbcfedd6764d","translation":"Hồi sinh một đồng đội đã bất tỉnh."}
+{"id":"HUO_05e71a9f8283ff","translation":"Giải Độc và hồi ít HP cho một đồng đội."}
+{"id":"HUO_0aa73c86ff792d","translation":"Hồi nhiều HP cho một đồng đội."}
+{"id":"HUO_0b0a42768177e4","translation":"Tăng Sức mạnh cho cả đội."}
+{"id":"HUO_10cdd5da56d60b","translation":"Gây sát thương Gió lên một kẻ địch."}
+{"id":"HUO_123370f5a4d73d","translation":"Giảm Tốc độ của toàn bộ địch."}
+{"id":"HUO_1272a0db039598","translation":"Tăng mọi chỉ số cho cả đội."}
+{"id":"HUO_128682bb6857f3","translation":"Hồi đầy HP cho cả đội."}
+{"id":"HUO_13809ea3abf5d7","translation":"Gây sát thương Nước lên toàn bộ địch."}
+{"id":"HUO_139f625f9181db","translation":"Gây một trạng thái xấu ngẫu nhiên lên một kẻ địch."}
+{"id":"HUO_164cb8135b3377","translation":"Hồi 70 HP và MP cho một đồng đội."}
+{"id":"HUO_18075af8638a1e","translation":"Giảm Phòng thủ của toàn bộ địch."}
+{"id":"HUO_1bab576bc985eb","translation":"Gây Độc cho một kẻ địch."}
+{"id":"HUO_20ca2ae7072f72","translation":"Hồi %s HP cho một đồng đội."}
+{"id":"HUO_2158bcb5f31e65","translation":"Gây Bóng tối cho một kẻ địch."}
+{"id":"HUO_2307bff0d77e4a","translation":"Hồi đầy MP cho một đồng đội."}
+{"id":"HUO_23ba65a8a83a68","translation":"Tăng Tốc độ cho một đồng đội."}
+{"id":"HUO_258ddf82455b37","translation":"Giải Độc và hồi 30 HP cho một đồng đội."}
+{"id":"HUO_28c69418270ca3","translation":"Tấn công một kẻ địch, có thể gây Bóng tối."}
+{"id":"HUO_2d149c9424cfdb","translation":"Tăng Kỹ năng bản thân."}
+{"id":"HUO_2e0dcccc7f2f1d","translation":"Tăng Phòng thủ cho một đồng đội."}
+{"id":"HUO_2ed06d2d931ece","translation":"Giảm Phòng thủ của một kẻ địch."}
+{"id":"HUO_31174c2df965d4","translation":"Màn sự kiện 2 – Đảo Kayan"}
+{"id":"HUO_31ca70c3140429","translation":"Tăng Sức mạnh cho cả đội."}
+{"id":"HUO_33db224da39708","translation":"Giải Nguyền rủa cho một đồng đội."}
+{"id":"HUO_33dfc224ac4ffd","translation":"Tấn công một kẻ địch, có thể gây Ngủ."}
+{"id":"HUO_390c74a7066f26","translation":"Gây Câm phép cho toàn bộ địch."}
+{"id":"HUO_39dbbf22672179","translation":"Giải Bóng tối cho một đồng đội."}
+{"id":"HUO_3cff8627e384c2","translation":"Hồi HP bản thân và giải mọi trạng thái xấu."}
+{"id":"HUO_3d9705850b6be6","translation":"Tấn công toàn bộ địch, có thể gây Bất tỉnh."}
+{"id":"HUO_3dc0af90a29c38","translation":"Tấn công một kẻ địch, có thể gây Độc."}
+{"id":"HUO_3f70fb8807ff1b","translation":"Hồi %s MP cho một đồng đội."}
+{"id":"HUO_411d99567fdd27","translation":"Trộm một vật phẩm từ kẻ địch."}
+{"id":"HUO_433a5ab14bd131","translation":"Hồi đầy HP cho một đồng đội."}
+{"id":"HUO_43e54556a785f3","translation":"Giải Độc cho một đồng đội."}
+{"id":"HUO_45de6700641105","translation":"Tấn công một kẻ địch, có thể gây Loạn Trí."}
+{"id":"HUO_480ccce8d84d90","translation":"Nguyền rủa toàn bộ địch."}
+{"id":"HUO_49c9d0f51bee87","translation":"Gây sát thương Lửa lên toàn bộ địch."}
+{"id":"HUO_4b60b5a6e7f3ed","translation":"Gây sát thương Lửa lên một kẻ địch."}
+{"id":"HUO_4e4c0db059418d","translation":"Màn chơi nhỏ – Vực thẳm"}
+{"id":"HUO_4ebb52a75ad913","translation":"Gây sát thương Sét lên một hàng địch."}
+{"id":"HUO_517e576f79073b","translation":"Hồi nhiều HP cho cả đội."}
+{"id":"HUO_524c3a5f533233","translation":"Hồi đầy HP cho một đồng đội."}
+{"id":"HUO_53571433de89e1","translation":"Gây sát thương Sét lên toàn bộ địch."}
+{"id":"HUO_53fcaea385d760","translation":"Tăng Phòng thủ cho cả đội."}
+{"id":"HUO_5406b279349e42","translation":"Hồi tỉnh một đồng đội."}
+{"id":"HUO_5be5ff0b64f9c9","translation":"Gây Bóng tối cho toàn bộ địch."}
+{"id":"HUO_5c31d7be7fcd07","translation":"Hồi %s MP cho cả đội."}
+{"id":"HUO_5cea20d1ba7415","translation":"Khiến một kẻ địch Loạn Trí."}
+{"id":"HUO_63cfed803f292e","translation":"Gây sát thương Bóng tối lên một kẻ địch."}
+{"id":"HUO_64c0041a3aad09","translation":"Giảm Sức bền của toàn bộ địch."}
+{"id":"HUO_65d71a1dc76d36","translation":"Giải Ngủ và hồi 10 HP cho một đồng đội."}
+{"id":"HUO_66c11737047338","translation":"Tăng Tốc độ cho cả đội."}
+{"id":"HUO_6835645c91ec3b","translation":"Hồi HP và giải mọi trạng thái xấu cho cả đội."}
+{"id":"HUO_6c1e0eba8bb06e","translation":"Tăng Kỹ năng cho một đồng đội."}
+{"id":"HUO_6c862e29dc7f6c","translation":"Tăng Kỹ năng và Sức mạnh cho một đồng đội."}
+{"id":"HUO_6e09ed2c7dacc8","translation":"Giải mọi trạng thái xấu cho một đồng đội."}
+{"id":"HUO_74831b02671e73","translation":"Màn chơi nhỏ – Đại dương"}
+{"id":"HUO_7795208762525c","translation":"Tăng Sức bền cho một đồng đội."}
+{"id":"HUO_7a17b0d317a283","translation":"Gây Độc cho một kẻ địch."}
+{"id":"HUO_7e23324c367f65","translation":"Tăng Phòng thủ và Sức bền bản thân."}
+{"id":"HUO_7eacaecd30ede5","translation":"Chắc chắn né được đòn của địch."}
+{"id":"HUO_7f1854344a04f3","translation":"Hồi đầy HP và MP cho một đồng đội."}
+{"id":"HUO_80e088a7a4cd60","translation":"Gây Câm phép cho một kẻ địch."}
+{"id":"HUO_837bd2192886a2","translation":"Kiểm tra camera – Vực thẳm"}
+{"id":"HUO_84ca7f66a4f7bc","translation":"Hóa Đá một kẻ địch."}
+{"id":"HUO_854411feb0d5ef","translation":"Gây sát thương Gió lên toàn bộ địch."}
+{"id":"HUO_857bf0af3e4252","translation":"Tăng Phòng thủ cho cả đội."}
+{"id":"HUO_87c05b69bed959","translation":"Giảm Sức mạnh của toàn bộ địch."}
+{"id":"HUO_88f59bfbd996b5","translation":"Khiến một kẻ địch nghe mình hát."}
+{"id":"HUO_89dced1e2a1167","translation":"Ru ngủ toàn bộ địch."}
+{"id":"HUO_8b20de0b6d7d03","translation":"Tăng Phòng thủ cho một đồng đội."}
+{"id":"HUO_90a1af335ae0c8","translation":"Hồi ít HP cho cả đội."}
+{"id":"HUO_9250d5a7ee9714","translation":"Gây 150 sát thương lên một kẻ địch."}
+{"id":"HUO_92bcdf92021018","translation":"Hồi HP và giải mọi trạng thái xấu cho cả đội."}
+{"id":"HUO_934d76f1354364","translation":"Kiểm tra camera – Đại dương"}
+{"id":"HUO_93836d29fc5d89","translation":"Gây sát thương Gió cho toàn bộ địch và gây Bóng tối."}
+{"id":"HUO_9b2fc575f45893","translation":"Giải trạng thái xấu cho cả đội."}
+{"id":"HUO_9be24527b823d8","translation":"Hút HP từ một kẻ địch."}
+{"id":"HUO_9d4320acb7514e","translation":"Hồi HP cho một đồng đội."}
+{"id":"HUO_9d533f03ffdf96","translation":"Hồi đầy HP và MP cho cả đội."}
+{"id":"HUO_a2ef512611fc6e","translation":"Kiểm tra camera – Núi lửa"}
+{"id":"HUO_a3f8a63d808681","translation":"Tăng Sức bền bản thân."}
+{"id":"HUO_a90a08c0270b06","translation":"Gây sát thương Lửa lên một hàng địch."}
+{"id":"HUO_ab608703944fc9","translation":"Hiệu ứng phép thuật hoàn toàn do may rủi."}
+{"id":"HUO_ad961b63b86b5a","translation":"Giải Ngủ cho một đồng đội."}
+{"id":"HUO_ae4fdebce59bad","translation":"Tăng Kỹ năng cho cả đội."}
+{"id":"HUO_ae63cb8eeaa673","translation":"Hồi tỉnh cả đội."}
+{"id":"HUO_b109c0e1faa282","translation":"Khiêu khích địch tấn công mình."}
+{"id":"HUO_b22172d4cc88f2","translation":"Gây sát thương Vật lý lên toàn bộ địch."}
+{"id":"HUO_b285cd19c2f1f0","translation":"Gây Độc cho toàn bộ địch."}
+{"id":"HUO_b5252dbff8bc63","translation":"Tấn công một kẻ địch, có thể gây Hóa Đá."}
+{"id":"HUO_b703c282e6bc42","translation":"Tăng Sức bền cho cả đội."}
+{"id":"HUO_b7d8b52e678c0f","translation":"Gây sát thương Sét lên một kẻ địch."}
+{"id":"HUO_bada74bf27702f","translation":"Giảm Kỹ năng của một kẻ địch."}
+{"id":"HUO_bdf1de9421d0a5","translation":"Gây sát thương Vật lý lên một kẻ địch."}
+{"id":"HUO_be28785770b7a2","translation":"Tăng Sức mạnh cho một đồng đội."}
+{"id":"HUO_bedc6414f64ede","translation":"Gây sát thương Nước lên một hàng địch."}
+{"id":"HUO_c05ac14a673586","translation":"Giảm Sức mạnh của một kẻ địch."}
+{"id":"HUO_c1051dda7c52d0","translation":"Tăng Tốc độ cho cả đội."}
+{"id":"HUO_c1cbf81abe0432","translation":"Tăng Tốc độ bản thân."}
+{"id":"HUO_c33164abd2e62f","translation":"Tấn công một kẻ địch, chắc chắn trúng."}
+{"id":"HUO_c3e88f887227a0","translation":"Giải Loạn Trí cho một đồng đội."}
+{"id":"HUO_c65b394df094e3","translation":"Gây sát thương Ánh sáng lên một kẻ địch."}
+{"id":"HUO_c77c1f6a8badc9","translation":"Gây sát thương Nước lên một kẻ địch."}
+{"id":"HUO_c86550e2c8f544","translation":"Gây sát thương Ánh sáng cực mạnh lên toàn bộ địch."}
+{"id":"HUO_ca7420d940577e","translation":"Màn sự kiện 1 – Đại dương"}
+{"id":"HUO_cbb92c81bee3fe","translation":"Tăng Sức mạnh và Kỹ năng bản thân."}
+{"id":"HUO_cc3bf593818fe8","translation":"Tăng Phòng thủ bản thân."}
+{"id":"HUO_cdeb25795a49c2","translation":"Kiểm tra camera – Đảo Kayan"}
+{"id":"HUO_ce20bc7de6ae40","translation":"Hồi HP cho cả đội."}
+{"id":"HUO_d362d0b4f5e53e","translation":"Hóa Đá toàn bộ địch."}
+{"id":"HUO_d3cb6a77c9e261","translation":"Trộm vật phẩm từ địch với tỷ lệ thành công cao hơn."}
+{"id":"HUO_d82de6899fcbaa","translation":"Hồi %s HP cho cả đội."}
+{"id":"HUO_d8a139c6ae0ba3","translation":"Giải Độc và hồi 20 HP cho một đồng đội."}
+{"id":"HUO_d954611d441c69","translation":"Giảm Tốc độ của một kẻ địch."}
+{"id":"HUO_db56d7e2be2cbb","translation":"Nguyền rủa một kẻ địch."}
+{"id":"HUO_db5e74ec4b09d7","translation":"Giải Phong ấn Phép cho một đồng đội."}
+{"id":"HUO_dc06918b537080","translation":"Giảm Sức bền của một kẻ địch."}
+{"id":"HUO_dd9f33854d3b83","translation":"Vô hiệu hóa một kẻ địch."}
+{"id":"HUO_de913b657466a9","translation":"Màn chơi nhỏ – Núi lửa"}
+{"id":"HUO_e083f770ce3655","translation":"Giải trạng thái xấu cho một đồng đội."}
+{"id":"HUO_e4f2f6f077023b","translation":"Tấn công một kẻ địch, có thể gây Nguyền rủa."}
+{"id":"HUO_e8b6ea8b159c2e","translation":"Gây sát thương Bóng tối cực mạnh lên toàn bộ địch."}
+{"id":"HUO_ea8ac919a230b8","translation":"Tấn công một kẻ địch, có thể gây Câm phép."}
+{"id":"HUO_eb21c916544874","translation":"Giải Ngủ và hồi ít HP cho một đồng đội."}
+{"id":"HUO_ef98c7fbb5b240","translation":"Hồi ít HP cho một đồng đội."}
+{"id":"HUO_ef9a0149a7bf42","translation":"Bao phủ một kẻ địch trong Bóng tối."}
+{"id":"HUO_f35b6c564a33fd","translation":"Gây sát thương Vật lý lên một hàng địch."}
+{"id":"HUO_f3da209a4db60c","translation":"Gây sát thương Gió lên một hàng địch."}
+{"id":"HUO_f5f3d2ffc172e2","translation":"Tấn công một kẻ địch, có thể gây Bất tỉnh."}
+{"id":"HUO_f5f689fff63536","translation":"Gây Loạn Trí cho toàn bộ địch."}
+{"id":"HUO_f8eb3682996599","translation":"Ru ngủ một kẻ địch."}
+{"id":"HUO_f943d98b181c8d","translation":"Tăng Sức mạnh bản thân."}
+{"id":"HUO_fb830bf7c9fa6a","translation":"Vung kiếm gây sát thương lên một kẻ địch."}
+{"id":"HUO_fc2f5dc9894878","translation":"Triệu hồi một Imagen từ quả cầu."}
+{"id":"HUO_ff9072c17de045","translation":"Gây sát thương Gió lên một kẻ địch."}
+{"id":"LUA_00bd638b43115e","translation":"Giờ bạn có thể nâng cấp vũ khí của Mary!"}
+{"id":"LUA_0158550165b8a6","translation":"Đưa những ngọn lửa về như ban đầu."}
+{"id":"LUA_02c6a1df4ecc3c","translation":"Lần chơi sau, cuộc phiêu lưu sẽ tiếp tục từ đây."}
+{"id":"LUA_0644a94e10c1c5","translation":"Đã khóa."}
+{"id":"LUA_06c318eaa52c52","translation":"Tiếp tục mà không lưu?"}
+{"id":"LUA_072a2c5c1e85a2","translation":"“Kho báu giấu kín của Chubell” – Nhận nhiệm vụ?"}
+{"id":"LUA_07f9dfc8a7d6a7","translation":"Trở về màn hình tiêu đề?"}
+{"id":"LUA_08e3ca8acdc271","translation":"Bạn phải bật cả hai công tắc cùng lúc."}
+{"id":"LUA_09e11951821e44","translation":"Tớ cá rương này cất báu vật ngon lành lắm cho xem!"}
+{"id":"LUA_0a26a57e6ecea8","translation":"“Chứng sợ độ cao” – Nhận nhiệm vụ?"}
+{"id":"LUA_0b4eddf464a6d6","translation":"Bạn thử {3:4}Chìa Ghép Xanh{1:2}, nhưng không khớp."}
+{"id":"LUA_0b8fa683512022","translation":"Từ Oroboros, lần theo đường qua tinh thể đóng băng đến Crowhawk."}
+{"id":"LUA_0d45800fb1d487","translation":"Không có gì xảy ra."}
+{"id":"LUA_0d5f66fd124616","translation":"Bạn muốn trở về màn hình tiêu đề?"}
+{"id":"LUA_0d6af8cb90bf78","translation":"Hình như ổ khóa rương vừa bật mở."}
+{"id":"LUA_0e6bd1e030c200","translation":"Đưa Nấm Morel Ma Thuật Đen cho ông ấy?"}
+{"id":"LUA_0e7bf38f11d283","translation":"Đã trao Mảnh Tim Nhân Ái."}
+{"id":"LUA_0e837b4080691a","translation":"BELLDANA"}
+{"id":"LUA_0f3cdc2ffed246","translation":"“Đỉnh Tháp Moya” – Nhận nhiệm vụ?"}
+{"id":"LUA_11ca87dbbd1c99","translation":"Nhảy lên tượng Hoàng tử Ếch và đồng thời dùng phép lên tượng để kích hoạt cơ quan."}
+{"id":"LUA_122318064a1823","translation":"Trở về màn hình tiêu đề?"}
+{"id":"LUA_135dd1d9740b64","translation":"Bạn kể tôi nghe chuyến phiêu lưu được không?"}
+{"id":"LUA_14253d129e446f","translation":"“Dị ứng Imagen” – Nhận nhiệm vụ?"}
+{"id":"LUA_15090d13ce7549","translation":"Bạn nhận được {3:4}3{1:2} {3:4}Điểm Anh Hùng{1:2}!"}
+{"id":"LUA_15f1a1fac2df16","translation":"“Những cánh bướm vàng” – Nhận nhiệm vụ?"}
+{"id":"LUA_1c45c74e4d3073","translation":"“Vũ công xinh đẹp” – Nhận nhiệm vụ?"}
+{"id":"LUA_1ca1965f57b45d","translation":"Lần chơi tiếp theo sẽ bắt đầu từ đây."}
+{"id":"LUA_1d1fd2268416c8","translation":"Nhìn từ đó sẽ thấy nó không hướng về Teeny Bopper mà là Gorus."}
+{"id":"LUA_1e743f485cc091","translation":"“Chiếc cưa thất lạc” – Nhận nhiệm vụ?"}
+{"id":"LUA_2028c8f18398ce","translation":"Bạn đã ăn Boniato chưa?"}
+{"id":"LUA_21873d10732be2","translation":"Bạn nhặt được {3:4}Cành Cây Nhỏ{1:2}!"}
+{"id":"LUA_2237aa4a0e3a26","translation":"Bạn đã dùng {3:4}Chìa Ghép Đỏ{1:2}."}
+{"id":"LUA_23c0ff9757f79e","translation":"Đã đưa Boniato cho đứa trẻ."}
+{"id":"LUA_25dab98ddb2cec","translation":"Lần sau, cuộc phiêu lưu sẽ tiếp tục tại đây."}
+{"id":"LUA_280a674837372d","translation":"Bạn đã bắt được bướm vàng rồi."}
+{"id":"LUA_288950225c597e","translation":"Bạn đã đưa Phô mai Hạt Dẻ cho anh ấy."}
+{"id":"LUA_2977479aeff681","translation":"Đi theo mũi tên đỏ trên màn hình trên tới tiệm Owl's Cowls gặp bà Owlish!"}
+{"id":"LUA_2bc2d085e37ba9","translation":"Nghỉ tại Biệt thự Silvervine? Một đêm giá 900G."}
+{"id":"LUA_2dbd32379c251e","translation":"“Nỗi buồn bất chợt” – Nhận nhiệm vụ?"}
+{"id":"LUA_2e81955554a56f","translation":"Bạn đã trao Mảnh Tim Nhân Ái!"}
+{"id":"LUA_2f3b151a183374","translation":"Bạn đã dùng {3:4}Chìa Ghép Trắng{1:2}."}
+{"id":"LUA_30e668f9cc8773","translation":"Bạn có đồng ý giúp Cổ Nhân và nhận nhiệm vụ này không?"}
+{"id":"LUA_31b023cd09ded3","translation":"Bạn đã đưa Gạc Deerbeast Ẩn Dật cho cậu ấy."}
+{"id":"LUA_35ed9053a410bc","translation":"“Kẻ lang thang xuất hiện!” – Nhận nhiệm vụ?"}
+{"id":"LUA_370ada8f9bfeea","translation":"“Đại tiệc Boniato” – Nhận nhiệm vụ?"}
+{"id":"LUA_3a72b89384e9b0","translation":"Imagen {3:4}Mite{1:2} đã gia nhập đội!"}
+{"id":"LUA_3a92ea6a79e5a8","translation":"Nghỉ tại Nhà nghỉ Mây Silvervine? Một đêm giá 500G."}
+{"id":"LUA_3da39746783198","translation":"{3:4}FLUTTERINA{1:2}"}
+{"id":"LUA_3e5a2e1bc49363","translation":"Giao Xu Catnap?"}
+{"id":"LUA_3fcddfcdcf9bbc","translation":"“Pháp sư Mirant” – Nhận nhiệm vụ?"}
+{"id":"LUA_4162bb43e577e0","translation":"Bạn nhận được {3:4}Thẻ Dấu Ấn Anh Hùng{1:2}!"}
+{"id":"LUA_4251f3fc21b2cb","translation":"Đã trao Mảnh Tim Nhiệt Huyết."}
+{"id":"LUA_42b1dd1c519ceb","translation":"Thử nghiệm chiến đấu"}
+{"id":"LUA_4308910cba9780","translation":"“Thành phố nổi trên trời” – Nhận nhiệm vụ?"}
+{"id":"LUA_4596ca7ce454d1","translation":"Bạn nhận được {3:4}Đá Thông Thái{1:2}!"}
+{"id":"LUA_45e918d62ba2fd","translation":"{3:4}Chìa Ghép Trắng{1:2} vỡ thành trăm mảnh vụn."}
+{"id":"LUA_4a1a2cc8206a3b","translation":"Bạn nhận được một {3:4}Công thức Ghép{1:2}!"}
+{"id":"LUA_4aa173c28cc612","translation":"Bạn đã đưa Bông Tai Đỏ cho bà ấy."}
+{"id":"LUA_4e6a68e4af9f91","translation":"Chúng tôi tạo ra những thứ này lâu lắm rồi, suýt nữa còn không thành. Nhớ là đã bắt đầu bằng chân Sillymander…"}
+{"id":"LUA_4ed94ce42f07f6","translation":"{3:4}Gladion{1:2} đã hoàn thành!"}
+{"id":"LUA_4f474df86a83da","translation":"Bạn đã bắt được bướm vàng rồi."}
+{"id":"LUA_4fd05c19fc3d6b","translation":"Có một lỗ khóa lớn đầy bí ẩn."}
+{"id":"LUA_522b1915dc5bd5","translation":"Mở trang 21 của Sách Pháp Thuật và tìm rune Mở Cổng!"}
+{"id":"LUA_536a5f8a8dfef3","translation":"Đã giao Panacea."}
+{"id":"LUA_54e04b4974d798","translation":"Bạn đã tìm thấy bướm vàng rồi."}
+{"id":"LUA_586aec8e9f7ec7","translation":"Người bạn mới sẽ vào đội hoặc Hố Cất Imagen, nơi nào còn chỗ trống."}
+{"id":"LUA_5990287704af5d","translation":"Cả đội lẫn Hố Cất Imagen đều đã đầy. Lúc này bạn chưa thể kết bạn thêm đâu."}
+{"id":"LUA_5b06e3eb735a35","translation":"Bạn đã cho anh ấy ít Nhiệt Huyết."}
+{"id":"LUA_5b9092847352b8","translation":"Bạn dùng Sách Pháp Thuật để vượt căn phòng."}
+{"id":"LUA_5cf78785fea026","translation":"Bạn nhận được công thức Ghép {3:4}Đàn Hạc Thiên Giới{1:2}!"}
+{"id":"LUA_5dc9704347d7b9","translation":"“Khó nói thành lời” – Nhận nhiệm vụ?"}
+{"id":"LUA_60eef82270f093","translation":"Bạn đã dùng {3:4}Chìa Ghép Xanh{1:2}."}
+{"id":"LUA_613a33164b367d","translation":"{3:4}Chìa Ghép Trắng{1:2} vỡ vụn."}
+{"id":"LUA_61f43c608d3d54","translation":"Tìm một cây Đũa phép tạm dùng!"}
+{"id":"LUA_642d0e5a15d919","translation":"Ngay dưới Tyke có một phương thuốc bí mật và một Oroboros."}
+{"id":"LUA_6474cd29e72942","translation":"Đi qua viên đá quý, bạn sẽ đến chiếc khiên đang tìm."}
+{"id":"LUA_6587f274d9e9b6","translation":"Sau đó đi qua một quả babana là sắp đến chiếc khiên rồi."}
+{"id":"LUA_65e2dddfbe23a9","translation":"“Cậu bé Purrsian” – Nhận nhiệm vụ?"}
+{"id":"LUA_65ea1f92bfc055","translation":"“Vào lâu đài Catnap” – Nhận nhiệm vụ?"}
+{"id":"LUA_67f61a53c71557","translation":"Có một lỗ khóa nhỏ đầy bí ẩn."}
+{"id":"LUA_688f864f3d6173","translation":"Đi theo mũi tên đỏ trên bản đồ để đến quảng trường!"}
+{"id":"LUA_6b33d31583f0be","translation":"Bạn đã giao Động cơ Hỏng."}
+{"id":"LUA_6be1edda897759","translation":"Bạn nhận được Trứng Phiêu Lưu!"}
+{"id":"LUA_6c0b6a8fde97ff","translation":"Từ đó đi theo hướng không có babana, mũi tên hay Chopster."}
+{"id":"LUA_6e0db6ab92bc8e","translation":"Đến gần Mark rồi chạm vào cậu ấy, hoặc bấm A để trò chuyện!"}
+{"id":"LUA_6f5e11b4917a02","translation":"Sang tầng tiếp theo?"}
+{"id":"LUA_6f66264240f62b","translation":"“Chiếc bông tai biến mất” – Nhận nhiệm vụ?"}
+{"id":"LUA_6ff14f962dec8f","translation":"Theo mũi tên đỏ trên màn hình trên để về nhà!"}
+{"id":"LUA_6ff69bf682f4dd","translation":"“Kẻ lang thang bí ẩn” – Nhận nhiệm vụ?"}
+{"id":"LUA_70344bbbfffd89","translation":"Bạn nhận được công thức Ghép {3:4}Hoàng Đế Tà Ác{1:2}!"}
+{"id":"LUA_70917f3334eb99","translation":"Chìa khóa không khớp."}
+{"id":"LUA_71ea8752bafac4","translation":"“Tháp đá” – Nhận nhiệm vụ?"}
+{"id":"LUA_71fb0b4a78f907","translation":"Bạn đã bắt được vài con bướm vàng!"}
+{"id":"LUA_736d9fa29f0b1d","translation":"Bạn có muốn nghe toàn bộ câu chuyện không?"}
+{"id":"LUA_73ffe45e1d33df","translation":"Manh mối này cho biết Khiên Bộ Xương ở đâu."}
+{"id":"LUA_76407f875c26f8","translation":"Bạn dùng Chìa Phép B nhưng không khớp."}
+{"id":"LUA_78d33d0e4a32d4","translation":"“Hiệp sĩ Bị Nguyền – Phần 3” – Nhận nhiệm vụ?"}
+{"id":"LUA_7e466691f7c189","translation":"“Chạm mũi dân Purrsian” – Nhận nhiệm vụ?"}
+{"id":"LUA_83ca34db8e3200","translation":"Bạn nhận được {3:4}2{1:2} {3:4}Điểm Anh Hùng{1:2}!"}
+{"id":"LUA_8808528441b7c3","translation":"Bạn đã vượt căn phòng tượng."}
+{"id":"LUA_89d9574fa7d3c6","translation":"Trái – Tiệm Owl's Cowls; Phải – Tiệm rèn Blackbird"}
+{"id":"LUA_8f596d60eee965","translation":"Lưu game?"}
+{"id":"LUA_8f8670e27df44b","translation":"“Kẹo Sữa thất lạc của Brain” – Nhận nhiệm vụ?"}
+{"id":"LUA_909f54324b06b3","translation":"“Thu thập Xu Catnap” – Nhận nhiệm vụ?"}
+{"id":"LUA_941b76bb7462e9","translation":"{3:4}Tầng Hầm Ngục số [5:42]{1:2} đã xuất hiện!"}
+{"id":"LUA_9558951f268ea5","translation":"“Người chăm sóc Cổ Thụ” – Nhận nhiệm vụ?"}
+{"id":"LUA_9601c06ceabd22","translation":"Đi thẳng qua Purrloiner, rồi đến mắt của Tyke."}
+{"id":"LUA_991836a93ffa0f","translation":"Dùng Ghép."}
+{"id":"LUA_9a2ebec1091f2f","translation":"Bạn thử {3:4}Chìa Ghép Đỏ{1:2}, nhưng không khớp."}
+{"id":"LUA_9d228e3c2d889e","translation":"“Kẻ lang thang mất niềm tin” – Nhận nhiệm vụ?"}
+{"id":"LUA_9d672be8919dfa","translation":"Bạn tìm thấy vài con bướm vàng!"}
+{"id":"LUA_a0193ff7405152","translation":"“Người gác cổng Rỗng Tim” – Nhận nhiệm vụ?"}
+{"id":"LUA_a0a79520418a98","translation":"Bạn có thể nghỉ ngơi và lưu game tại quán trọ ở mọi thành phố."}
+{"id":"LUA_a3842cf1f0333b","translation":"Hướng dẫn mở khóa."}
+{"id":"LUA_a48baf414fec96","translation":"Bạn nhận được {3:4}1{1:2} {3:4}Điểm Anh Hùng{1:2}!"}
+{"id":"LUA_a53a25acb16e82","translation":"Nghỉ tại Lều Silvervine? Một đêm giá 360G."}
+{"id":"LUA_a706807ea59c97","translation":"Cây đũa này không mở được."}
+{"id":"LUA_a7ec16de985f33","translation":"Đã giao [8:172] Xu Catnap."}
+{"id":"LUA_a9e0820dfb4fd3","translation":"Tìm lò sưởi rồi chạm bằng bút cảm ứng hoặc bấm A để kiểm tra!"}
+{"id":"LUA_ad83e33ea8377a","translation":"Đã giao Magicine."}
+{"id":"LUA_aff58badd91ad8","translation":"Lần theo ánh mắt Gorus về phía trước, bạn sẽ thấy một Imagen khác."}
+{"id":"LUA_b183f428867ed4","translation":"“Xóa sạch hình vẽ bậy!” – Nhận nhiệm vụ?"}
+{"id":"LUA_b453698d1329e0","translation":"“Người trông rừng” – Nhận nhiệm vụ?"}
+{"id":"LUA_b7460f66364695","translation":"Bạn nhận được {3:4}4{1:2} {3:4}Điểm Anh Hùng{1:2}!"}
+{"id":"LUA_b7bf2b4e8e3e32","translation":"“Mật mã bí mật” – Nhận nhiệm vụ?"}
+{"id":"LUA_b818ae5117e1db","translation":"Ước mơ của Oliver vẫn chưa thành, trước mắt hãy đến Hội buôn Cú Mèo."}
+{"id":"LUA_b8d0e002b2624c","translation":"“Niềm tin của nữ lính gác” – Nhận nhiệm vụ?"}
+{"id":"LUA_b97aaa53bec418","translation":"{3:4}[503]{1:2} đã trở thành bạn của bạn!"}
+{"id":"LUA_b9e4e41d43b6de","translation":"{3:4}Yuri{1:2}"}
+{"id":"LUA_bb95a06682fd8c","translation":"Hãy đặt tên cho Imagen của bạn."}
+{"id":"LUA_bbf48b5c09f9ef","translation":"“Milco và Gạc Deerbeast” – Nhận nhiệm vụ?"}
+{"id":"LUA_bd4f8b4f402a3d","translation":"Bạn thử {3:4}Chìa Ghép Đỏ{1:2}, nhưng không khớp."}
+{"id":"LUA_bd6dd70e990bb6","translation":"Bạn đã dùng phép Dây Điều Khiển Rối để vượt qua căn phòng."}
+{"id":"LUA_bd8f6e3d4dca7b","translation":"Sillymander đang nhìn về biểu tượng Hành Tinh."}
+{"id":"LUA_be04135633fdc3","translation":"Thu thập được nhiều Trứng Phiêu Lưu thì hãy quay lại đây."}
+{"id":"LUA_be54d1a03578cd","translation":"Đã giao Tấm Ván Cũ!"}
+{"id":"LUA_be9cc113b5dd8a","translation":"Giờ bạn có thể tăng sức mạnh vũ khí của Jabou!"}
+{"id":"LUA_c049ea02d4ba5d","translation":"{3:4}HP{1:2} và {3:4}MP{1:2} đã hồi {3:4}đầy{1:2}!"}
+{"id":"LUA_c1b437967d841e","translation":"Từ Crowhawk, đi đến mũi kiếm của Purrloiner."}
+{"id":"LUA_c285ca57b4849f","translation":"Giao Băng Ngàn Năm?"}
+{"id":"LUA_c4d7dc43e9ac20","translation":"“Kỳ vọng của cha mẹ” – Nhận nhiệm vụ?"}
+{"id":"LUA_c8a3628bed56de","translation":"Đã trao Mảnh Tim Tình Yêu."}
+{"id":"LUA_c90f3f69a7178f","translation":"Đi theo mũi tên đỏ trên màn hình trên để đến Cống ngầm Catnap!"}
+{"id":"LUA_caa970246c9681","translation":"“Chiếc đĩa hoàn hảo” – Nhận nhiệm vụ?"}
+{"id":"LUA_cccbd498132ec4","translation":"Bạn đã đưa Kẹo Sữa cho cậu ấy!"}
+{"id":"LUA_cfa56d3b0b7225","translation":"Nhớ để Sách Pháp Thuật bên cạnh nhé!"}
+{"id":"LUA_d00d5ca2030ec1","translation":"Lưu ngay?"}
+{"id":"LUA_d2c90d57bb639d","translation":"Giao một củ Boniato?"}
+{"id":"LUA_d2cfd84048adb4","translation":"“Kẻ lang thang phiêu bạt” – Nhận nhiệm vụ?"}
+{"id":"LUA_d2ebffb0095517","translation":"Đưa bà ấy Bông Tai Đỏ?"}
+{"id":"LUA_d5791816504350","translation":"Đã giao [17:4:1] Xu Catnap."}
+{"id":"LUA_d6422b46e300e8","translation":"“Đại Hiền Giả Mirant” – Nhận nhiệm vụ?"}
+{"id":"LUA_d89492a41aa85d","translation":"Bạn nhận được công thức Ghép {3:4}Đàn Hạc Nữ Thần{1:2}!"}
+{"id":"LUA_d8bdb0e223ac52","translation":"Giờ bạn có thể tăng sức mạnh vũ khí của Mary!"}
+{"id":"LUA_d90631efbee400","translation":"“Ngôn ngữ Astram” – Nhận nhiệm vụ?"}
+{"id":"LUA_d969f2345ca382","translation":"“Quý cô lười biếng” – Nhận nhiệm vụ?"}
+{"id":"LUA_da8b1102766b0a","translation":"“Người Chuột và dân Purrsian” – Nhận nhiệm vụ?"}
+{"id":"LUA_daa5ac679b9ae1","translation":"Đã giao 2 Nấm Morel Ma Thuật Đen."}
+{"id":"LUA_e12bca316d2096","translation":"Di chuyển Oliver bằng phím điều hướng hoặc màn hình cảm ứng!"}
+{"id":"LUA_e1f340a6566df3","translation":"Cửa đã khóa chặt."}
+{"id":"LUA_e4bbf93537bb58","translation":"“Ký ức về quái thú” – Nhận nhiệm vụ?"}
+{"id":"LUA_e4de0881ffbd4a","translation":"Đến đây là hết nội dung ROM này."}
+{"id":"LUA_e4e3d859f03503","translation":"Bạn đã đưa Nấm Trường Thọ cho cậu ấy."}
+{"id":"LUA_e5ae3cadc63a81","translation":"Đưa bướm vàng cho anh ấy?"}
+{"id":"LUA_e5d45a1800d79e","translation":"“{3:4}[503]{1:2}” đã trở thành bạn của bạn!"}
+{"id":"LUA_e68364500ba213","translation":"Sự kiện Đường đi của Hoàng tử Ếch"}
+{"id":"LUA_e8235889563f8d","translation":"Cho cậu ấy ít Nhiệt Huyết?"}
+{"id":"LUA_e823956f6408dc","translation":"“Con người mà tôi ghét” – Nhận nhiệm vụ?"}
+{"id":"LUA_e89c2fe565c9bf","translation":"Băng Sông Băng đã tan thành Nước Sông Băng!"}
+{"id":"LUA_e95da6739ed403","translation":"Giao cuốn Sách Sờn Cũ?"}
+{"id":"LUA_eec45a8a4b44c2","translation":"“Khúc ca Đấng Cứu Thế” – Nhận nhiệm vụ?"}
+{"id":"LUA_ef2c0b87dc99b6","translation":"Giao đèn đốt Lifecense?"}
+{"id":"LUA_f00554208127de","translation":"“Sửa thân tàu” – Nhận nhiệm vụ?"}
+{"id":"LUA_f2c24a37c5b867","translation":"Bạn đã bắt được vài con bướm vàng!"}
+{"id":"LUA_f3a00309b882e5","translation":"Nghỉ tại Quán trọ Silvervine? Một đêm giá 20G."}
+{"id":"LUA_f587b8f49d889b","translation":"“Thợ săn huyền thoại” – Nhận nhiệm vụ?"}
+{"id":"LUA_f7d7d94db41ccc","translation":"Đã giao Nước Mắt Nữ Thần."}
+{"id":"LUA_f8035fa3a85d61","translation":"Bạn đã dùng {3:4}Chìa Ghép Đỏ{1:2}."}
+{"id":"LUA_fd65aa405ca4f7","translation":"Bạn đã ký tên hoặc biệt danh vào khế ước chưa?"}
+{"id":"LUA_fe81c2ae724a24","translation":"Tìm thế này cũng khoai thật đấy…"}
+{"id":"NHI_00fd8734643311","translation":"Có một người đang tìm đồ gần lối vào Bikini Bay."}
+{"id":"NHI_02a05c4a40380b","translation":"Rune này từng có tên “Con Đường Thứ Ba” vì phép ấy giống một ký tự Astram. Đó là ký tự nào?"}
+{"id":"NHI_0b33d77d1e770a","translation":"Tìm người Purrsian ở mỗi thành phố ngoài Catnap rồi chạm mũi chào họ."}
+{"id":"NHI_0c2e989ed6f982","translation":"Một người đàn ông làm việc tại Babanacia nhờ bạn mang babana về cho mẹ ở Bikini Bay. Anh ta thề chưa nên người thì chưa về nhà, nên đành nhờ bạn chuyển hộ."}
+{"id":"NHI_11569b8cb2b817","translation":"Tại thành phố cảng Bikini Bay, một chiếc chai đựng thư trôi dạt vào bờ. Nét chữ trẻ con trong thư nhắc đến Eisburg. Hãy giúp chủ nhân lá thư."}
+{"id":"NHI_115826f1669af9","translation":"Chàng trai trước bức tượng ở Quảng trường Catnap cần bạn tìm vài thứ."}
+{"id":"NHI_1202ce7403a723","translation":"Kẹo Sữa thất lạc"}
+{"id":"NHI_12f988cc17130c","translation":"Một chàng trai gần Dinh thự Silvervine ở Đế quốc Boarg muốn nhờ bạn chuyển món đồ đặc biệt."}
+{"id":"NHI_13516779f7e646","translation":"Mang đến cho ông ấy một con Sò Béo, đặc sản Del Mokahl, để hoàn tất cuốn sách."}
+{"id":"NHI_161969027e589c","translation":"Mang Băng Ngàn Năm từ Hang Băng Giá lên đỉnh núi Dekarock để làm tan thành nước."}
+{"id":"NHI_1658f0e8cec303","translation":"Bướm có thể xuất hiện ở Catnap, Babanacia hoặc Đế quốc Boarg."}
+{"id":"NHI_1707ec765ede38","translation":"Tìm người đưa thư gần bến cảng Bikini Bay."}
+{"id":"NHI_1784437ccb105d","translation":"Pháo hoa của Tamara"}
+{"id":"NHI_17860254d01799","translation":"Một người ở trung tâm Jungle cần bạn tìm giúp một món đồ."}
+{"id":"NHI_18a82d59c5d69a","translation":"Một người ở Đế quốc Boarg cần bạn mang Rabbot và Jackrabbot đến giúp mở chiếc van bị kẹt cứng."}
+{"id":"NHI_19b6ec7f987390","translation":"[Nhiệm vụ DLC] ※Nhiệm vụ chỉ mở sau khi bạn phá đảo một lần."}
+{"id":"NHI_1a752de26c2b11","translation":"Chuyển hộ thư tình"}
+{"id":"NHI_1bce6985457018","translation":"Alec trả đũa"}
+{"id":"NHI_1ce444dde33c38","translation":"Tìm Papa Sasquash rồi đưa đến cho ông Nellory xem."}
+{"id":"NHI_1e2ce28e5c9500","translation":"Nghe nói Băng Ngàn Năm nằm sâu nhất trong Hang Băng Giá."}
+{"id":"NHI_1eeee4b3f6007e","translation":"Mật mã bí mật"}
+{"id":"NHI_21ae874efe0343","translation":"Tìm Đào Vàng trên Đảo Kayan."}
+{"id":"NHI_22717c5ccbdabd","translation":"Một người gần điểm Nhiệm vụ Martin ở làng Eisburg cần bạn tìm đồ."}
+{"id":"NHI_23eb63e385187d","translation":"Dọn sạch quái vật quanh phòng Chubell để có thể tìm manh mối."}
+{"id":"NHI_24a6c990d9c21a","translation":"Tiến hóa của Teeny Bopper"}
+{"id":"NHI_255104ea097b18","translation":"Ước nguyện của con gái"}
+{"id":"NHI_255204301f6d83","translation":"Ông Nellory, nhà nghiên cứu Imagen ở Babanacia, muốn tìm hiểu một Imagen rất giỏi điều khiển lửa. Hãy tìm và cho ông ấy xem."}
+{"id":"NHI_257c7a13204909","translation":"Mang Nấm Trường Thọ tìm trong cống đến cho Milco."}
+{"id":"NHI_26a950e1bfcb5e","translation":"Có một phụ nữ đang cần giúp đỡ trên con đường nối ngã tư với quảng trường Babanacia."}
+{"id":"NHI_26d4fe6a0ac04c","translation":"Tìm Duck-billed Bopper và Unibopper rồi cho ông Nellory xem."}
+{"id":"NHI_2988acf25a795f","translation":"Một em bé ở Eisburg khóc suốt ngày, mẹ dỗ mãi chẳng nín. Cô ấy muốn có Imagen tên Pompeii luôn cười toe toét ở bên, biết đâu em bé sẽ vui hơn."}
+{"id":"NHI_2a37cd2596dfca","translation":"Gia đình mê Babana"}
+{"id":"NHI_2db6ca3211eed2","translation":"Tín đồ sành ăn"}
+{"id":"NHI_3002a2f1187553","translation":"Tìm chiếc cưa của Colin ở vùng ven Jungle."}
+{"id":"NHI_33171a38de294c","translation":"Lính gác lâu đài Catnap nghi Oliver đáng ngờ nên không cho vào. Thu thập đủ 3 Dấu Ấn Anh Hùng, cậu ấy sẽ được qua cửa."}
+{"id":"NHI_361d7a591a1cb6","translation":"Mang Rabbot và Jackrabbot đến cho người đàn ông."}
+{"id":"NHI_3898b7489982f9","translation":"Tại thành phố trên trời Haven, một người yêu hoa muốn ngắm những cánh bướm vàng. Nghe đồn chúng xuất hiện ở ba nơi khác nhau."}
+{"id":"NHI_38a7f71cafc1d5","translation":"Tại Mộ Hiền Giả Catnap, Mirant đã nhớ lại một vũ khí pháp thuật mang hình người. Hãy đánh bại Manic Magimech để chứng minh bạn đủ sức đối đầu Shadaar."}
+{"id":"NHI_3979ce0515cae2","translation":"Tìm một người có thể sửa động cơ bị hỏng cho ông ấy."}
+{"id":"NHI_3a7fba19e9ce4a","translation":"Bùa hộ mệnh"}
+{"id":"NHI_3ae3e9cc589549","translation":"Ở Del Mokahl, Mirant nhớ đến nguồn gốc Astram của rune Cây Cầu. Có lẽ từ Astram gốc sẽ giúp anh nhặt lại một mảnh ký ức."}
+{"id":"NHI_3d23b2edf76baa","translation":"Mang Mảnh Tim Nhiệt Huyết đến cho lính gác đang chán nản."}
+{"id":"NHI_3d610a52f4c138","translation":"Tại Đế quốc Boarg, pháp sư trẻ Mirant nhớ từng được một người bạn thân cứu mạng nhưng không nhớ tên phép thuật đã cứu mình."}
+{"id":"NHI_3f4735d2d12407","translation":"[Nhiệm vụ DLC] Một người tại Quảng trường Catnap muốn nhờ tìm đồ."}
+{"id":"NHI_3f66f770abbea4","translation":"[Nhiệm vụ DLC] Cô học việc chế pháo hoa ở nhà Flint tại Del Mokahl cần Đá Cầu Vồng."}
+{"id":"NHI_3ff70132fdc682","translation":"Trao lá thư tình của Robin cho Elena tại khu phía đông."}
+{"id":"NHI_40b1b7558ebfe4","translation":"Chiếc van mắc kẹt"}
+{"id":"NHI_4202ecd3810a7c","translation":"Mang lá thư đến thành phố Eisburg xa xôi."}
+{"id":"NHI_424ea0fc3863f9","translation":"Đưa Imagen tên Pompeii, lúc nào cũng cười vui, đến cho người mẹ."}
+{"id":"NHI_438cf0d29ea80d","translation":"Thử chào theo phong tục địa phương với người phụ nữ Purrsian gần Quán trọ Silvervine ở Catnap. Biết đâu cô ấy tiết lộ điều thú vị!"}
+{"id":"NHI_4586596f8ed73c","translation":"Tamara, học việc chế pháo hoa tại Del Mokahl, muốn tạo màn pháo hoa rực rỡ như cầu vồng. Để làm được, cô cần Đá Cầu Vồng. Hãy tìm cho cô ấy."}
+{"id":"NHI_48994033011c88","translation":"Cổ Thụ ở Rừng Phương Bắc nhờ bạn tìm 2 Nấm Morel Ma Thuật Đen. Hãy tìm tại Rừng Phương Bắc và Thác Thì Thầm."}
+{"id":"NHI_48a63776bc5d4c","translation":"Mirant xuất hiện ở Rekka. Anh chợt nhớ một mật mã bí mật trong Sách Pháp Thuật. Hãy giải mã phong ấn cửa để giúp anh nhớ thêm quá khứ."}
+{"id":"NHI_4938e51dd34906","translation":"Dựa vào nét vẽ thứ hai mà Mirant nhớ được để vẽ đúng rune."}
+{"id":"NHI_4a32326af02951","translation":"Ông Nellory ở Babanacia muốn tìm hiểu hai Imagen tiến hóa từ Teeny Bopper: Duck-billed Bopper và Unibopper."}
+{"id":"NHI_4ab1828a9f14f7","translation":"Một người đàn ông ở Chợ Đen Boarg cần bạn giúp."}
+{"id":"NHI_4bacff175b6441","translation":"Đập bình hoặc thùng ở Vương quốc Catnap có thể tìm thấy Xu Catnap. Hãy kiếm 5 đồng cho chàng trai trẻ."}
+{"id":"NHI_4dc2c302d3386f","translation":"Một người trên phố phía tây Babanacia đang tìm món đồ."}
+{"id":"NHI_4e1035dbc0bdf0","translation":"Bạn hiện có [500] Dấu Ấn Anh Hùng."}
+{"id":"NHI_4eeeef9c4bc375","translation":"Pháp sư trẻ Mirant có việc nhờ Oliver gần điểm Nhiệm vụ Martin ở Rekka."}
+{"id":"NHI_4ef3b849b7ea62","translation":"Bóng dáng một Imagen"}
+{"id":"NHI_54653ed25fad75","translation":"Một người ở Đế quốc Boarg có chiếc máy đánh bạc cũ bị hỏng động cơ. Hãy tìm người giỏi sửa máy giúp ông ấy."}
+{"id":"NHI_555c391ec82034","translation":"Giờ bạn có thể nhận nhiệm vụ."}
+{"id":"NHI_555c4736a3a884","translation":"Vào lâu đài Catnap"}
+{"id":"NHI_5c71a40e402e4f","translation":"Dựa vào hình ở trang 4 Sách Pháp Thuật để trả lời câu hỏi của Mirant."}
+{"id":"NHI_5c95a63e4c57dc","translation":"Tại Mộ Hiền Giả ở Catnap, bạn gặp pháp sư trẻ Mirant. Cậu ấy sẽ tiết lộ bí mật Sách Pháp Thuật, nhưng Oliver phải chứng minh cuốn sách của mình là hàng thật, không phải bản nhái."}
+{"id":"NHI_5d046de558ccb8","translation":"Ở Đế quốc Boarg, một người luôn sợ phép tà của Jabou. Ông nhờ bạn mang đến Quả Cầu Ngọc Bích để bảo vệ mình."}
+{"id":"NHI_5e1b26485890be","translation":"Ở quảng trường có Đài phun Sữa tại Babanacia, có một người đàn ông rất mê Imagen."}
+{"id":"NHI_5e9389789b77fd","translation":"Pháp sư Mirant"}
+{"id":"NHI_5f3b70b5213fa7","translation":"Một Bộ Xương ở Hang Coconanda còn điều canh cánh. Chưa được nếm Đào Vàng một lần thì sao yên lòng theo bạn bè sang thế giới bên kia! Hãy tìm một quả cho hắn."}
+{"id":"NHI_60dda24d88401e","translation":"Tìm Quả Cầu Ngọc Bích rồi mang đến cho ông ấy."}
+{"id":"NHI_63bf236442fe4f","translation":"Trong hẻm dẫn đến Chợ Đen Boarg có một người đang loay hoay với chiếc van không chịu mở."}
+{"id":"NHI_65b091c10d5ee9","translation":"[Nhiệm vụ DLC] Một cậu bé gần lối vào cống ở Catnap đang tìm đồ."}
+{"id":"NHI_677e5a954d5f39","translation":"Pháp sư Mirant đang tận hưởng kỳ nghỉ ở Bikini Bay. Anh muốn tạo “Công thức Đặc biệt” mới để Ghép đồ nhưng quên béng cách làm. Hãy mang Kẹo Caramel Kem đến gợi trí nhớ."}
+{"id":"NHI_69181f357c23f8","translation":"[Nhiệm vụ DLC] ※Chỉ mở sau khi phá đảo một lần và hoàn thành “Kho báu bí mật của Chubell”."}
+{"id":"NHI_69f897fa523c8f","translation":"Gạc Deerbeast"}
+{"id":"NHI_6a95bc121e0089","translation":"Tạo nên phép màu"}
+{"id":"NHI_6b2ad9e71ab9c7","translation":"Nguồn gốc Rune"}
+{"id":"NHI_6b72eea4616e08","translation":"Công thức Ghép mới"}
+{"id":"NHI_6c63604f465e25","translation":"Một cô bé ở Eisburg đêm nào cũng ước sao cho cha trở về. Ông tên Alec, đã ra khơi về phương nam từ lâu mà chưa thấy về. Hãy báo tin cho cô bé nếu bạn tìm được ông."}
+{"id":"NHI_70884b36099638","translation":"Một người ở rìa thị trấn Jungle cần bạn tìm đồ."}
+{"id":"NHI_744966cde454f3","translation":"Một cô gái gần tiệm rèn Blackbird đang phiền lòng vì ngày càng nhiều hình vẽ bậy."}
+{"id":"NHI_7487ebc830bcc4","translation":"Nỗi nuối tiếc của Bộ Xương"}
+{"id":"NHI_751ca59720fee4","translation":"Sửa thân tàu"}
+{"id":"NHI_7568164b8e4bcd","translation":"Dường như có một linh hồn người ở Mộ Hiền Giả tại Vương quốc Catnap."}
+{"id":"NHI_770cdc63000369","translation":"Xóa sạch hình vẽ bậy!"}
+{"id":"NHI_772ef7eaddbc28","translation":"Những cánh bướm vàng"}
+{"id":"NHI_77ec12e2cddf27","translation":"Mirant đang chờ Oliver ở khu nhà kho Del Mokahl với một lời nhờ."}
+{"id":"NHI_7a11ae2e20271e","translation":"[Nhiệm vụ DLC] Trong Hang Coconanda còn một thợ đóng tàu cần bạn giúp."}
+{"id":"NHI_7a9d7cdbf30441","translation":"Loại thuốc hiệu nghiệm ấy có tên “Bí Mật Ca Nữ”."}
+{"id":"NHI_7ac575df9a7a99","translation":"Xóa hình vẽ bậy trên các bức tường ở Vương quốc Catnap."}
+{"id":"NHI_7cad653c480a51","translation":"Kho báu giấu kín của Chubell"}
+{"id":"NHI_7d0f28199dd21c","translation":"Imagen dịu dàng"}
+{"id":"NHI_80dcd135e961e4","translation":"Một chàng trai ở Haven, thành phố nổi giữa trời, bị dị ứng Imagen rất nặng. Nghe nói có thuốc chữa, anh nhờ bạn tìm đủ ba nguyên liệu."}
+{"id":"NHI_82fe3206a9d26b","translation":"Nghe Mirant gợi ý về các phong ấn cửa trong Sách Pháp Thuật rồi cho anh biết mật mã."}
+{"id":"NHI_8462faabc30b7f","translation":"Một phụ nữ Purrsian ở Catnap có tám đứa cháu. Cô bảo sẽ có chuyện hay nếu bạn chào người Purrsian ở các thành phố khác bằng cách chạm mũi họ."}
+{"id":"NHI_84c9a02835cb9c","translation":"Một người ở Eisburg muốn chứng minh rằng cái đĩa còn quan trọng hơn cả vị món ăn! Ông cần Băng Ngàn Năm để chế tác chiếc đĩa tuyệt đỉnh."}
+{"id":"NHI_85fdc0e75a6c3f","translation":"Ông Nellory, nhà nghiên cứu Imagen ở Babanacia, muốn biết thêm về một Imagen trông như dơi ngầu đeo kính râm."}
+{"id":"NHI_88bae6c6d5283a","translation":"Lấy một Mảnh Tim Nhiệt Huyết từ người lính đang tràn đầy nhiệt huyết."}
+{"id":"NHI_8b9ea1c8dfc78f","translation":"Đá Cầu Vồng là món cực kỳ hiếm."}
+{"id":"NHI_8baba4261fa984","translation":"Người gác cổng Rỗng Tim"}
+{"id":"NHI_8cdf59c765be79","translation":"Một phụ nữ ở Babanacia đau họng đến mức gần như không nói nổi! Nếu tìm được thuốc trị họng, hãy mang đến cho cô ấy."}
+{"id":"NHI_8d7e4533f2e21a","translation":"Cổ Thụ sâu trong Rừng Phương Bắc nhờ bạn tìm giúp một món đồ."}
+{"id":"NHI_8f6ea89d4d23b1","translation":"Một người đàn ông tại Sòng bạc Del Mokahl đang tha thiết muốn chứng kiến phép màu."}
+{"id":"NHI_8f94088a3412e0","translation":"Thuốc trị đau họng hiệu nghiệm"}
+{"id":"NHI_90a0d92bf5538a","translation":"Bạn còn phải đưa [17:4:1] Xu Catnap cho chàng trai ở Quảng trường Catnap."}
+{"id":"NHI_90ac2857202cdd","translation":"Alec mắc kẹt ở Jungle vì đang sửa tàu. Ông chỉ thiếu ít gỗ cứng nữa là lên đường được. Hãy tìm và mang đến cho ông."}
+{"id":"NHI_928e23ed8603db","translation":"Đánh bại Manic Magimech hồi sinh trên đồng bằng tây nam Rekka."}
+{"id":"NHI_94d3544e3ff6da","translation":"Hãy tìm 2 Nấm Morel Ma Thuật Đen quanh Rừng Phương Bắc và Thác Thì Thầm."}
+{"id":"NHI_95587473b016f4","translation":"Một người đàn ông trong nhà dân ở thành phố Haven muốn nhờ bạn một việc."}
+{"id":"NHI_963af4efb31ef1","translation":"Thu thập Xu Catnap"}
+{"id":"NHI_97c08ec1b92c6f","translation":"Trả lời đúng mọi câu hỏi của Mirant về Sách Pháp Thuật."}
+{"id":"NHI_9a3046dd47043d","translation":"Ký ức về quái thú"}
+{"id":"NHI_9e92191ddde876","translation":"Ai ở Sòng bạc Del Mokahl cũng mong giấc mơ thành sự thật. Có lẽ họ cần một phép màu! Bạn có làm được điều người đàn ông trong sòng bạc nhắc đến không?"}
+{"id":"NHI_9ea8e63238ae29","translation":"Một phụ nữ gần điểm Nhiệm vụ Martin ở Eisburg cần bạn tìm đồ."}
+{"id":"NHI_9f6cd308adc7f9","translation":"Pháp sư trẻ Mirant tại Mộ Hiền Giả ở Catnap có chuyện muốn nhờ Oliver."}
+{"id":"NHI_a0070e99382447","translation":"Mang Kẹo Caramel Kem đến thưởng Mirant, giống như thầy anh từng làm."}
+{"id":"NHI_a2343855393c2c","translation":"Một chàng trai ở quảng trường Haven có chứng dị ứng Imagen kỳ lạ đang cần giúp."}
+{"id":"NHI_a30645dc54ee5a","translation":"Pháp sư trẻ Mirant có việc muốn nhờ Oliver trên con phố phía tây Babanacia."}
+{"id":"NHI_a4d77c0049220f","translation":"Chạm mũi dân Purrsian"}
+{"id":"NHI_a611f86e50c31d","translation":"Trao Mảnh Tim Nhiệt Huyết cho người lính chán nản."}
+{"id":"NHI_a9986846517f52","translation":"Tìm 5 Xu Catnap tại Vương quốc Catnap."}
+{"id":"NHI_a9b2e978fa4bb6","translation":"Đại Hiền Giả Mirant"}
+{"id":"NHI_aabf77d96a18ba","translation":"Tìm một Imagen giỏi dùng lửa rồi cho ông Nellory xem."}
+{"id":"NHI_ab782e0424087d","translation":"Imagen biết pha trò"}
+{"id":"NHI_ad2b3b858cc07e","translation":"Imagen xứ Moya"}
+{"id":"NHI_b07e47dedfabf9","translation":"[Nhiệm vụ DLC] Trước Cổng Cống Catnap có người đang nhờ tìm đồ."}
+{"id":"NHI_b14e7460bf99b8","translation":"Mirant, hồn ma pháp sư trẻ, cần bạn giúp ở thành phố trời Haven. Anh tin một con quái có cái đầu lơ lửng sẽ giúp mình nhớ lại chuyện cũ. Hãy tìm nó."}
+{"id":"NHI_b1fbb4a95b1413","translation":"Tìm Sea Naiad và cho ông Nellory xem."}
+{"id":"NHI_b834482a217cf0","translation":"Có người đang chờ Oliver ở Mộ Hiền Giả tại Vương quốc Catnap."}
+{"id":"NHI_b8a356459f274a","translation":"Ông Nellory ở Babanacia muốn tìm hiểu một Imagen hiền hòa tên Sea Naiad. Hãy bắt gặp một con rồi đưa đến cho ông xem."}
+{"id":"NHI_b9b9de5ae01b73","translation":"Gặp lại pháp sư trẻ Mirant tại Babanacia, bạn biết có một bí mật viết bằng Astram trong Sách Pháp Thuật. Khổ nỗi Mirant chẳng nhớ ra đó là gì."}
+{"id":"NHI_baf51c0d0cd063","translation":"Shizuku cho rằng một lính gác cổng ở Vương quốc Catnap đã bị Rỗng Tim. Hãy khôi phục Nhiệt Huyết đã mất của anh ta. Người lính đứng cạnh có vẻ dư dả thứ ấy."}
+{"id":"NHI_bc132722306291","translation":"Alec gặp một đám quái biển dữ tợn. Hãy tìm con đã trộm Mề Đay Bạc và lấy lại cho ông."}
+{"id":"NHI_bc2e707a9f428b","translation":"Trả lời đúng mọi câu hỏi của Mirant về ngôn ngữ Astram."}
+{"id":"NHI_be2622847f6d68","translation":"Bạn đang có [8:184] Nấm Morel Ma Thuật Đen."}
+{"id":"NHI_bedadb2d61850b","translation":"Người thợ xuyên hai thế giới"}
+{"id":"NHI_c0ca69efe651fb","translation":"Khám phá Vương quốc Catnap để thu thập Dấu Ấn Anh Hùng."}
+{"id":"NHI_c29a6f5fa8beb8","translation":"Pháp sư Mirant đang tìm Oliver gần khu nhà dân của Đế quốc Boarg."}
+{"id":"NHI_c34002fd802e01","translation":"Một phụ nữ ở Eisburg quyết thắng cuộc thi nấu ăn bằng nguyên liệu đỉnh nhất. Bà cần Nước Ngàn Năm để món súp đậm đà hơn. Hãy tìm và mang về."}
+{"id":"NHI_c5330a35b73644","translation":"Lính gác cổng lâu đài Catnap không cho người thiếu đáng tin cậy vào trong."}
+{"id":"NHI_c71bb339459156","translation":"Pháp sư trẻ Mirant tại Mộ Hiền Giả ở Catnap muốn thử kiến thức Astram của bạn, nền tảng mọi phép thuật. Không nắm Astram thì đừng mơ thành pháp sư!"}
+{"id":"NHI_c8f739a32bfecb","translation":"Mang số babana được giao đến cho mẹ anh ấy ở Bikini Bay."}
+{"id":"NHI_ca9717fe9dcf64","translation":"Đọc chữ Astram ở trang 124 Sách Pháp Thuật và tìm bí mật được giấu ở đó."}
+{"id":"NHI_cc28791602ec5c","translation":"Giấc mơ của đứa trẻ"}
+{"id":"NHI_d19e25394adf9e","translation":"Một ông lão ở Babanacia làm sách dạy nấu ăn có tranh suốt 10 năm. Chỉ thiếu một nguyên liệu là hoàn thành, thế mà ông lại hết sạch tiền!"}
+{"id":"NHI_d207b3500d09b9","translation":"Ở Mộ Hiền Giả Catnap, Mirant đã khôi phục ký ức. Ông hứa dạy bạn loại hắc thuật mạnh nhất để đánh bại “kẻ muốn thành Thần”, nhưng Oliver phải chứng tỏ bản lĩnh trước."}
+{"id":"NHI_d20c911537a5cb","translation":"Bí mật giấu trong áo giáp"}
+{"id":"NHI_d20d276e450f73","translation":"Cậu bé Milco ở Catnap có Nhiệt Huyết dồi dào. Hãy xuống Cống ngầm Catnap tìm Nấm Trường Thọ cho cậu, trước khi cậu tự mò xuống đó!"}
+{"id":"NHI_d229198fcbaa62","translation":"Hẳn ai đó ở Jungle biết về gỗ. Hãy tìm người để hỏi nhé."}
+{"id":"NHI_d3b418f204e792","translation":"Bạn đã xóa [17:3:0] hình vẽ bậy trên tường."}
+{"id":"NHI_d4bd0b6ff513a4","translation":"Colin ở Jungle làm nghề đốn gỗ nhưng làm mất cưa trong khu rừng ngoài thị trấn. Hãy tìm lại giúp anh ấy."}
+{"id":"NHI_d529864264b8bf","translation":"Đánh bại Deerbeast Ẩn Dật ở Rừng Morel và mang Gạc Deerbeast Ẩn Dật về."}
+{"id":"NHI_d6a98b1b94d7e0","translation":"Một cư dân Catnap muốn dọn sạch những hình vẽ bậy xấu xí. Hãy xóa hết chúng."}
+{"id":"NHI_d7283619631f58","translation":"Anh ấy muốn bạn mang tới Panacea, Nước Mắt Nữ Thần và Magicine."}
+{"id":"NHI_d8359a969c790f","translation":"Dị ứng Imagen"}
+{"id":"NHI_da21e705a2365d","translation":"Ngoài biển phía tây Jungle, tìm Blubber Bubbler và lấy lại Mề Đay Bạc của Alec."}
+{"id":"NHI_da436264a1bac6","translation":"Một phụ nữ trong nhà ở Eisburg cần giúp dỗ đứa con đang khóc."}
+{"id":"NHI_da6cd4680da173","translation":"Chiếc cưa thất lạc"}
+{"id":"NHI_df39f3aad36d56","translation":"Brain cần một viên Kẹo Sữa để đền viên bị bạn mình ăn mất. Bạn sẽ gặp cậu ấy trước Cổng Cống Catnap."}
+{"id":"NHI_e3043305479452","translation":"Thử tìm manh mối về Imagen bí ẩn ấy trong Sách Pháp Thuật."}
+{"id":"NHI_e3f2cac1e556de","translation":"Gần cửa hàng babana của Suren ở Babanacia có người muốn nhờ chuyển đồ."}
+{"id":"NHI_e411a48a598c19","translation":"Ông Nellory ở Babanacia muốn biết thêm về một Imagen đến từ vùng đất huyền thoại Moya."}
+{"id":"NHI_e5073b6067d679","translation":"Tại thành phố cảng Bikini Bay, pháp sư Mirant đang chờ gần Suối nước nóng Silvervine. Anh có việc nhờ Oliver."}
+{"id":"NHI_e85dbaba7ffd12","translation":"Elsa muốn biết cha mình, Alec, đã đi đâu. Tìm ông rồi báo cho Elsa nhé."}
+{"id":"NHI_e91c98b9fb3324","translation":"Việc nhờ vả của Cổ Thụ"}
+{"id":"NHI_ecaef9a28af0d2","translation":"Mirant nhớ ra một từ Astram gợi ý tên sinh vật ấy. Hãy tra trong Sách Pháp Thuật."}
+{"id":"NHI_ed79918e41de6a","translation":"Robin ở Đế quốc Boarg nhờ chuyển thư tình cho cô gái anh thích. Anh chàng ngại đến nỗi chẳng dám tự đưa!"}
+{"id":"NHI_f33cef1fbec8dc","translation":"Câu chú của bạn cũ"}
+{"id":"NHI_f59e6a3a0ea9ce","translation":"Súp lươn tuyệt hảo"}
+{"id":"NHI_f642019bd81701","translation":"Chạm mũi chào người Purrsian tại tất cả thành phố ngoài Catnap."}
+{"id":"NHI_f6513667e901a0","translation":"Chiếc đĩa hoàn hảo"}
+{"id":"NHI_f70a1f8a68b513","translation":"Đỉnh Tháp Moya"}
+{"id":"NHI_f886da904726e0","translation":"Ngôn ngữ Astram"}
+{"id":"NHI_fa8f823c2b64a5","translation":"Mirant có việc nhờ Oliver gần điểm Nhiệm vụ Martin ở Haven."}
+{"id":"NHI_fc07e6ebb4f44b","translation":"Có một người đang sợ xanh mặt gần khu nhà dân ở Đế quốc Boarg."}
+{"id":"NHI_fd5dea1b8a377a","translation":"Nhà nghiên cứu Imagen"}
+{"id":"NHI_fe8c6b7549aba3","translation":"Một cô bé ở trung tâm Eisburg đang chờ cha về. Hãy tìm ông giúp em."}
+{"id":"NHI_ffb438481973b4","translation":"Quay được ba số 7 liên tiếp trên máy đánh bạc. Đó là “Phép Màu Ba Số Bảy”."}
+{"id":"NHI_fff2c6dfcb1fc9","translation":"Tìm Brain ở Quảng trường Catnap. Cậu ấy cần trả lại kho báu Chubell từng trộm, nhưng Chubell đã giấu kỹ, chẳng ai biết ở đâu. Hãy tìm manh mối tận đáy cống ngầm."}
+{"id":"NOI_0731030920388c","translation":"Công thức Bánh Gạo"}
+{"id":"NOI_0826c08c91bfcf","translation":"Nhận được Vé Mite"}
+{"id":"NOI_093bc215e0b7fe","translation":"Hiệp sĩ Bị Nguyền 1"}
+{"id":"NOI_10ffdae1092140","translation":"Công thức Bánh Gạo Giòn"}
+{"id":"NOI_1567575d74c3f5","translation":"Nhận được Vé Sapdragon"}
+{"id":"NOI_159507b9a83834","translation":"Nhiệm vụ Săn Bắt 7"}
+{"id":"NOI_17d5c99af3034e","translation":"Công thức Kiếm Lửa"}
+{"id":"NOI_183d9ad4ee2a44","translation":"Kho báu giấu kín của Chubell"}
+{"id":"NOI_1a83a09d5daf39","translation":"Nhận được Vé Dinoceros"}
+{"id":"NOI_1a8a38de06f3bd","translation":"Nhận được Kẹo Bông"}
+{"id":"NOI_2023c2b37f37ad","translation":"Nhận được Giọt Bạch Kim"}
+{"id":"NOI_21b83e301fca42","translation":"Nhận được Vé Toko"}
+{"id":"NOI_244ad82d02f718","translation":"Nhận được Vé Tu-Whit"}
+{"id":"NOI_26cc8180fdbe4a","translation":"Nhận được Vé Fightingale"}
+{"id":"NOI_2731dbeb25b061","translation":"Nhận được Kem Đá Bào"}
+{"id":"NOI_2c9cd6ac137498","translation":"Nhận được Bi Xanh Lá"}
+{"id":"NOI_35e1950d47eeef","translation":"Công thức Trường Kiếm"}
+{"id":"NOI_38fd4486929a29","translation":"Chiếc bông tai thất lạc"}
+{"id":"NOI_3dcd8b984f679e","translation":"Nỗi hối tiếc của Bộ Xương"}
+{"id":"NOI_460230b6f76917","translation":"Kẹo Sữa bị mất của Brain"}
+{"id":"NOI_4c76c44f1edbdd","translation":"Nhận được Vé Kipper"}
+{"id":"NOI_4f6021460e4ba2","translation":"Hiệp sĩ Bị Nguyền 2"}
+{"id":"NOI_553517c63091b6","translation":"Nhận được Vé Karu Kid"}
+{"id":"NOI_55999e90061a11","translation":"Nhận được Món Hầm"}
+{"id":"NOI_5c3a98c40bdff9","translation":"Nhận được Vé Dinkey"}
+{"id":"NOI_5eccfd7b7700c8","translation":"Nhận được Vé Teeny Bopper"}
+{"id":"NOI_5ffeadaff1769f","translation":"Công thức Giáp Lửa"}
+{"id":"NOI_64565fba6515a0","translation":"Công thức Bánh Giáng sinh"}
+{"id":"NOI_64fe63c73996d5","translation":"Nhận được Vé Purrloiner"}
+{"id":"NOI_66442a88e61905","translation":"Nhận được Vé Catastroceros"}
+{"id":"NOI_6aad5a5d78146b","translation":"Công thức Bánh Gạo Sakura"}
+{"id":"NOI_85ece157939a43","translation":"Công thức Siêu Va Chạm"}
+{"id":"NOI_8768f2b195f4bd","translation":"Nhận được Giọt Xanh Dương"}
+{"id":"NOI_897f92acce413e","translation":"Nhận được Vé Ruffian"}
+{"id":"NOI_8ec8811e5465cf","translation":"Công thức Giáp Bí Ẩn"}
+{"id":"NOI_9017715be84063","translation":"Nhận được Giọt Xanh Lá"}
+{"id":"NOI_913687b3e221ae","translation":"Nhận được Vé Captain W."}
+{"id":"NOI_9c07f3c15f7d67","translation":"Nhiệm vụ Săn Bắt 3"}
+{"id":"NOI_9c1cacfb17e31e","translation":"Nhiệm vụ Săn Bắt 1"}
+{"id":"NOI_a08c6bea70946e","translation":"Nhận được Giọt Vàng Kim"}
+{"id":"NOI_a4e055c460f4ec","translation":"Nhận được Vé Tin-Man"}
+{"id":"NOI_acdc35e7897147","translation":"Nhiệm vụ Săn Bắt 5"}
+{"id":"NOI_ae8ce87f957c09","translation":"Nhận được Bi Đỏ"}
+{"id":"NOI_b1f43b8cb1499e","translation":"Nhiệm vụ Săn Bắt 9"}
+{"id":"NOI_b7173d92a59723","translation":"Công thức Sữa chua Trái cây"}
+{"id":"NOI_ba6a10b3d3624f","translation":"Pháo hoa của Tamara"}
+{"id":"NOI_c74f0cde6b5f11","translation":"Hiệp sĩ Bị Nguyền 3"}
+{"id":"NOI_c8fbf97f76b119","translation":"Công thức Nhẫn Linh Hồn"}
+{"id":"NOI_c96459bdc55cac","translation":"Công thức Trượng Bậc Thầy"}
+{"id":"NOI_c9813c12b40196","translation":"Milco và Gạc Deerbeast"}
+{"id":"NOI_c9e8f21fcb0e78","translation":"Nhận được Vé Lumberwood"}
+{"id":"NOI_ce7d4fa460e775","translation":"Nhận được Vé Potty"}
+{"id":"NOI_d363d1c6bffb4e","translation":"Nhận được Giọt Vàng"}
+{"id":"NOI_d70da27022b116","translation":"Nhận được Giọt Cam"}
+{"id":"NOI_d8e64c6dc62488","translation":"Công thức Tim Sô-cô-la"}
+{"id":"NOI_dc7b076699729a","translation":"Nhận được Vé Small Fry"}
+{"id":"NOI_e6f1e7a62e30e6","translation":"Người Chuột và dân Purrsian"}
+{"id":"NOI_e7584e8f927ea6","translation":"Nhận được Cà rốt Tuyết"}
+{"id":"NOI_ed2c1e32de3d4b","translation":"Nhiệm vụ Săn Bắt 2"}
+{"id":"NOI_edf80f73848771","translation":"Nhận được Giọt Tím"}
+{"id":"NOI_ee8676092f0484","translation":"Nhiệm vụ Săn Bắt 6"}
+{"id":"NOI_f24a62ea3ade61","translation":"Nhiệm vụ Săn Bắt 4"}
+{"id":"NOI_f2e7e0d29da415","translation":"Nhiệm vụ Săn Bắt 8"}
+{"id":"NOI_f756d9c72d6e35","translation":"Nhận được Vé Boggly-Boo"}
+{"id":"NOI_f943245aab307f","translation":"Nhiệm vụ Săn Bắt 10"}
