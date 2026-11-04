@@ -1,0 +1,73 @@
+{
+  "batch_range": "14-17",
+  "new_translations": 720,
+  "cumulative_translations": 3830,
+  "source_files": [
+    "hoi_thoai_015.jsonl",
+    "hoi_thoai_016.jsonl",
+    "hoi_thoai_017.jsonl",
+    "hoi_thoai_018.jsonl"
+  ],
+  "new_files_validated": 4,
+  "validated_entries": 720,
+  "duplicate_ids": 0,
+  "protected_token_errors": 0,
+  "invalid_json": 0,
+  "empty_translations": 0,
+  "old_entries_preserved": 3110,
+  "review_flags": [
+    {
+      "batch": 14,
+      "source_index": 102,
+      "note": "Source contains Sinbad (?) – needs contextual verification"
+    },
+    {
+      "batch": 15,
+      "source_index": 62,
+      "note": "Imagen Manhole term Cống Imagen provisional"
+    },
+    {
+      "batch": 15,
+      "source_index": 141,
+      "note": "Internal label NPC20 Lady Hint"
+    },
+    {
+      "batch": 15,
+      "source_index": 149,
+      "note": "Japanese internal NPC marker ＮＰＣ２４ 店主_マタタビ"
+    },
+    {
+      "batch": 16,
+      "source_index": 153,
+      "note": "Password riddle about boar rock-paper-scissors: confirm game puzzle matching"
+    },
+    {
+      "batch": 16,
+      "source_index": 162,
+      "note": "Temporary tutorial NPC internal label"
+    },
+    {
+      "batch": 16,
+      "source_index": 34,
+      "note": "Septimus Medals, Seek Fortune: confirm names with magic UI"
+    },
+    {
+      "batch": 17,
+      "source_index": 55,
+      "note": "Source numeration of 13 children, including quintuplets, should be verified in game"
+    },
+    {
+      "batch": 17,
+      "source_index": 126,
+      "note": "Ward translated Hộ Thể is provisional spell UI term"
+    },
+    {
+      "batch": 17,
+      "source_index": 151,
+      "note": "Jade Sphere translated Cầu Ngọc Bích is provisional item UI term"
+    }
+  ],
+  "rom_tested": false,
+  "font_tested": false,
+  "textbox_tested": false
+}
