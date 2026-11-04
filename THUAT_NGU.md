@@ -58,6 +58,13 @@ Giữ tên người và địa danh bản DS, như Oliver, Shizuku, Mary, Jairo,
 | Bikini (địa danh) | Bikini |
 | Tourism Ambassador | Đại sứ Du lịch |
 | Babana (fruit) | babana (quả) |
+| Sausage | Xúc xích |
+| Premium Rice | Gạo Hảo Hạng |
+| Spicy Pilaf | Cơm Pilaf Cay |
+| Shrine of Spirit | Đền Linh Hồn |
+| Sacred Arrow (spell) | Thánh Tiễn |
+| Pulse (spell) | Xung Ba |
+| Drongo | Drongo |
 | Songstress' Secret | Bí Quyết Danh Ca |
 | Martin's Missions | Nhiệm Vụ Martin |
 
@@ -69,3 +76,8 @@ Giữ tên người và địa danh bản DS, như Oliver, Shizuku, Mary, Jairo,
 - **Hệ thống:** dùng "bạn" hoặc mệnh lệnh ngắn gọn, tránh văn vẻ làm tràn nút.
 
 Gợi ý dịch chỉ áp dụng khi đúng bối cảnh; không ép một đại từ cho mọi câu. Không bịa khi chuỗi nguồn vô nghĩa.
+
+
+## Ngữ cảnh đợt 06
+
+Suren nói **ta/cháu** với Oliver, **cha/con** với Mary; Oliver nói **cháu/thầy**; Mary nói **con/cha**, với Oliver nói **tớ/cậu**. Các cảnh gia đình, chữa lành và lời thề gìn giữ hòa bình nên ấm áp, không cố chọc cười. Trong bản đồ Babanacia, giữ nguyên **Owl's Cowls** và **Blackbird Blacksmith** khi chưa có thuật ngữ thống nhất; dùng **Nhiệm Vụ Martin** và **Suối nước nóng Silvervine** theo bảng trước đó.
