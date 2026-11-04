@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-05",
+  "new_batches": [
+    34,
+    35,
+    36,
+    37
+  ],
+  "new_source_files": [
+    "hoi_thoai_035",
+    "hoi_thoai_036",
+    "hoi_thoai_037",
+    "hoi_thoai_038"
+  ],
+  "per_file_valid": {
+    "35": 180,
+    "36": 180,
+    "37": 180,
+    "38": 180
+  },
+  "new_translations": 720,
+  "total_translations": 7423,
+  "unique_ids": 7423,
+  "source_checker_pass": true,
+  "json_errors": 0,
+  "placeholder_errors": 0,
+  "duplicate_ids": 0,
+  "max_lines_per_new_entry": 3,
+  "max_characters_per_line": 48,
+  "manual_2024_exact_source_matches": 16,
+  "pending_import_and_font_tests": true,
+  "notes": "Technical check only: no ROM rebuild, image/layout tests, or actual gameplay tests."
+}
