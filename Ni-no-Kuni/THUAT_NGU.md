@@ -365,3 +365,27 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 **Ngôi xưng:** Marcel trước đây mất niềm tin, cần giữ ngữ điệu cay đắng/giằng xé; Oliver với bạn bè dùng tớ/cậu và với người lớn dùng cháu/ông, thầy; mẹ–Oliver dùng mẹ/con; Mark–Oliver là bạn thuở nhỏ tớ/cậu. Nhân vật bí ẩn ở khu câu đố tự xưng ta/cậu, kỳ quặc nhưng không phá lời giải.
 
 **Cần rà khi nhập ROM:** Câu nguồn `hoi_thoai_038` nhắc phép `Take Heart` để *trao* Mảnh Tim cho Mark (thông thường `Give Heart`/Trao Tim); bản dịch giữ tên phép theo nguồn thành `Thu Tim`, chờ xác minh nút thực tế. Một số câu đố trong `hoi_thoai_037` dựa trên từ đối xứng tiếng Anh (ví dụ “racecar”) — đã giữ ví dụ tiếng Anh để không làm sai logic.
+
+
+## Bổ sung đợt 38–41 (05/11/2026)
+
+| Nguyên gốc DS | Thuật ngữ thống nhất |
+|---|---|
+| Giant Firework | Pháo Hoa Khổng Lồ |
+| Chart Chests (spell) | Dò Rương *(cần kiểm tra tên nút)* |
+| Seek Fortune (spell) | Tầm Bảo *(theo thuật ngữ cũ, cần kiểm tra tên nút)* |
+| Hidden Chest | Rương Ẩn |
+| Soul Bond | Liên Kết Linh Hồn |
+| Centree | Cây Trăm Năm |
+| Centree sapling | Mầm Cây Trăm Năm |
+| Tail Wrestling | Đấu Đuôi |
+| Wizard's Pledge | Lời Thề Pháp Sư |
+| Bake Bread (spell) | Nướng Bánh Mì |
+| Wizard's Daily Gazette | Bản Tin Pháp Sư Hằng Ngày |
+| Hero Stamp Card | Thẻ Dấu Anh Hùng *(cần kiểm tra giao diện)* |
+| Carrying Cage | Lồng Mang Theo *(cần kiểm tra giao diện)* |
+| Red Earring | Khuyên Tai Đỏ |
+| Ship's Graveyard | Nghĩa Địa Tàu |
+
+**Giọng thoại:** Alicia–Jabou nghiêm túc; Cowla hài hước, Kuran kính cẩn. Trẻ Purrsian xưng tớ/cậu, em/anh tùy đối tượng. Không tự bỏ các đoạn lặp nội dung nếu ID gốc khác nhau.
+
