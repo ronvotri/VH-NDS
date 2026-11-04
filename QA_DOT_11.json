@@ -1,0 +1,23 @@
+{
+  "batch": 11,
+  "source_file": "hoi_thoai_012.jsonl",
+  "new_entries": 180,
+  "cumulative_unique_ids": 2750,
+  "validator_report": {
+    "files": 1,
+    "ids_seen": 180,
+    "translations_ok": 180,
+    "empty_skipped": 0,
+    "errors": [],
+    "note": "Checks IDs, JSON and protected tokens only. No font, byte capacity, layout, ROM or narrative QA."
+  },
+  "review_longer_than_source": [],
+  "review_ui_terms": [
+    "Imagen Manhole -> Cống Imagen",
+    "Synthesize with Recipe -> Ghép theo Công thức",
+    "Carrying Cage -> Lồng Mang Imagen"
+  ],
+  "rom_tested": false,
+  "font_tested": false,
+  "textbox_tested": false
+}
