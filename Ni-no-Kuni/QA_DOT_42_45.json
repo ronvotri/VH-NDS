@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-05",
+  "batches": [
+    42,
+    43,
+    44,
+    45
+  ],
+  "files": [
+    "hoi_thoai_043",
+    "hoi_thoai_044",
+    "hoi_thoai_045",
+    "hoi_thoai_046"
+  ],
+  "new_translated": 720,
+  "total_translated": 8863,
+  "unique_ids": 8863,
+  "source_validator": {
+    "files": 45,
+    "valid": 8863,
+    "empty": 0,
+    "errors": 0
+  },
+  "new_layout_checks": {
+    "max_lines": 3,
+    "max_characters_per_line": 48,
+    "violations": 0
+  },
+  "rom_imported": false,
+  "font_and_gameplay_tested": false,
+  "notes": "Technical QA only. Glossary, riddles and demo notices require in-game verification."
+}
