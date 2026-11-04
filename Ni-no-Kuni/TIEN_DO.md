@@ -1,6 +1,27 @@
 # Tiến độ Việt hóa Ni no Kuni DS
 
-**05/11/2026 — 37 đợt — 7.423 / 17.935 mục ưu tiên (41,39%). Còn 10.512 mục.**
+**05/11/2026 — 41 đợt — 8.143 / 17.935 mục ưu tiên (45,40%). Còn 9.792 mục.**
+
+## Đợt 38–41
+
+| Đợt | Tệp nguồn | Đã dịch | Hoãn |
+|---|---|---:|---:|
+| 38 | `hoi_thoai_039` | 180 | 0 |
+| 39 | `hoi_thoai_040` | 180 | 0 |
+| 40 | `hoi_thoai_041` | 180 | 0 |
+| 41 | `hoi_thoai_042` | 180 | 0 |
+| **Mới** | | **720** | **0** |
+
+- Công cụ kiểm tra nguồn chấp nhận **720/720 mục**, không lỗi ID, JSON hay mã điều khiển.
+- Bản tích lũy có **8.143 ID duy nhất**. Ngắt tối đa ba dòng/câu, 48 ký tự/dòng theo văn bản, **chưa xác minh độ rộng font thực**.
+- Đối chiếu kho dịch tay 2024 có **6 câu trùng nguyên văn**, chủ yếu lời ngắn; chỉ dùng để tham khảo.
+- Giữ nguyên **11 mục hoãn cũ** (4 chuỗi nguồn nghi lỗi, 7 nhãn thử nghiệm).
+- Cần rà các tên phép Dò Rương/Tầm Bảo, ngữ cảnh hồi tưởng Alicia–Jabou, ba câu hỏi Lời Thề Pháp Sư và thuật ngữ mới. Xem `CAN_RA_DOT_38_41.md`.
+
+**Chưa nhúng ROM hay kiểm thử trên NDS. Không nhập đồng thời bản gộp và tệp rời.**
+
+## Lịch sử đợt 34–37
+
 
 ## Đợt 34–37
 
