@@ -1,8 +1,8 @@
 # Việt hóa Nintendo DS — Votri Valley
 
-Kho dùng chung cho nhiều dự án Việt hóa NDS. Mỗi game được cách ly trong một thư mục riêng: bản dịch, thuật ngữ, tiến độ và công cụ kiểm tra.
+Kho dùng chung cho các dự án Việt hóa NDS. **Mỗi game một thư mục độc lập**, có bản dịch, thuật ngữ và tiến độ riêng, tránh lẫn dữ liệu.
 
-- [Ni no Kuni DS](Ni-no-Kuni/README.md) — Bản dịch theo ID, không chứa ROM. Mốc trên repo: 17 đợt / 3.830 mục. Các gói mới sẽ cập nhật riêng trong `Ni-no-Kuni/`.
-- [Pokémon Dash](pokemon-dash/) — Các tệp nghiên cứu và Việt hóa riêng của Pokémon Dash.
+- [Ni no Kuni DS](Ni-no-Kuni/README.md) — **5.270/17.935 mục** đã dịch qua 25 đợt, chưa nhúng ROM.
+- [Pokémon Dash](pokemon-dash/) — Việt hóa Pokémon Dash, lưu riêng với Ni no Kuni.
 
-Không chép bản dịch của game này vào game khác; các tập dữ liệu có định danh và cấu trúc độc lập.
+Không lưu ROM thương mại; dùng đúng dữ liệu của từng game khi đóng gói.
