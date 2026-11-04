@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-04",
+  "new_batches": [
+    26,
+    27,
+    28,
+    29
+  ],
+  "source_files": [
+    "hoi_thoai_027",
+    "hoi_thoai_028",
+    "hoi_thoai_029",
+    "hoi_thoai_030"
+  ],
+  "source_records": 720,
+  "valid_translations": 713,
+  "deferred_debug_strings": 7,
+  "deferred_source_positions": {
+    "hoi_thoai_030": [
+      75,
+      76,
+      80,
+      82,
+      95,
+      96,
+      101
+    ]
+  },
+  "batch_counts": {
+    "dot_26": 180,
+    "dot_27": 180,
+    "dot_28": 180,
+    "dot_29": 173
+  },
+  "cumulative_valid_translations": 5983,
+  "priority_total": 17935,
+  "duplicate_id_count": 0,
+  "json_errors": 0,
+  "protected_token_errors": 0,
+  "checked_with": "KIEM_TRA_BAN_DICH.py supplied in Goi_dich_NiNoKuni.zip",
+  "warning": "Technical validation only: font support, real DS text-box overflow, script repacking, correctness in situ and gameplay testing remain unchecked."
+}
