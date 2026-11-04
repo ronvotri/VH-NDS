@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-04",
   "priority_total": 17935,
-  "translated_total": 2390,
-  "remaining": 15545,
-  "ratio": 0.13326,
+  "translated_total": 2570,
+  "remaining": 15365,
+  "ratio": 0.1433,
   "batches": [
     {
       "batch": 1,
@@ -86,7 +86,14 @@
       "repo_file": "translations/dot_09/hoi_thoai_010.jsonl",
       "validated": true,
       "topic": "Nellory nghiên cứu Imagen; Imagen kính râm, Moya/Papa Sasquash; kẹo caramen sữa Babanacia; Kiềm Chế; món quà từ chủ nhân cho pháp sư đối đầu Jabou"
+    },
+    {
+      "batch": 10,
+      "done": 180,
+      "repo_file": "translations/dot_10/hoi_thoai_011.jsonl",
+      "validated": true,
+      "topic": "Queen Cowla and Kuran; Restraint Heart; Imagen Lonesickness; Alec/Silver Locket and Blubber Bubbler"
     }
   ],
-  "qa": "2,390 unique non-empty IDs across 9 batches; batch 09 validated 180/180 original IDs via KIEM_TRA_BAN_DICH.py, no protected-token differences. No ROM, font, textbox or full-context gameplay tests."
+  "qa": "Batch 10: 180/180 original IDs and protected control tokens validated; 2,570 unique IDs across 10 batches. No ROM import, font/layout test or complete narrative QA."
 }
