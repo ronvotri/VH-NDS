@@ -1,0 +1,36 @@
+{
+  "batch": 13,
+  "source_file": "hoi_thoai_014.jsonl",
+  "new_entries": 180,
+  "cumulative_unique_ids": 3110,
+  "validator_report": {
+    "files": 1,
+    "ids_seen": 180,
+    "translations_ok": 180,
+    "empty_skipped": 0,
+    "errors": [],
+    "note": "This checks IDs, JSON and protected tokens only. Font coverage, byte capacity, script relocation, layout and meaning need a separate import/review step."
+  },
+  "review_longer_than_source": [],
+  "review_source_anomalies": [
+    {
+      "source_index": 47,
+      "note": "Japanese NPC label ＮＰＣ９ ツバクロ, likely developer/internal label. Transliteration only; verify UI usage."
+    },
+    {
+      "source_index": 48,
+      "note": "(Dummy) indicates likely placeholder line; translated with label and must review before ROM import."
+    },
+    {
+      "source_index": 176,
+      "note": "Source has typo 'input', context indicates 'inlet' (vịnh nhỏ); translation follows context."
+    },
+    {
+      "source_index": 179,
+      "note": "Line is an incomplete sentence ending comma, intentionally preserved to continue into next dialogue batch."
+    }
+  ],
+  "rom_tested": false,
+  "font_tested": false,
+  "textbox_tested": false
+}

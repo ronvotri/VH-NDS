@@ -1,9 +1,8 @@
-# Ni no Kuni DS — Bản dịch tiếng Việt
+# Việt hóa Nintendo DS — Votri Valley
 
-**Tiến độ:** 3.830 / 17.935 mục ưu tiên (~21,36%), qua 17 đợt. Đợt lớn 14–17 đã dịch thêm **720 câu**, thuộc `hoi_thoai_015` đến `hoi_thoai_018`.
+Kho dùng chung cho nhiều dự án Việt hóa NDS. Mỗi game được cách ly trong một thư mục riêng: bản dịch, thuật ngữ, tiến độ và công cụ kiểm tra.
 
-Bản dịch theo ID từ `Goi_dich_NiNoKuni.zip`; giữ giọng nhân vật, xưng hô và mã điều khiển. Xem `TIEN_DO.md`, `THUAT_NGU.md`, `TIEN_DO.json` và `QA_DOT_14_17.json`.
+- [Ni no Kuni DS](Ni-no-Kuni/README.md) — Bản dịch theo ID, không chứa ROM. Mốc trên repo: 17 đợt / 3.830 mục. Các gói mới sẽ cập nhật riêng trong `Ni-no-Kuni/`.
+- [Pokémon Dash](pokemon-dash/) — Các tệp nghiên cứu và Việt hóa riêng của Pokémon Dash.
 
-**Chưa phải ROM đã nhúng tiếng Việt.** Đã kiểm tra ID/JSON/placeholder; chưa kiểm tra font, ô thoại, chạy game. Khi nhập về hệ thống, chỉ dùng bản gộp hoặc bản rời, không dùng cả hai. Bản gộp tích lũy nằm trong ZIP bàn giao và không đẩy lên repo để tránh nhân đôi dữ liệu.
-
-**Tiếp theo:** `hoi_thoai_019`.
+Không chép bản dịch của game này vào game khác; các tập dữ liệu có định danh và cấu trúc độc lập.

@@ -1,0 +1,232 @@
+{
+  "project": "Ni no Kuni DS Vietnamese",
+  "date": "2026-11-04",
+  "priority_total": 17935,
+  "translated_total": 3830,
+  "remaining": 14105,
+  "ratio": 0.21355,
+  "batches": [
+    {
+      "batch": 1,
+      "done": 954,
+      "files": [
+        "hoi_thoai_001",
+        "hoi_thoai_002",
+        "dia_danh_001",
+        "huong_dan_chien_dau_001",
+        "nhiem_vu_phu_001",
+        "lua_chon_thong_bao_002",
+        "noi_dung_bo_sung_001"
+      ],
+      "repo_file": "translations/dot_01/BAN_DICH_GUI_LAI.jsonl",
+      "validated": true
+    },
+    {
+      "batch": 2,
+      "done": 176,
+      "repo_file": "translations/dot_02/hoi_thoai_003.jsonl",
+      "deferred": 4,
+      "deferred_ids": [
+        "HOI_dd913e6676a5f6",
+        "HOI_eef7e40c981caa",
+        "HOI_b715c8861e9918",
+        "HOI_7ecf274c3ca2db"
+      ],
+      "validated": true
+    },
+    {
+      "batch": 3,
+      "done": 180,
+      "repo_file": "translations/dot_03/hoi_thoai_004.jsonl",
+      "validated": true
+    },
+    {
+      "batch": 4,
+      "done": 180,
+      "repo_file": "translations/dot_04/hoi_thoai_005.jsonl",
+      "validated": true
+    },
+    {
+      "batch": 5,
+      "done": 180,
+      "repo_file": "translations/dot_05/hoi_thoai_006.jsonl",
+      "validated": true
+    },
+    {
+      "batch": 6,
+      "done": 180,
+      "repo_file": "translations/dot_06/hoi_thoai_007.jsonl",
+      "validated": true,
+      "topic": "Nghêu Bổ Dưỡng; Can Đảm; Mary-Suren; Sáo Clarion; núi Dekarock"
+    },
+    {
+      "batch": 7,
+      "done": 180,
+      "repo_file": "translations/dot_07/hoi_thoai_008.jsonl",
+      "validated": true,
+      "topic": "Ichi no Kuni; Đài phun Sữa; cô giáo thiếu Nhân Ái; Roy–Sophia thiếu Tình Yêu",
+      "review_flags": [
+        {
+          "source_index": 89,
+          "type": "potential temporary NPC marker",
+          "source": "Recipe Distribution NPC (Temp)"
+        }
+      ]
+    },
+    {
+      "batch": 8,
+      "done": 180,
+      "repo_file": "translations/dot_08/hoi_thoai_009.jsonl",
+      "validated": true,
+      "topic": "Roy–Sophia; Confidence, Restraint; Nellory; Sea Naiad; Teeny Bopper evolutions"
+    },
+    {
+      "batch": 9,
+      "done": 180,
+      "repo_file": "translations/dot_09/hoi_thoai_010.jsonl",
+      "validated": true,
+      "topic": "Nellory nghiên cứu Imagen; Imagen kính râm, Moya/Papa Sasquash; kẹo caramen sữa Babanacia; Kiềm Chế; món quà từ chủ nhân cho pháp sư đối đầu Jabou"
+    },
+    {
+      "batch": 10,
+      "done": 180,
+      "repo_file": "translations/dot_10/hoi_thoai_011.jsonl",
+      "validated": true,
+      "topic": "Queen Cowla and Kuran; Restraint Heart; Imagen Lonesickness; Alec/Silver Locket and Blubber Bubbler"
+    },
+    {
+      "batch": 11,
+      "done": 180,
+      "repo_file": "translations/dot_11/hoi_thoai_012.jsonl",
+      "validated": true,
+      "topic": "Alec and Silver Locket; Al-Khemie and synthesis; Travelling Eggs; Bikini swimsuit law"
+    },
+    {
+      "batch": 12,
+      "done": 180,
+      "repo_file": "translations/dot_12/hoi_thoai_013.jsonl",
+      "validated": true,
+      "topic": "Mirant and Soft Caramel; Wanderer missing Restraint; secret sorceress; seaplane pilot missing Confidence; Bikini sailing school",
+      "review_flags": [
+        {
+          "source_index": 38,
+          "note": "Beastly Mask and Beast Mask inconsistent in source"
+        },
+        {
+          "source_index": 63,
+          "note": "Temporary after-completion dialogue marker"
+        },
+        {
+          "source_index": 125,
+          "note": "Martin's Missions temporary placeholder label"
+        },
+        {
+          "source_index": 146,
+          "note": "Source says Courage once, Confidence elsewhere for same pilot"
+        }
+      ]
+    },
+    {
+      "batch": 13,
+      "done": 180,
+      "repo_file": "translations/dot_13/hoi_thoai_014.jsonl",
+      "validated": true,
+      "topic": "Bikini sailor Motivation, mother sharing Love, cook father/daughter Courage, Boniato campaign Ambition, Plessie friendship",
+      "review_flags": [
+        {
+          "source_index": 47,
+          "note": "Japanese NPC label ＮＰＣ９ ツバクロ, likely developer/internal label. Transliteration only; verify UI usage."
+        },
+        {
+          "source_index": 48,
+          "note": "(Dummy) indicates likely placeholder line; translated with label and must review before ROM import."
+        },
+        {
+          "source_index": 176,
+          "note": "Source has typo 'input', context indicates 'inlet' (vịnh nhỏ); translation follows context."
+        },
+        {
+          "source_index": 179,
+          "note": "Line is an incomplete sentence ending comma, intentionally preserved to continue into next dialogue batch."
+        }
+      ]
+    },
+    {
+      "batch": 14,
+      "done": 180,
+      "repo_file": "translations/dot_14/hoi_thoai_015.jsonl",
+      "validated": true,
+      "topic": "Plessie đỏ; tàu Queen Cowla; thư trong chai; Sinbad; truy đuổi kẻ trộm tấm ảnh",
+      "review_flags": [
+        {
+          "source_index": 102,
+          "note": "Source contains Sinbad (?) – needs contextual verification"
+        }
+      ]
+    },
+    {
+      "batch": 15,
+      "done": 180,
+      "repo_file": "translations/dot_15/hoi_thoai_016.jsonl",
+      "validated": true,
+      "topic": "Jairo gia nhập; Súng Mở Khóa; Shizuku ngừng chiến đấu; Kiềm Chế ở Bikini; Hubber Blubber",
+      "review_flags": [
+        {
+          "source_index": 62,
+          "note": "Imagen Manhole term Cống Imagen provisional"
+        },
+        {
+          "source_index": 141,
+          "note": "Internal label NPC20 Lady Hint"
+        },
+        {
+          "source_index": 149,
+          "note": "Japanese internal NPC marker ＮＰＣ２４ 店主_マタタビ"
+        }
+      ]
+    },
+    {
+      "batch": 16,
+      "done": 180,
+      "repo_file": "translations/dot_16/hoi_thoai_017.jsonl",
+      "validated": true,
+      "topic": "Hải Tặc Phép Thuật; Huy chương Septimus; Boarg và các đạo luật; Robin–Elena; Jairo bí ẩn",
+      "review_flags": [
+        {
+          "source_index": 153,
+          "note": "Password riddle about boar rock-paper-scissors: confirm game puzzle matching"
+        },
+        {
+          "source_index": 162,
+          "note": "Temporary tutorial NPC internal label"
+        },
+        {
+          "source_index": 34,
+          "note": "Septimus Medals, Seek Fortune: confirm names with magic UI"
+        }
+      ]
+    },
+    {
+      "batch": 17,
+      "done": 180,
+      "repo_file": "translations/dot_17/hoi_thoai_018.jsonl",
+      "validated": true,
+      "topic": "Thánh Mẫu Boarg và Niềm Tin; Rabbot/Jackrabbot; Mirant nhớ phép Ward; Jade Sphere",
+      "review_flags": [
+        {
+          "source_index": 55,
+          "note": "Source numeration of 13 children, including quintuplets, should be verified in game"
+        },
+        {
+          "source_index": 126,
+          "note": "Ward translated Hộ Thể is provisional spell UI term"
+        },
+        {
+          "source_index": 151,
+          "note": "Jade Sphere translated Cầu Ngọc Bích is provisional item UI term"
+        }
+      ]
+    }
+  ],
+  "qa": "Batches 14–17: 720/720 translations passed ID, JSON and protected token validation; 3,830 unique IDs; no font, textbox or ROM test."
+}

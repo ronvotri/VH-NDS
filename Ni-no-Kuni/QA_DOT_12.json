@@ -1,0 +1,34 @@
+{
+  "batch": 12,
+  "source_file": "hoi_thoai_013.jsonl",
+  "new_entries": 180,
+  "cumulative_unique_ids": 2930,
+  "source_validator": {
+    "files": 1,
+    "ids_seen": 180,
+    "translations_ok": 180,
+    "empty_skipped": 0,
+    "errors": []
+  },
+  "source_flags": [
+    {
+      "source_index": 38,
+      "note": "Beastly Mask and Beast Mask inconsistent in source"
+    },
+    {
+      "source_index": 63,
+      "note": "Temporary after-completion dialogue marker"
+    },
+    {
+      "source_index": 125,
+      "note": "Martin's Missions temporary placeholder label"
+    },
+    {
+      "source_index": 146,
+      "note": "Source says Courage once, Confidence elsewhere for same pilot"
+    }
+  ],
+  "rom_tested": false,
+  "font_tested": false,
+  "textbox_tested": false
+}
