@@ -1,10 +1,10 @@
 {
   "project": "Ni no Kuni DS Vietnamese",
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "priority_total": 17935,
-  "translated_total": 6703,
-  "remaining": 11232,
-  "ratio": 0.37374,
+  "translated_total": 7423,
+  "remaining": 10512,
+  "ratio": 0.41388,
   "batches": [
     {
       "batch": 1,
@@ -341,8 +341,36 @@
       "repo_file": "translations/dot_33/hoi_thoai_034.jsonl",
       "validated": true,
       "topic": "Pokoro, Hermit, Nicky and Gapollino; Pandora Box; Corpse Lake, Clarion, Marcel"
+    },
+    {
+      "batch": 34,
+      "done": 180,
+      "repo_file": "translations/dot_34/hoi_thoai_035.jsonl",
+      "validated": true,
+      "topic": "Marcel, Oliver, Jabou, Altena Battle Mages and Soulgem"
+    },
+    {
+      "batch": 35,
+      "done": 180,
+      "repo_file": "translations/dot_35/hoi_thoai_036.jsonl",
+      "validated": true,
+      "topic": "Diary of Jabou, Lifewood, Lifecense, Temple of Trials"
+    },
+    {
+      "batch": 36,
+      "done": 180,
+      "repo_file": "translations/dot_36/hoi_thoai_037.jsonl",
+      "validated": true,
+      "topic": "White Combo Key, Babanacia, mysterious riddle world"
+    },
+    {
+      "batch": 37,
+      "done": 180,
+      "repo_file": "translations/dot_37/hoi_thoai_038.jsonl",
+      "validated": true,
+      "topic": "Dream of Oliver mother, Mark, Ambition, Storm Eye"
     }
   ],
-  "qa": "ID, JSON, protected-token validation passed using original source-package tool; still pending NDS font/layout, ROM reconstruction and contextual playtest.",
+  "qa": "All 37 batches validated for IDs, JSON and protected tokens. Gameplay/ROM, text rendering and font tests pending.",
   "notes": "7 technical Sample text rows from hoi_thoai_030 deferred; 4 older damaged rows in hoi_thoai_003 still deferred."
 }
