@@ -1,23 +1,30 @@
 # Tiến độ Việt hóa Ni no Kuni DS
 
-**04/11/2026 — 33 đợt — 6.703 / 17.935 mục ưu tiên (37.37%)**. Còn **11.232 mục**.
+**05/11/2026 — 37 đợt — 7.423 / 17.935 mục ưu tiên (41,39%). Còn 10.512 mục.**
 
-## Đợt 30–33
+## Đợt 34–37
 
-| Đợt | Tệp hội thoại | Đã dịch | Hoãn |
+| Đợt | Tệp nguồn | Đã dịch | Hoãn |
 |---|---|---:|---:|
-| 30 | `hoi_thoai_031` | 180 | 0 |
-| 31 | `hoi_thoai_032` | 180 | 0 |
-| 32 | `hoi_thoai_033` | 180 | 0 |
-| 33 | `hoi_thoai_034` | 180 | 0 |
-| **Tổng mới** | | **720** | **0** |
+| 34 | `hoi_thoai_035` | 180 | 0 |
+| 35 | `hoi_thoai_036` | 180 | 0 |
+| 36 | `hoi_thoai_037` | 180 | 0 |
+| 37 | `hoi_thoai_038` | 180 | 0 |
+| **Mới** | | **720** | **0** |
 
-## Kiểm tra
+## Kiểm tra dữ liệu
 
-- Các tệp mới được dịch theo chuỗi gốc bản Jet-Black Mage NDS, không chép lẫn bản *Wrath of the White Witch* trong Excel dịch tay 2024. Chỉ có 4 câu tiếng Anh trùng chính xác với kho dịch tay này, vẫn phải xét người nói.
-- **6.703 ID duy nhất** qua 33 đợt; giữ nguyên **11 mục hoãn cũ** (4 chuỗi nghi hỏng đợt 2 và 7 chuỗi kiểm thử đợt 29).
-- Kịch bản mới đã rà ngôi xưng Flint–Tamara, Nicky, Gapollino; mã kỹ thuật trong bản dịch không thay đổi. Xem `QA_DOT_30_33.json` và `CAN_RA_DOT_30_33.json`.
+- Kiểm tra qua bộ `KIEM_TRA_BAN_DICH.py` đi kèm nguồn: **720/720 mục hợp lệ**, không lỗi ID, JSON hay placeholder.
+- Bản gộp có **7.423 ID duy nhất**, không trùng với 6.703 mục trước đó.
+- Câu mới tối đa **3 dòng**, mỗi dòng tối đa **48 ký tự** sau ngắt dòng ở khoảng trắng. Đây không đảm bảo vừa khung NDS, vì còn phụ thuộc font, độ rộng chữ và bố cục.
+- Đối chiếu kho dịch tay Excel 2024: **16 câu nguồn trùng nguyên văn**, hầu hết là lời ngắn, dùng để tham khảo và rà ngôi xưng, không sao chép đè bản DS.
+- Giữ nguyên **11 mục hoãn cũ**: 4 chuỗi lỗi đợt 2; 7 nhãn thử nghiệm đợt 29.
 
-**Chưa kiểm thử:** font Việt, chiều rộng/chiều cao ô thoại, nhập ROM, offset/điều khiển và diễn tiến nhân vật trong game. Kiểm tra dữ liệu không đảm bảo tương thích ROM.
+## Cảnh báo cần rà
+
+1. `hoi_thoai_037`: các câu đố dựa trên ngôn ngữ tiếng Anh và hình minh họa. Cần thử đáp án, nhất là câu đối xứng 'racecar', câu đố số lượng cá/lá và hình đảo ngược.
+2. `hoi_thoai_038`: câu nguồn dùng phép `Take Heart` để trao Tim cho Mark, có vẻ không khớp logic hệ kỹ năng. Bản dịch giữ `Thu Tim` theo nguồn, không tự sửa mã.
+3. `hoi_thoai_037`: ghép Chìa Đỏ + Xanh tạo Chìa Trắng là logic của kịch bản nguồn, không tự đổi màu.
+4. Vẫn cần kiểm thử font dấu tiếng Việt, độ rộng ô thoại, vị trí ROM, và ngữ cảnh khi chạy thật.
 
 **Lưu ý nhập liệu:** chỉ dùng bản gộp hoặc các tệp rời, không nhập đồng thời.
