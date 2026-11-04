@@ -264,3 +264,17 @@ Suren nói **ta/cháu** với Oliver, **cha/con** với Mary; Oliver nói **chá
 | Porcus Maximus | Porcus Maximus (Max là tên thân mật khi còn nhỏ) |
 
 Trong cảnh hai anh em, Jairo xưng **anh/em** với Max. Oliver xưng **cháu/bệ hạ** với Hoàng đế; Mary bộc trực; Shizuku lém lỉnh đúng lúc. Thủy thủ đoàn nói dân dã (*ta/bọn mi*); Viper khoa trương và ngạo nghễ. Không tự đồng nhất tên **Jabou** và **Shadaar** khi chưa rà lại nguồn.
+
+## Thuật ngữ đợt 26–29 cần rà khi nhúng ROM
+
+| Nguồn | Bản dịch | Ghi chú |
+|---|---|---|
+| Vroom Broom | Vroom Broom | Giữ tên nguồn, chưa xác nhận tên phép trong menu |
+| Cloud Sweeper | Chổi Lướt Mây | Theo các đợt trước |
+| Bridge (rune) | Cầu Nối | Tạm, cần kiểm tra phép trong game |
+| Dream (Heart Fragment) | Ước Mơ | Phân biệt Ambition = Hoài Bão |
+| Black Ticket | Vé Đen | Phần thưởng sòng bạc |
+| Crafter Battle | Đấu Trường Chế Tác | Tạm, rà giao diện |
+| The Generals | The Generals | Giữ tên trò bài nguồn |
+
+Mirant ưu tiên xưng **tớ/cậu** khi nói với Oliver; Shizuku tự nhiên, tếu táo; Viper tự xưng ta, gọi Oliver là nhóc.
