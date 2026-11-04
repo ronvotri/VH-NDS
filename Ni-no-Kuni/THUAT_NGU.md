@@ -239,3 +239,28 @@ Suren nói **ta/cháu** với Oliver, **cha/con** với Mary; Oliver nói **chá
 - **Mirant:** tớ/cậu, giàu cảm xúc khi hồi tưởng về bạn cũ.
 - **Thánh Mẫu Boarg:** giọng thầy bói, ta/cháu với Oliver.
 - **Thủy thủ già:** hào sảng, ta/nhóc, không lạm dụng từ cổ hay thô tục.
+
+
+## Bổ sung đợt 22–25 — thuật ngữ và giọng văn
+
+| Nguồn | Dịch thống nhất |
+|---|---|
+| Teleport (spell) | Dịch Chuyển |
+| Travel (spell) | Du Hành (cần đối chiếu danh sách phép) |
+| Escape (spell) | Thoát Hiểm (cần đối chiếu danh sách phép) |
+| Ghost Valley | Thung lũng Ma |
+| Gladion | Gladion |
+| Viper, the Pirate King | Viper, Vua Hải Tặc |
+| Boarg Passport | Hộ chiếu Boarg |
+| Jungle (village) | Jungle |
+| Coconanda Cavern | Hang Coconanda |
+| The Jolly Rogerer | Jolly Rogerer |
+| Jaunty Rogerer | Jaunty Rogerer (giữ đúng câu gốc, cần xác minh đổi tên tàu) |
+| Sun Stone | Đá Mặt Trời |
+| Golden Peach | Đào Vàng |
+| Haven, City in the Heavens | Haven, Thành Phố Trên Trời |
+| Cloud Sweepers | Chổi Lướt Mây |
+| Kuro | Kuro |
+| Porcus Maximus | Porcus Maximus (Max là tên thân mật khi còn nhỏ) |
+
+Trong cảnh hai anh em, Jairo xưng **anh/em** với Max. Oliver xưng **cháu/bệ hạ** với Hoàng đế; Mary bộc trực; Shizuku lém lỉnh đúng lúc. Thủy thủ đoàn nói dân dã (*ta/bọn mi*); Viper khoa trương và ngạo nghễ. Không tự đồng nhất tên **Jabou** và **Shadaar** khi chưa rà lại nguồn.
