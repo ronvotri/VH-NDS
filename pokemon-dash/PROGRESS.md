@@ -79,3 +79,12 @@ Chạy công cụ `tools/audit_dash_archive.py` trong thư mục dự án trên 
 - ROM SHA-256 v0.8.1: `b9bc2094455c2316be263f31a05978f5949060241c1b802a9d18c16d9f023409`.
 - Báo cáo và patch: [3D_ALPHA_V081_FONT_QA.md](3D_ALPHA_V081_FONT_QA.md), `patches/v08_to_v081_alpha_fontfix.ips`, `tools/continue_font_5x7.py`.
 - **Giới hạn nguyên bản:** texture chỉ cao 7 pixel; font đã gọn hơn nhưng chữ có dấu vẫn cần xem thực tế trên màn DS. **v0.6 là bản ổn định để giữ lại.**
+
+## v0.8.4 Alpha — Retry và Back to Course
+
+- Thêm đúng **2 mô hình 3D** sau v0.8.2: `mdl_pause_retry.rel` → **Đua lại** (7 px, 4 bản chữ) và `mdl_pause_course.rel` → **Trở lại đường đua** (17 px, 2 trạng thái).
+- Thay bằng bitmap font native, không co kéo chữ; với nhãn đua lại dùng tên ngắn vì 7 px không đủ chỗ cho nhiều dấu phức tạp.
+- So sánh nested archive cho thấy chỉ 2/318 tài nguyên con thay đổi, 316 khác giữ nguyên; các bản vá IPS đã được xác minh byte-for-byte.
+- SHA-256 ROM v0.8.4 Alpha: `823e6818bf32ed91e015c23c9ccfcda1089afa040c9d90834527a8e467e6237e`.
+- File kiểm kê: [3D_ALPHA_V084.md](3D_ALPHA_V084.md); 2 IPS trong `patches/`, công cụ áp patch `tools/apply_v084_alpha.py`.
+- **Chưa có kết quả chạy thử trên NDS/melonDS**. v0.6 vẫn là bản chơi thử chính; v0.8.4 là bản thử 3D, không phải full.
