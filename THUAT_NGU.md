@@ -174,3 +174,22 @@ Suren nói **ta/cháu** với Oliver, **cha/con** với Mary; Oliver nói **chá
 - **Al-Khemie:** nói trịnh trọng, hơi cổ nhưng có duyên; phân biệt với Shizuku nói gần gũi, tinh quái.
 - **Bikini:** luật mặc đồ bơi là hài tình huống, nhưng thị trưởng vẫn chân thành và tự hào.
 - **Alec:** khi nhận lại kỷ vật của vợ và ảnh Elsa, dịch ấm áp, không pha trò.
+
+## Bổ sung sau đợt 12
+
+| Nguồn | Cách dịch |
+|---|---|
+| Soft Caramel | Kẹo Caramen Mềm (khác Milk Caramel = kẹo caramen sữa) |
+| Beastly Mask / Beast Mask | Mặt Nạ Quái Thú (nguồn không nhất quán, cần kiểm tra tên vật phẩm) |
+| Bone Mask | Mặt Nạ Xương |
+| Slipshoes | Giày Trượt (cần đối chiếu tên item) |
+| Speedshoes | Giày Tốc Độ |
+| Wanderer | Lữ Khách |
+| Secret Sorcerers | Pháp Sư Bí Mật |
+| seaplane | thủy phi cơ |
+
+- **Mirant:** tớ/cậu với Oliver; giọng hồn nhiên, kính trọng sư phụ.
+- **Ông Lữ Khách:** bốc đồng, thích nhảy nhót, dễ gây cười; vẫn như thế sau khi nhận lại Kiềm Chế.
+- **Người anh phi công và em trai:** anh hai/em, thân thiết, ấm áp.
+- **Nữ pháp sư giấu thân phận:** cô/cháu với Oliver, sợ Jabou nhưng kỳ vọng nhóm.
+- **Ông thầy thủy thủ:** lối nói già dặn, hào sảng, cực đoan kiểu xưa nhưng mang sắc thái hài.
