@@ -193,3 +193,23 @@ Suren nói **ta/cháu** với Oliver, **cha/con** với Mary; Oliver nói **chá
 - **Người anh phi công và em trai:** anh hai/em, thân thiết, ấm áp.
 - **Nữ pháp sư giấu thân phận:** cô/cháu với Oliver, sợ Jabou nhưng kỳ vọng nhóm.
 - **Ông thầy thủy thủ:** lối nói già dặn, hào sảng, cực đoan kiểu xưa nhưng mang sắc thái hài.
+
+## Bổ sung sau đợt 13
+
+| Nguồn | Cách dịch |
+|---|---|
+| Boniato | Boniato (tên loại củ, giữ nguyên để nhận diện) |
+| Plessie | Plessie (giữ tên loài quái vật) |
+| Shocked Fish | Cá Giật Điện (tên món ăn, rà UI khi nhúng) |
+| Firefly Shrimp | Tôm Đom Đóm |
+| Motivation | Nhiệt Huyết |
+| Love | Tình Yêu |
+| Courage | Can Đảm |
+| Ambition | Hoài Bão |
+| Hollowed | Rỗng Tim |
+
+- **Ông thủy thủ Bikini:** xưng **ta**, gọi Oliver là **nhóc/cậu**, nói hào sảng, già đời; Oliver xưng **cháu/bác**.
+- **Người mẹ xa con:** xưng **cô**, Oliver **cháu/cô**; gọi đúng Mona, Loni, Gimu.
+- **Cha và con gái ở quán ăn:** thống nhất **cha/con**; người cha ngoài cứng trong mềm, Shizuku trêu gọi **ông bác**. Oliver gọi **bác**, cô gái là **chị**.
+- **Người giới thiệu Boniato:** đầy **Hoài Bão**, dí dỏm vừa phải, gọi Oliver là **cậu**, Oliver xưng **cháu/cô**.
+- **Plessie:** không mặc định mọi cá thể là quái vật xấu; giữ giọng xúc động ở đoạn cứu và nuôi Plessie.
