@@ -16,9 +16,10 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 | 10 | `translations/dot_10/hoi_thoai_011.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
 | 11 | `translations/dot_11/hoi_thoai_012.jsonl` | 180 | 3 thuật ngữ UI cần kiểm tra | Kiểm tra kỹ thuật đạt |
 | 12 | `translations/dot_12/hoi_thoai_013.jsonl` | 180 | 4 chỗ nguồn cần rà | Kiểm tra kỹ thuật đạt |
-| **Tổng** | | **2.930** | **4 nguồn hoãn và các mục cần rà** | Chưa nhập ROM |
+| 13 | `translations/dot_13/hoi_thoai_014.jsonl` | 180 | 4 chỗ cần rà nguồn/ngữ cảnh | Kiểm tra kỹ thuật đạt |
+| **Tổng** | | **3.110** | **4 nguồn hoãn và các mục cần rà** | Chưa nhập ROM |
 
-**Mục ưu tiên trong gói nguồn: 17.935. Đã dịch: 2.930 (16,3%). Còn chưa dịch: 15.005.**
+**Mục ưu tiên trong gói nguồn: 17.935. Đã dịch: 3.110 (17,3%). Còn chưa dịch: 14.825.**
 
 ## Phạm vi từng đợt
 
@@ -58,6 +59,8 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 - #63 là `(Temporary) Conversation After Completion` (có vẻ nhãn nội bộ); #125 là `Martin's Missions (subject to change)` (nhãn tạm).
 - #146 nói người phi công mất **Courage** nhưng các câu tiếp theo xác nhận **Confidence**. Bản dịch hiện giữ đúng từ nguồn từng câu (Can Đảm/Tự Tin), cần xác minh trong nhiệm vụ.
 
+- `hoi_thoai_014`: #48 `ＮＰＣ９ ツバクロ` là nhãn NPC Nhật, tạm phiên **NPC 9 – Tsubakuro**; #49 `(Dummy)` là nhãn tạm; #177 nguồn viết `input` nhưng ngữ cảnh là **inlet** (vịnh nhỏ); #180 đang là câu dang dở, cần đọc nối đợt 14.
+
 ## Luật để không sót, trùng hoặc lệch giọng
 
 1. Mỗi `id` phải duy nhất trên toàn bộ các tệp dịch; **không nhập cùng lúc bản gộp và tệp riêng**.
@@ -66,6 +69,6 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 4. Xem `THUAT_NGU.md` trước khi dịch batch tiếp theo.
 5. Chỉ ghi "đã dịch" cho file thực tế có trên repo và đã kiểm tra, không lấy số liệu từ nháp hoặc lời hứa.
 
-**Chưa kiểm thử:** chất lượng bản dịch theo toàn tuyến truyện; font tiếng Việt; độ rộng ô thoại NDS; nhúng lại kịch bản, sửa offset/nhảy lệnh; chạy trong game thật. Các bước kiểm tra hiện tại chỉ xác minh ID/JSON/mã điều khiển. Đợt 12: 180/180 mục hợp lệ; tổng tích lũy 2.930 ID duy nhất.
+**Chưa kiểm thử:** chất lượng bản dịch theo toàn tuyến truyện; font tiếng Việt; độ rộng ô thoại NDS; nhúng lại kịch bản, sửa offset/nhảy lệnh; chạy trong game thật. Các bước kiểm tra hiện tại chỉ xác minh ID/JSON/mã điều khiển. Đợt 13: 180/180 mục hợp lệ; tổng tích lũy 3.110 ID duy nhất.
 
-**Đợt tiếp theo:** `hoi_thoai_014.jsonl`. Bản gộp sau đợt 12 nằm trong ZIP bàn giao, chỉ dùng **thay cho** chứ không nhập cùng lúc với các tệp riêng.
+**Đợt tiếp theo:** `hoi_thoai_015.jsonl`. Bản gộp sau đợt 13 nằm trong ZIP bàn giao, chỉ dùng **thay cho** chứ không nhập cùng lúc với các tệp riêng.
