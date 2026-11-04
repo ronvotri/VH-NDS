@@ -1,0 +1,45 @@
+{
+  "project": "Ni no Kuni DS Vietnamese",
+  "date": "2026-11-04",
+  "priority_total": 17935,
+  "translated_total": 1310,
+  "remaining": 16625,
+  "ratio": 0.07304,
+  "batches": [
+    {
+      "batch": 1,
+      "done": 954,
+      "files": [
+        "hoi_thoai_001",
+        "hoi_thoai_002",
+        "dia_danh_001",
+        "huong_dan_chien_dau_001",
+        "nhiem_vu_phu_001",
+        "lua_chon_thong_bao_002",
+        "noi_dung_bo_sung_001"
+      ],
+      "repo_file": "translations/dot_01/BAN_DICH_GUI_LAI.jsonl",
+      "validated": true
+    },
+    {
+      "batch": 2,
+      "done": 176,
+      "repo_file": "translations/dot_02/hoi_thoai_003.jsonl",
+      "deferred": 4,
+      "deferred_ids": [
+        "HOI_dd913e6676a5f6",
+        "HOI_eef7e40c981caa",
+        "HOI_b715c8861e9918",
+        "HOI_7ecf274c3ca2db"
+      ],
+      "validated": true
+    },
+    {
+      "batch": 3,
+      "done": 180,
+      "repo_file": "translations/dot_03/hoi_thoai_004.jsonl",
+      "validated": true
+    }
+  ],
+  "qa": "Technical JSON, ID, protected-token validation passed locally. No ROM import, font validation or gameplay tests."
+}
