@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-05",
+  "new_batches": [
+    38,
+    39,
+    40,
+    41
+  ],
+  "source_files": [
+    "hoi_thoai_039",
+    "hoi_thoai_040",
+    "hoi_thoai_041",
+    "hoi_thoai_042"
+  ],
+  "per_file_valid": {
+    "hoi_thoai_039": 180,
+    "hoi_thoai_040": 180,
+    "hoi_thoai_041": 180,
+    "hoi_thoai_042": 180
+  },
+  "new_translations": 720,
+  "total_translations": 8143,
+  "unique_ids": 8143,
+  "priority_total": 17935,
+  "remaining": 9792,
+  "json_errors": 0,
+  "placeholder_errors": 0,
+  "duplicate_ids": 0,
+  "max_lines_per_new_entry": 3,
+  "max_characters_per_line": 48,
+  "manual_2024_exact_source_matches": 6,
+  "pending_rom_import_and_font_tests": true,
+  "note": "Source checker passed; no ROM, UI, font or gameplay testing."
+}
