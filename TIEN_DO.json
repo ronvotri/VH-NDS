@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-04",
   "priority_total": 17935,
-  "translated_total": 2930,
-  "remaining": 15005,
-  "ratio": 0.16337,
+  "translated_total": 3110,
+  "remaining": 14825,
+  "ratio": 0.1734,
   "batches": [
     {
       "batch": 1,
@@ -125,7 +125,32 @@
           "note": "Source says Courage once, Confidence elsewhere for same pilot"
         }
       ]
+    },
+    {
+      "batch": 13,
+      "done": 180,
+      "repo_file": "translations/dot_13/hoi_thoai_014.jsonl",
+      "validated": true,
+      "topic": "Bikini sailor Motivation, mother sharing Love, cook father/daughter Courage, Boniato campaign Ambition, Plessie friendship",
+      "review_flags": [
+        {
+          "source_index": 47,
+          "note": "Japanese NPC label ＮＰＣ９ ツバクロ, likely developer/internal label. Transliteration only; verify UI usage."
+        },
+        {
+          "source_index": 48,
+          "note": "(Dummy) indicates likely placeholder line; translated with label and must review before ROM import."
+        },
+        {
+          "source_index": 176,
+          "note": "Source has typo 'input', context indicates 'inlet' (vịnh nhỏ); translation follows context."
+        },
+        {
+          "source_index": 179,
+          "note": "Line is an incomplete sentence ending comma, intentionally preserved to continue into next dialogue batch."
+        }
+      ]
     }
   ],
-  "qa": "Batch 12: 180/180 source IDs and protected tokens validated, 2,930 unique IDs across 12 batches. Four textual source anomalies to review. Not ROM tested."
+  "qa": "Batch 13: 180/180 IDs and protected tokens validated; 3,110 unique IDs across 13 batches. 4 source/context flags. No ROM import, font or textbox test."
 }
