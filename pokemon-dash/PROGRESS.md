@@ -42,3 +42,13 @@ Chạy công cụ `tools/audit_dash_archive.py` trong thư mục dự án trên 
 - `archive.archive`: `052fdbb429ae539965329833f4189a75391762779fa7a7ceb74a0dba77d3a622`
 
 **Không lưu file ROM có bản quyền lên repo; chỉ lưu công cụ, thuật ngữ và trạng thái kiểm thử.**
+
+## Tiếp tục nghiên cứu 3D (04/11/2026 — lượt kế tiếp)
+
+- Đã hiển thị **hình chữ có thể đọc** bằng cách xem một phần dữ liệu `NITRO RelocMod 1` ở dạng **8-bit grayscale, width 256, bắt đầu thử tại 0x400**. Đây là **cách xem thực nghiệm**, chưa phải bộ giải mã texture được chứng minh.
+- Nhìn thấy được `Back to Title`, `Back to Course`, `GOAL!!`, `TIME'S UP!` và nhiều nhãn tên đường/cúp; đủ tạo bản kiểm kê hình ảnh của cả **91** mô hình 3D.
+- Đã có bản **preview thử** đổi `Back to Title` → `Về menu` trong cùng chiều dài mẫu model (chỉ đổi vùng byte tương ứng hình nghi vấn), nhưng **chưa đóng vào ROM phát hành và chưa test emulator**.
+- Đã lập hàng đợi dịch 91 model: **69 có gợi ý nhãn Việt**, **22 chưa xác định**; đây không phải 69 bản dịch đã vá vào ROM.
+- Công cụ và ghi chú chi tiết: `3D_VISUAL_BREAKTHROUGH.md` và `tools/rel_visual_inventory.py`.
+
+**Bản chơi thử mới nhất giữ nguyên v0.6**. Bước tiếp: xác minh điểm bắt đầu texture / định dạng palette / UV và kiểm thử trong giả lập trước khi xuất v0.7.
