@@ -98,3 +98,19 @@ Suren nói **ta/cháu** với Oliver, **cha/con** với Mary; Oliver nói **chá
 - Cô giáo thiếu **Nhân Ái**: học trò xưng **em/cô**, cảnh xúc động không chọc cười.
 - Roy và Sophia: giữ giọng đau lòng của Roy; Shizuku chỉ chọc vui ở những câu gây cười có sẵn.
 - HOI_d66c6b0d4ef33b trong đợt 7 có vẻ nhãn NPC nội bộ, phải xác minh trước khi nhúng.
+
+## Bổ sung đợt 8
+
+| Tên nguồn | Quy ước |
+|---|---|
+| Nellory | Nellory (nhà nghiên cứu Imagen) |
+| Sea Naiad | Sea Naiad (giữ tên loài Imagen) |
+| Teeny Bopper | Teeny Bopper (giữ tên loài Imagen) |
+| Duck-billed Bopper | Duck-billed Bopper (giữ tên loài Imagen) |
+| Unibopper | Unibopper (giữ tên loài Imagen) |
+| Imagen Carrying Cage | Lồng Mang Imagen (tạm, cần đối chiếu giao diện) |
+
+- Roy–Sophia: sau khi được trả lại **Tình Yêu**, xưng **anh/em**, dịu dàng, không chèn hài vào cảnh hòa giải.
+- Ông Nellory: nhiệt tình đến hơi kỳ quặc, xưng **ta/cháu** với Oliver. Shizuku bực mình, nói lém lỉnh nhưng không thô.
+- Người buôn babana đau răng có **Kiềm Chế**; ông lính tuần tự phụ có **Tự Tin**.
+- Tiếp tục giữ **Gia Vị Bí Mật**, **Sách Pháp Thuật**, **Mảnh Tim** và **Trao Tim** từ các đợt trước.
