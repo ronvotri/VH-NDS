@@ -62,3 +62,12 @@ Chạy công cụ `tools/audit_dash_archive.py` trong thư mục dự án trên 
 - Bộ nguồn và bản vá thử: [3D_A3I5_ALPHA_TEST.md](3D_A3I5_ALPHA_TEST.md), `patches/v06_to_v07_alpha_pause_title.ips`, `tools/apply_v07_alpha.py`.
 - **Chưa kiểm thử runtime trên melonDS/NDS**. Vẫn giữ v0.6 là bản dùng chính; v0.7 chỉ là **Alpha test**.
 - Ưu tiên kế: xác minh nhãn Pause trong game trước, sau đó mới sửa `mdl_pause_course`, `mdl_t_goal`, `mdl_t_timesup`.
+
+## v0.8 Alpha: Pause / Tiếp tục (04/11/2026)
+
+- ROM mới từ v0.7 Alpha, dịch thêm **`Continue` → `Tiếp tục`** trong `en/mdl_pause_tudukeru.rel`.
+- Vùng chữ chỉ cao 7 pixel, sử dụng bitmap pixel tự dựng; có bản preview, **chưa test trong DS/melonDS**.
+- Chỉnh 1139 byte, chỉ trong raster trước relocation `0xB60`. 317 tệp archive khác không sửa; tổng cộng **2/91 mô hình 3D có bản vá thử nghiệm**, không phải 2 mô hình được chứng nhận hoàn tất.
+- IPS từ v0.7 Alpha, công cụ SHA-verified: [3D_ALPHA_V08.md](3D_ALPHA_V08.md), `patches/v07_to_v08_alpha_pause_continue.ips`, `tools/apply_v08_alpha.py`.
+- SHA-256 ROM test v0.8: `635353b74025daf83e9a4d0a121e24896696fa0c2e8cf644c444e60ab57f0b3b`.
+- v0.6 vẫn là bản thử nghiệm chính. v0.8 là bản kiểm tra chữ 3D, còn nguy cơ khó đọc/không hiển thị và chưa kiểm thử runtime.
