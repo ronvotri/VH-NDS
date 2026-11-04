@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-05",
   "priority_total": 17935,
-  "translated_total": 8143,
-  "remaining": 9792,
-  "ratio": 0.45403,
+  "translated_total": 8863,
+  "remaining": 9072,
+  "ratio": 0.49417,
   "batches": [
     {
       "batch": 1,
@@ -397,8 +397,32 @@
       "repo_file": "translations/dot_41/hoi_thoai_042.jsonl",
       "validated": true,
       "topic": "Wizard's Pledge, Tail Wrestling and Catnap sewers"
+    },
+    {
+      "batch": 42,
+      "done": 180,
+      "repo_file": "translations/dot_42/hoi_thoai_043.jsonl",
+      "validated": true
+    },
+    {
+      "batch": 43,
+      "done": 180,
+      "repo_file": "translations/dot_43/hoi_thoai_044.jsonl",
+      "validated": true
+    },
+    {
+      "batch": 44,
+      "done": 180,
+      "repo_file": "translations/dot_44/hoi_thoai_045.jsonl",
+      "validated": true
+    },
+    {
+      "batch": 45,
+      "done": 180,
+      "repo_file": "translations/dot_45/hoi_thoai_046.jsonl",
+      "validated": true
     }
   ],
-  "qa": "Technical checks passed for 41 batches: source IDs, JSON, protected tokens and unique IDs. ROM/font/layout/gameplay checks pending.",
+  "qa": "Technical checks passed for 45 batches: source IDs, JSON, protected tokens and unique IDs. ROM/font/layout/gameplay checks pending.",
   "notes": "7 technical Sample text rows from hoi_thoai_030 deferred; 4 older damaged rows in hoi_thoai_003 still deferred."
 }
