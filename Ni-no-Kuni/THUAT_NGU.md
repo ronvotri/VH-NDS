@@ -1,6 +1,6 @@
-# Thuật ngữ và ngôi xưng — Ni no Kuni DS
+# Thuật ngữ Việt hóa Ni no Kuni
 
-Giữ tên người và địa danh bản DS, như Oliver, Shizuku, Mary, Jairo, Jabou, Hotroit, Catnap, Babanacia, Boarg, Rekka, Imagen, Gladion, Suren, Kuran, Cowla. Không tự đổi sang bản PS3.
+Giữ tên người và tên vùng từ bản tiếng Anh, như Oliver, Shizuku, Mary, Jairo, Jabou, Hotroit, Catnap, Babanacia, Boarg, Rekka. Dùng cách gọi của bản DS, không tự đổi sang tên của bản PS3.
 
 | Tiếng Anh | Tiếng Việt |
 |---|---|
@@ -58,6 +58,22 @@ Giữ tên người và địa danh bản DS, như Oliver, Shizuku, Mary, Jairo,
 | Bikini (địa danh) | Bikini |
 | Tourism Ambassador | Đại sứ Du lịch |
 | Babana (fruit) | babana (quả) |
+| Songstress' Secret | Bí Quyết Danh Ca |
+| Martin's Missions | Nhiệm Vụ Martin |
+
+## Xưng hô và giọng văn
+
+- **Oliver:** chân thành, lễ phép; với bạn bè tớ/cậu, với mẹ con/mẹ, người lớn cháu/cô/chú hoặc cháu/thầy.
+- **Shizuku:** tinh quái, lém lỉnh, có thể chọc quê khi phù hợp nhưng không phá những cảnh cảm xúc.
+- **Mary:** hồn nhiên, năng động; với Oliver tớ/cậu, với Suren con/cha.
+- **Suren:** với Mary cha/con; với Oliver ta/cháu và được gọi là thầy Suren.
+- **Hệ thống:** ngắn gọn, dùng bạn khi cần. Kiểm tra tràn chữ khi nhúng ROM.
+
+
+## Bổ sung sau đợt 6
+
+| Tên trong nguồn | Cách dịch thống nhất |
+|---|---|
 | Sausage | Xúc xích |
 | Premium Rice | Gạo Hảo Hạng |
 | Spicy Pilaf | Cơm Pilaf Cay |
@@ -65,55 +81,43 @@ Giữ tên người và địa danh bản DS, như Oliver, Shizuku, Mary, Jairo,
 | Sacred Arrow (spell) | Thánh Tiễn |
 | Pulse (spell) | Xung Ba |
 | Drongo | Drongo |
-| Songstress' Secret | Bí Quyết Danh Ca |
-| Martin's Missions | Nhiệm Vụ Martin |
 
-## Xưng hô và giọng văn
-- **Oliver:** chân thành, lễ phép. Với bạn bè: tớ/cậu; với mẹ: con/mẹ; người lớn: cháu/cô/chú.
-- **Shizuku:** nói gần gũi, tinh quái, đôi khi chọc quê; vẫn đúng tinh thần phiêu lưu cổ tích.
-- **Mary:** hồn nhiên, năng động; nói tớ/cậu với Oliver, con/cha với Suren.
-- **Suren:** cha với Mary; thầy/người lớn khi nói với Oliver. Giữ ngữ cảnh từng cảnh.
-- **Hệ thống:** dùng "bạn" hoặc mệnh lệnh ngắn gọn, tránh văn vẻ làm tràn nút.
-
-Gợi ý dịch chỉ áp dụng khi đúng bối cảnh; không ép một đại từ cho mọi câu. Không bịa khi chuỗi nguồn vô nghĩa.
-
-
-## Ngữ cảnh đợt 06
-
-Suren nói **ta/cháu** với Oliver, **cha/con** với Mary; Oliver nói **cháu/thầy**; Mary nói **con/cha**, với Oliver nói **tớ/cậu**. Các cảnh gia đình, chữa lành và lời thề gìn giữ hòa bình nên ấm áp, không cố chọc cười. Trong bản đồ Babanacia, giữ nguyên **Owl's Cowls** và **Blackbird Blacksmith** khi chưa có thuật ngữ thống nhất; dùng **Nhiệm Vụ Martin** và **Suối nước nóng Silvervine** theo bảng trước đó.
+Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** với Mary; Oliver dùng **cháu/thầy**, Mary dùng **con/cha**. Shizuku có thể chọc vui trong đoạn ngoài lề, không pha trò khi Mary và cha đoàn tụ. Trong câu chỉ đường Babanacia, giữ nguyên **Owl's Cowls** và **Blackbird Blacksmith** khi chưa có cách dịch thống nhất; sử dụng **Nhiệm Vụ Martin** và **Suối nước nóng Silvervine** theo thuật ngữ cũ.
 
 ## Bổ sung sau đợt 7
 
-| Tên nguồn | Cách dùng thống nhất |
+| Nguồn | Cách dùng trong bản dịch |
 |---|---|
 | Ichi no Kuni | Ichi no Kuni (giữ nguyên tên thế giới) |
 | Secret Ingredient (spell/rune) | Gia Vị Bí Mật |
+| Milk Fountain | Đài phun Sữa |
 | Kindness (Heart) | Nhân Ái / Mảnh Tim Nhân Ái |
 | Love (Heart) | Tình Yêu / Mảnh Tim Tình Yêu |
 | Bikini Bay | vịnh Bikini |
 | Roy | Roy |
-| Sophia / Sofia | Sophia (nguồn có một lần viết Sofia) |
+| Sophia / Sofia | Sophia (thống nhất theo phần lớn nguồn; nguồn có một lần viết Sofia) |
 | Cheese | phô mai |
 
-- Cô giáo thiếu **Nhân Ái**: học trò xưng **em/cô**, cảnh xúc động không chọc cười.
-- Roy và Sophia: giữ giọng đau lòng của Roy; Shizuku chỉ chọc vui ở những câu gây cười có sẵn.
-- HOI_d66c6b0d4ef33b trong đợt 7 có vẻ nhãn NPC nội bộ, phải xác minh trước khi nhúng.
+- Đoạn về cô giáo mất **Nhân Ái**: thương cảm, không đùa quá trớn; học sinh xưng **em/cô**.
+- Đoạn Roy – Sophia mất **Tình Yêu**: Roy chân thành và đau lòng; Shizuku chọc vui ở câu gây cười, sau đó trở lại nghiêm túc.
+- Nguồn `hoi_thoai_008` mục 89 là **`Recipe Distribution NPC (Temp)`**, có vẻ một nhãn nội bộ; đã dịch `NPC phát công thức (tạm)` nhưng phải xác minh trước khi quyết định đưa vào phần người chơi thấy.
 
-## Bổ sung đợt 8
+## Bổ sung sau đợt 8
 
-| Tên nguồn | Quy ước |
+| Nguồn | Cách dịch / quy ước |
 |---|---|
-| Nellory | Nellory (nhà nghiên cứu Imagen) |
+| Secret Ingredient | Gia Vị Bí Mật (phép, xem trang 39) |
+| Imagen Carrying Cage | Lồng Mang Imagen (cần đối chiếu giao diện trước khi nhúng) |
+| Nellory | Nellory (ông nghiên cứu Imagen, xưng ta/cháu với Oliver) |
 | Sea Naiad | Sea Naiad (giữ tên loài Imagen) |
-| Teeny Bopper | Teeny Bopper (giữ tên loài Imagen) |
-| Duck-billed Bopper | Duck-billed Bopper (giữ tên loài Imagen) |
-| Unibopper | Unibopper (giữ tên loài Imagen) |
-| Imagen Carrying Cage | Lồng Mang Imagen (tạm, cần đối chiếu giao diện) |
+| Teeny Bopper | Teeny Bopper (giữ nguyên) |
+| Duck-billed Bopper | Duck-billed Bopper (giữ nguyên) |
+| Unibopper | Unibopper (giữ nguyên) |
 
-- Roy–Sophia: sau khi được trả lại **Tình Yêu**, xưng **anh/em**, dịu dàng, không chèn hài vào cảnh hòa giải.
-- Ông Nellory: nhiệt tình đến hơi kỳ quặc, xưng **ta/cháu** với Oliver. Shizuku bực mình, nói lém lỉnh nhưng không thô.
-- Người buôn babana đau răng có **Kiềm Chế**; ông lính tuần tự phụ có **Tự Tin**.
-- Tiếp tục giữ **Gia Vị Bí Mật**, **Sách Pháp Thuật**, **Mảnh Tim** và **Trao Tim** từ các đợt trước.
+- **Roy và Sophia:** sau khi hồi phục Tình Yêu, giữ xưng hô **anh/em** và lời thoại ấm áp.
+- **Ông Nellory:** háo hức và có phần kỳ quặc, nói **ta/cháu** với Oliver; Shizuku có thể cà khịa ông.
+- **Ông lính tuần:** hóm hỉnh, hơi tự phụ, nguồn cảm xúc **Tự Tin**; người buôn babana bị đau răng là nguồn **Kiềm Chế**.
+- Những tên Imagen chưa được xác thực từ UI bản DS: tạm **giữ nguyên** để tránh dịch lệch.
 
 ## Bổ sung sau đợt 9
 
@@ -127,11 +131,11 @@ Suren nói **ta/cháu** với Oliver, **cha/con** với Mary; Oliver nói **chá
 | Confidence | Tự Tin (Mảnh Tim) |
 | Jabou | Jabou |
 
-- **Nellory:** xưng **ta/cháu** với Oliver; gọi Shizuku là **ngài Tiên** khi châm chọc. Shizuku gọi Nellory là **ông**.
-- **Moya:** giữ tên Imagen Papa Sasquash để khớp danh mục khi bắt thú.
-- **Babanacia:** dùng thống nhất `kẹo caramen sữa` cho Milk Caramel, `Đài phun Sữa` cho Milk Fountain; nhiệm vụ hồi phục **Tự Tin**.
-- **Người bán babana đau răng:** nguồn **Kiềm Chế**; sau khi chia sẻ mới chịu cân nhắc đi nha sĩ.
-- **Người đưa quà:** chủ nhân giao quà cho pháp sư chống lại Jabou; Oliver nhận quà xưng cháu/ạ.
+- **Nellory:** xưng **ta/cháu** với Oliver; gọi Shizuku là **ngài Tiên** khi châm chọc; Shizuku gọi Nellory là **ông** và dùng ta/cậu khi nói với Oliver.
+- **Đường dây Moya:** nhận các Imagen hiếm, giữ tên Papa Sasquash nhằm tránh nhầm lúc bắt thú.
+- **Babanacia:** dùng thống nhất `kẹo caramen sữa` cho Milk Caramel, `Đài phun Sữa` cho Milk Fountain; lưu ý tuyến phục hồi **Tự Tin**.
+- **Người bán babana đau răng:** có nguồn **Kiềm Chế**; sau khi chia sẻ sẽ cân nhắc đi nha sĩ.
+- **Người đưa quà:** chủ nhân muốn tặng quà cho vị pháp sư chống lại Jabou; lời người lớn lễ phép, Oliver xưng cháu/ạ khi nhận quà.
 
 ## Bổ sung sau đợt 10
 
@@ -157,49 +161,50 @@ Suren nói **ta/cháu** với Oliver, **cha/con** với Mary; Oliver nói **chá
 
 | Nguồn | Cách dùng |
 |---|---|
-| Al-Khemie | Al-Khemie (giữ tên thần nồi) |
-| genie of the Synthesis Cauldron | thần nồi; tự xưng **thần**, gọi Oliver **ngài/chủ nhân** |
+| Al-Khemie | Al-Khemie (tên riêng thần nồi, không đổi) |
+| genie of the Synthesis Cauldron | thần nồi (Al-Khemie tự xưng **thần**, gọi Oliver **ngài/chủ nhân**) |
 | Synthesis Cauldron | Nồi Ghép |
 | Synthesize with Recipe | Ghép theo Công thức (cần đối chiếu nhãn UI) |
 | Recipe | Công thức |
-| Travelling Eggs | Trứng Du Hành (cần đối chiếu màn trao đổi) |
-| Imagen Manhole | Cống Imagen (**tạm**, cần kiểm tra tên tính năng) |
-| Carrying Cage | Lồng Mang Imagen (theo thuật ngữ trước, cần kiểm tra UI) |
+| Travelling Eggs | Trứng Du Hành (cần đối chiếu các màn trao đổi) |
+| Imagen Manhole | Cống Imagen (**tạm**, cần kiểm tra nhãn UI gốc) |
+| Carrying Cage | Lồng Mang Imagen (theo thuật ngữ đợt 10, cần kiểm tra UI) |
 | Peppy Syrup | Si-rô Vui Vẻ |
 | Bikini Bay | vịnh Bikini |
 | Bikini (city) | Bikini |
 | mayor of Bikini | Thị trưởng Bikini / ngài Thị trưởng |
-| Eisberg | Eisberg (giữ tên bản DS) |
+| Eisberg | Eisberg (tên địa danh bản DS) |
 
-- **Al-Khemie:** nói trịnh trọng, hơi cổ nhưng có duyên; phân biệt với Shizuku nói gần gũi, tinh quái.
-- **Bikini:** luật mặc đồ bơi là hài tình huống, nhưng thị trưởng vẫn chân thành và tự hào.
-- **Alec:** khi nhận lại kỷ vật của vợ và ảnh Elsa, dịch ấm áp, không pha trò.
+- Al-Khemie dùng lời hơi cổ, trịnh trọng nhưng có duyên; phân biệt với Shizuku nói gần gũi, nghịch ngợm.
+- Đoạn luật đồ bơi ở Bikini có tính hài tình huống, lời thị trưởng vẫn hào sảng và chân thành.
+- Cảnh Alec nhận lại kỷ vật gia đình nên giữ sắc thái ấm áp, không chế giễu.
 
 ## Bổ sung sau đợt 12
 
 | Nguồn | Cách dịch |
 |---|---|
-| Soft Caramel | Kẹo Caramen Mềm (khác Milk Caramel = kẹo caramen sữa) |
-| Beastly Mask / Beast Mask | Mặt Nạ Quái Thú (nguồn không nhất quán, cần kiểm tra tên vật phẩm) |
+| Soft Caramel | Kẹo Caramen Mềm (**khác** Milk Caramel = kẹo caramen sữa) |
+| Beastly Mask / Beast Mask | Mặt Nạ Quái Thú (nguồn không thống nhất, cần kiểm tra tên item) |
 | Bone Mask | Mặt Nạ Xương |
-| Slipshoes | Giày Trượt (cần đối chiếu tên item) |
+| Slipshoes | Giày Trượt (cần đối chiếu tên item trong UI) |
 | Speedshoes | Giày Tốc Độ |
-| Wanderer | Lữ Khách |
+| Wanderer | Lữ Khách / ông Lữ Khách |
 | Secret Sorcerers | Pháp Sư Bí Mật |
 | seaplane | thủy phi cơ |
+| sailor | thủy thủ |
 
-- **Mirant:** tớ/cậu với Oliver; giọng hồn nhiên, kính trọng sư phụ.
-- **Ông Lữ Khách:** bốc đồng, thích nhảy nhót, dễ gây cười; vẫn như thế sau khi nhận lại Kiềm Chế.
-- **Người anh phi công và em trai:** anh hai/em, thân thiết, ấm áp.
-- **Nữ pháp sư giấu thân phận:** cô/cháu với Oliver, sợ Jabou nhưng kỳ vọng nhóm.
-- **Ông thầy thủy thủ:** lối nói già dặn, hào sảng, cực đoan kiểu xưa nhưng mang sắc thái hài.
+- **Mirant:** trò chuyện thân thiện với Oliver bằng **tớ/cậu**, coi sư phụ là người rất quan trọng; lời lẽ hào hứng, hơi mơ màng.
+- **Ông Lữ Khách:** có thể nhảy nhót, nói bốc đồng, tự hào một cách buồn cười; sau khi được chữa vẫn chưa hoàn toàn điềm đạm.
+- **Người anh phi công và em trai:** gọi **anh hai/em**, tình cảm và lo lắng nhau; Shizuku gọi Oliver **Ollie** khi phù hợp.
+- **Cô pháp sư giấu thân phận:** xưng **cô/cháu** với Oliver; vừa sợ Jabou vừa quyết liệt thúc giục nhóm.
+- **Ông thầy dạy thủy thủ:** giọng già đời, hào sảng, cổ lỗ, có thể hơi quá lời nhưng không biến thành nhân vật độc ác.
 
 ## Bổ sung sau đợt 13
 
 | Nguồn | Cách dịch |
 |---|---|
 | Boniato | Boniato (tên loại củ, giữ nguyên để nhận diện) |
-| Plessie | Plessie (giữ tên loài quái vật) |
+| Plessie | Plessie (giữ tên loài Imagen/quái vật) |
 | Shocked Fish | Cá Giật Điện (tên món ăn, rà UI khi nhúng) |
 | Firefly Shrimp | Tôm Đom Đóm |
 | Motivation | Nhiệt Huyết |
@@ -209,72 +214,128 @@ Suren nói **ta/cháu** với Oliver, **cha/con** với Mary; Oliver nói **chá
 | Hollowed | Rỗng Tim |
 
 - **Ông thủy thủ Bikini:** xưng **ta**, gọi Oliver là **nhóc/cậu**, nói hào sảng, già đời; Oliver xưng **cháu/bác**.
-- **Người mẹ xa con:** xưng **cô**, Oliver **cháu/cô**; gọi đúng Mona, Loni, Gimu.
+- **Người mẹ xa con:** xưng **cô**, Oliver **cháu/cô**. Không giễu cợt cảm xúc gia đình; gọi đúng Mona, Loni, Gimu.
 - **Cha và con gái ở quán ăn:** thống nhất **cha/con**; người cha ngoài cứng trong mềm, Shizuku trêu gọi **ông bác**. Oliver gọi **bác**, cô gái là **chị**.
 - **Người giới thiệu Boniato:** đầy **Hoài Bão**, dí dỏm vừa phải, gọi Oliver là **cậu**, Oliver xưng **cháu/cô**.
-- **Plessie:** không mặc định mọi cá thể là quái vật xấu; giữ giọng xúc động ở đoạn cứu và nuôi Plessie.
+- **Plessie:** không mặc định mọi cá thể là quái vật xấu; giữ giọng xúc động ở đoạn con vật được cứu và nuôi lớn.
 
-## Bổ sung đợt lớn 14–17
+## Bổ sung đợt 14–17
 
-| Nguồn | Thống nhất tiếng Việt |
+| Tiếng Anh trong nguồn | Thống nhất tiếng Việt |
 |---|---|
-| Sinbad | Sinbad (tên riêng; chú thích `Sinbad (?)` cần kiểm tra) |
-| Queen Cowla (ship) | Queen Cowla (tên tàu, phân biệt Nữ hoàng Cowla) |
-| Carrying Cage | Lồng Mang Imagen |
+| Sinbad | Sinbad (tên riêng; nguồn có dòng `Sinbad (?)` cần rà) |
+| Queen Cowla (ship) | Queen Cowla (tên con tàu; phân biệt Nữ hoàng Cowla) |
+| Carrying Cage / Imagen Carrying Cage | Lồng Mang Imagen |
+| Imagen Manhole | Cống Imagen (**tạm**, cần kiểm tra UI) |
 | Lockpick Gun | Súng Mở Khóa |
-| Imagen Manhole | Cống Imagen (tạm, kiểm tra UI) |
-| The Mother of Boarg | Thánh Mẫu Boarg |
+| The Mother of Boarg | Thánh Mẫu Boarg (danh xưng thầy bói) |
 | Septimus Medals | Huy chương Septimus |
 | Magic Pirate Crew | Băng Hải Tặc Phép Thuật |
-| Seek Fortune | Tầm Bảo (tạm, kiểm tra UI) |
-| Ward | Hộ Thể (tạm, kiểm tra UI) |
-| Jade Sphere | Cầu Ngọc Bích (tạm, kiểm tra UI) |
-| Rabbot / Jackrabbot | Rabbot / Jackrabbot |
-| Hubber Blubber | Hubber Blubber |
+| Seek Fortune (spell) | Tầm Bảo (**tạm**, cần kiểm tra UI phép) |
+| Ward (spell) | Hộ Thể (**tạm**, cần kiểm tra UI phép) |
+| Jade Sphere | Cầu Ngọc Bích (**tạm**, cần kiểm tra danh mục vật phẩm) |
+| Rabbot / Jackrabbot | Rabbot / Jackrabbot (tên loài, giữ nguyên) |
+| Hubber Blubber | Hubber Blubber (tên quái vật, giữ nguyên) |
 | Silvervine Lodge | Nhà nghỉ Silvervine |
 | East District | Khu Đông |
+| crystal fortune telling | bói cầu pha lê |
 
-- **Jairo:** ngang tàng mà giàu kinh nghiệm, thích gọi Oliver là nhóc, có câu đùa Oliver-Không-Phải-Nhóc.
-- **Shizuku:** dí dỏm; khi xin nghỉ chiến đấu, vẫn giữ sắc thái bạn bè thân thiết.
-- **Mirant:** tớ/cậu, giàu cảm xúc khi hồi tưởng về bạn cũ.
-- **Thánh Mẫu Boarg:** giọng thầy bói, ta/cháu với Oliver.
-- **Thủy thủ già:** hào sảng, ta/nhóc, không lạm dụng từ cổ hay thô tục.
+- **Jairo:** xưng ta/cháu với Oliver trong cảnh gặp gỡ, có thể gọi `nhóc` và tự trêu `Oliver-Không-Phải-Nhóc`; giọng ngang tàng nhưng không thô tục.
+- **Shizuku:** xưng ta/cậu (hoặc theo ngữ cảnh), nói hóm hỉnh; câu đùa xin nghỉ chiến đấu phải tự nhiên, không làm sai cảm xúc của Oliver/Mary.
+- **Thuyền trưởng và thủy thủ già:** giọng hào sảng, gọn, dùng ta/nhóc; tên tàu Queen Cowla khác với Nữ hoàng Cowla.
+- **Mirant:** tớ/cậu, hồn nhiên; đoạn nhớ người bạn cũ nên giữ sự bí ẩn và xúc động.
+- **Thánh Mẫu Boarg:** giọng thầy bói trầm, xưng ta/cháu khi nói với Oliver.
+- Các dòng phát hiện có vẻ nhãn kỹ thuật hoặc câu đố giữ nguyên nghĩa, đánh cờ QA riêng.
 
 
-## Bổ sung đợt 22–25 — thuật ngữ và giọng văn
+## Thuật ngữ đợt 18–21 (Boarg)
 
-| Nguồn | Dịch thống nhất |
+| Tiếng Anh | Tiếng Việt |
 |---|---|
-| Teleport (spell) | Dịch Chuyển |
-| Travel (spell) | Du Hành (cần đối chiếu danh sách phép) |
-| Escape (spell) | Thoát Hiểm (cần đối chiếu danh sách phép) |
-| Ghost Valley | Thung lũng Ma |
-| Gladion | Gladion |
-| Viper, the Pirate King | Viper, Vua Hải Tặc |
-| Boarg Passport | Hộ chiếu Boarg |
-| Jungle (village) | Jungle |
-| Coconanda Cavern | Hang Coconanda |
-| The Jolly Rogerer | Jolly Rogerer |
-| Jaunty Rogerer | Jaunty Rogerer (giữ đúng câu gốc, cần xác minh đổi tên tàu) |
-| Sun Stone | Đá Mặt Trời |
-| Golden Peach | Đào Vàng |
-| Haven, City in the Heavens | Haven, Thành Phố Trên Trời |
-| Cloud Sweepers | Chổi Lướt Mây |
-| Kuro | Kuro |
-| Porcus Maximus | Porcus Maximus (Max là tên thân mật khi còn nhỏ) |
+| Imperial Law Institute | Viện Nghiên cứu Luật Hoàng gia |
+| Restraint | Kiềm Chế |
+| Courage | Can Đảm |
+| Confidence | Tự Tin |
+| Kindness | Nhân Ái |
+| Love | Tình Yêu |
+| Ambition | Hoài Bão |
+| Black Market | Chợ Đen |
+| Boarg Armor | Giáp Boarg |
+| Lockpick Gun | Súng Mở Khóa |
+| Lifecense burner | Lư Hương Sinh Mệnh *(cần kiểm tra tên vật phẩm chính thức)* |
+| Golden Bone | Xương Vàng |
+| Kyurahl | Kyurahl |
+| Coconada/Coconanda | Coconada/Coconanda *(cần đối chiếu tên chuẩn)* |
+| Boarg Heart | Tim Boarg *(tên bệnh)* |
+| Don of the Backstreets | Trùm Hẻm Nhỏ *(biệt danh của Caldon)* |
 
-Trong cảnh hai anh em, Jairo xưng **anh/em** với Max. Oliver xưng **cháu/bệ hạ** với Hoàng đế; Mary bộc trực; Shizuku lém lỉnh đúng lúc. Thủy thủ đoàn nói dân dã (*ta/bọn mi*); Viper khoa trương và ngạo nghễ. Không tự đồng nhất tên **Jabou** và **Shadaar** khi chưa rà lại nguồn.
+**Ghi chú:** Nguồn ở một đoạn gọi trạng thái kỹ sư là `Faith` thay vì `Confidence`; giữ dịch theo từng dòng, đối chiếu logic nhiệm vụ sau. Một số dòng nguồn gọi `Golden Bones` là sừng trong các câu sau: giữ thuật ngữ Xương Vàng, cần xác minh vật phẩm khi nhập ROM.
 
-## Thuật ngữ đợt 26–29 cần rà khi nhúng ROM
 
-| Nguồn | Bản dịch | Ghi chú |
+## Bổ sung đợt 22–25 — thống nhất phong cách
+
+| Nguồn | Cách dịch | Ghi chú |
 |---|---|---|
-| Vroom Broom | Vroom Broom | Giữ tên nguồn, chưa xác nhận tên phép trong menu |
-| Cloud Sweeper | Chổi Lướt Mây | Theo các đợt trước |
-| Bridge (rune) | Cầu Nối | Tạm, cần kiểm tra phép trong game |
-| Dream (Heart Fragment) | Ước Mơ | Phân biệt Ambition = Hoài Bão |
-| Black Ticket | Vé Đen | Phần thưởng sòng bạc |
-| Crafter Battle | Đấu Trường Chế Tác | Tạm, rà giao diện |
-| The Generals | The Generals | Giữ tên trò bài nguồn |
+| Ghost Valley | Thung lũng Ma | Giữ bảng cũ |
+| Teleport (spell) | Dịch Chuyển | Trang 27 Sách Pháp Thuật; không tự đồng nhất với Travel |
+| Travel (spell) | Du Hành | Cần xác minh menu phép |
+| Escape (spell) | Thoát Hiểm | Cần xác minh tên hiển thị |
+| Gladion | Gladion | Giữ tên đũa huyền thoại |
+| Viper, the Pirate King | Viper, Vua Hải Tặc | Cách gọi tước vị |
+| Boarg Passport | Hộ chiếu Boarg | |
+| Jungle (village) | Jungle | Giữ tên làng |
+| Coconanda Cavern | Hang Coconanda | |
+| Captain Jolly Roger | Thuyền trưởng Jolly Roger | |
+| The Jolly Rogerer | Jolly Rogerer | Cần đối chiếu với Jaunty Rogerer |
+| Jaunty Rogerer | Jaunty Rogerer | Không tự sửa khác nguồn |
+| Sun Stone | Đá Mặt Trời | |
+| Golden Peach | Đào Vàng | |
+| Haven, City in the Heavens | Haven, Thành Phố Trên Trời | |
+| Cloud Sweepers | Chổi Lướt Mây | Phương tiện bay, cần đối chiếu UI |
+| Kuro | Kuro | Giữ tên |
+| Porcus Maximus | Porcus Maximus | Max là tên thân mật khi còn bé |
 
-Mirant ưu tiên xưng **tớ/cậu** khi nói với Oliver; Shizuku tự nhiên, tếu táo; Viper tự xưng ta, gọi Oliver là nhóc.
+**Đại từ:** Jairo nói *anh/em* với Hoàng đế Max; Hoàng đế xưng *ta/các ngươi* khi còn khép kín, *ta/cháu* với Oliver khi đã kết bạn; thủy thủ đoàn hải tặc sử dụng *ta/bọn mi* và cách nói dân dã. Viper ngạo nghễ, Mary thẳng thắn nhưng không chửi tục; Oliver lịch sự, Shizuku hóm hỉnh đúng lúc.
+
+## Thuật ngữ đợt 26–29 (cần kiểm tra tên phép khi nhúng)
+
+| Nguồn | Bản dịch đang dùng | Ghi chú |
+|---|---|---|
+| Vroom Broom | Vroom Broom | Tạm giữ tên phép nguồn, cần rà tên trong menu |
+| Cloud Sweeper | Chổi Lướt Mây | Theo thuật ngữ các đợt trước |
+| Bridge (rune) | Cầu Nối | Tạm, cần so khớp phép thực tế |
+| Dream (Heart Fragment) | Ước Mơ | Phân biệt Ambition = Hoài Bão |
+| Del Mokahl | Del Mokahl | Giữ tên riêng |
+| Black Ticket | Vé Đen | Phần thưởng sòng bạc |
+| Crafter Battle | Đấu Trường Chế Tác | Tạm, kiểm tra UI |
+| The Generals | The Generals | Tên trò bài, giữ theo nguồn |
+| Restraint | Kiềm Chế | Giữ nguyên |
+| Confidence | Tự Tin | Giữ nguyên |
+| Kindness | Nhân Ái | Giữ nguyên |
+
+**Rà giọng Mirant:** dùng tớ/cậu khi đối thoại với Oliver; Shizuku có giọng tếu táo, Viper ta/nhóc. Các NPC không xác định vai nói vẫn cần kiểm thử ngữ cảnh.
+
+## Đợt 30–33: Casino, Flint–Tamara, Liên Đấu Pandora và Hồ Tử Thi
+
+| Từ gốc | Bản dịch / ghi chú |
+|---|---|
+| Casino | Sòng bạc |
+| Commemorative Ticket | Vé Kỷ Niệm |
+| Triple Sevens | Ba số 7 |
+| Caraway Chrysanthemum | Pháo hoa Cúc Caraway |
+| The Storm’s Eye | Mắt Bão |
+| Rainbow Stone | Đá Cầu Vồng |
+| Rainbow Fireworks | Pháo Hoa Cầu Vồng |
+| Pandora League | Liên Đấu Pandora |
+| Battle Coliseum | Đấu Trường |
+| Imagen Genius / ImaGenius | Thiên Tài Imagen / ImaGenius (tên hiệu) |
+| Pandora’s Box | Hộp Pandora |
+| Trophy Cup | Cúp Vô Địch |
+| Hope / Hopelessness | Hy Vọng / Tuyệt Vọng |
+| Warrior of Hope | Chiến Binh Hy Vọng |
+| Hero's Cup | Cúp Anh Hùng |
+| Soulgem | Hồn Ngọc (cần xác minh trong game) |
+| Big Burn Out | Đại Cháy Xịt (tên tác phẩm pháo hoa, cần kiểm tra) |
+| Shadaar | Shadaar (bản nguồn cũng gọi Jabou; chưa tự gộp tên) |
+
+**Ngôi xưng:** Flint (thầy/cha) với Tamara: ta/con, cha/con theo cảnh; Tamara với Flint: con/cha. Nicky tự nhận kỳ phùng địch thủ, xưng ta/cậu hoặc ta/nhóc; Oliver lịch sự với người lớn. Gapollino pha trò nhưng vẫn là bậc Hiền Giả. Marcel mang giọng uất ức, tổn thương, không cố gây cười trong cảnh mất bạn.
