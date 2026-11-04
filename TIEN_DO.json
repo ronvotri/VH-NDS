@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-04",
   "priority_total": 17935,
-  "translated_total": 2570,
-  "remaining": 15365,
-  "ratio": 0.1433,
+  "translated_total": 2750,
+  "remaining": 15185,
+  "ratio": 0.15333,
   "batches": [
     {
       "batch": 1,
@@ -93,7 +93,14 @@
       "repo_file": "translations/dot_10/hoi_thoai_011.jsonl",
       "validated": true,
       "topic": "Queen Cowla and Kuran; Restraint Heart; Imagen Lonesickness; Alec/Silver Locket and Blubber Bubbler"
+    },
+    {
+      "batch": 11,
+      "done": 180,
+      "repo_file": "translations/dot_11/hoi_thoai_012.jsonl",
+      "validated": true,
+      "topic": "Alec and Silver Locket; Al-Khemie and synthesis; Travelling Eggs; Bikini swimsuit law"
     }
   ],
-  "qa": "Batch 10: 180/180 original IDs and protected control tokens validated; 2,570 unique IDs across 10 batches. No ROM import, font/layout test or complete narrative QA."
+  "qa": "Batch 11: 180 original IDs/control tokens validated; 2750 unique IDs over 11 batches. No ROM/font/UI verification."
 }
