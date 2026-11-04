@@ -1,13 +1,12 @@
-# Ni no Kuni DS — Bản dịch tiếng Việt
+# Ni no Kuni DS — Việt hóa Votri Valley
 
-**Tiến độ: 6.703/17.935 mục ưu tiên (37,37%) qua 33 đợt**, hiện đã xử lý đến `hoi_thoai_034`.
+**Tiến độ 05/11/2026:** **7.423/17.935 mục ưu tiên (41,39%)**, qua **37 đợt**, mới nhất `hoi_thoai_035–038` (720 câu).
 
-- `translations/dot_*/`: bản dịch JSONL tách theo từng đợt; giữ ID gốc, không lẫn Pokémon Dash.
-- [TIEN_DO.md](TIEN_DO.md) và [TIEN_DO.json](TIEN_DO.json): theo dõi số liệu và ID.
-- [THUAT_NGU.md](THUAT_NGU.md): thống nhất tên, ngôi xưng và lời thoại.
-- [QA_DOT_30_33.json](QA_DOT_30_33.json) và [CAN_RA_DOT_30_33.json](CAN_RA_DOT_30_33.json): kiểm tra kỹ thuật đợt mới và những điểm cần xác minh.
-- [Đối chiếu bản dịch tay 2024](references/DICH_TAY_2024_DOI_CHIEU.md): kho tham khảo từ phiên bản khác; không chép đè hàng loạt.
+- `translations/dot_*/`: tệp JSONL theo từng đợt, giữ ID gốc.
+- `BAN_DICH_GOP_DOT_01_37.jsonl`: bản gộp tiện nhập (**chỉ có trong ZIP**, đừng nhập đồng thời với bản rời).
+- `TIEN_DO.md`, `TIEN_DO.json`: tiến độ và các mục còn thiếu.
+- `THUAT_NGU.md`: tên riêng, phép thuật, vật phẩm và quy tắc ngôi xưng.
+- `QA_DOT_34_37.json`, `CAN_RA_DOT_34_37.md`: kết quả kiểm tra và cảnh báo chất lượng.
+- Nguồn dịch tay 2024 từ phiên bản khác chỉ được đối chiếu, không tự chép đè.
 
-Gói ZIP bàn giao chứa bản gộp tích lũy, nhưng **không tải bản gộp lên repo để tránh nhân đôi dữ liệu**. Khi nhập chỉ dùng bản gộp *hoặc* các tệp rời.
-
-**Đây chưa phải ROM đã Việt hóa:** chưa nhập ngược vào game, chưa kiểm thử font, độ rộng ô thoại, các nhánh cốt truyện hoặc chơi thử trên NDS.
+**Chưa phải ROM đã vá.** Dữ liệu được kiểm tra về ID, JSON, placeholder và trùng lặp; chưa kiểm thử font/ô thoại, byte/offset, sự kiện và chạy game thật trên NDS.
