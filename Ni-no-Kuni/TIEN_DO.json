@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-04",
   "priority_total": 17935,
-  "translated_total": 5270,
-  "remaining": 12665,
-  "ratio": 0.29384,
+  "translated_total": 5983,
+  "remaining": 11952,
+  "ratio": 0.33359,
   "batches": [
     {
       "batch": 1,
@@ -282,7 +282,35 @@
       "repo_file": "translations/dot_25/hoi_thoai_026.jsonl",
       "validated": true,
       "topic": "Đào Vàng; Viper; Chổi Lướt Mây; Kuro; Sazara"
+    },
+    {
+      "batch": 26,
+      "done": 180,
+      "repo_file": "translations/dot_26/hoi_thoai_027.jsonl",
+      "deferred": 0,
+      "validated": true
+    },
+    {
+      "batch": 27,
+      "done": 180,
+      "repo_file": "translations/dot_27/hoi_thoai_028.jsonl",
+      "deferred": 0,
+      "validated": true
+    },
+    {
+      "batch": 28,
+      "done": 180,
+      "repo_file": "translations/dot_28/hoi_thoai_029.jsonl",
+      "deferred": 0,
+      "validated": true
+    },
+    {
+      "batch": 29,
+      "done": 173,
+      "repo_file": "translations/dot_29/hoi_thoai_030.jsonl",
+      "deferred": 7,
+      "validated": true
     }
   ],
-  "qa": "All 25 batches: JSON, ID, protected-placeholder validations. No ROM import, font, byte-capacity or gameplay tests."
+  "qa": "All 29 batches have unique IDs; batches 26-29 checked by original KIEM_TRA_BAN_DICH.py. Seven debug Sample text strings deferred; no ROM/font/gameplay tests."
 }
