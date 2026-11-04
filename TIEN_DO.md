@@ -8,9 +8,10 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 | 02 | `translations/dot_02/hoi_thoai_003.jsonl` | 176 | 4 nguồn nghi lỗi, hoãn | Kiểm tra kỹ thuật đạt |
 | 03 | `translations/dot_03/hoi_thoai_004.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
 | 04 | `translations/dot_04/hoi_thoai_005.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
-| **Tổng** | | **1.490** | **4 nguồn hoãn** | Chưa nhập ROM |
+| 05 | `translations/dot_05/hoi_thoai_006.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
+| **Tổng** | | **1.670** | **4 nguồn hoãn** | Chưa nhập ROM |
 
-**Mục ưu tiên trong gói nguồn: 17.935. Đã dịch: 1.490 (8,3%). Còn chưa dịch: 16.445.**
+**Mục ưu tiên trong gói nguồn: 17.935. Đã dịch: 1.670 (9,3%). Còn chưa dịch: 16.265.**
 
 ## Phạm vi từng đợt
 
