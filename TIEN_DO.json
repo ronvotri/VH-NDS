@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-04",
   "priority_total": 17935,
-  "translated_total": 2210,
-  "remaining": 15725,
-  "ratio": 0.12322,
+  "translated_total": 2390,
+  "remaining": 15545,
+  "ratio": 0.13326,
   "batches": [
     {
       "batch": 1,
@@ -79,7 +79,14 @@
       "repo_file": "translations/dot_08/hoi_thoai_009.jsonl",
       "validated": true,
       "topic": "Roy–Sophia; Confidence, Restraint; Nellory; Sea Naiad; Teeny Bopper evolutions"
+    },
+    {
+      "batch": 9,
+      "done": 180,
+      "repo_file": "translations/dot_09/hoi_thoai_010.jsonl",
+      "validated": true,
+      "topic": "Nellory nghiên cứu Imagen; Imagen kính râm, Moya/Papa Sasquash; kẹo caramen sữa Babanacia; Kiềm Chế; món quà từ chủ nhân cho pháp sư đối đầu Jabou"
     }
   ],
-  "qa": "2,210 unique non-empty IDs across 8 batches; batch 08 180/180 source IDs validated via KIEM_TRA_BAN_DICH.py, no protected-token differences. Still no ROM, font, textbox or full-context gameplay tests."
+  "qa": "2,390 unique non-empty IDs across 9 batches; batch 09 validated 180/180 original IDs via KIEM_TRA_BAN_DICH.py, no protected-token differences. No ROM, font, textbox or full-context gameplay tests."
 }
