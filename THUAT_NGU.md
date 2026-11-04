@@ -132,3 +132,23 @@ Suren nói **ta/cháu** với Oliver, **cha/con** với Mary; Oliver nói **chá
 - **Babanacia:** dùng thống nhất `kẹo caramen sữa` cho Milk Caramel, `Đài phun Sữa` cho Milk Fountain; nhiệm vụ hồi phục **Tự Tin**.
 - **Người bán babana đau răng:** nguồn **Kiềm Chế**; sau khi chia sẻ mới chịu cân nhắc đi nha sĩ.
 - **Người đưa quà:** chủ nhân giao quà cho pháp sư chống lại Jabou; Oliver nhận quà xưng cháu/ạ.
+
+## Bổ sung sau đợt 10
+
+| Nguồn | Cách dùng |
+|---|---|
+| Take Heart (spell) | Thu Tim |
+| Give Heart (spell) | Trao Tim (giữ cách dùng cũ) |
+| Hero Stamps | Dấu Anh Hùng |
+| Silver Locket | Mề Đay Bạc |
+| Blubber Bubbler | Blubber Bubbler (tên quái/boss) |
+| Lonesickness | Nhớ Nhung |
+| Peppy Syrup | Si-rô Vui Vẻ |
+| Enduring Spirit | Tinh Thần Bền Bỉ |
+| Alec / Alex | Alec (thống nhất theo tên nhiệm vụ, dù một lời thoại ghi Alex) |
+| Queen Cowla | Nữ hoàng Cowla |
+| Kuran | ông Kuran; xưng **ta/cháu** với Oliver và Mary |
+
+- Các cảnh Nữ hoàng chỉ ăn uống là hài tình huống, giữ phép lịch sự khi nhân vật nói với cận thần.
+- Khi nói về chuyện đoàn tụ gia đình của Alec, giữ giọng nghiêm túc; Shizuku chỉ chọc vui chuyện ông gọi Mề Đay Bạc là “người thương”.
+- Tên `Blubber Bubbler` giữ nguyên vì đã xuất hiện trong nhiệm vụ ở đợt 1.
