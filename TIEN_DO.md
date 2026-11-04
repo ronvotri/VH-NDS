@@ -13,9 +13,10 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 | 07 | `translations/dot_07/hoi_thoai_008.jsonl` | 180 | 1 nhãn NPC nghi nội bộ, cần kiểm tra | Kiểm tra kỹ thuật đạt |
 | 08 | `translations/dot_08/hoi_thoai_009.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
 | 09 | `translations/dot_09/hoi_thoai_010.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
-| **Tổng** | | **2.390** | **4 nguồn hoãn, 1 nhãn cần rà** | Chưa nhập ROM |
+| 10 | `translations/dot_10/hoi_thoai_011.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
+| **Tổng** | | **2.570** | **4 nguồn hoãn, 1 nhãn cần rà** | Chưa nhập ROM |
 
-**Mục ưu tiên trong gói nguồn: 17.935. Đã dịch: 2.390 (13,3%). Còn chưa dịch: 15.545.**
+**Mục ưu tiên trong gói nguồn: 17.935. Đã dịch: 2.570 (14,3%). Còn chưa dịch: 15.365.**
 
 ## Phạm vi từng đợt
 
@@ -30,6 +31,8 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 
 - **Đợt 09:** `hoi_thoai_010` (180), Nellory nghiên cứu Imagen và Moya/Papa Sasquash; kẹo caramen sữa Babanacia; Kiềm Chế; người gửi quà cho pháp sư chống Jabou. Đã kiểm tra bằng `KIEM_TRA_BAN_DICH.py`.
 
+- **Đợt 10:** `hoi_thoai_011` (180), Nữ hoàng Cowla và ông Kuran, Mảnh Tim Kiềm Chế, Imagen mắc chứng Nhớ Nhung, Alec và quái biển Blubber Bubbler. Đã kiểm tra bằng `KIEM_TRA_BAN_DICH.py`.
+
 ### ID nguồn đang hoãn
 
 - `HOI_dd913e6676a5f6` — `D`
@@ -41,6 +44,8 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 
 - `HOI_d66c6b0d4ef33b`: `Recipe Distribution NPC (Temp)` có vẻ là nhãn phát triển, tạm dịch `NPC phát công thức (tạm)` nhưng chưa xác minh có hiển thị cho người chơi.
 
+- `hoi_thoai_011`: nguồn có cả `Alex` và `Alec`; bản dịch thống nhất **Alec** theo tên đã dịch trong các nhiệm vụ. `Take Heart` dùng **Thu Tim** đối ứng với **Trao Tim**. Giữ nguyên tên **Blubber Bubbler**.
+
 ## Luật để không sót, trùng hoặc lệch giọng
 
 1. Mỗi `id` phải duy nhất trên toàn bộ các tệp dịch; **không nhập cùng lúc bản gộp và tệp riêng**.
@@ -49,6 +54,6 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 4. Xem `THUAT_NGU.md` trước khi dịch batch tiếp theo.
 5. Chỉ ghi "đã dịch" cho file thực tế có trên repo và đã kiểm tra, không lấy số liệu từ nháp hoặc lời hứa.
 
-**Chưa kiểm thử:** chất lượng bản dịch theo toàn tuyến truyện; font tiếng Việt; độ rộng ô thoại NDS; nhúng lại kịch bản, sửa offset/nhảy lệnh; chạy trong game thật. Các bước kiểm tra hiện tại chỉ xác minh ID/JSON/mã điều khiển.
+**Chưa kiểm thử:** chất lượng bản dịch theo toàn tuyến truyện; font tiếng Việt; độ rộng ô thoại NDS; nhúng lại kịch bản, sửa offset/nhảy lệnh; chạy trong game thật. Các bước kiểm tra hiện tại chỉ xác minh ID/JSON/mã điều khiển. Đợt 10: 180/180 mục hợp lệ; tổng tích lũy 2.570 ID duy nhất.
 
-**Đợt tiếp theo:** `hoi_thoai_011.jsonl`. Bản gộp sau đợt 9 nằm trong ZIP bàn giao, chỉ dùng **thay cho** chứ không nhập cùng lúc với các tệp riêng.
+**Đợt tiếp theo:** `hoi_thoai_012.jsonl`. Bản gộp sau đợt 10 nằm trong ZIP bàn giao, chỉ dùng **thay cho** chứ không nhập cùng lúc với các tệp riêng.
