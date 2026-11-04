@@ -51,6 +51,12 @@ Giữ tên người và địa danh bản DS, như Oliver, Shizuku, Mary, Jairo,
 | Milk Fountain | Đài phun Sữa |
 | Queen Cowla | Nữ hoàng Cowla |
 | Purrsian | Purrsian |
+| Qi Ring | Nhẫn Qi |
+| Astram | Astram (chữ cổ) |
+| Hearty Clam | Nghêu Bổ Dưỡng |
+| Del Mokahl | Del Mokahl |
+| Bikini (địa danh) | Bikini |
+| Tourism Ambassador | Đại sứ Du lịch |
 | Babana (fruit) | babana (quả) |
 | Songstress' Secret | Bí Quyết Danh Ca |
 | Martin's Missions | Nhiệm Vụ Martin |
