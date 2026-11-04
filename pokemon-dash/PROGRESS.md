@@ -71,3 +71,11 @@ Chạy công cụ `tools/audit_dash_archive.py` trong thư mục dự án trên 
 - IPS từ v0.7 Alpha, công cụ SHA-verified: [3D_ALPHA_V08.md](3D_ALPHA_V08.md), `patches/v07_to_v08_alpha_pause_continue.ips`, `tools/apply_v08_alpha.py`.
 - SHA-256 ROM test v0.8: `635353b74025daf83e9a4d0a121e24896696fa0c2e8cf644c444e60ab57f0b3b`.
 - v0.6 vẫn là bản thử nghiệm chính. v0.8 là bản kiểm tra chữ 3D, còn nguy cơ khó đọc/không hiển thị và chưa kiểm thử runtime.
+
+## v0.8.1 Alpha — sửa font 3D bị dính nét
+
+- Phản hồi từ ảnh v0.8: chữ **Tiếp tục** dày, sát nét, khó đọc do font 3×7 bị kéo ngang.
+- Thay bằng glyph **5×7 pixel native, không resize**, cách 1 pixel. Chỉ đổi 340 byte trong `mdl_pause_tudukeru.rel`; kiểm tra IPS round-trip PASS; chưa gameplay-test.
+- ROM SHA-256 v0.8.1: `b9bc2094455c2316be263f31a05978f5949060241c1b802a9d18c16d9f023409`.
+- Báo cáo và patch: [3D_ALPHA_V081_FONT_QA.md](3D_ALPHA_V081_FONT_QA.md), `patches/v08_to_v081_alpha_fontfix.ips`, `tools/continue_font_5x7.py`.
+- **Giới hạn nguyên bản:** texture chỉ cao 7 pixel; font đã gọn hơn nhưng chữ có dấu vẫn cần xem thực tế trên màn DS. **v0.6 là bản ổn định để giữ lại.**
