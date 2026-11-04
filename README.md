@@ -9,7 +9,8 @@ Nơi lưu bản dịch và theo dõi tiến độ Việt hóa từ gói chữ xu
 | 01 | Hội thoại 001–002, hướng dẫn, nhiệm vụ, địa danh và UI | 954 | Đã qua kiểm tra kỹ thuật |
 | 02 | `hoi_thoai_003` | 176 | 4 chuỗi nguồn nghi hỏng, chưa dịch |
 | 03 | `hoi_thoai_004` — Babanacia, NPC và nhiệm vụ | 180 | Đã qua kiểm tra kỹ thuật |
-| **Tổng** | | **1.310/17.935 (~7,3%)** | Chưa nhúng ROM |
+| 04 | `hoi_thoai_005` — NPC Babanacia, Leonardo, ca sĩ và các nhiệm vụ | 180 | Đã qua kiểm tra kỹ thuật |
+| **Tổng** | | **1.490/17.935 (~8,3%)** | Chưa nhúng ROM |
 
 Tệp dịch có dạng JSONL, mỗi dòng `{"id":"...","translation":"..."}`. Sử dụng ID từ gói nguồn để nhập lại, không tự đổi mã điều khiển.
 
