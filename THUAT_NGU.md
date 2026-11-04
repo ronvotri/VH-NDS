@@ -52,6 +52,8 @@ Giữ tên người và địa danh bản DS, như Oliver, Shizuku, Mary, Jairo,
 | Queen Cowla | Nữ hoàng Cowla |
 | Purrsian | Purrsian |
 | Babana (fruit) | babana (quả) |
+| Songstress' Secret | Bí Quyết Danh Ca |
+| Martin's Missions | Nhiệm Vụ Martin |
 
 ## Xưng hô và giọng văn
 - **Oliver:** chân thành, lễ phép. Với bạn bè: tớ/cậu; với mẹ: con/mẹ; người lớn: cháu/cô/chú.
