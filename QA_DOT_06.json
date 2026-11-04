@@ -1,0 +1,20 @@
+{
+  "batch": 6,
+  "file": "hoi_thoai_007.jsonl",
+  "items": 180,
+  "cumulative_items": 1850,
+  "unique_ids": 1850,
+  "duplicate_ids": 0,
+  "protected_token_errors": 0,
+  "deferred_source_items": 4,
+  "priority_total": 17935,
+  "remaining": 16085,
+  "progress_percent": 10.32,
+  "not_tested": [
+    "font DS",
+    "textbox width",
+    "ROM reinsertion",
+    "gameplay",
+    "full narrative context"
+  ]
+}
