@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-04",
   "priority_total": 17935,
-  "translated_total": 2030,
-  "remaining": 15905,
-  "ratio": 0.11319,
+  "translated_total": 2210,
+  "remaining": 15725,
+  "ratio": 0.12322,
   "batches": [
     {
       "batch": 1,
@@ -72,7 +72,14 @@
           "source": "Recipe Distribution NPC (Temp)"
         }
       ]
+    },
+    {
+      "batch": 8,
+      "done": 180,
+      "repo_file": "translations/dot_08/hoi_thoai_009.jsonl",
+      "validated": true,
+      "topic": "Roy–Sophia; Confidence, Restraint; Nellory; Sea Naiad; Teeny Bopper evolutions"
     }
   ],
-  "qa": "All 2030 IDs unique and nonempty; batch 07 has 180 valid source IDs with protected tokens preserved. Source row 89 appears a temporary NPC marker and is flagged. ROM/font/layout/gameplay and full-context editorial review untested."
+  "qa": "2,210 unique non-empty IDs across 8 batches; batch 08 180/180 source IDs validated via KIEM_TRA_BAN_DICH.py, no protected-token differences. Still no ROM, font, textbox or full-context gameplay tests."
 }
