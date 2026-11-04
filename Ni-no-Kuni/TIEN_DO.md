@@ -1,6 +1,20 @@
 # Tiến độ Việt hóa Ni no Kuni DS
 
-**05/11/2026 — 41 đợt — 8.143 / 17.935 mục ưu tiên (45,40%). Còn 9.792 mục.**
+**05/11/2026 — 45 đợt — 8.863 / 17.935 mục ưu tiên (49,42%). Còn 9.072 mục.**
+
+## Đợt 42–45 (mới nhất)
+
+| Đợt | Tệp nguồn | Đã dịch | Hoãn |
+|---|---|---:|---:|
+| 42 | `hoi_thoai_043` | 180 | 0 |
+| 43 | `hoi_thoai_044` | 180 | 0 |
+| 44 | `hoi_thoai_045` | 180 | 0 |
+| 45 | `hoi_thoai_046` | 180 | 0 |
+| **Mới** | | **720** | **0** |
+
+- Mã điều khiển và ID đã kiểm tra qua công cụ nguồn: tổng cộng **8.863 bản dịch hợp lệ, 45 tệp, 0 lỗi**.
+- Theo dõi thuật ngữ mới, câu đố Astram, mật lệnh bẫy và các câu của bản demo trong `CAN_RA_DOT_42_45.md`.
+- Chưa nhúng ROM, kiểm thử font hoặc độ rộng ô thoại thực tế.
 
 ## Đợt 38–41
 
