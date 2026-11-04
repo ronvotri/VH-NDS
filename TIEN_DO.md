@@ -7,15 +7,17 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 | 01 | `translations/dot_01/BAN_DICH_GUI_LAI.jsonl` | 954 | — | Kiểm tra kỹ thuật đạt |
 | 02 | `translations/dot_02/hoi_thoai_003.jsonl` | 176 | 4 nguồn nghi lỗi, hoãn | Kiểm tra kỹ thuật đạt |
 | 03 | `translations/dot_03/hoi_thoai_004.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
-| **Tổng** | | **1.310** | **4 nguồn hoãn** | Chưa nhập ROM |
+| 04 | `translations/dot_04/hoi_thoai_005.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
+| **Tổng** | | **1.490** | **4 nguồn hoãn** | Chưa nhập ROM |
 
-**Mục ưu tiên trong gói nguồn: 17.935. Đã dịch: 1.310 (7,3%). Còn chưa dịch: 16.625.**
+**Mục ưu tiên trong gói nguồn: 17.935. Đã dịch: 1.490 (8,3%). Còn chưa dịch: 16.445.**
 
 ## Phạm vi từng đợt
 
 - **Đợt 01:** `hoi_thoai_001` (180), `hoi_thoai_002` (180), `dia_danh_001` (30), `huong_dan_chien_dau_001` (139), `nhiem_vu_phu_001` (180), `lua_chon_thong_bao_002` (180), `noi_dung_bo_sung_001` (65).
 - **Đợt 02:** `hoi_thoai_003` (176). Hoãn vị trí 123–126: `D`, `U`, `愈`, `!+f ﾆ`. Không suy đoán thành câu có nghĩa.
 - **Đợt 03:** `hoi_thoai_004` (180), đoạn Babanacia, hội thoại NPC và sự kiện về Kiềm Chế/Niềm Tin.
+- **Đợt 04:** `hoi_thoai_005` (180), nhiệm vụ Can Đảm, họa sĩ Leonardo/Nhiệt Huyết, ca sĩ mất giọng, Nhân Ái, trả tiền thừa và bác sĩ trẻ. Đã qua kiểm tra ID/JSON/mã, chưa duyệt toàn tuyến giọng nhân vật hoặc thử trên ROM.
 
 ### ID nguồn đang hoãn
 
