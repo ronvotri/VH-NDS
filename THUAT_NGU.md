@@ -114,3 +114,21 @@ Suren nói **ta/cháu** với Oliver, **cha/con** với Mary; Oliver nói **chá
 - Ông Nellory: nhiệt tình đến hơi kỳ quặc, xưng **ta/cháu** với Oliver. Shizuku bực mình, nói lém lỉnh nhưng không thô.
 - Người buôn babana đau răng có **Kiềm Chế**; ông lính tuần tự phụ có **Tự Tin**.
 - Tiếp tục giữ **Gia Vị Bí Mật**, **Sách Pháp Thuật**, **Mảnh Tim** và **Trao Tim** từ các đợt trước.
+
+## Bổ sung sau đợt 9
+
+| Nguồn | Cách dùng trong bản dịch |
+|---|---|
+| Moya / Legendary Land in the Mists | Moya / vùng đất huyền thoại trong sương mù |
+| Papa Sasquash | Papa Sasquash (tên Imagen, giữ nguyên) |
+| Milk Caramel(s) | kẹo caramen sữa |
+| Milk Fountain | Đài phun Sữa (đã thống nhất) |
+| Restraint | Kiềm Chế (Mảnh Tim) |
+| Confidence | Tự Tin (Mảnh Tim) |
+| Jabou | Jabou |
+
+- **Nellory:** xưng **ta/cháu** với Oliver; gọi Shizuku là **ngài Tiên** khi châm chọc. Shizuku gọi Nellory là **ông**.
+- **Moya:** giữ tên Imagen Papa Sasquash để khớp danh mục khi bắt thú.
+- **Babanacia:** dùng thống nhất `kẹo caramen sữa` cho Milk Caramel, `Đài phun Sữa` cho Milk Fountain; nhiệm vụ hồi phục **Tự Tin**.
+- **Người bán babana đau răng:** nguồn **Kiềm Chế**; sau khi chia sẻ mới chịu cân nhắc đi nha sĩ.
+- **Người đưa quà:** chủ nhân giao quà cho pháp sư chống lại Jabou; Oliver nhận quà xưng cháu/ạ.
