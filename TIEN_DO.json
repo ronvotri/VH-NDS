@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-04",
   "priority_total": 17935,
-  "translated_total": 1310,
-  "remaining": 16625,
-  "ratio": 0.07304,
+  "translated_total": 1490,
+  "remaining": 16445,
+  "ratio": 0.08308,
   "batches": [
     {
       "batch": 1,
@@ -39,6 +39,13 @@
       "done": 180,
       "repo_file": "translations/dot_03/hoi_thoai_004.jsonl",
       "validated": true
+    },
+    {
+      "batch": 4,
+      "done": 180,
+      "repo_file": "translations/dot_04/hoi_thoai_005.jsonl",
+      "validated": true,
+      "description": "Babanacia: Courage, Leonardo/Motivation, singer, Kindness, change and doctor"
     }
   ],
   "qa": "Technical JSON, ID, protected-token validation passed locally. No ROM import, font validation or gameplay tests."
