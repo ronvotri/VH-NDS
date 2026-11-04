@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-04",
   "priority_total": 17935,
-  "translated_total": 3830,
-  "remaining": 14105,
-  "ratio": 0.21355,
+  "translated_total": 5270,
+  "remaining": 12665,
+  "ratio": 0.29384,
   "batches": [
     {
       "batch": 1,
@@ -226,7 +226,63 @@
           "note": "Jade Sphere translated Cầu Ngọc Bích is provisional item UI term"
         }
       ]
+    },
+    {
+      "batch": 18,
+      "done": 180,
+      "repo_file": "translations/dot_18/hoi_thoai_019.jsonl",
+      "validated": true,
+      "topic": "Laura; Jairo; kế hoạch vào cung điện; Nhân Ái"
+    },
+    {
+      "batch": 19,
+      "done": 180,
+      "repo_file": "translations/dot_19/hoi_thoai_020.jsonl",
+      "validated": true,
+      "topic": "Luật Boarg; Micah; Kiềm Chế; người thợ bảo trì"
+    },
+    {
+      "batch": 20,
+      "done": 180,
+      "repo_file": "translations/dot_20/hoi_thoai_021.jsonl",
+      "validated": true,
+      "topic": "Bác sĩ thiếu Tình Yêu; bí mật Hoàng đế"
+    },
+    {
+      "batch": 21,
+      "done": 180,
+      "repo_file": "translations/dot_21/hoi_thoai_022.jsonl",
+      "validated": true,
+      "topic": "Micah; chữa Luca; Lư Hương Sinh Mệnh"
+    },
+    {
+      "batch": 22,
+      "done": 180,
+      "repo_file": "translations/dot_22/hoi_thoai_023.jsonl",
+      "validated": true,
+      "topic": "Luca và Micah; Hoàng đế Max/Porcus Maximus; Jairo"
+    },
+    {
+      "batch": 23,
+      "done": 180,
+      "repo_file": "translations/dot_23/hoi_thoai_024.jsonl",
+      "validated": true,
+      "topic": "Thung lũng Ma; Gladion; Viper; làng Jungle; chiến hạm"
+    },
+    {
+      "batch": 24,
+      "done": 180,
+      "repo_file": "translations/dot_24/hoi_thoai_025.jsonl",
+      "validated": true,
+      "topic": "Thủy thủ đoàn xương; Ma Thạch; Đá Mặt Trời"
+    },
+    {
+      "batch": 25,
+      "done": 180,
+      "repo_file": "translations/dot_25/hoi_thoai_026.jsonl",
+      "validated": true,
+      "topic": "Đào Vàng; Viper; Chổi Lướt Mây; Kuro; Sazara"
     }
   ],
-  "qa": "Batches 14–17: 720/720 translations passed ID, JSON and protected token validation; 3,830 unique IDs; no font, textbox or ROM test."
+  "qa": "All 25 batches: JSON, ID, protected-placeholder validations. No ROM import, font, byte-capacity or gameplay tests."
 }
