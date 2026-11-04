@@ -81,3 +81,20 @@ Gợi ý dịch chỉ áp dụng khi đúng bối cảnh; không ép một đạ
 ## Ngữ cảnh đợt 06
 
 Suren nói **ta/cháu** với Oliver, **cha/con** với Mary; Oliver nói **cháu/thầy**; Mary nói **con/cha**, với Oliver nói **tớ/cậu**. Các cảnh gia đình, chữa lành và lời thề gìn giữ hòa bình nên ấm áp, không cố chọc cười. Trong bản đồ Babanacia, giữ nguyên **Owl's Cowls** và **Blackbird Blacksmith** khi chưa có thuật ngữ thống nhất; dùng **Nhiệm Vụ Martin** và **Suối nước nóng Silvervine** theo bảng trước đó.
+
+## Bổ sung sau đợt 7
+
+| Tên nguồn | Cách dùng thống nhất |
+|---|---|
+| Ichi no Kuni | Ichi no Kuni (giữ nguyên tên thế giới) |
+| Secret Ingredient (spell/rune) | Gia Vị Bí Mật |
+| Kindness (Heart) | Nhân Ái / Mảnh Tim Nhân Ái |
+| Love (Heart) | Tình Yêu / Mảnh Tim Tình Yêu |
+| Bikini Bay | vịnh Bikini |
+| Roy | Roy |
+| Sophia / Sofia | Sophia (nguồn có một lần viết Sofia) |
+| Cheese | phô mai |
+
+- Cô giáo thiếu **Nhân Ái**: học trò xưng **em/cô**, cảnh xúc động không chọc cười.
+- Roy và Sophia: giữ giọng đau lòng của Roy; Shizuku chỉ chọc vui ở những câu gây cười có sẵn.
+- HOI_d66c6b0d4ef33b trong đợt 7 có vẻ nhãn NPC nội bộ, phải xác minh trước khi nhúng.
