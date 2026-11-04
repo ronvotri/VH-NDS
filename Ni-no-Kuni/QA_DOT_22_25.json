@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-04",
+  "new_translation_count": 720,
+  "total_translation_count": 5270,
+  "priority_total": 17935,
+  "remaining_priority": 12665,
+  "source_validated": true,
+  "id_unique_count": 5270,
+  "files": [
+    {
+      "source_file": "hoi_thoai_023.jsonl",
+      "target_file": "translations/dot_22/hoi_thoai_023.jsonl",
+      "entries": 180,
+      "valid": 180,
+      "errors": [],
+      "source_checked": true,
+      "sha256": "542b21c4d5a986d34bacd8c89cfc92cb191f99310c81cfe73a385d3408a2fae9"
+    },
+    {
+      "source_file": "hoi_thoai_024.jsonl",
+      "target_file": "translations/dot_23/hoi_thoai_024.jsonl",
+      "entries": 180,
+      "valid": 180,
+      "errors": [],
+      "source_checked": true,
+      "sha256": "2c6c74a257dde34c0447a8933d11e8d7a756359d9f8377b6d4f2edaf86b81167"
+    },
+    {
+      "source_file": "hoi_thoai_025.jsonl",
+      "target_file": "translations/dot_24/hoi_thoai_025.jsonl",
+      "entries": 180,
+      "valid": 180,
+      "errors": [],
+      "source_checked": true,
+      "sha256": "713e8d6e6cbd62d0a90df012647662b98cc9acd46b728c8baa55356d26b8a67c"
+    },
+    {
+      "source_file": "hoi_thoai_026.jsonl",
+      "target_file": "translations/dot_25/hoi_thoai_026.jsonl",
+      "entries": 180,
+      "valid": 180,
+      "errors": [],
+      "source_checked": true,
+      "sha256": "77a2ee781be1b66dff31bf0f3e7387fc4d0b77bdeb8c7f191fa7ef3362bdc1eb"
+    }
+  ],
+  "validation_scope": "Only JSON, IDs and source protected tokens; font, layout, ROM and gameplay untested."
+}
