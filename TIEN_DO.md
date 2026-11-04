@@ -72,3 +72,12 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 **Chưa kiểm thử:** chất lượng bản dịch theo toàn tuyến truyện; font tiếng Việt; độ rộng ô thoại NDS; nhúng lại kịch bản, sửa offset/nhảy lệnh; chạy trong game thật. Các bước kiểm tra hiện tại chỉ xác minh ID/JSON/mã điều khiển. Đợt 13: 180/180 mục hợp lệ; tổng tích lũy 3.110 ID duy nhất.
 
 **Đợt tiếp theo:** `hoi_thoai_015.jsonl`. Bản gộp sau đợt 13 nằm trong ZIP bàn giao, chỉ dùng **thay cho** chứ không nhập cùng lúc với các tệp riêng.
+
+## Bổ sung đợt lớn 14–17
+
+- **720 câu mới** trên bốn tệp `hoi_thoai_015–018`, gấp bốn lần một đợt cũ. Đã kiểm tra bằng `KIEM_TRA_BAN_DICH.py` từ gói nguồn: 720 mục hợp lệ, 0 lỗi ID/JSON/placeholder.
+- `hoi_thoai_015`: `Sinbad (?)` ở dòng 102 cần xác minh là chú thích hay nhãn hiển thị.
+- `hoi_thoai_016`: `NPC20 Lady Hint` và `ＮＰＣ２４ 店主_マタタビ` là nhãn nội bộ; `Imagen Manhole` tạm dịch **Cống Imagen** theo thuật ngữ trước.
+- `hoi_thoai_017`: kiểm tra câu đố mật khẩu Boarg, Huy chương Septimus và phép **Tầm Bảo** khi nhúng game.
+- `hoi_thoai_018`: kiểm tra UI phép **Hộ Thể (Ward)** và vật phẩm **Cầu Ngọc Bích (Jade Sphere)**.
+- Chưa nhúng ROM, chưa xác minh font tiếng Việt hoặc độ rộng ô thoại. **Tệp kế tiếp: `hoi_thoai_019`.**
