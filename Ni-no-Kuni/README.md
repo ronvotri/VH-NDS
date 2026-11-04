@@ -16,3 +16,10 @@ Bản gộp tích lũy nằm trong gói ZIP bàn giao, không lưu song song tr�
 ## Tham khảo bản dịch tay năm 2024
 
 Đã đối chiếu tệp Excel dịch tay 2024 với kịch bản bản DS: **325 mục trùng câu gốc**, trong đó **255 mục chưa có bản dịch**, nhưng phần lớn là câu rất ngắn/tên riêng và có khác biệt Drippy/Shizuku, Ding Dong Dell/Catnap, Mornstar/Gladion. Xem [báo cáo đối chiếu](references/DICH_TAY_2024_DOI_CHIEU.md) trước khi sử dụng. **Không tự ghi đè các bản dịch đã duyệt hoặc tính số mục tham khảo vào tiến độ.**
+
+## Đợt 26–29
+
+- Đã dịch các hội thoại `027–030` (180 + 180 + 180 + 173 câu).
+- 7 nhãn `Sample text` ở hội thoại `030` được hoãn để xác minh, không dịch đoán.
+- [QA đợt 26–29](QA_DOT_26_29.json), [tiến độ](TIEN_DO.md) và [thuật ngữ](THUAT_NGU.md).
+- Bản dịch tay 2024 chỉ dùng khi câu gốc phù hợp: [báo cáo đối chiếu](references/DICH_TAY_2024_DOI_CHIEU.md).
