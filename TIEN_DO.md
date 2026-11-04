@@ -12,9 +12,10 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 | 06 | `translations/dot_06/hoi_thoai_007.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
 | 07 | `translations/dot_07/hoi_thoai_008.jsonl` | 180 | 1 nhãn NPC nghi nội bộ, cần kiểm tra | Kiểm tra kỹ thuật đạt |
 | 08 | `translations/dot_08/hoi_thoai_009.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
-| **Tổng** | | **2.210** | **4 nguồn hoãn, 1 nhãn cần rà** | Chưa nhập ROM |
+| 09 | `translations/dot_09/hoi_thoai_010.jsonl` | 180 | — | Kiểm tra kỹ thuật đạt |
+| **Tổng** | | **2.390** | **4 nguồn hoãn, 1 nhãn cần rà** | Chưa nhập ROM |
 
-**Mục ưu tiên trong gói nguồn: 17.935. Đã dịch: 2.210 (12,3%). Còn chưa dịch: 15.725.**
+**Mục ưu tiên trong gói nguồn: 17.935. Đã dịch: 2.390 (13,3%). Còn chưa dịch: 15.545.**
 
 ## Phạm vi từng đợt
 
@@ -26,6 +27,8 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 - **Đợt 06:** `hoi_thoai_007` (180), nhiệm vụ Nghêu Bổ Dưỡng, người lính mất Can Đảm, Mary–Suren, Sáo Clarion, núi Dekarock và hai phép Thánh Tiễn/Xung Ba.
 - **Đợt 07:** `hoi_thoai_008` (180), Ichi no Kuni, Nữ hoàng Cowla, Đài phun Sữa và phép Gia Vị Bí Mật, cô giáo thiếu Nhân Ái, Roy–Sophia thiếu Tình Yêu. Dùng tên **Sophia** thống nhất dù nguồn có một chỗ ghi Sofia.
 - **Đợt 08:** `hoi_thoai_009` (180), Roy–Sophia đoàn tụ; Kiềm Chế và Tự Tin; ông Nellory, Sea Naiad, hai nhánh tiến hóa Teeny Bopper. Đã kiểm tra bằng công cụ nguồn `KIEM_TRA_BAN_DICH.py`.
+
+- **Đợt 09:** `hoi_thoai_010` (180), Nellory nghiên cứu Imagen và Moya/Papa Sasquash; kẹo caramen sữa Babanacia; Kiềm Chế; người gửi quà cho pháp sư chống Jabou. Đã kiểm tra bằng `KIEM_TRA_BAN_DICH.py`.
 
 ### ID nguồn đang hoãn
 
@@ -48,4 +51,4 @@ Cập nhật: **04/11/2026**. Nguồn: gói chữ `Goi_dich_NiNoKuni.zip`. Chỉ
 
 **Chưa kiểm thử:** chất lượng bản dịch theo toàn tuyến truyện; font tiếng Việt; độ rộng ô thoại NDS; nhúng lại kịch bản, sửa offset/nhảy lệnh; chạy trong game thật. Các bước kiểm tra hiện tại chỉ xác minh ID/JSON/mã điều khiển.
 
-**Đợt tiếp theo:** `hoi_thoai_010.jsonl`. Bản gộp sau đợt 8 nằm trong ZIP bàn giao, chỉ dùng **thay cho** chứ không nhập cùng lúc với các tệp riêng.
+**Đợt tiếp theo:** `hoi_thoai_011.jsonl`. Bản gộp sau đợt 9 nằm trong ZIP bàn giao, chỉ dùng **thay cho** chứ không nhập cùng lúc với các tệp riêng.
