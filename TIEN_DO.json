@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-04",
   "priority_total": 17935,
-  "translated_total": 3110,
-  "remaining": 14825,
-  "ratio": 0.1734,
+  "translated_total": 3830,
+  "remaining": 14105,
+  "ratio": 0.21355,
   "batches": [
     {
       "batch": 1,
@@ -150,7 +150,83 @@
           "note": "Line is an incomplete sentence ending comma, intentionally preserved to continue into next dialogue batch."
         }
       ]
+    },
+    {
+      "batch": 14,
+      "done": 180,
+      "repo_file": "translations/dot_14/hoi_thoai_015.jsonl",
+      "validated": true,
+      "topic": "Plessie đỏ; tàu Queen Cowla; thư trong chai; Sinbad; truy đuổi kẻ trộm tấm ảnh",
+      "review_flags": [
+        {
+          "source_index": 102,
+          "note": "Source contains Sinbad (?) – needs contextual verification"
+        }
+      ]
+    },
+    {
+      "batch": 15,
+      "done": 180,
+      "repo_file": "translations/dot_15/hoi_thoai_016.jsonl",
+      "validated": true,
+      "topic": "Jairo gia nhập; Súng Mở Khóa; Shizuku ngừng chiến đấu; Kiềm Chế ở Bikini; Hubber Blubber",
+      "review_flags": [
+        {
+          "source_index": 62,
+          "note": "Imagen Manhole term Cống Imagen provisional"
+        },
+        {
+          "source_index": 141,
+          "note": "Internal label NPC20 Lady Hint"
+        },
+        {
+          "source_index": 149,
+          "note": "Japanese internal NPC marker ＮＰＣ２４ 店主_マタタビ"
+        }
+      ]
+    },
+    {
+      "batch": 16,
+      "done": 180,
+      "repo_file": "translations/dot_16/hoi_thoai_017.jsonl",
+      "validated": true,
+      "topic": "Hải Tặc Phép Thuật; Huy chương Septimus; Boarg và các đạo luật; Robin–Elena; Jairo bí ẩn",
+      "review_flags": [
+        {
+          "source_index": 153,
+          "note": "Password riddle about boar rock-paper-scissors: confirm game puzzle matching"
+        },
+        {
+          "source_index": 162,
+          "note": "Temporary tutorial NPC internal label"
+        },
+        {
+          "source_index": 34,
+          "note": "Septimus Medals, Seek Fortune: confirm names with magic UI"
+        }
+      ]
+    },
+    {
+      "batch": 17,
+      "done": 180,
+      "repo_file": "translations/dot_17/hoi_thoai_018.jsonl",
+      "validated": true,
+      "topic": "Thánh Mẫu Boarg và Niềm Tin; Rabbot/Jackrabbot; Mirant nhớ phép Ward; Jade Sphere",
+      "review_flags": [
+        {
+          "source_index": 55,
+          "note": "Source numeration of 13 children, including quintuplets, should be verified in game"
+        },
+        {
+          "source_index": 126,
+          "note": "Ward translated Hộ Thể is provisional spell UI term"
+        },
+        {
+          "source_index": 151,
+          "note": "Jade Sphere translated Cầu Ngọc Bích is provisional item UI term"
+        }
+      ]
     }
   ],
-  "qa": "Batch 13: 180/180 IDs and protected tokens validated; 3,110 unique IDs across 13 batches. 4 source/context flags. No ROM import, font or textbox test."
+  "qa": "Batches 14–17: 720/720 translations passed ID, JSON and protected token validation; 3,830 unique IDs; no font, textbox or ROM test."
 }
