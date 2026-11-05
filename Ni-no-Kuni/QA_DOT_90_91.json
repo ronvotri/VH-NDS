@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-06",
+  "previous_translated": 16426,
+  "batches": [
+    {
+      "batch": 90,
+      "source": "vat_pham_ky_nang_009.jsonl",
+      "source_rows": 180,
+      "translated": 180,
+      "deferred": 0,
+      "max_lines": 2,
+      "max_characters_per_line": 27,
+      "source_rows_with_newline": 11,
+      "exact_source_newline_counts_preserved": true,
+      "duplicate_ids": 0,
+      "special_tokens_mismatched": 0,
+      "limit_breaches": 0
+    },
+    {
+      "batch": 91,
+      "source": "vat_pham_ky_nang_010.jsonl",
+      "source_rows": 180,
+      "translated": 180,
+      "deferred": 0,
+      "max_lines": 2,
+      "max_characters_per_line": 22,
+      "source_rows_with_newline": 8,
+      "exact_source_newline_counts_preserved": true,
+      "duplicate_ids": 0,
+      "special_tokens_mismatched": 0,
+      "limit_breaches": 0
+    }
+  ],
+  "notes": [
+    "Đoạn dịch chữ, chưa ghép ROM; độ rộng ký tự hiển thị trên font Nintendo DS chưa đo trực tiếp."
+  ],
+  "translated_added": 360,
+  "total_translated": 16786,
+  "priority_total": 17935,
+  "remaining": 1149,
+  "new_ids_unique": 360,
+  "all_ids_unique": 16786,
+  "id_overlap_with_previous": 0,
+  "control_tokens_preserved": true,
+  "limit_characters_per_line": 48,
+  "limit_lines": 3
+}
