@@ -777,3 +777,24 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Shield / Armor / Spear / Claws | Khiên / Giáp / Giáo / Vuốt | Đồng bộ với menu trang bị |
 
 **Cần kiểm tra khi nhập ROM:** `Absorb MP damage`, `Resists all`, `Big Burn Out`, `Rear Axe`, `Imbrued Fang`, `Starcradle`, `Lifecense`, các tên vũ khí riêng như `Godfreer`, `Ponente`, `Altenan`, `Gunto`. Giữ gốc tên riêng khó xác thực và không tự suy đoán chỉ số thực tế từ tên.
+
+### Đợt 92–93 (06/11/2026) — tên trang bị, thức ăn và ngọc học phép
+
+| Nguồn | Việt hóa | Ghi chú |
+|---|---|---|
+| Mysterious Armor / Emperor's Armor | Giáp Bí Ẩn / Giáp Hoàng Đế | Tên menu trang bị |
+| Ares' Armor / Shield / Helmet | Giáp / Khiên / Mũ Giáp Chiến Thần Ares | Giữ tên Ares |
+| Altenan Armor / Helmet | Giáp / Mũ Giáp Altenan | Giữ tên Altenan |
+| Robes / Cloak | Áo Choàng | Có thể cần phân biệt theo slot giáp/áo choàng trong UI |
+| Bracelet / Marble | Vòng Tay / Bi | Giữ loại vật phẩm |
+| Temple of Trials | Đền Thử Thách | Theo tuyến truyện cũ |
+| Sage Pokoro | Hiền Giả Pokoro | Giữ tên nhân vật |
+| Poison Cutter | Độc Trảm | Tên chiêu tạm |
+| Harden / Healing Drop | Hóa Cứng / Giọt Hồi Phục | Tên chiêu tạm |
+| Lightning / Laser | Sét Đánh / Tia Laser | Tên chiêu tạm |
+| Red / Blue / Green / Black Marble | Bi Đỏ / Bi Xanh Dương / Bi Xanh Lá / Bi Đen | Đổi ô Imagen |
+| Imag(en) Ticket | Vé Imagen | Đổi tại Đền Thử Thách |
+| Heart Fragment / Locket | Mảnh Tim / Mề Đay | Từ hệ thống trao tim |
+| Gate | Mở Cổng | Tên phép nối hai thế giới |
+
+**Ghi chú:** Tên Imagen trong vé (Lumberwood, Dinoceros, Moggle-Boggle, Teeny Bopper, Catastroceros...) để nguyên, chờ kiểm thử tên hiển thị. Các tên chiêu dịch tạm trong nhóm đá/ngọc cần soát đồng bộ với giao diện học chiêu thực tế; không nên đổi tên nếu ROM dùng mã nối cứng.
