@@ -1,0 +1,91 @@
+{
+  "project": "Ni no Kuni DS Votri Valley",
+  "date": "2026-11-05",
+  "batches": [
+    58,
+    59
+  ],
+  "source_rows": 360,
+  "new_translated": 351,
+  "new_deferred": 9,
+  "translated_by_batch": {
+    "58": 178,
+    "59": 173
+  },
+  "deferred_by_batch": {
+    "58": 2,
+    "59": 7
+  },
+  "deferred": {
+    "hoi_thoai_059": [
+      {
+        "row": 4,
+        "id": "HOI_4cf68638041628",
+        "source": "Leila Dummy Text"
+      },
+      {
+        "row": 7,
+        "id": "HOI_ccc6c298af608a",
+        "source": "(Dummy)\nWhat's going on, Oliver?"
+      }
+    ],
+    "hoi_thoai_060": [
+      {
+        "row": 25,
+        "id": "HOI_3c189d69462589",
+        "source": "Temporary Text 8"
+      },
+      {
+        "row": 26,
+        "id": "HOI_92bcbf9f98ba26",
+        "source": "Temporary Text 9"
+      },
+      {
+        "row": 27,
+        "id": "HOI_f25168c8488b56",
+        "source": "Temporary Text 10"
+      },
+      {
+        "row": 28,
+        "id": "HOI_ae6fe76acf9735",
+        "source": "Temporary Text 11"
+      },
+      {
+        "row": 29,
+        "id": "HOI_b6d1d81e68fee2",
+        "source": "Temporary Text 12"
+      },
+      {
+        "row": 47,
+        "id": "HOI_d2286d8e8bfe5b",
+        "source": "(Dummy) Temp Text"
+      },
+      {
+        "row": 61,
+        "id": "HOI_0b54e463e801fc",
+        "source": "Quest Acceptance Dialogue (Temp)"
+      }
+    ]
+  },
+  "total_translated": 11364,
+  "priority_total": 17935,
+  "remaining": 6571,
+  "ratio": 0.63362,
+  "jsonl_invalid": 0,
+  "duplicate_ids_new": 0,
+  "duplicate_ids_with_previous": 0,
+  "protected_token_mismatches": 0,
+  "max_lines_allowed": 3,
+  "max_visible_chars_per_line_allowed": 48,
+  "layout_preliminary_violations": 0,
+  "manual_2024_exact_english_source_matches": {
+    "059": 2,
+    "060": 0
+  },
+  "not_tested": [
+    "NDS font",
+    "ROM insertion",
+    "box width and byte length",
+    "gameplay and speaker context"
+  ]
+}
