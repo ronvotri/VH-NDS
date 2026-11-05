@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-05",
+  "batch_range": [
+    84,
+    85
+  ],
+  "source_files": [
+    "vat_pham_ky_nang_003.jsonl",
+    "vat_pham_ky_nang_004.jsonl"
+  ],
+  "source_lines": 333,
+  "translated": 333,
+  "deferred": 0,
+  "previous_approved": 15373,
+  "total_approved": 15706,
+  "priority_total": 17935,
+  "remaining_priority": 2229,
+  "unique_total_ids": 15706,
+  "duplicate_ids": 0,
+  "jsonl_valid": true,
+  "source_id_alignment": "checked in original source order",
+  "protected_code_mismatches": 0,
+  "max_lines": 3,
+  "max_unicode_characters_per_line": 48,
+  "format_violations": 0,
+  "manual_review": [
+    "Source `vat_pham_ky_nang_003` row 34 (VAT_59fc215d13cd8a) ends mid-sentence: `when they.`; Vietnamese keeps trailing ellipsis, confirm raw extraction.",
+    "Names Lockpick Gun vs Unlock Gun, Bad Emperor, Positional Effects and Fatal Blow need in-game UI and mechanic verification.",
+    "No ROM injection, NDS font/layout/byte-width test performed."
+  ]
+}
