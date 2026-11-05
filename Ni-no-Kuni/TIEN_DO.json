@@ -425,28 +425,28 @@
     {
       "batch": 46,
       "done": 180,
-      "repo_file": "translations/dot_46/hoi_thoai_47.jsonl",
+      "repo_file": "translations/dot_46/hoi_thoai_047.jsonl",
       "deferred": 0,
       "validated": true
     },
     {
       "batch": 47,
       "done": 179,
-      "repo_file": "translations/dot_47/hoi_thoai_48.jsonl",
+      "repo_file": "translations/dot_47/hoi_thoai_048.jsonl",
       "deferred": 1,
       "validated": true
     },
     {
       "batch": 48,
       "done": 177,
-      "repo_file": "translations/dot_48/hoi_thoai_49.jsonl",
+      "repo_file": "translations/dot_48/hoi_thoai_049.jsonl",
       "deferred": 3,
       "validated": true
     },
     {
       "batch": 49,
       "done": 180,
-      "repo_file": "translations/dot_49/hoi_thoai_50.jsonl",
+      "repo_file": "translations/dot_49/hoi_thoai_050.jsonl",
       "deferred": 0,
       "validated": true
     },
