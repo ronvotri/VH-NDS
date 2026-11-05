@@ -517,3 +517,21 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Astra | Astra | Tên phép, giữ nguyên |
 | Forsaken Idol | Thần Tượng Bị Ruồng Bỏ | Tên boss tạm dịch |
 | Majeel / Majell | Majeel | Nguồn không thống nhất; cần đối chiếu |
+
+## Bổ sung đợt 66–67
+
+| Tiếng Anh | Tiếng Việt | Ghi chú |
+|---|---|---|
+| Puppet Strings | Dây Điều Khiển | Phép di chuyển tượng; kiểm tra tên UI |
+| Magic Lamp | Đèn Ma Thuật | Phép thắp sáng, trang 31 |
+| Spring Lock | Mở Khóa | Theo thuật ngữ đợt 56–57 |
+| Waystone | Lữ Thạch | Điểm hồi phục/lưu trò chơi, đối chiếu dịch tay 2024 |
+| Tahmel | Tahmel | Hoàng tử Ếch; tên riêng |
+| Yasmin | Yasmin | Tên công chúa |
+| Nachelnacht | Nachelnacht | Vương quốc, chờ xem bản đồ |
+| General Faraja | Tướng Faraja | Rắn khổng lồ |
+| Castle Arcano | Thành Arcano | Chờ kiểm tra địa danh |
+| Pure-Hearted One | Người Mang Trái Tim Thuần Khiết | Danh hiệu Oliver |
+| Age of Three Kings | Thời đại Tam Vương | Liên quan Sáo Clarion |
+| Hollowed | Rỗng Tim | Theo thuật ngữ cũ |
+| BE / LL / DA / NA | BE / LL / DA / NA | Mật từ, phải giữ nguyên |
