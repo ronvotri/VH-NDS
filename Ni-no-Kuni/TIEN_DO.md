@@ -1,19 +1,21 @@
 # Ni no Kuni DS — Tiến độ Việt hóa
 
-**05/11/2026 — 65 đợt — 12.443/17.935 mục ưu tiên (69,38%). Còn 5.492 mục.**
+**05/11/2026 — 67 đợt — 12.803 / 17.935 mục ưu tiên (71,39%). Còn 5.132 mục.**
 
-Dữ liệu Việt hóa nằm trong `Ni-no-Kuni/` của repository chung `VH-NDS`, tách biệt Pokémon Dash. Giữ nguyên **12.083 bản dịch cũ**, bổ sung **360 câu mới**.
+Đã giữ nguyên 12.443 bản dịch cũ và bổ sung 360 câu mới, khớp 180 ID nguồn theo đúng thứ tự từng tệp.
 
-| Đợt | Tệp | Đã dịch | Hoãn |
+| Đợt | Tệp dịch | Đã dịch | Hoãn |
 |---|---|---:|---:|
-| 64 | `translations/dot_64/hoi_thoai_065.jsonl` | 180 | 0 |
-| 65 | `translations/dot_65/hoi_thoai_066.jsonl` | 180 | 0 |
-| **Mới** | | **360** | **0** |
+| 66 | `translations/dot_66/hoi_thoai_067.jsonl` | 180 | 0 |
+| 67 | `translations/dot_67/hoi_thoai_068.jsonl` | 180 | 0 |
+| **Tổng mới** | | **360** | **0** |
 
-**QA dữ liệu:** 12.443 ID duy nhất, JSONL hợp lệ, mã bảo vệ giữ nguyên; hai đợt mới được ngắt tối đa 3 dòng × 48 ký tự/dòng theo phép đếm ký tự sơ bộ. Kho dịch tay 2024 có 2 câu nguồn trùng nguyên văn, chỉ dùng đối chiếu.
+**QA dữ liệu:** 12.803 ID duy nhất trên 67 đợt; JSONL hợp lệ; không mất mã điều khiển; câu mới ngắt sơ bộ tối đa 3 dòng × 48 ký tự/dòng. Đây không bảo đảm vừa giao diện NDS.
 
-**Cần rà khi đưa vào game:** `Nature's Tongue`, `Fountain of Life`, `Dungeon Synthesis`, `Shuffle`, `Astra`, `Forsaken Idol`, và biến thể `Majeel/Majell`. Xem `CAN_RA_DOT_64_65.md`.
+**Kho dịch tay 2024:** đối chiếu 5 câu nguồn khớp nguyên văn; dùng thuật ngữ **Lữ Thạch** cho Waystone, không tự nhập đè.
 
-**Chưa kiểm thử:** nhúng ROM, font tiếng Việt, giới hạn byte/ô thoại, đáp án và chạy thử giả lập hoặc NDS.
+**Cần rà trước khi tạo patch ROM:** tên phép Dây Điều Khiển, Đèn Ma Thuật, mật từ BE–LL–DA–NA và chức năng lưu tại Lữ Thạch. Xem `CAN_RA_DOT_66_67.md`.
 
-**Tiếp theo:** `hoi_thoai_067–068`. Tránh nhập đồng thời bản gộp trong ZIP và các tệp rời.
+**Chưa hoàn thành:** font tiếng Việt, giới hạn byte, nhúng kịch bản vào ROM, gameplay trên giả lập/thiết bị thật.
+
+**Tiếp theo:** `hoi_thoai_069–070`. Không nhập đồng thời bản gộp và tệp rời.
