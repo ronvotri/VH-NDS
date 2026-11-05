@@ -1,0 +1,31 @@
+{
+  "batches": [
+    72,
+    73
+  ],
+  "source_files": [
+    "hoi_thoai_073.jsonl",
+    "hoi_thoai_074.jsonl"
+  ],
+  "source_count": 360,
+  "translated_count": 360,
+  "deferred": 0,
+  "previous_count": 13522,
+  "total_count": 13882,
+  "priority_total": 17935,
+  "remaining": 4053,
+  "new_unique_ids": 360,
+  "duplicate_ids": 0,
+  "protected_token_mismatch": 0,
+  "max_lines": 3,
+  "max_characters_per_line": 48,
+  "format_violations": 0,
+  "exact_matches_with_2024": 0,
+  "rom_tested": false,
+  "notes": [
+    "Aylie / Airi name discrepancy in original source (hoi_thoai_073 lines 147-151): preserved per source, verify identity and UI.",
+    "Questions in hoi_thoai_074 lines 52–68 may be game quiz with answer validation; translation leaves answers untouched.",
+    "Thousand-Year Ice / Thousand-Year Water translated as Băng Ngàn Năm / Nước Ngàn Năm; verify item UI.",
+    "Full text linguistic review and NDS in-game line fit are pending."
+  ]
+}
