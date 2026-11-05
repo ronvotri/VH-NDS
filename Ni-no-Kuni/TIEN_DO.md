@@ -1,18 +1,18 @@
 # Ni no Kuni DS — Tiến độ Việt hóa
 
-**05/11/2026 — 87 đợt — 16.066/17.935 mục ưu tiên (89,58%). Còn 1.869 mục.**
+**05/11/2026 — 89 đợt — 16.426/17.935 mục ưu tiên (91,59%), còn 1.509 mục.**
 
-Đợt 86–87 thêm **360 mục**, giữ nguyên **15.706 mục** đã duyệt trước đó.
+Đợt 88–89 bổ sung **360 mục** từ `vat_pham_ky_nang_007–008`, bảo toàn **16.066 mục** đã dịch trước đó.
 
-| Đợt | Tệp nguồn | Mục dịch | Hoãn |
+| Đợt | Tệp | Đã dịch | Hoãn |
 |---|---|---:|---:|
-| 86 | `vat_pham_ky_nang_005.jsonl` | 180 | 0 |
-| 87 | `vat_pham_ky_nang_006.jsonl` | 180 | 0 |
+| 88 | `vat_pham_ky_nang_007.jsonl` | 180 | 0 |
+| 89 | `vat_pham_ky_nang_008.jsonl` | 180 | 0 |
 
-Đã kiểm tra JSONL, ID nguồn, 16.066 ID duy nhất, thẻ điều khiển và độ dài sơ bộ tối đa 3 dòng × 48 ký tự. **Chưa kiểm tra độ rộng font/giao diện hay giới hạn byte thật trên Nintendo DS.**
+Nội dung: mô tả kiếm, dao, rìu, búa, thương, nanh vuốt, áo giáp, trang phục, khiên, mũ, vảy, áo choàng, vòng tay, vé sòng bạc và hiệu ứng chiến đấu. Giữ tên Babanacia, Catnap, Boarg, Altena, Coconanda và mã HP/MP.
 
-Phần mới gồm tên trang bị, nguồn nhặt vật phẩm, thức ăn/thuốc, nguyên liệu và mô tả hiệu ứng chiến đấu. Giữ nguyên các chỉ số HP/MP, tỷ lệ %, con số huy chương, tên riêng Imagen và thuật ngữ niềm tin / tự tin đã phân biệt.
+**QA:** 360 ID mới khớp tệp nguồn theo thứ tự, không trùng 16.066 ID cũ; JSONL hợp lệ, không mất mã điều khiển, tối đa 3 dòng × 48 ký tự Unicode sau ngắt dòng sơ bộ. **Chưa kiểm tra độ rộng pixel, byte, font NDS, chưa ghép ROM hay thử game.**
 
-**Còn lại:** 1.869 mục ưu tiên, gồm các nhóm vật phẩm/kỹ năng tiếp theo, nhiệm vụ phụ và các mục nguồn hoãn; ngoài ra còn 1.860 tên riêng tùy chọn ngoài tập ưu tiên.
+Những tên hệ Imagen (Gnome, Pixie, Beast, Riddle, Wild) và các hiệu ứng hồi sinh/hồi HP khi chết cần đối chiếu bản tiếng Anh trong giao diện. Xem `CAN_RA_DOT_88_89.md`.
 
-Chỉ dùng **bản gộp hoặc tệp rời**, không nhập cả hai cùng lúc. Chưa nhúng ROM, thử font hoặc chơi thật.
+Bản gộp trong ZIP chỉ để bàn giao, **không nhập cùng các tệp rời**.
