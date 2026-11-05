@@ -1,0 +1,42 @@
+{
+  "project": "Ni no Kuni DS",
+  "date": "2026-11-05",
+  "batches": [
+    66,
+    67
+  ],
+  "files": [
+    "translations/dot_66/hoi_thoai_067.jsonl",
+    "translations/dot_67/hoi_thoai_068.jsonl"
+  ],
+  "source_rows": [
+    180,
+    180
+  ],
+  "translated_rows": [
+    180,
+    180
+  ],
+  "deferred": 0,
+  "prior": 12443,
+  "added": 360,
+  "current_total": 12803,
+  "priority_total": 17935,
+  "remaining": 5132,
+  "unique_ids": 12803,
+  "duplicate_ids": 0,
+  "jsonl_valid": true,
+  "protected_code_mismatches": 0,
+  "max_lines_per_entry": 3,
+  "max_characters_per_line": 48,
+  "manual_2024_exact_matches": 5,
+  "source_ids_equal_and_in_order": true,
+  "needs_gameplay_validation": [
+    "4-statue door puzzle",
+    "Puppet Strings and Magic Lamp spell names",
+    "BE-LL-DA-NA password",
+    "Waystone/ Lữ Thạch interface and save behavior",
+    "Font, byte length, ROM reinsertion, gameplay"
+  ],
+  "status": "Data QA passed; actual NDS/ROM testing not performed"
+}
