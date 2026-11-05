@@ -1,13 +1,18 @@
 # Ni no Kuni DS — Việt hóa Votri Valley
 
-**Checkpoint 06/11/2026: 17.821/17.935 mục ưu tiên (99,36%), qua 98 đợt.**
+**Checkpoint 06/11/2026: 99 đợt, 17.823/17.935 mục ưu tiên (99,38%).**
 
-Đợt 97–98 bổ sung trọn **236 mục nhiệm vụ phụ** (`nhiem_vu_phu_002` 180 mục, `003` 56 mục). Giữ nguyên 17.585 mục đã dịch. Một số đoạn nhật ký nhiệm vụ được biên tập cô đọng để đáp ứng kiểm tra 3 × 48 ký tự; **cần so sánh bối cảnh và hiển thị khi nhúng ROM**.
+Đợt 99 khôi phục **2 câu thoại thực** trong `hoi_thoai_079` vốn bị hỏng ký hiệu `{3:4}` / `{1:2}` ở nguồn trích xuất; cần đối chiếu chuỗi byte trực tiếp với ROM trước khi đưa vào patch.
 
-- `translations/dot_*/`: tệp dịch JSONL theo đợt, không trộn dữ liệu Pokémon Dash.
-- `TIEN_DO.md` / `TIEN_DO.json`: tiến độ và lịch sử checkpoint.
-- `THUAT_NGU.md`: cách viết địa danh, tên nhân vật và thuật ngữ.
-- `QA_DOT_97_98.json` / `CAN_RA_DOT_97_98.md`: kiểm tra và những điểm cần xác minh.
-- `KE_HOACH_TIEP_THEO.md`: 114 mục còn chờ rà nguồn.
+**112 mục ưu tiên không dịch đoán:** 74 chuỗi bytes không phải lời thoại, 31 placeholder/thoại mẫu, 4 nhãn debug, 2 đáp án câu đố cần giữ nguyên, 1 nhãn dữ liệu lỗi. Xem `DANH_SACH_112_MUC_CAN_RA.json` và `BAO_CAO_CHOT_DU_LIEU.md`.
 
-Bản gộp `BAN_DICH_GOP_DOT_01_98.jsonl` chỉ có trong ZIP để đối chiếu và bàn giao. **Không nhập bản gộp cùng lúc với các tệp dịch rời** vì sẽ gây trùng ID. **Chưa ghép ROM/kiểm thử NDS.**
+- `translations/dot_*/`: các JSONL đã dịch, theo ID không trùng; chỉ gộp 99 đợt khi xuất checkpoint.
+- `TIEN_DO.json` / `TIEN_DO.md`: tiến độ và ghi chú chưa hoàn tất.
+- `THUAT_NGU.md`: từ điển tên riêng và phép thuật.
+- `QA_DOT_99.json`: QA kiểm tra dữ liệu mới.
+- `DICH_DU_PHONG_TAM.jsonl`: **chỉ để tham khảo**, tuyệt đối không nhập chung với bản dịch chính.
+- `TEN_RIENG_1860_GIU_GOC.jsonl`: tên người, biệt danh và tên Imagen, thống nhất giữ nguyên danh xưng tiếng Anh, không tăng số mục được dịch.
+
+Bản gộp `BAN_DICH_GOP_DOT_01_99.jsonl` nằm trong ZIP: **không nhập cùng JSONL từng đợt** để tránh hai bản cùng ID.
+
+**Không phải bản ROM đã ghép/kiểm thử; giữ riêng thư mục `Ni-no-Kuni/` trong `VH-NDS`.**
