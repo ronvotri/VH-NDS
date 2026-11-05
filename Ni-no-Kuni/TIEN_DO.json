@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-06",
   "priority_total": 17935,
-  "translated_total": 16786,
-  "remaining": 1149,
-  "ratio": 0.93594,
+  "translated_total": 17146,
+  "remaining": 789,
+  "ratio": 0.95601,
   "batches": [
     {
       "batch": 1,
@@ -874,6 +874,20 @@
       "batch": 91,
       "done": 180,
       "repo_file": "translations/dot_91/vat_pham_ky_nang_010.jsonl",
+      "deferred": 0,
+      "validated": true
+    },
+    {
+      "batch": 92,
+      "done": 180,
+      "repo_file": "translations/dot_92/vat_pham_ky_nang_011.jsonl",
+      "deferred": 0,
+      "validated": true
+    },
+    {
+      "batch": 93,
+      "done": 180,
+      "repo_file": "translations/dot_93/vat_pham_ky_nang_012.jsonl",
       "deferred": 0,
       "validated": true
     }
