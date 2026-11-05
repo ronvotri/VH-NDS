@@ -1,12 +1,14 @@
 # Ni no Kuni DS — Việt hóa Votri Valley
 
-**Mốc 05/11/2026: 10.299/17.935 mục (57,42%) qua 53 đợt.** Mới hoàn thành `hoi_thoai_053–054` (360 câu), giữ nguyên 9.939 bản dịch cũ.
+**Mốc 05/11/2026: 10.299/17.935 mục (57,42%) qua 53 đợt.**
 
-- `translations/dot_*/`: dữ liệu JSONL theo ID nguồn, tách riêng từng đợt.
-- [TIEN_DO.md](TIEN_DO.md), [TIEN_DO.json](TIEN_DO.json): tiến độ và đường dẫn tệp.
-- [THUAT_NGU.md](THUAT_NGU.md): thuật ngữ, ngôi xưng và phong cách thoại.
-- [QA_DOT_52_53.json](QA_DOT_52_53.json), [CAN_RA_DOT_52_53.md](CAN_RA_DOT_52_53.md): kiểm tra dữ liệu và điểm cần rà, đặc biệt câu đố Astram.
+Đợt mới nhất `hoi_thoai_053–054` hoàn thành **360 câu**, giữ nguyên 9.939 câu cũ. Dữ liệu nằm trong thư mục `Ni-no-Kuni/` của repo `VH-NDS`, tách riêng Pokémon Dash.
 
-Kho dịch tay năm 2024 chỉ dùng đối chiếu theo nguồn trùng khớp; không chép đè tự động khác phiên bản. Dự án nằm trong `Ni-no-Kuni/` của repo chung `VH-NDS`, tách biệt Pokémon Dash.
+- `translations/dot_*/`: bản dịch JSONL theo ID nguồn của từng đợt.
+- `TIEN_DO.md` và `TIEN_DO.json`: số lượng, trạng thái và đường dẫn.
+- `THUAT_NGU.md`: tên riêng, giọng nhân vật, thuật ngữ thống nhất.
+- `QA_DOT_52_53.json` và `CAN_RA_DOT_52_53.md`: kiểm tra kỹ thuật và ghi chú về các câu đố.
 
-Bản ZIP bàn giao có bản gộp `BAN_DICH_GOP_DOT_01_53.jsonl`; **không nhập bản gộp và các tệp rời cùng lúc**. Nội dung chưa được nhúng vào ROM, chưa kiểm tra font, bố cục hoặc chơi thử Nintendo DS.
+Bản dịch tay năm 2024 chỉ dùng làm tham khảo theo câu nguồn trùng khớp, không chép đè khác phiên bản. Dữ liệu **chưa ghép vào ROM**, chưa thử font, giao diện và gameplay trên Nintendo DS.
+
+Trong ZIP bàn giao có bản gộp `BAN_DICH_GOP_DOT_01_53.jsonl`; **chỉ nhập bản gộp hoặc tệp rời, không nhập cả hai**.
