@@ -714,3 +714,23 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Fatal Blow | Đòn kết liễu | Chờ xác minh cơ chế/nhãn UI |
 | EXP / HP / MP | EXP / HP / MP | Giữ nguyên ký hiệu giao diện |
 
+
+## Bổ sung đợt 86–87
+
+| Nguồn | Việt hóa | Ghi chú |
+|---|---|---|
+| Emblem | Huy Hiệu | Trang bị |
+| Brooch | Trâm Cài | Trang bị |
+| Seal | Ấn | Trang bị; phân biệt Skill Seal = Phong Ấn Kỹ Năng |
+| Ring | Nhẫn | Trang bị |
+| Crown | Vương Miện | Trang bị |
+| Mark | Dấu Ấn | Trang bị |
+| Necklace | Dây Chuyền | Trang bị |
+| Drop | Rơi từ | Dòng hướng dẫn nơi nhận; giữ tên riêng Imagen |
+| Faint / Poison / Sleep | Bất Tỉnh / Độc / Ngủ | Trạng thái chiến đấu, cần đối chiếu nhãn UI |
+| Confusion / Curse / Blind / Slow | Rối Loạn / Nguyền Rủa / Mù / Chậm | Trạng thái chiến đấu |
+| Skill Seal | Phong Ấn Kỹ Năng | Kiểm tra tên thống nhất với menu |
+| Recovery from Faint | Giải Bất Tỉnh | Tác dụng vật phẩm; kiểm thử theo UI |
+| Lifewood | Gỗ Sinh Mệnh | Dùng trong nghi lễ |
+| Babanacia | Babanacia | Giữ tên bản DS |
+| Scarlet / Golden medals | Huy Chương | Giữ nguyên số trên huy chương |
