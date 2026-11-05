@@ -1,21 +1,21 @@
 # Ni no Kuni DS — Tiến độ Việt hóa
 
-**05/11/2026 — 77 đợt — 14.601/17.935 mục ưu tiên (81.41%). Còn 3.334 mục.**
+**05/11/2026 — 79 đợt — 14.831 / 17.935 mục ưu tiên (82,69%). Còn 3.104 mục.**
 
-Giữ nguyên **14.241 bản dịch** cũ, bổ sung **360 câu** từ hai tệp nguồn kế tiếp.
+Giữ nguyên **14.601 bản dịch cũ**, bổ sung **230 câu mới** từ nguồn.
 
-| Đợt | Tệp nguồn | Đã dịch | Hoãn |
-|---|---|---:|---:|
-| 76 | `translations/dot_76/hoi_thoai_077.jsonl` | 180 | 0 |
-| 77 | `translations/dot_77/hoi_thoai_078.jsonl` | 180 | 0 |
-| **Mới** | | **360** | **0** |
+| Đợt | Tệp nguồn | Dòng nguồn | Đã dịch | Hoãn |
+|---|---|---:|---:|---:|
+| 78 | `hoi_thoai_079.jsonl` | 180 | 178 | 2 |
+| 79 | `hoi_thoai_080.jsonl` | 75 | 52 | 23 |
+| **Tổng mới** | | **255** | **230** | **25** |
 
-Kiểm tra: JSONL hợp lệ; đủ 77 tệp dịch, **14.601 ID duy nhất**; không trùng với kho cũ, không mất mã màu/placeholder. Giới hạn ngắt dòng **tối đa 3 dòng × 48 ký tự** theo cách đếm sơ bộ, **chưa chứng minh vừa màn hình NDS**.
+**Lý do hoãn:** Hai dòng `hoi_thoai_079` số 63 và 93 có mã tô màu lỗi ngay trong nguồn. Các dòng 53–75 của `hoi_thoai_080` là chuỗi bất thường, không đủ căn cứ xác nhận là lời thoại. Xem `DEFERRED_SOURCE_079_080.json` để đối chiếu ID.
 
-Bản dịch tay 2024 có **2 câu trùng nguyên văn nguồn** trong hai đợt này: `Of course.` và `Idiots!`; đã đối chiếu nhưng không ghi đè tự động.
+**QA:** 14.831 ID duy nhất, JSONL mới đọc hợp lệ, mã điều khiển có cấu trúc hợp lệ được giữ nguyên; ngắt dòng sơ bộ không quá 3 dòng × 48 ký tự mỗi câu.
 
-**Cần rà:** tên phép `Levitate` → `Bay Lơ Lửng` (Sách Pháp Thuật trang 28), `Pure Harp` → `Hạc Cầm Thuần Khiết`, tên ba khúc ca thuần hóa, `Crest` → `Huy Hiệu` và `Orb` → `Ngọc Cầu`, cùng thứ tự giải đố **Chó → Chim → Bò → Rồng**. Chi tiết ở `CAN_RA_DOT_76_77.md`.
+`hoi_thoai_080` là tệp hội thoại cuối của gói nguồn đang có; không suy diễn có `hoi_thoai_081`. Những mục ưu tiên còn lại thuộc các nhóm nguồn khác hoặc chuỗi hoãn. Cần kiểm tra các danh mục nhiệm vụ, vật phẩm, hướng dẫn và lựa chọn.
 
-**Chưa làm:** Nhúng lại ROM, font dấu tiếng Việt, giới hạn byte/độ rộng pixel, chạy giả lập hoặc phần cứng Nintendo DS.
+**Chưa kiểm thử:** dựng font Việt, độ rộng pixel, giới hạn byte, nhúng ROM và chạy trên NDS.
 
-**Tiếp theo:** `hoi_thoai_079–080`. Không nhập đồng thời bản gộp trong ZIP và bản rời.
+**Không nhập đồng thời bản dịch gộp trong ZIP cùng các tệp rời** để tránh trùng ID.
