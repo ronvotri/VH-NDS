@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-06",
+  "previous_translated": 17146,
+  "batches": [
+    {
+      "batch": 94,
+      "source": "vat_pham_ky_nang_013.jsonl",
+      "source_rows": 180,
+      "translated": 180,
+      "deferred": 0,
+      "max_lines": 1,
+      "max_characters_per_line": 47,
+      "source_newline_count_adjusted_for_vietnamese": 22,
+      "duplicate_ids": 0,
+      "special_tokens_mismatched": 0,
+      "limit_breaches": 0
+    },
+    {
+      "batch": 95,
+      "source": "vat_pham_ky_nang_014.jsonl",
+      "source_rows": 180,
+      "translated": 180,
+      "deferred": 0,
+      "max_lines": 1,
+      "max_characters_per_line": 44,
+      "source_newline_count_adjusted_for_vietnamese": 0,
+      "duplicate_ids": 0,
+      "special_tokens_mismatched": 0,
+      "limit_breaches": 0
+    },
+    {
+      "batch": 96,
+      "source": "vat_pham_ky_nang_015.jsonl",
+      "source_rows": 79,
+      "translated": 79,
+      "deferred": 0,
+      "max_lines": 1,
+      "max_characters_per_line": 20,
+      "source_newline_count_adjusted_for_vietnamese": 0,
+      "duplicate_ids": 0,
+      "special_tokens_mismatched": 0,
+      "limit_breaches": 0
+    }
+  ],
+  "notes": [
+    "Kiểm tra JSONL, ID/thứ tự nguồn, mã kỹ thuật và giới hạn sơ bộ 3 dòng × 48 ký tự; chưa đo chiều rộng font thật trên NDS.",
+    "Phép thuật, kỹ năng và mô tả có nhiều tên do bản tiếng Anh nguồn khác biệt; danh sách những mục dịch tạm cần so với giao diện thực tế.",
+    "Không ghép ROM, chưa xác nhận chức năng thực tế của phép hoặc kỹ năng."
+  ],
+  "translated_added": 439,
+  "total_translated": 17585,
+  "priority_total": 17935,
+  "remaining": 350,
+  "new_ids_unique": 439,
+  "all_ids_unique": 17585,
+  "id_overlap_with_previous": 0,
+  "control_tokens_preserved": true,
+  "limit_characters_per_line": 48,
+  "limit_lines": 3
+}
