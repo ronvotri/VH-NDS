@@ -1,21 +1,21 @@
 # Ni no Kuni DS — Tiến độ Việt hóa
 
-**05/11/2026 — 67 đợt — 12.803 / 17.935 mục ưu tiên (71,39%). Còn 5.132 mục.**
+**05/11/2026 — 69 đợt — 13.162 / 17.935 mục ưu tiên (73,39%). Còn 4.773 mục.**
 
-Đã giữ nguyên 12.443 bản dịch cũ và bổ sung 360 câu mới, khớp 180 ID nguồn theo đúng thứ tự từng tệp.
+Bổ sung **359** bản dịch mới, giữ nguyên **12.803** mục của 67 đợt trước.
 
-| Đợt | Tệp dịch | Đã dịch | Hoãn |
+| Đợt | Tệp | Đã dịch | Hoãn |
 |---|---|---:|---:|
-| 66 | `translations/dot_66/hoi_thoai_067.jsonl` | 180 | 0 |
-| 67 | `translations/dot_67/hoi_thoai_068.jsonl` | 180 | 0 |
-| **Tổng mới** | | **360** | **0** |
+| 68 | `translations/dot_68/hoi_thoai_069.jsonl` | 179 | 1 |
+| 69 | `translations/dot_69/hoi_thoai_070.jsonl` | 180 | 0 |
+| **Tổng mới** | | **359** | **1** |
 
-**QA dữ liệu:** 12.803 ID duy nhất trên 67 đợt; JSONL hợp lệ; không mất mã điều khiển; câu mới ngắt sơ bộ tối đa 3 dòng × 48 ký tự/dòng. Đây không bảo đảm vừa giao diện NDS.
+**QA dữ liệu:** 13.162 ID duy nhất, JSONL hợp lệ; mã điều khiển/placeholder giữ nguyên. Câu mới ngắt tối đa 3 dòng × 48 ký tự theo phép đếm ký tự; **không bảo đảm vừa ô thoại thật trên NDS**.
 
-**Kho dịch tay 2024:** đối chiếu 5 câu nguồn khớp nguyên văn; dùng thuật ngữ **Lữ Thạch** cho Waystone, không tự nhập đè.
+**Kho dịch tay 2024:** 2 dòng nguồn trùng nguyên văn tiếng Anh, chỉ dùng để đối chiếu; không tự nhập đè.
 
-**Cần rà trước khi tạo patch ROM:** tên phép Dây Điều Khiển, Đèn Ma Thuật, mật từ BE–LL–DA–NA và chức năng lưu tại Lữ Thạch. Xem `CAN_RA_DOT_66_67.md`.
+**Cần rà:** tên phép Hỏa Cầu/Hồi Phục, Sổ Ấn Chú, Lá Cổ Thụ, Hành Lang Thác Nước và cách gọi tu viện trưởng ở Rekka. Xem `CAN_RA_DOT_68_69.md`.
 
-**Chưa hoàn thành:** font tiếng Việt, giới hạn byte, nhúng kịch bản vào ROM, gameplay trên giả lập/thiết bị thật.
+**Chưa thực hiện:** kiểm thử font dấu, giới hạn byte/offset, nhúng ROM, giả lập hoặc máy thật.
 
-**Tiếp theo:** `hoi_thoai_069–070`. Không nhập đồng thời bản gộp và tệp rời.
+**Tiếp theo:** `hoi_thoai_071–072`. Không nhập đồng thời bản gộp với các tệp rời.
