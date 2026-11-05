@@ -1,15 +1,15 @@
 # Ni no Kuni DS — Việt hóa Votri Valley
 
-**Checkpoint 05/11/2026: 16.426/17.935 mục ưu tiên (91,59%), qua 89 đợt.**
+**Checkpoint 06/11/2026: 16.786/17.935 mục ưu tiên (93,59%), qua 91 đợt.**
 
-Mới dịch `vat_pham_ky_nang_007–008`: **360 mục**, giữ nguyên 16.066 mục cũ. Hai tệp gồm mô tả trang bị và hiệu ứng chiến đấu HP/MP, kháng trạng thái, tăng sức mạnh các hệ Imagen.
+Mới dịch `vat_pham_ky_nang_009–010` (360 mục): hiệu ứng, vật phẩm, vũ khí và giáp. Giữ nguyên 16.426 mục đã dịch trước. Không hoãn mục mới.
 
-- `translations/dot_*/`: JSONL từng đợt, giữ ID gốc.
-- `TIEN_DO.json`, `TIEN_DO.md`: tiến độ.
-- `THUAT_NGU.md`: thuật ngữ, tên riêng, giọng văn.
-- `QA_DOT_88_89.json`, `CAN_RA_DOT_88_89.md`: kiểm tra và điểm cần rà.
-- `KE_HOACH_TIEP_THEO.md`: nhóm công việc còn lại.
+- `translations/dot_*/`: JSONL mỗi đợt, ID cố định.
+- `TIEN_DO.md`, `TIEN_DO.json`: lịch sử và tiến độ.
+- `THUAT_NGU.md`: thuật ngữ/giọng văn.
+- `QA_DOT_90_91.json`, `CAN_RA_DOT_90_91.md`: QA và nhãn cần rà.
+- `KE_HOACH_TIEP_THEO.md`: phần chưa dịch.
 
-Bản gộp `BAN_DICH_GOP_DOT_01_89.jsonl` nằm **trong ZIP checkpoint**, không nhập đồng thời với các tệp rời.
+Bản gộp `BAN_DICH_GOP_DOT_01_91.jsonl` chỉ có trong ZIP bàn giao; **không nhập đồng thời bản gộp và các tệp riêng** để tránh ghi hai lần.
 
-**Chưa nhúng ROM hoặc kiểm thử font/khung chữ NDS.** Mọi thay đổi chỉ trong `Ni-no-Kuni/` của repo chung `VH-NDS`.
+Chưa nhúng ROM hoặc kiểm thử font, ảnh, kích thước giao diện trên Nintendo DS. Dự án nằm trong `Ni-no-Kuni/` thuộc repo chung `VH-NDS` (tách Pokémon Dash).
