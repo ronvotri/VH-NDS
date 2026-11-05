@@ -1,21 +1,17 @@
 # Ni no Kuni DS — Tiến độ Việt hóa
 
-**05/11/2026 — 79 đợt — 14.831 / 17.935 mục ưu tiên (82,69%). Còn 3.104 mục.**
+**05/11/2026 — 81 đợt — 15.046 / 17.935 mục ưu tiên (83,89%). Còn 2.889 mục.**
 
-Giữ nguyên **14.601 bản dịch cũ**, bổ sung **230 câu mới** từ nguồn.
+Giữ nguyên 14.831 mục từ checkpoint trước. Hai đợt 80–81 chuyển sang nhóm **lựa chọn và thông báo**. Phần `lua_chon_thong_bao_002` đã được dịch ở đợt 01, không dịch lại.
 
-| Đợt | Tệp nguồn | Dòng nguồn | Đã dịch | Hoãn |
+| Đợt | Nguồn | Tổng dòng | Dịch | Hoãn |
 |---|---|---:|---:|---:|
-| 78 | `hoi_thoai_079.jsonl` | 180 | 178 | 2 |
-| 79 | `hoi_thoai_080.jsonl` | 75 | 52 | 23 |
-| **Tổng mới** | | **255** | **230** | **25** |
+| 80 | `lua_chon_thong_bao_001.jsonl` | 180 | 157 | 23 |
+| 81 | `lua_chon_thong_bao_003.jsonl` | 90 | 58 | 32 |
+| **Cộng mới** | | **270** | **215** | **55** |
 
-**Lý do hoãn:** Hai dòng `hoi_thoai_079` số 63 và 93 có mã tô màu lỗi ngay trong nguồn. Các dòng 53–75 của `hoi_thoai_080` là chuỗi bất thường, không đủ căn cứ xác nhận là lời thoại. Xem `DEFERRED_SOURCE_079_080.json` để đối chiếu ID.
+Đã đối chiếu **215 ID mới**, JSONL hợp lệ, mã bảo vệ/placeholder không bị mất, giới hạn sơ bộ tối đa 3 dòng × 48 ký tự/dòng. 55 mục hoãn (chuỗi hỏng, nhãn debug, từ khóa đố BURN/FREEZE) được ghi tại `DEFERRED_SOURCE_80_81.json`.
 
-**QA:** 14.831 ID duy nhất, JSONL mới đọc hợp lệ, mã điều khiển có cấu trúc hợp lệ được giữ nguyên; ngắt dòng sơ bộ không quá 3 dòng × 48 ký tự mỗi câu.
+**Còn lại:** 2.540 mục vật phẩm/kỹ năng, 236 mục nhiệm vụ phụ, 55 mục lựa chọn/thông báo hoãn, 58 mục hội thoại hoãn = **2.889**. Ngoài ra 1.860 mục tên riêng tùy chọn không thuộc mẫu số ưu tiên.
 
-`hoi_thoai_080` là tệp hội thoại cuối của gói nguồn đang có; không suy diễn có `hoi_thoai_081`. Những mục ưu tiên còn lại thuộc các nhóm nguồn khác hoặc chuỗi hoãn. Cần kiểm tra các danh mục nhiệm vụ, vật phẩm, hướng dẫn và lựa chọn.
-
-**Chưa kiểm thử:** dựng font Việt, độ rộng pixel, giới hạn byte, nhúng ROM và chạy trên NDS.
-
-**Không nhập đồng thời bản dịch gộp trong ZIP cùng các tệp rời** để tránh trùng ID.
+**Chưa kiểm thử:** ROM, font dấu tiếng Việt, byte/offset, độ rộng pixel và chạy thật trên NDS. Không nhập bản gộp cùng các tệp JSONL rời.
