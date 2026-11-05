@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-05",
   "priority_total": 17935,
-  "translated_total": 15706,
-  "remaining": 2229,
-  "ratio": 0.87572,
+  "translated_total": 16066,
+  "remaining": 1869,
+  "ratio": 0.89579,
   "batches": [
     {
       "batch": 1,
@@ -830,8 +830,24 @@
       "deferred": 0,
       "deferred_ids": [],
       "validated": true
+    },
+    {
+      "batch": 86,
+      "done": 180,
+      "repo_file": "translations/dot_86/vat_pham_ky_nang_005.jsonl",
+      "deferred": 0,
+      "deferred_ids": [],
+      "validated": true
+    },
+    {
+      "batch": 87,
+      "done": 180,
+      "repo_file": "translations/dot_87/vat_pham_ky_nang_006.jsonl",
+      "deferred": 0,
+      "deferred_ids": [],
+      "validated": true
     }
   ],
-  "qa": "Checkpoint through batch 85: 15,706 unique IDs. New 333 items source-aligned and checked for protected tokens and preliminary 3x48 formatting. ROM/font/UI tests pending.",
-  "notes": "Dữ liệu 15.373/17.935. Đợt 82-83: +327 mô tả Imagen/địa danh từ vat_pham_ky_nang_001-002. Một dòng nguồn Missing number đã hoãn, xem DEFERRED_SOURCE_82.json. Bản gộp trong ZIP không nhập cùng tệp rời. Chưa chèn ROM/kiểm thử NDS. Đợt 84-85: thêm 333 mục từ vat_pham_ky_nang_003-004, gồm mô tả Imagen và trang bị, đã soát kỹ thuật; cần kiểm tra một câu nguồn bị cụt (ID VAT_59fc215d13cd8a) và một số tên vật phẩm trên NDS."
+  "qa": "Checkpoint through batch 87: 16,066 unique IDs. 360 new entries from item/equipment sourcing and item effects; valid JSONL, original source IDs, preserved tokens, preliminary 3x48 character format. ROM/font/UI tests pending.",
+  "notes": "Dữ liệu 15.373/17.935. Đợt 82-83: +327 mô tả Imagen/địa danh từ vat_pham_ky_nang_001-002. Một dòng nguồn Missing number đã hoãn, xem DEFERRED_SOURCE_82.json. Bản gộp trong ZIP không nhập cùng tệp rời. Chưa chèn ROM/kiểm thử NDS. Đợt 84-85: thêm 333 mục từ vat_pham_ky_nang_003-004, gồm mô tả Imagen và trang bị, đã soát kỹ thuật; cần kiểm tra một câu nguồn bị cụt (ID VAT_59fc215d13cd8a) và một số tên vật phẩm trên NDS. Đợt 86-87 thêm 360 mục vat_pham_ky_nang_005-006 (tên trang bị, nguồn nhặt, thức ăn, hiệu ứng và mô tả vật phẩm); thông số HP/MP, tên Imagen giữ nguyên. Cần xem QA_DOT_86_87.json trước khi nhập ROM."
 }
