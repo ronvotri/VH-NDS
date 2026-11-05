@@ -1,0 +1,335 @@
+{
+  "note": "Verbatim source strings remain in original source package and handoff checkpoint; these entries provide precise row/ID references for re-extraction",
+  "items": [
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 1,
+      "id": "LUA_e5aecc5c81bf57",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 2,
+      "id": "LUA_e2a7db69a26f45",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 3,
+      "id": "LUA_b9e6b07ac8aab1",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 4,
+      "id": "LUA_8424a158026c57",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 5,
+      "id": "LUA_7c471ae83a592d",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 6,
+      "id": "LUA_0617f2a9802e37",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 7,
+      "id": "LUA_37d1ae55b6953a",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 8,
+      "id": "LUA_170dda36f67f42",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 21,
+      "id": "LUA_d3a6a0f1a7c053",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 22,
+      "id": "LUA_e8ff46a6d6e1b8",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 23,
+      "id": "LUA_cd46e998c307e5",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 24,
+      "id": "LUA_90e75eeb492923",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 25,
+      "id": "LUA_64fd83838f63d9",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 26,
+      "id": "LUA_3ff3055e99ebc3",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 27,
+      "id": "LUA_beb3200250748e",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 28,
+      "id": "LUA_879c1c6985ff0f",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 29,
+      "id": "LUA_7b41f543e343db",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 89,
+      "id": "LUA_5c081baaa779ed",
+      "reason": "debug_or_developer_label"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 90,
+      "id": "LUA_0f828ffbdef3bc",
+      "reason": "debug_or_developer_label"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 91,
+      "id": "LUA_3d0c0844580167",
+      "reason": "debug_or_developer_label"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 92,
+      "id": "LUA_13736aa379d7a0",
+      "reason": "debug_or_developer_label"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 135,
+      "id": "LUA_48f016338c342c",
+      "reason": "debug_or_developer_label"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_001.jsonl",
+      "source_row": 138,
+      "id": "LUA_2a224f4d8c5960",
+      "reason": "debug_or_developer_label"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 19,
+      "id": "LUA_0f0cbc37af7a56",
+      "reason": "puzzle_keyword_needs_gameplay_verification"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 20,
+      "id": "LUA_88f9146c080674",
+      "reason": "puzzle_keyword_needs_gameplay_verification"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 61,
+      "id": "LUA_404f8d8306c104",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 62,
+      "id": "LUA_338a3392e36cbc",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 63,
+      "id": "LUA_691fd464ba5d80",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 64,
+      "id": "LUA_d9d273500bcf1c",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 65,
+      "id": "LUA_6b6d88ebe586bb",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 66,
+      "id": "LUA_38199ee924501a",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 67,
+      "id": "LUA_2ff6368fd3a668",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 68,
+      "id": "LUA_9f432e74b224ed",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 69,
+      "id": "LUA_66a7fb83feccd0",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 70,
+      "id": "LUA_ca24b97817099e",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 71,
+      "id": "LUA_8631f871a21917",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 72,
+      "id": "LUA_c3f3b57c231845",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 73,
+      "id": "LUA_d98c9cf6ffd1d4",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 74,
+      "id": "LUA_96ed874f100ffd",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 75,
+      "id": "LUA_954f2e5778fa14",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 76,
+      "id": "LUA_562959f734f2bb",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 77,
+      "id": "LUA_d248e741039594",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 78,
+      "id": "LUA_b86455a9796d57",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 79,
+      "id": "LUA_56383fbc65b582",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 80,
+      "id": "LUA_085e2aba381e27",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 81,
+      "id": "LUA_837a58850dbc14",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 82,
+      "id": "LUA_4ba98cd9dd7726",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 83,
+      "id": "LUA_798b517796cefe",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 84,
+      "id": "LUA_6b83808054e06c",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 85,
+      "id": "LUA_7f95efc1637ca7",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 86,
+      "id": "LUA_43728787175ee3",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 87,
+      "id": "LUA_9534f3829d0d6e",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 88,
+      "id": "LUA_eb0369c22455ef",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 89,
+      "id": "LUA_7a66cb8a5e815d",
+      "reason": "suspected_corrupted_or_binary_text"
+    },
+    {
+      "source_file": "lua_chon_thong_bao_003.jsonl",
+      "source_row": 90,
+      "id": "LUA_d56eb38dd18241",
+      "reason": "suspected_corrupted_or_binary_text"
+    }
+  ]
+}
