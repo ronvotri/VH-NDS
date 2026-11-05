@@ -1,0 +1,81 @@
+{
+  "project": "Ni no Kuni DS (Vietnamese)",
+  "date": "2026-11-05",
+  "batches": [
+    56,
+    57
+  ],
+  "source_files": [
+    "hoi_thoai_057.jsonl",
+    "hoi_thoai_058.jsonl"
+  ],
+  "source_rows": {
+    "hoi_thoai_057": 180,
+    "hoi_thoai_058": 180
+  },
+  "translated_by_batch": {
+    "56": 179,
+    "57": 175
+  },
+  "new_translated": 354,
+  "new_deferred": 6,
+  "deferred": {
+    "hoi_thoai_057": [
+      {
+        "row": 57,
+        "id": "HOI_d67ea0bcecedbe",
+        "source": "(Dummy) Temporary Text 1012"
+      }
+    ],
+    "hoi_thoai_058": [
+      {
+        "row": 103,
+        "id": "HOI_fee1734d6f014d",
+        "source": "(Dummy) Temporary Text 8"
+      },
+      {
+        "row": 104,
+        "id": "HOI_1419eee98671b8",
+        "source": "(Dummy) Temporary Text 9"
+      },
+      {
+        "row": 105,
+        "id": "HOI_28494e494224b8",
+        "source": "(Dummy) Temporary Text 10"
+      },
+      {
+        "row": 106,
+        "id": "HOI_e937bf89d1429b",
+        "source": "(Dummy) Temporary Text 11"
+      },
+      {
+        "row": 107,
+        "id": "HOI_ecccf7859a7a00",
+        "source": "(Dummy) Temporary Text 12"
+      }
+    ]
+  },
+  "total_translated": 11013,
+  "priority_total": 17935,
+  "remaining": 6922,
+  "translation_ratio": 0.61405,
+  "jsonl_invalid": 0,
+  "duplicate_ids_new": 0,
+  "duplicate_ids_with_previous": 0,
+  "protected_token_mismatches": 0,
+  "max_lines_allowed": 3,
+  "max_visible_chars_per_line_allowed": 48,
+  "layout_preliminary_violations": 0,
+  "manual_2024_exact_english_source_matches": {
+    "hoi_thoai_057": 1,
+    "hoi_thoai_058": 2
+  },
+  "manual_review": [
+    "Spring Lock → Mở Khóa is a tentative spell term: check magic menu and rune label.",
+    "Scepter → Vương Trượng, text embedded in {3:4} markup; check book UI.",
+    "Starey Sherry → Sherry Ngó Hoài, a nickname; confirm its use across parallel scenes.",
+    "Gate → Mở Cổng; original book points to page 21, keep the same numeric cue.",
+    "Source 6 Dummy/Temporary Text entries are deferred, never insert into playable dialogue.",
+    "Only visible-character layout checks; no actual NDS byte/font/ROM/gameplay tests."
+  ]
+}
