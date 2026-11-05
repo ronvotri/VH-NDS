@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-05",
   "priority_total": 17935,
-  "translated_total": 14241,
-  "remaining": 3694,
-  "ratio": 0.79403,
+  "translated_total": 14601,
+  "remaining": 3334,
+  "ratio": 0.81411,
   "batches": [
     {
       "batch": 1,
@@ -664,8 +664,24 @@
       "deferred": 0,
       "deferred_ids": [],
       "validated": true
+    },
+    {
+      "batch": 76,
+      "done": 180,
+      "repo_file": "translations/dot_76/hoi_thoai_077.jsonl",
+      "deferred": 0,
+      "deferred_ids": [],
+      "validated": true
+    },
+    {
+      "batch": 77,
+      "done": 180,
+      "repo_file": "translations/dot_77/hoi_thoai_078.jsonl",
+      "deferred": 0,
+      "deferred_ids": [],
+      "validated": true
     }
   ],
-  "qa": "Technical checks: 14,241 unique IDs; dialogue 075–076 valid JSONL with protected codes and no line-length violations. ROM, glyph font, layout and gameplay not tested.",
-  "notes": "360 câu mới đợt 72–73 (`hoi_thoai_073–074`); không có nhãn hoãn. Giữ nguyên 13.522 bản dịch cũ. Cần rà biến thể tên Aylie/Airi trong nguồn, tên vật phẩm Băng Ngàn Năm/Nước Ngàn Năm và câu hỏi trắc nghiệm về địa danh. Chưa nhúng ROM. Đợt 74–75 thêm 359 câu từ hoi_thoai_075–076, hoãn 1 nhãn Recipe Collecting NPC (temp); Cat Killer và Purrsian Post cần đối chiếu tên UI."
+  "qa": "14,601 unique IDs, JSONL valid, source order and protected markers preserved in dialogues 077–078; translation line formatting max 3 lines × 48 characters. NDS ROM/font/pixel-width/gameplay not tested.",
+  "notes": "360 câu mới đợt 72–73 (`hoi_thoai_073–074`); không có nhãn hoãn. Giữ nguyên 13.522 bản dịch cũ. Cần rà biến thể tên Aylie/Airi trong nguồn, tên vật phẩm Băng Ngàn Năm/Nước Ngàn Năm và câu hỏi trắc nghiệm về địa danh. Chưa nhúng ROM. Đợt 74–75 thêm 359 câu từ hoi_thoai_075–076, hoãn 1 nhãn Recipe Collecting NPC (temp). Tên Cat Killer, Purrsian Post cần xác minh UI. Đợt 76–77 thêm 360 câu từ hoi_thoai_077–078, không hoãn. Hai câu trùng nguyên văn với bản dịch tay 2024; giữ thuật ngữ Lữ Thạch, Sách Pháp Thuật, Hồi Phục, Cống Imagen. Cần rà tên phép Bay Lơ Lửng và mục Hạc Cầm Thuần Khiết trong UI."
 }
