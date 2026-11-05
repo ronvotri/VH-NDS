@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-05",
+  "batches": [
+    70,
+    71
+  ],
+  "source_files": [
+    "hoi_thoai_071.jsonl",
+    "hoi_thoai_072.jsonl"
+  ],
+  "total_source_rows": 360,
+  "translated": 360,
+  "deferred_count": 0,
+  "deferred": [],
+  "previous_total": 13162,
+  "total_after": 13522,
+  "priority_total": 17935,
+  "remaining": 4413,
+  "unique_new_ids": 360,
+  "duplicate_ids": 0,
+  "jsonl_valid": true,
+  "source_id_order_valid": true,
+  "control_token_mismatch": 0,
+  "line_wrap_max_chars": 48,
+  "line_wrap_max_lines": 3,
+  "source_translations_per_file": {
+    "71": {
+      "translated": 180,
+      "deferred": 0,
+      "sha256": "5fda07009b665b8a0cb4e720c21f00279d5982f3f5e432fc24afd190a14c20a8"
+    },
+    "72": {
+      "translated": 180,
+      "deferred": 0,
+      "sha256": "b6bf6a894b05ccfbefa3af952b0a9be8e504b40c38d8d0d4da158388115de507"
+    }
+  },
+  "exact_source_matches_in_manual_2024": {
+    "hoi_thoai_071": 1,
+    "hoi_thoai_072": 1
+  },
+  "notes": "Data-level verification, not NDS font/layout/ROM validation. Input-sensitive Astram puzzle answer Huge Tower kept in English."
+}
