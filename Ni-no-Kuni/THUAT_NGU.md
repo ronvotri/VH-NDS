@@ -569,3 +569,23 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Magic Master | Sách Pháp Thuật | Giữ ngữ cảnh giải mật mã |
 | Huge Tower | Huge Tower (tòa tháp khổng lồ) | **Giữ cụm tiếng Anh** ở phần giải đố Astram; không tự thay đáp án nhập |
 | Synthesis Recipe | Công Thức Ghép Đồ | Cần kiểm tra nhãn mục Công Thức trong UI |
+
+
+## Bổ sung đợt 72–73
+
+| Nguồn | Việt hóa | Ghi chú |
+|---|---|---|
+| Stone Tower | Tháp Đá | Công trình đang xây tại Rekka |
+| Ambition Heart Fragment | Mảnh Tim Hoài Bão | Giữ thuật ngữ trước |
+| Wanderer | Ông Lữ Khách | Nhân vật từng nghiên cứu Jabou |
+| Belldana / Altena / Boarg | Belldana / Altena / Boarg | Giữ nguyên tên vương quốc |
+| Abbess Obaba | Viện mẫu Obaba | Nhân vật làng thờ Jabou, cần đối chiếu danh xưng UI |
+| Aylie / Airi | Aylie / Airi | Nguồn thoại dùng hai tên ở cùng cảnh, chưa tự đổi vì chưa xác minh |
+| Corpse Lake | Hồ Tử Thi | Địa danh cũ, giữ mã tô màu |
+| Misleading Miasma | Chướng Khí Lạc Lối | Sương mù cản đường |
+| Clarion Flute | Sáo Clarion | Giữ mã tô màu |
+| Eisburg | Eisburg | Giữ tên riêng |
+| Thousand-Year Ice | Băng Ngàn Năm | Tên vật phẩm tạm, rà UI |
+| Thousand-Year Water | Nước Ngàn Năm | Tên vật phẩm tạm, rà UI |
+| Glacier Grotto | Hang Băng | Thuật ngữ cũ |
+| Restraint Heart Fragment | Mảnh Tim Kiềm Chế | Giữ thuật ngữ cũ |
