@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-05",
   "priority_total": 17935,
-  "translated_total": 9579,
-  "remaining": 8356,
-  "ratio": 0.5341,
+  "translated_total": 9939,
+  "remaining": 7996,
+  "ratio": 0.55417,
   "batches": [
     {
       "batch": 1,
@@ -449,8 +449,22 @@
       "repo_file": "translations/dot_49/hoi_thoai_50.jsonl",
       "deferred": 0,
       "validated": true
+    },
+    {
+      "batch": 50,
+      "done": 180,
+      "repo_file": "translations/dot_50/hoi_thoai_051.jsonl",
+      "deferred": 0,
+      "validated": true
+    },
+    {
+      "batch": 51,
+      "done": 180,
+      "repo_file": "translations/dot_51/hoi_thoai_052.jsonl",
+      "deferred": 0,
+      "validated": true
     }
   ],
-  "qa": "Technical checks passed for 45 batches: source IDs, JSON, protected tokens and unique IDs. ROM/font/layout/gameplay checks pending.",
-  "notes": "716 câu mới ở đợt 46–49; 4 nhãn thử nghiệm được hoãn, không tính vào tiến độ. 8863 ID cũ giữ nguyên. File dịch tay 2024 chỉ đối chiếu. Chưa nhập ROM hoặc kiểm thử NDS."
+  "qa": "Technical checks passed for 51 batches: 9,939 unique IDs, valid JSONL, protected tokens, max 3 lines x 48 characters for new dialogue 051-052. ROM/font/layout/gameplay checks pending.",
+  "notes": "716 câu mới ở đợt 46–49; 4 nhãn thử nghiệm được hoãn, không tính vào tiến độ. 8863 ID cũ giữ nguyên. File dịch tay 2024 chỉ đối chiếu. Chưa nhập ROM hoặc kiểm thử NDS. Đợt 50–51 mới: 360 câu từ hoi_thoai_051–052; tên ba thuốc đã dịch tạm, xem CAN_RA_DOT_50_51.md."
 }
