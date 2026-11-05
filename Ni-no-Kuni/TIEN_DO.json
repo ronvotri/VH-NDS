@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-05",
   "priority_total": 17935,
-  "translated_total": 13882,
-  "remaining": 4053,
-  "ratio": 0.77402,
+  "translated_total": 14241,
+  "remaining": 3694,
+  "ratio": 0.79403,
   "batches": [
     {
       "batch": 1,
@@ -646,8 +646,26 @@
       "repo_file": "translations/dot_73/hoi_thoai_074.jsonl",
       "deferred": 0,
       "validated": true
+    },
+    {
+      "batch": 74,
+      "done": 179,
+      "repo_file": "translations/dot_74/hoi_thoai_075.jsonl",
+      "deferred": 1,
+      "deferred_ids": [
+        "HOI_8e2f9903283316"
+      ],
+      "validated": true
+    },
+    {
+      "batch": 75,
+      "done": 180,
+      "repo_file": "translations/dot_75/hoi_thoai_076.jsonl",
+      "deferred": 0,
+      "deferred_ids": [],
+      "validated": true
     }
   ],
-  "qa": "73 batches and 13,882 unique translated IDs. Dialogue 073-074: 360 new unique entries, protected tokens preserved, 3 lines x 48 chars provisional. NDS ROM/font/bytewidth tests pending.",
-  "notes": "360 câu mới đợt 72–73 (`hoi_thoai_073–074`); không có nhãn hoãn. Giữ nguyên 13.522 bản dịch cũ. Cần rà biến thể tên Aylie/Airi trong nguồn, tên vật phẩm Băng Ngàn Năm/Nước Ngàn Năm và câu hỏi trắc nghiệm về địa danh. Chưa nhúng ROM."
+  "qa": "Technical checks: 14,241 unique IDs; dialogue 075–076 valid JSONL with protected codes and no line-length violations. ROM, glyph font, layout and gameplay not tested.",
+  "notes": "360 câu mới đợt 72–73 (`hoi_thoai_073–074`); không có nhãn hoãn. Giữ nguyên 13.522 bản dịch cũ. Cần rà biến thể tên Aylie/Airi trong nguồn, tên vật phẩm Băng Ngàn Năm/Nước Ngàn Năm và câu hỏi trắc nghiệm về địa danh. Chưa nhúng ROM. Đợt 74–75 thêm 359 câu từ hoi_thoai_075–076, hoãn 1 nhãn Recipe Collecting NPC (temp); Cat Killer và Purrsian Post cần đối chiếu tên UI."
 }
