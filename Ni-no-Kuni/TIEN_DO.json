@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-05",
   "priority_total": 17935,
-  "translated_total": 15373,
-  "remaining": 2562,
-  "ratio": 0.85715,
+  "translated_total": 15706,
+  "remaining": 2229,
+  "ratio": 0.87572,
   "batches": [
     {
       "batch": 1,
@@ -814,8 +814,24 @@
       "deferred": 0,
       "deferred_ids": [],
       "validated": true
+    },
+    {
+      "batch": 84,
+      "done": 153,
+      "repo_file": "translations/dot_84/vat_pham_ky_nang_003.jsonl",
+      "deferred": 0,
+      "deferred_ids": [],
+      "validated": true
+    },
+    {
+      "batch": 85,
+      "done": 180,
+      "repo_file": "translations/dot_85/vat_pham_ky_nang_004.jsonl",
+      "deferred": 0,
+      "deferred_ids": [],
+      "validated": true
     }
   ],
-  "qa": "Checkpoint through batch 83: 15,373 unique IDs. New 327 entries validated against source, protected tokens and preliminary line width. ROM/font/UI testing pending.",
-  "notes": "Dữ liệu 15.373/17.935. Đợt 82-83: +327 mô tả Imagen/địa danh từ vat_pham_ky_nang_001-002. Một dòng nguồn Missing number đã hoãn, xem DEFERRED_SOURCE_82.json. Bản gộp trong ZIP không nhập cùng tệp rời. Chưa chèn ROM/kiểm thử NDS."
+  "qa": "Checkpoint through batch 85: 15,706 unique IDs. New 333 items source-aligned and checked for protected tokens and preliminary 3x48 formatting. ROM/font/UI tests pending.",
+  "notes": "Dữ liệu 15.373/17.935. Đợt 82-83: +327 mô tả Imagen/địa danh từ vat_pham_ky_nang_001-002. Một dòng nguồn Missing number đã hoãn, xem DEFERRED_SOURCE_82.json. Bản gộp trong ZIP không nhập cùng tệp rời. Chưa chèn ROM/kiểm thử NDS. Đợt 84-85: thêm 333 mục từ vat_pham_ky_nang_003-004, gồm mô tả Imagen và trang bị, đã soát kỹ thuật; cần kiểm tra một câu nguồn bị cụt (ID VAT_59fc215d13cd8a) và một số tên vật phẩm trên NDS."
 }
