@@ -1,0 +1,31 @@
+{
+  "batch": 99,
+  "date": "2026-11-06",
+  "source_priority_total": 17935,
+  "previous_translations": 17821,
+  "added": 2,
+  "new_translations": 17823,
+  "remaining": 112,
+  "batch_files": 1,
+  "id_collision_with_old": 0,
+  "duplicate_ids_new": 0,
+  "syntax_jsonl_valid": true,
+  "max_lines": 3,
+  "max_char_per_line": 48,
+  "original_source_control_damaged": true,
+  "reconstructed_tags": [
+    "{3:4}",
+    "{1:2}"
+  ],
+  "in_rom_validation": "pending",
+  "missing_classification": {
+    "binary_false_positive": 74,
+    "temporary_debug_text": 31,
+    "reconstructed_real_dialogue": 2,
+    "developer_menu": 4,
+    "puzzle_keyword_preserve": 2,
+    "malformed_data_label": 1
+  },
+  "optional_names": 1860,
+  "rom_built": false
+}
