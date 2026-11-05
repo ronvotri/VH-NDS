@@ -1,14 +1,18 @@
 # Ni no Kuni DS — Tiến độ Việt hóa
 
-**06/11/2026 — 93 đợt — 17.146 / 17.935 mục ưu tiên (95,60%). Còn 789 mục.**
+**06/11/2026 — 96 đợt — 17.585 / 17.935 mục ưu tiên (98,05%). Còn 350 mục.**
 
-Thêm **360 mục**, gồm `vat_pham_ky_nang_011` và `012`; giữ nguyên 16.786 mục cũ.
+Bổ sung **439 mục**, gồm tên phép, mô tả hiệu ứng và tên kỹ năng từ `vat_pham_ky_nang_013–015`; giữ nguyên 17.146 mục cũ.
 
-| Đợt | Tệp | Đã dịch | Hoãn |
+| Đợt | Tệp | Dịch | Hoãn |
 |---|---|---:|---:|
-| 92 | `translations/dot_92/vat_pham_ky_nang_011.jsonl` | 180 | 0 |
-| 93 | `translations/dot_93/vat_pham_ky_nang_012.jsonl` | 180 | 0 |
+| 94 | `translations/dot_94/vat_pham_ky_nang_013.jsonl` | 180 | 0 |
+| 95 | `translations/dot_95/vat_pham_ky_nang_014.jsonl` | 180 | 0 |
+| 96 | `translations/dot_96/vat_pham_ky_nang_015.jsonl` | 79 | 0 |
+| **Cộng** | | **439** | **0** |
 
-**QA:** JSONL hợp lệ, đúng ID/thứ tự nguồn, không trùng 16.786 ID cũ; bảo toàn mã kỹ thuật; giới hạn sơ bộ 3 dòng × 48 ký tự. Một số xuống dòng nguồn được gộp hợp lý để câu Việt dễ đọc và không tràn giới hạn; chưa kiểm thử font thực trên NDS.
+**QA:** JSONL đúng định dạng, đúng thứ tự ID nguồn, không trùng các bản cũ, không mất token đặc biệt; giới hạn sơ bộ **tối đa 3 dòng × 48 ký tự**. Chi tiết: `QA_DOT_94_96.json`.
 
-**Chưa làm:** Ghép ROM, kiểm thử glyph tiếng Việt, chữ trong ảnh và chiều rộng ô thoại thực tế; rà lại tên món/chiêu và các nhãn bị hoãn trước đây. Xem `CAN_RA_DOT_92_93.md`.
+**350 mục ưu tiên còn lại:** Nhiệm vụ phụ 236; lựa chọn/thông báo tạm hoãn 55; hội thoại tạm hoãn 58; nhãn vật phẩm `Missing number` 1. Một số mục hoãn có thể là chuỗi kỹ thuật/nguồn hỏng, phải xác minh trước khi nhập ROM.
+
+**Chưa làm:** Nhúng ROM, kiểm tra glyph/chiều rộng ô thoại NDS, thuật ngữ kỹ năng thực tế và văn bản trong ảnh; 1.860 tên riêng tùy chọn nằm ngoài 17.935 mục ưu tiên.
