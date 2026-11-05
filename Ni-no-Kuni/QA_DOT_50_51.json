@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-05",
+  "batches": [
+    50,
+    51
+  ],
+  "source_files": [
+    "hoi_thoai_051.jsonl",
+    "hoi_thoai_052.jsonl"
+  ],
+  "translated": 360,
+  "translated_by_batch": {
+    "50": 180,
+    "51": 180
+  },
+  "deferred": 0,
+  "total_after": 9939,
+  "priority_total": 17935,
+  "remaining": 7996,
+  "unique_new_ids": 360,
+  "unique_global_ids": 9939,
+  "duplicate_ids": 0,
+  "jsonl_valid": true,
+  "protected_tokens_mismatch": 0,
+  "max_formatted_lines": 3,
+  "max_chars_per_line": 48,
+  "format_violations": 0,
+  "2024_exact_matches_in_051": 2,
+  "2024_exact_matches_in_052": 0,
+  "manual_review": [
+    "Three medicine names: Panacea, Goddess Tears, Magicine; translated provisionally as Thuốc Bách Bệnh, Nước Mắt Nữ Thần, Ma Dược. Verify against items UI before patch.",
+    "Context-dependent forms of address and NPC voices to check in-game.",
+    "No ROM insertion/font testing or gameplay validation performed."
+  ],
+  "note": "Technical data QA only; does not certify full linguistic quality or NDS UI fit."
+}
