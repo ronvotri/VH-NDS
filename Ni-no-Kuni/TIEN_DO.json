@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-05",
   "priority_total": 17935,
-  "translated_total": 10659,
-  "remaining": 7276,
-  "ratio": 0.59431,
+  "translated_total": 11013,
+  "remaining": 6922,
+  "ratio": 0.61405,
   "batches": [
     {
       "batch": 1,
@@ -491,8 +491,32 @@
       "repo_file": "translations/dot_55/hoi_thoai_056.jsonl",
       "deferred": 0,
       "validated": true
+    },
+    {
+      "batch": 56,
+      "done": 179,
+      "repo_file": "translations/dot_56/hoi_thoai_057.jsonl",
+      "deferred": 1,
+      "deferred_ids": [
+        "HOI_d67ea0bcecedbe"
+      ],
+      "validated": true
+    },
+    {
+      "batch": 57,
+      "done": 175,
+      "repo_file": "translations/dot_57/hoi_thoai_058.jsonl",
+      "deferred": 5,
+      "deferred_ids": [
+        "HOI_fee1734d6f014d",
+        "HOI_1419eee98671b8",
+        "HOI_28494e494224b8",
+        "HOI_e937bf89d1429b",
+        "HOI_ecccf7859a7a00"
+      ],
+      "validated": true
     }
   ],
-  "qa": "Technical QA through batches 54–55: 10,659 unique IDs, +360 valid JSONL rows, control tokens preserved, max 3 lines and 48 chars/line for new rows; 6 source editorial NOTE entries deliberately omitted from translations. ROM/UI/font/gameplay checks still pending.",
-  "notes": "4 nhãn thử nghiệm của đợt 46–49 được hoãn, không tính vào tiến độ. 8863 ID cũ giữ nguyên. 7 câu trùng nguồn Excel 2024 chỉ tham khảo. Chưa nhúng ROM. Mới đợt 50–51: 360 câu. Cần rà tên 3 món thuốc. Đợt 52–53 (hoi_thoai_053–054): 360 câu; 0 tạm hoãn; 1 câu nguồn trùng bản dịch tay 2024 được đối chiếu, không nhập đè. Đáp án các câu đố chưa Việt hóa logic nhập liệu, cần kiểm tra khi đóng patch. Đợt 54–55: +360 câu từ hoi_thoai_055–056; 6 ghi chú biên tập nguồn (NOTE) không đưa vào thoại; tên 4 phép mới chờ xác minh trong Sách Pháp Thuật; 0 nguồn trùng nguyên văn dịch tay 2024."
+  "qa": "Technical QA through batch 57: 11,013 distinct translation IDs, +354 new valid JSONL rows; 6 Dummy/Temporary source labels deferred; control tokens and 3x48 visible-character line limit preserved. No ROM/font/UI/gameplay validation.",
+  "notes": "4 nhãn thử nghiệm của đợt 46–49 được hoãn, không tính vào tiến độ. 8863 ID cũ giữ nguyên. 7 câu trùng nguồn Excel 2024 chỉ tham khảo. Chưa nhúng ROM. Mới đợt 50–51: 360 câu. Cần rà tên 3 món thuốc. Đợt 52–53 (hoi_thoai_053–054): 360 câu; 0 tạm hoãn; 1 câu nguồn trùng bản dịch tay 2024 được đối chiếu, không nhập đè. Đáp án các câu đố chưa Việt hóa logic nhập liệu, cần kiểm tra khi đóng patch. Đợt 54–55: +360 câu từ hoi_thoai_055–056; 6 ghi chú biên tập nguồn (NOTE) không đưa vào thoại; tên 4 phép mới chờ xác minh trong Sách Pháp Thuật; 0 nguồn trùng nguyên văn dịch tay 2024. Đợt 56–57: 354 câu dịch từ hoi_thoai_057–058; hoãn 6 nhãn Dummy/Temporary Text, 3 câu nguồn trùng nguyên văn trong kho dịch tay 2024 chỉ để tham khảo. Tên Spring Lock/Scepter và biệt danh Starey Sherry cần đối chiếu UI."
 }
