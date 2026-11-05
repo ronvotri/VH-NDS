@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-05",
   "priority_total": 17935,
-  "translated_total": 11364,
-  "remaining": 6571,
-  "ratio": 0.63362,
+  "translated_total": 11724,
+  "remaining": 6211,
+  "ratio": 0.65369,
   "batches": [
     {
       "batch": 1,
@@ -542,8 +542,22 @@
         "HOI_0b54e463e801fc"
       ],
       "validated": true
+    },
+    {
+      "batch": 60,
+      "done": 180,
+      "repo_file": "translations/dot_60/hoi_thoai_061.jsonl",
+      "deferred": 0,
+      "validated": true
+    },
+    {
+      "batch": 61,
+      "done": 180,
+      "repo_file": "translations/dot_61/hoi_thoai_062.jsonl",
+      "deferred": 0,
+      "validated": true
     }
   ],
-  "qa": "Through batch 59: 11,364 unique translation IDs, +351 new valid JSONL rows, 9 Dummy/Temporary labels deferred, tokens preserved, max 3 lines x 48 visible characters. NDS ROM/font/UI not tested.",
-  "notes": "4 nhãn thử nghiệm của đợt 46–49 được hoãn, không tính vào tiến độ. 8863 ID cũ giữ nguyên. 7 câu trùng nguồn Excel 2024 chỉ tham khảo. Chưa nhúng ROM. Mới đợt 50–51: 360 câu. Cần rà tên 3 món thuốc. Đợt 52–53 (hoi_thoai_053–054): 360 câu; 0 tạm hoãn; 1 câu nguồn trùng bản dịch tay 2024 được đối chiếu, không nhập đè. Đáp án các câu đố chưa Việt hóa logic nhập liệu, cần kiểm tra khi đóng patch. Đợt 54–55: +360 câu từ hoi_thoai_055–056; 6 ghi chú biên tập nguồn (NOTE) không đưa vào thoại; tên 4 phép mới chờ xác minh trong Sách Pháp Thuật; 0 nguồn trùng nguyên văn dịch tay 2024. Đợt 56–57: 354 câu dịch từ hoi_thoai_057–058; hoãn 6 nhãn Dummy/Temporary Text, 3 câu nguồn trùng nguyên văn trong kho dịch tay 2024 chỉ để tham khảo. Tên Spring Lock/Scepter và biệt danh Starey Sherry cần đối chiếu UI. Dot 58-59: 351 translated from dialogue 059-060, 9 dummy/temp source labels deferred. Confidence=Tự Tin, Soulgem=Hồn Ngọc; 2 exact English source matches to 2024 spreadsheet used as context only."
+  "qa": "Through batch 61: 11,724 unique translated IDs; 360 new source-aligned translations in dialogue 061-062; JSONL, protected tokens, and preliminary 3x48 character format checked. NDS ROM/font/layout/gameplay tests pending.",
+  "notes": "4 nhãn thử nghiệm của đợt 46–49 được hoãn, không tính vào tiến độ. 8863 ID cũ giữ nguyên. 7 câu trùng nguồn Excel 2024 chỉ tham khảo. Chưa nhúng ROM. Mới đợt 50–51: 360 câu. Cần rà tên 3 món thuốc. Đợt 52–53 (hoi_thoai_053–054): 360 câu; 0 tạm hoãn; 1 câu nguồn trùng bản dịch tay 2024 được đối chiếu, không nhập đè. Đáp án các câu đố chưa Việt hóa logic nhập liệu, cần kiểm tra khi đóng patch. Đợt 54–55: +360 câu từ hoi_thoai_055–056; 6 ghi chú biên tập nguồn (NOTE) không đưa vào thoại; tên 4 phép mới chờ xác minh trong Sách Pháp Thuật; 0 nguồn trùng nguyên văn dịch tay 2024. Đợt 56–57: 354 câu dịch từ hoi_thoai_057–058; hoãn 6 nhãn Dummy/Temporary Text, 3 câu nguồn trùng nguyên văn trong kho dịch tay 2024 chỉ để tham khảo. Tên Spring Lock/Scepter và biệt danh Starey Sherry cần đối chiếu UI. Dot 58-59: 351 translated from dialogue 059-060, 9 dummy/temp source labels deferred. Confidence=Tự Tin, Soulgem=Hồn Ngọc; 2 exact English source matches to 2024 spreadsheet used as context only. Dot 60-61: 360 translated dialogues from hoi_thoai_061-062, no deferred IDs. Phone Stone translated provisionally as Đá Liên Lạc; Forest Steward as Người Giữ Rừng; Griffy kept as proper name."
 }
