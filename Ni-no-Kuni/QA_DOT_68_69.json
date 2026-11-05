@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-05",
+  "batches": [
+    68,
+    69
+  ],
+  "source_files": [
+    "hoi_thoai_069.jsonl",
+    "hoi_thoai_070.jsonl"
+  ],
+  "total_source_rows": 360,
+  "translated": 359,
+  "deferred_count": 1,
+  "deferred": [
+    {
+      "source_index": 124,
+      "id": "HOI_813c7564ba17e4",
+      "source": "TEMPORARY TEXT",
+      "reason": "Temporary/internal text excluded from main translation"
+    }
+  ],
+  "previous_total": 12803,
+  "total_after": 13162,
+  "priority_total": 17935,
+  "remaining": 4773,
+  "unique_new_ids": 359,
+  "duplicate_ids": 0,
+  "jsonl_valid": true,
+  "control_token_mismatch": 0,
+  "line_wrap_max_chars": 48,
+  "line_wrap_max_lines": 3,
+  "source_translations_per_file": {
+    "69": {
+      "translated": 179,
+      "deferred": 1,
+      "sha256": "9c328c7d0d2c34c9e0478d9b044369506a350784b49e018145fc5a67c14169fb"
+    },
+    "70": {
+      "translated": 180,
+      "deferred": 0,
+      "sha256": "fb81d8c2c753b423e222eb93157eeea387c5cbe12f6deeaf402d5ec969d4d827"
+    }
+  },
+  "manual_2024_exact_matches": 2,
+  "manual_2024_matches": [
+    {
+      "file": 70,
+      "source_index": 15,
+      "id": "HOI_7d7894c26a0e04",
+      "source": "WHAAAAAAT!?",
+      "manual_examples": [
+        "LÀM SAO !?"
+      ]
+    },
+    {
+      "file": 70,
+      "source_index": 109,
+      "id": "HOI_15a16844a44055",
+      "source": "Captain!",
+      "manual_examples": [
+        "Thuyền trưởng!"
+      ]
+    }
+  ],
+  "review_needed": [
+    "Fireball → Hỏa Cầu; Heal → Hồi Phục; Imagine Imagen → Triệu Imagen; Rune Notes → Sổ Ấn Chú: verify exact spell/menu labels on NDS.",
+    "Black Magic Morel → Nấm Morel Ma Thuật Đen aligned with previously translated quest; Ancient Leaf → Lá Cổ Thụ requires item-menu check.",
+    "Corridor of Waterfalls → Hành Lang Thác Nước: check map label versus Thác Thì Thầm.",
+    "Ancient One / Cổ Thụ; pirate lore; Abbess / tu viện trưởng: context check in-game.",
+    "Picture of the Old Magic War → bức tranh Đại chiến Pháp sư as used in existing dialogue.",
+    "No ROM patch/font/layout/byte offset or gameplay test performed."
+  ],
+  "note": "Technical JSONL/text checks only; not certification of full linguistic quality or NDS layout."
+}
