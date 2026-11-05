@@ -1,0 +1,40 @@
+{
+  "project": "Ni no Kuni DS",
+  "date": "2026-11-05",
+  "batches": [
+    64,
+    65
+  ],
+  "files": [
+    "translations/dot_64/hoi_thoai_065.jsonl",
+    "translations/dot_65/hoi_thoai_066.jsonl"
+  ],
+  "source_rows": [
+    180,
+    180
+  ],
+  "translated_rows": [
+    180,
+    180
+  ],
+  "deferred": 0,
+  "prior": 12083,
+  "added": 360,
+  "current_total": 12443,
+  "priority_total": 17935,
+  "remaining": 5492,
+  "unique_ids": 12443,
+  "duplicate_ids": 0,
+  "protected_code_mismatches": 0,
+  "jsonl_valid": true,
+  "max_lines_per_entry": 3,
+  "max_characters_per_line": 48,
+  "manual_2024_exact_matches": 2,
+  "pending": [
+    "Font and NDS layout",
+    "ROM reinsertion",
+    "UI labels for Synthesis/Shuffle/Astra",
+    "Manual review of boss and proper names"
+  ],
+  "status": "Data QA only; no ROM or in-game validation"
+}
