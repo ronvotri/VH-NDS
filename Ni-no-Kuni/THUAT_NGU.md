@@ -459,3 +459,18 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Morton Memorial Hall | Nhà tưởng niệm Morton | Chờ kiểm tra tên hiển thị trong ảnh |
 | Hotroit Museum | Bảo tàng Hotroit | Tên địa danh |
 | The Hotroit of Today | Hotroit Ngày Nay | Tựa bích họa |
+
+## Bổ sung đợt 58–59
+
+| Tiếng Anh | Tiếng Việt | Ghi chú |
+|---|---|---|
+| Contract | Khế ước | Trang 3 Sách Pháp Thuật; mã tô màu giữ nguyên |
+| Magic Wand | Đũa Phép | Tên phép/đồ dùng, kiểm tra UI |
+| Dark Djinn Jabou | Hắc Pháp Sư Jabou | Kiểm tra đồng bộ với Jet-Black Mage |
+| Soulgem | Hồn Ngọc | Theo thuật ngữ cũ |
+| Confidence | Tự Tin | KHÔNG dùng Niềm Tin |
+| Faith | Niềm Tin | Thuật ngữ khác Confidence |
+| Restraint | Kiềm Chế | Mảnh Tim |
+| Starey Sherry | Sherry Ngó Hoài | Biệt danh Sherry |
+| Jungle | Jungle | Tên làng |
+| Priestess / Chief | Nữ Tư Tế / Trưởng Làng | Chờ xác nhận nhân vật và UI |
