@@ -1,18 +1,17 @@
 # Ni no Kuni DS — Tiến độ Việt hóa
 
-**06/11/2026 — 96 đợt — 17.585 / 17.935 mục ưu tiên (98,05%). Còn 350 mục.**
+**06/11/2026 — 98 đợt — 17.821 / 17.935 mục ưu tiên (99,36%); còn 114 mục.**
 
-Bổ sung **439 mục**, gồm tên phép, mô tả hiệu ứng và tên kỹ năng từ `vat_pham_ky_nang_013–015`; giữ nguyên 17.146 mục cũ.
+## Đợt 97–98
 
-| Đợt | Tệp | Dịch | Hoãn |
+| Đợt | Tệp nguồn | Mục dịch | Hoãn |
 |---|---|---:|---:|
-| 94 | `translations/dot_94/vat_pham_ky_nang_013.jsonl` | 180 | 0 |
-| 95 | `translations/dot_95/vat_pham_ky_nang_014.jsonl` | 180 | 0 |
-| 96 | `translations/dot_96/vat_pham_ky_nang_015.jsonl` | 79 | 0 |
-| **Cộng** | | **439** | **0** |
+| 97 | `nhiem_vu_phu_002.jsonl` | 180 | 0 |
+| 98 | `nhiem_vu_phu_003.jsonl` | 56 | 0 |
+| **Tổng mới** | | **236** | **0** |
 
-**QA:** JSONL đúng định dạng, đúng thứ tự ID nguồn, không trùng các bản cũ, không mất token đặc biệt; giới hạn sơ bộ **tối đa 3 dòng × 48 ký tự**. Chi tiết: `QA_DOT_94_96.json`.
+Hoàn tất toàn bộ 236 mục nhiệm vụ phụ còn lại, giữ nguyên 17.585 ID đã dịch. Nhóm mới gồm nhiệm vụ DLC, chuỗi chữa Rỗng Tim, ông Lữ Khách và truy nã quái vật. Mọi câu giữ nguyên ID gốc; JSONL hợp lệ, mã điều khiển không thay đổi, các câu ngắt tối đa **3 dòng × 48 ký tự** khi kiểm tra văn bản.
 
-**350 mục ưu tiên còn lại:** Nhiệm vụ phụ 236; lựa chọn/thông báo tạm hoãn 55; hội thoại tạm hoãn 58; nhãn vật phẩm `Missing number` 1. Một số mục hoãn có thể là chuỗi kỹ thuật/nguồn hỏng, phải xác minh trước khi nhập ROM.
+**114 mục ưu tiên chưa dịch:** 55 lựa chọn/thông báo, 58 hội thoại nguồn cần rà, 1 nhãn vật phẩm lỗi. Ngoài ra có 1.860 tên riêng tùy chọn chưa rà.
 
-**Chưa làm:** Nhúng ROM, kiểm tra glyph/chiều rộng ô thoại NDS, thuật ngữ kỹ năng thực tế và văn bản trong ảnh; 1.860 tên riêng tùy chọn nằm ngoài 17.935 mục ưu tiên.
+**Chưa hoàn thành:** Nhúng ROM, xác minh font tiếng Việt, đo độ rộng trên màn hình Nintendo DS, chạy thử lời thoại/nhiệm vụ và xác thực các chuỗi hoãn bị lỗi. 99,36% phản ánh mức độ phủ dữ liệu, không phải ROM đã có thể phát hành.
