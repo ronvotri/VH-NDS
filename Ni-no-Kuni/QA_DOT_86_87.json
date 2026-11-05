@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-05",
+  "batch_range": [
+    86,
+    87
+  ],
+  "source_files": [
+    "vat_pham_ky_nang_005.jsonl",
+    "vat_pham_ky_nang_006.jsonl"
+  ],
+  "source_lines": 360,
+  "translated": 360,
+  "deferred": 0,
+  "previous_approved": 15706,
+  "total_approved": 16066,
+  "priority_total": 17935,
+  "remaining_priority": 1869,
+  "unique_total_ids": 16066,
+  "duplicate_ids": 0,
+  "jsonl_valid": true,
+  "source_id_alignment": "verified 360 rows against original source IDs in order",
+  "protected_code_mismatches": 0,
+  "max_lines": 3,
+  "max_unicode_characters_per_line": 48,
+  "format_violations": 0,
+  "source_numbers_preserved": true,
+  "manual_review": [
+    "Several item acquisition location strings may be wider than the NDS menu despite passing the 48-character test.",
+    "Names such as Hades Hook, Getaway Glasses and condition labels need in-game menu verification.",
+    "No NDS font, byte-width, ROM injection or gameplay testing was performed."
+  ]
+}
