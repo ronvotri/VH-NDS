@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-05",
+  "batch_range": [
+    74,
+    75
+  ],
+  "source_files": [
+    "hoi_thoai_075.jsonl",
+    "hoi_thoai_076.jsonl"
+  ],
+  "new_translations": 359,
+  "source_rows": 360,
+  "deferred": 1,
+  "deferred_ids": [
+    "HOI_8e2f9903283316"
+  ],
+  "previous_total": 13882,
+  "current_total": 14241,
+  "priority_total": 17935,
+  "remaining": 3694,
+  "unique_ids": 14241,
+  "duplicate_ids": 0,
+  "jsonl_valid": true,
+  "control_code_mismatches": 0,
+  "max_lines_per_entry": 3,
+  "max_characters_per_line": 48,
+  "line_violations": 0,
+  "provisional_terms": [
+    "Cat Killer → Sát Miêu",
+    "Purrsian Post → Bưu Tín Purrsian",
+    "Snow Carrots → Cà Rốt Tuyết",
+    "Parkas → Áo khoác lông"
+  ],
+  "not_tested": [
+    "NDS ROM repack",
+    "VN glyph font",
+    "actual screen width",
+    "gameplay"
+  ],
+  "batches": [
+    {
+      "batch": 74,
+      "file": "hoi_thoai_075.jsonl",
+      "source_rows": 180,
+      "translated": 179,
+      "deferred": 1,
+      "deferred_ids": [
+        "HOI_8e2f9903283316"
+      ]
+    },
+    {
+      "batch": 75,
+      "file": "hoi_thoai_076.jsonl",
+      "source_rows": 180,
+      "translated": 180,
+      "deferred": 0,
+      "deferred_ids": []
+    }
+  ]
+}
