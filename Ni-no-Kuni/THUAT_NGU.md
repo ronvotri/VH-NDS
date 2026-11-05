@@ -688,3 +688,29 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Girlfiend / Ex-girlfiend / Bougie-woogie | Giữ nguyên tên loài | Chưa đối chiếu danh sách quái |
 
 **Nguyên tắc:** Các mô tả Imagen được dịch tự nhiên, dí dỏm vừa phải; không tự thay đổi cơ chế và tên loài trong văn bản. Rà lại bố cục sau khi nhúng ROM.
+
+## Bổ sung đợt 84–85 — Mô tả Imagen, trang bị và nhãn hiệu ứng
+
+| Nguồn | Việt hóa | Ghi chú |
+|---|---|---|
+| Old Smoky | Old Smoky | Giữ tên riêng; cần xác minh nhãn bản đồ |
+| Glittering Grotto | Hang Băng | Dùng cách gọi đã thống nhất |
+| Miasma Marshes | Đầm Lầy Chướng Khí | Địa danh, cần đối chiếu tên trên bản đồ |
+| Basiluna Plains | Đồng bằng Basiluna | Giữ cách gọi trước |
+| Trail Coast | Bờ biển Trail | Giữ tên riêng địa danh |
+| Corpse Lake | Hồ Tử Thi | Theo bảng thuật ngữ cũ |
+| Arcane Stones | Ma Thạch | Theo bảng thuật ngữ cũ |
+| Celestial Tree | Cây Trời | Chỉ xuất hiện trong vật liệu vải |
+| Magic Wand | Đũa phép | Theo thuật ngữ cũ |
+| Brooch | Trâm cài | Đối chiếu UI trang bị |
+| Seal | Ấn chú / Ấn | Theo ngữ cảnh danh mục |
+| Emblem | Huy hiệu | Đối chiếu UI trang bị |
+| Ring | Nhẫn | Đối chiếu UI trang bị |
+| Nightmare | Ác Mộng | Các dạng quái từ nhân vật |
+| Goddess Harp | Đàn Hạc Nữ Thần | Tên vật phẩm, chờ đối chiếu UI |
+| Bad Emperor | Hoàng Đế Xấu Xa | Tên súng, **dịch tạm**, chờ đối chiếu UI |
+| Lockpick Gun / Unlock Gun | Súng Mở Khóa / Súng Phá Khóa | Cần xác minh khác biệt giữa hai vật phẩm |
+| Positional Effects | Hiệu ứng theo vị trí | Chờ thử cơ chế và tên menu |
+| Fatal Blow | Đòn kết liễu | Chờ xác minh cơ chế/nhãn UI |
+| EXP / HP / MP | EXP / HP / MP | Giữ nguyên ký hiệu giao diện |
+
