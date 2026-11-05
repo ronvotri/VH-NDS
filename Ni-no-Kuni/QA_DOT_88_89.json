@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-05",
+  "batches": [
+    88,
+    89
+  ],
+  "sources": [
+    "vat_pham_ky_nang_007.jsonl",
+    "vat_pham_ky_nang_008.jsonl"
+  ],
+  "source_lines": 360,
+  "translated": 360,
+  "deferred": 0,
+  "old_translated": 16066,
+  "new_translated": 16426,
+  "priority_total": 17935,
+  "remaining": 1509,
+  "unique_ids": 16426,
+  "duplicate_ids": 0,
+  "jsonl_valid": true,
+  "ids_match_source_order": true,
+  "protected_tag_mismatches": 0,
+  "max_lines": 3,
+  "max_chars_per_line": 48,
+  "format_violations": 0,
+  "known_limitations": [
+    "Unicode length limit does not establish NDS rendering fit.",
+    "Item set effects and status category labels require in-game verification.",
+    "No NDS ROM/font/gameplay testing."
+  ]
+}
