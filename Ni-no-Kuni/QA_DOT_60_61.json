@@ -1,0 +1,44 @@
+{
+  "project": "Ni no Kuni DS Vietnamese — Votri Valley",
+  "date": "2026-11-05",
+  "batches": [
+    60,
+    61
+  ],
+  "source_files": [
+    "hoi_thoai_061.jsonl",
+    "hoi_thoai_062.jsonl"
+  ],
+  "source_rows": 360,
+  "new_translated": 360,
+  "deferred": 0,
+  "by_batch": {
+    "60": 180,
+    "61": 180
+  },
+  "total_translated": 11724,
+  "priority_total": 17935,
+  "remaining": 6211,
+  "ratio": 0.65369,
+  "jsonl_invalid": 0,
+  "duplicate_ids_new": 0,
+  "duplicate_ids_with_previous": 0,
+  "protected_token_mismatches": 0,
+  "max_lines_allowed": 3,
+  "max_visible_chars_per_line_allowed": 48,
+  "format_violations": 0,
+  "exact_2024_english_matches": 0,
+  "review_notes": [
+    "Phone Stone → Đá Liên Lạc is provisional; cross-check item label.",
+    "Forest Steward → Người Giữ Rừng is a new title; verify across NPC and UI.",
+    "Hardwood → gỗ cứng, protect formatting in {3:4}...{1:2}.",
+    "Griffy is retained as a monster proper name.",
+    "Jungle location and right/east directions retained; check in game."
+  ],
+  "not_tested": [
+    "End-to-end narrative and speaker attribution",
+    "Font glyphs and byte length",
+    "NDS dialogue box pixel fit",
+    "ROM reinsertion or play on emulator/hardware"
+  ]
+}
