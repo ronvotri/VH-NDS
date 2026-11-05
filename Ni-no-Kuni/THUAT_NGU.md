@@ -499,3 +499,21 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Grey | Grey | Tên riêng chó, không dịch |
 | Two Mysteries | Hai Bí Ẩn | Tiêu đề manh mối Hang Băng; mã tô sáng giữ nguyên |
 | Silvervine Hut / Silvervine Group | Nhà Silvervine / Tập đoàn Silvervine | Dịch tạm nhãn cơ sở, cần xem UI |
+
+## Bổ sung đợt 64–65
+
+| Tiếng Anh | Tiếng Việt | Ghi chú |
+|---|---|---|
+| Fountain of Life | Suối Nguồn Sự Sống | Kiểm tra nhãn bản đồ/UI |
+| Morel Forest | Rừng Morel | Theo thuật ngữ cũ |
+| Harvest Forest | Rừng Mùa Màng | Kiểm tra bản đồ |
+| Nature's Tongue | Tiếng Nói Thiên Nhiên | Phép trò chuyện với cây, trang 32 |
+| Power of Life | Sức Mạnh Sự Sống | Nguồn gốc Imagen |
+| Guardian of the Forest | Hộ Vệ Rừng | Imagen bảo vệ khu vực |
+| Dungeon Synthesis | Ghép Hầm Ngục | Chức năng Tháp Moya, cần kiểm thử UI |
+| Synth Dungeon | Hầm Ngục Ghép | Danh từ khu vực |
+| Shuffle | Đảo Lại | Tên menu tạm, cần kiểm thử |
+| Synthesis | Ghép / Ghép Đồ | Theo thuật ngữ Nồi Ghép |
+| Astra | Astra | Tên phép, giữ nguyên |
+| Forsaken Idol | Thần Tượng Bị Ruồng Bỏ | Tên boss tạm dịch |
+| Majeel / Majell | Majeel | Nguồn không thống nhất; cần đối chiếu |
