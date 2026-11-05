@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-05",
   "priority_total": 17935,
-  "translated_total": 15046,
-  "remaining": 2889,
-  "ratio": 0.83892,
+  "translated_total": 15373,
+  "remaining": 2562,
+  "ratio": 0.85715,
   "batches": [
     {
       "batch": 1,
@@ -796,8 +796,26 @@
         "LUA_d56eb38dd18241"
       ],
       "validated": true
+    },
+    {
+      "batch": 82,
+      "done": 174,
+      "repo_file": "translations/dot_82/vat_pham_ky_nang_001.jsonl",
+      "deferred": 1,
+      "deferred_ids": [
+        "VAT_656ad577872fed"
+      ],
+      "validated": true
+    },
+    {
+      "batch": 83,
+      "done": 153,
+      "repo_file": "translations/dot_83/vat_pham_ky_nang_002.jsonl",
+      "deferred": 0,
+      "deferred_ids": [],
+      "validated": true
     }
   ],
-  "qa": "15.046 unique IDs after batches 80-81. New 215 choice/notification strings: valid JSONL, protected codes preserved, <=3 lines and <=48 visible characters per line. 55 deferred: binary/debug/puzzle keywords. ROM/font/pixel width/gameplay untested.",
-  "notes": "360 câu mới đợt 72–73 (`hoi_thoai_073–074`); không có nhãn hoãn. Giữ nguyên 13.522 bản dịch cũ. Cần rà biến thể tên Aylie/Airi trong nguồn, tên vật phẩm Băng Ngàn Năm/Nước Ngàn Năm và câu hỏi trắc nghiệm về địa danh. Chưa nhúng ROM. Đợt 74–75 thêm 359 câu từ hoi_thoai_075–076, hoãn 1 nhãn Recipe Collecting NPC (temp). Tên Cat Killer, Purrsian Post cần xác minh UI. Đợt 76–77 thêm 360 câu từ hoi_thoai_077–078, không hoãn. Hai câu trùng nguyên văn với bản dịch tay 2024; giữ thuật ngữ Lữ Thạch, Sách Pháp Thuật, Hồi Phục, Cống Imagen. Cần rà tên phép Bay Lơ Lửng và mục Hạc Cầm Thuần Khiết trong UI. Đợt 78–79 dịch thêm 230 câu từ hoi_thoai_079–080; 080 là tệp hội thoại cuối gói nguồn, 75 dòng (52 câu đọc được, 23 dòng hỏng); 079 có 2 lỗi mã chờ rà. Không tự dựng bản dịch cho chuỗi hỏng. Đợt 80–81 thêm 215 lựa chọn/thông báo từ nguồn lua_chon_thong_bao_001/003; 55 mục hoãn có danh sách ID. Tệp 002 đã được dịch ở đợt 01, không làm lặp."
+  "qa": "Checkpoint through batch 83: 15,373 unique IDs. New 327 entries validated against source, protected tokens and preliminary line width. ROM/font/UI testing pending.",
+  "notes": "Dữ liệu 15.373/17.935. Đợt 82-83: +327 mô tả Imagen/địa danh từ vat_pham_ky_nang_001-002. Một dòng nguồn Missing number đã hoãn, xem DEFERRED_SOURCE_82.json. Bản gộp trong ZIP không nhập cùng tệp rời. Chưa chèn ROM/kiểm thử NDS."
 }
