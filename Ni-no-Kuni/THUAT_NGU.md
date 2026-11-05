@@ -837,3 +837,15 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Wanderer | ông Lữ Khách | Chuỗi quest nhiều vùng |
 | Bounty | Truy Nã | Nhãn nhiệm vụ Martin |
 | DLC Quest | Nhiệm vụ DLC | Nhãn giao diện, giữ chú thích cần phá đảo |
+
+
+## Bổ sung đợt 99 — kết nối không dây
+
+| Tiếng Anh | Tiếng Việt |
+|---|---|
+| Download Quests | Nhiệm vụ Tải Về |
+| Download Items | Vật Phẩm Tải Về |
+| Download Recipes | Công Thức Tải Về |
+| Imagen obtained by other means than capture | Imagen nhận được không qua bắt giữ |
+
+`BURN` và `FREEZE` là đáp án/cú pháp tương tác: **giữ nguyên đúng chữ tiếng Anh** trừ khi xác nhận cơ chế nhập liệu cho phép Việt hóa.
