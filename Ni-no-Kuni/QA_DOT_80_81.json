@@ -1,0 +1,44 @@
+{
+  "project": "Ni no Kuni DS Vietnamese",
+  "date": "2026-11-05",
+  "batch_range": [
+    80,
+    81
+  ],
+  "source_files": [
+    "lua_chon_thong_bao_001.jsonl",
+    "lua_chon_thong_bao_003.jsonl"
+  ],
+  "source_rows_by_file": {
+    "lua_chon_thong_bao_001.jsonl": 180,
+    "lua_chon_thong_bao_003.jsonl": 90
+  },
+  "translated_new": 215,
+  "translated_by_batch": {
+    "80": 157,
+    "81": 58
+  },
+  "deferred_total": 55,
+  "deferred_by_cause": {
+    "suspected_corruption": 47,
+    "debug_internal": 6,
+    "puzzle_keywords": 2
+  },
+  "previous_total": 14831,
+  "current_total": 15046,
+  "priority_total": 17935,
+  "remaining": 2889,
+  "unique_ids": 15046,
+  "duplicate_ids": 0,
+  "jsonl_valid": true,
+  "protected_tokens_mismatches": 0,
+  "format_violations": 0,
+  "max_lines": 3,
+  "max_visible_characters_per_line": 48,
+  "notes": [
+    "Japanese furigana annotations removed by translation, game controls kept intact",
+    "BURN and FREEZE not yet translated, pending gameplay puzzle verification",
+    "ROM, font, actual pixel width, and gameplay NOT tested"
+  ],
+  "deferred_manifest": "DEFERRED_SOURCE_80_81.json"
+}
