@@ -1,21 +1,21 @@
 # Ni no Kuni DS — Tiến độ Việt hóa
 
-**05/11/2026 — 69 đợt — 13.162 / 17.935 mục ưu tiên (73,39%). Còn 4.773 mục.**
+**05/11/2026 — 71 đợt — 13.522 / 17.935 mục ưu tiên (75,39%). Còn 4.413 mục.**
 
-Bổ sung **359** bản dịch mới, giữ nguyên **12.803** mục của 67 đợt trước.
+Bổ sung **360 câu**, giữ nguyên **13.162** bản dịch của 69 đợt trước.
 
 | Đợt | Tệp | Đã dịch | Hoãn |
 |---|---|---:|---:|
-| 68 | `translations/dot_68/hoi_thoai_069.jsonl` | 179 | 1 |
-| 69 | `translations/dot_69/hoi_thoai_070.jsonl` | 180 | 0 |
-| **Tổng mới** | | **359** | **1** |
+| 70 | `translations/dot_70/hoi_thoai_071.jsonl` | 180 | 0 |
+| 71 | `translations/dot_71/hoi_thoai_072.jsonl` | 180 | 0 |
+| **Mới** | | **360** | **0** |
 
-**QA dữ liệu:** 13.162 ID duy nhất, JSONL hợp lệ; mã điều khiển/placeholder giữ nguyên. Câu mới ngắt tối đa 3 dòng × 48 ký tự theo phép đếm ký tự; **không bảo đảm vừa ô thoại thật trên NDS**.
+**QA dữ liệu:** Hai tệp JSONL hợp lệ, đúng thứ tự ID nguồn, 360 ID mới không trùng với 13.162 ID cũ, không mất placeholder/mã điều khiển. Ngắt dòng sơ bộ tối đa 3 dòng × 48 ký tự; **chưa kiểm chứng độ rộng theo font thực trên NDS**.
 
-**Kho dịch tay 2024:** 2 dòng nguồn trùng nguyên văn tiếng Anh, chỉ dùng để đối chiếu; không tự nhập đè.
+Kho dịch tay năm 2024 khớp nguyên văn tiếng Anh tại **2 dòng ngắn** ("Exactly!" và "Hey!"); chỉ dùng đối chiếu, không ghi đè tự động.
 
-**Cần rà:** tên phép Hỏa Cầu/Hồi Phục, Sổ Ấn Chú, Lá Cổ Thụ, Hành Lang Thác Nước và cách gọi tu viện trưởng ở Rekka. Xem `CAN_RA_DOT_68_69.md`.
+**Điểm cần rà:** câu đố 7 huy chương Astram (thứ tự và màu sắc), đáp án tiếng Anh `Huge Tower` (đã giữ nguyên ở thoại), tên địa danh và vật phẩm. Xem `CAN_RA_DOT_70_71.md`.
 
-**Chưa thực hiện:** kiểm thử font dấu, giới hạn byte/offset, nhúng ROM, giả lập hoặc máy thật.
+**Chưa làm:** ghép ROM, font có dấu, kiểm tra byte/offset và chơi thật trên máy Nintendo DS/giả lập.
 
-**Tiếp theo:** `hoi_thoai_071–072`. Không nhập đồng thời bản gộp với các tệp rời.
+**Tiếp theo:** `hoi_thoai_073–074`. **Không nhập bản gộp cùng lúc với tệp rời** vì sẽ trùng ID.
