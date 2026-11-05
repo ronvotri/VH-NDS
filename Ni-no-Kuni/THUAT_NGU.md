@@ -535,3 +535,20 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Age of Three Kings | Thời đại Tam Vương | Liên quan Sáo Clarion |
 | Hollowed | Rỗng Tim | Theo thuật ngữ cũ |
 | BE / LL / DA / NA | BE / LL / DA / NA | Mật từ, phải giữ nguyên |
+
+## Bổ sung đợt 68–69 (hoi_thoai_069–070)
+
+| Thuật ngữ gốc | Dịch sử dụng | Ghi chú |
+|---|---|---|
+| Fireball | Hỏa Cầu | Tạm dịch; kiểm tra phép và ấn chú trang 50 |
+| Heal | Hồi Phục | Tạm dịch; kiểm tra phép và ấn chú trang 22 |
+| Imagine Imagen | Triệu Imagen | Ấn chú trang 20, cần xác minh tên đầy đủ |
+| Rune Notes | Sổ Ấn Chú | Nhãn giao diện, cần soát |
+| Black Magic Morel | Nấm Morel Ma Thuật Đen | Theo nhiệm vụ trước |
+| Ancient Leaf | Lá Cổ Thụ | Tên vật phẩm cần đối chiếu |
+| Corridor of Waterfalls | Hành Lang Thác Nước | Chưa rõ có trùng Thác Thì Thầm |
+| Waystone | Lữ Thạch | Thuật ngữ cũ |
+| Picture of the Old Magic War | bức tranh Đại chiến Pháp sư | Theo lời thoại cũ |
+| Abbess | bà tu viện trưởng | Nhân vật Rekka; cần kiểm tra tên Obaba |
+| Faith / Confidence | Niềm Tin / Tự Tin | Hai phẩm chất riêng |
+| Tahmel / Yasmin / Rekka / Boniato | Giữ nguyên | Tên riêng bản DS |
