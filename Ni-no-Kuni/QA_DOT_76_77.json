@@ -1,0 +1,39 @@
+{
+  "project": "Ni no Kuni DS Vietnamese",
+  "date": "2026-11-05",
+  "batch_range": [
+    76,
+    77
+  ],
+  "source_files": [
+    "hoi_thoai_077.jsonl",
+    "hoi_thoai_078.jsonl"
+  ],
+  "source_rows": 360,
+  "translated_new": 360,
+  "deferred": 0,
+  "previous_total": 14241,
+  "current_total": 14601,
+  "priority_total": 17935,
+  "remaining": 3334,
+  "unique_ids": 14601,
+  "duplicate_ids": 0,
+  "jsonl_valid": true,
+  "protected_tokens_mismatches": 0,
+  "max_lines_per_entry": 3,
+  "max_characters_per_line": 48,
+  "format_violations": 0,
+  "exact_source_matches_2024": 2,
+  "manual_review": [
+    "Levitate and Heal spell names in menu",
+    "Pure Harp and three Song spell names",
+    "Crest vs Orb naming in quest items",
+    "Wisdom puzzle must preserve Dog Bird Cow Dragon order"
+  ],
+  "not_tested": [
+    "ROM patch",
+    "Vietnamese fonts",
+    "NDS pixel-width and byte limits",
+    "gameplay"
+  ]
+}
