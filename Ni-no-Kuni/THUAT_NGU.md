@@ -820,3 +820,20 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Frostbite | Frostbite | Theo glossary cũ; cần quyết định tên hiển thị |
 
 **Tên chiêu dịch tạm:** `Codswallop`, `Codswhump`, `Hind Thief`, `Scale`, `Radiation Blaze`, `Holy Father` cần soát với gameplay. Các tên chiêu mới chỉ được kiểm tra độ dài **theo ký tự**, chưa kiểm thử menu ROM.
+
+
+## Nhiệm vụ phụ — Đợt 97–98
+
+| Thuật ngữ nguồn | Bản dịch đợt 97–98 | Ghi chú |
+|---|---|---|
+| The Disappearing Earring | Chiếc Khuyên Tai Biến Mất | Nhiệm vụ DLC |
+| Red Earring | Khuyên Tai Đỏ | Món đồ bị mất |
+| The Cursed Knights Pt.1–3 | Hiệp Sĩ Bị Nguyền Rủa 1–3 | Trong yêu cầu mở khóa, nguồn gọi là *Cursed Soldiers*; phải đối chiếu UI |
+| Lifewood | Gỗ Sinh Mệnh | Giữ thuật ngữ cũ |
+| Lifecense burner | Lư Hương Sinh Mệnh | Giữ thuật ngữ cũ, cần đối chiếu tên vật phẩm |
+| Locket Lock-On | Dò Tim | Giữ thuật ngữ cũ, cần đối chiếu UI |
+| Centree sapling | Mầm Cây Trăm Năm | Dùng ở nhiệm vụ chăm cây |
+| The Mother of Boarg | Thánh Mẫu Boarg | Giữ đúng bảng thuật ngữ cũ |
+| Wanderer | ông Lữ Khách | Chuỗi quest nhiều vùng |
+| Bounty | Truy Nã | Nhãn nhiệm vụ Martin |
+| DLC Quest | Nhiệm vụ DLC | Nhãn giao diện, giữ chú thích cần phá đảo |
