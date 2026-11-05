@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-05",
   "priority_total": 17935,
-  "translated_total": 14601,
-  "remaining": 3334,
-  "ratio": 0.81411,
+  "translated_total": 14831,
+  "remaining": 3104,
+  "ratio": 0.82693,
   "batches": [
     {
       "batch": 1,
@@ -680,8 +680,51 @@
       "deferred": 0,
       "deferred_ids": [],
       "validated": true
+    },
+    {
+      "batch": 78,
+      "done": 178,
+      "repo_file": "translations/dot_78/hoi_thoai_079.jsonl",
+      "deferred": 2,
+      "deferred_ids": [
+        "HOI_d8da3431ac7dc9",
+        "HOI_ebcbfc9a81e176"
+      ],
+      "validated": true
+    },
+    {
+      "batch": 79,
+      "done": 52,
+      "repo_file": "translations/dot_79/hoi_thoai_080.jsonl",
+      "deferred": 23,
+      "deferred_ids": [
+        "HOI_c497b6d799bae4",
+        "HOI_735f816c53bedf",
+        "HOI_4a17140a2c69e3",
+        "HOI_ef6b4afcabfb59",
+        "HOI_a8bfc5ff0d813e",
+        "HOI_d988fcefc348bc",
+        "HOI_c0ab8d61889a28",
+        "HOI_eca1ebae15f169",
+        "HOI_6aabc05603400a",
+        "HOI_ec14c2172e55f9",
+        "HOI_bdc14bba4e25ce",
+        "HOI_30c38982854fec",
+        "HOI_aa992c22643b46",
+        "HOI_ea3c543b9ce479",
+        "HOI_03542d30ed1ce2",
+        "HOI_dddf4e8c2aed52",
+        "HOI_9ab06666c0a212",
+        "HOI_6313fec16fd128",
+        "HOI_887758e8663958",
+        "HOI_275f2d31df21a9",
+        "HOI_133c48cf4c3ac0",
+        "HOI_98669f97674536",
+        "HOI_b331149b02d2b7"
+      ],
+      "validated": true
     }
   ],
-  "qa": "14,601 unique IDs, JSONL valid, source order and protected markers preserved in dialogues 077–078; translation line formatting max 3 lines × 48 characters. NDS ROM/font/pixel-width/gameplay not tested.",
-  "notes": "360 câu mới đợt 72–73 (`hoi_thoai_073–074`); không có nhãn hoãn. Giữ nguyên 13.522 bản dịch cũ. Cần rà biến thể tên Aylie/Airi trong nguồn, tên vật phẩm Băng Ngàn Năm/Nước Ngàn Năm và câu hỏi trắc nghiệm về địa danh. Chưa nhúng ROM. Đợt 74–75 thêm 359 câu từ hoi_thoai_075–076, hoãn 1 nhãn Recipe Collecting NPC (temp). Tên Cat Killer, Purrsian Post cần xác minh UI. Đợt 76–77 thêm 360 câu từ hoi_thoai_077–078, không hoãn. Hai câu trùng nguyên văn với bản dịch tay 2024; giữ thuật ngữ Lữ Thạch, Sách Pháp Thuật, Hồi Phục, Cống Imagen. Cần rà tên phép Bay Lơ Lửng và mục Hạc Cầm Thuần Khiết trong UI."
+  "qa": "14,831 unique IDs. New dialogue 079-080: 230 translated; 25 deferred (2 malformed control strings, 23 unreadable/corrupt source rows). JSONL, protected tokens and 3x48 character check passed for new entries. ROM/font/layout untested.",
+  "notes": "360 câu mới đợt 72–73 (`hoi_thoai_073–074`); không có nhãn hoãn. Giữ nguyên 13.522 bản dịch cũ. Cần rà biến thể tên Aylie/Airi trong nguồn, tên vật phẩm Băng Ngàn Năm/Nước Ngàn Năm và câu hỏi trắc nghiệm về địa danh. Chưa nhúng ROM. Đợt 74–75 thêm 359 câu từ hoi_thoai_075–076, hoãn 1 nhãn Recipe Collecting NPC (temp). Tên Cat Killer, Purrsian Post cần xác minh UI. Đợt 76–77 thêm 360 câu từ hoi_thoai_077–078, không hoãn. Hai câu trùng nguyên văn với bản dịch tay 2024; giữ thuật ngữ Lữ Thạch, Sách Pháp Thuật, Hồi Phục, Cống Imagen. Cần rà tên phép Bay Lơ Lửng và mục Hạc Cầm Thuần Khiết trong UI. Đợt 78–79 dịch thêm 230 câu từ hoi_thoai_079–080; 080 là tệp hội thoại cuối gói nguồn, 75 dòng (52 câu đọc được, 23 dòng hỏng); 079 có 2 lỗi mã chờ rà. Không tự dựng bản dịch cho chuỗi hỏng."
 }
