@@ -1,19 +1,16 @@
 # Ni no Kuni DS — Việt hóa Votri Valley
 
-**Checkpoint 05/11/2026: 14.831/17.935 mục ưu tiên (82,69%) qua 79 đợt.**
+**Checkpoint 05/11/2026: 15.046/17.935 mục ưu tiên (83,89%), qua 81 đợt.**
 
-Mới dịch `hoi_thoai_079–080`: **230 câu** từ 255 dòng nguồn. **25 dòng bất thường hoãn** để tránh hỏng mã hoặc dịch nhầm; giữ nguyên **14.601 câu** trước.
+Mới dịch `lua_chon_thong_bao_001` (**157 câu**) và `lua_chon_thong_bao_003` (**58 câu**). Giữ nguyên 14.831 câu cũ; 55 mục còn hoãn để tránh đưa dữ liệu lỗi hoặc phá đáp án câu đố vào bản dịch.
 
-- `translations/dot_*/`: JSONL từng đợt theo ID gốc.
-- `TIEN_DO.md` và `TIEN_DO.json`: thống kê và lịch sử.
-- `THUAT_NGU.md`: quy tắc thuật ngữ, ngôi xưng.
-- `QA_DOT_78_79.json` và `CAN_RA_DOT_78_79.md`: QA và điểm cần kiểm tra.
-- `DEFERRED_SOURCE_079_080.json`: nguyên văn 25 dòng nguồn lỗi, chưa dịch.
+- `translations/dot_*/`: JSONL từng đợt, giữ ID gốc.
+- `TIEN_DO.json` / `TIEN_DO.md`: tiến độ và lịch sử.
+- `THUAT_NGU.md`: thuật ngữ và giọng thoại.
+- `QA_DOT_80_81.json`, `CAN_RA_DOT_80_81.md`: kiểm tra mới.
+- `DEFERRED_SOURCE_80_81.json`: 55 vị trí/ID nguồn cần rà.
+- `KE_HOACH_TIEP_THEO.md`: kế hoạch dịch phần còn lại.
 
-**Gói nguồn hiện có chỉ đến `hoi_thoai_080`** (tệp cuối có 75 dòng). Cần chuyển sang nhóm dữ liệu khác hoặc trích xuất lại để tiếp tục, không tự tạo tệp 081.
+Bản gộp `BAN_DICH_GOP_DOT_01_81.jsonl` nằm **trong ZIP checkpoint bàn giao**, không nhập đồng thời với các tệp rời. Kho dịch tay 2024 chỉ dùng đối chiếu.
 
-Bản dịch tay 2024 chỉ dùng đối chiếu, không chép đè tự động. **Chưa nhập ROM hoặc kiểm thử font tiếng Việt và giao diện trên NDS.**
-
-Bản gộp `BAN_DICH_GOP_DOT_01_79.jsonl` chỉ ở ZIP, **không nhập cùng các JSONL rời**.
-
-Dự án nằm trong `Ni-no-Kuni/` của repo chung `VH-NDS`, tách riêng Pokémon Dash.
+**Chưa ghép ROM hoặc kiểm thử font/ô thoại NDS.** Dự án ở thư mục `Ni-no-Kuni/` trong repo `VH-NDS`, tách biệt Pokémon Dash.
