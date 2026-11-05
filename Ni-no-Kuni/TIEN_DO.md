@@ -1,21 +1,21 @@
 # Ni no Kuni DS — Tiến độ Việt hóa
 
-**05/11/2026 — 75 đợt — 14.241/17.935 mục ưu tiên (79,40%). Còn 3.694 mục.**
+**05/11/2026 — 77 đợt — 14.601/17.935 mục ưu tiên (81.41%). Còn 3.334 mục.**
 
-Giữ nguyên **13.882 câu** từ 73 đợt trước; bổ sung **359 câu** mới trong hai tệp:
+Giữ nguyên **14.241 bản dịch** cũ, bổ sung **360 câu** từ hai tệp nguồn kế tiếp.
 
-| Đợt | Tệp | Nguồn | Dịch | Hoãn |
-|---|---|---:|---:|---:|
-| 74 | `translations/dot_74/hoi_thoai_075.jsonl` | 180 | 179 | 1 |
-| 75 | `translations/dot_75/hoi_thoai_076.jsonl` | 180 | 180 | 0 |
-| **Tổng mới** | | **360** | **359** | **1** |
+| Đợt | Tệp nguồn | Đã dịch | Hoãn |
+|---|---|---:|---:|
+| 76 | `translations/dot_76/hoi_thoai_077.jsonl` | 180 | 0 |
+| 77 | `translations/dot_77/hoi_thoai_078.jsonl` | 180 | 0 |
+| **Mới** | | **360** | **0** |
 
-**QA dữ liệu:** JSONL hợp lệ; 14.241 ID không trùng; mã điều khiển nguồn được giữ; không vượt giới hạn ngắt dòng sơ bộ 3 dòng × 48 ký tự. Chưa chứng minh vừa ô thoại NDS.
+Kiểm tra: JSONL hợp lệ; đủ 77 tệp dịch, **14.601 ID duy nhất**; không trùng với kho cũ, không mất mã màu/placeholder. Giới hạn ngắt dòng **tối đa 3 dòng × 48 ký tự** theo cách đếm sơ bộ, **chưa chứng minh vừa màn hình NDS**.
 
-**Hoãn:** `hoi_thoai_075` dòng 33 là nhãn nội bộ `Recipe Collecting NPC / Before Recipe Collection (temp)`. Không chèn vào lời thoại game.
+Bản dịch tay 2024 có **2 câu trùng nguyên văn nguồn** trong hai đợt này: `Of course.` và `Idiots!`; đã đối chiếu nhưng không ghi đè tự động.
 
-Xem `QA_DOT_74_75.json` và `CAN_RA_DOT_74_75.md` về thuật ngữ cần kiểm thử.
+**Cần rà:** tên phép `Levitate` → `Bay Lơ Lửng` (Sách Pháp Thuật trang 28), `Pure Harp` → `Hạc Cầm Thuần Khiết`, tên ba khúc ca thuần hóa, `Crest` → `Huy Hiệu` và `Orb` → `Ngọc Cầu`, cùng thứ tự giải đố **Chó → Chim → Bò → Rồng**. Chi tiết ở `CAN_RA_DOT_76_77.md`.
 
-**Chưa làm:** ghép ROM, kiểm tra font Việt có dấu, giới hạn byte, hiển thị hoặc chơi thật trên NDS.
+**Chưa làm:** Nhúng lại ROM, font dấu tiếng Việt, giới hạn byte/độ rộng pixel, chạy giả lập hoặc phần cứng Nintendo DS.
 
-**Tiếp theo:** `hoi_thoai_077–078`. Không nhập chung bản gộp với các tệp rời.
+**Tiếp theo:** `hoi_thoai_079–080`. Không nhập đồng thời bản gộp trong ZIP và bản rời.
