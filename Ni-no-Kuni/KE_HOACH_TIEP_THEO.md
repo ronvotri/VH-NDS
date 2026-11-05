@@ -1,17 +1,15 @@
-# Những nhóm chưa dịch sau đợt 79 — Ni no Kuni DS
+# Kế hoạch tiếp theo — Ni no Kuni DS
 
-Mốc 05/11/2026: đã dịch **14.831/17.935 mục ưu tiên**; còn **3.104 mục ưu tiên**. Đối chiếu toàn bộ ID trong gói nguồn với 79 tệp JSONL checkpoint.
+**Sau đợt 81 (05/11/2026): 15.046/17.935 mục ưu tiên, còn 2.889 mục.**
 
-| Nhóm nguồn | Mục chưa dịch | Gợi ý xử lý |
+| Nhóm nguồn chưa dịch | Số mục | Hướng xử lý |
 |---|---:|---|
-| `vat_pham_ky_nang_*` | **2.540** | Dịch tên/mô tả vật phẩm và kỹ năng; rà chiều rộng UI |
-| `lua_chon_thong_bao_*` | **270** | Dịch nút chọn và thông báo; ưu tiên màn hình hiển thị |
-| `nhiem_vu_phu_*` | **236** | Dịch tên nhiệm vụ, yêu cầu và phần thưởng |
-| `hoi_thoai_*` | **58** | Các dòng đã hoãn do là dữ liệu thử nghiệm/mã hỏng; không đoán |
-| **Tổng ưu tiên** | **3.104** | |
+| `vat_pham_ky_nang_*` | **2.540** | Dịch từ `vat_pham_ky_nang_001`, kiểm tra tên/mô tả và chiều rộng UI |
+| `nhiem_vu_phu_*` | **236** | Làm tiếp phần 002–003, đồng bộ tên quest với menu |
+| `lua_chon_thong_bao_*` | **55** | Phải rà các chuỗi lỗi, debug và BURN/FREEZE có thể liên quan giải đố |
+| `hoi_thoai_*` | **58** | Chỉ các câu nguồn bị hoãn; rà trích xuất/không tự suy đoán |
+| **Tổng ưu tiên** | **2.889** | |
 
-Ngoài tập ưu tiên còn **1.860 mục `ten_rieng_tuy_chon_*`** (tên loài/nhân vật). Không tính chúng trong mẫu số 17.935, nhưng vẫn phải rà khi tuyên bố hoàn tất Việt hóa toàn game; một số tên nên giữ nguyên.
+Đã dịch `lua_chon_thong_bao_002` ở đợt 01 và thêm 215 mục hợp lệ từ phần 001/003 ở đợt 80–81. Danh sách 55 mục hoãn nằm ở `DEFERRED_SOURCE_80_81.json`.
 
-Gói nguồn chỉ có `hoi_thoai_001–080`; tệp cuối 75 dòng. **Không có `hoi_thoai_081` trong gói.** Đợt tiếp theo nên chuyển sang `lua_chon_thong_bao_001` và/hoặc `vat_pham_ky_nang_001`, rồi hoàn thiện nhiệm vụ phụ.
-
-Đây là kiểm tra độ phủ theo ID, **không phải xác nhận ghép ROM hay chạy được trên NDS**.
+Ngoài tập ưu tiên có **1.860 tên riêng tùy chọn**; chữ trong ảnh và dữ liệu chưa trích xuất cũng chưa kiểm tra. Tỷ lệ trên chỉ thể hiện **độ phủ dữ liệu**, không phải bản ROM đã hoàn chỉnh.
