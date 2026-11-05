@@ -1,7 +1,10 @@
-# Kế hoạch Ni no Kuni DS sau đợt 89
+# Kế hoạch tiếp theo — Ni no Kuni DS
 
-Đã dịch **16.426/17.935 mục ưu tiên (91,59%)**, còn **1.509 mục**.
+**Sau đợt 91 (06/11/2026): đã dịch 16.786 / 17.935 mục ưu tiên; còn 1.149 mục (6,41%).**
 
-Tiếp tục với `vat_pham_ky_nang_009–010` và những tệp vật phẩm/kỹ năng còn lại. Sau đó xử lý nhiệm vụ phụ chưa dịch và các mục nguồn hoãn trong `hoi_thoai_*`, `lua_chon_thong_bao_*`, `vat_pham_ky_nang_001`.
+- Dịch tiếp các tệp `vat_pham_ky_nang_011` trở đi theo nguồn, đối chiếu tên và mô tả với các danh mục trang bị.
+- Dịch `nhiem_vu_phu_*` còn thiếu (236 mục theo kiểm kê trước), đồng bộ thuật ngữ nhiệm vụ.
+- Rà 55 lựa chọn/thông báo và 58 hội thoại bị hoãn; **không dịch các chuỗi nhị phân bị hỏng hoặc mã câu đố khi chưa xác minh**.
+- Ngoài 17.935 mục ưu tiên còn 1.860 tên tùy chọn; cần kiểm tra glyph trong ảnh, nhúng ROM và chơi thử trước khi phát hành.
 
-Ngoài tập ưu tiên có khoảng 1.860 tên riêng tùy chọn; chữ trong hình và dữ liệu trích xuất thiếu cũng cần rà. Trước phát hành phải nhúng ROM, xác minh font có dấu/độ rộng hiển thị và kiểm thử giả lập/NDS.
+Dựa trên kiểm kê sau đợt 89; hãy kiểm lại toàn bộ ID nguồn sau khi dịch xong các danh mục để tránh đếm trùng.
