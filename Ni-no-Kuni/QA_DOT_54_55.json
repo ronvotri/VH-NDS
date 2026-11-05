@@ -1,0 +1,49 @@
+{
+  "project": "Ni no Kuni DS (Vietnamese)",
+  "date": "2026-11-05",
+  "batches": [
+    54,
+    55
+  ],
+  "source_files": [
+    "hoi_thoai_055.jsonl",
+    "hoi_thoai_056.jsonl"
+  ],
+  "batch_counts": {
+    "54": 180,
+    "55": 180
+  },
+  "new_translated": 360,
+  "total_translated": 10659,
+  "priority_total": 17935,
+  "remaining": 7276,
+  "translation_ratio": 0.59431,
+  "jsonl_invalid": 0,
+  "duplicate_ids_new": 0,
+  "duplicate_ids_with_previous": 0,
+  "protected_token_mismatches": 0,
+  "max_lines_allowed": 3,
+  "max_visible_chars_per_line_allowed": 48,
+  "layout_preliminary_violations": 0,
+  "source_editorial_notes_excluded": {
+    "hoi_thoai_055": [
+      124,
+      125,
+      128,
+      129,
+      147,
+      148
+    ]
+  },
+  "manual_2024_exact_english_source_matches": {
+    "hoi_thoai_055": 0,
+    "hoi_thoai_056": 0
+  },
+  "manual_review": [
+    "4 spell names Cloudburst, Thunderstorm, Quake, Fortune’s Fool require matching spell UI and Magic Master pages 48,49,57,45.",
+    "Medallion, red letter, Astram riddle must be validated against exact in-game answer and manual illustrations.",
+    "Chapter One/Two color examples must match the printed book.",
+    "The 6 English NOTE editorial annotations were excluded from player-visible translations; do not mistake them for gameplay dialogue.",
+    "No ROM rebuilding, font installation, byte-limit or emulator testing performed."
+  ]
+}
