@@ -1,18 +1,14 @@
 # Ni no Kuni DS — Tiến độ Việt hóa
 
-**05/11/2026 — 89 đợt — 16.426/17.935 mục ưu tiên (91,59%), còn 1.509 mục.**
+**06/11/2026 — 91 đợt — 16.786 / 17.935 mục ưu tiên (93,59%). Còn 1.149 mục.**
 
-Đợt 88–89 bổ sung **360 mục** từ `vat_pham_ky_nang_007–008`, bảo toàn **16.066 mục** đã dịch trước đó.
+Đã dịch thêm **360 mục** từ `vat_pham_ky_nang_009` và `010`; giữ nguyên toàn bộ 16.426 bản dịch trước.
 
-| Đợt | Tệp | Đã dịch | Hoãn |
+| Đợt | Tệp | Số mục | Hoãn |
 |---|---|---:|---:|
-| 88 | `vat_pham_ky_nang_007.jsonl` | 180 | 0 |
-| 89 | `vat_pham_ky_nang_008.jsonl` | 180 | 0 |
+| 90 | `translations/dot_90/vat_pham_ky_nang_009.jsonl` | 180 | 0 |
+| 91 | `translations/dot_91/vat_pham_ky_nang_010.jsonl` | 180 | 0 |
 
-Nội dung: mô tả kiếm, dao, rìu, búa, thương, nanh vuốt, áo giáp, trang phục, khiên, mũ, vảy, áo choàng, vòng tay, vé sòng bạc và hiệu ứng chiến đấu. Giữ tên Babanacia, Catnap, Boarg, Altena, Coconanda và mã HP/MP.
+**QA:** Kiểm tra JSONL, thứ tự nguồn, bảo toàn dấu xuống dòng, mã điều khiển, ID duy nhất, tối đa 3 dòng × 48 ký tự. Cần đo thực tế theo chiều rộng font NDS.
 
-**QA:** 360 ID mới khớp tệp nguồn theo thứ tự, không trùng 16.066 ID cũ; JSONL hợp lệ, không mất mã điều khiển, tối đa 3 dòng × 48 ký tự Unicode sau ngắt dòng sơ bộ. **Chưa kiểm tra độ rộng pixel, byte, font NDS, chưa ghép ROM hay thử game.**
-
-Những tên hệ Imagen (Gnome, Pixie, Beast, Riddle, Wild) và các hiệu ứng hồi sinh/hồi HP khi chết cần đối chiếu bản tiếng Anh trong giao diện. Xem `CAN_RA_DOT_88_89.md`.
-
-Bản gộp trong ZIP chỉ để bàn giao, **không nhập cùng các tệp rời**.
+**Chưa làm:** đóng bản patch ROM, Việt hóa chữ trong ảnh, thử trong máy giả lập/máy thật; soát chính xác một số tên vật phẩm và hiệu ứng còn mơ hồ. Xem `CAN_RA_DOT_90_91.md`.
