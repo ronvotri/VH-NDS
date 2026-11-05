@@ -487,7 +487,6 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Hardwood | Gỗ Cứng | Vật liệu sửa tàu Alec |
 | Love / Courage / Ambition / Faith | Tình Yêu / Can Đảm / Hoài Bão / Niềm Tin | Mảnh Tim, không hoán đổi |
 
-
 ## Bổ sung đợt 62–63
 
 | Từ gốc | Việt hóa | Ghi chú |
@@ -504,51 +503,69 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 
 | Tiếng Anh | Tiếng Việt | Ghi chú |
 |---|---|---|
-| Fountain of Life | Suối Nguồn Sự Sống | Kiểm tra nhãn bản đồ/UI |
-| Morel Forest | Rừng Morel | Theo thuật ngữ cũ |
-| Harvest Forest | Rừng Mùa Màng | Kiểm tra bản đồ |
-| Nature's Tongue | Tiếng Nói Thiên Nhiên | Phép trò chuyện với cây, trang 32 |
-| Power of Life | Sức Mạnh Sự Sống | Nguồn gốc Imagen |
+| Fountain of Life | Suối Nguồn Sự Sống | Chờ kiểm tra tên trên bản đồ/UI |
+| Morel Forest | Rừng Morel | Đã dùng trước |
+| Harvest Forest | Rừng Mùa Màng | Chờ kiểm tra bản đồ |
+| Nature's Tongue | Tiếng Nói Thiên Nhiên | Phép giao tiếp với hoa, sách trang 32 |
+| Power of Life | Sức Mạnh Sự Sống | Lời thoại về nguồn gốc Imagen |
 | Guardian of the Forest | Hộ Vệ Rừng | Imagen bảo vệ khu vực |
-| Dungeon Synthesis | Ghép Hầm Ngục | Chức năng Tháp Moya, cần kiểm thử UI |
+| Dungeon Synthesis | Ghép Hầm Ngục | Nhãn chức năng Tháp Moya cần kiểm thử UI |
 | Synth Dungeon | Hầm Ngục Ghép | Danh từ khu vực |
-| Shuffle | Đảo Lại | Tên menu tạm, cần kiểm thử |
-| Synthesis | Ghép / Ghép Đồ | Theo thuật ngữ Nồi Ghép |
-| Astra | Astra | Tên phép, giữ nguyên |
-| Forsaken Idol | Thần Tượng Bị Ruồng Bỏ | Tên boss tạm dịch |
-| Majeel / Majell | Majeel | Nguồn không thống nhất; cần đối chiếu |
+| Shuffle | Đảo Lại | Nhãn menu tạm dịch, cần kiểm thử |
+| Synthesis | Ghép / Ghép Đồ | Xem thuật ngữ Nồi Ghép cũ |
+| Astra | Astra | Phép bị phong ấn, giữ nguyên |
+| Forsaken Idol | Thần Tượng Bị Ruồng Bỏ | Tên/biệt danh boss, cần soát |
+| Majeel / Majell | Majeel | Nguồn có hai cách viết; cần đối chiếu tên riêng |
 
 ## Bổ sung đợt 66–67
 
 | Tiếng Anh | Tiếng Việt | Ghi chú |
 |---|---|---|
-| Puppet Strings | Dây Điều Khiển | Phép di chuyển tượng; kiểm tra tên UI |
-| Magic Lamp | Đèn Ma Thuật | Phép thắp sáng, trang 31 |
-| Spring Lock | Mở Khóa | Theo thuật ngữ đợt 56–57 |
-| Waystone | Lữ Thạch | Điểm hồi phục/lưu trò chơi, đối chiếu dịch tay 2024 |
-| Tahmel | Tahmel | Hoàng tử Ếch; tên riêng |
-| Yasmin | Yasmin | Tên công chúa |
-| Nachelnacht | Nachelnacht | Vương quốc, chờ xem bản đồ |
-| General Faraja | Tướng Faraja | Rắn khổng lồ |
-| Castle Arcano | Thành Arcano | Chờ kiểm tra địa danh |
+| Puppet Strings | Dây Điều Khiển | Phép di chuyển tượng, cần đối chiếu tên menu |
+| Magic Lamp | Đèn Ma Thuật | Phép thắp sáng, trang 31, cần đối chiếu tên UI |
+| Spring Lock | Mở Khóa | Theo đợt 56–57 |
+| Waystone | Lữ Thạch | Điểm hồi phục/lưu game; bản dịch tay 2024 dùng tương tự |
+| Tahmel | Tahmel | Hoàng tử Ếch, giữ tên DS |
+| Yasmin | Yasmin | Công chúa, giữ tên riêng |
+| Nachelnacht | Nachelnacht | Vương quốc, chờ kiểm tra bản đồ |
+| General Faraja | Tướng Faraja | Rắn khổng lồ trong truyện |
+| Castle Arcano | Thành Arcano | Chờ kiểm tra tên bản đồ |
 | Pure-Hearted One | Người Mang Trái Tim Thuần Khiết | Danh hiệu Oliver |
 | Age of Three Kings | Thời đại Tam Vương | Liên quan Sáo Clarion |
-| Hollowed | Rỗng Tim | Theo thuật ngữ cũ |
-| BE / LL / DA / NA | BE / LL / DA / NA | Mật từ, phải giữ nguyên |
+| Hollowed | Rỗng Tim | Giữ nhất quán |
+| BE / LL / DA / NA | BE / LL / DA / NA | Mật từ 4 âm, không dịch |
+
 
 ## Bổ sung đợt 68–69 (hoi_thoai_069–070)
 
 | Thuật ngữ gốc | Dịch sử dụng | Ghi chú |
 |---|---|---|
-| Fireball | Hỏa Cầu | Tạm dịch; kiểm tra phép và ấn chú trang 50 |
-| Heal | Hồi Phục | Tạm dịch; kiểm tra phép và ấn chú trang 22 |
-| Imagine Imagen | Triệu Imagen | Ấn chú trang 20, cần xác minh tên đầy đủ |
-| Rune Notes | Sổ Ấn Chú | Nhãn giao diện, cần soát |
-| Black Magic Morel | Nấm Morel Ma Thuật Đen | Theo nhiệm vụ trước |
-| Ancient Leaf | Lá Cổ Thụ | Tên vật phẩm cần đối chiếu |
-| Corridor of Waterfalls | Hành Lang Thác Nước | Chưa rõ có trùng Thác Thì Thầm |
-| Waystone | Lữ Thạch | Thuật ngữ cũ |
-| Picture of the Old Magic War | bức tranh Đại chiến Pháp sư | Theo lời thoại cũ |
-| Abbess | bà tu viện trưởng | Nhân vật Rekka; cần kiểm tra tên Obaba |
-| Faith / Confidence | Niềm Tin / Tự Tin | Hai phẩm chất riêng |
+| Fireball | Hỏa Cầu | Tên phép tạm, cần kiểm tra menu và ấn chú trang 50 |
+| Heal | Hồi Phục | Tên phép tạm, cần kiểm tra menu và ấn chú trang 22 |
+| Imagine Imagen | Triệu Imagen | Tên ấn chú trang 20, cần đối chiếu tên đầy đủ |
+| Rune Notes | Sổ Ấn Chú | Nhãn giao diện cạnh biểu tượng đũa phép, cần kiểm tra kích thước |
+| Black Magic Morel | Nấm Morel Ma Thuật Đen | Đồng bộ nhiệm vụ cũ |
+| Ancient Leaf | Lá Cổ Thụ | Tên vật phẩm, cần kiểm tra UI |
+| Corridor of Waterfalls | Hành Lang Thác Nước | Chưa xác nhận có đồng nhất Thác Thì Thầm hay không |
+| Waystone | Lữ Thạch | Theo bản dịch cũ |
+| Picture of the Old Magic War | bức tranh Đại chiến Pháp sư | Đồng bộ câu cũ |
+| Abbess | bà tu viện trưởng | Nhân vật Rekka, cần kiểm tra tên Obaba |
+| Faith / Confidence | Niềm Tin / Tự Tin | Giữ phân biệt hai phẩm chất |
 | Tahmel / Yasmin / Rekka / Boniato | Giữ nguyên | Tên riêng bản DS |
+
+## Bổ sung đợt 70–71
+
+| Nguồn | Việt hóa | Lưu ý |
+|---|---|---|
+| Savior | Đấng Cứu Thế | Trong bối cảnh dân Rekka tôn thờ Jabou; tránh coi đó là sự thật khách quan |
+| Abbess Obaba | Tu viện trưởng Obaba | Giữ tên riêng; đại từ theo ngữ cảnh |
+| Aylie | Aylie | Tên riêng bé gái ở Rekka |
+| Hollowed | Rỗng Tim | Giữ thuật ngữ đã thống nhất, kể cả khi được gọi là "phước lành" |
+| Kindness / Faith / Love / Confidence | Nhân Ái / Niềm Tin / Tình Yêu / Tự Tin | Không đánh đồng các Mảnh Tim |
+| Tail Wrestling | Đấu Đuôi | Đã dùng trong các đợt trước |
+| Corpse Lake | Hồ Tử Thi | Dùng tên đã thống nhất |
+| Misleading Miasma | Chướng Khí Lạc Lối | Dùng tên đã thống nhất |
+| Clarion | Sáo Clarion | Không đổi thành "tù và" |
+| Magic Master | Sách Pháp Thuật | Giữ ngữ cảnh giải mật mã |
+| Huge Tower | Huge Tower (tòa tháp khổng lồ) | **Giữ cụm tiếng Anh** ở phần giải đố Astram; không tự thay đáp án nhập |
+| Synthesis Recipe | Công Thức Ghép Đồ | Cần kiểm tra nhãn mục Công Thức trong UI |
