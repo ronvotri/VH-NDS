@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-05",
   "priority_total": 17935,
-  "translated_total": 16066,
-  "remaining": 1869,
-  "ratio": 0.89579,
+  "translated_total": 16426,
+  "remaining": 1509,
+  "ratio": 0.91586,
   "batches": [
     {
       "batch": 1,
@@ -846,8 +846,24 @@
       "deferred": 0,
       "deferred_ids": [],
       "validated": true
+    },
+    {
+      "batch": 88,
+      "done": 180,
+      "repo_file": "translations/dot_88/vat_pham_ky_nang_007.jsonl",
+      "deferred": 0,
+      "deferred_ids": [],
+      "validated": true
+    },
+    {
+      "batch": 89,
+      "done": 180,
+      "repo_file": "translations/dot_89/vat_pham_ky_nang_008.jsonl",
+      "deferred": 0,
+      "deferred_ids": [],
+      "validated": true
     }
   ],
-  "qa": "Checkpoint through batch 87: 16,066 unique IDs. 360 new entries from item/equipment sourcing and item effects; valid JSONL, original source IDs, preserved tokens, preliminary 3x48 character format. ROM/font/UI tests pending.",
-  "notes": "Dữ liệu 15.373/17.935. Đợt 82-83: +327 mô tả Imagen/địa danh từ vat_pham_ky_nang_001-002. Một dòng nguồn Missing number đã hoãn, xem DEFERRED_SOURCE_82.json. Bản gộp trong ZIP không nhập cùng tệp rời. Chưa chèn ROM/kiểm thử NDS. Đợt 84-85: thêm 333 mục từ vat_pham_ky_nang_003-004, gồm mô tả Imagen và trang bị, đã soát kỹ thuật; cần kiểm tra một câu nguồn bị cụt (ID VAT_59fc215d13cd8a) và một số tên vật phẩm trên NDS. Đợt 86-87 thêm 360 mục vat_pham_ky_nang_005-006 (tên trang bị, nguồn nhặt, thức ăn, hiệu ứng và mô tả vật phẩm); thông số HP/MP, tên Imagen giữ nguyên. Cần xem QA_DOT_86_87.json trước khi nhập ROM."
+  "qa": "Checkpoint through batch 89: 16,426 unique translated IDs; 360 new equipment and ability descriptions; JSONL/ID/source alignment/control-token and preliminary 3x48 Unicode character QA pass. No NDS ROM or font/UI validation.",
+  "notes": "Dữ liệu 15.373/17.935. Đợt 82-83: +327 mô tả Imagen/địa danh từ vat_pham_ky_nang_001-002. Một dòng nguồn Missing number đã hoãn, xem DEFERRED_SOURCE_82.json. Bản gộp trong ZIP không nhập cùng tệp rời. Chưa chèn ROM/kiểm thử NDS. Đợt 84-85: thêm 333 mục từ vat_pham_ky_nang_003-004, gồm mô tả Imagen và trang bị, đã soát kỹ thuật; cần kiểm tra một câu nguồn bị cụt (ID VAT_59fc215d13cd8a) và một số tên vật phẩm trên NDS. Đợt 86-87 thêm 360 mục vat_pham_ky_nang_005-006 (tên trang bị, nguồn nhặt, thức ăn, hiệu ứng và mô tả vật phẩm); thông số HP/MP, tên Imagen giữ nguyên. Cần xem QA_DOT_86_87.json trước khi nhập ROM. Đợt 88-89 thêm 360 mô tả vũ khí, giáp, khiên, trang phục, vòng tay và nhãn hiệu ứng từ vat_pham_ky_nang_007-008. Không có dòng hoãn, cần rà thuật ngữ hệ/tình trạng trên menu game, và cơ chế hồi HP/MP khi chết."
 }
