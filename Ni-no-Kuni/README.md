@@ -1,13 +1,13 @@
 # Ni no Kuni DS — Việt hóa Votri Valley
 
-**Checkpoint 05/11/2026: 11.364/17.935 mục ưu tiên (63,36%) qua 59 đợt.**
+**Mốc 05/11/2026: 12.083/17.935 mục ưu tiên (67,37%) qua 63 đợt.** Mới xử lý `hoi_thoai_063–064` (359 câu dịch, 1 nhãn `Temp text` hoãn), giữ nguyên 11.724 ID trước đó.
 
-Mới thêm `hoi_thoai_059–060`: **351 câu dịch**, **9 nhãn thử nghiệm hoãn**, giữ nguyên 11.013 mục cũ. Toàn bộ dưới thư mục `Ni-no-Kuni/` của repo VH-NDS, không đụng Pokémon Dash.
+- `translations/dot_*/`: JSONL riêng từng đợt theo ID gốc, giữ mã điều khiển.
+- [TIEN_DO.md](TIEN_DO.md), [TIEN_DO.json](TIEN_DO.json): bảng tiến độ mới nhất.
+- [THUAT_NGU.md](THUAT_NGU.md): thuật ngữ và xưng hô nhất quán.
+- [QA_DOT_62_63.json](QA_DOT_62_63.json), [CAN_RA_DOT_62_63.md](CAN_RA_DOT_62_63.md): QA và điểm cần đối chiếu.
+- [QA_DOT_60_61.json](QA_DOT_60_61.json), [CAN_RA_DOT_60_61.md](CAN_RA_DOT_60_61.md): báo cáo đợt trước được giữ nguyên.
 
-- `translations/dot_*/`: các file JSONL riêng theo ID.
-- `BAN_DICH_GOP_DOT_01_59.jsonl`: bản gộp **11.364 mục** chỉ trong ZIP, không nhập cùng tệp rời.
-- `TIEN_DO.md`, `TIEN_DO.json`: tiến độ và danh mục đợt.
-- `THUAT_NGU.md`: tên riêng, phép, ngôi xưng.
-- `QA_DOT_58_59.json`, `CAN_RA_DOT_58_59.md`: kiểm tra và các mục hoãn.
+Bản dịch tay 2024 chỉ để đối chiếu, không chép đè tự động lên kịch bản DS. **Chưa nhúng ROM, kiểm thử font tiếng Việt hoặc giao diện Nintendo DS.**
 
-**Chưa nhúng ROM / kiểm thử font tiếng Việt, giới hạn byte, bố cục ô thoại hoặc giả lập NDS.**
+Thư mục `Ni-no-Kuni/` của repo chung `VH-NDS` tách biệt Pokémon Dash. Gói ZIP checkpoint có bản gộp 12.083 ID; **không nhập đồng thời bản gộp và các tệp rời.**
