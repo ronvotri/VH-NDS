@@ -630,39 +630,61 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Tiếng Anh | Việt hóa | Lưu ý |
 |---|---|---|
 | Power of Song | Sức Mạnh Ca Khúc | Cần so tên tính năng trong giao diện |
-| Song of the Sea / Sky / Earth | Khúc Ca Biển / Trời / Đất | Theo bản dịch trước |
+| Song of the Sea / Sky / Earth | Khúc Ca Biển / Trời / Đất | Đồng bộ với bản dịch trước |
 | Raising | Chăm Nuôi | Tên chức năng, cần đo UI |
-| Rebirth / Rebirth Drop | Chuyển Sinh / Giọt Chuyển Sinh | Kiểm tra tên vật phẩm |
+| Rebirth / Rebirth Drop | Chuyển Sinh / Giọt Chuyển Sinh | Kiểm tra tên vật phẩm trong game |
 | Nice point | Điểm Nice | Giữ Nice vì có thể là chỉ số UI |
-| Imagen Carrying Cage | Lồng Mang Imagen | Theo thuật ngữ trước |
-| Imagen Manhole | Cống Imagen | Theo thuật ngữ trước, cần rà nhãn |
-| Current Party Member | Đang ở trong đội | Nhãn hướng dẫn |
-| Battle Request | Gửi Lời Mời Đấu | Nhãn không dây cần so UI |
-| View Request List | Xem Danh Sách Lời Mời/Yêu Cầu | Tùy ngữ cảnh đấu/trao đổi |
-| Exchange | Trao Đổi | Mục Không Dây |
-| Download Quests/Items/Recipes | Nhiệm Vụ/Vật Phẩm/Công Thức Tải Về | Hai dòng mã hỏng đã hoãn |
+| Imagen Carrying Cage | Lồng Mang Imagen | Theo thuật ngữ cũ |
+| Imagen Manhole | Cống Imagen | Theo thuật ngữ cũ, cần rà tên menu |
+| Current Party Member | Đang ở trong đội | Nhãn hướng dẫn, cần so UI |
+| Battle Request | Gửi Lời Mời Đấu | Nhãn mạng không dây, kiểm tra UI |
+| View Request List | Xem Danh Sách Lời Mời/Yêu Cầu | Tùy ngữ cảnh Đấu Trận/Trao Đổi, cần UI QA |
+| Exchange | Trao Đổi | Mục không dây |
+| Download Quests/Items/Recipes | Nhiệm Vụ/Vật Phẩm/Công Thức Tải Về | Dòng mã lỗi riêng hoãn kiểm tra |
 | Travelling Eggs | Trứng Du Hành | Theo bản dịch trước |
-| Hero Points | Điểm Anh Hùng | Theo thuật ngữ trước |
-| Synthesis | Ghép Đồ | Theo thuật ngữ trước |
-| Bridge (rune) | Cầu Nối | Trang 40 Sách Pháp Thuật |
-| Fluffy Bread | Bánh Mì Bông Xốp | Cần so tên vật phẩm |
-| Item Pouch | Túi Vật Phẩm | Cần so giao diện |
-| Magic Chest | Rương Phép | Cần so giao diện |
-| Storm's Eye | Mắt Bão | Theo thuật ngữ trước |
+| Hero Points | Điểm Anh Hùng | Theo thuật ngữ cũ |
+| Synthesis | Ghép Đồ | Theo thuật ngữ cũ |
+| Bridge (spell) | Cầu Nối | Trang 40 Sách Pháp Thuật |
+| Fluffy Bread | Bánh Mì Bông Xốp | Cần so danh sách vật phẩm |
+| Item Pouch | Túi Vật Phẩm | Cần so nhãn UI |
+| Magic Chest | Rương Phép | Kiểm tra UI |
+| Storm's Eye | Mắt Bão | Theo thuật ngữ cũ |
 
-## Bổ sung đợt 80–81 — lựa chọn/thông báo
+## Bổ sung đợt 80–81 — lựa chọn và thông báo
 
-| Nguyên văn | Việt hóa | Lưu ý |
+| Nguồn | Việt hóa | Ghi chú |
 |---|---|---|
-| Peppy Syrup Recipe | Công thức Si-rô Vui Vẻ | Theo Peppy Syrup đã thống nhất |
-| Spicy Pilaf | Cơm Pilaf Cay | Đồng bộ bảng cũ |
-| Hearty Clam | Nghêu Bổ Dưỡng | Đồng bộ bảng cũ |
-| Carrying Cage | Lồng Mang Imagen | Cần xem nhãn UI |
-| Golden Bones | Xương Vàng | Nguồn có tên lẫn lộn, kiểm tra vật phẩm |
-| Incense of Life | Nhang Sinh Mệnh | Tạm dịch, kiểm tra menu |
-| Hero Points | Điểm Anh Hùng | Theo bảng cũ |
-| Dragon Horn | Tù Và Rồng | Dùng gọi Kuro |
-| Trial of Justice/Friendship/Wisdom/Courage/Power | Thử Thách Công Lý/Tình Bạn/Trí Tuệ/Can Đảm/Sức Mạnh | Theo Đền Thử Thách |
-| BURN / FREEZE | Tạm hoãn | Cần xác minh có phải từ khóa giải đố không |
+| Peppy Syrup Recipe | Công thức Si-rô Vui Vẻ | Giữ cùng Peppy Syrup = Si-rô Vui Vẻ |
+| Hearty Clam | Nghêu Bổ Dưỡng | Đã khớp bảng cũ |
+| Spicy Pilaf | Cơm Pilaf Cay | Đã khớp bảng cũ |
+| Carrying Cage | Lồng Mang Imagen | Đã khớp bảng cũ; cần đối chiếu menu |
+| Silvervine Spa | Suối Nước Nóng Silvervine | Giữ riêng Lodge/Manor/Resort |
+| Silvervine Lodge | Nhà Nghỉ Silvervine | Giữ riêng Spa/Manor/Resort |
+| Golden Bones | Xương Vàng | Nguồn các đợt trước gọi không thống nhất, cần đối chiếu vật phẩm |
+| Incense of Life | Nhang Sinh Mệnh | Tên mới tạm dịch, xác minh giao diện |
+| Hero Points | Điểm Anh Hùng | Đã có từ trước |
+| Trial of Justice/Friendship/Wisdom/Courage/Power | Thử Thách Công Lý/Tình Bạn/Trí Tuệ/Can Đảm/Sức Mạnh | Theo nội dung Đền Thử Thách |
+| BURN / FREEZE | Chưa dịch | Có khả năng liên quan câu đố: kiểm thử trước khi đổi từ khóa |
+| Dragon Horn | Tù Và Rồng | Gọi Kuro, theo bảng cũ |
 
-Giữ tách biệt các Mảnh Tim: Nhiệt Huyết, Can Đảm, Kiềm Chế, Tự Tin, Nhân Ái, Tình Yêu, Niềm Tin, Hoài Bão.
+**Lưu ý:** Tên nhiệm vụ được viết hoa theo nhãn menu, không làm thay đổi mảnh tim Nhiệt Huyết, Can Đảm, Kiềm Chế, Tự Tin, Nhân Ái, Tình Yêu, Niềm Tin, Hoài Bão.
+
+
+## Bổ sung đợt 82–83 — địa danh và mô tả Imagen
+
+| Nguyên văn | Việt hóa | Ghi chú |
+|---|---|---|
+| Basiluna Plains | Đồng bằng Basiluna | Chờ kiểm tra nhãn bản đồ |
+| Catnap Sewers | Cống ngầm Catnap | Chờ xác minh UI |
+| Nieruda Desert | Sa mạc Nieruda | Địa danh |
+| Southwestern / Northeastern Sea | Biển Tây Nam / Biển Đông Bắc | Nhãn bản đồ |
+| Caraway Island / Kayan Island | Đảo Caraway / Đảo Kayan | Giữ tên riêng |
+| Coconanda Cavern Area | Khu Hang Coconanda | Theo Hang Coconanda |
+| Trail Coast | Bờ biển Trail | Tên riêng chưa đối chiếu |
+| Shipwreck Shore | Bờ biển Xác Tàu | Địa danh trong mô tả Imagen, chưa đối chiếu |
+| Pirate King's Hideout | Sào huyệt Vua Hải Tặc | Liên quan Viper |
+| Legendary Land of Moya | Miền đất huyền thoại Moya | Chờ đối chiếu bản đồ |
+| Sea Naiad / Plessie / Gorus / Fluorongo | Giữ nguyên tên loài | Thống nhất với dữ liệu Imagen gốc |
+| Girlfiend / Ex-girlfiend / Bougie-woogie | Giữ nguyên tên loài | Chưa đối chiếu danh sách quái |
+
+**Nguyên tắc:** Các mô tả Imagen được dịch tự nhiên, dí dỏm vừa phải; không tự thay đổi cơ chế và tên loài trong văn bản. Rà lại bố cục sau khi nhúng ROM.
