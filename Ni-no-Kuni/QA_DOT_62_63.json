@@ -1,0 +1,53 @@
+{
+  "project": "Ni no Kuni DS Vietnamese — Votri Valley",
+  "date": "2026-11-05",
+  "batches": [
+    62,
+    63
+  ],
+  "source_files": [
+    "hoi_thoai_063.jsonl",
+    "hoi_thoai_064.jsonl"
+  ],
+  "source_rows": 360,
+  "new_translated": 359,
+  "deferred": 1,
+  "deferred_rows": [
+    {
+      "row": 45,
+      "id": "HOI_7fdeb5909b7ee1",
+      "source": "Temp text"
+    }
+  ],
+  "by_batch": {
+    "62": 180,
+    "63": 179
+  },
+  "total_translated": 12083,
+  "priority_total": 17935,
+  "remaining": 5852,
+  "ratio": 0.67371,
+  "jsonl_invalid": 0,
+  "duplicate_ids_new": 0,
+  "duplicate_ids_with_previous": 0,
+  "protected_token_mismatches": 0,
+  "max_lines_allowed": 3,
+  "max_visible_chars_per_line_allowed": 48,
+  "format_violations": 0,
+  "exact_2024_english_matches": 1,
+  "review_notes": [
+    "Colin/Corrin inconsistent in English dialogue 063: normalized to Colin; check the quest and UI.",
+    "Phone Stone → Đá Liên Lạc is still provisional.",
+    "Dragon's Den → Hang Rồng, Glacier Grotto → Hang Băng, Mouth of Shadaar → Miệng Shadaar; check in-game nomenclature.",
+    "Grey preserved as proper name.",
+    "Source 064 row 40 is (Chief's Schedule), translated as (Lịch trình Trưởng Làng); may be an internal label.",
+    "Source 064 row 45 Temp text excluded.",
+    "Source 063 row 162 exact English match with 2024 manual archive; compared but not overwritten."
+  ],
+  "not_tested": [
+    "End-to-end narrative and speaker attribution",
+    "Font glyphs and byte length",
+    "NDS dialogue box pixel fit",
+    "ROM reinsertion or emulator/hardware gameplay"
+  ]
+}
