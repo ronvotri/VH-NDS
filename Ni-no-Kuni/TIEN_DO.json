@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-05",
   "priority_total": 17935,
-  "translated_total": 9939,
-  "remaining": 7996,
-  "ratio": 0.55417,
+  "translated_total": 10299,
+  "remaining": 7636,
+  "ratio": 0.57424,
   "batches": [
     {
       "batch": 1,
@@ -463,8 +463,22 @@
       "repo_file": "translations/dot_51/hoi_thoai_052.jsonl",
       "deferred": 0,
       "validated": true
+    },
+    {
+      "batch": 52,
+      "done": 180,
+      "repo_file": "translations/dot_52/hoi_thoai_053.jsonl",
+      "deferred": 0,
+      "validated": true
+    },
+    {
+      "batch": 53,
+      "done": 180,
+      "repo_file": "translations/dot_53/hoi_thoai_054.jsonl",
+      "deferred": 0,
+      "validated": true
     }
   ],
-  "qa": "Technical checks passed for 51 batches: 9,939 unique IDs, valid JSONL, protected tokens, max 3 lines x 48 characters for new dialogue 051-052. ROM/font/layout/gameplay checks pending.",
-  "notes": "716 câu mới ở đợt 46–49; 4 nhãn thử nghiệm được hoãn, không tính vào tiến độ. 8863 ID cũ giữ nguyên. File dịch tay 2024 chỉ đối chiếu. Chưa nhập ROM hoặc kiểm thử NDS. Đợt 50–51 mới: 360 câu từ hoi_thoai_051–052; tên ba thuốc đã dịch tạm, xem CAN_RA_DOT_50_51.md."
+  "qa": "Technical checks through 53 batches: 10,299 unique IDs; 360 new valid JSONL rows, protected tokens match source; max 3 lines and 48 characters per line. NDS byte/layout/font/ROM checks pending.",
+  "notes": "716 câu mới ở đợt 46–49; 4 nhãn thử nghiệm được hoãn, không tính vào tiến độ. 8863 ID cũ giữ nguyên. File dịch tay 2024 chỉ đối chiếu. Chưa nhập ROM hoặc kiểm thử NDS. Đợt 50–51 mới: 360 câu từ hoi_thoai_051–052; tên ba thuốc đã dịch tạm, xem CAN_RA_DOT_50_51.md. Đợt 52–53 bổ sung 360 câu; 1 câu nguồn trùng dịch tay 2024 được đối chiếu, không nhập đè; cần thử đầu vào câu đố tiếng Anh khi vá ROM."
 }
