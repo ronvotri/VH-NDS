@@ -407,3 +407,28 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Mouse Men | Chuột Nhân | Danh từ chỉ tộc người |
 | Purrsian | Purrsian | Giữ tên bản DS |
 | Silvervine Inn | Quán trọ Silvervine | Giữ địa danh |
+
+## Đợt 46–49: Mirant, Catnap, Yuri và Kuro
+
+| Từ gốc | Dùng trong bản dịch | Ghi chú |
+|---|---|---|
+| Evenstar | Evenstar | Phép cấm, cần đối chiếu tên phép trong UI và trang 55 |
+| Moya Tower | Tháp Moya | Tuyến Mirant–Shadaar |
+| Magimech / Manic Magimech | Magimech / Manic Magimech | Giữ tên máy chiến đấu và boss, rà danh sách quái |
+| Locket Lock-On | Dò Tim | Tính năng tìm người có Mảnh Tim, chờ xác minh giao diện |
+| Hero License | Giấy Phép Anh Hùng | Tên năng lực thưởng, rà với UI |
+| Hero Stamp Card | Thẻ Dấu Anh Hùng | Thuật ngữ đã có |
+| Owl's Cowls | Owl's Cowls | Giữ nguyên tên riêng cửa tiệm |
+| Martin's Missions | Nhiệm Vụ Martin | Thuật ngữ đã có |
+| Item Link | Liên Kết Vật Phẩm | Kiểm tra menu liên kết Imagen |
+| Equipment Link | Liên Kết Trang Bị | Nguồn hướng dẫn không đồng nhất |
+| Blackbird Blacksmith | Blackbird Blacksmith | Giữ nguyên tên tiệm |
+| Frostbite | Frostbite | Tạm giữ tên phép, rà trang 52 Sách Pháp Thuật |
+| Skytree Cloth | Vải Cây Trời | Vật liệu |
+| Dragon Horn | Tù và Rồng | Vật phẩm gọi Kuro |
+| Holy Wood | Gỗ Thánh | Theo thuật ngữ cũ |
+| Gladion | Gladion | Đũa phép, giữ tên DS |
+
+**Giọng thoại:** Oliver lễ phép với Mirant và Miêu vương, nói tớ/cậu với bạn bè. Mirant trầm lắng trong lời chia tay. Yuri cô độc và nhẹ nhàng, không pha trò trong cảnh linh hồn siêu thoát. Shizuku vẫn lanh lợi, tinh nghịch khi phù hợp. Miêu vương xưng trẫm/ngươi và có tiếng “meo” đặc trưng.
+
+**QA:** bốn nhãn `TEMP` ở nguồn `hoi_thoai_048–049` được giữ ngoài bản dịch chính để rà trước khi nhập ROM.
