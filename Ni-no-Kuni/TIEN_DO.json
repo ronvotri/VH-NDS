@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-05",
   "priority_total": 17935,
-  "translated_total": 8863,
-  "remaining": 9072,
-  "ratio": 0.49417,
+  "translated_total": 9579,
+  "remaining": 8356,
+  "ratio": 0.5341,
   "batches": [
     {
       "batch": 1,
@@ -421,8 +421,36 @@
       "done": 180,
       "repo_file": "translations/dot_45/hoi_thoai_046.jsonl",
       "validated": true
+    },
+    {
+      "batch": 46,
+      "done": 180,
+      "repo_file": "translations/dot_46/hoi_thoai_47.jsonl",
+      "deferred": 0,
+      "validated": true
+    },
+    {
+      "batch": 47,
+      "done": 179,
+      "repo_file": "translations/dot_47/hoi_thoai_48.jsonl",
+      "deferred": 1,
+      "validated": true
+    },
+    {
+      "batch": 48,
+      "done": 177,
+      "repo_file": "translations/dot_48/hoi_thoai_49.jsonl",
+      "deferred": 3,
+      "validated": true
+    },
+    {
+      "batch": 49,
+      "done": 180,
+      "repo_file": "translations/dot_49/hoi_thoai_50.jsonl",
+      "deferred": 0,
+      "validated": true
     }
   ],
   "qa": "Technical checks passed for 45 batches: source IDs, JSON, protected tokens and unique IDs. ROM/font/layout/gameplay checks pending.",
-  "notes": "7 technical Sample text rows from hoi_thoai_030 deferred; 4 older damaged rows in hoi_thoai_003 still deferred."
+  "notes": "716 câu mới ở đợt 46–49; 4 nhãn thử nghiệm được hoãn, không tính vào tiến độ. 8863 ID cũ giữ nguyên. File dịch tay 2024 chỉ đối chiếu. Chưa nhập ROM hoặc kiểm thử NDS."
 }
