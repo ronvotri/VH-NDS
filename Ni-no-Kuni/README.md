@@ -1,11 +1,11 @@
 # Ni no Kuni DS — Việt hóa Votri Valley
 
-**Mốc 05/11/2026: 9.579/17.935 mục (53,41%) qua 49 đợt.** Đợt mới nhất `hoi_thoai_047–050` đã dịch 716 câu, hoãn 4 nhãn thử nghiệm.
+**Mốc 05/11/2026: 9.939/17.935 mục (55,42%) qua 51 đợt.** Mới hoàn thành `hoi_thoai_051–052` (360 câu), giữ nguyên 9.579 bản dịch cũ.
 
 - `translations/dot_*/`: các tệp dịch JSONL theo ID nguồn, riêng từng đợt.
 - [TIEN_DO.md](TIEN_DO.md), [TIEN_DO.json](TIEN_DO.json): số liệu và tệp đã hoàn thành.
 - [THUAT_NGU.md](THUAT_NGU.md): danh mục thuật ngữ, nhân vật và quy tắc xưng hô.
-- [QA_DOT_46_49.json](QA_DOT_46_49.json) và [CAN_RA_DOT_46_49.md](CAN_RA_DOT_46_49.md): kiểm tra và những chỗ chưa xác minh.
+- [QA_DOT_50_51.json](QA_DOT_50_51.json) và [CAN_RA_DOT_50_51.md](CAN_RA_DOT_50_51.md): QA mới và tên vật phẩm cần đối chiếu. Các báo cáo QA cũ vẫn được giữ nguyên.
 
 Bản dịch tay 2024 chỉ là kho tham khảo đối chiếu, không chép thẳng từ một phiên bản Ni no Kuni khác. Nội dung không chứa ROM; **chưa nhúng ROM, chưa thử font hoặc giao diện trên Nintendo DS.** Bản gộp có trong ZIP bàn giao và không nên nhập cùng lúc các tệp rời.
 
