@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-05",
+  "batch_range": [
+    82,
+    83
+  ],
+  "source_files": [
+    "vat_pham_ky_nang_001.jsonl",
+    "vat_pham_ky_nang_002.jsonl"
+  ],
+  "source_lines": 328,
+  "translated": 327,
+  "deferred": 1,
+  "previous_approved": 15046,
+  "total_approved": 15373,
+  "priority_total": 17935,
+  "remaining_priority": 2562,
+  "unique_total_ids": 15373,
+  "duplicate_ids": 0,
+  "jsonl_valid": true,
+  "source_id_alignment": "checked in original source order",
+  "protected_code_mismatches": 0,
+  "max_lines": 3,
+  "max_unicode_characters_per_line": 48,
+  "format_violations": 0,
+  "deferred_ids": [
+    "VAT_656ad577872fed"
+  ],
+  "limitations": [
+    "No NDS font width or byte measurement",
+    "No ROM injection, no emulator/hardware test",
+    "Glossary terms requiring UI confirmation are noted separately"
+  ]
+}
