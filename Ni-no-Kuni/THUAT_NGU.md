@@ -597,9 +597,30 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Snow Carrots | Cà Rốt Tuyết | Nhiệm vụ Eisburg |
 | Thousand-Year Ice | Băng Ngàn Năm | Vật liệu đĩa thức ăn |
 | Thousand-Year Water | Nước Ngàn Năm | Nguyên liệu món canh |
-| Cat Killer | Sát Miêu | Độc chuột; cần đối chiếu tên hiệu ứng |
+| Cat Killer | Sát Miêu | Độc chuột, cần đối chiếu tên hiệu ứng |
 | Purrsian Post | Bưu Tín Purrsian | Hệ thống thư bí mật của người Purrsian |
 | Professor Crookshanks | Giáo sư Crookshanks | Tên riêng |
 | Aurora | Cực quang | Khí tượng Eisburg |
 | Silvervine Igloo | Nhà tuyết Silvervine | Cần đối chiếu nhãn cơ sở |
-| Parkas | Áo khoác lông | Trang phục chống rét; kiểm tra UI |
+| Parkas | Áo khoác lông | Trang phục chống rét, kiểm tra UI |
+
+## Bổ sung đợt 76–77 (tên tạm, chờ đối chiếu menu NDS)
+
+| Nguồn | Bản dịch | Ghi chú |
+|---|---|---|
+| Pompeii | Pompeii | Tên loài Imagen; giữ nguyên |
+| Trial of Justice | Thử Thách Công Lý | Một trong năm thử thách |
+| Trial of Friendship | Thử Thách Tình Bạn | Một trong năm thử thách |
+| Trial of Wisdom | Thử Thách Trí Tuệ | Một trong năm thử thách |
+| Trial of Courage | Thử Thách Can Đảm | Một trong năm thử thách |
+| Trial of Power | Thử Thách Sức Mạnh | Một trong năm thử thách |
+| Crest | Huy Hiệu | Kiểm tra tên vật phẩm trong UI |
+| Orb of Courage / Wisdom / Friendship | Ngọc Cầu Can Đảm / Trí Tuệ / Tình Bạn | Cần đối chiếu menu |
+| Forgetting | Lãng Quên | Bẫy làm quên ấn chú |
+| Levitate | Bay Lơ Lửng | Tên phép tạm, trang 28 |
+| Pure Harp | Hạc Cầm Thuần Khiết | Vật phẩm thuần hóa Imagen |
+| Song of Taming | Khúc Thuần Hóa | Kỹ năng của Mary |
+| Song of the Earth / Sky / Sea | Khúc Ca Đất / Trời / Biển | Nhạc thuần hóa, cần so UI |
+| Imagen Manhole | Cống Imagen | Theo tên trước, cần xác minh UI |
+| Phoenix | Phoenix | Tượng dẫn đường |
+| Pokoro | Pokoro | Ẩn sĩ |
