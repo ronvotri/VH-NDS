@@ -798,3 +798,25 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Gate | Mở Cổng | Tên phép nối hai thế giới |
 
 **Ghi chú:** Tên Imagen trong vé (Lumberwood, Dinoceros, Moggle-Boggle, Teeny Bopper, Catastroceros...) để nguyên, chờ kiểm thử tên hiển thị. Các tên chiêu dịch tạm trong nhóm đá/ngọc cần soát đồng bộ với giao diện học chiêu thực tế; không nên đổi tên nếu ROM dùng mã nối cứng.
+
+### Đợt 94–96 (06/11/2026) — Phép và kỹ năng
+
+| Tiếng Anh | Việt hóa | Trạng thái |
+|---|---|---|
+| Heal / Heal All | Hồi Phục / Hồi Phục Toàn Đội | Tên phép |
+| Antidote | Giải Độc | Tên phép |
+| Ward / Pulse / Sacred Arrow | Hộ Thể / Xung Ba / Thánh Tiễn | Giữ quy ước cũ |
+| Take Heart / Give Heart | Thu Tim / Trao Tim | Giữ quy ước cũ |
+| Gate / Teleport / Escape | Mở Cổng / Dịch Chuyển / Thoát Hiểm | Giữ quy ước cũ |
+| Seek Fortune / Chart Chests | Tầm Bảo / Dò Rương | Giữ quy ước cũ, tạm |
+| Nature's Tongue / Secret Ingredient | Tiếng Nói Thiên Nhiên / Gia Vị Bí Mật | Giữ quy ước cũ |
+| Magic Lamp / Puppet Strings | Đèn Ma Thuật / Dây Điều Khiển | Giữ quy ước cũ |
+| Fuse / Bridge / Bake Bread | Hợp Nhất / Cầu Nối / Nướng Bánh Mì | Giữ quy ước cũ |
+| Harden / Healing Drop / Poison Cutter | Hóa Cứng / Giọt Hồi Phục / Độc Trảm | Giữ đợt 92–93 |
+| Water Bazooka / Tsunami | Đại Bác Nước / Sóng Thần | Đồng nhất các tệp |
+| Faint / Blind / Confuse / Petrify | Bất Tỉnh / Mù / Hỗn Loạn / Hóa Đá | Trạng thái, cần thử |
+| Strength / Defense / Sp Attack / Toughness | Sức Mạnh / Phòng Thủ / Công Phép / Độ Bền | Chỉ số hiệu ứng, cần thử |
+| Fira / Firaga / Virilio / Hennal | Fira / Firaga / Virilio / Hennal | Giữ nguyên tên riêng, chưa xác minh |
+| Frostbite | Frostbite | Theo glossary cũ; cần quyết định tên hiển thị |
+
+**Tên chiêu dịch tạm:** `Codswallop`, `Codswhump`, `Hind Thief`, `Scale`, `Radiation Blaze`, `Holy Father` cần soát với gameplay. Các tên chiêu mới chỉ được kiểm tra độ dài **theo ký tự**, chưa kiểm thử menu ROM.
