@@ -1,17 +1,19 @@
 # Ni no Kuni DS — Tiến độ Việt hóa
 
-**05/11/2026 — 83 đợt — 15.373/17.935 mục ưu tiên (85,72%). Còn 2.562 mục.**
+**05/11/2026 — 85 đợt — 15.706 / 17.935 mục ưu tiên (87.57%). Còn 2.229 mục.**
 
-Đợt 82–83: bổ sung **327 mục** từ `vat_pham_ky_nang_001–002` (địa danh và mô tả Imagen); giữ nguyên **15.046 bản dịch cũ**.
+Đợt 84–85: bổ sung **333 mục** từ `vat_pham_ky_nang_003–004`, giữ nguyên **15.373 bản dịch trước**.
 
 | Đợt | Tệp | Đã dịch | Hoãn |
 |---|---|---:|---:|
-| 82 | `translations/dot_82/vat_pham_ky_nang_001.jsonl` | 174 | 1 (`Missing number`) |
-| 83 | `translations/dot_83/vat_pham_ky_nang_002.jsonl` | 153 | 0 |
-| **Tổng mới** | | **327** | **1** |
+| 84 | `translations/dot_84/vat_pham_ky_nang_003.jsonl` | 153 | 0 |
+| 85 | `translations/dot_85/vat_pham_ky_nang_004.jsonl` | 180 | 0 |
+| **Tổng mới** | | **333** | **0** |
 
-**QA dữ liệu:** Đủ 15.373 ID duy nhất, JSONL hợp lệ, ID khớp tệp nguồn, mã bảo vệ được giữ nguyên; lời dịch mới đã ngắt tối đa 3 dòng và 48 ký tự Unicode/dòng. Chưa bảo đảm vừa kích thước font NDS trên thiết bị thực.
+**QA dữ liệu:** 15.706 ID duy nhất, JSONL hợp lệ, đủ dòng so với hai tệp nguồn, mã bảo vệ giữ nguyên, ngắt dòng mới không quá 3 dòng × 48 ký tự Unicode/dòng. Chưa phải kiểm tra độ rộng pixel trên NDS.
 
-**Chưa kiểm thử:** font có dấu, độ rộng pixel trên NDS, giới hạn byte/offset, nhúng lại ROM, gameplay và menu trong game. Một số tên địa danh cần xác minh giao diện; xem `CAN_RA_DOT_82_83.md`.
+**Cần rà:** `vat_pham_ky_nang_003` dòng 34 có câu tiếng Anh cụt (*when they.*); không bịa thêm nội dung. Một số nhãn khí tài, chỉ số/hiệu ứng và tên riêng tạm dịch cần đối chiếu giao diện; xem `CAN_RA_DOT_84_85.md`.
 
-**Tiếp theo:** `vat_pham_ky_nang_003` (153 mục), rồi tiếp tục 004–015, nhiệm vụ phụ và các mục hoãn.
+**Chưa làm:** kiểm font tiếng Việt có dấu, giới hạn byte/offset và độ rộng ô thoại, nhúng ROM, thử gameplay trên NDS/giả lập.
+
+**Tiếp theo:** `vat_pham_ky_nang_005–006`, rồi nhiệm vụ phụ và các mục hoãn.
