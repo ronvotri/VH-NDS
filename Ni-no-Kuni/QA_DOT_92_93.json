@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-06",
+  "previous_translated": 16786,
+  "batches": [
+    {
+      "batch": 92,
+      "source": "vat_pham_ky_nang_011.jsonl",
+      "source_rows": 180,
+      "translated": 180,
+      "deferred": 0,
+      "max_lines": 3,
+      "max_characters_per_line": 37,
+      "source_newline_count_adjusted_for_vietnamese": 12,
+      "duplicate_ids": 0,
+      "special_tokens_mismatched": 0,
+      "limit_breaches": 0
+    },
+    {
+      "batch": 93,
+      "source": "vat_pham_ky_nang_012.jsonl",
+      "source_rows": 180,
+      "translated": 180,
+      "deferred": 0,
+      "max_lines": 3,
+      "max_characters_per_line": 38,
+      "source_newline_count_adjusted_for_vietnamese": 34,
+      "duplicate_ids": 0,
+      "special_tokens_mismatched": 0,
+      "limit_breaches": 0
+    }
+  ],
+  "notes": [
+    "Chỉ kiểm tra văn bản và JSONL, chưa ghép ROM; chưa đo chiều rộng font Nintendo DS thực tế.",
+    "Dấu xuống dòng nguồn chỉ là định dạng trình bày; bản dịch rút gọn để tối đa 3 dòng × 48 ký tự mà vẫn giữ mã kỹ thuật."
+  ],
+  "translated_added": 360,
+  "total_translated": 17146,
+  "priority_total": 17935,
+  "remaining": 789,
+  "new_ids_unique": 360,
+  "all_ids_unique": 17146,
+  "id_overlap_with_previous": 0,
+  "control_tokens_preserved": true,
+  "limit_characters_per_line": 48,
+  "limit_lines": 3
+}
