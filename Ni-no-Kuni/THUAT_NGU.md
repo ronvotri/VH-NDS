@@ -649,3 +649,20 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Item Pouch | Túi Vật Phẩm | Cần so giao diện |
 | Magic Chest | Rương Phép | Cần so giao diện |
 | Storm's Eye | Mắt Bão | Theo thuật ngữ trước |
+
+## Bổ sung đợt 80–81 — lựa chọn/thông báo
+
+| Nguyên văn | Việt hóa | Lưu ý |
+|---|---|---|
+| Peppy Syrup Recipe | Công thức Si-rô Vui Vẻ | Theo Peppy Syrup đã thống nhất |
+| Spicy Pilaf | Cơm Pilaf Cay | Đồng bộ bảng cũ |
+| Hearty Clam | Nghêu Bổ Dưỡng | Đồng bộ bảng cũ |
+| Carrying Cage | Lồng Mang Imagen | Cần xem nhãn UI |
+| Golden Bones | Xương Vàng | Nguồn có tên lẫn lộn, kiểm tra vật phẩm |
+| Incense of Life | Nhang Sinh Mệnh | Tạm dịch, kiểm tra menu |
+| Hero Points | Điểm Anh Hùng | Theo bảng cũ |
+| Dragon Horn | Tù Và Rồng | Dùng gọi Kuro |
+| Trial of Justice/Friendship/Wisdom/Courage/Power | Thử Thách Công Lý/Tình Bạn/Trí Tuệ/Can Đảm/Sức Mạnh | Theo Đền Thử Thách |
+| BURN / FREEZE | Tạm hoãn | Cần xác minh có phải từ khóa giải đố không |
+
+Giữ tách biệt các Mảnh Tim: Nhiệt Huyết, Can Đảm, Kiềm Chế, Tự Tin, Nhân Ái, Tình Yêu, Niềm Tin, Hoài Bão.
