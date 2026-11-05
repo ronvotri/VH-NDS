@@ -1,0 +1,52 @@
+{
+  "project": "Ni no Kuni DS Vietnamese",
+  "date": "2026-11-05",
+  "batch_range": [
+    78,
+    79
+  ],
+  "source_files": [
+    "hoi_thoai_079.jsonl",
+    "hoi_thoai_080.jsonl"
+  ],
+  "source_rows": 255,
+  "source_rows_by_file": {
+    "hoi_thoai_079.jsonl": 180,
+    "hoi_thoai_080.jsonl": 75
+  },
+  "translated_new": 230,
+  "translated_by_batch": {
+    "78": 178,
+    "79": 52
+  },
+  "deferred_total": 25,
+  "deferred_by_cause": {
+    "malformed_control_code": 2,
+    "unreadable_source": 23
+  },
+  "previous_total": 14601,
+  "current_total": 14831,
+  "priority_total": 17935,
+  "remaining": 3104,
+  "unique_ids": 14831,
+  "duplicate_ids": 0,
+  "jsonl_valid": true,
+  "protected_tokens_mismatches": 0,
+  "max_lines_per_entry": 3,
+  "max_characters_per_line": 48,
+  "format_violations": 0,
+  "source_anomalies_file": "DEFERRED_SOURCE_079_080.json",
+  "manual_review": [
+    "hoi_thoai_079 rows 63 and 93 contain malformed colored tag delimiters in original source; excluded instead of silently repairing controls.",
+    "hoi_thoai_080 rows 53–75 contain single-letter or junk strings, stray controls and invalid text; inspect ROM extraction boundaries.",
+    "Wireless, Battle Request, Rebirth Drop, Imagen Manhole and Take Out/Release/Exchange labels need UI review.",
+    "Source package ends at hoi_thoai_080; remaining priority strings belong to other categories or earlier deferred rows. Do not assume a new hoi_thoai_081 file exists."
+  ],
+  "not_tested": [
+    "ROM patch",
+    "Vietnamese font",
+    "Pixel-width and byte limits",
+    "Gameplay",
+    "Wireless functionality"
+  ]
+}
