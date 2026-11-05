@@ -1,19 +1,19 @@
 # Ni no Kuni DS — Tiến độ Việt hóa
 
-**05/11/2026 — 55 đợt — 10.659/17.935 mục ưu tiên (59,43%). Còn 7.276 mục.**
+**05/11/2026 — 57 đợt — 11.013/17.935 mục ưu tiên (61,41%). Còn 6.922 mục.**
 
-Thư mục dự án `VH-NDS/Ni-no-Kuni/`, tách biệt Pokémon Dash. Giữ nguyên **10.299 câu cũ**, thêm **360 câu mới** từ `hoi_thoai_055–056`.
+Lưu tại `VH-NDS/Ni-no-Kuni/`, tách riêng Pokémon Dash. **10.659 mục cũ được giữ nguyên**; thêm 354 câu mới từ `hoi_thoai_057–058`, hoãn 6 nhãn thử nghiệm.
 
 | Đợt | Tệp | Dịch | Hoãn |
 |---|---|---:|---:|
-| 54 | `translations/dot_54/hoi_thoai_055.jsonl` | 180 | 0 |
-| 55 | `translations/dot_55/hoi_thoai_056.jsonl` | 180 | 0 |
-| **Mới** | | **360** | **0** |
+| 56 | `translations/dot_56/hoi_thoai_057.jsonl` | 179 | 1 |
+| 57 | `translations/dot_57/hoi_thoai_058.jsonl` | 175 | 5 |
+| **Mới** | | **354** | **6** |
 
-**QA dữ liệu:** 10.659 ID duy nhất; JSONL hợp lệ; không trùng ID cũ, mã điều khiển khớp câu nguồn; câu mới được xuống dòng sơ bộ tối đa 3 dòng và 48 ký tự/dòng (không bảo đảm vừa màn NDS). Sáu ghi chú nguồn `(NOTE: ...)` bị loại khỏi thoại hiển thị, xem báo cáo.
+**QA dữ liệu:** 11.013 ID duy nhất; JSONL hợp lệ; mã bảo vệ khớp nguồn; tối đa 3 dòng và 48 ký tự nhìn thấy mỗi dòng. Đây chỉ là kiểm tra sơ bộ, chưa chứng minh vừa màn NDS hay vừa giới hạn byte. Có 3 câu nguồn trùng nguyên văn trong kho dịch tay 2024 chỉ dùng tham khảo.
 
-**Cần rà:** tên phép tạm, chữ Astram trong câu đố 7 chương, đáp án thực tế, tên đường và cách xưng hô; xem `CAN_RA_DOT_54_55.md`. Bản dịch tay 2024 không có câu tiếng Anh trùng nguyên văn mới; không dùng để chép đè.
+**Cần rà:** nhãn phép Mở Khóa, Vương Trượng, biệt danh Sherry Ngó Hoài; tên địa danh Hotroit, gợi ý trang 21 và 6 nhãn `(Dummy) Temporary Text` được hoãn. Xem `CAN_RA_DOT_56_57.md`.
 
-**Chưa kiểm thử:** font tiếng Việt, giới hạn byte, UI, ROM, giả lập hoặc phần cứng. Đây là bộ dữ liệu dịch, không phải ROM đã vá.
+**Chưa thực hiện:** ghép ROM, xử lý font tiếng Việt, thử layout UI thật hoặc chạy giả lập / máy NDS. Bộ dịch không phải ROM đã vá.
 
-**Tiếp theo:** `hoi_thoai_057–058`. Không nhập chung bản gộp và tệp rời.
+**Tiếp theo:** `hoi_thoai_059–060`. Không nhập cùng lúc bản gộp trong ZIP và tệp riêng.
