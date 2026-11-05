@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-05",
   "priority_total": 17935,
-  "translated_total": 10299,
-  "remaining": 7636,
-  "ratio": 0.57424,
+  "translated_total": 10659,
+  "remaining": 7276,
+  "ratio": 0.59431,
   "batches": [
     {
       "batch": 1,
@@ -375,28 +375,28 @@
       "done": 180,
       "repo_file": "translations/dot_38/hoi_thoai_039.jsonl",
       "validated": true,
-      "topic": "Cowla, Clarion and treasure-finding spells"
+      "topic": "Nữ hoàng Cowla, Sáo Clarion, Ma Thạch và phép tìm rương"
     },
     {
       "batch": 39,
       "done": 180,
       "repo_file": "translations/dot_39/hoi_thoai_040.jsonl",
       "validated": true,
-      "topic": "Alicia-Jabou, Ghost Valley and Catnap gatekeeper"
+      "topic": "Alicia–Jabou, Thung lũng Ma, Catnap và lính gác Rỗng Tim"
     },
     {
       "batch": 40,
       "done": 180,
       "repo_file": "translations/dot_40/hoi_thoai_041.jsonl",
       "validated": true,
-      "topic": "Centree saplings, town NPCs, red earrings"
+      "topic": "Đời sống Catnap, Cây Trăm Năm, Nhiệt Huyết và khuyên tai đỏ"
     },
     {
       "batch": 41,
       "done": 180,
       "repo_file": "translations/dot_41/hoi_thoai_042.jsonl",
       "validated": true,
-      "topic": "Wizard's Pledge, Tail Wrestling and Catnap sewers"
+      "topic": "Lời Thề Pháp Sư, Đấu Đuôi, Purrsian, cống ngầm"
     },
     {
       "batch": 42,
@@ -426,29 +426,29 @@
       "batch": 46,
       "done": 180,
       "repo_file": "translations/dot_46/hoi_thoai_047.jsonl",
-      "deferred": 0,
-      "validated": true
+      "validated": true,
+      "deferred": 0
     },
     {
       "batch": 47,
       "done": 179,
       "repo_file": "translations/dot_47/hoi_thoai_048.jsonl",
-      "deferred": 1,
-      "validated": true
+      "validated": true,
+      "deferred": 1
     },
     {
       "batch": 48,
       "done": 177,
       "repo_file": "translations/dot_48/hoi_thoai_049.jsonl",
-      "deferred": 3,
-      "validated": true
+      "validated": true,
+      "deferred": 3
     },
     {
       "batch": 49,
       "done": 180,
       "repo_file": "translations/dot_49/hoi_thoai_050.jsonl",
-      "deferred": 0,
-      "validated": true
+      "validated": true,
+      "deferred": 0
     },
     {
       "batch": 50,
@@ -477,8 +477,22 @@
       "repo_file": "translations/dot_53/hoi_thoai_054.jsonl",
       "deferred": 0,
       "validated": true
+    },
+    {
+      "batch": 54,
+      "done": 180,
+      "repo_file": "translations/dot_54/hoi_thoai_055.jsonl",
+      "deferred": 0,
+      "validated": true
+    },
+    {
+      "batch": 55,
+      "done": 180,
+      "repo_file": "translations/dot_55/hoi_thoai_056.jsonl",
+      "deferred": 0,
+      "validated": true
     }
   ],
-  "qa": "Technical checks through 53 batches: 10,299 unique IDs; 360 new valid JSONL rows, protected tokens match source; max 3 lines and 48 characters per line. NDS byte/layout/font/ROM checks pending.",
-  "notes": "716 câu mới ở đợt 46–49; 4 nhãn thử nghiệm được hoãn, không tính vào tiến độ. 8863 ID cũ giữ nguyên. File dịch tay 2024 chỉ đối chiếu. Chưa nhập ROM hoặc kiểm thử NDS. Đợt 50–51 mới: 360 câu từ hoi_thoai_051–052; tên ba thuốc đã dịch tạm, xem CAN_RA_DOT_50_51.md. Đợt 52–53 bổ sung 360 câu; 1 câu nguồn trùng dịch tay 2024 được đối chiếu, không nhập đè; cần thử đầu vào câu đố tiếng Anh khi vá ROM."
+  "qa": "Technical QA through batches 54–55: 10,659 unique IDs, +360 valid JSONL rows, control tokens preserved, max 3 lines and 48 chars/line for new rows; 6 source editorial NOTE entries deliberately omitted from translations. ROM/UI/font/gameplay checks still pending.",
+  "notes": "4 nhãn thử nghiệm của đợt 46–49 được hoãn, không tính vào tiến độ. 8863 ID cũ giữ nguyên. 7 câu trùng nguồn Excel 2024 chỉ tham khảo. Chưa nhúng ROM. Mới đợt 50–51: 360 câu. Cần rà tên 3 món thuốc. Đợt 52–53 (hoi_thoai_053–054): 360 câu; 0 tạm hoãn; 1 câu nguồn trùng bản dịch tay 2024 được đối chiếu, không nhập đè. Đáp án các câu đố chưa Việt hóa logic nhập liệu, cần kiểm tra khi đóng patch. Đợt 54–55: +360 câu từ hoi_thoai_055–056; 6 ghi chú biên tập nguồn (NOTE) không đưa vào thoại; tên 4 phép mới chờ xác minh trong Sách Pháp Thuật; 0 nguồn trùng nguyên văn dịch tay 2024."
 }
