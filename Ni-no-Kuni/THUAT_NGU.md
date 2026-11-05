@@ -756,3 +756,24 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Gnome / Pixie / Riddle / Wild | Gnome / Pixie / Bí Ẩn / Hoang Dã | Tên hệ tạm thời, cần đối chiếu giao diện |
 | Resists All / Resists all | Kháng mọi hệ / Kháng mọi trạng thái | Nguồn mơ hồ; cần kiểm tra công dụng thật trong game |
 | Coconanda Caverns | Hang Coconanda | Tên địa danh để nguyên phần riêng |
+
+### Đợt 90–91 (06/11/2026) — vật phẩm và trang bị
+
+| Nguồn | Việt hóa | Ghi chú |
+|---|---|---|
+| Peppy Syrup | Si-rô Vui Vẻ | Theo bản dịch các đợt trước |
+| Snow Carrot | Cà Rốt Tuyết | Theo nhiệm vụ Eisburg |
+| Hearty Clam | Nghêu Bổ Dưỡng | Theo bản dịch cũ |
+| Black Magic Morel | Nấm Morel Ma Thuật Đen | Theo nhiệm vụ Morel |
+| Golden Peach | Đào Vàng | Theo bản dịch cũ |
+| Golden Bone | Xương Vàng | Theo bản dịch cũ |
+| Deerbeast Antlers | Gạc Deerbeast | Giữ tên Imagen |
+| Clarion | Sáo Clarion | Không đổi sang tù và |
+| Soulgem | Hồn Ngọc | Chờ kiểm thử vật phẩm |
+| Catnap Coin | Đồng Catnap | Theo bảng thuật ngữ cũ |
+| Catnap King Badge | Huy Hiệu Vua Catnap | Theo bảng thuật ngữ cũ |
+| Rebirth Drop | Giọt Chuyển Sinh | Theo hệ thống Imagen |
+| Septimus Medal | Huy Chương Septimus | Theo nhiệm vụ 7 huy chương |
+| Shield / Armor / Spear / Claws | Khiên / Giáp / Giáo / Vuốt | Đồng bộ với menu trang bị |
+
+**Cần kiểm tra khi nhập ROM:** `Absorb MP damage`, `Resists all`, `Big Burn Out`, `Rear Axe`, `Imbrued Fang`, `Starcradle`, `Lifecense`, các tên vũ khí riêng như `Godfreer`, `Ponente`, `Altenan`, `Gunto`. Giữ gốc tên riêng khó xác thực và không tự suy đoán chỉ số thực tế từ tên.
