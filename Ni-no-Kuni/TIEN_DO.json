@@ -2,9 +2,9 @@
   "project": "Ni no Kuni DS Vietnamese",
   "date": "2026-11-06",
   "priority_total": 17935,
-  "translated_total": 17821,
-  "remaining": 114,
-  "ratio": 0.99364,
+  "translated_total": 17823,
+  "remaining": 112,
+  "ratio": 0.99376,
   "batches": [
     {
       "batch": 1,
@@ -925,8 +925,29 @@
       "repo_file": "translations/dot_98/nhiem_vu_phu_003.jsonl",
       "deferred": 0,
       "validated": true
+    },
+    {
+      "batch": 99,
+      "done": 2,
+      "repo_file": "translations/dot_99/khoi_phuc_hoi_thoai_079.jsonl",
+      "deferred": 112,
+      "validated": true,
+      "source_control_reconstructed": true,
+      "requires_rom_verification": true
     }
   ],
   "qa": "Qua đợt 96: 17.585 ID dịch duy nhất; thêm 439 mục về phép, kỹ năng và hiệu ứng. QA JSONL, ID nguồn, control token, ngắt dòng sơ bộ 3×48 đạt. Chưa ghép ROM/kiểm thử font.",
-  "notes": "Dữ liệu 15.373/17.935. Đợt 82-83: +327 mô tả Imagen/địa danh từ vat_pham_ky_nang_001-002. Một dòng nguồn Missing number đã hoãn, xem DEFERRED_SOURCE_82.json. Bản gộp trong ZIP không nhập cùng tệp rời. Chưa chèn ROM/kiểm thử NDS. Đợt 84-85: thêm 333 mục từ vat_pham_ky_nang_003-004, gồm mô tả Imagen và trang bị, đã soát kỹ thuật; cần kiểm tra một câu nguồn bị cụt (ID VAT_59fc215d13cd8a) và một số tên vật phẩm trên NDS. Đợt 86-87 thêm 360 mục vat_pham_ky_nang_005-006 (tên trang bị, nguồn nhặt, thức ăn, hiệu ứng và mô tả vật phẩm); thông số HP/MP, tên Imagen giữ nguyên. Cần xem QA_DOT_86_87.json trước khi nhập ROM. Đợt 88-89 thêm 360 mô tả vũ khí, giáp, khiên, trang phục, vòng tay và nhãn hiệu ứng từ vat_pham_ky_nang_007-008. Không có dòng hoãn, cần rà thuật ngữ hệ/tình trạng trên menu game, và cơ chế hồi HP/MP khi chết. Đợt 94–96: hoàn thành 439 mục từ vat_pham_ky_nang_013–015. Tên chiêu còn cần rà ngữ nghĩa, xem CAN_RA_DOT_94_96.md. Còn 350 mục ưu tiên: 236 nhiệm vụ phụ, 55 lựa chọn/thông báo, 58 hội thoại hoãn và 1 nhãn Missing number."
+  "notes": "Dữ liệu 15.373/17.935. Đợt 82-83: +327 mô tả Imagen/địa danh từ vat_pham_ky_nang_001-002. Một dòng nguồn Missing number đã hoãn, xem DEFERRED_SOURCE_82.json. Bản gộp trong ZIP không nhập cùng tệp rời. Chưa chèn ROM/kiểm thử NDS. Đợt 84-85: thêm 333 mục từ vat_pham_ky_nang_003-004, gồm mô tả Imagen và trang bị, đã soát kỹ thuật; cần kiểm tra một câu nguồn bị cụt (ID VAT_59fc215d13cd8a) và một số tên vật phẩm trên NDS. Đợt 86-87 thêm 360 mục vat_pham_ky_nang_005-006 (tên trang bị, nguồn nhặt, thức ăn, hiệu ứng và mô tả vật phẩm); thông số HP/MP, tên Imagen giữ nguyên. Cần xem QA_DOT_86_87.json trước khi nhập ROM. Đợt 88-89 thêm 360 mô tả vũ khí, giáp, khiên, trang phục, vòng tay và nhãn hiệu ứng từ vat_pham_ky_nang_007-008. Không có dòng hoãn, cần rà thuật ngữ hệ/tình trạng trên menu game, và cơ chế hồi HP/MP khi chết. Đợt 94–96: hoàn thành 439 mục từ vat_pham_ky_nang_013–015. Tên chiêu còn cần rà ngữ nghĩa, xem CAN_RA_DOT_94_96.md. Còn 350 mục ưu tiên: 236 nhiệm vụ phụ, 55 lựa chọn/thông báo, 58 hội thoại hoãn và 1 nhãn Missing number.",
+  "unresolved_audit": {
+    "file": "DANH_SACH_112_MUC_CAN_RA.json",
+    "counts": {
+      "binary_false_positive": 74,
+      "temporary_debug_text": 31,
+      "developer_menu": 4,
+      "puzzle_keyword_preserve": 2,
+      "malformed_data_label": 1
+    },
+    "priority_unresolved": 112,
+    "notes": "Không được điền bản dịch giả cho bytes trong tài nguyên game; mã câu đố BURN/FREEZE giữ nguyên."
+  }
 }
