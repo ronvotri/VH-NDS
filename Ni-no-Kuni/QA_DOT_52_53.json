@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-05",
+  "batches": [
+    52,
+    53
+  ],
+  "source_files": [
+    "hoi_thoai_053.jsonl",
+    "hoi_thoai_054.jsonl"
+  ],
+  "done": 360,
+  "by_batch": {
+    "52": 180,
+    "53": 180
+  },
+  "total_translated": 10299,
+  "priority_total": 17935,
+  "remaining": 7636,
+  "translation_ratio": 0.57424,
+  "duplicate_ids_with_previous": 0,
+  "duplicate_new_ids": 0,
+  "invalid_json": 0,
+  "source_token_mismatch": 0,
+  "line_count_exceeded": 0,
+  "char_per_line_exceeded": 0,
+  "max_lines_per_entry": 3,
+  "max_chars_per_line": 48,
+  "manual_2024_exact_source_matches": {
+    "hoi_thoai_053": 0,
+    "hoi_thoai_054": 1
+  },
+  "notes": [
+    "Text-only checks; not confirmation of DS layout or byte/font fit.",
+    "Quiz answers needing letters, spell names or compass directions may still require English input unless game answer matching is changed.",
+    "Single exact 2024 source match, \"That's right!\", was compared; translation chosen in context.",
+    "Avoid simultaneously merging the combined and individual batch files."
+  ]
+}
