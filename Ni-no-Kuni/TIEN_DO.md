@@ -1,21 +1,21 @@
 # Ni no Kuni DS — Tiến độ Việt hóa
 
-**05/11/2026 — 73 đợt — 13.882 / 17.935 mục ưu tiên (77,40%). Còn 4.053 mục.**
+**05/11/2026 — 75 đợt — 14.241/17.935 mục ưu tiên (79,40%). Còn 3.694 mục.**
 
-Đợt 72–73 bổ sung **360 mục**, giữ nguyên 13.522 mục đã dịch qua 71 đợt trước.
+Giữ nguyên **13.882 câu** từ 73 đợt trước; bổ sung **359 câu** mới trong hai tệp:
 
-| Đợt | Tệp | Đã dịch | Hoãn |
-|---|---|---:|---:|
-| 72 | `translations/dot_72/hoi_thoai_073.jsonl` | 180 | 0 |
-| 73 | `translations/dot_73/hoi_thoai_074.jsonl` | 180 | 0 |
-| **Mới** | | **360** | **0** |
+| Đợt | Tệp | Nguồn | Dịch | Hoãn |
+|---|---|---:|---:|---:|
+| 74 | `translations/dot_74/hoi_thoai_075.jsonl` | 180 | 179 | 1 |
+| 75 | `translations/dot_75/hoi_thoai_076.jsonl` | 180 | 180 | 0 |
+| **Tổng mới** | | **360** | **359** | **1** |
 
-**QA dữ liệu:** đủ 360/360 ID nguồn, không trùng 13.522 ID cũ, JSONL đọc được, thẻ/placeholder được giữ nguyên theo nguồn. Ngắt dòng tối đa 3 dòng × 48 ký tự (theo số ký tự Unicode); **chưa thể khẳng định vừa ô thoại NDS**.
+**QA dữ liệu:** JSONL hợp lệ; 14.241 ID không trùng; mã điều khiển nguồn được giữ; không vượt giới hạn ngắt dòng sơ bộ 3 dòng × 48 ký tự. Chưa chứng minh vừa ô thoại NDS.
 
-**Nội dung:** ông Lữ Khách và lịch sử ba vương quốc Rekka, viện mẫu Obaba, đứa trẻ Aylie/Airi, Eisburg và lá thư trong chai, người gánh nước và cuộc thi nấu ăn Băng/Nước Ngàn Năm.
+**Hoãn:** `hoi_thoai_075` dòng 33 là nhãn nội bộ `Recipe Collecting NPC / Before Recipe Collection (temp)`. Không chèn vào lời thoại game.
 
-**Chờ rà:** nguồn không nhất quán tên Aylie/Airi; tên vật phẩm Băng Ngàn Năm/Nước Ngàn Năm chưa đối chiếu UI; câu hỏi của ông lão ở Eisburg có thể phụ thuộc đáp án tiếng Anh. Xem `CAN_RA_DOT_72_73.md`.
+Xem `QA_DOT_74_75.json` và `CAN_RA_DOT_74_75.md` về thuật ngữ cần kiểm thử.
 
-**Chưa làm:** đóng patch ROM, kiểm tra font tiếng Việt, giới hạn byte, đáp án nhập, kiểm thử trong giả lập/thiết bị. Bản dịch tay năm 2024 chỉ dùng đối chiếu; đợt này không có câu khớp nguyên văn.
+**Chưa làm:** ghép ROM, kiểm tra font Việt có dấu, giới hạn byte, hiển thị hoặc chơi thật trên NDS.
 
-**Tiếp theo:** `hoi_thoai_075–076`. Không nhập đồng thời bản gộp và tệp rời.
+**Tiếp theo:** `hoi_thoai_077–078`. Không nhập chung bản gộp với các tệp rời.
