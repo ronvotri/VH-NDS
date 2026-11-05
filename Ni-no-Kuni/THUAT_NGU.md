@@ -447,3 +447,15 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Quake | Chấn Động | Tên phép tạm; trang 57 |
 | Fortune’s Fool | Trò Đùa Số Phận | Tên phép tạm; trang 45 |
 | Medallions | Huy Chương | Hình minh họa đố chữ Astram |
+
+## Bổ sung đợt 56–57
+
+| Nguồn | Bản dịch | Ghi chú |
+|---|---|---|
+| Spring Lock | Mở Khóa | Phép/ấn chú, tạm dịch; cần xác minh UI |
+| Starey Sherry | Sherry Ngó Hoài | Biệt danh dân Hotroit gọi Sherry |
+| Scepter | Vương Trượng | Tên vật trong sách, gắn mã điều khiển |
+| Gate | Mở Cổng | Đã thống nhất, sách khoảng trang 21 |
+| Morton Memorial Hall | Nhà tưởng niệm Morton | Chờ kiểm tra tên hiển thị trong ảnh |
+| Hotroit Museum | Bảo tàng Hotroit | Tên địa danh |
+| The Hotroit of Today | Hotroit Ngày Nay | Tựa bích họa |
