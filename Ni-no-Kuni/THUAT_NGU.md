@@ -734,3 +734,25 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Lifewood | Gỗ Sinh Mệnh | Dùng trong nghi lễ |
 | Babanacia | Babanacia | Giữ tên bản DS |
 | Scarlet / Golden medals | Huy Chương | Giữ nguyên số trên huy chương |
+
+## Bổ sung đợt 88–89 — Trang bị và hiệu ứng
+
+| Nguồn | Cách dùng trong đợt này | Ghi chú |
+|---|---|---|
+| Sword / Saber | Kiếm / Kiếm cong (tùy ngữ cảnh) | Mô tả vũ khí, chưa phải tên vật phẩm chính thức |
+| Axe / Hammer / Spear / Lance | Rìu / Búa / Giáo / Thương | Thống nhất lớp trang bị |
+| Fang / Claws | Nanh / Vuốt | Vũ khí Imagen |
+| Armor / Shield / Helmet | Giáp / Khiên / Mũ | Trang bị phòng thủ |
+| Cloak / Bracelet | Áo choàng / Vòng tay | Phụ kiện |
+| VIP Room / Casino | Phòng V.I.P. / Sòng bạc | Vé và quyền vào phòng |
+| Poison / PSN | Độc | Trạng thái, nhãn PSN cần rà kỹ UI |
+| Silence | Câm Lặng | Trạng thái, cần rà giới hạn độ rộng |
+| Confusion | Rối Loạn | Trạng thái |
+| Sleep | Ngủ | Trạng thái |
+| Curse / Blind / Petrify | Nguyền Rủa / Mù / Hóa Đá | Trạng thái |
+| Critical / ATK / DEF / SPD | Chí Mạng / Tấn Công / Phòng Thủ / Tốc Độ | Phần hiệu ứng; có thể giữ viết tắt nếu ô hẹp |
+| Faint | Bất Tỉnh | Phân biệt với Death (Chết) |
+| Beast / Dragon / Ghost | Thú / Rồng / Ma | Tên hệ, rà cùng danh sách Imagen |
+| Gnome / Pixie / Riddle / Wild | Gnome / Pixie / Bí Ẩn / Hoang Dã | Tên hệ tạm thời, cần đối chiếu giao diện |
+| Resists All / Resists all | Kháng mọi hệ / Kháng mọi trạng thái | Nguồn mơ hồ; cần kiểm tra công dụng thật trong game |
+| Coconanda Caverns | Hang Coconanda | Tên địa danh để nguyên phần riêng |
