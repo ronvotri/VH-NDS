@@ -474,3 +474,28 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Starey Sherry | Sherry Ngó Hoài | Biệt danh Sherry |
 | Jungle | Jungle | Tên làng |
 | Priestess / Chief | Nữ Tư Tế / Trưởng Làng | Chờ xác nhận nhân vật và UI |
+
+## Bổ sung đợt 60–61
+
+| Từ gốc | Việt hóa | Ghi chú |
+|---|---|---|
+| Forest Steward | Người Giữ Rừng | Danh hiệu NPC Jungle, kiểm tra UI |
+| The Legendary Hunter | Thợ Săn Huyền Thoại | Danh hiệu nhiệm vụ Griffy |
+| Griffy | Griffy | Tên riêng quái vật |
+| Phone Stone | Đá Liên Lạc | Tạm dịch, cần soát danh mục vật phẩm |
+| Facehut | Lều Mặt Nạ | Tạm dịch, cần soát tên địa danh |
+| Hardwood | Gỗ Cứng | Vật liệu sửa tàu Alec |
+| Love / Courage / Ambition / Faith | Tình Yêu / Can Đảm / Hoài Bão / Niềm Tin | Mảnh Tim, không hoán đổi |
+
+
+## Bổ sung đợt 62–63
+
+| Từ gốc | Việt hóa | Ghi chú |
+|---|---|---|
+| Colin / Corrin | Colin | Một NPC tiều phu; nguồn ghi lệch một lần, kiểm tra UI |
+| Dragon's Den | Hang Rồng | Sào huyệt Viper ở phía đông Jungle |
+| Glacier Grotto | Hang Băng | Cần kiểm tra tên trên bản đồ |
+| Mouth of Shadaar | Miệng Shadaar | Cần kiểm tra nhãn địa danh |
+| Grey | Grey | Tên riêng chó, không dịch |
+| Two Mysteries | Hai Bí Ẩn | Tiêu đề manh mối Hang Băng; mã tô sáng giữ nguyên |
+| Silvervine Hut / Silvervine Group | Nhà Silvervine / Tập đoàn Silvervine | Dịch tạm nhãn cơ sở, cần xem UI |
