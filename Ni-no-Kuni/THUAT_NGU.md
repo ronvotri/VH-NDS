@@ -432,3 +432,16 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 **Giọng thoại:** Oliver lễ phép với Mirant và Miêu vương, nói tớ/cậu với bạn bè. Mirant trầm lắng trong lời chia tay. Yuri cô độc và nhẹ nhàng, không pha trò trong cảnh linh hồn siêu thoát. Shizuku vẫn lanh lợi, tinh nghịch khi phù hợp. Miêu vương xưng trẫm/ngươi và có tiếng “meo” đặc trưng.
 
 **QA:** bốn nhãn `TEMP` ở nguồn `hoi_thoai_048–049` được giữ ngoài bản dịch chính để rà trước khi nhập ROM.
+
+## Bổ sung đợt 54–55 (chờ kiểm tra tên phép trên NDS)
+
+| Nguồn | Bản dịch | Ghi chú |
+|---|---|---|
+| Dark Mist | Sương Đen | Kết giới Jabou |
+| Summon | Triệu Hồi | Phép thuật; trang 54 |
+| Imagen Orb | Ngọc Cầu Imagen | Vật liên quan phép Triệu Hồi |
+| Cloudburst | Mưa Trút | Tên phép tạm; trang 48 |
+| Thunderstorm | Bão Sét | Tên phép tạm; trang 49 |
+| Quake | Chấn Động | Tên phép tạm; trang 57 |
+| Fortune’s Fool | Trò Đùa Số Phận | Tên phép tạm; trang 45 |
+| Medallions | Huy Chương | Hình minh họa đố chữ Astram |
