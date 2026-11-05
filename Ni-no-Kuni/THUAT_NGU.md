@@ -589,3 +589,17 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Thousand-Year Water | Nước Ngàn Năm | Tên vật phẩm tạm, rà UI |
 | Glacier Grotto | Hang Băng | Thuật ngữ cũ |
 | Restraint Heart Fragment | Mảnh Tim Kiềm Chế | Giữ thuật ngữ cũ |
+
+## Bổ sung đợt 74–75 (tạm dịch, cần rà UI)
+
+| Nguồn | Bản dịch | Ghi chú |
+|---|---|---|
+| Snow Carrots | Cà Rốt Tuyết | Nhiệm vụ Eisburg |
+| Thousand-Year Ice | Băng Ngàn Năm | Vật liệu đĩa thức ăn |
+| Thousand-Year Water | Nước Ngàn Năm | Nguyên liệu món canh |
+| Cat Killer | Sát Miêu | Độc chuột; cần đối chiếu tên hiệu ứng |
+| Purrsian Post | Bưu Tín Purrsian | Hệ thống thư bí mật của người Purrsian |
+| Professor Crookshanks | Giáo sư Crookshanks | Tên riêng |
+| Aurora | Cực quang | Khí tượng Eisburg |
+| Silvervine Igloo | Nhà tuyết Silvervine | Cần đối chiếu nhãn cơ sở |
+| Parkas | Áo khoác lông | Trang phục chống rét; kiểm tra UI |
