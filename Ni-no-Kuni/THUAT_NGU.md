@@ -624,3 +624,28 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 | Imagen Manhole | Cống Imagen | Theo tên trước, cần xác minh UI |
 | Phoenix | Phoenix | Tượng dẫn đường |
 | Pokoro | Pokoro | Ẩn sĩ |
+
+## Bổ sung đợt 78–79: Imagen, mạng không dây và hướng dẫn
+
+| Tiếng Anh | Việt hóa | Lưu ý |
+|---|---|---|
+| Power of Song | Sức Mạnh Ca Khúc | Cần so tên tính năng trong giao diện |
+| Song of the Sea / Sky / Earth | Khúc Ca Biển / Trời / Đất | Theo bản dịch trước |
+| Raising | Chăm Nuôi | Tên chức năng, cần đo UI |
+| Rebirth / Rebirth Drop | Chuyển Sinh / Giọt Chuyển Sinh | Kiểm tra tên vật phẩm |
+| Nice point | Điểm Nice | Giữ Nice vì có thể là chỉ số UI |
+| Imagen Carrying Cage | Lồng Mang Imagen | Theo thuật ngữ trước |
+| Imagen Manhole | Cống Imagen | Theo thuật ngữ trước, cần rà nhãn |
+| Current Party Member | Đang ở trong đội | Nhãn hướng dẫn |
+| Battle Request | Gửi Lời Mời Đấu | Nhãn không dây cần so UI |
+| View Request List | Xem Danh Sách Lời Mời/Yêu Cầu | Tùy ngữ cảnh đấu/trao đổi |
+| Exchange | Trao Đổi | Mục Không Dây |
+| Download Quests/Items/Recipes | Nhiệm Vụ/Vật Phẩm/Công Thức Tải Về | Hai dòng mã hỏng đã hoãn |
+| Travelling Eggs | Trứng Du Hành | Theo bản dịch trước |
+| Hero Points | Điểm Anh Hùng | Theo thuật ngữ trước |
+| Synthesis | Ghép Đồ | Theo thuật ngữ trước |
+| Bridge (rune) | Cầu Nối | Trang 40 Sách Pháp Thuật |
+| Fluffy Bread | Bánh Mì Bông Xốp | Cần so tên vật phẩm |
+| Item Pouch | Túi Vật Phẩm | Cần so giao diện |
+| Magic Chest | Rương Phép | Cần so giao diện |
+| Storm's Eye | Mắt Bão | Theo thuật ngữ trước |
