@@ -369,69 +369,71 @@ Trong cảnh Suren và Mary: Suren xưng **ta/cháu** với Oliver, **cha/con** 
 
 ## Bổ sung đợt 38–41 (05/11/2026)
 
-| Nguyên gốc DS | Thuật ngữ thống nhất |
+| Nguồn DS | Tên tiếng Việt |
 |---|---|
 | Giant Firework | Pháo Hoa Khổng Lồ |
-| Chart Chests (spell) | Dò Rương *(cần kiểm tra tên nút)* |
-| Seek Fortune (spell) | Tầm Bảo *(theo thuật ngữ cũ, cần kiểm tra tên nút)* |
+| Chart Chests (spell) | Dò Rương *(cần xác minh tên nút)* |
+| Seek Fortune (spell) | Tầm Bảo *(giữ thuật ngữ của đợt trước; cần xác minh tên nút)* |
 | Hidden Chest | Rương Ẩn |
 | Soul Bond | Liên Kết Linh Hồn |
-| Centree | Cây Trăm Năm |
+| Centree | Cây Trăm Năm *(cây biểu tượng Vương quốc Catnap)* |
 | Centree sapling | Mầm Cây Trăm Năm |
 | Tail Wrestling | Đấu Đuôi |
 | Wizard's Pledge | Lời Thề Pháp Sư |
 | Bake Bread (spell) | Nướng Bánh Mì |
 | Wizard's Daily Gazette | Bản Tin Pháp Sư Hằng Ngày |
-| Hero Stamp Card | Thẻ Dấu Anh Hùng *(cần kiểm tra giao diện)* |
-| Carrying Cage | Lồng Mang Theo *(cần kiểm tra giao diện)* |
+| Hero Stamp Card | Thẻ Dấu Anh Hùng *(cần đối chiếu UI)* |
+| Carrying Cage | Lồng Mang Theo *(cần đối chiếu UI)* |
 | Red Earring | Khuyên Tai Đỏ |
 | Ship's Graveyard | Nghĩa Địa Tàu |
 
-**Giọng thoại:** Alicia–Jabou nghiêm túc; Cowla hài hước, Kuran kính cẩn. Trẻ Purrsian xưng tớ/cậu, em/anh tùy đối tượng. Không tự bỏ các đoạn lặp nội dung nếu ID gốc khác nhau.
+**Giọng thoại:** Alicia, Jabou và chuyện mẹ Oliver phải nghiêm túc, không pha hài. Nữ hoàng Cowla hài hước, hơi phô trương; Kuran lễ phép với Nữ hoàng. Các trẻ Purrsian dùng *tớ/cậu* hoặc *em/anh*, tùy người đối thoại. Các lời hướng dẫn ngắn, nhãn cần đo lại trong game.
 
-## Bổ sung đối chiếu đợt 42–45
+**Điểm cần rà:** Trong nguồn có nhiều đoạn hồi tưởng và lời thoại Catnap lặp nội dung ở nhiều thời điểm; không tự loại vì ID khác. `Chart Chests` và `Seek Fortune` có tên hiển thị chưa xác nhận. Các câu đố Lời Thề Pháp Sư phải đối chiếu với đáp án khi nhập ROM.
 
-| Gốc | Dùng trong bản dịch | Lưu ý |
+
+## Thuật ngữ mới / đối chiếu đợt 42–45
+
+| Nguồn | Dùng trong đợt mới | Ghi chú |
 |---|---|---|
-| Tail Wrestling | Đấu Đuôi | Giữ thuật ngữ cũ |
-| Motivation | Nhiệt Huyết | Giữ thuật ngữ cũ |
-| Give Heart | Trao Tim | Giữ thuật ngữ cũ |
-| Longevity Mushroom | Nấm Trường Thọ | Giữ thuật ngữ cũ |
-| Gale Cloak | Áo Choàng Gió | Rà với tên vật phẩm trong UI |
-| Reclusive Deerbeast | Hươu Thú Ẩn Dật | Rà tên quái |
-| Chubell the 17th | Chubell Đệ Thập Thất | Rà tên boss |
-| Catnap Coin | Đồng Catnap | Mục Vật Phẩm Quan Trọng |
-| Catnap King Badge | Huy Hiệu Vua Catnap | Rà tên vật phẩm |
-| Seance | Gọi Hồn | Rà tên phép |
-| Astram | Astram | Chữ cổ, giữ nguyên |
-| Mouse Men | Chuột Nhân | Danh từ chỉ tộc người |
+| Tail Wrestling | Đấu Đuôi | Đã dùng trước đó |
+| Motivation | Nhiệt Huyết | Đã dùng trước đó |
+| Give Heart | Trao Tim | Đã dùng trước đó |
+| Longevity Mushroom | Nấm Trường Thọ | Đã dùng trước đó |
+| Gale Cloak | Áo Choàng Gió | Cần đối chiếu tên vật phẩm trong UI |
+| Reclusive Deerbeast | Hươu Thú Ẩn Dật | Cần đối chiếu trong danh sách quái |
+| Chubell the 17th | Chubell Đệ Thập Thất | Cần đối chiếu tên boss |
+| Catnap Coin | Đồng Catnap | Kiểm tra mục Vật Phẩm Quan Trọng |
+| Catnap King Badge | Huy Hiệu Vua Catnap | Kiểm tra tên vật phẩm |
+| Seance | Gọi Hồn | Cần đồng bộ tên phép trong menu |
+| Astram | Astram | Giữ tên chữ cổ |
+| Mouse Men | Chuột Nhân | Thuật ngữ tộc người |
 | Purrsian | Purrsian | Giữ tên bản DS |
-| Silvervine Inn | Quán trọ Silvervine | Giữ địa danh |
+| Silvervine Inn | Quán trọ Silvervine | Tên riêng giữ nguyên |
 
-## Đợt 46–49: Mirant, Catnap, Yuri và Kuro
+## Đối chiếu đợt 46–49
 
-| Từ gốc | Dùng trong bản dịch | Ghi chú |
+| Nguyên văn | Bản dịch sử dụng | Lưu ý |
 |---|---|---|
-| Evenstar | Evenstar | Phép cấm, cần đối chiếu tên phép trong UI và trang 55 |
-| Moya Tower | Tháp Moya | Tuyến Mirant–Shadaar |
-| Magimech / Manic Magimech | Magimech / Manic Magimech | Giữ tên máy chiến đấu và boss, rà danh sách quái |
-| Locket Lock-On | Dò Tim | Tính năng tìm người có Mảnh Tim, chờ xác minh giao diện |
-| Hero License | Giấy Phép Anh Hùng | Tên năng lực thưởng, rà với UI |
-| Hero Stamp Card | Thẻ Dấu Anh Hùng | Thuật ngữ đã có |
-| Owl's Cowls | Owl's Cowls | Giữ nguyên tên riêng cửa tiệm |
-| Martin's Missions | Nhiệm Vụ Martin | Thuật ngữ đã có |
-| Item Link | Liên Kết Vật Phẩm | Kiểm tra menu liên kết Imagen |
-| Equipment Link | Liên Kết Trang Bị | Nguồn hướng dẫn không đồng nhất |
-| Blackbird Blacksmith | Blackbird Blacksmith | Giữ nguyên tên tiệm |
-| Frostbite | Frostbite | Tạm giữ tên phép, rà trang 52 Sách Pháp Thuật |
-| Skytree Cloth | Vải Cây Trời | Vật liệu |
+| Evenstar | Evenstar | Tên phép cấm; cần đối chiếu tên trong UI và Sách Pháp Thuật |
+| Moya Tower | Tháp Moya | Trục nhiệm vụ Mirant – Shadaar |
+| Manic Magimech | Manic Magimech | Giữ tên đối thủ đặc biệt, chờ đối chiếu danh mục quái |
+| Magimech | Magimech | Máy chiến đấu bằng ma thuật |
+| Locket Lock-On | Dò Tim | Tên tính năng gợi ý; cần đối chiếu giao diện |
+| Hero Stamp Card | Thẻ Dấu Anh Hùng | Đã có từ trước |
+| Hero License | Giấy Phép Anh Hùng | Tên năng lực/mốc thưởng, cần đối chiếu UI |
+| Owl's Cowls | Owl's Cowls | Giữ tên riêng cửa tiệm theo thuật ngữ cũ |
+| Martin's Missions | Nhiệm Vụ Martin | Theo thuật ngữ cũ |
+| Item Link | Liên Kết Vật Phẩm | Kiểm tra chính xác thứ tự và nhãn menu |
+| Equipment Link | Liên Kết Trang Bị | Nguồn có hai đường dẫn menu khác nhau |
+| Blackbird Blacksmith | Blackbird Blacksmith | Giữ tên tiệm theo thuật ngữ cũ |
+| Frostbite | Frostbite | Tên phép của Miêu vương, chờ xác minh UI |
+| Skytree Cloth | Vải Cây Trời | Thuật ngữ vật liệu mới |
 | Dragon Horn | Tù và Rồng | Vật phẩm gọi Kuro |
-| Holy Wood | Gỗ Thánh | Theo thuật ngữ cũ |
-| Gladion | Gladion | Đũa phép, giữ tên DS |
+| Holy Wood | Gỗ Thánh | Đã có từ trước |
+| Gladion | Gladion | Đũa phép huyền thoại; giữ tên bản DS |
 
-**Giọng thoại:** Oliver lễ phép với Mirant và Miêu vương, nói tớ/cậu với bạn bè. Mirant trầm lắng trong lời chia tay. Yuri cô độc và nhẹ nhàng, không pha trò trong cảnh linh hồn siêu thoát. Shizuku vẫn lanh lợi, tinh nghịch khi phù hợp. Miêu vương xưng trẫm/ngươi và có tiếng “meo” đặc trưng.
-
-**QA:** bốn nhãn `TEMP` ở nguồn `hoi_thoai_048–049` được giữ ngoài bản dịch chính để rà trước khi nhập ROM.
+**Giọng nhân vật:** Oliver lễ phép với Mirant và Miêu vương, xưng tớ/cậu với bạn; Mirant mang phong thái hiền giả, đoạn chia tay trầm lắng; Shizuku lém lỉnh nhưng không pha trò trong cảnh Yuri siêu thoát; Yuri nhẹ nhàng, cô độc; Miêu vương xưng trẫm/ngươi, có tiếng “meo” đặc trưng. Nhãn thử nghiệm hoãn riêng, không chế thành thoại.
 
 ## Bổ sung đợt 54–55 (chờ kiểm tra tên phép trên NDS)
 
