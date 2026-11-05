@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-05",
+  "batch_range": "46-49",
+  "source_files": [
+    "hoi_thoai_047",
+    "hoi_thoai_048",
+    "hoi_thoai_049",
+    "hoi_thoai_050"
+  ],
+  "source_total": 720,
+  "new_translated": 716,
+  "prior_translated": 8863,
+  "total_count": 9579,
+  "unique_ids": 9579,
+  "priority_total": 17935,
+  "per_file": {
+    "hoi_thoai_047": 180,
+    "hoi_thoai_048": 179,
+    "hoi_thoai_049": 177,
+    "hoi_thoai_050": 180
+  },
+  "deferred": [
+    {
+      "file": "hoi_thoai_048",
+      "source_row": 38,
+      "id": "HOI_348927258879db",
+      "source": "dialog block 3eb / file gr013p / TEMP NOT USED"
+    },
+    {
+      "file": "hoi_thoai_049",
+      "source_row": 176,
+      "id": "HOI_d6106664cbe301",
+      "source": "[temporary] Yaaawn… / Oh, it's you two. / You still need something?"
+    },
+    {
+      "file": "hoi_thoai_049",
+      "source_row": 177,
+      "id": "HOI_809c97f5c63781",
+      "source": "[temporary]Now, Oliver. / Give the king the Motivation Heart Fragment."
+    },
+    {
+      "file": "hoi_thoai_049",
+      "source_row": 178,
+      "id": "HOI_3e1d59b3869dba",
+      "source": "[temporary]Y-yeah."
+    }
+  ],
+  "duplicate_ids": 0,
+  "json_errors": 0,
+  "protected_token_errors": 0,
+  "layout_candidate_over_3_lines_or_48_columns": 0,
+  "exact_matches_translation_memory_2024": 7,
+  "previous_translations_unchanged": true,
+  "rom_tested": false,
+  "notes": "Character-count wrapping only; not verified on DS. Translation-memory matches must be context-checked, not copied indiscriminately."
+}
