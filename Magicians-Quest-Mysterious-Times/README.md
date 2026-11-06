@@ -1,24 +1,23 @@
 # Magician’s Quest: Mysterious Times — Việt hóa Nintendo DS
 
-Repo chung: [ronvotri/VH-NDS](https://github.com/ronvotri/VH-NDS/tree/main/Magicians-Quest-Mysterious-Times). Dữ liệu từng trò chơi nằm trong thư mục riêng.
+Repo chung: [ronvotri/VH-NDS](https://github.com/ronvotri/VH-NDS/tree/main/Magicians-Quest-Mysterious-Times). Mỗi game có thư mục riêng.
 
-**Checkpoint mới nhất: 014 (06/11/2026) — 5.805/55.976 mục (~10,37%).** Đợt này dịch tay **240 trang NPC**: `0022.001` (120) và `0022.002` (120). Tham chiếu `CHECKPOINT-2026-11-06-DOT-14.md`.
+**Checkpoint mới nhất: 015 (06/11/2026) — 6.045/55.976 mục (10,80%).** Đợt 015 dịch tay **240 trang thoại NPC**, `0022.003` và `0022.004` (mỗi tệp 120 trang). Đọc `CHECKPOINT-2026-11-06-DOT-15.md`.
 
 ## Phong cách đã duyệt
 
-- Giọng văn ngộ nghĩnh, hài hước, tự nhiên kiểu Gen Z, không nhồi meme; ví dụ: **“Em mê tụ tập, quẩy banh nóc với bạn bè!”**
-- Người dẫn chuyện lớn tuổi **ta–em**; thầy/cô–em khi đúng vai; bạn bè **tớ–cậu**; hệ thống trung tính.
-- NPC `0022` có phong thái hơi kiêu, thích lý sự, tự tin quá đà, tạo nét hài từ chính lời nói và hoàn cảnh.
-- Thuật ngữ: **The Emporium → Bách Hóa Tổng Hợp**, **Lovers' Point → Điểm Hẹn Hò**.
+- Lời thoại ngộ nghĩnh, tự nhiên, hài đúng tình huống kiểu Gen Z; ví dụ: **“Em mê tụ tập, quẩy banh nóc với bạn bè!”**. Không nhồi meme.
+- Người dẫn chuyện lớn tuổi **ta–em**; thầy/cô–em khi đúng vai; bạn bè **tớ–cậu**; thông báo hệ thống dùng **bạn**.
+- NPC cụm `0022` có vẻ tự phụ, hay lý sự nhưng thường tự làm mình quê; giữ sắc thái đó khi dịch.
+- Thuật ngữ: **The Emporium → Bách Hóa Tổng Hợp**, **Lovers’ Point → Điểm Hẹn Hò**.
 
-## Bàn giao đợt 014
+## Dữ liệu checkpoint 015
 
-- `CHECKPOINT-2026-11-06-DOT-14.md`: nội dung, tiến độ, bước tiếp.
-- `QA-014.md`: kết quả kiểm tra toàn bộ 501 tệp / 55.976 trường.
-- `translation/04-thoai/talkfigs__0eng__data__0022.001.jsonl`, `.002.jsonl`: bản dịch mới; chỉ thay `vi`.
-- `manual_0022_001.txt`, `manual_0022_002.txt`: 240 câu dịch tay theo trang.
-- `apply_014.py`, `qa_014.py`, `DELTA-014.jsonl`: công cụ áp bản dịch, QA và chênh lệch từ checkpoint 013.
+- `translation/04-thoai/talkfigs__0eng__data__0022.003.jsonl` + `.004.jsonl`: 240 câu mới, chỉ thay `vi`.
+- `manual_0022_003.txt` + `manual_0022_004.txt`: lời dịch tay theo thứ tự từng trang.
+- `apply_015.py`, `qa_015.py`, `DELTA-015.jsonl`, `QA-015.md`: script áp, so sánh với checkpoint 014, bản chênh và báo cáo QA.
+- `CHECKPOINT-2026-11-06-DOT-15.md`: tiến độ và chỉ dẫn nối phiên.
 
-**Chú ý:** QA đã đạt về cấu trúc, mã điều khiển, ngắt trang và byte. Chưa kiểm thử trên phần cứng/giả lập ROM NDS USA YNNE. ZIP là checkpoint dữ liệu, không chứa ROM thương mại.
+**QA cấu trúc: PASS**, 501 JSONL, 55.976 bản ghi, 0 lỗi mã điều khiển/giới hạn ký tự/byte/ghi đè. **Chưa QA hiển thị thực tế trên ROM NDS.** Không chứa ROM thương mại.
 
-**Bắt đầu đợt 015:** dịch `0022.003`, tiếp theo `0022.004`; ghi đè chỉ trường `vi`, không sửa bản cũ nếu chưa được duyệt.
+**Tiếp đợt 016:** dịch `0022.005` (120 trang), rồi `0023.001` (120 trang), giữ các quy ước trên.
