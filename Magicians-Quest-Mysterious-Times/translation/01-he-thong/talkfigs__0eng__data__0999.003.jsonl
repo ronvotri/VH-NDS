@@ -1,0 +1,120 @@
+{"id":"talkfigs/0eng/data/0999#7.18#page:1","en":"Design Pants","vi":"Thiết kế quần","ctx":"718"}
+{"id":"talkfigs/0eng/data/0999#7.19#page:1","en":"Design a Skirt","vi":"Thiết kế váy","ctx":"719"}
+{"id":"talkfigs/0eng/data/0999#7.20#page:1","en":"Send","vi":"Gửi","ctx":"720"}
+{"id":"talkfigs/0eng/data/0999#7.21#page:1","en":"Reset","vi":"Đặt lại","ctx":"721"}
+{"id":"talkfigs/0eng/data/0999#7.22#page:1","en":"Back","vi":"Quay lại","ctx":"722"}
+{"id":"talkfigs/0eng/data/0999#7.23#page:1","en":"Receive","vi":"Nhận","ctx":"723"}
+{"id":"talkfigs/0eng/data/0999#7.24#page:1","en":"Trade","vi":"Trao đổi","ctx":"724"}
+{"id":"talkfigs/0eng/data/0999#7.25#page:1","en":"Back","vi":"Quay lại","ctx":"725"}
+{"id":"talkfigs/0eng/data/0999#7.29#page:1","en":"Yes","vi":"Có","ctx":"729"}
+{"id":"talkfigs/0eng/data/0999#7.30#page:1","en":"No","vi":"Không","ctx":"730"}
+{"id":"talkfigs/0eng/data/0999#7.31#page:1","en":"Undo changes to your design?","vi":"Hoàn tác chỉnh sửa▼mẫu thiết kế chứ?","ctx":"731"}
+{"id":"talkfigs/0eng/data/0999#7.32#page:1","en":"Overwrites Basic Clothes.","vi":"Ghi đè trang phục cơ bản.","ctx":"732"}
+{"id":"talkfigs/0eng/data/0999#7.33#page:1","en":"Overwrites clothes in locker.","vi":"Ghi đè trang phục trong tủ.","ctx":"733"}
+{"id":"talkfigs/0eng/data/0999#10.0#page:1","en":"You cannot hold any more▼items. Would you like to▼swap it for another item?","vi":"Túi đầy mất rồi!▼Bạn muốn đổi món này▼lấy món khác không?","ctx":"1000"}
+{"id":"talkfigs/0eng/data/0999#10.1#page:2","en":"Yes$019'1002;","vi":"Có$019'1002;","ctx":"1001"}
+{"id":"talkfigs/0eng/data/0999#10.1#page:3","en":"No$019'1003;","vi":"Không$019'1003;","ctx":"1001"}
+{"id":"talkfigs/0eng/data/0999#10.2#page:1","en":"Select an item to remove▼from your item window.","vi":"Hãy chọn món đồ▼muốn bỏ khỏi túi.","ctx":"1002"}
+{"id":"talkfigs/0eng/data/0999#10.3#page:1","en":"You will lose your new item.","vi":"Bạn sẽ mất món đồ mới.","ctx":"1003"}
+{"id":"talkfigs/0eng/data/0999#10.4#page:1","en":"Your selected item has been▼sent to the trash can.","vi":"Món đồ đã chọn▼được bỏ vào thùng rác.","ctx":"1004"}
+{"id":"talkfigs/0eng/data/0999#10.5#page:1","en":"The trash can is full.▼Do you want to delete▼the oldest item?","vi":"Thùng rác đầy rồi!▼Bạn muốn xóa món đồ▼cũ nhất không?","ctx":"1005"}
+{"id":"talkfigs/0eng/data/0999#10.6#page:2","en":"Yes$019'1007;","vi":"Có$019'1007;","ctx":"1006"}
+{"id":"talkfigs/0eng/data/0999#10.6#page:3","en":"No$019'1008;","vi":"Không$019'1008;","ctx":"1006"}
+{"id":"talkfigs/0eng/data/0999#10.7#page:1","en":"An item has been deleted▼from the trash can and▼you received a new item.","vi":"Đã xóa một món đồ▼trong thùng rác và▼nhận món đồ mới.","ctx":"1007"}
+{"id":"talkfigs/0eng/data/0999#10.8#page:1","en":"You did not receive▼the new item.","vi":"Bạn chưa nhận được▼món đồ mới.","ctx":"1008"}
+{"id":"talkfigs/0eng/data/0999#10.9#page:1","en":"You're too far away. The action▼will be canceled.","vi":"Đứng xa quá!▼Thao tác bị hủy.","ctx":"1009"}
+{"id":"talkfigs/0eng/data/0999#10.10#page:1","en":"There is no more space.▼The action will be canceled.","vi":"Hết chỗ trống rồi!▼Thao tác bị hủy.","ctx":"1010"}
+{"id":"talkfigs/0eng/data/0999#10.11#page:1","en":"Cannot do this action.","vi":"Không thể thực hiện.","ctx":"1011"}
+{"id":"talkfigs/0eng/data/0999#10.12#page:1","en":"No more items will fit▼in this room.","vi":"Phòng này hết chỗ▼để thêm đồ rồi.","ctx":"1012"}
+{"id":"talkfigs/0eng/data/0999#10.13#page:1","en":"No riding brooms here.","vi":"Ở đây không được▼cưỡi chổi bay đâu!","ctx":"1013"}
+{"id":"talkfigs/0eng/data/0999#10.14#page:1","en":"Your inventory is full.▼Releasing the insect.","vi":"Túi đầy rồi!▼Đành thả bọ đi.","ctx":"1014"}
+{"id":"talkfigs/0eng/data/0999#10.15#page:1","en":"Your inventory is full.▼Releasing the fish.","vi":"Túi đầy rồi!▼Đành thả cá đi.","ctx":"1015"}
+{"id":"talkfigs/0eng/data/0999#10.16#page:1","en":"Can't put item down.▼Sending to trash can.","vi":"Không đặt đồ xuống được.▼Chuyển vào thùng rác.","ctx":"1016"}
+{"id":"talkfigs/0eng/data/0999#10.17#page:1","en":"You cannot give this item away▼as a present.","vi":"Không thể đem món này▼làm quà tặng.","ctx":"1017"}
+{"id":"talkfigs/0eng/data/0999#10.20#page:1","en":"You have dug up▼a $545'0;!","vi":"Bạn đào được▼$545'0;!","ctx":"1020"}
+{"id":"talkfigs/0eng/data/0999#10.21#page:1","en":"This action cannot be executed▼while using DS Wireless▼Communications.","vi":"Không thể thực hiện▼khi đang kết nối▼không dây DS.","ctx":"1021"}
+{"id":"talkfigs/0eng/data/0999#11.0#page:1","en":"Other player$019'1;","vi":"Người chơi khác$019'1;","ctx":"1100"}
+{"id":"talkfigs/0eng/data/0999#11.1#page:1","en":"Classmate$019'2;","vi":"Bạn cùng lớp$019'2;","ctx":"1101"}
+{"id":"talkfigs/0eng/data/0999#11.2#page:1","en":"New player$019'3;","vi":"Người chơi mới$019'3;","ctx":"1102"}
+{"id":"talkfigs/0eng/data/0999#11.3#page:1","en":"Exit$019'255;","vi":"Thoát$019'255;","ctx":"1103"}
+{"id":"talkfigs/0eng/data/0999#11.6#page:1","en":"Place$019'1;","vi":"Đặt$019'1;","ctx":"1106"}
+{"id":"talkfigs/0eng/data/0999#11.7#page:1","en":"Bury$019'2;","vi":"Chôn$019'2;","ctx":"1107"}
+{"id":"talkfigs/0eng/data/0999#11.8#page:1","en":"Release insect$019'3;","vi":"Thả bọ$019'3;","ctx":"1108"}
+{"id":"talkfigs/0eng/data/0999#11.9#page:1","en":"Discard$019'4;","vi":"Bỏ đi$019'4;","ctx":"1109"}
+{"id":"talkfigs/0eng/data/0999#11.10#page:1","en":"Equip$019'5;","vi":"Trang bị$019'5;","ctx":"1110"}
+{"id":"talkfigs/0eng/data/0999#11.11#page:1","en":"Unequip$019'6;","vi":"Tháo ra$019'6;","ctx":"1111"}
+{"id":"talkfigs/0eng/data/0999#11.12#page:1","en":"Exit$019'7;","vi":"Thoát$019'7;","ctx":"1112"}
+{"id":"talkfigs/0eng/data/0999#11.13#page:1","en":"Release fish$019'8;","vi":"Thả cá$019'8;","ctx":"1113"}
+{"id":"talkfigs/0eng/data/0999#11.14#page:1","en":"Hold$019'9;","vi":"Cầm$019'9;","ctx":"1114"}
+{"id":"talkfigs/0eng/data/0999#11.15#page:1","en":"Remove hat$019'10;","vi":"Bỏ mũ$019'10;","ctx":"1115"}
+{"id":"talkfigs/0eng/data/0999#11.16#page:1","en":"Remove glasses$019'11;","vi":"Bỏ kính$019'11;","ctx":"1116"}
+{"id":"talkfigs/0eng/data/0999#11.17#page:1","en":"Change wallpaper$019'12;","vi":"Đổi giấy dán tường$019'12;","ctx":"1117"}
+{"id":"talkfigs/0eng/data/0999#11.18#page:1","en":"Change flooring$019'13;","vi":"Đổi sàn nhà$019'13;","ctx":"1118"}
+{"id":"talkfigs/0eng/data/0999#11.19#page:1","en":"Whistle$019'14;","vi":"Huýt sáo$019'14;","ctx":"1119"}
+{"id":"talkfigs/0eng/data/0999#11.21#page:1","en":"Do nothing","vi":"Không làm gì","ctx":"1121"}
+{"id":"talkfigs/0eng/data/0999#11.22#page:1","en":"Place","vi":"Đặt","ctx":"1122"}
+{"id":"talkfigs/0eng/data/0999#11.23#page:1","en":"Bury","vi":"Chôn","ctx":"1123"}
+{"id":"talkfigs/0eng/data/0999#11.24#page:1","en":"Release","vi":"Thả","ctx":"1124"}
+{"id":"talkfigs/0eng/data/0999#11.25#page:1","en":"Discard","vi":"Bỏ đi","ctx":"1125"}
+{"id":"talkfigs/0eng/data/0999#11.26#page:1","en":"Equip","vi":"Trang bị","ctx":"1126"}
+{"id":"talkfigs/0eng/data/0999#11.27#page:1","en":"Unequip","vi":"Tháo ra","ctx":"1127"}
+{"id":"talkfigs/0eng/data/0999#11.28#page:1","en":"Exit","vi":"Thoát","ctx":"1128"}
+{"id":"talkfigs/0eng/data/0999#11.29#page:1","en":"Release","vi":"Thả","ctx":"1129"}
+{"id":"talkfigs/0eng/data/0999#11.30#page:1","en":"Hold","vi":"Cầm","ctx":"1130"}
+{"id":"talkfigs/0eng/data/0999#11.36#page:1","en":"Next","vi":"Tiếp","ctx":"1136"}
+{"id":"talkfigs/0eng/data/0999#11.37#page:1","en":"Back","vi":"Quay lại","ctx":"1137"}
+{"id":"talkfigs/0eng/data/0999#11.39#page:1","en":"Read","vi":"Đọc","ctx":"1139"}
+{"id":"talkfigs/0eng/data/0999#11.40#page:1","en":"Delete","vi":"Xóa","ctx":"1140"}
+{"id":"talkfigs/0eng/data/0999#11.41#page:1","en":"Exit","vi":"Thoát","ctx":"1141"}
+{"id":"talkfigs/0eng/data/0999#11.44#page:1","en":"Change name","vi":"Đổi tên","ctx":"1144"}
+{"id":"talkfigs/0eng/data/0999#11.45#page:1","en":"Change school","vi":"Đổi trường","ctx":"1145"}
+{"id":"talkfigs/0eng/data/0999#11.46#page:1","en":"Change code","vi":"Đổi mã","ctx":"1146"}
+{"id":"talkfigs/0eng/data/0999#11.47#page:1","en":"Delete","vi":"Xóa","ctx":"1147"}
+{"id":"talkfigs/0eng/data/0999#11.48#page:1","en":"Register friend","vi":"Thêm bạn","ctx":"1148"}
+{"id":"talkfigs/0eng/data/0999#11.49#page:1","en":"Confirm friend","vi":"Xác nhận bạn","ctx":"1149"}
+{"id":"talkfigs/0eng/data/0999#11.51#page:1","en":"friend code","vi":"Mã bạn bè","ctx":"1151"}
+{"id":"talkfigs/0eng/data/0999#11.52#page:1","en":"Name","vi":"Tên","ctx":"1152"}
+{"id":"talkfigs/0eng/data/0999#11.53#page:1","en":"School","vi":"Trường","ctx":"1153"}
+{"id":"talkfigs/0eng/data/0999#12.0#page:1","en":"OK","vi":"Đồng ý","ctx":"1200"}
+{"id":"talkfigs/0eng/data/0999#12.1#page:1","en":"Delete","vi":"Xóa","ctx":"1201"}
+{"id":"talkfigs/0eng/data/0999#12.2#page:1","en":"Help","vi":"Trợ giúp","ctx":"1202"}
+{"id":"talkfigs/0eng/data/0999#14.0#page:1","en":"Exit","vi":"Thoát","ctx":"1400"}
+{"id":"talkfigs/0eng/data/0999#14.1#page:1","en":"Freaky Frog Fat","vi":"Mỡ Ếch Quái","ctx":"1401"}
+{"id":"talkfigs/0eng/data/0999#14.2#page:1","en":"Angel Elixir","vi":"Tiên Dược Thiên Thần","ctx":"1402"}
+{"id":"talkfigs/0eng/data/0999#14.3#page:1","en":"Rose Dew","vi":"Sương Hoa Hồng","ctx":"1403"}
+{"id":"talkfigs/0eng/data/0999#14.4#page:1","en":"Moondrop","vi":"Giọt Trăng","ctx":"1404"}
+{"id":"talkfigs/0eng/data/0999#14.5#page:1","en":"Maiden's Tears","vi":"Nước Mắt Thiếu Nữ","ctx":"1405"}
+{"id":"talkfigs/0eng/data/0999#14.6#page:1","en":"Poison Apple Juice","vi":"Nước Táo Độc","ctx":"1406"}
+{"id":"talkfigs/0eng/data/0999#14.7#page:1","en":"Mandragora Root","vi":"Rễ Mandragora","ctx":"1407"}
+{"id":"talkfigs/0eng/data/0999#14.8#page:1","en":"Black Rose Thorn","vi":"Gai Hồng Đen","ctx":"1408"}
+{"id":"talkfigs/0eng/data/0999#14.9#page:1","en":"Ancient Dragon Scale","vi":"Vảy Rồng Cổ","ctx":"1409"}
+{"id":"talkfigs/0eng/data/0999#14.10#page:1","en":"Shooting Star Sliver","vi":"Mảnh Sao Băng","ctx":"1410"}
+{"id":"talkfigs/0eng/data/0999#14.11#page:1","en":"Witch's Claw","vi":"Vuốt Phù Thủy","ctx":"1411"}
+{"id":"talkfigs/0eng/data/0999#14.12#page:1","en":"Silver Scarab","vi":"Bọ Hung Bạc","ctx":"1412"}
+{"id":"talkfigs/0eng/data/0999#20.0#page:1","en":"The Rainbow March","vi":"Khúc Diễu Hành Cầu Vồng","ctx":"2000"}
+{"id":"talkfigs/0eng/data/0999#20.1#page:1","en":"Gold Hoops","vi":"Vòng Vàng","ctx":"2001"}
+{"id":"talkfigs/0eng/data/0999#20.2#page:1","en":"Heightened Energy","vi":"Năng Lượng Dâng Trào","ctx":"2002"}
+{"id":"talkfigs/0eng/data/0999#20.3#page:1","en":"Dusk and Dawn","vi":"Hoàng Hôn Và Bình Minh","ctx":"2003"}
+{"id":"talkfigs/0eng/data/0999#20.4#page:1","en":"Ragin' Rivers","vi":"Dòng Sông Cuộn Sóng","ctx":"2004"}
+{"id":"talkfigs/0eng/data/0999#20.5#page:1","en":"Digital Collision","vi":"Va Chạm Kỹ Thuật Số","ctx":"2005"}
+{"id":"talkfigs/0eng/data/0999#20.6#page:1","en":"Evolution '85","vi":"Tiến Hóa '85","ctx":"2006"}
+{"id":"talkfigs/0eng/data/0999#20.7#page:1","en":"Cottage Cheese","vi":"Phô Mai Tươi","ctx":"2007"}
+{"id":"talkfigs/0eng/data/0999#20.8#page:1","en":"The Misfits","vi":"Những Kẻ Lạc Loài","ctx":"2008"}
+{"id":"talkfigs/0eng/data/0999#20.9#page:1","en":"See You on the Ranch","vi":"Hẹn Gặp Ở Trang Trại","ctx":"2009"}
+{"id":"talkfigs/0eng/data/0999#20.10#page:1","en":"Stardust Hero","vi":"Người Hùng Bụi Sao","ctx":"2010"}
+{"id":"talkfigs/0eng/data/0999#20.11#page:1","en":"Showers of Howls","vi":"Mưa Tiếng Tru","ctx":"2011"}
+{"id":"talkfigs/0eng/data/0999#20.12#page:1","en":"Latin Flava","vi":"Hương Vị Latin","ctx":"2012"}
+{"id":"talkfigs/0eng/data/0999#20.13#page:1","en":"Hang Five","vi":"Lướt Sóng Cực Chất","ctx":"2013"}
+{"id":"talkfigs/0eng/data/0999#20.14#page:1","en":"Limelight","vi":"Ánh Đèn Sân Khấu","ctx":"2014"}
+{"id":"talkfigs/0eng/data/0999#20.15#page:1","en":"Tuxedos and Top Hats","vi":"Vest Và Mũ Chóp","ctx":"2015"}
+{"id":"talkfigs/0eng/data/0999#20.16#page:1","en":"Blue Serenade","vi":"Khúc Dạ Ca Xanh","ctx":"2016"}
+{"id":"talkfigs/0eng/data/0999#20.17#page:1","en":"Hasta Luego","vi":"Hẹn Gặp Lại","ctx":"2017"}
+{"id":"talkfigs/0eng/data/0999#20.18#page:1","en":"Bamboo Dream","vi":"Giấc Mơ Tre","ctx":"2018"}
+{"id":"talkfigs/0eng/data/0999#20.19#page:1","en":"Dirty Hubcaps","vi":"Ốp Bánh Xe Bụi Bặm","ctx":"2019"}
+{"id":"talkfigs/0eng/data/0999#20.20#page:1","en":"Kawaii!!!","vi":"Dễ Thương Quá!!!","ctx":"2020"}
+{"id":"talkfigs/0eng/data/0999#20.21#page:1","en":"Dandelion Snow","vi":"Tuyết Bồ Công Anh","ctx":"2021"}
+{"id":"talkfigs/0eng/data/0999#20.22#page:1","en":"Bottom of the Barrel","vi":"Đáy Thùng","ctx":"2022"}
+{"id":"talkfigs/0eng/data/0999#20.23#page:1","en":"Volume Control","vi":"Chỉnh Âm Lượng","ctx":"2023"}
+{"id":"talkfigs/0eng/data/0999#20.24#page:1","en":"Jump and Rock","vi":"Nhảy Và Quẩy","ctx":"2024"}
+{"id":"talkfigs/0eng/data/0999#20.25#page:1","en":"Dark Castle","vi":"Lâu Đài Bóng Tối","ctx":"2025"}
+{"id":"talkfigs/0eng/data/0999#20.26#page:1","en":"Lovin' Lonesome you","vi":"Yêu Một Người Cô Đơn","ctx":"2026"}

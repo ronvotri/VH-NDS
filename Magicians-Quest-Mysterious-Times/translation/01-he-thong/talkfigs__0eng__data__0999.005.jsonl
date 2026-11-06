@@ -1,0 +1,120 @@
+{"id":"talkfigs/0eng/data/0999#31.14#page:1","en":"This incantation cannot be used▼during wireless communications.","vi":"Không thể dùng thần chú▼khi đang kết nối▼không dây.","ctx":"3114"}
+{"id":"talkfigs/0eng/data/0999#31.15#page:1","en":"This incantation cannot be used▼during wireless communications.","vi":"Không thể dùng thần chú▼khi đang kết nối▼không dây.","ctx":"3115"}
+{"id":"talkfigs/0eng/data/0999#31.16#page:1","en":"This incantation cannot be used▼during wireless communications.","vi":"Không thể dùng thần chú▼khi đang kết nối▼không dây.","ctx":"3116"}
+{"id":"talkfigs/0eng/data/0999#31.17#page:1","en":"This incantation cannot be used▼during wireless communications.","vi":"Không thể dùng thần chú▼khi đang kết nối▼không dây.","ctx":"3117"}
+{"id":"talkfigs/0eng/data/0999#31.18#page:1","en":"This incantation cannot be used▼during wireless communications.","vi":"Không thể dùng thần chú▼khi đang kết nối▼không dây.","ctx":"3118"}
+{"id":"talkfigs/0eng/data/0999#31.19#page:1","en":"This incantation cannot be used▼during wireless communications.","vi":"Không thể dùng thần chú▼khi đang kết nối▼không dây.","ctx":"3119"}
+{"id":"talkfigs/0eng/data/0999#31.20#page:1","en":"This incantation cannot be used▼during wireless communications.","vi":"Không thể dùng thần chú▼khi đang kết nối▼không dây.","ctx":"3120"}
+{"id":"talkfigs/0eng/data/0999#31.25#page:1","en":"You cannot use magic here.","vi":"Không thể dùng phép▼ở đây.","ctx":"3125"}
+{"id":"talkfigs/0eng/data/0999#53.0#page:1","en":"The room is full.▼You cannot enter.","vi":"Phòng đầy người rồi!▼Không vào được đâu.","ctx":"5300"}
+{"id":"talkfigs/0eng/data/0999#53.6#page:1","en":"The door is locked and▼cannot be opened.","vi":"Cửa khóa rồi,▼không mở được.","ctx":"5306"}
+{"id":"talkfigs/0eng/data/0999#53.7#page:1","en":"Nobody lives here.","vi":"Chẳng có ai sống ở đây.","ctx":"5307"}
+{"id":"talkfigs/0eng/data/0999#53.10#page:1","en":"Transform into a wizard!▼Use magic linguistics to▼perform incantations.","vi":"Hãy biến thành phù thủy!▼Dùng ngôn ngữ phép thuật▼để niệm thần chú.","ctx":"5310"}
+{"id":"talkfigs/0eng/data/0999#53.15#page:1","en":"Where would you like to go?$019'5316;","vi":"Bạn muốn đi đâu?$019'5316;","ctx":"5315"}
+{"id":"talkfigs/0eng/data/0999#53.16#page:2","en":"communications room$019'5317;","vi":"Phòng Kết Nối$019'5317;","ctx":"5316"}
+{"id":"talkfigs/0eng/data/0999#53.16#page:3","en":"Exit$019'-1;","vi":"Thoát$019'-1;","ctx":"5316"}
+{"id":"talkfigs/0eng/data/0999#53.17#page:1","en":"Connects to the communications▼room.","vi":"Đi đến Phòng Kết Nối.","ctx":"5317"}
+{"id":"talkfigs/0eng/data/0999#53.18#page:1","en":"Connects to a random▼destination.","vi":"Dịch chuyển đến▼một nơi bất kỳ.","ctx":"5318"}
+{"id":"talkfigs/0eng/data/0999#53.20#page:1","en":"Where would you like to go?$019'5321;","vi":"Bạn muốn đi đâu?$019'5321;","ctx":"5320"}
+{"id":"talkfigs/0eng/data/0999#53.21#page:2","en":"communications room$019'5322;","vi":"Phòng Kết Nối$019'5322;","ctx":"5321"}
+{"id":"talkfigs/0eng/data/0999#53.21#page:3","en":"Anywhere$019'5323;","vi":"Bất kỳ đâu$019'5323;","ctx":"5321"}
+{"id":"talkfigs/0eng/data/0999#53.21#page:4","en":"Save$019'5;","vi":"Lưu$019'5;","ctx":"5321"}
+{"id":"talkfigs/0eng/data/0999#53.21#page:5","en":"Exit$019'-1;","vi":"Thoát$019'-1;","ctx":"5321"}
+{"id":"talkfigs/0eng/data/0999#53.22#page:1","en":"Connects to the communications▼room.","vi":"Đi đến Phòng Kết Nối.","ctx":"5322"}
+{"id":"talkfigs/0eng/data/0999#53.23#page:1","en":"Connects to a random▼destination.","vi":"Dịch chuyển đến▼một nơi bất kỳ.","ctx":"5323"}
+{"id":"talkfigs/0eng/data/0999#53.24#page:1","en":"Saves your progress.","vi":"Lưu tiến trình của bạn.","ctx":"5324"}
+{"id":"talkfigs/0eng/data/0999#53.30#page:1","en":"Where would you like to go?$019'5331;","vi":"Bạn muốn đi đâu?$019'5331;","ctx":"5330"}
+{"id":"talkfigs/0eng/data/0999#53.31#page:2","en":"communications room$019'5332;","vi":"Phòng Kết Nối$019'5332;","ctx":"5331"}
+{"id":"talkfigs/0eng/data/0999#53.31#page:3","en":"Mystery time$019'-1;","vi":"Giờ Bí Ẩn$019'-1;","ctx":"5331"}
+{"id":"talkfigs/0eng/data/0999#53.31#page:4","en":"Save$019'5;","vi":"Lưu$019'5;","ctx":"5331"}
+{"id":"talkfigs/0eng/data/0999#53.31#page:5","en":"Exit$019'-1;","vi":"Thoát$019'-1;","ctx":"5331"}
+{"id":"talkfigs/0eng/data/0999#53.32#page:1","en":"Connects to the communications▼room.","vi":"Đi đến Phòng Kết Nối.","ctx":"5332"}
+{"id":"talkfigs/0eng/data/0999#53.33#page:1","en":"Connects to mystery time.","vi":"Đi đến Giờ Bí Ẩn.","ctx":"5333"}
+{"id":"talkfigs/0eng/data/0999#53.34#page:1","en":"Connects to a random▼destination.","vi":"Dịch chuyển đến▼một nơi bất kỳ.","ctx":"5334"}
+{"id":"talkfigs/0eng/data/0999#53.35#page:1","en":"Saves your progress.","vi":"Lưu tiến trình của bạn.","ctx":"5335"}
+{"id":"talkfigs/0eng/data/0999#53.40#page:1","en":"Where would you like to go?$019'5341;","vi":"Bạn muốn đi đâu?$019'5341;","ctx":"5340"}
+{"id":"talkfigs/0eng/data/0999#53.41#page:2","en":"communications room$019'5342;","vi":"Phòng Kết Nối$019'5342;","ctx":"5341"}
+{"id":"talkfigs/0eng/data/0999#53.41#page:3","en":"The other world$019'5343;","vi":"Thế Giới Khác$019'5343;","ctx":"5341"}
+{"id":"talkfigs/0eng/data/0999#53.41#page:4","en":"Save$019'5;","vi":"Lưu$019'5;","ctx":"5341"}
+{"id":"talkfigs/0eng/data/0999#53.41#page:5","en":"Exit$019'-1;","vi":"Thoát$019'-1;","ctx":"5341"}
+{"id":"talkfigs/0eng/data/0999#53.42#page:1","en":"Connects to the communications▼room.","vi":"Đi đến Phòng Kết Nối.","ctx":"5342"}
+{"id":"talkfigs/0eng/data/0999#53.43#page:1","en":"Connects to the other world.","vi":"Đi đến Thế Giới Khác.","ctx":"5343"}
+{"id":"talkfigs/0eng/data/0999#53.44#page:1","en":"Connects to a random▼destination.","vi":"Dịch chuyển đến▼một nơi bất kỳ.","ctx":"5344"}
+{"id":"talkfigs/0eng/data/0999#53.45#page:1","en":"Saves your progress.","vi":"Lưu tiến trình của bạn.","ctx":"5345"}
+{"id":"talkfigs/0eng/data/0999#53.49#page:1","en":"The door is locked and▼cannot be opened.","vi":"Cửa khóa rồi,▼không mở được.","ctx":"5349"}
+{"id":"talkfigs/0eng/data/0999#53.50#page:1","en":"The room is full.▼You cannot enter.","vi":"Phòng đầy người rồi!▼Không vào được đâu.","ctx":"5350"}
+{"id":"talkfigs/0eng/data/0999#53.51#page:1","en":"I shouldn't touch it.▼I don't want to get▼in trouble.","vi":"Tốt nhất đừng đụng vào.▼Lỡ bị mắng thì khổ!","ctx":"5351"}
+{"id":"talkfigs/0eng/data/0999#53.52#page:1","en":"Where would you like to go?$019'5353;","vi":"Bạn muốn đi đâu?$019'5353;","ctx":"5352"}
+{"id":"talkfigs/0eng/data/0999#53.53#page:2","en":"communications room$019'5354;","vi":"Phòng Kết Nối$019'5354;","ctx":"5353"}
+{"id":"talkfigs/0eng/data/0999#53.53#page:3","en":"Save$019'5;","vi":"Lưu$019'5;","ctx":"5353"}
+{"id":"talkfigs/0eng/data/0999#53.53#page:4","en":"Exit$019'-1;","vi":"Thoát$019'-1;","ctx":"5353"}
+{"id":"talkfigs/0eng/data/0999#53.54#page:1","en":"You cannot connect to▼the communications room▼at this time.","vi":"Giờ không thể đến▼Phòng Kết Nối.","ctx":"5354"}
+{"id":"talkfigs/0eng/data/0999#53.55#page:1","en":"You cannot jump to a random▼destination at this time.","vi":"Giờ không thể đến▼một nơi ngẫu nhiên.","ctx":"5355"}
+{"id":"talkfigs/0eng/data/0999#53.56#page:1","en":"Saves your progress.","vi":"Lưu tiến trình của bạn.","ctx":"5356"}
+{"id":"talkfigs/0eng/data/0999#53.59#page:1","en":"I hear a knock...","vi":"Hình như có tiếng gõ...","ctx":"5359"}
+{"id":"talkfigs/0eng/data/0999#53.59#page:2","en":"Someone seems to be using it▼in the other world.","vi":"Hình như có người▼đang dùng nó▼ở Thế Giới Khác.","ctx":"5359"}
+{"id":"talkfigs/0eng/data/0999#53.60#page:1","en":"You cannot use it▼at this time.","vi":"Giờ chưa thể dùng nó.","ctx":"5360"}
+{"id":"talkfigs/0eng/data/0999#53.61#page:1","en":"I hear a knock...","vi":"Hình như có tiếng gõ...","ctx":"5361"}
+{"id":"talkfigs/0eng/data/0999#53.61#page:2","en":"Someone seems to be using it▼in the other world.","vi":"Hình như có người▼đang dùng nó▼ở Thế Giới Khác.","ctx":"5361"}
+{"id":"talkfigs/0eng/data/0999#53.62#page:1","en":"I hear a knock...","vi":"Hình như có tiếng gõ...","ctx":"5362"}
+{"id":"talkfigs/0eng/data/0999#53.62#page:2","en":"Someone seems to be using it▼in the other world.","vi":"Hình như có người▼đang dùng nó▼ở Thế Giới Khác.","ctx":"5362"}
+{"id":"talkfigs/0eng/data/0999#53.65#page:1","en":"Where would you like to go?$019'5366;","vi":"Bạn muốn đi đâu?$019'5366;","ctx":"5365"}
+{"id":"talkfigs/0eng/data/0999#53.66#page:2","en":"communications room$019'5367;","vi":"Phòng Kết Nối$019'5367;","ctx":"5366"}
+{"id":"talkfigs/0eng/data/0999#53.66#page:3","en":"Save$019'5;","vi":"Lưu$019'5;","ctx":"5366"}
+{"id":"talkfigs/0eng/data/0999#53.66#page:4","en":"Exit$019'-1;","vi":"Thoát$019'-1;","ctx":"5366"}
+{"id":"talkfigs/0eng/data/0999#53.67#page:1","en":"Connects to the communications▼room.","vi":"Đi đến Phòng Kết Nối.","ctx":"5367"}
+{"id":"talkfigs/0eng/data/0999#53.68#page:1","en":"Connects to a random▼destination.","vi":"Dịch chuyển đến▼một nơi bất kỳ.","ctx":"5368"}
+{"id":"talkfigs/0eng/data/0999#53.69#page:1","en":"Saves your progress.","vi":"Lưu tiến trình của bạn.","ctx":"5369"}
+{"id":"talkfigs/0eng/data/0999#53.97#page:1","en":"Your inventory is full.","vi":"Túi đồ đầy rồi!","ctx":"5397"}
+{"id":"talkfigs/0eng/data/0999#53.98#page:1","en":"It's empty.","vi":"Trống trơn luôn!","ctx":"5398"}
+{"id":"talkfigs/0eng/data/0999#53.99#page:1","en":"You got a treasure!","vi":"Nhặt được kho báu rồi!","ctx":"5399"}
+{"id":"talkfigs/0eng/data/0999#54.0#page:1","en":"Please visit during▼business hours:▼9:00 a.m. to 12:00 a.m.","vi":"Giờ mở cửa:▼9:00 sáng - 12:00 đêm.▼Mời bạn ghé đúng giờ nhé!","ctx":"5400"}
+{"id":"talkfigs/0eng/data/0999#54.1#page:1","en":"Please visit during▼business hours:▼9:00 a.m. to 12:00 a.m.","vi":"Giờ mở cửa:▼9:00 sáng - 12:00 đêm.▼Mời bạn ghé đúng giờ nhé!","ctx":"5401"}
+{"id":"talkfigs/0eng/data/0999#54.2#page:1","en":"Please visit during▼business hours:▼9:00 a.m. to 12:00 a.m.","vi":"Giờ mở cửa:▼9:00 sáng - 12:00 đêm.▼Mời bạn ghé đúng giờ nhé!","ctx":"5402"}
+{"id":"talkfigs/0eng/data/0999#54.3#page:1","en":"Please visit during▼business hours:▼8:00 a.m. to 4:00 a.m.","vi":"Giờ mở cửa:▼8:00 sáng - 4:00 sáng.▼Mời bạn ghé đúng giờ nhé!","ctx":"5403"}
+{"id":"talkfigs/0eng/data/0999#54.4#page:1","en":"Please visit during▼business hours:▼9:00 a.m. to 12:00 a.m.","vi":"Giờ mở cửa:▼9:00 sáng - 12:00 đêm.▼Mời bạn ghé đúng giờ nhé!","ctx":"5404"}
+{"id":"talkfigs/0eng/data/0999#54.5#page:1","en":"Please visit during▼business hours:▼9:00 a.m. to 12:00 a.m.","vi":"Giờ mở cửa:▼9:00 sáng - 12:00 đêm.▼Mời bạn ghé đúng giờ nhé!","ctx":"5405"}
+{"id":"talkfigs/0eng/data/0999#54.6#page:1","en":"Please visit during▼business hours:▼9:00 a.m. to 12:00 a.m.","vi":"Giờ mở cửa:▼9:00 sáng - 12:00 đêm.▼Mời bạn ghé đúng giờ nhé!","ctx":"5406"}
+{"id":"talkfigs/0eng/data/0999#54.7#page:1","en":"Please visit during▼business hours:▼9:00 a.m. to 12:00 a.m.","vi":"Giờ mở cửa:▼9:00 sáng - 12:00 đêm.▼Mời bạn ghé đúng giờ nhé!","ctx":"5407"}
+{"id":"talkfigs/0eng/data/0999#54.8#page:1","en":"The girls' toilet is▼next door.","vi":"Nhà vệ sinh nữ▼ở phòng bên cạnh.","ctx":"5408"}
+{"id":"talkfigs/0eng/data/0999#54.9#page:1","en":"The boys' toilet is▼next door.","vi":"Nhà vệ sinh nam▼ở phòng bên cạnh.","ctx":"5409"}
+{"id":"talkfigs/0eng/data/0999#100.1#page:1","en":"Side Part","vi":"Rẽ Ngôi Lệch","ctx":"10001"}
+{"id":"talkfigs/0eng/data/0999#100.2#page:1","en":"Center Part","vi":"Rẽ Ngôi Giữa","ctx":"10002"}
+{"id":"talkfigs/0eng/data/0999#100.3#page:1","en":"Loose Curls","vi":"Xoăn Lơi","ctx":"10003"}
+{"id":"talkfigs/0eng/data/0999#100.4#page:1","en":"Crew Cut","vi":"Tóc Húi Cua","ctx":"10004"}
+{"id":"talkfigs/0eng/data/0999#100.5#page:1","en":"Cool Cut","vi":"Tóc Cá Tính","ctx":"10005"}
+{"id":"talkfigs/0eng/data/0999#100.6#page:1","en":"Bowl Cut","vi":"Tóc Úp Bát","ctx":"10006"}
+{"id":"talkfigs/0eng/data/0999#100.7#page:1","en":"Pigtails","vi":"Tóc Hai Bím","ctx":"10007"}
+{"id":"talkfigs/0eng/data/0999#100.8#page:1","en":"Mop Top","vi":"Tóc Xù","ctx":"10008"}
+{"id":"talkfigs/0eng/data/0999#100.9#page:1","en":"Bob Cut","vi":"Tóc Bob","ctx":"10009"}
+{"id":"talkfigs/0eng/data/0999#100.10#page:1","en":"Curled Ends","vi":"Uốn Đuôi","ctx":"10010"}
+{"id":"talkfigs/0eng/data/0999#100.11#page:1","en":"Ponytail","vi":"Tóc Đuôi Ngựa","ctx":"10011"}
+{"id":"talkfigs/0eng/data/0999#100.12#page:1","en":"Bun","vi":"Tóc Búi","ctx":"10012"}
+{"id":"talkfigs/0eng/data/0999#100.25#page:1","en":"０Edition","vi":"Phiên Bản 0","ctx":"10025"}
+{"id":"talkfigs/0eng/data/0999#100.30#page:1","en":"Ritch","vi":"Ritch","ctx":"10030"}
+{"id":"talkfigs/0eng/data/0999#110.1#page:1","en":"Magic Ling.","vi":"Ngôn Ngữ Phép","ctx":"11001"}
+{"id":"talkfigs/0eng/data/0999#110.2#page:1","en":"Staff Magic","vi":"Phép Trượng","ctx":"11002"}
+{"id":"talkfigs/0eng/data/0999#110.3#page:1","en":"Incantation","vi":"Thần Chú","ctx":"11003"}
+{"id":"talkfigs/0eng/data/0999#110.4#page:1","en":"Name:","vi":"Tên:","ctx":"11004"}
+{"id":"talkfigs/0eng/data/0999#110.5#page:1","en":"Correct Ans.:","vi":"Đáp Án Đúng:","ctx":"11005"}
+{"id":"talkfigs/0eng/data/0999#111.1#page:1","en":"Do you want to delete this▼message?","vi":"Bạn muốn xóa▼tin nhắn này chứ?","ctx":"11101"}
+{"id":"talkfigs/0eng/data/0999#111.2#page:1","en":"Yes","vi":"Có","ctx":"11102"}
+{"id":"talkfigs/0eng/data/0999#111.3#page:1","en":"No","vi":"Không","ctx":"11103"}
+{"id":"talkfigs/0eng/data/0999#111.4#page:1","en":"Subject","vi":"Chủ Đề","ctx":"11104"}
+{"id":"talkfigs/0eng/data/0999#111.5#page:1","en":"Body Text","vi":"Nội Dung","ctx":"11105"}
+{"id":"talkfigs/0eng/data/0999#111.19#page:1","en":"Sunday","vi":"Chủ Nhật","ctx":"11119"}
+{"id":"talkfigs/0eng/data/0999#111.20#page:1","en":"Monday","vi":"Thứ Hai","ctx":"11120"}
+{"id":"talkfigs/0eng/data/0999#111.21#page:1","en":"Tuesday","vi":"Thứ Ba","ctx":"11121"}
+{"id":"talkfigs/0eng/data/0999#111.22#page:1","en":"Wednesday","vi":"Thứ Tư","ctx":"11122"}
+{"id":"talkfigs/0eng/data/0999#111.23#page:1","en":"Thursday","vi":"Thứ Năm","ctx":"11123"}
+{"id":"talkfigs/0eng/data/0999#111.24#page:1","en":"Friday","vi":"Thứ Sáu","ctx":"11124"}
+{"id":"talkfigs/0eng/data/0999#111.25#page:1","en":"Saturday","vi":"Thứ Bảy","ctx":"11125"}
+{"id":"talkfigs/0eng/data/0999#111.26#page:1","en":"Enter new text","vi":"Nhập nội dung mới","ctx":"11126"}
+{"id":"talkfigs/0eng/data/0999#121.2#page:1","en":"Transform in front of Fungi▼Forest, say the words, then▼enter the forest.","vi":"Biến hình trước Rừng Nấm,▼đọc thần chú rồi▼tiến vào rừng.","ctx":"12102"}
+{"id":"talkfigs/0eng/data/0999#121.3#page:1","en":"When the clock reads the date▼of your birthday, transform. Say▼the words, then wave your staff.▼Repeat this for a minute.","vi":"Vào đúng ngày sinh nhật,▼hãy biến hình, đọc chú,▼rồi vung trượng.▼Lặp lại trong một phút.","ctx":"12103"}
+{"id":"talkfigs/0eng/data/0999#122.0#page:1","en":"School","vi":"Trường","ctx":"12200"}
+{"id":"talkfigs/0eng/data/0999#122.1#page:1","en":"Haunted House","vi":"Nhà Ma","ctx":"12201"}
+{"id":"talkfigs/0eng/data/0999#122.2#page:1","en":"Dorm","vi":"Ký Túc Xá","ctx":"12202"}
+{"id":"talkfigs/0eng/data/0999#122.3#page:1","en":"Mon Paris","vi":"Mon Paris","ctx":"12203"}
+{"id":"talkfigs/0eng/data/0999#122.4#page:1","en":"Vivian's Boutique","vi":"Tiệm Thời Trang Vivian","ctx":"12204"}
+{"id":"talkfigs/0eng/data/0999#122.5#page:1","en":"Daisy's Flowers","vi":"Tiệm Hoa Daisy","ctx":"12205"}
