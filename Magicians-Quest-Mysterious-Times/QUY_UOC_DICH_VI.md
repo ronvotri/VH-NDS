@@ -7,10 +7,16 @@ Dịch đúng ngữ cảnh học đường phù thủy NDS, ấm áp, tinh ngh�
 
 1. **Người dẫn chuyện/phù thủy lớn tuổi ở Căn Phòng Khởi Đầu và Kết Thúc**: **ta – em**; phong thái thông thái, hơi nghịch, đôi lúc “Hô hô…”. Không tự ý đổi thành “tôi – bạn”, “ông – cháu” trong cùng nhân vật.
 2. **Giáo viên – học sinh**: **thầy/cô – em** khi xác định rõ vai; chưa chắc vai thì chưa gán chức danh, cần đọc các câu liền trước/sau cùng `ctx`.
-3. **Bạn bè đồng trang lứa, nói trực tiếp**: **tớ – cậu** làm mặc định; có thể nói “mình” khi ngữ cảnh thích hợp nhưng không trộn trong cùng hội thoại. Chọc ghẹo nhẹ như “Chuẩn luôn!”, “Quậy vui cùng bạn bè!” là hợp.
+3. **Bạn bè đồng trang lứa, nói trực tiếp**: **tớ – cậu** làm mặc định; có thể nói “mình” khi ngữ cảnh thích hợp nhưng không trộn trong cùng hội thoại. Chọc ghẹo nhẹ như “Chuẩn luôn!”, “Quẩy banh nóc với bạn bè!” là hợp nếu đúng tính cách và ngữ cảnh.
 4. **Thông báo hệ thống/menu**: trung tính, súc tích; cần xưng hô thì dùng “bạn”. Không dùng “em” trong thông báo lưu game, lỗi hệ thống.
 5. **Lựa chọn của người chơi nói với người dẫn chuyện**: dùng **em** khi cần đại từ, ví dụ “Để em tự chọn”, “Vâng ạ”. Lựa chọn nói với bạn bè phải theo tớ/cậu.
 6. **Nhân vật chưa rõ quan hệ**: tránh gán xưng hô tùy tiện; đọc chung mã `ctx`, kiểm tra tên NPC và lịch sử thoại, sau đó mới chọn.
+
+## Cập nhật theo duyệt ngày 06/11/2026
+- Người dùng duyệt câu: **“Em mê tụ tập, quẩy banh nóc với bạn bè!”** (trong JSONL: `Em mê tụ tập,▼quẩy banh nóc với bạn bè!`).
+- Các nhận xét tính cách tại màn mở đầu nên **ngắn, lém lỉnh, chất Gen Z** như “chuẩn con nhà người ta”, “đầu tàu cả hội”, “gì cũng muốn hóng”, thay vì giọng cứng và sáo.
+- Có thể bỏ tiếng đệm cổ điển “Hô hô...” khi câu cần mạnh và gọn hơn, nhưng giữ bản chất nhân vật lớn tuổi và quan hệ **ta–em** qua cả đoạn hội thoại.
+- Không dịch chữ trong tên vật phẩm kiểu meme; với lời thoại cảm động, thông báo hệ thống và mô tả kỹ thuật phải ưu tiên rõ nghĩa.
 
 ## Mức độ hài hước
 - Ưu tiên tự nhiên, dí dỏm, ngắn gọn: “Tên hay đấy chứ!”, “Chuẩn luôn!”, “Hô hô…”.

@@ -1,31 +1,38 @@
 # Magician's Quest: Mysterious Times — Việt hóa Nintendo DS
 
-Dự án Việt hóa **Magician's Quest: Mysterious Times** (NDS / bản Mỹ), lưu riêng trong [VH-NDS](https://github.com/ronvotri/VH-NDS) để không lẫn với Ni no Kuni hoặc Pokémon Dash.
+Dự án Việt hóa **Magician's Quest: Mysterious Times** (NDS / bản Mỹ) trong [VH-NDS](https://github.com/ronvotri/VH-NDS). Dữ liệu nằm trong thư mục riêng để không lẫn với **Ni no Kuni** và **Pokémon Dash**.
 
-## Trạng thái ngày 06/11/2026 — Checkpoint 002
-- **Đã điền 1.291/55.976 mục `vi`** (đợt 02 mới dịch thêm 636 mục). Số này bao gồm chuỗi giữ nguyên tên riêng sau khi duyệt, không có nghĩa 1.291 câu tiếng Anh đều đã đổi sang tiếng Việt.
-- **00 · Mở đầu:** 106/106, giữ bản đã thử trong game.
-- **01 · Hệ thống:** 1.086/1.087, còn 1 chuỗi ký tự tiếng Nhật dự phòng chưa dịch.
-- **02 · Vật phẩm:** 30/1.501.
-- **03 · Sổ tay:** 69/432.
-- **04 · Hội thoại:** 0/52.608.
-- **05 · Credit:** 0/242.
+## Trạng thái ngày 06/11/2026 — Checkpoint 003
 
-## Dữ liệu trong repo
-- `translation/01-he-thong/`: 5 tệp JSONL vừa dịch, mã kết nối, bạn bè, chuyển trường, trang phục và niệm chú.
-- `translation/03-so-tay/`: 4 tệp JSONL danh mục bài học và phép thuật.
-- [CHECKPOINT-2026-11-06-DOT-02.md](CHECKPOINT-2026-11-06-DOT-02.md): tiến độ, kiểm tra và cách nối phiên.
-- [QUY_UOC_DICH_VI.md](QUY_UOC_DICH_VI.md): khóa ngôi xưng và phong cách.
-- [BATCH_02_MAP.tsv](BATCH_02_MAP.tsv): 493 cặp dịch EN → VI (có thêm 3 mẫu đặc biệt cho bản rà).
-- [DOT-02-DELTA.bz2.b64](DOT-02-DELTA.bz2.b64) + [apply_delta_02.py](apply_delta_02.py): phục dựng 9 tệp đã dịch từ ZIP checkpoint 001; đối chiếu SHA256 từng tệp.
-- [qa_checkpoint.py](qa_checkpoint.py), [translation/GLOSSARY.tsv](translation/GLOSSARY.tsv), [translation/INDEX.tsv](translation/INDEX.tsv): công cụ QA, thuật ngữ và chỉ mục bản gốc.
-- `BAN_GIAO.md`: hướng dẫn, kỹ thuật vá ROM.
+| Nhóm | Đã điền tiếng Việt | Tổng |
+|---|---:|---:|
+| Mở đầu | 106 | 106 |
+| Hệ thống | 1.086 | 1.087 |
+| Vật phẩm | 390 | 1.501 |
+| Sổ tay | **432** | **432** |
+| Hội thoại NPC | 0 | 52.608 |
+| Credit | 0 | 242 |
+| **Tổng** | **2.014** | **55.976** |
 
-## Luật dịch
-- Vui nhộn, tinh nghịch, gần gũi Gen Z, không nhồi meme.
-- Người dẫn chuyện lớn tuổi **ta–em**; giáo viên **thầy/cô–em**; bạn bè **tớ–cậu**; thông báo hệ thống trung tính.
-- Chỉ thay `vi`, không sửa ID/EN/ctx/mã điều khiển/thứ tự/giới hạn byte.
-- Chỉ dùng ROM sạch bản Mỹ hợp pháp để build. Không đăng ROM thương mại trên GitHub.
+**Đợt 003:** +723 trường `vi` mới, biên tập lại 12 câu nhận xét tính cách. Số này bao gồm cả tên riêng/nhãn giữ nguyên nguồn sau khi rà duyệt, **không phải** số câu Việt hóa hoàn toàn đã test trong ROM.
 
-## Việc tiếp theo
-Dịch nốt 363 chuỗi sổ tay, sau đó 1.471 tên vật phẩm chưa dịch. Hội thoại NPC phải xem `ctx`, khóa quan hệ nhân vật trước khi lựa chọn ngôi xưng. Mỗi đợt lưu checkpoint mới và cập nhật cùng thư mục này.
+### Văn phong được người dùng duyệt
+> **Em mê tụ tập, quẩy banh nóc với bạn bè!**
+
+Phong cách ngộ nghĩnh, lém lỉnh, thân thiện Gen Z nhưng không nói lóng vô tội vạ. **Ngôi xưng là luật:** người dẫn chuyện `ta–em`, giáo viên `thầy/cô–em`, bạn bè `tớ–cậu` khi đã biết quan hệ; menu/thông báo hệ thống viết trung tính.
+
+## Tệp quan trọng
+- [CHECKPOINT-2026-11-06-DOT-03.md](CHECKPOINT-2026-11-06-DOT-03.md) — tiến độ, hướng dẫn nối phiên.
+- [QUY_UOC_DICH_VI.md](QUY_UOC_DICH_VI.md) — phong cách, ngôi xưng, yêu cầu kỹ thuật.
+- [translation/THUAT_NGU-003.tsv](translation/THUAT_NGU-003.tsv) — 429 thuật ngữ sinh vật/vật phẩm duyệt ở đợt 003.
+- `translation/00-mo-dau/` — lời mở đầu, kể cả 12 dòng sửa lần này.
+- `translation/02-vat-pham/` — các trang tên vật phẩm 001–003 đã dịch (các trang còn lại chưa dịch).
+- `translation/03-so-tay/` — đầy đủ 432 mục.
+- [DELTA-003.jsonl](DELTA-003.jsonl) — 735 bản ghi thay đổi so với checkpoint 002 (723 mới + 12 sửa).
+- [mq_translate_003.py](mq_translate_003.py), [mq_items_003.py](mq_items_003.py) — mã nguồn bảng dịch đợt 003, tái dựng được trên checkpoint 002.
+- [qa_checkpoint.py](qa_checkpoint.py), [BAN_GIAO.md](BAN_GIAO.md) — QA và hướng dẫn build NDS.
+
+**QA:** tái dựng từ checkpoint 002 cho kết quả trùng 100% các tệp JSONL; 0 lỗi mã điều khiển/NFC/giới hạn byte; sổ tay tối đa 3 dòng/150px (ước lượng font, không thay kiểm thử ROM). **Chưa có ROM build** vì chưa cung cấp ROM USA sạch; repo không lưu ROM thương mại.
+
+### Dịch tiếp
+Tiếp từ `translation/02-vat-pham/item__ItemName_e.ofs.004.jsonl` (quần áo, trang phục), sau đó rà NPC theo `ctx` để khóa ngôi xưng và tái sử dụng các thuật ngữ thống nhất. Mỗi đợt phải cập nhật checkpoint và GitHub.
