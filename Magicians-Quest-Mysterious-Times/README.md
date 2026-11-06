@@ -1,24 +1,22 @@
 # Magician’s Quest: Mysterious Times — Việt hóa Nintendo DS
 
-Repository chung: [ronvotri/VH-NDS](https://github.com/ronvotri/VH-NDS/tree/main/Magicians-Quest-Mysterious-Times). Mỗi game nằm thư mục riêng.
+**Checkpoint mới nhất: 018 (07/11/2026) — 6.711 / 55.976 mục (11,99%).** Thêm **186 trang NPC** (`0023.004` = 120, `0023.005` = 66). Đọc `CHECKPOINT-2026-11-07-DOT-18.md` và `QA-018.md`.
 
-**Checkpoint mới nhất: 017 (06/11/2026) — 6.525/55.976 mục (11,66%).** Đợt này dịch tay **240 trang NPC** thuộc `0023.002` và `0023.003`. Xem `CHECKPOINT-2026-11-06-DOT-17.md`.
+**Repository chung:** https://github.com/ronvotri/VH-NDS/tree/main/Magicians-Quest-Mysterious-Times
 
-## Văn phong & thuật ngữ
+## Nguyên tắc
 
-- Dịch thoại **tự nhiên, vui và tinh nghịch kiểu Gen Z**, ví dụ đã duyệt: **“Em mê tụ tập, quẩy banh nóc với bạn bè!”**. Không nhồi meme.
-- Người dẫn chuyện già **ta–em**, giáo viên **thầy/cô–em**, bạn bè **tớ–cậu**, thông báo hệ thống dùng **bạn**.
-- Tên địa điểm **The Emporium → Bách Hóa Tổng Hợp**, **Lovers’ Point → Điểm Hẹn Hò**; giữ màu tên với mã `$000'...;`.
-- Không thay đổi tên NPC hay tự thêm giới tính nếu bản nguồn không xác định.
+- Giọng tự nhiên, tinh nghịch, có nét hài Gen Z nhưng không nhồi meme. Bạn cùng lứa **tớ–cậu**; người lớn/giáo viên theo đúng vai; không tự thêm giới tính.
+- Thuật ngữ: **The Emporium → Bách Hóa Tổng Hợp**, **Lovers Point → Điểm Hẹn Hò**.
+- Chỉ thay trường `vi`, giữ bất biến trường `en`, `id`, `ctx`, thứ tự tệp, các mã lệnh `$019`, `$500`, `$515`, `$079`, `$024`/`$023`/`$022`, màu `$000` và nhánh lựa chọn.
 
-## Tệp đợt 017
+## Tệp đợt 018
 
-- `translation/04-thoai/talkfigs__0eng__data__0023.002.jsonl`: 120 câu mới.
-- `translation/04-thoai/talkfigs__0eng__data__0023.003.jsonl`: 120 câu mới.
-- `manual_0023_002.tsv`, `manual_0023_003.tsv`: lời dịch tay từng trang.
-- `apply_017.py`, `qa_017.py`: áp dịch, bảo toàn mã và kiểm tra 501 tệp với checkpoint 016.
-- `DELTA-017.jsonl`, `QA-017.md`, `CHECKPOINT-2026-11-06-DOT-17.md`: nhật ký và báo cáo.
+- `translation/04-thoai/talkfigs__0eng__data__0023.004.jsonl`: 120 trang mới.
+- `translation/04-thoai/talkfigs__0eng__data__0023.005.jsonl`: 66 trang mới.
+- `vi_0023_004.txt`, `vi_0023_005.txt`: bản dịch tay; `manual_0023_004.tsv`, `manual_0023_005.tsv`: đối chiếu ID.
+- `apply_018.py`, `qa_018.py`, `DELTA-018.jsonl`, `QA-018.md`, `CHECKPOINT-2026-11-07-DOT-18.md`.
 
-**QA: PASS, 0 lỗi**, chỉ 240 trường `vi` mới được thay; chưa thử trực tiếp trong ROM NDS. Checkpoint ZIP không chứa ROM.
+**QA:** PASS, 501 tệp JSONL và 55.976 bản ghi; 186 `vi` mới, không ghi đè. **Chưa test thực tế trên ROM NDS**. ZIP là gói bàn giao văn bản/kỹ thuật, không phải ROM/patch.
 
-**Đợt 018:** tiếp tục `0023.004` rồi `0023.005` sau khi kiểm tra số trang chưa dịch; rà các tên riêng và câu liên tục giữa các tệp trước khi điền `vi`.
+**Đợt 019:** khảo sát `0024.001` và nhóm tiếp theo.
