@@ -1,27 +1,31 @@
-# Magician's Quest: Mysterious Times — Việt hóa Nintendo DS
+# Magician’s Quest: Mysterious Times — Việt hóa Nintendo DS
 
-Dự án con trong [ronvotri/VH-NDS](https://github.com/ronvotri/VH-NDS), lưu riêng theo game.
+Dự án Việt hóa tiếng Việt bản NDS USA thuộc kho [VH-NDS](https://github.com/ronvotri/VH-NDS). Giữ riêng dưới `Magicians-Quest-Mysterious-Times/`, không lẫn với Ni no Kuni hoặc Pokémon Dash.
 
-## Checkpoint mới nhất: 008 (06/11/2026)
+## Tiến độ mới nhất · Checkpoint 009 (06/11/2026)
 
-**4.450/55.976 mục có `vi` (7,95%)** — +178 trang NPC từ checkpoint 007.
+**4.690 / 55.976 mục (8,38%)**, trong đó hội thoại đạt **1.565/52.608** mục.
 
-- Mở đầu 106/106; hệ thống 1.086/1.087; vật phẩm 1.501/1.501; sổ tay 432/432; hội thoại **1.325/52.608**; credit 0/242.
-- Vừa dịch trọn hai tệp `talkfigs__0eng__data__0010.001.jsonl` (84 trang) và `talkfigs__0eng__data__0011.001.jsonl` (94 trang).
-- **Chưa thử ROM/font pixel**, không gọi là bản hoàn thiện.
+| Nhóm | Đã xử lý | Tổng |
+|---|---:|---:|
+| Mở đầu | 106 | 106 |
+| Hệ thống | 1.086 | 1.087 |
+| Vật phẩm | 1.501 | 1.501 |
+| Sổ tay | 432 | 432 |
+| Hội thoại | 1.565 | 52.608 |
+| Credit | 0 | 242 |
 
-## Văn phong và ngôi xưng
+Đợt 009 xử lý **240 trang thoại** thuộc `0020.001` và `0020.002`. Không có các nhóm `0013`–`0015` trong file bàn giao (nhảy từ `0012` sang `0020`).
 
-Gen Z tinh nghịch, ngắn gọn, hài có duyên nhưng không lạm dụng meme. Câu mở đầu được duyệt: **“Em mê tụ tập, quẩy banh nóc với bạn bè!”**. Người dẫn chuyện lớn tuổi **ta – em**, giáo viên **thầy/cô – em** khi xác minh vai, bạn cùng lứa **tớ – cậu**, hệ thống trung tính. Giữ token, biến và trình tự gốc; không thêm giới tính/danh xưng khi thiếu ngữ cảnh.
+## Tài liệu và kỹ thuật
 
-## Tệp tiếp nối
+- [CHECKPOINT-2026-11-06-DOT-09.md](CHECKPOINT-2026-11-06-DOT-09.md): kết quả, thống kê và hướng dẫn nối phiên.
+- [QUY_UOC_DICH_VI.md](QUY_UOC_DICH_VI.md): giọng vui nhộn Gen Z, khóa ngôi xưng theo quan hệ nhân vật.
+- [QA-009.md](QA-009.md), [qa_009.py](qa_009.py): kiểm tra 501 JSONL và chỉ thay `vi`.
+- [DELTA-009.jsonl](DELTA-009.jsonl): ID, EN, VI, ctx của 240 mục mới.
+- [manual_0020_001.txt](manual_0020_001.txt), [manual_0020_002.txt](manual_0020_002.txt), [apply_009.py](apply_009.py): nguồn dịch tay và công cụ áp bản dịch.
+- `translation/04-thoai/`: chứa tất cả hội thoại đã cập nhật.
 
-- [`CHECKPOINT-2026-11-06-DOT-08.md`](CHECKPOINT-2026-11-06-DOT-08.md) — mốc, nhóm đã dịch và công việc tiếp theo.
-- [`QA-008.md`](QA-008.md) — đối chiếu 501 JSONL, không có lỗi hay cảnh báo dòng dài.
-- [`DELTA-008.jsonl`](DELTA-008.jsonl) — 178 bản dịch mới, có ID/EN/VI.
-- [`manual_0010.txt`](manual_0010.txt), [`manual_0011.txt`](manual_0011.txt) — bản dịch được đánh số theo thứ tự hàng trong từng JSONL.
-- [`apply_008.py`](apply_008.py), [`qa_008.py`](qa_008.py) — ghép vào baseline 007 và chạy QA (cần có checkpoint 007 ở thư mục sibling khi dùng trực tiếp).
-- [`translation/`](translation/) — dữ liệu JSONL đã cập nhật, có thể dựng patch khi có ROM USA sạch hợp lệ.
-- [`QUY_UOC_DICH_VI.md`](QUY_UOC_DICH_VI.md) — quy ước ngôi xưng, thuật ngữ, giữ byte/mã lệnh.
+**Luật bắt buộc:** không sửa `id`, `en`, `ctx`, mã `$...;`, thứ tự dòng; giữ `▼` và hạn chế độ dài pixel màn hình NDS. Không đăng ROM thương mại lên GitHub. Bản hiện tại chưa được kiểm thử in-game.
 
-**Kế tiếp:** dịch các cụm NPC mới sau `0011`, bắt đầu rà `0013`–`0015`. Không đưa ROM thương mại lên GitHub.
+**Bước sau:** nhóm `0020.003` trở đi, đồng bộ checkpoint 010 vào đúng thư mục này.
