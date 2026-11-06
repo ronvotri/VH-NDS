@@ -1,31 +1,25 @@
-# Magician’s Quest: Mysterious Times — Việt hóa Nintendo DS
+# Magician's Quest: Mysterious Times — Việt hóa Nintendo DS
 
-Dự án Việt hóa tiếng Việt bản NDS USA thuộc kho [VH-NDS](https://github.com/ronvotri/VH-NDS). Giữ riêng trong `Magicians-Quest-Mysterious-Times/`, không lẫn với Ni no Kuni hoặc Pokémon Dash.
+Dự án Việt hóa tiếng Việt trên repo chung [VH-NDS](https://github.com/ronvotri/VH-NDS), thư mục riêng `Magicians-Quest-Mysterious-Times/` để không lẫn Ni no Kuni và Pokémon Dash.
 
-## Tiến độ mới nhất · Checkpoint 010 (06/11/2026)
+## Trạng thái mới nhất — Checkpoint 011 · 06/11/2026
 
-**4.930 / 55.976 mục (8,81%)**, trong đó hội thoại đạt **1.805/52.608** mục.
+- **5.137/55.976 mục (9,18%)** có trường `vi` được điền, **+207 trang thoại so với checkpoint 010**.
+- Mở đầu **106/106**, hệ thống **1.086/1.087**, vật phẩm **1.501/1.501**, sổ tay **432/432**, hội thoại **2.012/52.608**, credit **0/242**.
+- Phần đợt 011: **87 trang `0020.005`** + **120 trang `0021.001`**, bản dịch tay tiếng Việt dấu, phong cách học đường hài hước Gen Z, không nhồi meme.
+- **QA:** 501 tệp JSONL đối chiếu; 0 thay đổi ngoài `vi`, 0 lỗi mã `$...;` và 0 vi phạm ngưỡng 34 ký tự/dòng. Chưa thử trong ROM/emulator.
 
-| Nhóm | Đã xử lý | Tổng |
-|---|---:|---:|
-| Mở đầu | 106 | 106 |
-| Hệ thống | 1.086 | 1.087 |
-| Vật phẩm | 1.501 | 1.501 |
-| Sổ tay | 432 | 432 |
-| Hội thoại | 1.805 | 52.608 |
-| Credit | 0 | 242 |
+## Nguồn và tài liệu
 
-Đợt 010 xử lý **240 trang thoại** thuộc `0020.003` và `0020.004`. Giọng văn dí dỏm Gen Z nhưng không lạm dụng meme; tên riêng, ngôi xưng và lựa chọn tình cảm được xử lý dựa trên `ctx`.
+- [Checkpoint 011](CHECKPOINT-2026-11-06-DOT-11.md), [QA 011](QA-011.md), [bản đối chiếu 011](DELTA-011.jsonl)
+- Các tệp JSONL mới trong `translation/04-thoai/` và bản dịch tay `manual_0020_005.txt`, `manual_0021_001.txt`
+- [Quy ước giọng văn/ngôi xưng](QUY_UOC_DICH_VI.md): người dẫn chuyện ta–em, giáo viên thầy/cô–em (khi rõ vai), bạn bè tớ–cậu; không đoán giới tính.
+- `apply_011.py` và `qa_011.py` để áp và xác thực thay đổi.
 
-## Tài liệu và kỹ thuật
+## Quy tắc
 
-- [CHECKPOINT-2026-11-06-DOT-10.md](CHECKPOINT-2026-11-06-DOT-10.md): mốc, nội dung và cách nối phiên.
-- [QUY_UOC_DICH_VI.md](QUY_UOC_DICH_VI.md): quy tắc giọng văn/ngôi xưng.
-- [QA-010.md](QA-010.md), [qa_010.py](qa_010.py): so sánh 501 JSONL, bất biến mọi trường ngoài `vi`.
-- [DELTA-010.jsonl](DELTA-010.jsonl): 240 ID + EN/VI + ctx.
-- [manual_0020_003.txt](manual_0020_003.txt), [manual_0020_004.txt](manual_0020_004.txt), [apply_010.py](apply_010.py): dịch tay và công cụ áp bản dịch.
-- `translation/04-thoai/`: hội thoại dịch đã cập nhật.
+- Chỉ sửa trường `vi`, bảo toàn ID, EN, metadata, mã điều khiển, tên file và thứ tự.
+- Tránh những câu tiếng lóng làm biến nghĩa hoặc vượt kích thước hộp thoại.
+- Không đăng ROM bản quyền lên GitHub. ZIP checkpoint đầy đủ được bàn giao riêng để dựng/kiểm thử với ROM sạch do người dùng cung cấp.
 
-**Giới hạn:** Không sửa ID/EN/ctx, mã `$...;` và thứ tự; không đưa ROM thương mại lên repo. Chưa QA in-game; đã QA dữ liệu / token / số ký tự.
-
-**Bước sau:** hoàn tất `0020.005` (87 trang), rồi chuyển các cụm thoại tiếp theo dựa trên tệp có thật.
+**Đợt kế tiếp:** tiếp tục `0021.002` trở đi và kiểm tra thống nhất tên riêng `The Emporium`/`Bách Hóa Tổng Hợp` trước khi thay đổi hàng loạt.
