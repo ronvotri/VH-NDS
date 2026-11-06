@@ -1,6 +1,6 @@
 # Magician’s Quest · Bàn giao Việt hóa cho Votri Valley
 
-> **Mốc mới nhất (checkpoint 018 · 07/11/2026):** Đã điền **6.711/55.976** mục; đợt 018 thêm **186 trang thoại** (`0023.004` + `0023.005`). QA 501 JSONL PASS, 0 lỗi. Xem `CHECKPOINT-2026-11-07-DOT-18.md`, `QA-018.md` và `DELTA-018.jsonl`. Đợt 019 khảo sát `0024.001`; giữ văn phong **tớ–cậu**, mã điều khiển và tên **Bách Hóa Tổng Hợp** / **Điểm Hẹn Hò**.
+> **Checkpoint 019 · 07/11/2026:** **6.951/55.976 mục**; đợt 019 dịch thêm 240 trang (`0024.001` + `0024.002`). QA đủ 501 JSONL, 0 lỗi. Xem `CHECKPOINT-2026-11-07-DOT-19.md`, `QA-019.md`, `DELTA-019.jsonl`. **Tiếp theo:** `0024.003`, `0024.004`. Giữ đúng mã điều khiển, lời thoại tớ–cậu và tên **Bách Hóa Tổng Hợp** / **Điểm Hẹn Hò**.
 
 ## Bắt đầu trong phiên cloud
 
