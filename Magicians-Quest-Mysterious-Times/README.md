@@ -1,22 +1,22 @@
 # Magician’s Quest: Mysterious Times — Việt hóa Nintendo DS
 
-**Checkpoint mới nhất: 025 (07/11/2026) — 8.308 / 55.976 mục (14,84%).** Đợt 025 dịch thêm **240 trang NPC** (`0026.003`: 120, `0026.004`: 120). Xem `CHECKPOINT-2026-11-07-DOT-25.md` và `QA-025.md`.
+**Checkpoint mới nhất: 026 (07/11/2026) — 8.528 / 55.976 mục (15,24%).** Đợt 026 dịch thêm **220 trang NPC** (`0026.005`: 100, `0027.001`: 120). Xem `CHECKPOINT-2026-11-07-DOT-26.md` và `QA-026.md`.
 
 **Repository chung:** https://github.com/ronvotri/VH-NDS/tree/main/Magicians-Quest-Mysterious-Times
 
 ## Nguyên tắc
 
-- Dịch tiếng Việt tự nhiên, hài hước vừa phải, không nhồi meme. Giữ phong cách riêng từng NPC; với bạn bè đồng trang lứa dùng **tớ–cậu**.
-- Thuật ngữ thống nhất: **The Emporium → Bách Hóa Tổng Hợp**, **Lovers Point → Điểm Hẹn Hò**.
-- Chỉ sửa trường `vi`; giữ nguyên `id`, `en`, `ctx`, mã điều khiển, thứ tự và nhánh lựa chọn. Giữ biến tên `$500;`, `$515;`, `$503;`.
+- Dịch tiếng Việt tự nhiên, vui nhộn vừa phải, không lạm dụng meme; nhất quán lời thoại NPC; bạn bè xưng **tớ–cậu**.
+- Thuật ngữ: **The Emporium → Bách Hóa Tổng Hợp**, **Lovers' Point → Điểm Hẹn Hò**.
+- Chỉ bổ sung trường `vi`; giữ nguyên `id`, `en`, `ctx`, mã biểu cảm, thứ tự và lựa chọn. Không thay đổi các biến tên `$500;`, `$515;` hay `$503'...;`.
 
-## Đợt 025
+## Đợt 026
 
-- `translation/04-thoai/talkfigs__0eng__data__0026.003.jsonl`: 120 trang, ngày lễ, sở thích, ứng xử, lòng can đảm và sự tự lập.
-- `translation/04-thoai/talkfigs__0eng__data__0026.004.jsonl`: 120 trang, tình bạn, rủ đi chơi, uống trà, học nhóm, tâm sự và lựa chọn hẹn hò.
-- `vi_0026_003.txt`, `vi_0026_004.txt`: bản dịch tay; `manual_0026_003.tsv`, `manual_0026_004.tsv`: ID / tiếng Anh / tiếng Việt.
-- `apply_025.py`, `qa_025.py`, `DELTA-025.jsonl`, `QA-025.md`, `CHECKPOINT-2026-11-07-DOT-25.md` và `BAN_GIAO.md`.
+- `translation/04-thoai/talkfigs__0eng__data__0026.005.jsonl`: 100 trang, các lời mời gặp nhau, kết bạn thân, chốt giờ hẹn, lời nhận xét về bạn bè.
+- `translation/04-thoai/talkfigs__0eng__data__0027.001.jsonl`: 120 trang, NPC nữ hoạt bát kể chuyện nhà cửa, nấu ăn, học hành, đi chơi và mua sắm.
+- `vi_0026_005.txt`, `vi_0027_001.txt`: bản dịch tay; `manual_0026_005.tsv`, `manual_0027_001.tsv`: ID / tiếng Anh / tiếng Việt.
+- `apply_026.py`, `qa_026.py`, `DELTA-026.jsonl`, `QA-026.md`, `CHECKPOINT-2026-11-07-DOT-26.md` và `BAN_GIAO.md`.
 
-**QA PASS:** 501 JSONL / 55.976 mục, đúng 240 trường `vi` mới, không ghi đè dữ liệu cũ. **Chưa kiểm thử trong ROM NDS**. ZIP checkpoint không chứa ROM thương mại.
+**QA PASS:** 501 JSONL / 55.976 mục, đúng 220 trường `vi` mới. **Chưa thử trong ROM NDS**. ZIP không chứa ROM thương mại.
 
-**Đợt 026:** tiếp tục `0026.005` (100 trang) và `0027.001` (120 trang).
+**Đợt 027:** tiếp tục `0027.002` (120 trang) và `0027.003` (120 trang).
