@@ -1,6 +1,6 @@
 # Magician’s Quest · Bàn giao Việt hóa cho Votri Valley
 
-> **Mốc mới nhất (checkpoint 016 · 06/11/2026):** Đã điền **6.285/55.976** mục. Đợt 016 thêm 240 câu thoại (`0022.005` + `0023.001`); QA 501 JSONL PASS. Xem `CHECKPOINT-2026-11-06-DOT-16.md`, `DELTA-016.jsonl` và `QA-016.md`. Bắt đầu đợt 017 với `0023.002`. Giữ ngôi xưng bạn bè **tớ–cậu** và tên **The Emporium = Bách Hóa Tổng Hợp**, **Lovers’ Point = Điểm Hẹn Hò**.
+> **Mốc mới nhất (checkpoint 017 · 06/11/2026):** Đã điền **6.525/55.976** mục. Đợt 017 thêm **240 trang thoại** (`0023.002` + `0023.003`), QA 501 JSONL PASS. Xem `CHECKPOINT-2026-11-06-DOT-17.md`, `DELTA-017.jsonl` và `QA-017.md`. Đợt 018 bắt đầu với `0023.004` sau khi kiểm tra dữ liệu. Giữ ngôi xưng **tớ–cậu**, chất hài tinh nghịch hợp NPC, không lạm dụng meme và không đổi các mã điều khiển; thuật ngữ khóa **The Emporium → Bách Hóa Tổng Hợp**, **Lovers’ Point → Điểm Hẹn Hò**.
 
 ## Bắt đầu trong phiên cloud
 
