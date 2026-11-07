@@ -1,5 +1,7 @@
 # Magician’s Quest · Bàn giao Việt hóa cho Votri Valley
 
+> **Checkpoint 042 · 07/11/2026:** **12.229/55.976 mục (21,85%)**, +240 trang (`0033.002`, `0033.003`), QA 501 JSONL/55.976 bản ghi, giữ nguyên 11.989 mục cũ. Đã dịch cướp biển, lời tiên tri tình yêu, Nhân Sư, phép Sao Băng, ông M/quái rương và rồng bị thương. Xem `CHECKPOINT-2026-11-07-DOT-42.md`, `QA-042.md`, `DELTA-042.jsonl`. **Tiếp đợt 043:** `0033.004` + `0033.005` (240 trang); đã có nguồn trong ZIP và GitHub.
+
 > **Checkpoint 041 · 07/11/2026:** **11.989/55.976 mục (21,42%)**, +240 trang (`0032.005` và `0033.001`, mỗi tệp 120). QA đối chiếu 501 JSONL/55.976 bản ghi, giữ nguyên 11.749 mục dịch trước, mã biểu cảm/lựa chọn/trừ tiền/tên nhân vật. Nội dung gồm tiên, giáo viên, các hiệu trưởng trong tranh, nữ thần thác nước, hoa kẹo và ông cướp biển. Xem `CHECKPOINT-2026-11-07-DOT-41.md`, `QA-041.md`, `DELTA-041.jsonl`. **Tiếp đợt 042:** `0033.002` + `0033.003` (240 trang), nguồn đã stage lên GitHub.
 
 

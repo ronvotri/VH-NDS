@@ -1,6 +1,6 @@
 # Magician’s Quest: Mysterious Times — Việt hóa Nintendo DS
 
-**Checkpoint mới nhất: 041 (07/11/2026) — 11.989 / 55.976 mục (21,42%).** Đợt 041 dịch thêm **240 trang NPC** (`0032.005`: 120; `0033.001`: 120): nhiệm vụ tiên, cô giáo và thầy Vlad, hai hiệu trưởng trong tranh, nữ thần thác nước và cướp biển. Xem `CHECKPOINT-2026-11-07-DOT-41.md`, `QA-041.md`, `DELTA-041.jsonl`.
+**Checkpoint mới nhất: 042 (07/11/2026) — 12.229 / 55.976 mục (21,85%).** Đợt 041 dịch thêm **240 trang NPC** (`0032.005`: 120; `0033.001`: 120): nhiệm vụ tiên, cô giáo và thầy Vlad, hai hiệu trưởng trong tranh, nữ thần thác nước và cướp biển. Xem `CHECKPOINT-2026-11-07-DOT-41.md`, `QA-041.md`, `DELTA-041.jsonl`.
 
 **Repository chung:** https://github.com/ronvotri/VH-NDS/tree/main/Magicians-Quest-Mysterious-Times
 
@@ -63,3 +63,11 @@
 - **QA PASS:** toàn bộ 501 tệp JSONL và 55.976 bản ghi; +240 `vi` mới, 11.749 bản dịch cũ giữ nguyên. Chưa thử ROM thực tế.
 
 **Đợt 042:** `0033.002` và `0033.003`, dự kiến 240 trang. Nguồn hai tệp tiếp theo đã stage lên GitHub.
+
+## Đợt 042 — Cướp biển, Nhân Sư, ông M và rồng
+
+- Đã dịch `0033.002` và `0033.003` (**120 + 120 = 240 trang**), từ **11.989** lên **12.229/55.976 mục (21,85%)**.
+- Nhân vật: cướp biển (lão–nhóc), thần hoa, Nhân Sư (ta–em), ông M/quái rương và rồng bị thương.
+- `vi_0033_002_raw.txt`, `vi_0033_003_raw.txt`, `vi_0033_002.txt`, `vi_0033_003.txt`, bảng song ngữ `manual_0033_002.tsv`, `manual_0033_003.tsv`; `DELTA-042.jsonl`, `apply_042.py`, `qa_042.py`, `QA-042.md` và `CHECKPOINT-2026-11-07-DOT-42.md`.
+- **QA PASS:** 501 JSONL/55.976 bản ghi, 240 mục mới, 11.989 bản dịch cũ bảo toàn. **Chưa thử ROM NDS.** ZIP không chứa ROM thương mại.
+- GitHub có sẵn nguồn cho đợt 043: `0033.004` + `0033.005` (240 trang).
