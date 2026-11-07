@@ -1,5 +1,8 @@
 # Magician’s Quest · Bàn giao Việt hóa cho Votri Valley
 
+> **Checkpoint 039 · 07/11/2026:** **11.509/55.976 mục (20,56%)**, +240 trang sự kiện (`0032.001`: 120; `0032.002`: 120). QA đối chiếu 501 JSONL và 55.976 bản ghi, giữ 11.269 bản dịch cũ. Đã dịch tiệc trà mùa xuân, thi thử gan mùa hè, hội thi lẩu nấm mùa thu và lễ hội tuyết cầu vồng. Xem `CHECKPOINT-2026-11-07-DOT-39.md`, `QA-039.md`, `DELTA-039.jsonl`. **Đợt tiếp:** `0032.003` + `0032.004` (240 trang); hai tệp nguồn được giữ trên GitHub.
+
+
 > **Checkpoint 038 · 07/11/2026:** **11.269/55.976 mục (20,13%)**, +221 trang thoại (`0031.004`: 120; `0031.005`: 101). QA đối chiếu toàn bộ 501 JSONL/55.976 bản ghi, bảo toàn 11.048 mục dịch cũ. Xem `CHECKPOINT-2026-11-07-DOT-38.md`, `QA-038.md`, `DELTA-038.jsonl`. **Đợt tiếp:** `0032.001` + `0032.002` (240 trang).
 
 > **Checkpoint 037 · 07/11/2026:** **11.048/55.976 mục (19,74%)**, +240 trang thoại (`0031.002`: 120; `0031.003`: 120). QA so sánh toàn bộ 501 JSONL/55.976 bản ghi, giữ nguyên 10.808 mục dịch cũ. Xem `CHECKPOINT-2026-11-07-DOT-37.md`, `QA-037.md`, `DELTA-037.jsonl`. **Đợt tiếp:** `0031.004` (120) và `0031.005` (101).

@@ -1,6 +1,6 @@
 # Magician’s Quest: Mysterious Times — Việt hóa Nintendo DS
 
-**Checkpoint mới nhất: 038 (07/11/2026) — 11.269 / 55.976 mục (20,13%).** Đợt 038 dịch thêm **221 trang NPC** (`0031.004`: 120; `0031.005`: 101). Xem `CHECKPOINT-2026-11-07-DOT-38.md`, `QA-038.md` và `DELTA-038.jsonl`.
+**Checkpoint mới nhất: 039 (07/11/2026) — 11.509 / 55.976 mục (20,56%).** Đợt 039 dịch thêm **240 trang NPC** (`0032.001`: 120; `0032.002`: 120), gồm bốn sự kiện theo mùa. Xem `CHECKPOINT-2026-11-07-DOT-39.md`, `QA-039.md` và `DELTA-039.jsonl`.
 
 **Repository chung:** https://github.com/ronvotri/VH-NDS/tree/main/Magicians-Quest-Mysterious-Times
 
@@ -34,3 +34,14 @@
 - **QA PASS:** 501 JSONL/55.976 bản ghi, 221 trang mới, 11.048 trang cũ giữ nguyên. **Chưa thử ROM NDS**. ZIP không chứa ROM thương mại.
 
 **Đợt 039:** `0032.001` và `0032.002` (dự kiến 240 trang).
+
+## Đợt 039 — Sự kiện bốn mùa
+
+- `0032.001` (120 trang): **Tiệc trà mùa xuân**, đánh giá cách tiếp khách; **Hội thi thử gan mùa hè** (Nhà Ma, phép xì hơi); mở đầu **Hội thi lẩu nấm**.
+- `0032.002` (120 trang): hái nấm, lựa chọn lẩu an toàn, chấm điểm lẩu; **Lễ hội tuyết cầu vồng**, pha lê bảy màu và nghi thức chuyển mùa.
+- `vi_0032_001_source.txt`, `vi_0032_002_source.txt`: bản dịch tay từng dòng; `vi_0032_001.txt`, `vi_0032_002.txt`: bản ghép mã và ngắt dòng; `manual_0032_001.tsv`, `manual_0032_002.tsv`: bảng song ngữ.
+- `apply_039.py`: áp bản dịch có thể chạy lại mà không ghi đè khác biệt; `qa_039.py`: kiểm tra toàn bộ so với ZIP 038; `DELTA-039.jsonl`, `QA-039.md`, `CHECKPOINT-2026-11-07-DOT-39.md`.
+- **QA PASS:** chỉ thêm 240 bản dịch, bảo toàn 11.269 bản cũ và mã điều khiển, 501 tệp JSONL, 55.976 bản ghi. **Chưa thử ROM NDS**. ZIP không chứa ROM thương mại.
+- GitHub cũng lưu trước **hai tệp nguồn chưa dịch** `0032.003` và `0032.004` để phiên tiếp theo có thể tự nối tiếp nếu ZIP không đính kèm được.
+
+**Đợt 040 tiếp theo:** `0032.003` và `0032.004` (120 + 120 = 240 trang).

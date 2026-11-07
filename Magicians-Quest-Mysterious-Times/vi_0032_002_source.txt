@@ -1,0 +1,120 @@
+001|Ta nóng lòng muốn cuộc thi bắt đầu quá!
+002|$000'4;Hội thi lẩu nấm$000'1; sắp diễn ra rồi. Mọi người chuẩn bị xong chưa?
+003|Còn địa điểm tổ chức thì...
+004|chúng ta sẽ thi tại $000'5;Rừng Nấm$000'1;.
+005|Còn nơi nào hợp hơn chứ! Hô hô hô! Hô hô hô!
+006|Nào, cùng cố gắng để có hội thi lẩu nấm tuyệt nhất nhé!
+007|Được rồi, để ta giải thích về hội thi lẩu nấm nhé!$073'502'12'1;
+008|Mọi người hãy đi hái nấm rồi mang về cho ta.
+009|Còn việc cho nấm vào nồi cứ để ta lo.
+010|Nhưng lỡ bỏ nấm lạ vào, cả nồi lẩu ngon có thể hỏng đấy!
+011|Vậy nên, vì ta... À không, vì mọi người...
+012|hãy mang về thật nhiều nấm trông ngon lành nhé!
+013|Nào, $500;, em hái được nấm chưa?
+014|Em mang nấm về$018'1;
+015|Ăn lẩu thôi$018'11;
+016|Thôi khỏi$018'10;
+017|Vậy đưa số nấm em hái được cho ta nhé?$073'502'13'1;
+018|Ồ, em làm tốt lắm! Ta rất ấn tượng đấy!
+019|Nồi lẩu của ta chắc chắn sẽ ngon tuyệt!
+020|Hô hô hô! Hô hô hô!
+021|Khụ khụ... Ờm...
+022|Thôi, mau cho nấm vào nồi nào.
+023|Hừm, em định cho thứ đó vào nồi sao?
+024|Em mất trí rồi à?!
+025|Em không nhận ra cây nấm cực độc này sao?!
+026|Bỏ thứ đó vào thì món ăn ta mong chờ bấy lâu...
+027|À không, món cả nhóm nấu sẽ chẳng ai ăn nổi!
+028|Không thể cho thứ đó vào nồi!
+029|Được rồi, cứ tiếp tục mang nấm về cho ta nhé!
+030|Cần ta giúp gì thêm thì cứ gọi một tiếng!
+031|Em muốn ngừng hái nấm và bắt đầu ăn rồi à?
+032|Vâng$018'1;
+033|Chưa ạ$018'7;
+034|Vậy tập hợp mọi người lại, mở tiệc thôi!
+035|Ta nóng lòng muốn nếm thử quá!$073'502'14'1;
+036|Đã đến lúc công bố kết quả hội thi lẩu nấm rồi!
+037|Nồi lẩu ngon tuyệt cú mèo!
+038|Nấm ngon bỏ vào nhiều đến mức đầy ắp cả nồi!
+039|Không chê được điểm nào! Đúng là nồi lẩu đỉnh nhất!
+040|Nồi lẩu rất ngon!
+041|Thêm chút nấm nữa thì tốt, nhưng vậy cũng tuyệt rồi.
+042|Mọi người làm tốt lắm!
+043|Ừm... Nồi lẩu thiếu nấm trầm trọng. Hơi thất vọng đấy.
+044|Ta đã bảo mang thật nhiều nấm về rồi mà?!
+045|Ta phải làm sao với các em đây? Năm sau nhớ rút kinh nghiệm!
+046|Vậy là hội thi lẩu nấm năm nay kết thúc.
+047|Năm sau lại thi, mong mọi người háo hức đón chờ nhé!
+048|Còn cần gì thì cứ gọi ta.
+049|$500;, em đã dốc hết sức trong hội thi lẩu nấm năm nay!
+050|Thấy em chăm thế, ta tặng em món quà đặc biệt! Lát nữa đến gặp ta nhé.
+051|Ai cũng nên học tập em đấy!
+052|Năm sau nhớ chuẩn bị thật kỹ cho hội thi nhé!
+053|$500;, em đã rất cố gắng trong hội thi lẩu nấm!$073'502'15'1;
+054|Ồ? $500;, em mang theo nhiều đồ quá rồi đấy?
+055|Sắp xếp lại đồ rồi đến gặp ta nhé.
+056|Từ giờ, ta mong em còn làm được nhiều điều hay hơn nữa!
+057|$500;, em đã rất chăm chỉ. Ta có quà đặc biệt cho em!
+058|Hô hô hô! Hô hô hô! Mọi người có mặt đủ rồi nhỉ!
+059|Nào, cùng đánh chén lẩu nấm thôi!
+060|Được rồi, ta có thông báo đặc biệt đây.
+061|Từ ngày 2 tháng sau, $000'4;lễ hội tuyết cầu vồng$000'1; thường niên sẽ kéo dài một tuần.
+062|Lễ hội này nhằm cảm tạ khi một mùa mới đến.
+063|Đây là nghi lễ phép thuật rất quan trọng, đưa $507'84; trở về trời.
+064|Mỗi em hãy thu thập đủ bảy viên $507'84; thuộc bảy màu khác nhau.
+065|Đó là loại pha lê rất hiếm, chỉ tìm được vào mùa đông.
+066|Muốn tìm thấy chúng, các em phải quan sát thật kỹ mọi lúc.
+067|Vì phù thủy nào cũng phải có đôi mắt tinh tường.
+068|Ta mong tất cả các em đều tham gia nhé.$024'121'0;
+069|$000'4;Lễ hội tuyết cầu vồng$000'1; thường niên sắp bắt đầu rồi.
+070|Các em thu thập được $507'84; nào chưa?
+071|Không chú ý quan sát thì chẳng tìm thấy đâu.
+072|Trong lễ hội, ngày nào các em cũng phải luyện óc quan sát.
+073|Cố lên, biết đâu các em sẽ trở thành phù thủy trưởng thành đấy!
+074|$000'4;Lễ hội tuyết cầu vồng$000'1; sắp khai mạc rồi.
+075|Các em đã quen cách thu thập $507'84; chưa?
+076|Ta tò mò xem các em gom được bao nhiêu màu khác nhau.
+077|Nhớ nhé, chỉ mùa đông mới tìm được chúng thôi.
+078|Ta sẽ đợi mọi người tại điểm hẹn.
+079|Cố lên, thử thu thập đủ cả bộ nhé!$024'121'0;
+080|Chào em, $500;! Mừng em đến với $000'4;lễ hội tuyết cầu vồng$000'1;!
+081|Giờ ta sẽ giải thích về $000'4;lễ hội tuyết cầu vồng$000'1;.
+082|Lễ hội nhằm cảm tạ khi một mùa mới đến.
+083|Đây là nghi lễ phép thuật rất quan trọng, đưa $507'84; trở về trời.
+084|Ta cần các em thu thập những viên pha lê này cho nghi lễ.
+085|Nào, $500;, em thu thập được $507'84; màu gì rồi?
+086|Sao thế? $500;, em chưa mang về viên $507'84; nào à?
+087|Nếu vậy, chúng ta chưa thể tiến hành nghi lễ.
+088|Em đi tìm thêm vài viên nhé.
+089|Nào, $500;, trong bảy màu $507'84;, xem ra em đã...
+090|thu thập được $550'524;!
+091|Vậy em muốn tiến hành nghi lễ ngay bây giờ chứ?
+092|Vâng$019'-1;
+093|Chưa ạ$019'-1;
+094|Khi nào sẵn sàng, nhớ báo ta nhé.
+095|Nghi lễ đẹp lắm, $500;! Ta rất hài lòng.
+096|Ta đã nói lúc nãy rồi, em còn nhớ việc phù thủy phải làm không?
+097|Ta dặn phải quan sát mỗi ngày, đúng chứ?
+098|Giờ ta muốn nói kỹ hơn về điều ấy.
+099|Hãy ngắm các mùa chuyển mình để trở thành phù thủy hiểu biết hơn.
+100|Ví dụ, hãy ngắm xuân sang hạ, rồi hạ chuyển thu...
+101|Ít ra, đó là quan niệm của ta về nghề phù thủy.$024'121'0;
+102|Ví dụ, hãy ngắm xuân sang hạ, rồi hạ chuyển thu...
+103|Ít ra, đó là quan niệm của ta về nghề phù thủy.$024'121'0;
+104|À đúng rồi! Vì em thu thập đủ bảy màu, ta có quà cho em đây.$024'121'0;
+105|$500;, ta mong em cố gắng hơn thế nữa.$024'121'0;
+106|Sao vậy, $500;, em mang nhiều đồ quá à?
+107|Vậy hãy sắp xếp đồ đạc rồi quay lại gặp ta.
+108|Nào, $500;, em đã dọn gọn đồ chưa?
+109|Vậy là $000'4;lễ hội tuyết cầu vồng$000'1; đã khép lại.
+110|Ta mong các em tiếp tục chăm chỉ để thành phù thủy xuất sắc.$024'121'0;
+111|$500;, em rất cố gắng! Nghi lễ vừa rồi cũng rất đẹp!
+112|Nhưng nếu em thu thập đủ mọi màu $507'84;...
+113|thì nghi lễ hẳn sẽ còn lộng lẫy hơn nữa.
+114|Năm sau cố gắng kiếm đủ bảy màu nhé.$024'121'0;
+115|Nghi lễ chưa thật rực rỡ nhỉ?
+116|$500;, việc thu thập $507'84; khó quá với em sao?
+117|Nếu thường xuyên chú ý những điều nhỏ nhặt, em sẽ rèn được...
+118|khả năng quan sát. Đã là phù thủy thì phải dốc sức.$024'121'0;
+119|Vậy là $000'4;lễ hội tuyết cầu vồng$000'1; kết thúc rồi.
+120|Từ nay, hãy chăm chỉ để trở thành phù thủy thật tài giỏi nhé!$024'121'0;

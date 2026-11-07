@@ -1,0 +1,120 @@
+001|Từ ngày 2 tháng sau, $000'4;tiệc trà mùa xuân$000'1; và phần đánh giá kéo dài một tuần sẽ bắt đầu!
+002|Các em có đang thưởng trà cùng bạn bè trong $000'5;Nhà kính$000'1; không?
+003|Lòng hiếu khách rất quan trọng. Ta mong các em luôn chăm chỉ rèn luyện.
+004|À phải rồi! Đừng quên tiệc trà mùa xuân diễn ra ở $000'5;quảng trường$000'1; nhé.
+005|Sắp đến $000'4;tiệc trà mùa xuân$000'1; thường niên rồi!
+006|Các em chuẩn bị xong chưa?
+007|Ta mong đến ngày khai tiệc quá! Hồi hộp đến mất ngủ luôn!
+008|Còn mọi người thì sao? Có háo hức không?
+009|Tiệc sẽ diễn ra tại $000'5;quảng trường$000'1; nhé.
+010|Chẳng còn bao lâu nữa là đến $000'4;tiệc trà mùa xuân$000'1;!
+011|Từ giờ, các em hãy tập cách tiếp đãi lẫn nhau nhé.
+012|Tiệc sẽ diễn ra ở $000'5;phía nam công viên một chút$000'1;.
+013|Nhưng nhớ nhé, trời mưa thì ta không tổ chức đâu.
+014|Nếu có em nào muốn cùng ta thưởng trà...
+015|hoặc muốn được đánh giá kỹ năng tiếp khách, cứ báo ta nhé.
+016|Ồ, $500;, em muốn nhờ ta việc gì à?
+017|Dự tiệc trà$018'1;
+018|Nhờ đánh giá$018'4;
+019|Thôi khỏi$019'21;
+020|Thật sao? Ta vui quá! Đợi một chút, ta chuẩn bị ngay.
+021|Trà thảo mộc đặc biệt của ta ngon hết sảy đấy!
+022|Nhờ mọi người, tiệc trà hôm nay vui quá chừng!
+023|Ôi, giờ ta no căng bụng rồi.
+024|Lát nữa chúng ta bắt đầu lại nhé.
+025|Ồ, $500;, ta rất tiếc, nhưng...
+026|Giờ ta no quá rồi.
+027|Em quay lại sau một lát được không?
+028|Em muốn ta đánh giá những gì em đã làm trong tiệc trà này à?
+029|Vâng$019'12;
+030|Không ạ$019'21;
+031|Được, ta sẽ nói cảm nhận của mình nhé.
+032|Em đã tiếp đãi bạn bè bằng cả tấm lòng đấy!
+033|Ai được em tiếp cũng vui vẻ hết!
+034|Từ nay, nhớ giữ mãi lòng tốt ấy khi đối đãi với mọi người nhé.
+035|$500;, em đã rất cố gắng. Ta có món quà dành cho em đây.
+036|Ta thấy em đã rất cố gắng.
+037|Nhưng em cần để tâm đến bạn bè nhiều hơn.
+038|Có lẽ em đã làm vài người khó chịu, hoặc chưa khiến mọi người vui.
+039|Khi tiếp khách, nhớ để ý họ thích và không thích gì nhé.
+040|Ối trời đất ơi! Em có nghe những lời ta dặn không vậy?!
+041|Nếu cứ cư xử thế, em sẽ chẳng bao giờ thành phù thủy giỏi đâu!
+042|Được rồi, tạm thế đã.
+043|Tiệc vẫn còn diễn ra một lúc nữa. Nhớ quay lại nhé!
+044|Em đã sắp xếp đồ đạc gọn lại chưa?
+045|Ơ? $500;, em mang nhiều đồ quá rồi đấy.
+046|Dọn bớt hành trang rồi quay lại nhé.
+047|Hôm nay em đã rất cố gắng. Làm tốt lắm!
+048|Từ nay, hãy luôn đối xử tử tế với mọi người nhé.
+049|Thật vậy sao? Lần khác cần ta giúp gì thì cứ bảo nhé.
+050|Ủa, $500;, em muốn cùng ta mở tiệc trà à?
+051|Dự tiệc trà$019'24;
+052|Thôi khỏi$019'21;
+053|Thật sao? Ta vui quá! Đợi chút, ta chuẩn bị ngay.
+054|Trà thảo mộc đặc biệt của ta ngon hết sảy đấy!
+055|Nhờ mọi người mà tiệc trà vui quá chừng!
+056|Ôi, giờ ta no căng bụng rồi.
+057|Nhất định lần sau lại mở tiệc nhé!
+058|Dự tiệc trà$019'-1;
+059|Nhờ đánh giá$019'-1;
+060|Hủy$019'-1;
+061|Dự tiệc trà$019'-1;
+062|Hủy$019'-1;
+063|Ồ, $500;! Ta giúp gì được cho em?
+064|Có vẻ ai cũng rất thích cách em tiếp đãi họ đấy, $500;!
+065|Từ nay, hãy tử tế với mọi người như hôm nay nhé!
+066|Ta thấy em khá cố gắng đấy!
+067|Nhưng có lẽ em chưa chu đáo với tất cả khách mời.
+068|Hình như vài vị khách chưa hài lòng, thậm chí còn buồn nữa!
+069|Khi mở tiệc trà, nhớ quan tâm đến sở thích của khách nhé!
+070|Từ ngày 2 tháng sau, ta sẽ tổ chức sự kiện mùa hè hằng năm kéo dài một tuần...
+071|$000'4;Hội thi thử gan$000'1;! Muốn thành phù thủy giỏi thì phải thật dũng cảm.
+072|Hội thi này sẽ thử xem các em gan dạ đến đâu.
+073|Vì các em đều muốn trở thành phù thủy giỏi...
+074|chắc chắn ai cũng sẽ tham gia cuộc thi nhỉ!
+075|$000'4;Hội thi thử gan$000'1; mùa hè hằng năm sắp đến rồi.
+076|Những gì các em học mỗi ngày sắp được thử thách đấy.
+077|Ai còn thiếu tự tin thì mau chuẩn bị tinh thần đi nhé!
+078|$000'4;Hội thi thử gan$000'1; sắp diễn ra...
+079|tại $000'5;Ngôi Nhà Ma ở rìa thị trấn$000'1;.
+080|Chính mắt ta sẽ xem...
+081|các phù thủy trẻ gan dạ đến mức nào!
+082|$500;, em sẽ tham gia $000'4;hội thi thử gan$000'1;, đúng không?
+083|Tham gia$019'-1;
+084|Không tham gia$019'-1;
+085|Tốt lắm.
+086|Ta sẽ giải thích luật ngay đây.
+087|Luật chơi rất đơn giản.
+088|$000'6;Từ 7 giờ tối đến 3 giờ sáng$000'1;, hãy tìm $507'117; trong $000'5;Ngôi Nhà Ma$000'1; và mang về cho ta.
+089|Muốn đuổi $000'3;ma$000'1; ở đó, em phải dùng $000'4;phép xì hơi$000'1;.
+090|Lấy hết can đảm lên, mang $507'117; về cho ta nhé!
+091|Hừm... $500;, em cũng phải thử sức chứ nhỉ?$024'122'0;
+092|Vậy em cũng tham gia $000'4;hội thi thử gan$000'1; nhé?
+093|Tham gia$019'-1;
+094|Không tham gia$019'-1;
+095|Có chuyện gì thế?
+096|Trò chuyện$019'-1;
+097|Hỏi luật chơi$019'-1;
+098|$500;, em vẫn chưa tìm thấy $507'117;, đúng không?
+099|Vậy hãy lấy can đảm đi tìm rồi mang về đây.$022'122'342;
+100|Được, ta sẽ nhắc lại luật một lần nữa.
+101|Rất đơn giản thôi.
+102|$000'6;Từ 7 giờ tối đến 3 giờ sáng$000'1;, hãy tìm $507'117; trong $000'5;Ngôi Nhà Ma$000'1; và mang về cho ta.
+103|Muốn đuổi $000'3;ma$000'1; ở đó, em phải dùng $000'4;phép xì hơi$000'1;.
+104|$500;, em lấy được $507'117; mà chẳng gặp khó khăn gì à?
+105|Tất nhiên! Học trò của ta thì phải làm được chứ.
+106|$500;, em có hiểu điều quan trọng khi dùng phép thuật không?
+107|Đó là tinh thần! $000'4;Hội thi thử gan$000'1; này là một bài học.
+108|Nó giúp các em rèn bản lĩnh vững vàng hơn.
+109|Ta mong cuộc thi có ích cho em và các bạn.
+110|Vậy là cuộc thi kết thúc rồi.
+111|Từ nay, nhớ chăm chỉ mỗi ngày nhé.
+112|Ta mong em cứ tiếp tục tiến bộ.
+113|Từ ngày 2 tháng sau, $000'4;hội thi lẩu nấm mùa thu$000'1; kéo dài một tuần sẽ bắt đầu!
+114|Mùa này $000'4;nấm$000'1; mọc đầy nơi, nên ai cũng rủ nhau đi hái.
+115|Rồi chúng ta sẽ thi xem ai nấu được nồi lẩu nấm ngon nhất!
+116|Nhưng trước khi thi, nhớ một điều: đây cũng là tiết học đấy!
+117|Các em sẵn sàng cho $000'4;hội thi lẩu nấm$000'1; tháng sau chưa?
+118|Giờ mà hái thật nhiều $000'4;nấm$000'1; thì lúc thi khỏi phải cuống!
+119|Hôm nay ta lại hái cả đống nấm để chuẩn bị cho cuộc thi đây!
+120|Hô hô hô! Hô hô hô!
