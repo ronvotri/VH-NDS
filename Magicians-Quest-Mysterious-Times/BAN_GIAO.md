@@ -1,3 +1,12 @@
+## Mốc mới nhất — Checkpoint 053 (08/11/2026)
+
+- **14.832/55.976 (26,50%)**, +240 mục thoại NPC; **11.707/52.608** trang thoại có bản dịch.
+- `0040.003` / `0040.004` mỗi tệp 120 trang: những câu nói chuyện về tình bạn, hẹn hò, lễ hội, ngoại khóa, chia tay; giữ mã tên động `$500;` / `$515;` nguyên thứ tự.
+- Nguồn đợt 054 đã có trong `translation/04-thoai/`: `0040.005`, `0040.006` (mỗi tệp 120 dòng, chưa dịch). Mở `CHECKPOINT-2026-11-08-DOT-53.md` và `QA-053.md` để nối tiếp.
+- Kiểm tra tĩnh 501 JSONL / 55.976 bản ghi PASS; **chưa chạy thử trên ROM**.
+
+---
+
 > **Checkpoint 052 · 08/11/2026:** **14.592/55.976 (26,07%)**, +240 trang NPC (`0040.001`, `0040.002`) về quà tặng, sinh nhật, thăm phòng, Nhà kính, học phép/học nhóm, chuyển trường, trao đổi nội thất và phản ứng NPC khi chịu phép. QA **501 JSONL / 55.976 bản ghi**, giữ nguyên 14.352 bản dịch cũ, mã `$...;`, Unicode NFC, tối đa 34 ký tự và 3 `▼` mỗi trang. Tài liệu: `CHECKPOINT-2026-11-08-DOT-52.md`, `QA-052.md`, `DELTA-052.jsonl`, `apply_052.py`, `qa_052.py`. **Tiếp đợt 053:** `0040.003` + `0040.004` (240 trang), nguồn trong ZIP và stage GitHub. **Chưa test ROM NDS**.
 
 > **Checkpoint 051 · 08/11/2026:** **14.352/55.976 (25.64%)**, +203 trang NPC (`0033.020`: 120; `0033.021`: 83): cô bé bán diêm, Kraken và nhẫn đính hôn, Kappa và ngôi trường, câu đố ba màu (một nói thật, hai nói dối, chỉ được hỏi một lần). QA đối chiếu **501 JSONL / 55.976 bản ghi** với ZIP 050, bảo toàn 14.149 mục cũ, toàn bộ mã `$...;`, `▼`, Unicode và giới hạn 34 ký tự/dòng. Tài liệu: `CHECKPOINT-2026-11-08-DOT-51.md`, `QA-051.md`, `DELTA-051.jsonl`. **Đợt tiếp 052:** `0040.001` + `0040.002` (120 + 120), nguồn trong ZIP 051 và stage lên GitHub. **Chưa thử ROM NDS**.
