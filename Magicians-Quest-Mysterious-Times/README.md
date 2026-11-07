@@ -1,6 +1,6 @@
 # Magician’s Quest: Mysterious Times — Việt hóa Nintendo DS
 
-**Checkpoint mới nhất: 039 (07/11/2026) — 11.509 / 55.976 mục (20,56%).** Đợt 039 dịch thêm **240 trang NPC** (`0032.001`: 120; `0032.002`: 120), gồm bốn sự kiện theo mùa. Xem `CHECKPOINT-2026-11-07-DOT-39.md`, `QA-039.md` và `DELTA-039.jsonl`.
+**Checkpoint mới nhất: 040 (07/11/2026) — 11.749 / 55.976 mục (20,99%).** Đợt 040 dịch thêm **240 trang NPC** (`0032.003`: 120; `0032.004`: 120): thầy Vlad, thầy Oakley, bà Malila, Ngôn ngữ Phép thuật và chuyện mèo đưa thư. Xem `CHECKPOINT-2026-11-07-DOT-40.md`, `QA-040.md`, `DELTA-040.jsonl`.
 
 **Repository chung:** https://github.com/ronvotri/VH-NDS/tree/main/Magicians-Quest-Mysterious-Times
 
@@ -45,3 +45,13 @@
 - GitHub cũng lưu trước **hai tệp nguồn chưa dịch** `0032.003` và `0032.004` để phiên tiếp theo có thể tự nối tiếp nếu ZIP không đính kèm được.
 
 **Đợt 040 tiếp theo:** `0032.003` và `0032.004` (120 + 120 = 240 trang).
+
+## Đợt 040 — Lời thoại các giáo viên
+
+- Đã dịch `0032.003` (120) và `0032.004` (120); **tổng 11.749/55.976 (20,99%)**.
+- `vi_0032_003_raw.txt`, `vi_0032_004_raw.txt` là bản dịch thô. `vi_0032_003.txt`, `vi_0032_004.txt` là bản cuối có mã game và ngắt dòng; bảng EN/VI trong `manual_0032_003.tsv`, `manual_0032_004.tsv`.
+- `apply_040.py`, `qa_040.py`, `QA-040.md`, `DELTA-040.jsonl`, `CHECKPOINT-2026-11-07-DOT-40.md`.
+- **QA PASS:** 501 JSONL/55.976 bản ghi, chỉ thêm 240 `vi` mới, giữ 11.509 bản dịch cũ. **Chưa test trên ROM NDS**.
+- Đã stage trước **hai tệp nguồn tiếng Anh chưa dịch** của đợt 041 (`0032.005`, `0033.001`) lên GitHub.
+
+**Đợt 041 tiếp theo:** `0032.005` + `0033.001` (120 + 120 = 240 trang).

@@ -1,5 +1,8 @@
 # Magician’s Quest · Bàn giao Việt hóa cho Votri Valley
 
+> **Checkpoint 040 · 07/11/2026:** **11.749/55.976 mục (20,99%)**, +240 trang (`0032.003` và `0032.004`, mỗi tệp 120). QA đã đối chiếu 501 JSONL/55.976 bản ghi, giữ nguyên 11.509 bản dịch trước. Nội dung: thầy Vlad, thầy Oakley, Ngôn ngữ Phép thuật, bà Malila, mèo đưa thư, chuyện cũ của hiệu trưởng Sol và mở nhiệm vụ tiên. Xem `CHECKPOINT-2026-11-07-DOT-40.md`, `QA-040.md`, `DELTA-040.jsonl`. **Đợt tiếp:** `0032.005` + `0033.001` (240 trang), cả hai nguồn đã stage lên GitHub.
+
+
 > **Checkpoint 039 · 07/11/2026:** **11.509/55.976 mục (20,56%)**, +240 trang sự kiện (`0032.001`: 120; `0032.002`: 120). QA đối chiếu 501 JSONL và 55.976 bản ghi, giữ 11.269 bản dịch cũ. Đã dịch tiệc trà mùa xuân, thi thử gan mùa hè, hội thi lẩu nấm mùa thu và lễ hội tuyết cầu vồng. Xem `CHECKPOINT-2026-11-07-DOT-39.md`, `QA-039.md`, `DELTA-039.jsonl`. **Đợt tiếp:** `0032.003` + `0032.004` (240 trang); hai tệp nguồn được giữ trên GitHub.
 
 
