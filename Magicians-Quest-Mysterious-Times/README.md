@@ -1,6 +1,6 @@
 # Magician’s Quest: Mysterious Times — Việt hóa Nintendo DS
 
-**Checkpoint mới nhất: 036 (07/11/2026) — 10.808 / 55.976 mục (19,31%).** Đợt 036 dịch thêm **240 trang thoại NPC** (`0030.005`: 120; `0031.001`: 120). Xem `CHECKPOINT-2026-11-07-DOT-36.md` và `QA-036.md`.
+**Checkpoint mới nhất: 037 (07/11/2026) — 11.048 / 55.976 mục (19,74%).** Đợt 037 dịch thêm **240 trang thoại NPC** (`0031.002`: 120; `0031.003`: 120). Xem `CHECKPOINT-2026-11-07-DOT-37.md` và `QA-037.md`.
 
 **Repository chung:** https://github.com/ronvotri/VH-NDS/tree/main/Magicians-Quest-Mysterious-Times
 
@@ -19,4 +19,9 @@
 
 **QA PASS:** 501 tệp JSONL / 55.976 bản ghi, 240 mục dịch mới, 10.568 mục dịch cũ giữ nguyên. **Chưa kiểm thử trong ROM NDS**. Gói ZIP không chứa ROM thương mại.
 
-**Đợt 037:** `0031.002` (120 trang) và `0031.003` (120 trang).
+**Đợt 038:** `0031.004` (120 trang) và `0031.005` (101 trang).
+
+
+## Đợt 037
+
++240 trang thoại `0031.002` và `0031.003`. Xem `CHECKPOINT-2026-11-07-DOT-37.md`, `QA-037.md`, `DELTA-037.jsonl`. Đợt 038: `0031.004` (120) + `0031.005` (101).
