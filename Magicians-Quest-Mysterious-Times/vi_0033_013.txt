@@ -1,0 +1,120 @@
+$024'327'0;$023'327'178'10'1;$022'327'361;Gì cơ?
+$024'327'0;$023'327'178'10'1;$022'327'361;Cậu biết cách dẫn tôi tới chỗ▼$000'3;Charlie$000'1; mà không bị ai thấy à?
+$024'327'0;$023'327'1'4'0;Ừm... Nếu không ai thấy, tôi sẽ▼chẳng làm phiền ai. Cũng được▼đấy...
+$024'327'0;$023'327'178'10'1;$022'327'361;Tôi thật sự tin cậu được chứ?
+Có$019'1363;
+Không$019'1360;
+$024'327'3;$023'327'171'10'1;$022'327'304;Tôi cũng chẳng ngạc nhiên đâu.
+$024'327'3;$023'327'171'10'1;$022'327'304;Có mấy ai chịu giúp một kẻ như tôi▼chứ...
+$024'327'3;$023'327'171'10'1;$022'327'304;$000'3;Charlie$000'1;... Anh ấy là người tốt.
+$024'327'2;$023'327'28'8'4;$022'327'381;Thôi, cậu đi đi. Ở đây chẳng còn▼gì cho cậu. Để tôi yên.
+$024'327'5;$023'327'170'10'1;$022'327'301;Biết ngay sẽ có người nhìn thấy▼mà!
+$024'327'2;$023'327'28'8'4;$022'327'381;Tôi đã bảo không thể làm dân $000'5;thị▼trấn$000'1; hoảng sợ nữa mà!
+$024'327'2;$023'327'28'8'4;$022'327'381;Chắc tôi lại phải chui xuống cống▼thôi.
+$024'327'1;$023'327'173'6'2;$022'327'341;Thôi được, nếu cậu nhất quyết▼thế... Tôi tin cậu.
+$024'327'0;$023'327'1'4'0;Nhớ giấu tôi thật kỹ nhé. Đừng làm▼tôi thất vọng.
+$024'327'3;$023'327'171'10'1;$022'327'304;Này, cậu tới đây làm gì?
+$024'327'0;$023'327'178'10'1;$022'327'361;Còn muốn dẫn tôi đi nữa à? Cậu▼đúng là không chịu bỏ cuộc!
+$024'327'0;$023'327'1'4'0;Ừm... Tôi cũng rất muốn gặp▼$000'3;Charlie$000'1;, nhưng mà...
+$024'327'5;$023'327'170'10'1;$022'327'301;Thôi được, thử thêm lần nữa vậy.
+$024'327'0;$023'327'1'4'0;Không, tôi không muốn nghe chuyện▼đó nữa.
+$024'327'3;$023'327'171'10'1;$022'327'304;$000'3;Charlie$000'1; đã giúp tôi nhiều lắm▼rồi...
+$024'327'0;$023'327'1'4'0;Nhưng $000'5;thị trấn$000'1; này đông đúc quá.▼Tôi không có chỗ đứng.
+$024'327'0;$023'327'1'4'0;Chắc tôi phải thu xếp đồ, tìm nơi▼nào thoải mái hơn.
+$024'327'1;$023'327'173'6'2;$022'327'341;Đừng lo cho tôi. Tôi quen sống như▼vậy rồi.
+$024'327'3;$023'327'171'10'1;$022'327'304;Tôi sống cả đời thế này. Có lẽ vài▼điều chẳng bao giờ đổi...
+$024'327'1;$023'327'173'6'2;$022'327'341;Cảm ơn anh, $000'3;Charlie$000'1;.
+$024'327'1;$023'327'173'6'2;$022'327'341;Tôi mới đến chưa lâu, nhưng rất▼vui vì đã ghé $000'5;thị trấn$000'1; này.
+$024'327'5;$023'327'170'10'1;$022'327'301;Chẳng lời nào diễn tả hết...
+$024'327'5;$023'327'170'10'1;$022'327'301;Nhưng tôi vẫn muốn nói: cảm ơn vì▼đã đối xử tốt với tôi.
+$024'327'0;$023'327'178'10'1;$022'327'361;À, cậu tên là $500;, đúng không?
+$024'327'3;$023'327'171'10'1;$022'327'304;Dù lần đầu gặp nhau chẳng mấy vui▼vẻ, nhưng vì tôi sắp đi...
+$024'327'1;$023'327'173'6'2;$022'327'341;Tôi nghĩ có lẽ chúng ta nên thử▼làm bạn lại.
+$024'327'7;$023'327'177'10'1;Xin lỗi vì đã thô lỗ. Tôi thật sự▼rất vui khi quen cậu.
+$024'327'0;$023'327'1'4'0;Vậy... chắc đến lúc rồi.
+$024'327'4;$023'327'171'10'1;$022'327'383;Dù hai người không ở bên, tôi vẫn▼luôn giữ cả hai trong tim.
+$024'327'1;$023'327'173'6'2;$022'327'341;Giữ gìn sức khỏe nhé. Chúc hai▼người gặp nhiều may mắn!
+$024'327'1;$023'327'173'6'2;$022'327'341;Ha ha! Thiệt tình! Y như sách viết▼luôn!
+Dân mặt đất cứ thấy hố toàn đá là▼y như rằng nhảy xuống đào!
+Tui là ai hả? Tui là $000'3;người lòng▼đất$000'1;.
+Dạo này dân lòng đất tụi tui mê đi▼du lịch trên mặt đất lắm!
+Nhưng tui có rành chuyện trên đó▼đâu.
+Thế là tui đọc sách. Sách bảo nên▼nhờ dân mặt đất dẫn đường.
+Sách còn chỉ cả cách bắt được một▼người dẫn đường cơ!
+$024'327'1;$023'327'173'6'2;$022'327'341;Ha ha! Ai dè trò đó hiệu nghiệm▼thiệt!
+Thảo nào nó bán chạy nhất trong▼mấy cuốn du lịch mặt đất!
+Giờ tui có một chỗ muốn ghé thăm▼lắm.
+Nghe nói đó là nơi gần bầu trời▼nhất trên mặt đất.
+Chỗ nhiều người trúng độc vì ăn▼nấm đó, cậu biết không?
+$024'327'5;$023'327'170'10'1;$022'327'301;Mặt đất đáng sợ thiệt. Tui phải▼cẩn thận, đừng ăn nhiều quá.
+Dù sao tui muốn tới đó!
+$024'327'1;$023'327'173'6'2;$022'327'341;Nhờ cậu dẫn đường nhé. Đi trước▼đi, bạn đồng hành!$074;
+$024'327'1;$023'327'173'6'2;$022'327'341;Ôi chà, coi kìa! "Nơi gần bầu trời▼nhất" đây rồi!
+Hả? Chỗ này tên thật là $000'5;Cây Nấm$000'1; á?
+Tui vẫn thích cái tên tui đặt▼hơn...
+Cuốn sách bảo cây này lúc nào cũng▼đầy nấm.
+May ghê, tui được tận mắt thấy▼cảnh lạ lùng thế này.
+Ít nhất thì sách viết vậy...
+$024'327'1;$023'327'173'6'2;$022'327'341;Du lịch trên mặt đất thú vị thiệt▼đó!
+Được rồi, giờ ta đi ngắm điểm tiếp▼theo thôi.
+Sách bảo điểm kế là Vách Đá Nguyền▼Rủa.
+Hình như nơi đó là thủ phủ hẹn hò▼hay gì ấy.
+Đàn ông đến đó đều thề nghe lời▼người yêu suốt đời!
+Cậu tưởng tượng nổi không?
+$024'327'4;$023'327'171'10'1;$022'327'383;Phải nghe lời ai đó cả đời? Mặt▼đất đáng sợ ghê!
+Nhưng đời người phải ghé xem một▼lần chứ!
+$024'327'1;$023'327'173'6'2;$022'327'341;Nhờ cậu dẫn đường nhé. Đi trước▼đi, bạn đồng hành!$074;
+$024'327'1;$023'327'173'6'2;$022'327'341;Ôi chà, Vách Đá Nguyền Rủa đây▼rồi...
+Hả? Tên thật là $000'5;Điểm Hẹn Hò$000'1; sao?
+Tui vẫn thích tên tui đặt hơn...
+Sách kể đủ chuyện về nơi này.
+Sách bảo nếu đến đây gặp người bạn▼mình rất thân thiết...
+...thì hai người sẽ mãi ở bên▼nhau!
+Quyền năng kỳ lạ thiệt...
+Nếu chuyện đó là thật thì...
+$024'327'4;$023'327'171'10'1;$022'327'383;Không gì đáng sợ bằng việc phải▼dính nhau cả đời!
+Mà du lịch mặt đất vẫn vui ghê!
+Thôi, ở đây đủ rồi. Đi điểm tiếp▼theo nào!
+Sách bảo điểm tới là ngôi nhà▼không người ở.
+Nghe nói dù cậu lấm lem cỡ nào,▼chỉ cần cầu nguyện một lần...
+...thân xác và tâm hồn sẽ trong▼suốt như thủy tinh.
+Ít nhất sách viết thế...
+$024'327'4;$023'327'171'10'1;$022'327'383;Tui chưa hiểu nó có nghĩa gì, nên▼càng tò mò!
+Đời người phải tới xem một lần▼chứ!
+$024'327'1;$023'327'173'6'2;$022'327'341;Nhờ cậu dẫn đường nhé. Đi trước▼đi, bạn đồng hành!$074;
+Ơ? Sao vậy, bạn đồng hành? Mau đưa▼tui đến đó đi!
+$024'327'1;$023'327'173'6'2;$022'327'341;Ôi chà... Đây là ngôi nhà không▼người ở hả?
+Hả? Thật ra đây là $000'5;phế tích$000'1; à?
+Tui vẫn thích tên tui đặt hơn...
+Để coi cuốn sách này nói gì nào...
+Dân mặt đất mê riêng tư ghê gớm!
+Vì thế ngày nào họ cũng đến đây▼một lần để tàng hình.
+Ôi chà, kỳ lạ thiệt!
+$024'327'0;$023'327'178'10'1;$022'327'361;Thiệt không? Cậu cũng tới đây để▼hóa vô hình à?
+Theo tui thấy, dân mặt đất hơi bị▼kỳ quặc đó!
+$024'327'1;$023'327'173'6'2;$022'327'341;Chuyến này vui hết biết!
+Tui đã đi đủ chỗ muốn xem rồi.▼Chắc đến lúc về lòng đất!
+Cảm ơn cậu đã dẫn tui đi tham quan▼nha.
+Nhưng phải nói mặt đất có lắm nơi▼đáng sợ thiệt!
+Thôi, lòng đất vẫn hợp với tui▼nhất!
+Không cần tiễn tui đâu.
+Giờ tui cũng rành đường trên mặt▼đất rồi!
+$024'327'6;$023'327'8'10'1;$022'327'382;Có khi còn rành hơn cậu nữa đấy,▼bạn đồng hành!
+Hì hì... Tui chọc thôi! Giờ về nhà▼được rồi.
+$024'327'1;$023'327'173'6'2;$022'327'341;Tạm biệt nha, anh bạn!
+Này, cậu đi đâu mất tiêu vậy?!
+Tui đợi trước $000'5;hang động$000'1; này mãi,▼chẳng biết cậu đi đâu!
+$024'327'2;$023'327'28'8'4;$022'327'381;Trời đất! Cậu phải dẫn đường cho▼tui chứ, sao lại đi lạc?!
+Lấy lại tinh thần đi, còn đi ngắm▼cảnh nữa chứ!$074;
+$004'30;Ta-đa!
+Ơ? Sao vậy, bạn đồng hành? Mau đưa▼tui đến đó đi!
+Ối ối! Cái chỗ bé tẹo đó thì làm▼sao tui chui lọt?!
+Đừng đùa nữa! Dẫn tui đến nơi đã▼nhờ đi, bạn đồng hành!
+Ôi, cậu chủ $500;! Cậu đến đúng lúc▼quá!
+Có một người tôi muốn giới thiệu▼với cậu.
+Đây là Cấm Thư. Chúng tôi quen▼nhau lâu rồi, nhưng anh ấy đang▼gặp rắc rối.
+Chẳng hiểu vì sao, các trang sách▼của anh ấy lại bỏ trốn hết!
+Tôi cũng muốn đi tìm giúp, nhưng▼không thể rời đây lâu.
+Vậy nên tôi phải nhờ cậu, cậu chủ▼$500;.
+Cậu có thể giúp anh ấy tìm lại▼những trang sách bỏ trốn không?
+$000'3;Cấm Thư$000'1; sẽ kể cậu nghe mọi chuyện.

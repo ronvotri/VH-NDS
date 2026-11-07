@@ -1,3 +1,5 @@
+> **Checkpoint 047 · 07/11/2026:** **13.429/55.976 (23,99%)**, +240 trang dịch `0033.012` và `0033.013`. QA kiểm 501 JSONL / 55.976 bản ghi, giữ nguyên 13.189 bản dịch cũ; mã `$...;`, giới hạn 34 ký tự/dòng, tối đa 3 `▼` đều đạt kiểm tra tĩnh. Nàng tiên cá, siren, Yeti, Cerberus, du khách lòng đất và nhiệm vụ Cấm Thư. Xem `CHECKPOINT-2026-11-07-DOT-47.md`, `QA-047.md`, `DELTA-047.jsonl`. **Tiếp đợt 048:** `0033.014`, `0033.015`, mỗi tệp 120 trang (nguồn stage GitHub). Chưa test ROM NDS.
+
 # Magician’s Quest · Bàn giao Việt hóa cho Votri Valley
 
 > **Checkpoint 046 · 07/11/2026:** **13.189/55.976 mục (23,56%)**, +240 trang NPC (`0033.010`, `0033.011`), QA đối chiếu 501 JSONL/55.976 bản ghi và giữ nguyên 12.949 bản dịch cũ. Nội dung: quỷ khổng lồ chơi đuổi bắt, Jack Frost và nhiệm vụ tìm ba món ăn, linh thú được triệu hồi, nàng tiên cá mất giọng. `apply_046.py`, `qa_046.py`, `DELTA-046.jsonl`, `QA-046.md`, `CHECKPOINT-2026-11-07-DOT-46.md`. **Tiếp đợt 047:** `0033.012` + `0033.013` (240 trang), nguồn có trong ZIP và cần đẩy trước lên GitHub.
