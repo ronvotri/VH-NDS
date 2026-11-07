@@ -1,0 +1,120 @@
+Sao chẳng ai hỏi: 'Hả? Cậu KHÔNG ăn hết ngay bây giờ à?'
+Theo tớ, hỏi thế mới hay chứ!
+Con gái hay rủ nhau đi vệ sinh lắm.
+Ai rủ thì tớ cũng đi theo.
+Dù thật ra tớ hơi ngượng.
+Tất nhiên, tớ chẳng kể ai đâu!
+Ồ, chào {N}!
+Tớ đang tính ra ngoài chơi. Cậu đi cùng không?
+Được chứ.
+Xin lỗi nhé...
+Thế cậu muốn chơi gì?
+Cậu chọn đi, {N}. Nghĩ mấy chuyện ấy nhức đầu lắm.
+Nhưng chọn gì thì lẹ lên nhé!
+Hừm... Cậu chán ghê!
+Tớ về nhà tự chơi vậy. Bái bai!
+Này, {N}...
+Giờ tớ đang rảnh rang đây.
+Dẫn tớ đi đâu chơi đi!
+Được thôi.
+Xin lỗi nhé...
+Hoan hô!
+Hôm nay tớ chỉ muốn chơi với {N} thôi!
+Vậy còn chờ gì nữa?!
+Hả? Không được à? Xì... Chán ghê!
+Khát nước quá đi!
+À, {N} này, mình đi kiếm gì uống nhé!
+Được thôi.
+Xin lỗi nhé...
+Tuyệt! Đi nào!
+Khát quá, tớ sẽ uống thêm thật nhiều ly nữa!
+Nào, còn đợi gì nữa?!
+Hả? Cậu chắc chứ?
+Vậy tớ sẽ uống sạch, chẳng chừa cho cậu giọt nào!
+Này, {N}... Cậu học giỏi lắm nhỉ?
+Giúp tớ học bài với nhé?
+Được chứ.
+Xin lỗi nhé...
+Lúc nãy thầy cô giảng gì, tớ chẳng hiểu tí nào.
+Cậu giảng lại cho tớ nhé?
+Qua phòng cậu học đi, {N}.
+Không được sao? Nhưng tớ đâu tự học nổi...
+Thôi kệ! Vậy tớ được chơi cả ngày rồi!
+Bụng tớ bắt đầu réo rồi đây.
+Chơi tiếp nào!
+Thôi, tạm biệt nhé.
+Được chứ, {N}! Cậu còn muốn chơi thì tớ ở lại!
+Cậu muốn chơi trò gì?
+Thôi, hôm nay đến đây nhé. Bái bai!
+Lần sau chơi tiếp nhé! Nhớ đấy!
+Hừm, giờ chẳng vui bằng lúc đầu nữa.
+Nhưng lần sau nhớ rủ tớ chơi nữa nhé!
+Gặp lại sau!
+Hình như tớ hơi đói rồi...
+Chắc mình nên tạm biệt nhau thôi, nhỉ?
+Hẹn gặp lại nhé.
+Này, cậu đang có tâm sự à?
+Để lần khác chơi nhé.
+Không có gì đâu.
+Thật à...? Vậy hẹn cậu lần sau nhé!
+Thế thì mình ra ngoài chơi thôi!
+Xin lỗi, tớ muốn ghé xem một chỗ. Gặp cậu ở tầng một nhé!
+Xin lỗi, tớ có việc phải làm.
+Không phải vì tớ sợ đâu nhé!
+Xin lỗi, tớ vừa nhớ ra có việc. Hẹn dịp khác nhé.
+Tớ đi cùng cậu!
+Cậu đồng ý chứ?
+Được thôi.
+Không.
+Hai đứa mình hợp cạ ghê, nhỉ?
+Vậy còn chờ gì nữa?!
+Hả?! Tớ tưởng mình hợp cạ lắm cơ mà!
+Thôi, hôm nay tớ không ép. Nhưng lần sau phải dẫn tớ đi đấy!
+Xong việc rồi à? Vậy mình chơi cùng nhau tiếp nhé!
+Hả, cậu bận à? Được, tớ đợi ở đây. Đi đi!
+Ừm...
+Có chuyện tớ muốn nói với cậu.
+Được chứ.
+Giờ tớ không rảnh.
+Cảm ơn cậu!
+Tớ sẽ đợi ở {LOC}, lúc 6 giờ tối. Đừng đến muộn nhé!
+Ôi, tiếc ghê...
+Khi nào rảnh, tớ mong cậu nghe chuyện của tớ.
+Cậu đến rồi! Tớ mừng quá, {N}.
+Tớ nói thẳng nhé. Trò chuyện bao lần, tớ ngày càng quý cậu.
+Nên... cậu làm bạn trai tớ nhé?
+Được thôi.
+Không, cảm ơn.
+Vui nhất ngày hôm nay luôn! Giờ mình thành một đôi rồi!
+Thật ra tớ mới yêu lần đầu... Nên thông cảm cho tớ nhé.
+Cứ từ từ tìm hiểu nhau thêm đã nhé.
+Ồ... Tiếc quá.
+Chắc tớ sẽ hỏi lại đấy. Mong cậu đổi ý.
+Này {N}, dạo này mình cứ gặp nhau suốt nhỉ.
+Cứ như đã được sắp đặt sẵn ấy.
+Kiểu như duyên số vậy! Cậu thấy thế không?
+Ừ, đúng đấy.
+Không hẳn.
+Biết ngay hai đứa mình tâm đầu ý hợp mà, {N}!
+Mình thân nhau hơn nữa nhé!
+Vì nói chuyện với cậu vui quá trời!
+Ôi, chắc tớ vội vàng quá rồi.
+Đừng để bụng nhé!
+À mà {N}, tớ muốn nói với cậu chuyện này.
+Lát nữa gặp tớ ở {LOC} nhé? Cậu thấy sao?
+Được thôi.
+Tớ bận rồi.
+Quyết vậy nhé! Cậu quyết nhanh ghê, {N}.
+Tớ sẽ đợi ở {LOC} lúc 6 giờ tối. Đừng trễ nhé!
+Thật à? Tớ tưởng cậu rảnh lắm cơ...
+Thôi kệ! Để lần khác nhé!
+A, cậu đến rồi! Tớ hẹn cậu để hỏi: cậu thích chọc ghẹo không?
+Tớ mê bày trò lắm! Từ nay mình đi chơi cùng nhiều hơn nhé!
+Nghe hay đấy.
+Ờ... ừm... thì...
+Biết ngay mà! Từ nay vui phải biết!
+Cậu đúng là chúa phá đám! Thôi để lần sau tớ hỏi lại, nhớ nghĩ kỹ nhé.
+Được chứ!
+Chắc hơi khó...
+Ừ, tớ đợi cậu ở {LOC}. 6 giờ tối gặp nhé!
+Được rồi, giờ nào hợp với cậu hơn?
