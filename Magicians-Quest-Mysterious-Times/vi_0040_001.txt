@@ -1,0 +1,120 @@
+$024'327'2;$023'327'28'8'4;$022'327'381;Cậu làm gì thế? Dừng lại đi! Đừng▼làm phiền tớ nữa.$079;
+$024'327'2;$023'327'28'8'4;$022'327'381;Cậu cố tình đấy à? Xem ra tớ đã▼nhìn nhầm người...$079;
+$024'327'2;$023'327'28'8'4;$022'327'381;Chọc bạn bè gặp rắc rối khiến cậu▼vui lắm sao?$079;
+$024'327'5;$023'327'175'8'1;$022'327'342;Ồ, tuyệt quá! Tớ mê mấy món này!
+$024'327'0;$023'327'178'10'1;$022'327'361;Cậu định tặng món này cho tớ thật▼à?
+$024'327'1;$023'327'173'6'2;$022'327'341;Cảm ơn cậu! Tớ sẽ giữ gìn thật cẩn▼thận!
+$024'327'5;$023'327'99'10'2;$022'327'303;Ồ... Ra là vậy...
+$024'327'0;$023'327'1'4'0;Cảm ơn cậu, nhưng... ừm... thật ra▼tớ không thích món này lắm, $500; à...
+$024'327'1;$023'327'173'6'2;$022'327'341;Thôi, coi như tớ chưa nói gì. Ai▼lại chê quà của bạn chứ!
+Tớ nhận nhé. Cảm ơn $500;! Quan trọng▼là tấm lòng mà!
+$024'327'0;$023'327'1'4'0;Ồ, cảm ơn cậu, $500;.
+$024'327'1;$023'327'173'6'2;$022'327'341;Lần tới tìm được món gì hay, tớ sẽ▼dành ngay cho cậu.
+$024'327'0;$023'327'178'10'1;$022'327'361;Hả?
+$024'327'5;$023'327'175'8'1;$022'327'342;Gì cơ? Cậu mang thuốc đến cho tớ▼à?
+Tớ đâu có ốm NẶNG đến thế, $500;.
+$024'327'1;$023'327'173'6'2;$022'327'341;Dù sao cũng cảm ơn cậu. Tớ sẽ để▼dành thuốc phòng khi cần.
+$024'327'5;$023'327'175'8'1;$022'327'342;Gì thế? Cậu mang thuốc đến cho tớ▼à?
+$024'327'1;$023'327'173'6'2;$022'327'341;Cảm ơn cậu đã quan tâm. Để lát nữa▼tớ uống thuốc nhé.
+$024'327'0;$023'327'178'10'1;$022'327'361;Cậu vừa cho tớ thuốc rồi mà, phải▼không?
+Như thế này có hơi quá tay rồi▼đấy, cậu nhỉ?
+Ôi trời... Tớ thấy khó chịu quá.
+$024'327'5;$023'327'175'8'1;$022'327'342;Hả? Cho tớ sao?
+$024'327'0;$023'327'1'4'0;Cảm ơn nhé, nhưng để lúc nào khỏe▼hơn tớ nhận sau.
+$024'327'0;$023'327'1'4'0;Giờ tớ còn chẳng đủ sức cảm ơn cậu▼cho tử tế.
+Tớ phải điền giấy chuyển trường.▼Lát nữa nói chuyện tiếp nhé.
+Cậu quyết định ở lại rồi à?
+Tớ cũng quyết định không đi nữa.
+Khi chuyển trường, cậu có đưa tớ▼đi cùng không?$019'103;
+Có$019'104;
+Không$019'105;
+Vậy chúng mình lên đường thôi.
+Ra vậy. Tiếc thật! Để dịp khác▼nhé.
+$024'327'1;$023'327'173'6'2;$022'327'341;Chúc mừng sinh nhật, $500;!
+$024'327'7;$023'327'177'10'1;Tớ có món quà nhỏ dành cho cậu.▼Không cần cảm ơn đâu!
+$024'327'1;$023'327'173'6'2;$022'327'341;Bạn bè với nhau mà! Chúc cậu có▼thêm một năm thật tuyệt!
+$024'327'5;$023'327'175'8'1;$022'327'342;Ủa, quà sinh nhật à? Tặng tớ sao?▼Cậu chu đáo quá!
+$024'327'7;$023'327'177'10'1;Cảm ơn $500;! Cậu tốt bụng quá! Tớ sẽ▼trân trọng mãi!
+$024'327'1;$023'327'173'6'2;$022'327'341;Chúc mừng sinh nhật, $500;!
+$024'327'7;$023'327'177'10'1;Tớ có món quà nhỏ dành cho cậu.▼Không cần cảm ơn đâu!
+$024'327'1;$023'327'173'6'2;$022'327'341;Bạn bè với nhau mà! Chúc cậu có▼thêm một năm thật tuyệt!
+Cuối cùng cũng đến rồi!
+Vậy là tớ được ngắm phòng cậu rồi.
+$024'327'5;$023'327'175'8'1;$022'327'342;Ôi trời... Ít nhất cậu cũng nên▼dọn dẹp một chút chứ.
+Phòng chẳng ấn tượng gì cả. Ôi,▼xin lỗi! Tớ nói thành tiếng à?
+Cũng ổn... Chưa xuất sắc, nhưng▼không tệ. Mỗi người mỗi gu mà.
+$024'327'1;$023'327'173'6'2;$022'327'341;Phải khen gu thẩm mỹ của cậu đấy,▼$500;. Phòng khá ấn tượng!
+$024'327'1;$023'327'173'6'2;$022'327'341;Cậu bày những món nội thất độc đáo▼này khéo thật. Tuyệt vời!
+$024'327'1;$023'327'173'6'2;$022'327'341;Phải nói là $500; rất mê màu này, đúng▼không?
+$024'327'1;$023'327'173'6'2;$022'327'341;Cậu phối mọi thứ hài hòa quá!
+$024'327'1;$023'327'173'6'2;$022'327'341;Cậu có phong cách rất riêng đấy.▼Thú vị thật!
+$024'327'1;$023'327'173'6'2;$022'327'341;Cậu sưu tập kỹ tính ghê. Chắc mất▼nhiều công sức lắm nhỉ?
+$024'327'1;$023'327'173'6'2;$022'327'341;Tớ không biết nói sao cho hết độ▼mê căn phòng này nữa!
+Ước gì phòng tớ cũng được như▼thế...
+Hôm nay vui lắm! Khi nào thích, cứ▼rủ tớ sang chơi nhé.
+Đã đến $000'5;Nhà kính$000'1; rồi, hay chúng▼mình uống chút trà nhé?
+$024'327'3;$023'327'171'10'1;$022'327'304;Nhưng trời ạ... Nơi bẩn thế này▼thì ai còn tâm trạng thưởng trà?
+Uống trà cũng phải thật thanh lịch▼chứ!
+Aaa... Trà ngon tuyệt, phải không▼nào!
+$024'327'7;$023'327'177'10'1;Thư thái quá! Trà này cũng ngon▼hết ý.
+$024'327'1;$023'327'173'6'2;$022'327'341;Tớ đang vui lắm, $500;. Đúng là một▼buổi tuyệt vời!
+$024'327'1;$023'327'173'6'2;$022'327'341;Đây là món tớ thích nhất đấy. Ngon▼không chê vào đâu được!
+$024'327'1;$023'327'173'6'2;$022'327'341;Lần sau mở tiệc trà, nhớ mời tớ▼nữa nhé!
+Tớ đến rồi đây.
+Chào $500;!
+$024'327'5;$023'327'99'10'2;$022'327'303;Một người bạn vừa cho tớ món này.
+$024'327'7;$023'327'177'10'1;Nhưng tớ lại có dư một cái. Cậu▼lấy nhé? Tớ chẳng dùng đến đâu.
+$024'327'1;$023'327'173'6'2;$022'327'341;Đừng lo chuyện trả ơn. Cậu nhận▼món này là giúp tớ rồi!
+$024'327'1;$023'327'173'6'2;$022'327'341;Chào $500;! Dạo này cậu sao rồi? Lâu▼lắm mới gặp!
+$024'327'3;$023'327'171'10'1;$022'327'304;Tớ đã hơi lo cho cậu đấy.
+$024'327'0;$023'327'1'4'0;Nhưng trông cậu vẫn khỏe, may quá!
+$024'327'1;$023'327'173'6'2;$022'327'341;Tớ định hôm nào rủ cậu sang chơi.▼Rảnh lúc nào tớ sẽ báo nhé.
+$024'327'1;$023'327'173'6'2;$022'327'341;Chào $500;! Giờ cậu có muốn đi chơi▼không?
+Có chứ!$019'-1;
+Xin lỗi nhé.$019'-1;
+$024'327'1;$023'327'173'6'2;$022'327'341;Tuyệt! Cậu muốn đi đâu? Tớ sẽ theo▼cậu!
+$024'327'4;$023'327'171'10'1;$022'327'383;À, ra vậy. Thôi để hôm khác mình▼chơi nhé!
+$024'327'7;$023'327'170'10'2;$022'327'301;Chào $500;! Gặp đúng lúc quá. Tớ có▼chuyện muốn hỏi.
+$024'327'0;$023'327'178'10'1;$022'327'361;Cậu dùng $000'4;$507'431;$000'1; để niệm $000'4;thần chú Cầu▼Vồng$000'1;, đúng không?
+Đúng thế.$019'-1;
+Không đâu.$019'-1;
+$024'327'0;$023'327'1'4'0;Ra vậy... Chắc tớ đã đọc sai lời▼chú.
+$024'327'5;$023'327'170'10'1;$022'327'301;Nhưng lần sau nhất định tớ sẽ đọc▼đúng!
+$024'327'5;$023'327'99'10'2;$022'327'303;Xin lỗi đã làm phiền cậu, $500;.
+$024'327'0;$023'327'178'10'1;$022'327'361;Thật à? Vậy ra vấn đề nằm ở đó.
+$024'327'5;$023'327'170'10'1;$022'327'301;Chắc tớ phải quay lại học thêm▼rồi.
+$024'327'7;$023'327'177'10'1;Cậu thấy sao? Giai điệu cũng hay▼đấy chứ?
+$024'327'7;$023'327'177'10'1;Ở tận phòng mình cậu cũng nghe▼thấy à, $500;?
+$024'327'5;$023'327'99'10'2;$022'327'303;Chắc tớ đã thổi hơi to thật.
+$024'327'1;$023'327'173'6'2;$022'327'341;Tự nhiên tớ vui quá nên nổi hứng▼huýt sáo thôi.
+$024'327'3;$023'327'171'10'1;$022'327'304;Nếu làm phiền cậu thì xin lỗi nhé.▼Lần sau tớ sẽ để ý hơn.
+$024'327'7;$023'327'177'10'1;Có lẽ hơi đột ngột, nhưng cậu có▼muốn học giai điệu này không?
+Có chứ.$019'-1;
+Không, cảm ơn.$018'2;
+$024'327'1;$023'327'173'6'2;$022'327'341;Được rồi! Nghe cho kỹ nhé.
+$024'327'5;$023'327'175'8'2;$022'327'345;Tớ hiểu rồi...
+$024'327'0;$023'327'178'10'1;$022'327'361;Ồ, chào $500;. Cậu ở dưới phòng cũng▼cảm nhận được sao?
+$024'327'7;$023'327'170'10'2;$022'327'301;Chắc tớ đã mắc lỗi to khi luyện▼phép rồi.
+$024'327'4;$023'327'171'10'1;$022'327'383;Tớ cứ làm mãi mà chẳng đúng.
+Khi dùng $000'4;phép Pháo Giấy$000'1;, đọc những▼lời này đúng không?
+Đúng rồi.$019'-1;
+Không đúng.$019'-1;
+$024'327'0;$023'327'178'10'1;$022'327'361;Thật sao? Tớ đọc đúng à?
+$024'327'5;$023'327'170'10'1;$022'327'301;Vậy chắc lỗi nằm ở chỗ khác... Tớ▼phải học lại thôi.
+$024'327'0;$023'327'1'4'0;Đúng như tớ nghĩ. Sai lời niệm▼rồi.
+$024'327'3;$023'327'171'10'1;$022'327'304;Lần sau tớ sẽ đọc đúng cho xem.
+$024'327'5;$023'327'99'10'2;$022'327'303;Xin lỗi đã làm phiền cậu, $500;.
+Ôi...
+$024'327'7;$023'327'170'10'2;$022'327'301;Tớ vừa gặp một cơn ác mộng.
+$024'327'5;$023'327'99'10'2;$022'327'303;Nghĩ đến chuyện mơ thấy nó lần nữa▼là tớ lại sợ.
+$024'327'5;$023'327'170'10'1;$022'327'301;Tớ kể cậu nghe được không, $500;?
+Được chứ.$019'-1;
+Xin lỗi, để lúc khác.$019'-1;
+$024'327'0;$023'327'1'4'0;...Và giấc mơ kết thúc như thế.
+$024'327'7;$023'327'177'10'1;Kể được ra rồi, tớ thấy nhẹ lòng▼hơn nhiều.
+$024'327'1;$023'327'173'6'2;$022'327'341;Cảm ơn cậu đã lắng nghe. Trút được▼nỗi lòng thật dễ chịu.
+$024'327'0;$023'327'1'4'0;Giờ tớ yên tâm ngủ tiếp được rồi.
+$024'327'5;$023'327'99'10'2;$022'327'303;Ừ, cậu nói đúng. Tớ không nên kể▼những giấc mơ đó cho người khác.
+$024'327'3;$023'327'171'10'1;$022'327'304;Tớ sẽ giữ trong lòng, tự cố gắng▼chịu đựng vậy.
+$024'327'4;$023'327'171'10'1;$022'327'383;Xin lỗi đã làm phiền cậu, $500;.
+$024'327'0;$023'327'178'10'1;$022'327'361;Chào $500;! Tớ giúp gì được cho cậu▼không?

@@ -1,3 +1,5 @@
+**Checkpoint mới nhất: 052 (08/11/2026) — 14.592 / 55.976 mục (26,07%).** Đợt 052 thêm **240 trang NPC** (`0040.001` và `0040.002`): quà tặng, sinh nhật, bạn bè, thưởng trà, học phép, học nhóm, chuyển trường, giao dịch nội thất, các phản ứng khi dùng phép và lúc bị ốm. Xem `CHECKPOINT-2026-11-08-DOT-52.md`, `QA-052.md`, `DELTA-052.jsonl`. **Nguồn đợt 053:** `0040.003` và `0040.004` (120 + 120 trang).
+
 # Magician’s Quest: Mysterious Times — Việt hóa Nintendo DS
 
 **Checkpoint mới nhất: 051 (08/11/2026) — 14.352 / 55.976 mục (25.64%).** Đợt 051 dịch thêm **203 trang NPC** (`0033.020`: 120; `0033.021`: 83): cô bé bán diêm, Kraken đòi nhẫn đính hôn từ thuyền trưởng Dot, Kappa nhút nhát muốn đi học, và câu đố ba người áo vàng/xanh/đỏ. Xem `CHECKPOINT-2026-11-08-DOT-51.md`, `QA-051.md`, `DELTA-051.jsonl`. **Nguồn đợt 052:** `0040.001` và `0040.002` (120 + 120 trang).
