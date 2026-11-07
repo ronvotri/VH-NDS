@@ -1,5 +1,7 @@
 # Magician’s Quest · Bàn giao Việt hóa cho Votri Valley
 
+> **Checkpoint 044 · 07/11/2026:** **12.709/55.976 mục (22,70%)**, +240 trang NPC (`0033.006`, `0033.007`). QA đối chiếu 501 tệp JSONL/55.976 bản ghi, giữ nguyên 12.469 bản dịch cũ và mã game. Nội dung: tượng quỷ đá canh trường ngủ gật, thực phẩm kích thích vị giác, Krampus đánh giá trẻ ngoan/hư, Minotaur mở trại luyện. Xem `CHECKPOINT-2026-11-07-DOT-44.md`, `QA-044.md`, `DELTA-044.jsonl`. **Tiếp đợt 045:** `0033.008` + `0033.009` (240 trang), nguồn đã có trong ZIP và nên đồng bộ lên GitHub.
+
 > **Checkpoint 043 · 07/11/2026:** **12.469/55.976 mục (22,28%)**, +240 trang (`0033.004`, `0033.005`). QA so sánh toàn bộ 501 JSONL/55.976 bản ghi, bảo toàn 12.229 bản dịch cũ; nội dung gồm rồng hồi phục, người sao Hỏa viết ngược, kẻ song trùng thế giới gương, bùa phản phép, người sói và trao đổi linh hồn. Xem `CHECKPOINT-2026-11-07-DOT-43.md`, `QA-043.md`, `DELTA-043.jsonl`. **Tiếp đợt 044:** `0033.006` + `0033.007` (240 trang), nguồn đã có trong ZIP và GitHub.
 
 > **Checkpoint 042 · 07/11/2026:** **12.229/55.976 mục (21,85%)**, +240 trang (`0033.002`, `0033.003`), QA 501 JSONL/55.976 bản ghi, giữ nguyên 11.989 mục cũ. Đã dịch cướp biển, lời tiên tri tình yêu, Nhân Sư, phép Sao Băng, ông M/quái rương và rồng bị thương. Xem `CHECKPOINT-2026-11-07-DOT-42.md`, `QA-042.md`, `DELTA-042.jsonl`. **Tiếp đợt 043:** `0033.004` + `0033.005` (240 trang); đã có nguồn trong ZIP và GitHub.
