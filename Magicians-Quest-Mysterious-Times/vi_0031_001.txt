@@ -1,0 +1,120 @@
+$024'327'0;$023'327'1'4'0;Ngày nghỉ, tớ thích đan len.
+$024'327'1;$023'327'173'6'2;$022'327'341;Đan len giúp tớ quên hết những▼chuyện phiền lòng.
+$024'327'3;$023'327'171'10'1;$022'327'304;Như lần tớ chẳng dám nói điều▼muốn nói với bạn mình.
+$024'327'0;$023'327'1'4'0;Tớ kể chuyện này, cậu đừng cười▼nhé? Cậu cười là tớ khóc đấy...
+$024'327'0;$023'327'1'4'0;Thật ra ngày nghỉ, tớ ở lì trong▼phòng... làm thơ.
+$024'327'1;$023'327'173'6'2;$022'327'341;Tớ viết về bạn bè, gia đình và▼những người thân quen.
+$024'327'4;$023'327'171'10'1;$022'327'383;Tình yêu á? Không, không! Tớ▼chẳng viết chuyện đó đâu!
+$024'327'0;$023'327'1'4'0;Đôi khi ngày nghỉ tớ muốn đi▼chơi với bạn. Nhưng nếu đến▼rủ...
+$024'327'5;$023'327'170'10'1;$022'327'301;Nhỡ họ từ chối thì sao? Thế là▼tớ lại ở nhà.
+$024'327'0;$023'327'1'4'0;Nhưng tớ vẫn muốn đi chơi lắm...
+$024'327'4;$023'327'171'10'1;$022'327'383;Giá có cách nào để họ tự đến rủ▼TỚ đi chơi nhỉ.
+$024'327'0;$023'327'1'4'0;Ngày nghỉ, tớ thích vẽ tranh.
+Tớ đi loanh quanh tìm cảnh đẹp▼để vẽ.
+Nhưng đôi khi lại gặp thứ đáng▼sợ...
+$024'327'4;$023'327'171'10'1;$022'327'383;Như thấy mèo đánh nhau. Tớ sợ▼quá, chạy mất dép!
+$024'327'0;$023'327'1'4'0;Có những ngày nghỉ, tớ chỉ muốn▼ngồi suy nghĩ.
+Tớ ước mình bớt khóc và nói▼chuyện với mọi người giỏi hơn.
+Nhưng chẳng tìm ra lời giải, thế▼là hết cả ngày.
+$024'327'0;$023'327'1'4'0;Ngày nghỉ, tớ thích lau cửa sổ.
+$024'327'1;$023'327'173'6'2;$022'327'341;Kính sạch rồi, nhìn cảnh ngoài▼kia đẹp lắm.
+Lại còn dễ thấy bạn bè đi ngang▼qua nữa.
+Chắc đó mới là lý do THẬT tớ mê▼lau kính.
+$024'327'0;$023'327'1'4'0;Tớ thích nghỉ ngơi yên tĩnh ở▼nhà.
+Ra ngoài, thấy ai cũng vui vẻ▼náo nhiệt.
+$024'327'7;$023'327'170'10'2;$022'327'301;Tớ muốn tham gia, mà không biết▼mở lời thế nào.
+$024'327'4;$023'327'171'10'1;$022'327'383;Haiz... Tớ cũng rất muốn chơi▼cùng mọi người chứ.
+$024'327'0;$023'327'1'4'0;Đôi lúc tớ gấp giấy origami.▼Giấy làm được bao nhiêu thứ!
+Tớ muốn gấp thật nhiều hình rồi▼tặng mọi người.
+$024'327'3;$023'327'171'10'1;$022'327'304;Nhưng tớ cứ sợ họ chê xấu.
+Thế nên tớ sẽ tập đến khi gấp▼thật đẹp mới thôi.
+$024'327'1;$023'327'173'6'2;$022'327'341;Cuối tuần, tớ hay ghi lại những▼lần mình khóc trong tuần.
+Tớ đang cố khóc ít đi một chút.
+$024'327'4;$023'327'171'10'1;$022'327'383;Nhưng ghi lại xong, tớ lại muốn▼khóc nữa.
+$024'327'7;$023'327'170'10'2;$022'327'301;Hay tớ nên quên quách những lần▼khóc đi nhỉ?
+$024'327'0;$023'327'1'4'0;Tớ muốn mua quần áo đẹp nên ghé▼cửa hàng.
+$024'327'4;$023'327'171'10'1;$022'327'383;Ai tư vấn gì tớ cũng mua, thế là▼sạch bách tiền.
+Ước gì tớ đừng mua cả đống thứ▼mình chẳng cần.
+$024'327'3;$023'327'171'10'1;$022'327'304;Nhưng từ chối người khác khó quá▼đi!
+$024'327'0;$023'327'1'4'0;Có lần bạn rủ tớ đi chơi.
+$024'327'5;$023'327'170'10'1;$022'327'301;Tớ ấp úng mãi, chẳng đáp được▼lời nào.
+$024'327'3;$023'327'171'10'1;$022'327'304;Bạn ấy tưởng tớ không muốn chơi▼cùng...
+$024'327'4;$023'327'171'10'1;$022'327'383;Haiz... Giá lúc đó tớ chỉ cần▼nói 'Được!' thôi!
+$024'327'0;$023'327'1'4'0;Một chiếc áo len của tớ bị bung▼cúc. Tớ định khâu lại.
+$024'327'0;$023'327'1'4'0;Tớ tìm kim chỉ mãi mới ra...
+$024'327'4;$023'327'171'10'1;$022'327'383;Đến lúc tìm được thì cái cúc▼biến đâu mất!
+$024'327'0;$023'327'1'4'0;Cậu biết $503'308; chứ? Tớ thấy cậu ấy▼tuyệt lắm, nên cứ khen hoài.
+$024'327'0;$023'327'1'4'0;Tớ bảo cậu ấy vừa giỏi, vừa hay,▼lại còn tuyệt vời!
+$024'327'4;$023'327'171'10'1;$022'327'383;Ai ngờ cậu ấy hỏi tớ có nói thật▼không, còn bảo tớ tâng bốc quá.
+$024'327'3;$023'327'171'10'1;$022'327'304;Có vẻ cậu ấy chẳng tin. Haiz...▼Khen người ta tớ cũng dở.
+$024'327'0;$023'327'1'4'0;Lần đầu tớ mua bọ cánh cứng làm▼thú cưng là vào mùa đông.
+$024'327'1;$023'327'173'6'2;$022'327'341;Sợ nó lạnh, tớ phủ cho nó bao▼nhiêu chăn ấm.
+$024'327'3;$023'327'171'10'1;$022'327'304;Nhưng chăn nặng quá, chú bọ tội▼nghiệp sắp bị đè bẹp!
+$024'327'4;$023'327'171'10'1;$022'327'383;Có lẽ đó chẳng phải ý hay...
+$024'327'0;$023'327'1'4'0;Có lần tớ ngồi viết thư lâu thật▼lâu.
+Đến lúc chuẩn bị cho thư vào▼phong bì...
+$024'327'4;$023'327'171'10'1;$022'327'383;Tớ đổ cả cốc nước lên thư.
+Haiz... Tớ buồn muốn khóc▼luôn...
+$024'327'1;$023'327'173'6'2;$022'327'341;Có lần được tặng quà, tớ vui▼lắm.
+$024'327'3;$023'327'171'10'1;$022'327'304;Tớ cố viết thư cảm ơn mà chẳng▼biết diễn tả lòng mình.
+$024'327'4;$023'327'171'10'1;$022'327'383;Cuối cùng, tớ lại ước giá mình▼đừng nhận quà...
+$024'327'0;$023'327'1'4'0;Bàn chải đánh răng dùng dọn▼phòng hay lắm.
+$024'327'1;$023'327'173'6'2;$022'327'341;Tớ chà sạch bong từng ngóc ngách▼luôn.
+$024'327'4;$023'327'171'10'1;$022'327'383;Nhưng lẽ ra tớ không nên dùng▼chính bàn chải đánh răng của▼mình...
+$024'327'1;$023'327'173'6'2;$022'327'341;Tớ mê bộ đồ của $503'310; nên mua bộ▼giống hệt.
+$024'327'4;$023'327'171'10'1;$022'327'383;Cậu ấy giận lắm, bảo tớ đừng bắt▼chước.
+$024'327'7;$023'327'170'10'2;$022'327'301;Tớ đâu có ý xấu. Chắc cậu ấy▼ghét mặc đồ đụng hàng...
+$024'327'0;$023'327'1'4'0;$503'310; hỏi tớ mai rảnh không. Tớ đáp:▼'Không, tớ bận.'
+$024'327'3;$023'327'171'10'1;$022'327'304;Cậu ấy hỏi ngày kia, tớ cũng bảo▼bận.
+$024'327'4;$023'327'171'10'1;$022'327'383;Thế là cậu ấy giận. Chắc tưởng▼tớ không muốn đi chơi cùng.
+$024'327'4;$023'327'171'10'1;$022'327'383;Haiz... Giá tớ cứ nhận là mình▼rảnh.
+$024'327'0;$023'327'1'4'0;Tớ cắt cành hoa để cắm vừa lọ.
+Dài quá nên tớ cắt ngắn, rồi lại▼cắt, lại cắt...
+$024'327'4;$023'327'171'10'1;$022'327'383;Cuối cùng hoa ngắn ngủn, lọ nuốt▼mất tiêu, chẳng thấy đâu!
+$024'327'0;$023'327'1'4'0;Tớ luôn để ý cách cư xử khi ở▼cạnh mọi người.
+$024'327'5;$023'327'170'10'1;$022'327'301;Tớ nghĩ như thế là tốt mà.
+$024'327'3;$023'327'171'10'1;$022'327'304;Nhưng chắc tớ lo quá? Ở cạnh mọi▼người lâu là tớ kiệt sức.
+$024'327'0;$023'327'1'4'0;Cứ ở một mình trở lại, tớ mới▼thở phào nhẹ nhõm.
+$024'327'0;$023'327'1'4'0;Tớ thích làm bạn bè vui.
+$024'327'1;$023'327'173'6'2;$022'327'341;Đơn giản vì tớ thích ở bên họ.
+$024'327'0;$023'327'1'4'0;Nhiều khi tớ thấy gặp gỡ, ở cạnh▼mọi người mệt lắm.
+$024'327'1;$023'327'173'6'2;$022'327'341;Nhưng đôi lúc cũng vui thật▼đấy...
+$024'327'3;$023'327'171'10'1;$022'327'304;Có lần tớ lo bạn mình chẳng còn▼quý tớ nữa.
+$024'327'0;$023'327'1'4'0;Bạn bảo không phải, vẫn rất quý▼tớ.
+$024'327'0;$023'327'1'4'0;Thế mà tớ vẫn chưa tin hẳn.
+$024'327'4;$023'327'171'10'1;$022'327'383;Haiz... Tớ phải làm sao đây?
+$024'327'0;$023'327'1'4'0;Có người chẳng bao giờ hồi âm,▼dù mình đã gửi thư trước.
+$024'327'0;$023'327'178'10'1;$022'327'361;Thế là tớ lại tự hỏi...
+$024'327'3;$023'327'171'10'1;$022'327'304;Hay họ thật ra chẳng thích tớ?
+$024'327'3;$023'327'171'10'1;$022'327'304;Có người chẳng nghĩ đến cảm xúc▼người khác chút nào.
+$024'327'4;$023'327'171'10'1;$022'327'383;Lắm lúc tớ buồn đến phát khóc.
+$024'327'0;$023'327'1'4'0;Có lúc tớ cố hết sức để mọi▼người thích mình.
+Càng cố, họ lại càng xa cách.
+$024'327'3;$023'327'171'10'1;$022'327'304;Trông họ như đang chán tớ vậy.
+$024'327'4;$023'327'171'10'1;$022'327'383;Nghĩ mà buồn ghê...
+$024'327'0;$023'327'178'10'1;$022'327'361;Có khi nào bạn đùa một câu mà▼cậu vẫn thấy tổn thương không?
+$024'327'0;$023'327'1'4'0;Tớ có đấy. Nghe bạn nói thế là▼tớ buồn...
+$024'327'3;$023'327'171'10'1;$022'327'304;Nhưng tớ luôn giả vờ cười theo.
+$024'327'4;$023'327'171'10'1;$022'327'383;Rồi lúc chỉ còn một mình, tớ lại▼thấy buồn thiu...
+$024'327'0;$023'327'1'4'0;Nói chuyện với người muốn gây ấn▼tượng, tớ hồi hộp lắm.
+Tớ chỉ sợ họ ghét mình hoặc thấy▼mình chán ngắt...
+$024'327'3;$023'327'171'10'1;$022'327'304;Tớ cứ tự nhủ: 'Đừng làm gì kỳ▼cục, đừng làm gì kỳ cục...'
+$024'327'4;$023'327'171'10'1;$022'327'383;Nhưng càng cố, tớ lại càng kỳ▼cục hơn.
+$024'327'0;$023'327'1'4'0;Đôi khi tớ chẳng nói nổi điều▼mình nghĩ.
+$024'327'3;$023'327'171'10'1;$022'327'304;Thế là tớ cuống cả lên.
+Người nghe mất kiên nhẫn rồi bực▼mình với tớ...
+Càng vậy tớ càng líu lưỡi, chẳng▼nói nên lời.
+$024'327'4;$023'327'171'10'1;$022'327'383;Đến nước ấy, tớ thường bỏ cuộc▼luôn.
+$024'327'0;$023'327'1'4'0;Cậu biết không, đôi lúc tớ chỉ▼muốn ở một mình.
+$024'327'3;$023'327'171'10'1;$022'327'304;Nhưng bạn bè lại rủ chơi, tớ▼chẳng biết từ chối thế nào.
+Không phải tớ không thích họ▼đâu.
+Chỉ là ở cạnh người khác đôi lúc▼làm tớ mệt.
+$024'327'4;$023'327'171'10'1;$022'327'383;Những lúc vậy, tớ nên làm sao▼nhỉ?
+$024'327'4;$023'327'171'10'1;$022'327'383;Khi có chuyện buồn, tớ chỉ muốn▼ở một mình.
+Nhưng có người bên cạnh cũng▼giúp mình vượt qua mà.
+$024'327'3;$023'327'171'10'1;$022'327'304;Người khác đôi khi làm ta đau,▼đôi khi lại giúp ta.
+Hòa hợp với mọi người thật phức▼tạp, cậu nhỉ?
+$024'327'0;$023'327'1'4'0;Biết thêm điều mới, học thêm▼kiến thức vui lắm.
+$024'327'3;$023'327'171'10'1;$022'327'304;Nhưng bị bắt học ở trường thì▼lại thành cực hình.
+$024'327'0;$023'327'1'4'0;Giá mà chẳng ai BẮT mình học...
+$024'327'0;$023'327'178'10'1;$022'327'361;Có khi ai cũng thích học hơn▼nhỉ?

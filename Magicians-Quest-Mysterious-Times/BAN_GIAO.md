@@ -1,6 +1,6 @@
 # Magician’s Quest · Bàn giao Việt hóa cho Votri Valley
 
-> **Checkpoint 035 · 07/11/2026:** **10.568/55.976 mục (18,88%)**; +240 trang thoại (`0030.003`: 120, `0030.004`: 120). QA toàn bộ 501 JSONL/55.976 bản ghi, 0 lỗi cấu trúc, giữ 10.328 bản dịch cũ. Xem `CHECKPOINT-2026-11-07-DOT-35.md`, `QA-035.md`, `DELTA-035.jsonl`. **Đợt tiếp:** `0030.005` và `0031.001`. Giữ nguyên mã điều khiển, ngôi xưng, thuật ngữ.
+> **Checkpoint 036 · 07/11/2026:** **10.808/55.976 mục (19,31%)**; +240 trang thoại (`0030.005`: 120, `0031.001`: 120). QA đối chiếu 501 JSONL/55.976 bản ghi, 0 lỗi cấu trúc, giữ 10.568 bản dịch cũ. Xem `CHECKPOINT-2026-11-07-DOT-36.md`, `QA-036.md`, `DELTA-036.jsonl`. **Đợt tiếp:** `0031.002` và `0031.003`. Giữ nguyên mã điều khiển, ngôi xưng và thuật ngữ.
 ## Bắt đầu trong phiên cloud
 
 Giải nén gói này. Đọc tệp này và `translation/INDEX.tsv` trước. Mở từng nhóm JSONL theo thứ tự dưới đây. Mỗi tệp tối đa 120 mục. Tệp tiếng Anh nguồn và vị trí chèn đã có sẵn, nên có thể bắt đầu dịch ngay cả khi phiên cloud chưa có ROM.
