@@ -1,5 +1,7 @@
 # Magician’s Quest: Mysterious Times — Việt hóa Nintendo DS
 
+**Checkpoint mới nhất: 050 (08/11/2026) — 14.149 / 55.976 mục (25.28%).** Đợt 050 dịch thêm **240 trang NPC** (`0033.018`, `0033.019`): hiệp sĩ mất thân học Ngôn ngữ Phép thuật, bắt Manticore, vụ Griffin mất kho báu, cướp biển, Harpy luyện hát và cô bé bán diêm. Xem `CHECKPOINT-2026-11-08-DOT-50.md`, `QA-050.md`, `DELTA-050.jsonl`. **Nguồn đợt 051:** `0033.020` (120) và `0033.021` (83).
+
 **Checkpoint mới nhất: 049 (08/11/2026) — 13.909 / 55.976 mục (24,85%).** Đợt 049 dịch thêm **240 trang NPC** (`0033.016`, `0033.017`): đoàn xiếc ma và thử thách Nhà Ma, nhạc công lang thang, ông già Noel phát quà, Chồn Gió và hiệp sĩ bị mất thân. Xem `CHECKPOINT-2026-11-08-DOT-49.md`, `QA-049.md`, `DELTA-049.jsonl`. **Nguồn đợt 050:** `0033.018`, `0033.019`.
 
 **Checkpoint mới nhất: 048 (08/11/2026) — 13.669 / 55.976 mục (24,42%).** Đợt 048 dịch thêm **240 trang thoại NPC** (`0033.014`, `0033.015`): các trang thất lạc của Cấm Thư, Halloween cho kẹo, cổng thời gian và cuộc gặp hiệu trưởng đời trước, Ác Mộng và lợn vòi ăn giấc mơ. Xem `CHECKPOINT-2026-11-08-DOT-48.md`, `QA-048.md`, `DELTA-048.jsonl`. Nguồn đợt 049: `0033.016`, `0033.017`.
