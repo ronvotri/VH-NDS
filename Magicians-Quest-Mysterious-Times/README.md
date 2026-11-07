@@ -1,22 +1,22 @@
 # Magician’s Quest: Mysterious Times — Việt hóa Nintendo DS
 
-**Checkpoint mới nhất: 031 (07/11/2026) — 9.660 / 55.976 mục (17,26%).** Đợt 031 dịch thêm **211 trang thoại NPC** (`0028.005`: 91; `0029.001`: 120). Xem `CHECKPOINT-2026-11-07-DOT-31.md` và `QA-031.md`.
+**Checkpoint mới nhất: 032 (07/11/2026) — 9.900 / 55.976 mục (17,69%).** Đợt 032 dịch thêm **240 trang thoại NPC** (`0029.002`: 120; `0029.003`: 120). Xem `CHECKPOINT-2026-11-07-DOT-32.md` và `QA-032.md`.
 
 **Repository chung:** https://github.com/ronvotri/VH-NDS/tree/main/Magicians-Quest-Mysterious-Times
 
 ## Nguyên tắc
 
-- Tiếng Việt tự nhiên, tinh nghịch và hài đúng tính cách nhân vật, không lạm dụng meme; bạn bè dùng **tớ–cậu**.
-- Thuật ngữ: **The Emporium → Bách Hóa Tổng Hợp**; **Lovers' Point → Điểm Hẹn Hò**; tên riêng nhất quán.
-- Chỉ thêm trường `vi`; không đổi `id`, `en`, `ctx` hay thứ tự mục. Giữ nguyên mã biểu cảm, biến tên `$500;`, `$515;`, `$503'...;`, mã lựa chọn `$019'...;` và mã màu `$000'...;`.
+- Tiếng Việt tự nhiên, tinh nghịch và hài theo tính cách nhân vật, không lạm dụng meme; bạn bè dùng **tớ–cậu**.
+- Thuật ngữ: **The Emporium → Bách Hóa Tổng Hợp**; **Lovers' Point → Điểm Hẹn Hò**; tên riêng giữ nhất quán.
+- Chỉ thêm trường `vi`; không đổi `id`, `en`, `ctx`, giới hạn byte hay thứ tự mục. Giữ nguyên mã biểu cảm, biến tên `$500;`, `$515;`, `$503'...;`, mã lựa chọn `$019'...;` và mã màu `$000'...;`.
 
-## Đợt 031
+## Đợt 032
 
-- `translation/04-thoai/talkfigs__0eng__data__0028.005.jsonl`: 91 trang, nhánh hẹn hò, lịch hẹn, mối quan hệ và chuyện với bạn cũ.
-- `translation/04-thoai/talkfigs__0eng__data__0029.001.jsonl`: 120 trang, lời thoại NPC mới về ngày nghỉ, mua sắm, trà bánh, dọn dẹp và tình huống ngốc nghếch dễ thương.
-- `vi_0028_005_raw.txt`, `vi_0029_001_raw.txt`, `vi_0028_005.txt`, `vi_0029_001.txt`: bản dịch tay và bản ngắt dòng.
-- `DELTA-031.jsonl`, `qa_031.py`, `QA-031.md`, `CHECKPOINT-2026-11-07-DOT-31.md`, `BAN_GIAO.md`.
+- `translation/04-thoai/talkfigs__0eng__data__0029.002.jsonl`: 120 trang, quán cà phê, học hành, nghề nghiệp, tình yêu, các tình huống hài hước.
+- `translation/04-thoai/talkfigs__0eng__data__0029.003.jsonl`: 120 trang, dã ngoại, bánh ngọt, gia đình, bạn bè, đời thường.
+- `vi_0029_002_raw.txt`, `vi_0029_003_raw.txt`: bản dịch tay; `vi_0029_002.txt`, `vi_0029_003.txt`: bản ngắt dòng.
+- `DELTA-032.jsonl`, `qa_032.py`, `QA-032.md`, `CHECKPOINT-2026-11-07-DOT-32.md`, `BAN_GIAO.md`.
 
-**QA PASS:** 501 tệp JSONL / 55.976 bản ghi, 211 `vi` mới, không ghi đè bản dịch cũ. **Chưa kiểm thử in-game.** ZIP checkpoint đầy đủ không chứa ROM.
+**QA PASS:** 501 JSONL / 55.976 bản ghi, +240 mục `vi`, không ghi đè bản dịch cũ. **Chưa kiểm tra trực tiếp trong ROM NDS.** ZIP bàn giao không gồm ROM thương mại.
 
-**Đợt 032:** `0029.002` (120 trang); tiếp `0029.003` nếu có thể.
+**Đợt 033:** dịch tiếp `0029.004` (120 trang), rồi `0029.005` (nếu phù hợp).
