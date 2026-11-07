@@ -1,0 +1,120 @@
+$024'327'4;$023'327'171'10'1;$022'327'383;Khi nào mang nổi $000'4;que diêm$000'1; đã mua▼thì quay lại nhé.
+$024'327'3;$023'327'171'10'1;$022'327'304;Cậu muốn mua $000'4;diêm$000'1; không? $000'4;Diêm$000'1; của▼tớ cháy sáng lắm đấy!
+$024'327'3;$023'327'171'10'1;$022'327'304;Một $000'4;que diêm$000'1; giá 100 Ritch...
+$024'327'4;$023'327'171'10'1;$022'327'383;Ồ...
+$024'327'3;$023'327'171'10'1;$022'327'304;*Thở dài* Chỉ còn vài que nữa▼thôi...
+$024'327'4;$023'327'171'10'1;$022'327'383;Mong sớm được gặp $000'3;bà$000'1;...
+$024'327'1;$023'327'173'6'2;$022'327'341;Cảm ơn cậu nhiều lắm. Hôm nay tớ▼vui quá...$058'-100;
+$024'327'4;$023'327'171'10'1;$022'327'383;Cậu không đủ tiền rồi. Cho không▼thì tớ chẳng có tiền về gặp bà.
+$024'327'1;$023'327'173'6'2;$022'327'341;Chắc tớ bán đủ diêm để đến gặp $000'3;bà$000'1;▼rồi!$058'-100;
+$024'327'1;$023'327'173'6'2;$022'327'341;Nhờ cậu mua bao nhiêu $000'4;diêm$000'1; cho tớ▼đấy.
+$024'327'1;$023'327'173'6'2;$022'327'341;Cảm ơn cậu... Thật lòng cảm ơn▼cậu!
+$024'327'1;$023'327'173'6'2;$022'327'341;Tớ đi gặp $000'3;bà$000'1; ngay đây!
+$024'327'1;$023'327'173'6'2;$022'327'341;Tạm biệt nhé!
+$024'327'4;$023'327'171'10'1;$022'327'383;Ôi, cậu mang nhiều đồ nặng ghê!
+$024'327'4;$023'327'171'10'1;$022'327'383;Mang ngần ấy thì dù chỉ một $000'4;que▼diêm$000'1; cũng chẳng nhét thêm nổi.
+$024'327'4;$023'327'171'10'1;$022'327'383;Bớt đồ đi rồi quay lại nhé.
+Mua một $000'4;que diêm$000'1; chứ?
+Có$019'-1;
+Không$019'-1;
+$024'327'0;$023'327'178'10'1;$022'327'361;Cậu là ai vậy?
+$024'327'0;$023'327'1'4'0;Ra thế... Tôi, như cậu thấy, là▼$000'3;Kraken$000'1;.
+$024'327'0;$023'327'178'10'1;$022'327'361;Tôi có thể giúp gì cho cậu?
+$024'327'5;$023'327'175'8'1;$022'327'342;Sao cơ? Trả tàu cho $000'3;Dot$000'1; ư? Không▼thể được.
+$024'327'2;$023'327'28'8'4;$022'327'381;Lão lừa tôi, lấy mất chiếc nhẫn▼đính hôn dành cho người tôi yêu.
+$024'327'4;$023'327'171'10'1;$022'327'383;Lão khen cô ấy hết lời, làm tôi▼mất cảnh giác...
+$024'327'3;$023'327'171'10'1;$022'327'304;Rồi tôi dại dột cho lão xem chiếc▼nhẫn theo lời lão xin...
+$024'327'0;$023'327'1'4'0;Tóm lại, tôi phải giấu tàu của lão▼cho đến khi nhận lại nhẫn.
+$024'327'0;$023'327'1'4'0;Lão trả nhẫn là tôi trả tàu ngay.
+$024'327'0;$023'327'1'4'0;Phiền cậu nhắn lại cho lão nhé...
+$024'327'5;$023'327'175'8'1;$022'327'342;A! Đây là nhẫn đính hôn $000'3;thuyền▼trưởng Dot$000'1; đã lấy!
+$024'327'0;$023'327'1'4'0;Cậu mang trả nó cho tôi rồi!
+$024'327'1;$023'327'173'6'2;$022'327'341;Tôi chẳng biết phải cảm ơn sao cho▼đủ!
+$024'327'7;$023'327'177'10'1;Có nhẫn rồi, tôi được cầu hôn▼người mình thương!
+$024'327'0;$023'327'1'4'0;Từ nay tôi phải để mọi xúc tu cảnh▼giác, không để bị lừa nữa!
+$024'327'4;$023'327'171'10'1;$022'327'383;Có lẽ tôi mãi chỉ là một sinh vật▼ngốc nghếch...
+$024'327'1;$023'327'173'6'2;$022'327'341;Nhưng ân tình này, tôi sẽ nhớ mãi!
+$024'327'1;$023'327'173'6'2;$022'327'341;Tôi xin phép đi đây! Chúc cậu gặp▼nhiều may mắn!
+$024'327'0;$023'327'1'4'0;Tôi sẽ trả tàu ngay khi nhận lại▼chiếc nhẫn đính hôn.
+$024'327'0;$023'327'1'4'0;Phiền cậu chuyển lời cho lão...
+Hây...!
+Dô...!
+Hây...! Dô...!
+$022'231'361;Cậu là con người à?$019'2501;
+Đúng vậy.$019'2502;
+Không đâu.$019'2503;
+$022'231'344;Bố dặn không được nói chuyện với▼con người.
+$022'231'361;Trông cậu rõ là con người. Bố dặn▼không được nói chuyện với người.$022'231'344;
+$022'231'342;Chắc cậu định hại tớ! Tớ về nhà▼đây.
+$022'231'361;Lại là cậu à? Cậu quay lại để hại▼tớ đúng không?$019'2506;
+Đúng rồi.$019'2507;
+Không đâu, đừng sợ.$019'2508;
+$022'231'342;Biết ngay mà! Con người thật đáng▼sợ. Tớ về nhà đây!
+$022'231'342;Thật sao? Nhưng bố tớ đã dặn thế▼mà...
+Tớ vẫn sợ con người lắm.
+Nhưng biết đâu sau này sẽ hết▼sợ...
+$022'231'342;Chứ bây giờ thì chưa...
+Lại là cậu... Cậu chắc sẽ không▼làm hại tớ chứ?$022'231'361;
+Có điều này tớ luôn muốn hỏi con▼người.
+Các cậu đi $000'5;học$000'1; nhỉ? $000'5;Trường học$000'1; vui▼lắm sao?$022'231'361;$019'2510;
+Có$019'2511;
+Không$019'2512;
+$022'231'301;Ừ, tớ cũng nghĩ là vui...
+Không vui thì sao trẻ con vẫn đến▼$000'5;trường$000'1; mỗi ngày?
+$022'231'301;Các cậu may mắn thật.
+$022'231'342;Chắc cậu nói dối hả?
+Nếu không vui thì sao trẻ con cứ▼đến $000'5;trường$000'1; mỗi ngày?
+Ước gì tớ cũng được đi $000'5;học$000'1;...
+$022'231'344;Gì nữa đây?
+Khoan! Chắc cậu muốn làm bạn với▼tớ chứ gì? Cứ nói thẳng đi!
+Được thôi, làm bạn nhé!$022'231'341;
+Đã là bạn rồi thì giúp tớ một▼chuyện nhé.
+Tớ muốn đến $000'5;trường$000'1;. $022'231'344;Cậu dẫn tớ đi▼được không?$019'2515;
+Được chứ.$019'2516;
+Không đời nào.$019'2517;
+$022'231'322;Thật hả? Thật thật hả?! Cậu chắc▼chứ?!
+$022'231'342;Vậy còn đợi gì nữa, đi thôi!
+Nhưng tớ vẫn hơi sợ. Cậu phải ở▼sát bên tớ đấy nhé?
+$022'231'341;Hì hì... Cảm ơn nhé, bạn hiền...
+$022'231'383;À... Tớ cũng đoán là cậu sẽ từ▼chối. Ước gì được đến $000'5;trường$000'1;...
+Loài người may mắn quá. Ngày nào▼các cậu cũng được đi $000'5;học$000'1;.
+$022'231'301;Nhìn vui biết bao...
+Ước gì tớ được đến $000'5;trường$000'1;...
+$022'231'342;Ơ? Cậu sẽ dẫn tớ đi à?
+Hoan hô! Hoan hô!!!
+$022'231'322;Hì hì... Con người như cậu tốt▼thật đấy.
+Tớ vẫn sợ người lạ, nhưng sẽ cố▼hết sức!
+Đi nào! Nhớ đừng để tớ một mình▼nhé!
+Ôi, hồi hộp quá đi!$022'231'344;
+Tớ vẫn còn sợ con người...
+Đây hả? Đây là $000'5;trường học$000'1; sao?
+$022'231'342;Oa, to hơn tớ tưởng nhiều!
+Hả?! Tớ được vào trong nữa à? Càng▼hồi hộp hơn rồi...
+$022'231'342;Oa, nơi này rộng ghê...
+Ban ngày, nơi này đầy con người à?
+$022'231'345;Oa... Đúng là $000'3;Kappa$000'1; bé xíu giữa ao▼lớn...
+$022'231'303;Á! Con người kìa! Sợ quá!
+Cứứứu với!!!
+$022'231'342;N-Người! Có người! Chạy mau! Ơ...▼Là cậu à.$022'231'344;
+Xin lỗi vì bỏ chạy như thế.
+Tại tớ quá sợ con người, nhất là▼người lạ.
+Nhưng $000'5;ngôi trường$000'1; ấy đúng là tuyệt▼thật.$022'231'342;
+Không biết làm sao đến $000'5;trường$000'1; mà▼khỏi chạm mặt ai nhỉ?
+$022'231'342;Hả? Cậu sẽ dẫn tớ đi lần nữa ư?
+$022'231'322;Hoan hô! Có bạn như cậu vui quá!
+Tớ sẵn sàng rồi, bạn hiền!
+$022'231'342;Oa! Đây là cổng $000'5;trường$000'1; à? To ghê!
+Tớ hình dung học sinh đi qua đây▼mỗi sáng, như tớ sắp làm ấy!
+Vào $000'5;trường$000'1; thôi! Tớ vẫn hơi run...$022'231'344;
+$022'231'342;Đây là $000'5;lớp học$000'1;? Chỗ thầy cô dạy▼con người đó hả?
+Chỗ này gọi là $000'1;hội trường$000'1; à? Cũng▼rộng ghê...
+Thầy cô với học sinh tập trung ở▼đây à? Vui nhỉ!$022'231'341;
+Khi nào lớn hơn chút, tớ sẽ nhập▼hội với các cậu.
+$022'231'342;Ừ... Nhất định tớ sẽ làm vậy!
+$022'231'344;Oa... Tuyệt quá! Cảm ơn bạn nhiều!▼$000'5;Trường học$000'1; đúng là hay thật.
+Dẫn tớ đi khắp nơi chắc cậu mệt▼lắm.
+$022'231'341;Tớ không biết lấy gì cảm ơn nữa.
+Cậu vừa dẫn tớ đến $000'5;trường$000'1;, vừa trở▼thành bạn thân của tớ.
+Thôi tớ về đây. Chắc bố đang lo▼lắm rồi.
+Nhưng trước khi đi, tớ muốn nói:▼chúng mình là bạn suốt đời!$022'231'361;
+$022'231'342;Tạm biệt! Tớ sẽ không bao giờ quên▼những lần vui bên nhau.
