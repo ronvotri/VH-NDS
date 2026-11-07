@@ -1,3 +1,12 @@
+## Checkpoint 054 — 08/11/2026
+
+- Tổng: **15.072/55.976 mục (26,93%)**; thoại NPC **11.947/52.608**, tăng 240 mục so với 053.
+- Hoàn thành `0040.005` và `0040.006`, mỗi tệp 120 trang. Các câu lặp vẫn giữ đủ bản ghi theo thứ tự; bản dịch dùng ngôi tớ–cậu và sắc thái lịch lãm/tự phụ của NPC.
+- Biến tin đồn `$530'0;`, `$530'1;`, `$531;`, `$532;` được bảo toàn theo thứ tự từ bản tiếng Anh. Chưa kiểm độ rộng sau khi game thay các giá trị dài.
+- `vi_0040_005_raw.txt`, `vi_0040_006_raw.txt`, `build_raw_054.py`, `apply_054.py`, các bảng `manual_*`, `DELTA-054.jsonl`, `QA-054.md`, `qa_054.py`, `CHECKPOINT-2026-11-08-DOT-54.md`.
+- QA PASS đối chiếu 501 JSONL / 55.976 mục với checkpoint 053; chỉ thêm 240 `vi`. Chưa thử trên ROM NDS.
+- Tiếp theo: `0040.007` + `0040.008` (240 trang); hai tệp nguồn đã có trong ZIP.
+
 ## Mốc mới nhất — Checkpoint 053 (08/11/2026)
 
 - **14.832/55.976 (26,50%)**, +240 mục thoại NPC; **11.707/52.608** trang thoại có bản dịch.

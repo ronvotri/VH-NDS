@@ -1,3 +1,5 @@
+**Checkpoint mới nhất: 054 (08/11/2026) — 15.072 / 55.976 mục (26,93%).** Đợt 054 thêm 240 trang thoại NPC (`0040.005`, `0040.006`): chia tay giữ tình bạn, lời mời tặng quà/đi chơi và tin đồn động về tình cảm, phép thuật, câu cá, nhặt rác. Xem `CHECKPOINT-2026-11-08-DOT-54.md`, `QA-054.md`, `DELTA-054.jsonl`. **Nguồn đợt 055:** `0040.007` và `0040.008` (120 + 120 trang).
+
 **Checkpoint mới nhất: 053 (08/11/2026) — 14.832 / 55.976 mục (26,50%).** Đợt 053 thêm **240 trang thoại NPC** (`0040.003`, `0040.004`): tình bạn, Điểm Hẹn Hò, hoạt động mùa, điện tín xin lỗi, buổi ngoại khóa và chia tay bạn thân/người yêu. Xem `CHECKPOINT-2026-11-08-DOT-53.md`, `QA-053.md`, `DELTA-053.jsonl`. **Nguồn đợt 054:** `0040.005` và `0040.006` (120 + 120 trang).
 
 **Checkpoint mới nhất: 052 (08/11/2026) — 14.592 / 55.976 mục (26,07%).** Đợt 052 thêm **240 trang NPC** (`0040.001` và `0040.002`): quà tặng, sinh nhật, bạn bè, thưởng trà, học phép, học nhóm, chuyển trường, giao dịch nội thất, các phản ứng khi dùng phép và lúc bị ốm. Xem `CHECKPOINT-2026-11-08-DOT-52.md`, `QA-052.md`, `DELTA-052.jsonl`. **Nguồn đợt 053:** `0040.003` và `0040.004` (120 + 120 trang).
