@@ -1,6 +1,6 @@
 # Magician’s Quest: Mysterious Times — Việt hóa Nintendo DS
 
-**Checkpoint mới nhất: 042 (07/11/2026) — 12.229 / 55.976 mục (21,85%).** Đợt 041 dịch thêm **240 trang NPC** (`0032.005`: 120; `0033.001`: 120): nhiệm vụ tiên, cô giáo và thầy Vlad, hai hiệu trưởng trong tranh, nữ thần thác nước và cướp biển. Xem `CHECKPOINT-2026-11-07-DOT-41.md`, `QA-041.md`, `DELTA-041.jsonl`.
+**Checkpoint mới nhất: 043 (07/11/2026) — 12.469 / 55.976 mục (22,28%).** Đợt 043 dịch thêm **240 trang NPC** (`0033.004` và `0033.005`, mỗi tệp 120): rồng hồi phục, người sao Hỏa nói ngược chữ, kẻ song trùng từ thế giới gương, bùa phản phép và người sói. Xem `CHECKPOINT-2026-11-07-DOT-43.md`, `QA-043.md`, `DELTA-043.jsonl`.
 
 **Repository chung:** https://github.com/ronvotri/VH-NDS/tree/main/Magicians-Quest-Mysterious-Times
 
@@ -71,3 +71,12 @@
 - `vi_0033_002_raw.txt`, `vi_0033_003_raw.txt`, `vi_0033_002.txt`, `vi_0033_003.txt`, bảng song ngữ `manual_0033_002.tsv`, `manual_0033_003.tsv`; `DELTA-042.jsonl`, `apply_042.py`, `qa_042.py`, `QA-042.md` và `CHECKPOINT-2026-11-07-DOT-42.md`.
 - **QA PASS:** 501 JSONL/55.976 bản ghi, 240 mục mới, 11.989 bản dịch cũ bảo toàn. **Chưa thử ROM NDS.** ZIP không chứa ROM thương mại.
 - GitHub có sẵn nguồn cho đợt 043: `0033.004` + `0033.005` (240 trang).
+
+
+## Đợt 043 — Rồng, người sao Hỏa, kẻ song trùng và người sói
+
+- Đã dịch `0033.004` (120) và `0033.005` (120), tổng **12.469/55.976 (22,28%)**.
+- Giữ nguyên phép nói ngược của người sao Hỏa; đầy đủ mã lựa chọn, tên động, bùa phản phép và bộ đếm vật phẩm.
+- Có bảng EN–VI, bản dịch thô, bản cuối, `apply_043.py`, `qa_043.py`, `QA-043.md`, `DELTA-043.jsonl` và `CHECKPOINT-2026-11-07-DOT-43.md`.
+- **QA PASS:** 501 JSONL, 55.976 mục, 240 `vi` mới, 12.229 bản dịch cũ giữ nguyên. **Chưa thử ROM NDS**.
+- Đợt 044 tiếp tục `0033.006` + `0033.007`, tổng 240 trang; bản nguồn có trong ZIP và được đưa sẵn lên GitHub.
