@@ -1,3 +1,5 @@
+> **Checkpoint 048 · 08/11/2026:** **13.669/55.976 (24,42%)**, +240 trang dịch (`0033.014`, `0033.015`). QA đối chiếu 501 JSONL/55.976 bản ghi, giữ nguyên 13.429 bản dịch cũ và tất cả mã điều khiển; 34 ký tự/dòng, tối đa 3 dấu `▼`. Nội dung: Cấm Thư tìm trang sách, Halloween, cánh cổng thời gian, Ác Mộng và lợn vòi. Xem `CHECKPOINT-2026-11-08-DOT-48.md`, `QA-048.md`, `DELTA-048.jsonl`. **Tiếp đợt 049:** `0033.016` và `0033.017`, 120 trang mỗi tệp. Chưa kiểm thử ROM NDS.
+
 > **Checkpoint 047 · 07/11/2026:** **13.429/55.976 (23,99%)**, +240 trang dịch `0033.012` và `0033.013`. QA kiểm 501 JSONL / 55.976 bản ghi, giữ nguyên 13.189 bản dịch cũ; mã `$...;`, giới hạn 34 ký tự/dòng, tối đa 3 `▼` đều đạt kiểm tra tĩnh. Nàng tiên cá, siren, Yeti, Cerberus, du khách lòng đất và nhiệm vụ Cấm Thư. Xem `CHECKPOINT-2026-11-07-DOT-47.md`, `QA-047.md`, `DELTA-047.jsonl`. **Tiếp đợt 048:** `0033.014`, `0033.015`, mỗi tệp 120 trang (nguồn stage GitHub). Chưa test ROM NDS.
 
 # Magician’s Quest · Bàn giao Việt hóa cho Votri Valley
