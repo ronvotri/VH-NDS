@@ -1,0 +1,120 @@
+000|Chỉ là đôi khi, tớ thấy▼nhiều bạn nữ chỉ GIẢ VỜ▼thân thiện thôi.
+001|Hay tại tớ đa nghi quá nhỉ?
+002|Ừ, tớ cũng thế.
+003|Cứ như ai cũng đang GIẢ VỜ▼quý mến nhau vậy.
+004|Tớ biết một bạn nữ LÚC NÀO▼cũng phải có người đi cùng.
+005|Chắc cậu ấy sợ phải▼ở một mình lắm.
+006|Nhưng tớ cũng hơi ghen tị▼với cậu ấy.
+007|Tớ chẳng dám bám theo ai▼như thế. Nhỡ họ ghét tớ▼thì sao...
+008|Tớ nghĩ có hai kiểu bạn bè...
+009|Có người sẽ gắn bó lâu dài,▼có người thì không.
+010|Nghe có lý đấy!
+011|Ừm... Cậu nghĩ vậy à?
+012|Đúng thế. Có những người▼hôm nay còn thân, mai đã xa...
+013|Nhưng cũng có người luôn▼ở bên cậu mãi mãi.
+014|Tớ nghĩ còn tùy vào▼tính cách mỗi người.
+015|Ừm, chắc cậu không đồng ý?
+016|Thì... tớ chỉ cảm thấy▼vậy thôi.
+017|Mà có khi chỉ mình tớ nghĩ thế.
+018|Tớ có cô bạn mít ướt lắm.
+019|Có chuyện gì cũng sụt sùi▼khóc nhè cả.
+020|Cậu ấy bảo đâu có MUỐN▼khóc suốt ngày như vậy.
+021|Tớ hiểu mà. Tớ cũng▼hơi giống thế.
+022|Tớ có cô bạn đi bộ▼nhanh ơi là nhanh.
+023|Cậu ấy MÊ đi bộ lắm!▼Đi đâu cũng cuốc bộ.
+024|Tớ cũng thấy đi bộ▼rất tốt cho sức khỏe...
+025|nhưng đuổi theo cậu ấy▼mệt muốn xỉu luôn!
+026|Có bạn rất thích búp bê▼và gấu bông.
+027|Các bạn ấy đặt tên, chăm sóc▼chúng như thú cưng hay em bé.
+028|Cưng chúng hết mực luôn ấy.
+029|Còn tớ thích chơi với▼người thật hơn đồ chơi.
+030|Đôi khi gặp chuyện buồn,▼tớ chán nản đến mức▼chẳng muốn làm gì.
+031|Những lúc ấy, tớ kể▼với cô bạn thân xem▼điều gì làm mình buồn.
+032|Chỉ cần tâm sự thôi▼là tớ nhẹ lòng hẳn.
+033|Lúc ấy tớ mới thấy▼có bạn bè thật tuyệt biết bao.
+034|À, ừm... Hôm nay▼tớ rảnh một chút.
+035|Cậu muốn đi chơi▼cùng tớ không?
+036|Đi chơi thôi!
+037|Xin lỗi nhé...
+038|Cảm ơn cậu. Nghe cậu▼đồng ý, tớ vui lắm.
+039|Tan học rồi đi chơi▼là vui nhất luôn!
+040|Vậy... ừm... mình đi nhé.
+041|À, xin lỗi! Tớ không định▼khiến cậu khó xử▼vì lời rủ ấy đâu.
+042|Nhưng lần sau, nếu cậu muốn,▼tớ vẫn rất thích được▼đi chơi cùng cậu.
+043|Ừm... À...▼Hôm nay tan học rồi nhỉ...
+044|Nên... tớ đang nghĩ...▼ừm... cậu có muốn▼đi chơi cùng tớ không?
+045|Nghe hay đấy!
+046|Xin lỗi nhé...
+047|T-thật sao? Cậu chịu▼đi chơi với tớ à? Cảm ơn!
+048|Vậy... ừm... đi thôi nhé.
+049|À... ừm... vậy thôi nhé.
+050|Có lẽ để mai vậy...
+051|Ừm... Hơi đường đột,▼nhưng cậu đi uống trà▼cùng tớ được không?
+052|Được chứ!
+053|Xin lỗi nhé...
+054|Hả? Cậu muốn uống trà▼cùng tớ thật à? Cảm ơn nhé.
+055|Cậu làm tớ vui quá chừng!
+056|Vậy... mình đi luôn nhé?
+057|À, tớ hiểu rồi. Thế...▼tớ về trước nhé.
+058|Hẹn gặp cậu ngày mai.▼Tạm biệt!
+059|Ừm... Cậu có thể từ chối▼nếu không muốn, nhưng...
+060|Tớ đang muốn rủ cậu▼học cùng sau buổi này...
+061|Được thôi.
+062|Xin lỗi nhé...
+063|Thật sao?! Cậu chắc chứ?!▼May quá, tớ đã lấy đủ▼can đảm để hỏi!
+064|Vậy... ừm... qua phòng cậu▼học cùng được không?
+065|À... ừm... tất nhiên rồi.▼Ai lại muốn học với tớ▼cơ chứ...
+066|Xin lỗi vì đã hỏi.▼Hẹn gặp cậu sau...
+067|Ừm... Hay tớ về nhé...
+068|Đừng, ở lại đã.
+069|Ừ, cũng đến lúc rồi.
+070|T-thật sao? Vậy tớ▼ở thêm chút nữa nhé.
+071|Hì hì... Được cần đến▼thích thật đấy.
+072|Ừ, cũng muộn rồi.▼Cảm ơn cậu vì hôm nay nhé.
+073|Mong sớm được đi chơi▼với cậu lần nữa.
+074|Tớ thật sự phải về rồi.
+075|Mong lần sau cậu lại▼rủ tớ đi chơi nhé.
+076|Có lẽ... cậu biết đấy...▼tớ nên về thôi!
+077|Ừ, chắc phải vậy...▼Hẹn gặp cậu nhé!
+078|Mọi chuyện ổn chứ,▼§...?
+079|Để hôm khác chơi nhé.
+080|Không có gì đâu.
+081|Ừ... vậy à? Mong chúng ta▼sớm được gặp lại nhé!
+082|Ồ, thật hả? Vậy ta đi đâu?
+083|Phù... Ừm... xin lỗi,▼tớ mệt lắm rồi. Tớ sẽ▼xuống tầng một nhé.
+084|Tớ đợi cậu ở đó▼đến khi cậu làm xong việc.
+085|Ừm... Xin lỗi, nhưng...▼tớ sợ quá đi mất.
+086|Tớ cũng ước gì mình▼không nhát thế này...
+087|Phù... Ừm, xin lỗi,▼nhưng tớ mệt rã rời rồi...
+088|Để hôm khác mình▼làm tiếp nhé.
+089|Nếu cậu không phiền,▼tớ muốn đi cùng cậu.
+090|Được không?
+091|Được chứ.
+092|Để lần sau nhé.
+093|Chẳng hiểu sao tớ thấy▼mình được coi trọng. Vui ghê!
+094|Vậy... mình đi nhé?
+095|À... ừ, tớ hiểu mà.▼Chắc cậu có lý do▼chính đáng thôi...
+096|Tớ chỉ mong lần sau▼cậu cho tớ đi cùng.
+097|Cậu làm xong việc rồi à?▼Vậy mình chơi thôi!
+098|Cậu đang có việc phải làm à?▼Ừ, tớ đợi ở đây nhé.
+099|Cậu cứ giải quyết▼việc của mình trước đi.
+100|Ừm... À...
+101|Nếu cậu không phiền,▼tớ có chuyện muốn nói▼riêng với cậu.
+102|Được thôi.
+103|Tớ không muốn lắm.
+104|Cậu đồng ý ư?! Thật sao?!▼Tốt quá! May mà tớ▼dám mở lời.
+105|Tớ lo chuyện này▼suốt mấy ngày rồi.
+106|Vậy gặp tớ ở §Điểm Hẹn Hò§▼lúc 6 giờ tối nhé.
+107|À... ừ, tớ hiểu rồi.▼Chắc giờ cậu không có▼thời gian dành cho tớ.
+108|Nhưng nếu đổi ý,▼hãy nói cho tớ biết nhé.
+109|Cảm ơn cậu đã đến.
+110|Gặp cậu, tớ vui lắm.
+111|Tớ có một điều muốn nhờ,▼nhưng muốn giữ riêng thôi.
+112|Hơi ngượng một chút...▼nhưng... lúc đi dạo,▼mình nắm tay nhau được không?
+113|Được chứ.
+114|Không đời nào.
+115|Hả... thật sao?!▼Tớ vui đến phát khóc mất!
+116|Có bạn trai...▼chắc là cảm giác thế này nhỉ.
+117|À, cậu k-không muốn à?▼Xin lỗi vì đã hỏi...
+118|Vậy... hẹn gặp cậu sau.
+119|Có lẽ tớ tưởng tượng thôi,▼nhưng gần đây hình như▼chúng ta thân nhau hơn nhiều.

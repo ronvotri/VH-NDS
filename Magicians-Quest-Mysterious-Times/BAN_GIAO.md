@@ -1,5 +1,7 @@
 # Magician’s Quest · Bàn giao Việt hóa cho Votri Valley
 
+> **Checkpoint 038 · 07/11/2026:** **11.269/55.976 mục (20,13%)**, +221 trang thoại (`0031.004`: 120; `0031.005`: 101). QA đối chiếu toàn bộ 501 JSONL/55.976 bản ghi, bảo toàn 11.048 mục dịch cũ. Xem `CHECKPOINT-2026-11-07-DOT-38.md`, `QA-038.md`, `DELTA-038.jsonl`. **Đợt tiếp:** `0032.001` + `0032.002` (240 trang).
+
 > **Checkpoint 037 · 07/11/2026:** **11.048/55.976 mục (19,74%)**, +240 trang thoại (`0031.002`: 120; `0031.003`: 120). QA so sánh toàn bộ 501 JSONL/55.976 bản ghi, giữ nguyên 10.808 mục dịch cũ. Xem `CHECKPOINT-2026-11-07-DOT-37.md`, `QA-037.md`, `DELTA-037.jsonl`. **Đợt tiếp:** `0031.004` (120) và `0031.005` (101).
 
 > **Checkpoint 036 · 07/11/2026:** **10.808/55.976 mục (19,31%)**; +240 trang thoại (`0030.005`: 120, `0031.001`: 120). QA đối chiếu 501 JSONL/55.976 bản ghi, 0 lỗi cấu trúc, giữ 10.568 bản dịch cũ. Xem `CHECKPOINT-2026-11-07-DOT-36.md`, `QA-036.md`, `DELTA-036.jsonl`. **Đợt tiếp:** `0031.002` và `0031.003`. Giữ nguyên mã điều khiển, ngôi xưng và thuật ngữ.

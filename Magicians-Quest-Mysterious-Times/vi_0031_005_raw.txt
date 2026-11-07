@@ -1,0 +1,101 @@
+000|Được thân thiết với cậu,▼tớ vui lắm. Còn cậu thì sao?
+001|Tớ cũng thế.
+002|Ừm...
+003|Ồ, thật sao?!▼Tuyệt quá!
+004|Mong ngày nào chúng ta▼cũng thân nhau hơn.
+005|À, xin lỗi vì đã hỏi.
+006|Tớ không cố ý khiến▼cậu khó xử đâu.
+007|Ừm, tớ có chuyện muốn▼nói với cậu sau. Cậu có▼rảnh chút nào không?
+008|Được chứ.
+009|Xin lỗi nhé.
+010|Tốt quá...
+011|Vậy cậu gặp tớ tại▼§Điểm Hẹn Hò§ lúc 6 giờ tối nhé.
+012|Ừm... Nếu thật sự không muốn,▼cậu không cần đến đâu.
+013|À, t-tớ hiểu rồi.▼Tớ đâu định ép cậu▼quyết định ngay như thế.
+014|Vậy... hẹn dịp khác nhé.
+015|Có lẽ hơi liều, nhưng...▼tớ muốn chúng ta▼thân thiết hơn nữa.
+016|Kiểu như... thành▼bạn thân ấy, được không?
+017|Nghe tuyệt đấy!
+018|Tớ chưa chắc đâu.
+019|Thật sao? Mong cậu đừng▼đổi ý nhé. Tớ sợ mình▼chịu không nổi đâu.
+020|Vậy cậu muốn làm bạn thân▼với tớ thật à? May mà tớ▼dám hỏi cậu.
+021|Cậu làm ngày hôm nay▼của tớ tuyệt vời hẳn!
+022|À, ừ... tất nhiên rồi.▼Xin lỗi vì đã hỏi.
+023|Chắc tại cậu tốt với tớ▼quá nên tớ hơi vội vàng.
+024|Cậu đừng bận tâm nhé.
+025|Được chứ!
+026|Giờ đó không tiện.
+027|Cảm ơn cậu. Hẹn gặp ở▼§Điểm Hẹn Hò§ lúc 6 giờ tối nhé.
+028|Nhớ đến đấy nhé!
+029|À phải, lẽ ra tớ nên hỏi▼giờ nào cậu rảnh trước mới đúng.
+030|Cậu cho tớ biết▼giờ nào tiện nhé.
+031|10 giờ sáng
+032|12 giờ trưa
+033|3 giờ chiều
+034|6 giờ tối
+035|8 giờ tối
+036|Ừ, 10 giờ sáng nhé...▼Tớ sẽ đợi, nhưng nếu cậu▼quên thì tớ không trách đâu.
+037|Ừ, 12 giờ trưa nhé...▼Tớ sẽ đợi, nhưng nếu cậu▼quên thì tớ không trách đâu.
+038|Ừ, 3 giờ chiều nhé...▼Tớ sẽ đợi, nhưng nếu cậu▼quên thì tớ không trách đâu.
+039|Ừ, 6 giờ tối nhé...▼Tớ sẽ đợi, nhưng nếu cậu▼quên thì tớ không trách đâu.
+040|Ừ, 8 giờ tối nhé...▼Tớ sẽ đợi, nhưng nếu cậu▼quên thì tớ không trách đâu.
+041|Cảm ơn nhé. Mong▼sẽ gặp cậu ở đó.
+042|Ừm... §? Chẳng phải cậu▼đã hứa điều này với▼người khác rồi sao?
+043|Tớ muốn cậu luôn▼giữ lời hứa của mình.
+044|Nếu cậu thất hứa với tớ,▼chắc tớ khóc mất.
+045|Nhớ §Điểm Hẹn Hò§ nhé...▼Mà cậu quên thì▼tớ cũng không trách đâu.
+046|Mình đi chơi nhé!
+047|Ừ, đi thôi!
+048|Để lát nữa nhé?
+049|Tốt quá! Ta đi đâu đây?
+050|À, vậy hẹn gặp lại nhé.
+051|Ừm... tớ phải về thôi.▼Không muốn bị mắng▼vì đến muộn đâu.
+052|Hẹn sớm gặp lại nhé.
+053|À... xin lỗi, nhưng▼tớ vẫn chưa xong việc.
+054|Chờ tớ chút nhé.▼Lát nữa mình nói chuyện.
+055|Hẹn gặp cậu sau.
+056|À... xin lỗi, tớ vẫn▼chưa làm xong nữa.
+057|Chỉ còn một chút thôi.▼Cậu chờ tớ thêm▼một lát nhé.
+058|Xin lỗi vì đã khiến▼cậu phải đợi thế này.
+059|nói chuyện giỏi lắm.
+060|Tớ chẳng khéo ăn nói,▼nên § đã giúp tớ▼nhiều lắm.
+061|Người giỏi trò chuyện▼cũng dễ kết bạn nhỉ?
+062|Trong lớp, nhìn là biết▼§ học rất giỏi.
+063|Tớ chẳng thể trả lời▼thầy cô nhanh như thế.
+064|Học giỏi thật ngầu nhỉ...
+065|Ai cũng bảo §▼có nhiều bạn lắm.
+066|chẳng bao giờ▼phải ở một mình.
+067|Khác hẳn tớ... Haiz.▼Ước gì tớ giống § hơn.
+068|đôi khi hay▼trêu những người như tớ.
+069|Tớ NGHĨ chỉ là đùa vui thôi...
+070|nhưng đôi khi tớ lại sợ▼§ thật ra không quý tớ.
+071|Tớ với § là bạn đấy.
+072|Hì hì. Ngầu không nào?
+073|Tớ vui lắm khi §▼chọn làm bạn với tớ!
+074|Có thể cậu không tin,▼nhưng § và tớ▼là BẠN THÂN đấy!
+075|Thật mà! § cũng▼nghĩ thế... ít ra tớ mong vậy.
+076|§ nói chúng tớ▼là bạn thân mà. Vậy chắc▼đúng rồi, phải không?
+077|Thật ra thì... ừm...▼§ là BẠN TRAI tớ đấy!
+078|T-thật mà! Dù có lẽ▼tớ không nên kể cho ai...
+079|Như một GIẤC MƠ vậy!▼Tớ vui quá, muốn khoe▼với cả thế giới luôn!
+080|Tớ đi gặp §.▼Cả hai ngồi trên ghế đá▼và trò chuyện.
+081|lắng nghe▼từng lời tớ nói.
+082|Rồi § kể chuyện▼vui, làm tớ cười nghiêng ngả!
+083|và tớ đi câu cá!
+084|chỉ tớ▼cách câu nữa.
+085|Vui CỰC KỲ! § đúng là▼người tốt bụng nhất đời!
+086|Tớ cùng § vào rừng▼bắt côn trùng.
+087|Đi bộ trong rừng mệt quá,▼tớ phải ngồi nghỉ.
+088|Nhưng thấy §▼lo cho mình, tớ lại▼khỏe ngay!
+089|và tớ cùng▼bay chổi phép đấy!
+090|Nhưng bay nhiều quá,▼tớ chóng mặt muốn ói.
+091|Thế là § bay▼cạnh tớ, đưa tớ về từ từ.▼Vui lắm luôn!
+092|Tớ với § đi mua sắm.
+093|chọn bao nhiêu▼bộ đồ cho tớ thử luôn.
+094|Đi mua sắm cùng bạn bè▼vui hơn hẳn ấy!
+095|đồng ý▼học cùng tớ đấy.
+096|Hễ tớ bí bài, §▼lại giúp giải chỗ khó.
+097|Có § ở bên,▼học hành nhẹ tênh luôn!
+098|và tớ trước đây▼hay uống trà cùng nhau.
+099|Trà lúc nào cũng ngon lắm.
+100|Có bạn cùng thưởng trà...▼thì trà luôn ngon hơn mà.

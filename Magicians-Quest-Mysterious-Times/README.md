@@ -1,6 +1,6 @@
 # Magician’s Quest: Mysterious Times — Việt hóa Nintendo DS
 
-**Checkpoint mới nhất: 037 (07/11/2026) — 11.048 / 55.976 mục (19,74%).** Đợt 037 dịch thêm **240 trang thoại NPC** (`0031.002`: 120; `0031.003`: 120). Xem `CHECKPOINT-2026-11-07-DOT-37.md` và `QA-037.md`.
+**Checkpoint mới nhất: 038 (07/11/2026) — 11.269 / 55.976 mục (20,13%).** Đợt 038 dịch thêm **221 trang NPC** (`0031.004`: 120; `0031.005`: 101). Xem `CHECKPOINT-2026-11-07-DOT-38.md`, `QA-038.md` và `DELTA-038.jsonl`.
 
 **Repository chung:** https://github.com/ronvotri/VH-NDS/tree/main/Magicians-Quest-Mysterious-Times
 
@@ -25,3 +25,12 @@
 ## Đợt 037
 
 +240 trang thoại `0031.002` và `0031.003`. Xem `CHECKPOINT-2026-11-07-DOT-37.md`, `QA-037.md`, `DELTA-037.jsonl`. Đợt 038: `0031.004` (120) + `0031.005` (101).
+
+## Đợt 038
+
+- Đã dịch `0031.004` (120 trang) và `0031.005` (101 trang), giữ giọng nhút nhát, chân thành; lời mời hẹn hò và các giờ lựa chọn đều giữ nguyên mã phân nhánh.
+- `vi_0031_004_raw.txt`, `vi_0031_005_raw.txt`: bản dịch tay; `vi_0031_004.txt`, `vi_0031_005.txt`: hoàn chỉnh có mã; `manual_0031_004.tsv`, `manual_0031_005.tsv`: bảng song ngữ.
+- `apply_038.py`, `qa_038.py`, `DELTA-038.jsonl`, `QA-038.md`, `CHECKPOINT-2026-11-07-DOT-38.md`.
+- **QA PASS:** 501 JSONL/55.976 bản ghi, 221 trang mới, 11.048 trang cũ giữ nguyên. **Chưa thử ROM NDS**. ZIP không chứa ROM thương mại.
+
+**Đợt 039:** `0032.001` và `0032.002` (dự kiến 240 trang).
