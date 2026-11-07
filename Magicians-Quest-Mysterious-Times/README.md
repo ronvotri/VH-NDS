@@ -1,5 +1,7 @@
 # Magician’s Quest: Mysterious Times — Việt hóa Nintendo DS
 
+**Checkpoint mới nhất: 046 (07/11/2026) — 13.189 / 55.976 mục (23,56%).** Đợt 046 dịch thêm **240 trang NPC** (`0033.010`, `0033.011`): quỷ khổng lồ chơi đuổi bắt, Jack Frost đi tìm ba món ăn, linh thú được triệu hồi và nàng tiên cá mất giọng. Xem `CHECKPOINT-2026-11-07-DOT-46.md`, `QA-046.md`, `DELTA-046.jsonl`. Nguồn đợt 047: `0033.012`, `0033.013`.
+
 **Checkpoint mới nhất: 045 (07/11/2026) — 12.949 / 55.976 mục (23,13%).** Đợt 045 dịch thêm **240 trang NPC** (`0033.008`, `0033.009`): Minotaur kết thúc khóa rèn luyện, Gremlin phá máy và vụ mất tủ tại dinh thự ma do Thuyền trưởng Dot gây ra. Xem `CHECKPOINT-2026-11-07-DOT-45.md`, `QA-045.md`, `DELTA-045.jsonl`. Nguồn đợt 046: `0033.010`, `0033.011`.
 
 **Checkpoint mới nhất: 044 (07/11/2026) — 12.709 / 55.976 mục (22,70%).** Đợt 044 dịch thêm **240 trang thoại NPC** (`0033.006` và `0033.007`, mỗi tệp 120): tượng quỷ đá tìm cách chống ngủ gật, Krampus kiểm tra trẻ ngoan, Minotaur mở trại rèn luyện. Xem `CHECKPOINT-2026-11-07-DOT-44.md`, `QA-044.md`, `DELTA-044.jsonl`.
