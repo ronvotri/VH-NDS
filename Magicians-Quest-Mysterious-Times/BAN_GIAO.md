@@ -1,5 +1,7 @@
 # Magician’s Quest · Bàn giao Việt hóa cho Votri Valley
 
+> **Checkpoint 045 · 07/11/2026:** **12.949/55.976 mục (23,13%)**, +240 trang NPC (`0033.008` và `0033.009`), QA 501 JSONL/55.976 bản ghi, giữ nguyên 12.709 bản cũ. Nội dung: hoàn thành trại Minotaur, đuổi Gremlin, thầy cô đi tìm dụng cụ, điều tra Thuyền trưởng Dot trộm tủ quần áo ở Ngôi Nhà Ma; giữ đúng mã nhiệm vụ và lựa chọn trả tiền. Xem `CHECKPOINT-2026-11-07-DOT-45.md`, `QA-045.md`, `DELTA-045.jsonl`. **Tiếp đợt 046:** `0033.010` và `0033.011` (240 trang), nguồn đã có trong ZIP và dự kiến stage lên GitHub.
+
 > **Checkpoint 044 · 07/11/2026:** **12.709/55.976 mục (22,70%)**, +240 trang NPC (`0033.006`, `0033.007`). QA đối chiếu 501 tệp JSONL/55.976 bản ghi, giữ nguyên 12.469 bản dịch cũ và mã game. Nội dung: tượng quỷ đá canh trường ngủ gật, thực phẩm kích thích vị giác, Krampus đánh giá trẻ ngoan/hư, Minotaur mở trại luyện. Xem `CHECKPOINT-2026-11-07-DOT-44.md`, `QA-044.md`, `DELTA-044.jsonl`. **Tiếp đợt 045:** `0033.008` + `0033.009` (240 trang), nguồn đã có trong ZIP và nên đồng bộ lên GitHub.
 
 > **Checkpoint 043 · 07/11/2026:** **12.469/55.976 mục (22,28%)**, +240 trang (`0033.004`, `0033.005`). QA so sánh toàn bộ 501 JSONL/55.976 bản ghi, bảo toàn 12.229 bản dịch cũ; nội dung gồm rồng hồi phục, người sao Hỏa viết ngược, kẻ song trùng thế giới gương, bùa phản phép, người sói và trao đổi linh hồn. Xem `CHECKPOINT-2026-11-07-DOT-43.md`, `QA-043.md`, `DELTA-043.jsonl`. **Tiếp đợt 044:** `0033.006` + `0033.007` (240 trang), nguồn đã có trong ZIP và GitHub.
