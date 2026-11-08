@@ -1,3 +1,11 @@
+## Checkpoint 059 — 08/11/2026
+
+- **16.272/55.976 (29,07%)**, NPC **13.147/52.608**; thêm 240 trang của `0040.015` và `0040.016`.
+- 101 mẫu tiếng Anh phân biệt, tái dùng chính xác câu trùng các checkpoint trước, tự dịch/biên tập thủ công câu mới.
+- QA đối chiếu toàn bộ 501 JSONL / 55.976 bản ghi với ZIP 058: chỉ điền 240 `vi`; giữ 16.032 `vi` cũ, mã NDS, ID/EN/CTX và trang lặp.
+- `MagiciansQuest-VietHoa-Checkpoint-059.zip` chứa bản đầy đủ, bảng EN–VI, `DELTA-059.jsonl`, QA và script tái tạo; lưu Thư viện `Dịch giả lập`. Chưa kiểm thử ROM.
+- Đợt **060** tiếp `0040.017` và `0040.018` (240 trang) trong ZIP, chưa dịch.
+
 ## Checkpoint 058 — 08/11/2026
 
 - **16.032/55.976 (28,64%)**, NPC **12.907/52.608**; thêm 240 trang của `0040.013` và `0040.014`.
