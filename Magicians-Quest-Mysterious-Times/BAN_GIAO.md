@@ -1,3 +1,13 @@
+## Checkpoint 055 — 08/11/2026
+
+- Tổng **15.312/55.976 (27,35%)**, thoại NPC **12.187/52.608**, tăng 240 mục từ mốc 054.
+- Hai tệp `0040.007` và `0040.008` đã dịch đủ 120 trang/tệp; ngôi bạn bè tớ–cậu và sắc thái NPC lịch lãm, thích buôn chuyện.
+- Đã đối chiếu ZIP checkpoint 054 và 055 cho **501 JSONL / 55.976 bản ghi**: chỉ thêm 240 trường `vi` từ `null`, giữ 15.072 mục đã dịch trước và toàn bộ trường còn lại.
+- Mã động và điều khiển `$...;` giữ giá trị và thứ tự; Unicode NFC, 34 ký tự tĩnh/dòng và tối đa 3 dấu `▼` đều đạt QA.
+- ZIP bàn giao 055 đã lưu Thư viện `Dịch giả lập/MagiciansQuest-VietHoa-Checkpoint-055.zip`, chứa toàn bộ tài nguyên checkpoint, bảng EN–VI, delta, QA và script chạy lại.
+- Chưa kiểm thử trực tiếp trên ROM NDS hoặc độ rộng thực khi game thay tên NPC động.
+- Tiếp đợt 056: `0040.009` và `0040.010` có trong ZIP đầy đủ.
+
 ## Checkpoint 054 — 08/11/2026
 
 - Tổng: **15.072/55.976 mục (26,93%)**; thoại NPC **11.947/52.608**, tăng 240 mục so với 053.
