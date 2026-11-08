@@ -1,3 +1,5 @@
+**Checkpoint mới nhất: 061 (08/11/2026) — 16.752 / 55.976 mục (29.93%).** +240 trang thoại NPC (`0040.019`, `0040.020`) về sinh vật huyền bí, ngoại khóa và Cổng Khởi Đầu và Kết Thúc. QA so sánh 501 JSONL / 55.976 mục với ZIP 060: chỉ thêm 240 trường `vi`, giữ 16.512 bản dịch cũ. Xem `CHECKPOINT-2026-11-08-DOT-61.md`, `QA-061.md`, `DELTA-061.jsonl`. Đợt tiếp: `0040.021` (120) + `0040.022` (60), nguồn có trong ZIP.
+
 **Checkpoint mới nhất: 060 (08/11/2026) — 16.512/55.976 mục (29,50%).** Thêm 240 trang NPC từ `0040.017` + `0040.018`: Nessie, người sói, rồng, người Sao Hỏa, Krampus, Nhân sư và nhiều nhiệm vụ kỳ bí. Xem `CHECKPOINT-2026-11-08-DOT-60.md`, `QA-060.md`, `DELTA-060.jsonl`. Tiếp `0040.019` + `0040.020` (chưa dịch).
 
 **Checkpoint mới nhất: 059 (08/11/2026) — 16.272 / 55.976 mục (29,07%).** Thêm 240 trang NPC từ `0040.015` và `0040.016`: lời đồn, tình bạn, câu cá, nghiên cứu pháp thuật và mở đầu chuyện sinh vật khổng lồ. Xem `CHECKPOINT-2026-11-08-DOT-59.md`, `QA-059.md`, `DELTA-059.jsonl`. Nguồn tiếp: `0040.017` và `0040.018` (chưa dịch).

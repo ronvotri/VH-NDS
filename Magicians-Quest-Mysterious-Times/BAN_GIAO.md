@@ -1,3 +1,11 @@
+## Checkpoint 061 — 08/11/2026
+
+- **16.752/55.976 (29,93%)**, thoại NPC **13.627/52.608**; +240 mục từ checkpoint 060.
+- Hoàn thành `0040.019` + `0040.020` (120 trang/tệp): yêu tinh, người lòng đất, người tuyết, Siren, Nhân tạo nhân, Cấm Thư, Cổng Khởi Đầu và Kết Thúc.
+- Giữ nguyên mọi ID/EN/CTX, token kỹ thuật, 16.512 mục Việt đã có. Dịch toàn bộ 240 bản ghi riêng, kiểm tra NFC, giới hạn 34 ký tự tĩnh và tối đa 3 ký hiệu `▼`.
+- ZIP đầy đủ trong Thư viện `Dịch giả lập/MagiciansQuest-VietHoa-Checkpoint-061.zip`, kèm bảng EN–VI, delta, script build và QA. **Chưa kiểm thử ROM NDS thực, chiều rộng biến động cần kiểm thử trong game.**
+- Đợt **062** tiếp `0040.021` (120 trang) và `0040.022` (60 trang) đã nằm trong ZIP, chưa dịch.
+
 ## Checkpoint 060 — 08/11/2026
 
 - **16.512/55.976 (29,50%)**, NPC **13.387/52.608**; +240 trang `0040.017`, `0040.018`.
