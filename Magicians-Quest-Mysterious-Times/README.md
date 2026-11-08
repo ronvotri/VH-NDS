@@ -1,3 +1,5 @@
+**Checkpoint mới nhất: 063 (08/11/2026) — 17.172/55.976 (30,68%).** Thêm 240 trang thoại (`0041.001`, `0041.002`), QA toàn bộ 501 JSONL PASS, giữ 16.932 bản dịch cũ. Xem `CHECKPOINT-2026-11-08-DOT-63.md`, `DELTA-063.jsonl`, `QA-063.md`. Tiếp theo `0041.003` và `0041.004` (120 trang/tệp).
+
 **Checkpoint mới nhất: 062 (08/11/2026) — 16.932/55.976 mục (30,25%).** Đã dịch thêm 180 trang NPC (`0040.021` 120, `0040.022` 60), QA toàn bộ 501 JSONL PASS, giữ 16.752 bản dịch cũ. Xem `CHECKPOINT-2026-11-08-DOT-62.md`, `DELTA-062.jsonl`, `QA-062.md`. Tiếp theo `0041.001` và `0041.002` (120 trang mỗi tệp).
 
 **Checkpoint mới nhất: 061 (08/11/2026) — 16.752 / 55.976 mục (29.93%).** +240 trang thoại NPC (`0040.019`, `0040.020`) về sinh vật huyền bí, ngoại khóa và Cổng Khởi Đầu và Kết Thúc. QA so sánh 501 JSONL / 55.976 mục với ZIP 060: chỉ thêm 240 trường `vi`, giữ 16.512 bản dịch cũ. Xem `CHECKPOINT-2026-11-08-DOT-61.md`, `QA-061.md`, `DELTA-061.jsonl`. Đợt tiếp: `0040.021` (120) + `0040.022` (60), nguồn có trong ZIP.
