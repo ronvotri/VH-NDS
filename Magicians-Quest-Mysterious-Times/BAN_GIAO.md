@@ -1,3 +1,11 @@
+## Checkpoint 064 — 08/11/2026
+
+- Tiến độ **17,412/55.976 (31.11%)**, thoại NPC **14,287/52.608**; thêm 240 trang.
+- Hoàn thành `0041.003` và `0041.004` (120 trang/tệp); giữ nguyên token và giới hạn dòng.
+- QA 501 JSONL / 55.976 bản ghi; 17.172 bản dịch cũ không thay, ID/EN/CTX nguyên vẹn.
+- ZIP Thư viện: `/Dịch giả lập/MagiciansQuest-VietHoa-Checkpoint-064.zip`; chưa kiểm thử ROM.
+- Đợt 065: `0041.005` và `0041.006`, mỗi tệp 120 trang, nguồn đã có trong ZIP.
+
 ## Checkpoint 063 — 08/11/2026
 
 - Đã dịch **17.172/55.976 (30,68%)**; thoại NPC **14.047/52.608**; tăng 240 câu.
