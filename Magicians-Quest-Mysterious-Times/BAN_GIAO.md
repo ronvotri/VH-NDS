@@ -1,3 +1,9 @@
+## Checkpoint 069 — 09/11/2026
+
+- Dịch 240/240 trang `0041.013` và `0041.014`, tiến độ 18.612/55.976 (33,25%).
+- Gói checkpoint đầy đủ, giữ nguyên các tệp nguồn và toàn bộ bản dịch trước. Kiểm tra QA toàn bộ; chưa kiểm thử trên ROM NDS.
+- Tiếp theo: hai tệp chưa dịch sau `0041.014`.
+
 ## Checkpoint 068 — 09/11/2026
 
 - **18,372/55.976 (32.82%)**, thoại NPC **15,247/52.608**; thêm 240 trang.
