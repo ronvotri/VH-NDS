@@ -1,3 +1,11 @@
+## Checkpoint 067 — 09/11/2026
+
+- **18,132/55.976 (32.39%)**, NPC **15,007/52.608**; bổ sung 240 trang trong `0041.009`, `0041.010`.
+- Hội thoại hẹn hò, lời đồn, phản ứng bạn bè; bảo toàn mã NDS và lựa chọn hội thoại.
+- QA 501 JSONL / 55.976 bản ghi, chỉ thêm đúng 240 `vi`, các trường khác nguyên vẹn.
+- ZIP: `/Dịch giả lập/MagiciansQuest-VietHoa-Checkpoint-067.zip`; chưa thử trên ROM.
+- Tiếp 068: `0041.011`, `0041.012` — nguồn có sẵn trong ZIP, stage trên GitHub.
+
 ## Checkpoint 066 — 09/11/2026
 
 - **17,892/55.976 (31.96%)**, NPC **14,767/52.608**, thêm 240 mục trong `0041.007`, `0041.008`.

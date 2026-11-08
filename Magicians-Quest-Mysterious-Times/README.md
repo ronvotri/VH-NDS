@@ -1,3 +1,5 @@
+**Checkpoint mới nhất: 067 (09/11/2026) — 18,132/55.976 (32.39%).** +240 trang thoại `0041.009`, `0041.010`; QA 501 JSONL đạt; 17.892 bản dịch cũ bảo toàn. Xem `CHECKPOINT-2026-11-09-DOT-67.md`, `DELTA-067.jsonl`, `QA-067.md`. Tiếp `0041.011`, `0041.012` (120 trang/tệp).
+
 **Checkpoint mới nhất: 066 (09/11/2026) — 17,892/55.976 (31.96%).** +240 trang thoại `0041.007`, `0041.008`; QA trên 501 JSONL PASS, bảo toàn 17.652 mục dịch cũ. Xem `CHECKPOINT-2026-11-09-DOT-66.md`, `DELTA-066.jsonl`, `QA-066.md`. Tiếp `0041.009` và `0041.010` (120 trang/tệp).
 
 **Checkpoint mới nhất: 065 (08/11/2026) — 17,652/55.976 (31.53%).** +240 trang thoại (`0041.005`, `0041.006`). QA toàn 501 JSONL PASS; giữ nguyên 17.412 bản dịch cũ. Xem `CHECKPOINT-2026-11-08-DOT-65.md`, `DELTA-065.jsonl`, `QA-065.md`. Tiếp `0041.007`, `0041.008` (120 trang/tệp).
