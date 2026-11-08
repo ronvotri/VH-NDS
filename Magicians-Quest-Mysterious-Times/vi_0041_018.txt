@@ -1,0 +1,120 @@
+$024'327'1;$023'327'173'6'2;$022'327'341;Giờ mặt nó trông▼tự tin và đáng tin▼hơn hẳn!$079;
+$024'327'5;$023'327'170'10'1;$022'327'301;Nghe nói có một gã▼trông nguy hiểm lắm▼mới đến thị trấn!
+Mặt hắn đáng sợ cực kỳ!
+Có vẻ hắn đi khắp nơi▼kiểm tra ai ngoan,▼ai hư đấy...
+$024'327'0;$023'327'178'10'1;$022'327'361;Không biết tớ▼có ổn không nhỉ?
+Tớ nghĩ mình chưa từng▼làm gì xấu quá đáng...
+$024'327'5;$023'327'170'10'1;$022'327'301;Nhưng càng nghĩ▼tớ càng thấy lo!$079;
+Nghe nói gã đi loanh quanh▼thị trấn tên là▼$000'3;Krampus$000'1;.
+$024'327'0;$023'327'178'10'1;$022'327'361;Sao hắn biết được▼ai từng làm chuyện xấu nhỉ?
+Ối... Hay thầy cô▼đi mách lẻo chuyện▼của bọn mình rồi...?
+$024'327'5;$023'327'170'10'1;$022'327'301;Thế này tớ nguy to!
+$024'327'3;$023'327'171'10'1;$022'327'304;Hôm nọ tớ vừa bị mắng▼vì chạy ngoài hành lang!$079;
+$500;, $000'3;Krampus$000'1; đã▼kiểm tra cậu ngoan▼hay hư chưa?
+$024'327'1;$023'327'173'6'2;$022'327'341;Hắn kiểm tra tớ rồi,▼bảo tớ là "cậu bé ngoan".
+Hắn nói đôi khi tớ hơi▼tự mãn, nhưng kết bạn giỏi▼nên vẫn là người tốt.
+Trông có vẻ đáng sợ,▼mà hắn nhìn người chuẩn ghê!
+$024'327'1;$023'327'173'6'2;$022'327'341;Đơn giản thôi, cứ▼kết bạn ngày càng nhiều▼là được!$079;
+$024'327'5;$023'327'99'10'2;$022'327'303;Có gã đầu bò đang▼quậy tưng bừng ở $000'5;công viên$000'1;.
+$024'327'5;$023'327'170'10'1;$022'327'301;Hình như hắn muốn▼chiêu mộ mấy đứa trẻ...
+Cẩn thận kẻo bị▼hắn lôi kéo nhé, $500;!$079;
+$024'327'1;$023'327'173'6'2;$022'327'341;Dạo này chạy nhảy▼vui hơn trước nhiều thật!
+$024'327'0;$023'327'178'10'1;$022'327'361;$500;, cậu cũng đang▼tập luyện đấy chứ?
+$024'327'6;$023'327'8'10'1;$022'327'382;Buổi tập tiếp theo▼nhất định tớ không thua!$079;
+$024'327'1;$023'327'173'6'2;$022'327'341;Quen rồi thì tập thể dục▼thú vị phết!
+Khóa huấn luyện của▼$000'3;Minotaur$000'1;▼đã kết thúc...
+nhưng tớ vẫn sẽ▼tự tập tiếp.
+$024'327'1;$023'327'173'6'2;$022'327'341;Chiến thắng là của tớ!!!$079;
+$024'327'0;$023'327'178'10'1;$022'327'361;Tớ thấy tiếng chuông trường▼dạo này hơi lạ.▼Cậu nghĩ sao, $500;?
+$024'327'6;$023'327'8'10'1;$022'327'382;Tớ chắc là chuông bị hỏng▼hoặc có ai đó phá.
+$024'327'0;$023'327'1'4'0;Lần tới mình nên lên▼$000'5;gác mái$000'1; xem thử!$079;
+$024'327'0;$023'327'178'10'1;$022'327'361;Cậu tìm ra kẻ▼phá chuông chưa?
+$024'327'3;$023'327'171'10'1;$022'327'304;Hắn chạy thoát à?▼Chắc nhanh chân lắm.
+$024'327'0;$023'327'1'4'0;Muốn bắt mấy kẻ▼nhanh nhẹn kiểu đó...
+$024'327'6;$023'327'8'10'1;$022'327'382;phải di chuyển▼mà không ai nhận ra.
+$024'327'0;$023'327'178'10'1;$022'327'361;Cậu đã học loại▼thần chú như vậy rồi,▼đúng không?$079;
+$024'327'1;$023'327'173'6'2;$022'327'341;Cậu bắt được kẻ▼phá chuông rồi à?! Hay quá!
+$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nhớ từng nghe về▼một sinh vật mê▼nghịch máy móc...
+$024'327'0;$023'327'178'10'1;$022'327'361;Chính là nó sao?$079;
+$024'327'3;$023'327'171'10'1;$022'327'304;Dạo này tớ xui xẻo▼kinh khủng!
+Hôm nọ, $000'5;phòng ký túc$000'1;▼của tớ bị lục tung,▼đồ đạc đảo lộn hết!
+Chẳng hiểu sao▼tường còn bị vẽ bậy.
+Tớ cứ tưởng▼có trộm đột nhập...
+$024'327'0;$023'327'178'10'1;$022'327'361;nhưng chẳng mất gì cả.
+Xếp lại toàn bộ nội thất▼mệt muốn xỉu.
+Rốt cuộc kẻ đó▼muốn làm gì nhỉ?$079;
+Ra vậy. Thứ quậy phá▼$000'5;phòng ký túc$000'1; của tớ▼là một con ma à?
+Ồ... Rồi con ma ấy▼thế nào rồi?
+$024'327'5;$023'327'175'8'1;$022'327'342;Hả? Giờ nó đang ở▼$000'5;phòng$000'1; cậu á?
+Kinh khủng thật...
+$024'327'1;$023'327'173'6'2;$022'327'341;Tớ cũng chẳng giúp gì▼được đâu... Cố lên nhé!$079;
+Vậy con ma đi rồi à?
+$024'327'1;$023'327'173'6'2;$022'327'341;Thế thì yên tâm hơn.▼Không lo $000'5;phòng ốc$000'1;▼bị bày bừa nữa.
+Nhưng vậy là hết cớ▼để $000'5;phòng$000'1; bừa bộn rồi...
+Nghĩ lại mới thấy...
+Tớ lấy cớ ấy▼không biết bao lần.▼Giờ ai mà tin nữa...
+$024'327'3;$023'327'171'10'1;$022'327'304;*thở dài*▼Chắc mai phải▼tổng vệ sinh thôi.$079;
+$500;, cậu nghe gì chưa?
+Có gã kỳ quặc lảng vảng▼ở $000'5;thị trấn$000'1;, trên đầu▼mọc hẳn một chiếc sừng!
+Hắn gặp ai cũng▼thách đấu người ấy.
+$024'327'5;$023'327'170'10'1;$022'327'301;Nghe nói chưa ai▼đánh bại được hắn.
+$024'327'1;$023'327'173'6'2;$022'327'341;Nhưng gặp tớ thì▼chuyện sẽ khác!$079;
+$024'327'3;$023'327'171'10'1;$022'327'304;Tớ thua rồi...
+$024'327'3;$023'327'171'10'1;$022'327'304;Tớ thua con $000'3;quỷ$000'1; ấy rồi...
+$024'327'2;$023'327'28'8'4;$022'327'381;nhưng hắn chưa xong với tớ đâu!▼Tớ sẽ cho hắn biết tay!
+Phải lén tới bắt gã $000'3;quỷ khổng lồ$000'1;▼trước khi hắn phát hiện...
+$024'327'0;$023'327'178'10'1;$022'327'361;Nhưng làm sao đây?$079;
+Nghe bảo có người đã đánh bại▼gã $000'3;quỷ khổng lồ$000'1; đó rồi!
+Vừa thua trận mà hắn▼trông vui ra mặt ấy nhỉ.
+$024'327'1;$023'327'173'6'2;$022'327'341;Chắc hắn mừng vì cuối cùng▼cũng gặp được đối thủ xứng tầm.
+$024'327'1;$023'327'173'6'2;$022'327'341;Ai thắng được hắn hẳn phải▼cực kỳ tài giỏi!$079;
+Lâu lắm rồi chẳng có▼một giọt mưa nào.
+$024'327'7;$023'327'170'10'2;$022'327'301;Cứ thế này, cây cối▼sẽ héo úa mất thôi.
+Hay chúng ta đi một vòng▼xem tình hình ra sao nhé.
+$500;, thấy cây nào▼ủ rũ thì nhớ tưới nước nhé!$079;
+Cây cối trong $000'5;rừng$000'1;▼bỗng mọc um tùm lạ thường.
+$024'327'5;$023'327'175'8'1;$022'327'342;Không mưa mà chúng▼lớn nhanh thế nhỉ...
+Chẳng lẽ nước từ $000'5;sông$000'1;▼tự chạy vào đấy được...
+$024'327'0;$023'327'178'10'1;$022'327'361;Hay dưới lòng đất▼của $000'5;rừng$000'1; có mạch nước ngầm?$079;
+Dạo này cây cối▼trông tràn trề sức sống.
+$024'327'0;$023'327'178'10'1;$022'327'361;Không biết trong $000'5;rừng$000'1;▼đã xảy ra chuyện gì...
+Không mưa mà $000'5;rừng$000'1;▼vẫn xanh tốt, lạ thật đấy.$079;
+$024'327'5;$023'327'99'10'2;$022'327'303;Tớ thấy rồi!
+$024'327'0;$023'327'1'4'0;Thấy gì á? Cái thứ▼trắng to đùng ấy chứ gì!
+$024'327'5;$023'327'170'10'1;$022'327'301;Trời tối, nó lại ở xa▼nên tớ chẳng nhìn rõ...
+$024'327'0;$023'327'1'4'0;nhưng nó vừa tròn vừa to,▼trắng như tuyết, bước một cái▼là mặt đất rung lên!
+$024'327'7;$023'327'177'10'1;Đâu phải tớ sợ▼không dám lại gần...
+$024'327'0;$023'327'1'4'0;chỉ là tớ chợt nhớ có việc▼phải làm, nên chuồn lẹ thôi!$079;
+Cậu cũng đang tìm món quà▼$000'3;Jack Frost$000'1; nhắc tới à,▼$500;?
+Tớ đang tìm▼$000'4;$507'316;$000'1;.
+$024'327'6;$023'327'8'10'1;$022'327'382;Nghe nói $000'4;$507'316;$000'1;▼là một loại đá cực hiếm.
+Khi trời rét buốt,▼nó có thể hình thành▼trong $000'5;hang động$000'1;...
+$024'327'0;$023'327'178'10'1;$022'327'361;Nhưng tớ tới đó tìm mãi▼chẳng thấy. Lạ ghê...$079;
+Nghe bảo $000'3;Jack Frost$000'1;▼đã đi dự tiệc rồi.
+$024'327'0;$023'327'178'10'1;$022'327'361;Không biết cậu ấy có thích▼$000'4;$507'316;$000'1; tớ tặng không nhỉ?
+$024'327'1;$023'327'173'6'2;$022'327'341;Nếu thích thì công tớ▼lặn lội tìm kiếm cũng đáng.
+Yêu cầu hơi đột ngột,▼nhưng được ngắm mấy món hiếm▼cũng thú vị thật!
+Mong năm sau cậu ấy▼lại ghé chơi...$079;
+Hình như sắp có▼buổi học ngoại khóa đó.
+Chắc sẽ được làm chuyện▼khác hẳn giờ học thường ngày.
+$024'327'1;$023'327'173'6'2;$022'327'341;Chưa biết học gì,▼mà tớ đã háo hức rồi!$079;
+Nuôi $000'3;Nhân tạo nhân$000'1;▼vất vả thật đấy!
+Ừm... hình như phải▼niệm chú ba ngày liên tiếp.
+Tớ có linh cảm▼mình sẽ quên mất tiêu.
+$024'327'0;$023'327'178'10'1;$022'327'361;Lỡ quên thì▼chuyện gì sẽ xảy ra nhỉ...$079;
+Tớ cũng từng nuôi▼$000'3;Nhân tạo nhân$000'1;...
+nhưng có một hôm▼tớ quên niệm chú.
+$024'327'3;$023'327'171'10'1;$022'327'304;Thế là nó héo rũ▼trước khi trưởng thành.
+Đến lúc nhận ra▼thì đã quá muộn rồi.
+$024'327'7;$023'327'170'10'2;$022'327'301;*Thở dài*▼Bài này chắc tớ ăn▼trứng ngỗng to tướng...$079;
+$024'327'1;$023'327'173'6'2;$022'327'341;Giờ đi học vui ghê!
+$024'327'1;$023'327'173'6'2;$022'327'341;Nghĩ tới việc triệu hồi▼$000'3;linh thú$000'1; là tớ phấn khích!
+$024'327'1;$023'327'173'6'2;$022'327'341;Hí hí! Mong có con thật ngầu!$079;
+$024'327'7;$023'327'177'10'1;Hôm nọ tớ vấp té,▼dù dưới chân chẳng có gì!
+$024'327'3;$023'327'171'10'1;$022'327'304;Nhưng rõ ràng có thứ gì▼đó đụng vào chân tớ...
+$024'327'5;$023'327'175'8'1;$022'327'342;Chưa hết đâu,▼còn có vật từ trên trời▼rơi trúng đầu tớ nữa!
+$024'327'0;$023'327'178'10'1;$022'327'361;Cậu thấy kỳ quặc▼lắm đúng không?$079;
+$024'327'5;$023'327'175'8'1;$022'327'342;Hả?! $000'3;Linh thú$000'1; cậu gọi▼ra lại quậy phá á?
+$024'327'0;$023'327'1'4'0;À, ra là thế nên mới có▼đồ rơi từ trên trời xuống...
+$024'327'1;$023'327'173'6'2;$022'327'341;Con đó đúng là trùm chơi khăm,▼dám cho tớ một vố!
+$024'327'1;$023'327'173'6'2;$022'327'341;Tớ phải nói chuyện▼cho ra lẽ với nó mới được...$079;

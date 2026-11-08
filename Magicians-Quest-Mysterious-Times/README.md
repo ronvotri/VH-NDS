@@ -1,3 +1,5 @@
+**Checkpoint mới nhất: 071 (09/11/2026) — 19.092 / 55.976 (34,11%).** Tăng 240 trang thoại NPC (`0041.017`, `0041.018`). Xem `CHECKPOINT-2026-11-09-DOT-71.md`, `QA-071.md` và `DELTA-071.jsonl`. Nguồn đợt 072 đã sẵn: `0041.019` + `0041.020`.
+
 **Checkpoint mới nhất: 070 (09/11/2026) — 18.852/55.976 (33,68%).** Tăng 240 thoại NPC qua `0041.015`–`0041.016`. Xem `CHECKPOINT-2026-11-09-DOT-70.md`, `QA-070.md`, `DELTA-070.jsonl`. Nguồn 071: `0041.017`, `0041.018`.
 
 **Checkpoint mới nhất: 069 (09/11/2026): 18.612 / 55.976 (33,25%).** Bổ sung 240 trang thoại NPC `0041.013`–`0041.014`, QA toàn bộ 501 tệp nguồn; xem `CHECKPOINT-2026-11-09-DOT-69.md`, `QA-069.md`, `DELTA-069.jsonl`.

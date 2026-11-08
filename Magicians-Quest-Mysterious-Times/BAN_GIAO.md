@@ -1,3 +1,11 @@
+## Checkpoint 071 — 09/11/2026
+
+- Đã dịch `0041.017` + `0041.018`: **+240 trang**, tổng **19.092 / 55.976 (34,11%)**, thoại NPC **15.967 / 52.608**.
+- 240 mẫu EN đã có bản dịch trước; tái sử dụng 236 mẫu, chỉnh mã màu cho 4 mẫu trong đợt mới. Không đụng bản dịch cũ.
+- QA so sánh 501 JSONL: 18.852 → 19.092, chỉ 240 trường `vi` mới; không đổi ID, EN, CTX, 499 tệp dịch khác.
+- ZIP đầy đủ: `/Dịch giả lập/MagiciansQuest-VietHoa-Checkpoint-071.zip`.
+- Chưa thử trên ROM NDS. Tiếp `0041.019` và `0041.020` (120 trang/tệp).
+
 ## Checkpoint 070 — 09/11/2026
 
 - Đã dịch `0041.015` + `0041.016`: +240 trang (18.852/55.976; 33,68%).
@@ -236,3 +244,4 @@ Kiểm thử ở nhánh **tiếng Anh**. Dùng New Game cho đoạn mở đầu,
 ## Lệnh giao cho phiên cloud
 
 > Đọc BAN_GIAO.md và translation/INDEX.tsv. Bắt đầu từ 00-mo-dau và 01-he-thong. Chỉ sửa trường vi trong các JSONL được giao, giữ mã điều khiển và ID, kiểm tra giới hạn byte. Dịch từng lô để dễ kiểm tra và tái dùng câu trùng đã duyệt khi ngữ cảnh phù hợp. Sau khi xong văn bản, dùng audit/graphics.tsv để rà phần chữ nằm trong ảnh. Dựng ROM từ bản USA sạch bằng mqhandoff.py và liệt kê các màn cần test.
+
