@@ -1,3 +1,11 @@
+## Checkpoint 060 — 08/11/2026
+
+- **16.512/55.976 (29,50%)**, NPC **13.387/52.608**; +240 trang `0040.017`, `0040.018`.
+- 240 trang với 240 mẫu tiếng Anh khác biệt, được dịch riêng, thống nhất tớ–cậu, giữ mã màu/tên biến chính xác.
+- QA tất cả 501 JSONL / 55.976 bản ghi checkpoint 059 → 060: chỉ 240 trường `vi` được điền; giữ 16.272 bản dịch cũ và mọi ID/EN/CTX.
+- ZIP đầy đủ `MagiciansQuest-VietHoa-Checkpoint-060.zip` gồm bản dịch, bảng EN–VI, `DELTA-060.jsonl`, script tái tạo và QA; chưa chạy ROM NDS.
+- Đợt **061** tiếp `0040.019` và `0040.020` (240 trang nguồn đã có trong ZIP).
+
 ## Checkpoint 059 — 08/11/2026
 
 - **16.272/55.976 (29,07%)**, NPC **13.147/52.608**; thêm 240 trang của `0040.015` và `0040.016`.

@@ -1,3 +1,5 @@
+**Checkpoint mới nhất: 060 (08/11/2026) — 16.512/55.976 mục (29,50%).** Thêm 240 trang NPC từ `0040.017` + `0040.018`: Nessie, người sói, rồng, người Sao Hỏa, Krampus, Nhân sư và nhiều nhiệm vụ kỳ bí. Xem `CHECKPOINT-2026-11-08-DOT-60.md`, `QA-060.md`, `DELTA-060.jsonl`. Tiếp `0040.019` + `0040.020` (chưa dịch).
+
 **Checkpoint mới nhất: 059 (08/11/2026) — 16.272 / 55.976 mục (29,07%).** Thêm 240 trang NPC từ `0040.015` và `0040.016`: lời đồn, tình bạn, câu cá, nghiên cứu pháp thuật và mở đầu chuyện sinh vật khổng lồ. Xem `CHECKPOINT-2026-11-08-DOT-59.md`, `QA-059.md`, `DELTA-059.jsonl`. Nguồn tiếp: `0040.017` và `0040.018` (chưa dịch).
 
 **Checkpoint mới nhất: 058 (08/11/2026) — 16.032 / 55.976 mục (28,64%).** Thêm 240 trang NPC (`0040.013`, `0040.014`): chuyện hẹn hò, lời đồn, bạn bè, thi đấu và những bí mật vui nhộn. Xem `CHECKPOINT-2026-11-08-DOT-58.md`, `QA-058.md`, `DELTA-058.jsonl`. Nguồn tiếp: `0040.015` và `0040.016` (chưa dịch).
