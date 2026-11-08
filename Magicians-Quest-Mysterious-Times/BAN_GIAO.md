@@ -1,3 +1,11 @@
+## Checkpoint 056 — 08/11/2026
+
+- **15.552/55.976 (27,78%)**, thoại NPC **12.427/52.608**, tăng 240 mục từ 055.
+- Hoàn thành `0040.009` và `0040.010` (120 trang/tệp); 2 bảng EN–VI, `DELTA-056.jsonl`, script `build_056.py` / `qa_056.py`.
+- QA đối chiếu 501 JSONL / 55.976 bản ghi checkpoint 055 và 056: chỉ 240 `vi` mới, giữ 15.312 bản dịch cũ, bảo toàn mã, NFC và giới hạn dòng tĩnh.
+- ZIP checkpoint 056 đầy đủ lưu tại Thư viện `Dịch giả lập/MagiciansQuest-VietHoa-Checkpoint-056.zip` (1.050 tệp), chưa kiểm thử trên ROM NDS.
+- Tiếp `0040.011` và `0040.012` (120 trang/tệp) — nguồn đã stage GitHub.
+
 ## Checkpoint 055 — 08/11/2026
 
 - Tổng **15.312/55.976 (27,35%)**, thoại NPC **12.187/52.608**, tăng 240 mục từ mốc 054.
