@@ -1,0 +1,57 @@
+"""Manual Vietnamese translations indexed by first-seen unique English body in two source files.
+
+This dictionary is curated for Magician's Quest NDS. Unlisted English lines reuse
+existing exactly-matching translations from checkpoint 065 or the earlier file 007.
+The dollar-code placeholders are NEVER translated or reordered.
+"""
+MANUAL_007 = {
+ 4: "Ê, cậu nghe tin gì chưa?!",
+ 6: "Tớ cá hai người đó▼đang hẹn hò! Đừng hòng▼qua mắt tớ!",
+ 8: "Tội $530'0; quá...▼Đúng là bị lợi dụng rồi...",
+ 9: "$530'0; và $530'1;▼đã $533;!",
+ 10: "Không biết họ làm gì nhỉ...",
+ 11: "Rốt cuộc đã có chuyện gì?▼Tớ tò mò muốn phát điên!",
+ 12: "$530'0; và $530'1;▼bên nhau hạnh phúc lắm,▼$533;!",
+ 13: "$530'0; và $530'1;▼$533; hợp nhau đến mức▼trông cứ như diễn!",
+ 14: "Có gì đó sai sai.▼Chắc chắn có chuyện▼mờ ám ở đây...",
+ 16: "Họ thân nhau thì vui,▼nhưng cũng phải cho người khác▼chơi cùng chứ!",
+ 17: "Nghe nói $530'0;▼đã $531; và trông▼rất $533;.",
+ 18: "Chuyện gì xảy ra nhỉ?▼Nghe chẳng giống $530'0;▼chút nào.",
+ 19: "Nghe nói $530'0;▼đã $531; và dùng▼$533; kỳ lạ.",
+ 21: "Nghe nói $530'0;▼đã $531; rồi▼$533; rất cẩn thận.",
+ 22: "Bí mật á?▼Nghe hai chữ đó là tớ▼muốn hóng ngay!",
+ 23: "$530'0; siêu ngầu,▼theo lời $533;.",
+ 24: "Hừm... Ước gì người ta▼đồn về tớ! Phải cho họ▼thấy tài năng mới được!",
+ 26: "Biết quan tâm à?▼Chẳng giống tớ tẹo nào.▼Tớ giỏi món khác cơ!",
+ 27: "$530'0;▼$533;▼vì hay bày trò.",
+ 28: "Trò nghịch là sở trường tớ!▼Phải luyện thêm kẻo▼tụt tay nghề mất!",
+ 29: "Này! Cậu nghe tin mới chưa?",
+ 33: "Ngắm pháo hoa thì▼có gì ghê gớm đâu nhỉ?",
+ 37: "Tin nổi không?▼Đến tớ còn bất ngờ!",
+ 39: "Nghe phức tạp ghê...▼Tớ chẳng hiểu▼chuyện đó chút nào.",
+ 44: "Tớ chẳng ưa nổi▼kiểu chuyện đó...",
+ 47: "Biết là tin đồn thôi,▼nhưng có thật không?",
+ 48: "Có.",
+ 49: "Không hẳn.",
+ 50: "Thật á?! Tớ cứ tưởng▼chỉ là tin đồn thôi!",
+ 51: "Lần sau có trò vui thế,▼nhớ rủ tớ đi cùng nhé!",
+ 52: "Tớ cũng nghĩ là không...",
+ 53: "nhưng vẫn tò mò ghê!",
+ 54: "Ít ra mọi người đang▼đồn thế đấy. Có thật không?",
+}
+MANUAL_008 = {
+ 9: "Có lo lắng gì thì▼cứ tâm sự với tớ nhé!",
+ 12: "Cậu nghe chưa?▼Có người đang đồn rằng...",
+ 13: '"$530\'0; và $530\'1;▼lúc nào cũng bên nhau.▼Tớ nghĩ $533;!"',
+ 15: "Có chuyện gì thì▼cứ tâm sự với tớ!",
+ 20: "Cậu biết chuyện đó chưa?",
+ 21: "Ừ, tớ biết rồi.",
+ 22: "Chưa, tớ không biết.",
+ 23: "Hả, cậu biết rồi sao?▼Tin đồn đó làm tớ▼ghen tị quá đi!",
+ 24: "Gì cơ? Cậu chưa biết á?",
+ 25: "Nhưng cũng chỉ là tin đồn...",
+ 27: "Hả, cậu biết rồi à?▼Đồn ầm lên thế này▼chắc chuyện lớn lắm!",
+ 29: "Hả, cậu biết rồi à?▼Nếu biết vì sao người ta▼đồn chuyện này...",
+ 30: "thì lần sau làm gì▼cậu cũng phải cẩn thận!",
+ 31: "Nếu biết nguyên do,▼lần sau cậu phải▼cẩn thận hơn nhé!",
+}

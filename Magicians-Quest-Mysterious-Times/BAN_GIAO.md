@@ -1,3 +1,11 @@
+## Checkpoint 066 — 09/11/2026
+
+- **17,892/55.976 (31.96%)**, NPC **14,767/52.608**, thêm 240 mục trong `0041.007`, `0041.008`.
+- Giọng học trò tớ–cậu, mã NDS bảo toàn, 499 tệp ngoài đợt byte-identical.
+- QA tất cả 501 JSONL / 55.976 bản ghi: giữ 17.652 mục dịch trước, thêm đúng 240 `vi`.
+- ZIP đầy đủ: `/Dịch giả lập/MagiciansQuest-VietHoa-Checkpoint-066.zip`; chưa thử ROM thật.
+- Tiếp 067: `0041.009`, `0041.010` — nguồn có trong ZIP và stage GitHub.
+
 ## Checkpoint 065 — 08/11/2026
 
 - **17,652/55.976 (31.53%)**, NPC **14,527/52.608**; bổ sung 240 trang tiếng Việt.
