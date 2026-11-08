@@ -1,20 +1,26 @@
+## Checkpoint 057 — 08/11/2026
+
+- Tổng **15.792/55.976 (28,21%)**, hội thoại NPC **12.667/52.608**; thêm 240 trang (`0040.011`/`0040.012`, 120 trang/tệp).
+- Tái dùng bản dịch trùng từ các đợt trước, biên tập những câu mới. Mọi mã `$...;` giữ nguyên thứ tự và giá trị.
+- QA đối chiếu 501 JSONL / 55.976 bản ghi checkpoint 056 và 057: chỉ điền 240 `vi`, giữ 15.552 bản dịch cũ, không thay id/en/ctx hay các tệp khác.
+- Bàn giao đủ `manual_0040_011.tsv`, `manual_0040_012.tsv`, `DELTA-057.jsonl`, `QA-057.md`, `build_057.py`, `qa_057.py` và ZIP. Chưa test thực tế trên ROM.
+- Đợt tiếp 058: `0040.013` và `0040.014` đã nằm trong ZIP.
+
 ## Checkpoint 056 — 08/11/2026
 
-- **15.552/55.976 (27,78%)**, thoại NPC **12.427/52.608**, tăng 240 mục từ 055.
-- Hoàn thành `0040.009` và `0040.010` (120 trang/tệp); 2 bảng EN–VI, `DELTA-056.jsonl`, script `build_056.py` / `qa_056.py`.
-- QA đối chiếu 501 JSONL / 55.976 bản ghi checkpoint 055 và 056: chỉ 240 `vi` mới, giữ 15.312 bản dịch cũ, bảo toàn mã, NFC và giới hạn dòng tĩnh.
-- ZIP checkpoint 056 đầy đủ lưu tại Thư viện `Dịch giả lập/MagiciansQuest-VietHoa-Checkpoint-056.zip` (1.050 tệp), chưa kiểm thử trên ROM NDS.
-- Tiếp `0040.011` và `0040.012` (120 trang/tệp) — nguồn đã stage GitHub.
+- **15.552/55.976 (27,78%)**, thoại NPC **12.427/52.608**, +240 bản ghi mới; hoàn thành `0040.009`, `0040.010`.
+- QA toàn bộ 501 JSONL / 55.976 bản ghi so với ZIP 055, chỉ thêm 240 trường `vi` mới; giữ nguyên dữ liệu cũ và tất cả token.
+- ZIP bàn giao đầy đủ ở Thư viện `Dịch giả lập/MagiciansQuest-VietHoa-Checkpoint-056.zip`; chưa test ROM NDS.
+- Tiếp theo: `0040.011`, `0040.012` đã có sẵn trong gói.
 
 ## Checkpoint 055 — 08/11/2026
 
-- Tổng **15.312/55.976 (27,35%)**, thoại NPC **12.187/52.608**, tăng 240 mục từ mốc 054.
-- Hai tệp `0040.007` và `0040.008` đã dịch đủ 120 trang/tệp; ngôi bạn bè tớ–cậu và sắc thái NPC lịch lãm, thích buôn chuyện.
-- Đã đối chiếu ZIP checkpoint 054 và 055 cho **501 JSONL / 55.976 bản ghi**: chỉ thêm 240 trường `vi` từ `null`, giữ 15.072 mục đã dịch trước và toàn bộ trường còn lại.
-- Mã động và điều khiển `$...;` giữ giá trị và thứ tự; Unicode NFC, 34 ký tự tĩnh/dòng và tối đa 3 dấu `▼` đều đạt QA.
-- ZIP bàn giao 055 đã lưu Thư viện `Dịch giả lập/MagiciansQuest-VietHoa-Checkpoint-055.zip`, chứa toàn bộ tài nguyên checkpoint, bảng EN–VI, delta, QA và script chạy lại.
-- Chưa kiểm thử trực tiếp trên ROM NDS hoặc độ rộng thực khi game thay tên NPC động.
-- Tiếp đợt 056: `0040.009` và `0040.010` có trong ZIP đầy đủ.
+- Tổng: **15.312/55.976 mục (27,35%)**; thoại NPC **12.187/52.608**, thêm 240 mục so với 054.
+- Hoàn thành `0040.007` và `0040.008`, mỗi tệp 120 trang, hội thoại về tin đồn, tình bạn, phép thuật và mối quan hệ trong trường.
+- Chỉ thêm 240 trường `vi`, giữ nguyên toàn bộ ID, EN, CTX và 15.072 mục dịch cũ.
+- QA đối chiếu đầy đủ 501 JSONL / 55.976 bản ghi giữa checkpoint 054 và 055.
+- Chưa kiểm thử thực tế với ROM NDS; chưa xác minh độ rộng sau khi thay tên NPC động.
+- Tài liệu: `CHECKPOINT-2026-11-08-DOT-55.md`, `QA-055.md`, `DELTA-055.jsonl`, `manual_0040_007.tsv`, `manual_0040_008.tsv`.
 
 ## Checkpoint 054 — 08/11/2026
 
@@ -128,3 +134,4 @@ Kiểm thử ở nhánh **tiếng Anh**. Dùng New Game cho đoạn mở đầu,
 ## Lệnh giao cho phiên cloud
 
 > Đọc BAN_GIAO.md và translation/INDEX.tsv. Bắt đầu từ 00-mo-dau và 01-he-thong. Chỉ sửa trường vi trong các JSONL được giao, giữ mã điều khiển và ID, kiểm tra giới hạn byte. Dịch từng lô để dễ kiểm tra và tái dùng câu trùng đã duyệt khi ngữ cảnh phù hợp. Sau khi xong văn bản, dùng audit/graphics.tsv để rà phần chữ nằm trong ảnh. Dựng ROM từ bản USA sạch bằng mqhandoff.py và liệt kê các màn cần test.
+
