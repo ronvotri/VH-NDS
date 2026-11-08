@@ -1,3 +1,11 @@
+## Checkpoint 062 — 08/11/2026
+
+- 16.932 / 55.976 mục (30,25%); thoại NPC 13.807 / 52.608; tăng 180 mục.
+- Hoàn tất `0040.021` (120/120) và `0040.022` (60/60).
+- QA toàn bộ 501 JSONL, chỉ đổi 180 trường `vi`; giữ nguyên ID/EN/CTX/token và toàn bộ 16.752 bản dịch cũ.
+- ZIP: Thư viện `/Dịch giả lập/MagiciansQuest-VietHoa-Checkpoint-062.zip`; chưa kiểm thử ROM.
+- Tiếp theo: `0041.001` và `0041.002` (120 trang/tệp), nguồn nằm trong ZIP.
+
 ## Checkpoint 061 — 08/11/2026
 
 - **16.752/55.976 (29,93%)**, thoại NPC **13.627/52.608**; +240 mục từ checkpoint 060.
