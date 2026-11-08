@@ -1,3 +1,5 @@
+**Checkpoint mới nhất: 058 (08/11/2026) — 16.032 / 55.976 mục (28,64%).** Thêm 240 trang NPC (`0040.013`, `0040.014`): chuyện hẹn hò, lời đồn, bạn bè, thi đấu và những bí mật vui nhộn. Xem `CHECKPOINT-2026-11-08-DOT-58.md`, `QA-058.md`, `DELTA-058.jsonl`. Nguồn tiếp: `0040.015` và `0040.016` (chưa dịch).
+
 **Checkpoint mới nhất: 057 (08/11/2026) — 15.792 / 55.976 mục (28,21%).** +240 trang NPC (`0040.011`, `0040.012`) với tin đồn, hỏi đáp, chuyện tình cảm/học tập. Xem `CHECKPOINT-2026-11-08-DOT-57.md`, `QA-057.md`, `DELTA-057.jsonl`. ZIP checkpoint 057 lưu Thư viện `Dịch giả lập/`. Nguồn tiếp 058: `0040.013` và `0040.014`.
 
 **Checkpoint mới nhất: 056 (08/11/2026) — 15.552 / 55.976 mục (27,78%).** Đợt 056 +240 hội thoại NPC (0040.009 + 0040.010) về kiểm chứng tin đồn, cảm xúc khi hẹn hò và trò chuyện với bạn bè. QA đối chiếu toàn bộ 501 JSONL / 55.976 bản ghi với ZIP 055, giữ nguyên 15.312 bản dịch cũ. Xem `CHECKPOINT-2026-11-08-DOT-56.md`, `QA-056.md`, `DELTA-056.jsonl`. Tiếp đợt 057: `0040.011` và `0040.012`.

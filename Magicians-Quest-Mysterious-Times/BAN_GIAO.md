@@ -1,3 +1,11 @@
+## Checkpoint 058 — 08/11/2026
+
+- **16.032/55.976 (28,64%)**, NPC **12.907/52.608**; thêm 240 trang của `0040.013` và `0040.014`.
+- Dịch mới 100 mẫu câu khác nhau và dùng lại 35 mẫu trùng trong hai tệp/đợt cũ; giữ nguyên toàn bộ ID, EN, CTX, mã NDS, bản ghi lặp.
+- Đã QA 501 JSONL / 55.976 bản ghi với checkpoint 057: chỉ điền 240 `vi`, giữ 15.792 bản dịch cũ, các tệp còn lại không đổi.
+- ZIP đầy đủ `MagiciansQuest-VietHoa-Checkpoint-058.zip` lưu Thư viện `Dịch giả lập`, có `DELTA-058.jsonl`, bảng EN–VI, QA và script build. Chưa test trực tiếp trên ROM.
+- Đợt 059 tiếp `0040.015` và `0040.016` (đã có trong ZIP).
+
 ## Checkpoint 057 — 08/11/2026
 
 - Tổng **15.792/55.976 (28,21%)**, hội thoại NPC **12.667/52.608**; thêm 240 trang (`0040.011`/`0040.012`, 120 trang/tệp).
