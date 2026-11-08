@@ -1,3 +1,11 @@
+## Checkpoint 068 — 09/11/2026
+
+- **18,372/55.976 (32.82%)**, thoại NPC **15,247/52.608**; thêm 240 trang.
+- Dịch xong `0041.011`/`0041.012` (120 trang/tệp): tin đồn, tình bạn, hẹn hò, ghen tuông, lời khuyên.
+- QA 501 JSONL: chỉ điền 240 `vi`; 18.132 bản dịch cũ và ID/EN/CTX bảo toàn, 499 JSONL không đổi.
+- ZIP: `/Dịch giả lập/MagiciansQuest-VietHoa-Checkpoint-068.zip`, đầy đủ dữ liệu và script build/QA, **chưa kiểm thử ROM NDS**.
+- Đợt 069 tiếp `0041.013`/`0041.014` (120 trang/tệp), nguồn đã có trong ZIP.
+
 ## Checkpoint 067 — 09/11/2026
 
 - **18,132/55.976 (32.39%)**, NPC **15,007/52.608**; bổ sung 240 trang trong `0041.009`, `0041.010`.
