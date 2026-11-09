@@ -1,3 +1,10 @@
+## Checkpoint 083 — 09/11/2026
+
+- +240 trang thoại `0042.019`, `0042.020`; tổng 21,858/55,976 (39.05%), NPC 18,733/52.608.
+- 238 mẫu dịch mới + 2 mẫu tái dùng. QA 501 JSONL / 55.976 bản ghi đạt; 499 JSONL không đổi byte.
+- ZIP đầy đủ + TSV EN–VI, delta, script, QA, nguồn cho đợt 084. Chưa kiểm thử ROM thực.
+- Tiếp `0042.021` và `0042.022` (240 trang nguồn).
+
 ## Checkpoint 082 — 09/11/2026
 
 - +240 trang thoại `0042.017`, `0042.018`; tổng 21,618/55,976 (38.62%), NPC 18,493/52.608.
@@ -324,3 +331,4 @@ Kiểm thử ở nhánh **tiếng Anh**. Dùng New Game cho đoạn mở đầu,
 ## Lệnh giao cho phiên cloud
 
 > Đọc BAN_GIAO.md và translation/INDEX.tsv. Bắt đầu từ 00-mo-dau và 01-he-thong. Chỉ sửa trường vi trong các JSONL được giao, giữ mã điều khiển và ID, kiểm tra giới hạn byte. Dịch từng lô để dễ kiểm tra và tái dùng câu trùng đã duyệt khi ngữ cảnh phù hợp. Sau khi xong văn bản, dùng audit/graphics.tsv để rà phần chữ nằm trong ảnh. Dựng ROM từ bản USA sạch bằng mqhandoff.py và liệt kê các màn cần test.
+
