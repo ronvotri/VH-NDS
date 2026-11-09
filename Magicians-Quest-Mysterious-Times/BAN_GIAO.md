@@ -1,3 +1,10 @@
+## Checkpoint 073 — 09/11/2026
+
+- **19.458/55.976 (34,76%)**, thoại NPC **16.333/52.608**; tăng 126 mục từ checkpoint 072.
+- Hoàn thành `0041.021` (120 trang) + `0041.022` (6 trang); 89 câu tái sử dụng và 37 câu dịch mới.
+- QA toàn bộ 501 JSONL / 55.976 bản ghi: giữ 19.332 mục cũ, chỉ thêm 126 `vi`, bảo toàn mã NDS, NFC và giới hạn dòng.
+- Full ZIP: `MagiciansQuest-VietHoa-Checkpoint-073.zip` tại `/Dịch giả lập`, chưa kiểm thử trên ROM.
+
 ## Checkpoint 072 — 09/11/2026
 
 - Đã dịch `0041.019` + `0041.020`: **240/240 trang**, **19.332 / 55.976 (34,54%)**, NPC **16.207 / 52.608**.
