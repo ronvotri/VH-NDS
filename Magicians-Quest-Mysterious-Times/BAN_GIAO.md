@@ -1,3 +1,10 @@
+## Checkpoint 085 — 10/11/2026
+
+- +231 NPC (0042.023: 111; 0043.001: 120); total 22,329 / 55,976 (39.89%), NPC 19,204 / 52,608.
+- QA 501 JSONL PASS from full checkpoint 084 ZIP; 499 unrelated JSONL preserved byte-for-byte; 22,098 earlier translations untouched.
+- Complete ZIP stored in Library /Dịch giả lập; delta and EN–VI TSV checked into GitHub.
+- Next 0043.002 and 0043.003 (120 pages each); real-ROM testing still pending.
+
 ## Checkpoint 084 — 09/11/2026
 
 - +240 trang thoại `0042.021`, `0042.022`; tổng 22,098/55.976 (39.48%), NPC 18,973/52.608.

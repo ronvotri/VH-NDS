@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0043#0.1#page:1	$024'327'2;$023'327'28'8'4;$022'327'381;Tớ hoa mắt hay▼cậu đang muốn gây sự?$079;
+talkfigs/0eng/data/0043#0.2#page:1	$024'327'2;$023'327'28'8'4;$022'327'381;Này! Cậu muốn ăn đòn à?▼Gan cũng to đấy!$079;
+talkfigs/0eng/data/0043#0.3#page:1	$024'327'2;$023'327'28'8'4;$022'327'381;Cậu định làm trò gì?!▼Cứ thử nữa xem, nhóc!$079;
+talkfigs/0eng/data/0043#0.11#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Này! Tớ thèm món đó▼lâu rồi! Cho tớ nhé?
+talkfigs/0eng/data/0043#0.11#page:2	$024'327'5;$023'327'175'8'1;$022'327'342;Hả? Cậu vốn định▼tặng tớ thật sao?
+talkfigs/0eng/data/0043#0.11#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Hay quá! Bạn tốt▼là phải thế chứ. Cảm ơn!
+talkfigs/0eng/data/0043#0.12#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Cậu làm gì với thứ đó?▼Hả? Quà tặng à?
+talkfigs/0eng/data/0043#0.12#page:2	$024'327'2;$023'327'28'8'4;$022'327'381;Cậu định xỏ tớ hả?▼Ừm... Chắc không...
+talkfigs/0eng/data/0043#0.12#page:3	$024'327'5;$023'327'170'10'1;$022'327'301;Thôi được, tớ nhận vậy.
+talkfigs/0eng/data/0043#0.13#page:1	$024'327'0;$023'327'1'4'0;Ồ, cảm ơn nhé.▼Khi nào tớ tặng lại...▼Nếu tớ nhớ.
+talkfigs/0eng/data/0043#0.14#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Hả? Làm tớ mừng hụt▼thế thôi á?!
+talkfigs/0eng/data/0043#0.50#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Gì đây? Thuốc cho tớ à?
+talkfigs/0eng/data/0043#0.50#page:2	$024'327'7;$023'327'170'10'2;$022'327'301;Cảm ơn cậu lo cho tớ,▼nhưng thứ này▼khó uống quá...
+talkfigs/0eng/data/0043#0.50#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Dù sao cũng cảm ơn.▼Để lát tớ uống!
+talkfigs/0eng/data/0043#0.51#page:1	Thuốc cho tớ à? Cảm ơn!
+talkfigs/0eng/data/0043#0.51#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;Lát tớ uống.▼Đừng lo cho tớ nữa!
+talkfigs/0eng/data/0043#0.52#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu vừa cho tớ thuốc rồi mà.
+talkfigs/0eng/data/0043#0.52#page:2	$024'327'0;$023'327'1'4'0;Tớ uống đủ rồi!▼Cậu nghĩ tớ bệnh▼nặng lắm sao?
+talkfigs/0eng/data/0043#0.53#page:1	Ái da... Đau quá...!
+talkfigs/0eng/data/0043#0.54#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Gì đây? Cậu muốn▼tặng tớ thứ đó à?
+talkfigs/0eng/data/0043#0.54#page:2	$024'327'0;$023'327'1'4'0;Nhưng tớ không nhận được.▼Ốm thế này, tớ còn▼chưa cảm ơn tử tế nổi.
+talkfigs/0eng/data/0043#0.54#page:3	Cậu tốt quá...▼Đợi tớ khỏe hơn▼rồi hãy tặng nhé?
+talkfigs/0eng/data/0043#1.0#page:1	Tớ đi làm giấy tờ▼chuyển trường đây.
+talkfigs/0eng/data/0043#1.1#page:1	Cậu nói cậu▼không đi, đúng chứ?▼
+talkfigs/0eng/data/0043#1.1#page:2	Tớ cũng không đi đâu.
+talkfigs/0eng/data/0043#1.2#page:1	Khi chuyển trường,▼cho tớ đi cùng nhé.$019'103;
+talkfigs/0eng/data/0043#1.3#page:2	Có$019'104;
+talkfigs/0eng/data/0043#1.3#page:3	Không$019'105;
+talkfigs/0eng/data/0043#1.4#page:1	Đi thôi nào!
+talkfigs/0eng/data/0043#1.5#page:1	Hừm... Tớ không thích▼thái độ ấy đâu.▼Lần sau đừng hòng từ chối!
+talkfigs/0eng/data/0043#4.0#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;$500;! Chúc mừng sinh nhật!
+talkfigs/0eng/data/0043#4.0#page:2	Quà của cậu đây. Nhận đi!▼Khỏi nói gì, cũng▼chẳng cần cảm ơn.
+talkfigs/0eng/data/0043#4.0#page:3	$024'327'2;$023'327'28'8'4;$022'327'381;Hay cậu đang ám chỉ gì?▼Không muốn nhận à? Hả?!
+talkfigs/0eng/data/0043#4.1#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Hả? Quà sinh nhật▼cho TỚ sao?
+talkfigs/0eng/data/0043#4.1#page:2	$024'327'4;$023'327'171'10'1;$022'327'383;Ý cậu là...▼cậu nhớ sinh nhật tớ á?
+talkfigs/0eng/data/0043#4.1#page:3	Đúng là chuyện hiếm!▼Cảm ơn, $500;!▼Cậu cũng được đấy!
+talkfigs/0eng/data/0043#4.2#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;$500;! Chúc mừng sinh nhật!
+talkfigs/0eng/data/0043#4.2#page:2	Quà của cậu đây. Nhận đi!▼Khỏi nói gì, cũng▼chẳng cần cảm ơn.
+talkfigs/0eng/data/0043#4.2#page:3	$024'327'2;$023'327'28'8'4;$022'327'381;Hay cậu đang ám chỉ gì?▼Không muốn nhận à? Hả?!
+talkfigs/0eng/data/0043#4.20#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Tớ vào đây!
+talkfigs/0eng/data/0043#4.20#page:2	Để xem phòng▼của $500; ra sao nào!
+talkfigs/0eng/data/0043#4.21#page:1	$024'327'2;$023'327'28'8'4;$022'327'381;Bừa bộn quá!▼Dọn phòng khó thế sao?
+talkfigs/0eng/data/0043#4.22#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Chẳng ngầu chút nào,▼nhưng với cậu thì▼chắc được vậy thôi...
+talkfigs/0eng/data/0043#4.23#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bình thường quá.▼Chẳng có gì để nói...
+talkfigs/0eng/data/0043#4.24#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Phòng này cũng khá đấy.▼Không chê gì nhiều được.
+talkfigs/0eng/data/0043#4.25#page:1	Đồ đạc cũng ổn.▼Phòng trông có gu phết.
+talkfigs/0eng/data/0043#4.25#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Khoan... Cậu định▼khoe hơn tớ đấy à?
+talkfigs/0eng/data/0043#4.26#page:1	Cậu mê màu này ghê.▼Mọi thứ đều đồng bộ.
+talkfigs/0eng/data/0043#4.26#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Này... Cậu nghĩ giỏi▼phối màu là hơn tớ à?
+talkfigs/0eng/data/0043#4.27#page:1	Nội thất cùng một kiểu.▼Cậu là nhà thiết kế à?
+talkfigs/0eng/data/0043#4.27#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Ê, khoan nào...▼Cậu tưởng mình▼đặc biệt lắm hả?
+talkfigs/0eng/data/0043#4.28#page:1	Phòng có phong cách▼khá ngầu đấy.
+talkfigs/0eng/data/0043#4.28#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Khoan đã... Cậu trang trí▼sang chảnh thế▼là có ý gì hả?!
+talkfigs/0eng/data/0043#4.29#page:1	Gom được từng ấy▼đồ nội thất chắc▼vất vả lắm nhỉ.
+talkfigs/0eng/data/0043#4.29#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Này, cậu có món nào▼dư không thế?
+talkfigs/0eng/data/0043#4.30#page:1	Tớ ở đây cả đời▼chắc cũng sướng.
+talkfigs/0eng/data/0043#4.30#page:2	$024'327'2;$023'327'28'8'4;$022'327'381;Này, $500;!▼Đổi phòng với tớ đi!
+talkfigs/0eng/data/0043#4.31#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Thích thật! Cho tớ▼ghé chơi lần nữa nhé?
+talkfigs/0eng/data/0043#4.40#page:1	Hả? Mời uống trà à?▼Ừ, uống thì uống.
+talkfigs/0eng/data/0043#4.41#page:1	$024'327'2;$023'327'28'8'4;$022'327'381;Phòng bừa bộn, trà dở tệ!▼Cậu muốn chọc tức tớ à?
+talkfigs/0eng/data/0043#4.42#page:1	Ừm, trà cũng▼tạm được đấy...
+talkfigs/0eng/data/0043#4.43#page:1	$024'327'7;$023'327'177'10'1;Đừng kể ai, nhưng▼trà ngon ra phết.
+talkfigs/0eng/data/0043#4.44#page:1	$024'327'7;$023'327'177'10'1;Cậu tiếp khách cũng khá.▼Ngồi chơi ở phòng đẹp▼thích thật nhỉ?
+talkfigs/0eng/data/0043#4.45#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Trà ngon tuyệt!▼Phòng cũng đẹp!▼Đúng là hết sảy!
+talkfigs/0eng/data/0043#4.46#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Này, bánh ngon phết!▼Ăn quen chắc ghiền mất.
+talkfigs/0eng/data/0043#4.47#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Sớm làm thế này▼lần nữa nhé?
+talkfigs/0eng/data/0043#4.48#page:1	Cuối cùng cũng tới nơi.
+talkfigs/0eng/data/0043#4.80#page:1	Này! $500; có đó không?
+talkfigs/0eng/data/0043#4.81#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Này, muốn lấy không?▼Cầm đi.
+talkfigs/0eng/data/0043#4.81#page:2	$024'327'5;$023'327'170'10'1;$022'327'301;Tớ được người quen▼cho cả đống,▼nhiều quá dùng không hết.
+talkfigs/0eng/data/0043#4.81#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;Cứ lấy đi!▼Có cho thì nhận chứ!
+talkfigs/0eng/data/0043#4.86#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Ê, $500;! Cậu đi đâu▼mà lâu quá không thấy vậy?
+talkfigs/0eng/data/0043#4.86#page:2	$024'327'2;$023'327'28'8'4;$022'327'381;Tớ chẳng quan tâm đâu!▼Không phải tớ thấy▼cô đơn gì nhé!
+talkfigs/0eng/data/0043#4.86#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Rảnh thì báo tớ.▼Mình đi chơi.
+talkfigs/0eng/data/0043#4.86#page:4	Gặp sau.
+talkfigs/0eng/data/0043#4.91#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Này, $500;! Cậu rảnh▼chứ? Đi chơi với tớ đi!
+talkfigs/0eng/data/0043#4.92#page:2	Được thôi!$019'-1;
+talkfigs/0eng/data/0043#4.92#page:3	Xin lỗi, tớ bận rồi.$019'-1;
+talkfigs/0eng/data/0043#4.93#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Thế mới đúng chứ!▼Đi thôi nào!
+talkfigs/0eng/data/0043#4.94#page:1	$024'327'5;$023'327'175'8'2;$022'327'345;Hả? Không có thời gian à?▼Thôi được. Lần sau▼nhớ rảnh đấy nhé!
+talkfigs/0eng/data/0043#4.95#page:1	$024'327'5;$023'327'170'10'1;$022'327'301;$500;! Giúp tớ với!
+talkfigs/0eng/data/0043#4.96#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;$000'4;$507'510;$000'1; dùng cho▼$000'4;thần chú Nổi tiếng$000'1;▼được chứ?
+talkfigs/0eng/data/0043#4.97#page:2	Ừ, dùng được.$019'-1;
+talkfigs/0eng/data/0043#4.97#page:3	Không, sai rồi.$019'-1;
+talkfigs/0eng/data/0043#4.98#page:1	$024'327'7;$023'327'177'10'1;Ra thế... Nếu cậu lừa tớ,▼tớ cho khóc luôn đấy!
+talkfigs/0eng/data/0043#4.98#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Thôi... Lại phải▼vào lớp học từ đầu.
+talkfigs/0eng/data/0043#4.99#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Ừm, cuối cùng▼đúng là dùng sai đồ.
+talkfigs/0eng/data/0043#4.99#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Tớ cũng đoán vậy,▼vì chẳng thành công tí nào!
+talkfigs/0eng/data/0043#4.99#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;Lần sau chắc làm đúng.▼Cảm ơn nhé!
+talkfigs/0eng/data/0043#5.20#page:1	$024'327'7;$023'327'177'10'1;Bài này nổi tiếng lắm!▼Cậu không biết à?▼Vỗ tay nào!
+talkfigs/0eng/data/0043#5.21#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;$500;, cậu đến đây▼làm gì thế?
+talkfigs/0eng/data/0043#5.21#page:2	$024'327'7;$023'327'177'10'1;Nghe tớ huýt sáo à?▼Ừ, thỉnh thoảng▼tớ nổi hứng hát thôi.
+talkfigs/0eng/data/0043#5.21#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ chơi cũng hay nhỉ?▼Không thì cậu▼đến đây làm gì?
+talkfigs/0eng/data/0043#5.21#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu cũng muốn▼học giai điệu này chứ?
+talkfigs/0eng/data/0043#5.22#page:2	Tớ thích lắm!$019'-1;
+talkfigs/0eng/data/0043#5.22#page:3	Giờ thì chưa.$018'2;
+talkfigs/0eng/data/0043#5.23#page:1	$024'327'7;$023'327'177'10'1;Được, nghe cho kỹ!
+talkfigs/0eng/data/0043#5.24#page:1	$024'327'5;$023'327'175'8'2;$022'327'345;Sao? Cậu không thích▼giai điệu này à? Kệ vậy...
+talkfigs/0eng/data/0043#5.25#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Này, $500;. Tớ thử▼làm phép mà thất bại!▼Khó thật đấy!
+talkfigs/0eng/data/0043#5.25#page:2	$024'327'5;$023'327'170'10'1;$022'327'301;Chắc tớ đã làm sai▼chỗ nào rồi...
+talkfigs/0eng/data/0043#5.26#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Dùng những từ này▼cho $000'4;phép Ngủ$000'1;▼có đúng không?
+talkfigs/0eng/data/0043#5.27#page:2	Ừ, đúng rồi.$019'-1;
+talkfigs/0eng/data/0043#5.27#page:3	Không, sai rồi.$019'-1;
+talkfigs/0eng/data/0043#5.28#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Chắc chứ? Đừng có▼lừa tớ đấy...
+talkfigs/0eng/data/0043#5.28#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Lần NÀY tớ tin cậu.▼Ừm, chắc phải▼đi học lại rồi.
+talkfigs/0eng/data/0043#5.29#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Chắc chứ? Đừng có▼lừa tớ đấy...
+talkfigs/0eng/data/0043#5.29#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Lần NÀY tớ tin cậu.▼Ừm, chắc phải▼đi học lại rồi.
+talkfigs/0eng/data/0043#5.35#page:2	Ááá...!
+talkfigs/0eng/data/0043#5.36#page:1	$024'327'7;$023'327'170'10'2;$022'327'301;$500;? Hú hồn...
+talkfigs/0eng/data/0043#5.36#page:2	$024'327'4;$023'327'171'10'1;$022'327'383;Tớ vừa gặp ác mộng.▼Nhưng mà... tớ▼có sợ đâu nhé!
+talkfigs/0eng/data/0043#5.37#page:2	Kể tớ nghe đi.$019'-1;
+talkfigs/0eng/data/0043#5.37#page:3	Ừ hử.$019'-1;
+talkfigs/0eng/data/0043#5.38#page:1	$024'327'0;$023'327'1'4'0;...Đấy, ác mộng▼của tớ là thế.▼Cũng hơi ghê nhỉ?
+talkfigs/0eng/data/0043#5.38#page:2	$024'327'7;$023'327'177'10'1;Ý tớ là... không ghê LẮM.▼Chỉ hơi rợn thôi.
+talkfigs/0eng/data/0043#5.38#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu nghĩ kể ác mộng▼cho người khác nghe▼có ích không?
+talkfigs/0eng/data/0043#5.38#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;Thôi bỏ đi.▼Cảm ơn đã nghe nhé.
+talkfigs/0eng/data/0043#5.39#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Mai chắc tớ▼mệt lử vì▼đêm nay ít ngủ.
+talkfigs/0eng/data/0043#5.41#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;$500;? Gì nữa?▼Không thấy tớ đang dọn à?
+talkfigs/0eng/data/0043#5.41#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Tớ ĐÃ làm bài tập,▼nhưng rồi lại▼bận việc khác như mọi khi.
+talkfigs/0eng/data/0043#5.41#page:3	$024'327'2;$023'327'28'8'4;$022'327'381;Cậu có ý kiến gì không?
