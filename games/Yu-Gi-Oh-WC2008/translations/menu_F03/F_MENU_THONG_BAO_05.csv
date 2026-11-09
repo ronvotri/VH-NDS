@@ -1,0 +1,251 @@
+﻿key,ten_la_bai_EN,tieng_Anh,tieng_Viet_hien_tai,toi_da_ky_tu,tieng_Viet_MOI
+game|4165|0,,"Successfully Summon ""Mokey Mokey King"" and win the duel.","Summon thành công ""Mokey Mokey King"" và thắng Duel.",62,"Triệu hồi ""Mokey Mokey King"" rồi thắng trận."
+game|4166|0,,"Successfully Summon ""Spirit of the Pharaoh"" and win the duel.","Summon thành công ""Spirit of the Pharaoh"" và thắng Duel.",68,"Triệu hồi ""Spirit of the Pharaoh"" rồi thắng trận."
+game|4167|0,,"Successfully Summon ""Cyber End Dragon"" and win the duel.","Summon thành công ""Cyber End Dragon"" và thắng Duel.",62,"Triệu hồi ""Cyber End Dragon"" rồi thắng trận."
+game|4168|0,,"Successfully Summon ""Water Dragon"" and win the duel.","Summon thành công ""Water Dragon"" và thắng Duel.",58,"Triệu hồi ""Water Dragon"" rồi thắng trận."
+game|4169|0,,"Successfully Summon ""Armed Dragon LV10"" and win the duel.","Summon thành công ""Armed Dragon LV10"" và thắng Duel.",63,"Triệu hồi ""Armed Dragon LV10"" rồi thắng trận."
+game|4170|0,,"Successfully Summon ""Cyber Laser Dragon"" and win the duel.","Summon thành công ""Cyber Laser Dragon"" và thắng Duel.",64,"Triệu hồi ""Cyber Laser Dragon"" rồi thắng trận."
+game|4171|0,,"Successfully Summon ""Super Vehicroid Jumbo Drill"" and win the duel.","Summon thành công ""Super Vehicroid Jumbo Drill"" và thắng Duel.",74,"Triệu hồi ""Super Vehicroid Jumbo Drill"" rồi thắng trận."
+game|4172|0,,"Successfully Summon ""The Wicked Avatar"" and win the duel.","Summon thành công ""The Wicked Avatar"" và thắng Duel.",63,"Triệu hồi ""The Wicked Avatar"" rồi thắng trận."
+game|4173|0,,"Successfully activate ""Blasting the Ruins"" and win the duel.","Activate thành công ""Blasting the Ruins"" và thắng Duel.",67,"Kích hoạt ""Blasting the Ruins"" rồi thắng trận."
+game|4174|0,,"Successfully activate ""Inferno Tempest"" and win the duel.","Activate thành công ""Inferno Tempest"" và thắng Duel.",63,"Kích hoạt ""Inferno Tempest"" rồi thắng trận."
+game|4175|0,,"Successfully activate ""Flash of the Forbidden Spell"" and win the duel.","Activate thành công ""Flash of the Forbidden Spell"" và thắng Duel.",78,"Kích hoạt ""Flash of the Forbidden Spell"" rồi thắng trận."
+game|4176|0,,"Successfully Summon ""Destiny Hero - Plasma"" and win the duel.","Summon thành công ""Destiny Hero - Plasma"" và thắng Duel.",68,"Triệu hồi ""Destiny Hero - Plasma"" rồi thắng trận."
+game|4177|0,,"Successfully Summon ""Destiny Hero - Dogma"" and win the duel.","Summon thành công ""Destiny Hero - Dogma"" và thắng Duel.",67,"Triệu hồi ""Destiny Hero - Dogma"" rồi thắng trận."
+game|4178|0,,Cause 50000 or more points of damage during a duel.,Gây từ 50000 sát thương trở lên trong 1 Duel.,57,Gây ít nhất 50.000 sát thương trong một trận.
+game|4179|0,,End a duel in a draw.,Kết thúc 1 Duel bằng kết quả hòa.,37,Kết thúc trận đấu với kết quả hòa.
+game|4180|0,,"Successfully Summon ""Gate Guardian"" and win the duel.","Summon thành công ""Gate Guardian"" và thắng Duel.",59,"Triệu hồi ""Gate Guardian"" rồi thắng trận."
+game|4181|0,,"Successfully Summon ""Perfectly Ultimate Great Moth"" and win the duel.","Summon thành công ""Perfectly Ultimate Great Moth"" và thắng Duel.",76,"Triệu hồi ""Perfectly Ultimate Great Moth"" rồi thắng trận."
+game|4182|0,,Special Summon by removing monsters from Graveyard 10 times during a duel.,Special Summon bằng cách loại khỏi trò chơi Monster trong Graveyard 10 lần trong 1 Duel.,97,Triệu hồi Đặc biệt 10 lần bằng cách loại quái thú khỏi Mộ trong một trận.
+game|4183|0,,"Successfully Summon ""Valkyrion the Magna Warrior"" and win the duel.","Summon thành công ""Valkyrion the Magna Warrior"" và thắng Duel.",74,"Triệu hồi ""Valkyrion the Magna Warrior"" rồi thắng trận."
+game|4184|0,,"Successfully Summon ""Dark Sage"" and win the duel.","Summon thành công ""Dark Sage"" và thắng Duel.",54,"Triệu hồi ""Dark Sage"" rồi thắng trận."
+game|4185|0,,Win during your opponent's turn.,Thắng ngay trong lượt của Opponent.,39,Thắng trong lượt của đối thủ.
+game|4186|0,,"Win a duel using the Effects of ""Final Countdown"".","Thắng Duel bằng Effect của ""Final Countdown"".",56,"Thắng bằng hiệu ứng của ""Final Countdown""."
+game|4201|0,,40 card Deck,Deck 40 lá,14,Bộ bài 40 lá
+game|4202|0,,DEF 1500 or less forbidden,Cấm Monster DEF 1500 trở xuống,34,Cấm DEF <=1500
+game|4203|0,,Tributes forbidden,Cấm Tribute,20,Cấm Hiến tế
+game|4205|0,,Only LIGHT monsters,Chỉ quái thú LIGHT,21,Chỉ hệ SÁNG
+game|4206|0,,Spells forbidden,Cấm Spell,18,Cấm Phép
+game|4207|0,,Only Monster cards,Chỉ Monster Card,20,Chỉ lá Quái thú
+game|4208|0,,Only DARK monsters,Chỉ quái thú DARK,20,Chỉ hệ TỐI
+game|4209|0,,Level 5 or above forbidden,Cấm quái thú Level 5 trở lên,31,Cấm Cấp >=5
+game|4210|0,,Traps forbidden,Cấm Trap,17,Cấm Bẫy
+game|4211|0,,ATK 2000 or more forbidden,Cấm quái thú ATK 2000 trở lên,32,Cấm ATK >=2000
+game|4212|0,,Decks with card multiples forbidden,Cấm Deck có nhiều lá trùng nhau,39,Cấm bài trùng
+game|4213|0,,Only WIND monsters,Chỉ quái thú WIND,20,Chỉ hệ GIÓ
+game|4214|0,,Effect monsters forbidden,Cấm Effect Monster,28,Cấm quái thú Hiệu ứng
+game|4215|0,,Large Deck,Deck nhiều lá,15,Bộ bài lớn
+game|4216|0,,Only EARTH monsters,Chỉ quái thú EARTH,21,Chỉ hệ ĐẤT
+game|4217|0,,Changing position forbidden,Cấm đổi vị trí,30,Cấm đổi tư thế
+game|4218|0,,Only WATER monsters,Chỉ quái thú WATER,21,Chỉ hệ NƯỚC
+game|4219|0,,Level 3 or below forbidden,Cấm Monster Level 3 trở xuống,32,Cấm Cấp <=3
+game|4220|0,,Level 4 or above forbidden,Cấm quái thú Level 4 trở lên,31,Cấm Cấp >=4
+game|4221|0,,3 of each card,3 bản mỗi lá,16,Mỗi lá 3 bản
+game|4222|0,,ATK/DEF 1500 or more forbidden,Cấm Monster ATK/DEF 1500 trở lên,36,Cấm ATK/DEF >=1500
+game|4223|0,,Only Fiend-Type monsters,Chỉ quái thú hệ Fiend,27,Chỉ tộc Ác ma
+game|4224|0,,Low Life Points,Life Points thấp,18,LP thấp
+game|4225|0,,Only Warrior-Type monsters,Chỉ quái thú hệ Warrior,29,Chỉ tộc Chiến binh
+game|4226|0,,Only Dragon-Type monsters,Chỉ quái thú hệ Dragon,28,Chỉ tộc Rồng
+game|4227|0,,Only LIGHT monsters,Chỉ quái thú LIGHT,21,Chỉ hệ SÁNG
+game|4228|0,,Only FIRE monsters,Chỉ quái thú FIRE,20,Chỉ hệ LỬA
+game|4229|0,,Only Spellcaster-Type monsters,Chỉ quái thú hệ Spellcaster,34,Chỉ tộc Pháp sư
+game|4230|0,,Traps forbidden,Cấm Trap,17,Cấm Bẫy
+game|4231|0,,Sets forbidden,Cấm Set,16,Cấm Đặt úp
+game|4232|0,,ATK/DEF 1000 or more forbidden,Cấm Monster ATK/DEF 1000 trở lên,36,Cấm ATK/DEF >=1000
+game|4233|0,,Only Fiend-Type monsters,Chỉ quái thú hệ Fiend,27,Chỉ tộc Ác ma
+game|4234|0,,Only Zombie-Type monsters,Chỉ quái thú hệ Zombie,28,Chỉ tộc Xác sống
+game|4235|0,,Only Machine-Type monsters,Chỉ quái thú hệ Machine,29,Chỉ tộc Máy móc
+game|4236|0,,Attacks forbidden,Cấm tấn công,19,Cấm tấn công
+game|4237|0,,Only Warrior-Type monsters,Chỉ quái thú hệ Warrior,29,Chỉ tộc Chiến binh
+game|4238|0,,Maximum size Deck,Deck tối đa,19,Bộ bài tối đa
+game|4239|0,,Only Toon monsters,Chỉ Toon Monster,20,Chỉ quái thú Toon
+game|4240|0,,Only Flip Effect monsters,Chỉ Flip Effect Monster,28,Chỉ Hiệu ứng Lật
+game|4241|0,,All except Level 4 forbidden,Cấm mọi quái thú trừ Level 4,31,Chỉ quái thú Cấp 4
+game|4242|0,,"Only ""Elemental Hero"" monsters","Chỉ quái thú ""Elemental Hero""",34,"Chỉ ""Elemental Hero"""
+game|4243|0,,Only LV monsters,Chỉ quái thú LV,18,Chỉ quái thú LV
+game|4244|0,,"Only ""Dark World"" monsters","Chỉ quái thú ""Dark World""",29,"Chỉ ""Dark World"""
+game|4245|0,,"Only ATK ""?"" monsters","Chỉ quái thú ATK ""?""",24,"Chỉ ATK ""?"""
+game|4246|0,,Only EARTH monsters,Chỉ quái thú EARTH,21,Chỉ hệ ĐẤT
+game|4247|0,,Special Summons forbidden,Cấm Special Summon,28,Cấm Triệu hồi Đặc biệt
+game|4248|0,,Only FIRE monsters,Chỉ quái thú FIRE,20,Chỉ hệ LỬA
+game|4249|0,,Spells forbidden,Cấm Spell,18,Cấm Phép
+game|4250|0,,Only WATER monsters,Chỉ quái thú WATER,21,Chỉ hệ NƯỚC
+game|4251|0,,Only Fairy-Type monsters,Chỉ quái thú hệ Fairy,27,Chỉ tộc Tiên
+game|4252|0,,Only DARK monsters,Chỉ quái thú DARK,20,Chỉ hệ TỐI
+game|4253|0,,Only Beast-Type monsters,Chỉ quái thú hệ Beast,27,Chỉ tộc Thú
+game|4254|0,,Normal Summons/Sets forbidden,Cấm Normal Summon/Set,32,Cấm Triệu hồi/Úp Thường
+game|4255|0,,Monsters forbidden,Cấm quái thú,20,Cấm quái thú
+game|4256|0,,"Only ""Destiny Hero"" monsters","Chỉ quái thú ""Destiny Hero""",31,"Chỉ ""Destiny Hero"""
+game|4257|0,,Only Zombie-Type monsters,Chỉ quái thú hệ Zombie,28,Chỉ tộc Xác sống
+game|4258|0,,Only Machine-Type monsters,Chỉ quái thú hệ Machine,29,Chỉ tộc Máy móc
+game|4259|0,,Only Dinosaur-Type monsters,Chỉ quái thú hệ Dinosaur,30,Chỉ tộc Khủng long
+game|4260|0,,"Only ""Six Samurai"" monsters","Chỉ quái thú ""Six Samurai""",30,"Chỉ ""Six Samurai"""
+game|4261|0,,Only Thunder-Type monsters,Chỉ quái thú hệ Thunder,29,Chỉ tộc Sấm sét
+game|4262|0,,Only Sea Serpent-Type monsters,Chỉ quái thú hệ Sea Serpent,34,Chỉ tộc Hải long
+game|4263|0,,Only Rock-Type monsters,Chỉ quái thú hệ Rock,26,Chỉ tộc Đá
+game|4264|0,,Only Insect-Type monsters,Chỉ quái thú hệ Insect,28,Chỉ tộc Côn trùng
+game|4265|0,,Only Fish-Type monsters,Chỉ quái thú hệ Fish,26,Chỉ tộc Cá
+game|4266|0,,Only Beast-Warrior-Type monsters,Chỉ quái thú hệ Beast-Warrior,36,Chỉ tộc Thú chiến binh
+game|4267|0,,Only Plant-Type monsters,Chỉ quái thú hệ Plant,27,Chỉ tộc Thực vật
+game|4268|0,,Only Winged Beast-Type monsters,Chỉ quái thú hệ Winged Beast,35,Chỉ tộc Thú có cánh
+game|4269|0,,Only Reptile-Type monsters,Chỉ quái thú hệ Reptile,29,Chỉ tộc Bò sát
+game|4270|0,,Only 3 Zones,Chỉ dùng 3 ô,14,Chỉ 3 vùng
+game|4271|0,,Only Pyro-Type monsters,Chỉ quái thú hệ Pyro,26,Chỉ tộc Hỏa
+game|4272|0,,Only Aqua-Type monsters,Chỉ quái thú hệ Aqua,26,Chỉ tộc Thủy
+game|4273|0,,Normal Summons forbidden,Cấm Normal Summon,27,Cấm Triệu hồi Thường
+game|4301|0,,Duel with exactly 40 cards in your Deck,Duel với đúng 40 lá trong Deck,43,Đấu với đúng 40 lá trong Bộ bài.
+game|4302|0,,Monsters with a DEF of less than 1500 cannot be used,Không thể dùng Monster có DEF dưới 1500,58,Không được dùng quái thú có DEF dưới 1500.
+game|4303|0,,Monsters cannot be offered in Tribute,Không thể dùng Monster làm Tribute,41,Không được Hiến tế quái thú.
+game|4304|0,,Start with 1000 Life Points,Bắt đầu với 1000 Life Points,31,Bắt đầu với 1000 LP.
+game|4305|0,,Only LIGHT monsters can be included in your Deck,Deck chỉ được có Monster LIGHT,53,Bộ bài chỉ được có quái thú thuộc tính ÁNH SÁNG.
+game|4306|0,,You cannot include Spell cards in your Deck,Deck không được có Spell Card,48,Bộ bài không được có Lá Phép.
+game|4307|0,,You cannot include Spell or Trap cards in your Deck,Deck không được có Spell hoặc Trap Card,57,Bộ bài không được có Lá Phép hoặc Lá Bẫy.
+game|4308|0,,Only DARK monsters can be included in your Deck,Deck chỉ được có Monster DARK,52,Bộ bài chỉ được có quái thú thuộc tính BÓNG TỐI.
+game|4309|0,,Monsters with Level 5 or more cannot be used,Không thể dùng Monster Level 5 trở lên,49,Không được dùng quái thú Cấp 5 trở lên.
+game|4310|0,,You cannot include Trap cards in your Deck,Deck không được có Trap Card,47,Bộ bài không được có Lá Bẫy.
+game|4311|0,,Monsters with an ATK of 2000 or more cannot be used,Không thể dùng Monster có ATK từ 2000 trở lên,57,Không được dùng quái thú có ATK từ 2000 trở lên.
+game|4312|0,,Only one copy of each card can be kept in your Deck,Mỗi lá bài chỉ được có 1 bản trong Deck,57,Mỗi tên lá bài chỉ được có một bản trong Bộ bài.
+game|4313|0,,Only WIND monsters can be included in your Deck,Deck chỉ được có Monster WIND,52,Bộ bài chỉ được có quái thú thuộc tính GIÓ.
+game|4314|0,,Effect monsters cannot be used,Không thể dùng Effect Monster,34,Không được dùng quái thú Hiệu ứng.
+game|4315|0,,Duel with 60 or more cards in your Deck,Duel với từ 60 lá trở lên trong Deck,43,Đấu với ít nhất 60 lá trong Bộ bài.
+game|4316|0,,Only EARTH monsters can be included in your Deck,Deck chỉ được có Monster EARTH,53,Bộ bài chỉ được có quái thú thuộc tính ĐẤT.
+game|4317|0,,You cannot change positions of monsters during the duel,Không thể đổi vị trí Monster trong Duel,61,Không được đổi tư thế chiến đấu của quái thú trong trận.
+game|4318|0,,Only WATER monsters can be included in your Deck,Deck chỉ được có Monster WATER,53,Bộ bài chỉ được có quái thú thuộc tính NƯỚC.
+game|4319|0,,Monsters with Level 3 or less cannot be used,Không thể dùng Monster Level 3 trở xuống,49,Không được dùng quái thú Cấp 3 trở xuống.
+game|4320|0,,Monsters with Level 4 or more cannot be used,Không thể dùng Monster Level 4 trở lên,49,Không được dùng quái thú Cấp 4 trở lên.
+game|4321|0,,You must include 3 copies of each card in your Deck,Deck bắt buộc phải có 3 bản của mỗi lá bài,57,Mỗi tên lá bài trong Bộ bài phải có đúng 3 bản.
+game|4322|0,,Monsters with an ATK/DEF of 1500 or more cannot be used,Không thể dùng Monster có ATK/DEF từ 1500 trở lên,61,Không được dùng quái thú có ATK hoặc DEF từ 1500 trở lên.
+game|4323|0,,Only Fiend-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Fiend,59,Bộ bài chỉ được có quái thú tộc Ác ma.
+game|4324|0,,Start with 4000 Life Points,Bắt đầu với 4000 Life Points,31,Bắt đầu với 4000 LP.
+game|4325|0,,Only Warrior-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Warrior,61,Bộ bài chỉ được có quái thú tộc Chiến binh.
+game|4326|0,,Only Dragon-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Dragon,60,Bộ bài chỉ được có quái thú tộc Rồng.
+game|4327|0,,Only LIGHT monsters can be included in your Deck,Deck chỉ được có Monster LIGHT,53,Bộ bài chỉ được có quái thú thuộc tính ÁNH SÁNG.
+game|4328|0,,Only FIRE monsters can be included in your Deck,Deck chỉ được có Monster FIRE,52,Bộ bài chỉ được có quái thú thuộc tính LỬA.
+game|4329|0,,Only Spellcaster-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Spellcaster,65,Bộ bài chỉ được có quái thú tộc Pháp sư.
+game|4330|0,,You cannot include Trap cards in your Deck,Deck không được có Trap Card,47,Bộ bài không được có Lá Bẫy.
+game|4331|0,,Cards cannot be Set during the duel,Không thể Set lá bài trong Duel,39,Cấm Đặt úp lá bài trong trận.
+game|4332|0,,Monsters with an ATK or DEF of 1000 or more cannot be used,Không thể dùng Monster có ATK hoặc DEF từ 1000 trở lên,64,Không được dùng quái thú có ATK hoặc DEF từ 1000 trở lên.
+game|4333|0,,Only Fiend-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Fiend,59,Bộ bài chỉ được có quái thú tộc Ác ma.
+game|4334|0,,Only Zombie-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Zombie,60,Bộ bài chỉ được có quái thú tộc Xác sống.
+game|4335|0,,Only Machine-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Machine,61,Bộ bài chỉ được có quái thú tộc Máy móc.
+game|4336|0,,You cannot battle during the duel,Không thể chiến đấu trong Duel,37,Không được chiến đấu trong trận.
+game|4337|0,,Only Warrior-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Warrior,61,Bộ bài chỉ được có quái thú tộc Chiến binh.
+game|4338|0,,Duel with 80 cards in your Deck,Duel với 80 lá trong Deck,35,Đấu với 80 lá trong Bộ bài.
+game|4339|0,,Only Toon monsters can be included in your Deck,Deck chỉ được có Toon Monster,52,Bộ bài chỉ được có quái thú Toon.
+game|4340|0,,Only Flip Effect monsters can be included in your Deck,Deck chỉ được có Flip Effect Monster,60,Bộ bài chỉ được có quái thú Hiệu ứng Lật.
+game|4341|0,,Only monsters with Level 4 can be used,Chỉ được dùng Monster Level 4,42,Chỉ được dùng quái thú Cấp 4.
+game|4342|0,,"Only ""Elemental Hero"" monsters can be included in your Deck","Deck chỉ được có Monster ""Elemental Hero""",65,"Bộ bài chỉ được có quái thú ""Elemental Hero""."
+game|4343|0,,Only LV monsters can be included in your Deck,Deck chỉ được có quái thú LV,50,Bộ bài chỉ được có quái thú LV.
+game|4344|0,,"Only ""Dark World"" monsters can be included in your Deck","Deck chỉ được có Monster ""Dark World""",61,"Bộ bài chỉ được có quái thú ""Dark World""."
+game|4345|0,,"Only monsters with an ATK of ""?"" can be included in your Deck","Deck chỉ được có Monster có ATK là ""?""",68,"Bộ bài chỉ được có quái thú mang ATK ""?""."
+game|4346|0,,Only EARTH monsters can be included in your Deck,Deck chỉ được có Monster EARTH,53,Bộ bài chỉ được có quái thú thuộc tính ĐẤT.
+game|4347|0,,Special Summons cannot be used,Không thể dùng Special Summon,34,Không được Triệu hồi Đặc biệt.
+game|4348|0,,Only FIRE monsters can be included in your Deck,Deck chỉ được có Monster FIRE,52,Bộ bài chỉ được có quái thú thuộc tính LỬA.
+game|4349|0,,You cannot include Spell cards in your Deck,Deck không được có Spell Card,48,Bộ bài không được có Lá Phép.
+game|4350|0,,Only WATER monsters can be included in your Deck,Deck chỉ được có Monster WATER,53,Bộ bài chỉ được có quái thú thuộc tính NƯỚC.
+game|4351|0,,Only Fairy-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Fairy,59,Bộ bài chỉ được có quái thú tộc Tiên.
+game|4352|0,,Only DARK monsters can be included in your Deck,Deck chỉ được có Monster DARK,52,Bộ bài chỉ được có quái thú thuộc tính BÓNG TỐI.
+game|4353|0,,Only Beast-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Beast,59,Bộ bài chỉ được có quái thú tộc Thú.
+game|4354|0,,Normal Summons or Sets cannot be used,Không thể dùng Normal Summon hoặc Set,41,Cấm Triệu hồi/Đặt úp Thường.
+game|4355|0,,You cannot include any monsters in your Deck (or Fusion Deck),Deck (hoặc Fusion Deck) không được có Monster nào,68,Bộ bài và Bộ bài Dung hợp không được có bất kỳ quái thú nào.
+game|4356|0,,"Only ""Destiny Hero"" monsters can be included in your Deck","Deck chỉ được có Monster ""Destiny Hero""",63,"Bộ bài chỉ được có quái thú ""Destiny Hero""."
+game|4357|0,,Only Zombie-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Zombie,60,Bộ bài chỉ được có quái thú tộc Xác sống.
+game|4358|0,,Only Machine-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Machine,61,Bộ bài chỉ được có quái thú tộc Máy móc.
+game|4359|0,,Only Dinosaur-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Dinosaur,62,Bộ bài chỉ được có quái thú tộc Khủng long.
+game|4360|0,,"Only ""Six Samurai"" monsters can be included in your Deck","Deck chỉ được có Monster ""Six Samurai""",62,"Bộ bài chỉ được có quái thú ""Six Samurai""."
+game|4361|0,,Only Thunder-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Thunder,61,Bộ bài chỉ được có quái thú tộc Sấm sét.
+game|4362|0,,Only Sea Serpent-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Sea Serpent,65,Bộ bài chỉ được có quái thú tộc Hải long.
+game|4363|0,,Only Rock-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Rock,58,Bộ bài chỉ được có quái thú tộc Đá.
+game|4364|0,,Only Insect-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Insect,60,Bộ bài chỉ được có quái thú tộc Côn trùng.
+game|4365|0,,Only Fish-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Fish,58,Bộ bài chỉ được có quái thú tộc Cá.
+game|4366|0,,Only Beast-Warrior-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Beast-Warrior,68,Bộ bài chỉ được có quái thú tộc Thú chiến binh.
+game|4367|0,,Only Plant-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Plant,59,Bộ bài chỉ được có quái thú tộc Thực vật.
+game|4368|0,,Only Winged Beast-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Winged Beast,67,Bộ bài chỉ được có quái thú tộc Thú có cánh.
+game|4369|0,,Only Reptile-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Reptile,61,Bộ bài chỉ được có quái thú tộc Bò sát.
+game|4370|0,,Only 3 Monster Zones and Spell & Trap Zones can be used,Chỉ được dùng 3 Monster Zone và Spell & Trap Zone,61,Chỉ được dùng 3 Vùng Quái thú và 3 Vùng Phép/Bẫy.
+game|4371|0,,Only Pyro-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Pyro,58,Bộ bài chỉ được có quái thú tộc Hỏa.
+game|4372|0,,Only Aqua-Type monsters can be included in your Deck,Deck chỉ được có Monster hệ Aqua,58,Bộ bài chỉ được có quái thú tộc Thủy.
+game|4373|0,,Normal Summons cannot be used,Không thể dùng Normal Summon,32,Không được Triệu hồi Thường.
+game|4401|0,,- Overall Duel Record -,- Kỷ Lục Duel Tổng Thể -,27,- Thành tích đấu bài -
+game|4402|0,,Total Play Time,Tổng Thời Gian Chơi,21,Tổng thời gian chơi
+game|4403|0,,Total Single Duels,Tổng Số Single Duel,21,Tổng trận đấu đơn
+game|4404|0,,Total Tag Duels,Tổng Số Tag Duel,18,Tổng trận đấu đôi
+game|4405|0,,Win Ratio,Tỉ Lệ Thắng,13,Tỷ lệ thắng
+game|4406|0,,Deck Win Ratio,Tỉ Lệ Thắng Của Deck,23,Tỷ lệ thắng Bộ bài
+game|4407|0,,Max. Continuous Won,Chuỗi Thắng Dài Nhất,23,Chuỗi thắng dài nhất
+game|4408|0,,Tournament Won: Level 1,Vô Địch Giải: Cấp 1,26,Vô địch giải cấp 1
+game|4409|0,,Tournament Won: Level 2,Vô Địch Giải: Cấp 2,26,Vô địch giải cấp 2
+game|4410|0,,Tournament Won: Level 3,Vô Địch Giải: Cấp 3,26,Vô địch giải cấp 3
+game|4411|0,,Tournament Won: Tag,Vô Địch Giải: Tag,21,Vô địch giải đôi
+game|4412|0,,Wireless Duels,Duel Không Dây,16,Đấu không dây
+game|4413|0,,Wireless Win Ratio,Tỉ Lệ Thắng Không Dây,24,Tỷ lệ thắng không dây
+game|4414|0,,Nintendo WFC Duels,Duel Nintendo WFC,20,Số trận Nintendo WFC
+game|4415|0,,Nintendo WFC Win Ratio,Tỉ Lệ Thắng Nintendo WFC,27,Tỷ lệ thắng WFC
+game|4416|0,,Max. Rating,Xếp Hạng Cao Nhất,19,Hạng cao nhất
+game|4417|0,,Total Summons,Tổng Số Summon,16,Số lần Triệu hồi
+game|4422|0,,# of Spells Activated,Số Spell Đã Kích Hoạt,24,Số Phép đã kích hoạt
+game|4429|0,,# of Traps Activated,Số Trap Đã Kích Hoạt,23,Số Bẫy đã kích hoạt
+game|4433|0,,- Duel Record -,- Kỷ Lục Duel -,17,- Kỷ lục đấu -
+game|4434|0,,# of Spells Activated,Số Spell Đã Kích Hoạt,24,Số Phép đã kích hoạt
+game|4435|0,,# of Traps Activated,Số Trap Đã Kích Hoạt,23,Số Bẫy đã kích hoạt
+game|4443|0,,Max. ATK,ATK Cao Nhất,14,ATK cao nhất
+game|4444|0,,Max. Damage,Sát Thương Cao Nhất,21,Sát thương cao nhất
+game|4445|0,,Max. LP Recovered,LP Hồi Nhiều Nhất,19,LP hồi nhiều nhất
+game|4446|0,,Max. LP Difference,Chênh Lệch LP Lớn Nhất,25,Chênh lệch LP lớn nhất
+game|4447|0,,Max. Reflected Damage,Sát Thương Phản Đòn Lớn Nhất,31,Sát thương phản lại lớn nhất
+game|4448|0,,Destroyed in Battle,Phá Hủy Bằng Chiến Đấu,25,Phá hủy khi chiến đấu
+game|4449|0,,Destroyed by Effects,Phá Hủy Bằng Hiệu Ứng,24,Phá hủy bằng hiệu ứng
+game|4450|0,,Removed,Loại Bỏ,8,Loại bỏ
+game|4451|0,,Hand Destruction,Phá Hủy Bài Trên Tay,23,Phá bài trên tay
+game|4452|0,,Deck Destruction,Phá Hủy Deck,18,Phá Bộ bài
+game|4456|0,,Coin Tosses Won in a Row,Số lần tung đồng xu thắng liên tiếp,39,Số lần tung xu thắng liên tiếp
+game|4458|0,,Fastest Win (turns),Thắng nhanh nhất (lượt),26,Thắng nhanh nhất (lượt)
+game|4459|0,,Longest Win (turns),Thắng lâu nhất (lượt),24,Thắng chậm nhất (lượt)
+game|4472|0,,Check out various records.,Xem các kỷ lục khác nhau.,29,Xem các kỷ lục.
+game|4502|0,,World Ranking %d,Xếp Hạng Thế Giới %d,23,Xếp hạng thế giới %d
+game|4503|0,,Cancellation is in progress.,Đang hủy.,31,Đang hủy...
+game|4504|0,,Checking is in progress.,Đang kiểm tra.,27,Đang kiểm tra...
+game|4505|0,,Download ?,Tải về ?,12,Tải xuống?
+game|4506|0,,Download is in progress.,Đang tải về.,27,Đang tải xuống...
+game|4507|0,,Download complete.,Tải xong.,20,Đã tải xong.
+game|4509|0,,Japan Only,Chỉ Nhật Bản,14,Chỉ Nhật Bản
+game|4510|0,,Japan Only,Chỉ Nhật Bản,14,Chỉ Nhật Bản
+game|4551|0,,Save Ghost data?,Lưu dữ liệu Ghost?,20,Lưu dữ liệu Ghost?
+game|4602|0,,Tournament Start!,Giải Đấu Bắt Đầu!,19,Giải đấu bắt đầu!
+game|4603|0,,First Duel,Duel Đầu Tiên,15,Trận đầu
+game|4604|0,,First Duel Start!,Duel Đầu Tiên Bắt Đầu!,25,Bắt đầu trận đầu!
+game|4605|0,,Second Duel,Duel Thứ Hai,14,Trận thứ hai
+game|4606|0,,Second Duel Start!,Duel Thứ Hai Bắt Đầu!,24,Bắt đầu trận thứ hai!
+game|4607|0,,Semi-Final Duel,Duel Bán Kết,17,Trận bán kết
+game|4608|0,,Semi-Final Duel Start!,Duel Bán Kết Bắt Đầu!,25,Bắt đầu trận bán kết!
+game|4609|0,,Final Duel,Duel Chung Kết,16,Trận chung kết
+game|4610|0,,Final Duel Start!,Duel Chung Kết Bắt Đầu!,26,Bắt đầu trận chung kết!
+game|4611|0,,Select the level,Chọn cấp độ,18,Chọn cấp độ
+game|4612|0,,Select CPU duel speed,Chọn tốc độ Duel với CPU,27,Chọn tốc độ đấu CPU
+game|4613|0,,Select duel speed,Chọn tốc độ Duel,19,Chọn tốc độ đấu
+game|4614|0,,Change the duel speed,Đổi tốc độ Duel,24,Đổi tốc độ đấu
+game|4615|0,,Select the speed for CPU duels that occur before your next duel.,Chọn tốc độ cho các Duel CPU xảy ra trước Duel kế tiếp của bạn.,71,Chọn tốc độ các trận CPU diễn ra trước trận tiếp theo của bạn.
+game|4618|0,,First Place,Hạng Nhất,13,Hạng nhất
+game|4619|0,,Second Place,Hạng Nhì,14,Hạng nhì
+game|4621|0,,Lost First Duel,Thua Duel Đầu Tiên,20,Thua trận đầu
+game|4622|0,,Rematch,Đấu Lại,8,Đấu lại
+game|4623|0,,First Match,Trận Thứ Nhất,15,Ván thứ nhất
+game|4624|0,,Second Match,Trận Thứ Hai,14,Ván thứ hai
+game|4625|0,,Third Match,Trận Thứ Ba,13,Ván thứ ba
+game|4626|0,,Fourth Match,Trận Thứ Tư,14,Ván thứ tư
+game|4627|0,,Results,Kết Quả,8,Kết quả
+game|4628|0,,Back,Quay Lại,9,Quay lại
+game|4629|0,,There is an entry fee of %dDP. OK?,Phí tham gia là %dDP. Đồng ý?,38,Phí dự giải là %dDP. Đồng ý?
+game|4630|0,,You don't have enough DP. You need %dDP to join this Tournament.,Bạn không đủ DP. Cần %dDP để tham gia giải đấu này.,71,Bạn không đủ DP. Cần %dDP để tham gia giải đấu này.
+game|4651|0,,Data is not saved. OK?,Dữ liệu chưa được lưu. Đồng ý?,34,Dữ liệu chưa lưu. Đồng ý?
+game|4701|0,,Change Tag Team Name,Đổi Tên Tag Team,23,Đổi tên đội đấu đôi
+game|4702|0,,Change Tag Partners,Đổi Đồng Đội Tag,21,Đổi đồng đội đấu đôi
+game|4703|0,,Tag Team Name,Tên Tag Team,15,Tên đội đấu đôi
+game|4704|0,,This Ghost is set as your partner so you cannot delete it.,Ghost này đang là partner của bạn nên không thể xóa.,64,Ghost này đang là đồng đội nên bạn không thể xóa.
+game|5503|0,,Let's have a fun duel!,Cùng Duel thật vui nào!,26,Đấu vui một trận nào!
+game|5504|0,,Let's have a serious duel!,Cùng Duel thật nghiêm túc nào!,34,Cùng đấu nghiêm túc nào!
+game|5505|0,,I'm dueling with a friend.,Tôi đang Duel với bạn bè.,29,Tôi đang đấu với bạn bè.
+game|5506|0,,Anybody OK!,Ai Cũng Được!,15,Ai cũng được!
+game|5507|0,,Let's trade!,Trao đổi nào!,15,Trao đổi nào!
+game|5508|0,,Select a team.,Chọn 1 đội.,16,Chọn một đội.
+game|5509|0,,Waiting for other team,Đang chờ đội kia,26,Đang chờ đội còn lại...
