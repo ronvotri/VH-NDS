@@ -1,0 +1,231 @@
+001|Ai mà mở được chúng vậy nhỉ?
+002|Tớ sợ có người rơi xuống▼nên thử đóng một cái lại,▼nhưng nặng kinh khủng!
+003|Ai mở được thứ đó▼hẳn phải khỏe dữ lắm.
+004|Không biết ai làm nhỉ...▼Tớ muốn tìm ra quá!$079;
+005|Không biết $000'3;Charlie$000'1; bị sao nữa...
+006|Hình như cậu ấy có tâm sự.▼Trông chẳng giống mọi ngày.
+007|Cậu ấy bắt đầu như thế▼từ khi có lời đồn về▼"quái thú trắng đáng sợ" nhỉ?
+008|Hay cậu ấy sợ▼con quái vật trắng đó...?$079;
+009|Dạo này $000'3;Charlie$000'1; ủ rũ ghê...
+010|Sao cậu ấy cứ nhìn▼xa xăm cả ngày thế nhỉ...
+011|Tớ chưa từng thấy $000'3;Charlie$000'1;▼buồn bã đến vậy.$079;
+012|Cậu biết không? Sâu dưới▼chân ta có cả một▼thế giới ngầm đấy.
+013|Tớ đọc trong sách rồi.▼Không biết nơi đó ra sao...▼Có sinh vật nào sống không nhỉ?
+014|Chưa từng thấy nắng,▼chắc họ yếu ớt và▼trắng bệch cho xem.$079;
+015|Nghe nói có những▼$000'3;người dưới lòng đất$000'1; sống▼sâu dưới lòng đất.
+016|Nghe đồn $000'3;người dưới lòng đất$000'1;▼muốn lên mặt đất đấy.
+017|Nhưng tớ lại rất muốn▼dẫn đoàn thám hiểm▼xuống nơi họ sống.
+018|Khi đó, cậu cũng đi▼cùng tớ nhé, $500;.
+019|Cậu xách hành lý▼giúp tớ, được chứ?$079;
+020|Tớ đã gặp $000'3;người dưới lòng đất$000'1;▼và nghe họ kể đủ thứ▼về thế giới của mình.
+021|Nghe thích mê luôn!
+022|Ở đó suối nước nóng▼khắp nơi, muốn tắm▼bao nhiêu cũng được.
+023|Đồ ăn ngon ê hề,▼ngày nào cũng▼mở tiệc tưng bừng!
+024|Nghe tuyệt quá đi chứ!
+025|Aaa... Giá mà tớ đã nhờ▼họ đưa mình xuống đó...
+026|Khoan, "đồ ăn ngon"▼theo họ là món gì nhỉ?
+027|Nấm thì còn ổn...▼Chứ đá với côn trùng á?▼Ối, ghê quá!
+028|Nghĩ lại, may mà tớ▼không đi theo họ!$079;
+029|Dạo này chuyện lạ▼xảy ra liên tục...
+030|Tớ thích nhặt đá đẹp▼rồi mang về $000'5;nhà$000'1;▼cất làm bộ sưu tập.
+031|Nhưng chẳng biết từ lúc nào,▼chúng biến mất sạch!
+032|Tớ tưởng mình để quên▼ở đâu đó, nhưng tìm▼mãi chẳng thấy đâu.
+033|Đá có mọc chân▼mà bỏ đi được đâu...$079;
+034|Tớ kể cậu nghe vụ▼mất đá rồi, nhớ không?
+035|Đố cậu biết! Giờ đá còn▼biến mất thường xuyên hơn!
+036|Bộ sưu tập đá của tớ▼sắp tiêu đời rồi!
+037|Hay là do những thí nghiệm▼bí mật của $000'3;Hiệu trưởng Sol$000'1;?
+038|Nếu đúng, mong thầy▼đổi đối tượng thử nghiệm đi!$079;
+039|Vụ đá với trái cây▼tự nhiên biến mất đã dừng.
+040|Vậy là thí nghiệm bí mật▼của $000'3;Hiệu trưởng Sol$000'1;▼đã kết thúc rồi sao?
+041|Nếu vậy, tớ lại có thể▼sưu tầm đá tiếp rồi!$079;
+042|Không biết $000'3;Jack Đèn Lồng$000'1;▼giấu trò gì trong tay áo...
+043|Tớ chưa từng đáp "Chơi khăm"▼khi nghe hỏi "Kẹo hay ghẹo?"
+044|Tiếc $000'4;$507'393;$000'1; thật,▼nhưng tớ đâu muốn▼bị chơi khăm.$079;
+045|K... K... K-Kẹo! Kẹo đây!
+046|Đây, tớ cho cậu▼$000'4;$507'393;$000'1; này.
+047|Hả? Cậu không muốn à?
+048|Tùy cậu thôi. Tớ không▼ép nhận thứ cậu chẳng thích.
+049|Nhưng đừng có đổi ý▼rồi bò về đây xin lại nhé!$073'101'4;
+050|$500;, gần đây▼cậu đến ao vào ban đêm▼đúng không?
+051|Hôm nọ tớ đến đó▼và thấy thứ gì lấp lánh▼dưới đáy ao!
+052|Không biết là gì nhỉ...
+053|Có ai đánh rơi▼đồ xuống đó sao?$079;
+054|Này, cậu nghĩ chiếc chìa khóa▼mà $000'3;Reginald$000'1; đánh rơi...
+055|có liên quan đến thứ▼tớ thấy sáng dưới▼đáy ao không?
+056|Ừm... Nhưng chắc không▼đáng để kể với $000'3;Reginald$000'1;.
+057|Chỉ là linh cảm thôi,▼có khi tớ sai bét.$079;
+058|Vậy thứ trong ao đúng là▼chìa khóa Cổng Khởi Đầu▼và Kết Thúc!
+059|Tớ biết ngay mà!
+060|Đã bảo linh cảm của tớ▼chẳng bao giờ sai mà!$079;
+061|Cậu nghe chuyện▼$000'3;bị bắt sang cõi khác$000'1; chưa?
+062|Là khi một người▼đột nhiên biến mất!
+063|Họ đi đâu vậy nhỉ?
+064|Đến tớ cũng chẳng biết.
+065|Nhưng nghĩ đến thôi▼đã thấy rợn rồi...$079;
+066|Tớ hỏi $000'3;Hiệu trưởng Sol$000'1;▼về chuyện $000'3;bị bắt sang cõi khác$000'1;.
+067|Bị đưa đến thế giới lạ▼nghe đáng sợ thật!
+068|Vậy mà cậu còn dám▼đến đó cứu bạn về!▼Giỏi quá đi!
+069|Đúng là ngoài sức tưởng tượng.$079;
+070|Tớ lại gặp ác mộng rồi!
+071|Dạo này đêm nào▼tớ cũng gặp ác mộng.▼Giờ tớ sợ cả đi ngủ!
+072|$500;, cậu có▼biết cách nào xua▼ác mộng không?$079;
+073|Nghe nói $000'4;$507'429;$000'1; có thể▼xua đuổi tà ma đấy!
+074|Lần tới tớ sẽ thử▼mang nó theo người!
+075|Biết đâu vận may sẽ đến.$079;
+076|Cuối cùng tớ cũng▼hết gặp ác mộng!
+077|Mơ đẹp vẫn hơn▼ác mộng nhiều chứ.
+078|Tớ gặp ác mộng nhiều▼đến mức đủ dùng▼cả đời rồi!$079;
+079|Dạo này tớ thấy▼giấc mơ ngắn hơn trước.
+080|Cứ như có ai đang▼đánh cắp giấc mơ▼của tớ vậy...
+081|Làm gì có chuyện ấy!▼...Nhưng khoan, có thật không?$079;
+082|Đôi khi mơ đẹp▼hóa thành ác mộng,▼tớ chẳng thích chút nào...
+083|nhưng không mơ gì▼thì chán muốn chết.
+084|Ai đó ơi... trả lại▼những giấc mơ thú vị▼cho tớ đi...!$079;
+085|Cuối cùng tớ▼lại nằm mơ rồi!
+086|Giấc mơ hơi kỳ lạ,▼nhưng vẫn hơn▼chẳng mơ gì cả.
+087|Giờ tớ lại mong▼đến giờ đi ngủ!$079;
+088|Nghe nói có con chó▼canh cổng khổng lồ▼đến từ thế giới khác.
+089|Nó canh một cánh cửa▼nối thế giới này▼với thế giới kia.
+090|Ghê nhỉ? Chắc nó▼cắn một phát là khỏi về!
+091|Dù muốn sang thế giới kia,▼tớ cũng chẳng biết cách...
+092|nên chắc khỏi cần lo ha.$079;
+093|Cái gì?! Cậu gặp chó▼canh cổng cõi khác rồi à?
+094|Nó có ba đầu▼và đỏ rực luôn sao?!
+095|Cậu lại định lừa tớ chứ gì?
+096|Đừng hòng! Ai nói dối▼tớ nhìn ra ngay!$079;
+097|Đến mùa thử lòng can đảm▼thường niên vào buổi tối rồi!
+098|Muốn thử thách thực sự?▼Tớ khuyên cậu tham gia ngay!
+099|Nhưng báo trước nhé:▼Cậu không thể thắng▼nhà vô địch tương lai là TỚ!$079;
+100|$000'3;Ma$000'1; đúng là phiền,▼nhưng dùng đúng phép▼là đuổi được ngay.
+101|Thế mà tớ cứ thất bại▼rồi bị tống về $000'5;nhà$000'1;.
+102|Hừ... Cứ thế này▼bao giờ tớ mới vô địch!$079;
+103|Hóa ra $000'3;ma$000'1;▼không đáng sợ như tớ tưởng.
+104|Tớ cứ nghĩ chúng to tướng,▼nuốt chửng ta trong một miếng...
+105|Ai ngờ chẳng giống gì.▼Hơi hụt hẫng nhỉ?$079;
+106|Cậu biết anh chàng▼hay chơi nhạc bên $000'5;tàn tích$000'1;▼gần đây không?
+107|Tớ có cảm giác▼đã nghe giai điệu ấy▼ở đâu rồi...
+108|Tớ nghe ở đâu nhỉ...?
+109|Bản nhạc dài lê thê,▼không phải gu tớ,▼nhưng đôi lúc cũng muốn nghe.
+110|Lạ thật đấy...$079;
+111|Hình như $000'3;thần dê$000'1;▼đã đổi sang bài mới.
+112|Hay tớ tập chơi▼bản ấy luôn nhỉ!
+113|Không biết anh ta▼còn ở đó bao lâu.
+114|Anh ấy cũng dễ mến,▼muốn ở bao lâu▼thì cứ ở thôi.$079;
+115|Những giai điệu $000'3;thần dê$000'1;▼chơi đều hay cả.
+116|Có một bài tớ mê đến mức▼giờ vẫn còn tập chơi!
+117|Tập nhiều đến nỗi▼tớ thuộc làu rồi!
+118|Ước gì tớ được▼đánh bài ấy cho▼$000'3;thần dê$000'1; nghe...$079;
+119|Này, $500;!▼$000'3;Cô Strawe$000'1; đang gọi cậu!
+120|Nếu cậu làm gì sai,▼mau xin lỗi đi!
+121|Không thì cô giận▼mãi không thôi đâu!$079;
+122|Tớ nói với cậu▼một chuyện được không?
+123|Dạo này ai cũng▼bàn về $000'3;tiên$000'1;...
+124|Tớ thật sự nghĩ▼chúng không tồn tại đâu...
+125|Cậu cũng nghĩ thế chứ,▼$500;?
+126|Tớ chưa từng thấy $000'3;tiên$000'1;.
+127|Chưa thấy bao giờ,▼chắc nghĩa là▼chúng không có thật nhỉ?
+128|Này, $500;...▼$000'3;Tiên$000'1; có thật mà, đúng chứ?
+129|Có$019'6069;
+130|Không$019'6070;
+131|Có$019'6071;
+132|Không$019'6072;
+133|Có$019'6073;
+134|Không$019'6074;
+135|Ừ, tớ cũng nghĩ vậy.▼Làm gì có $000'3;tiên$000'1; thật chứ.$079;
+136|Cậu nghĩ là có ư?▼Ừm... Tớ không chắc đâu...$073'109'2;$079;
+137|Biết ngay mà!▼$000'3;Tiên$000'1; làm gì có thật.$079;
+138|Cậu nghĩ tớ sai à?▼Ừm... Chắc chứ?$073'109'2;$079;
+139|Ừ, cậu đúng!▼$000'3;Tiên$000'1; nhất định có thật!
+140|Tớ hết hoài nghi rồi!▼Cảm ơn cậu, $500;!$073'109'2;$079;
+141|Thật vậy sao... Tớ hiểu rồi...
+142|Vậy mọi chuyện về $000'3;tiên$000'1;▼chỉ là bịa đặt thôi.$079;
+143|Tớ cũng quyết định▼tin rằng có $000'3;tiên$000'1;!
+144|Tớ tìm hiểu xem▼có thể gặp họ ở đâu...
+145|Hóa ra là trong▼$000'5;Rừng Nấm$000'1; đấy!
+146|Nhưng $000'5;Rừng Nấm$000'1; đầy nấm,▼tìm sinh vật bé tí▼đâu có dễ.$079;
+147|Này! Cậu thấy▼$000'3;Ông già Noel$000'1; đi dạo không?
+148|Tớ tưởng năm nay▼được nhận quà sớm...
+149|Ai dè hỏi xin quà,▼ông bảo phải đợi▼đến lần tới.
+150|Chán ơi là chán!$079;
+151|Tớ đã nói với▼$000'3;Ông già Noel$000'1;▼món quà Giáng Sinh tớ muốn.
+152|Thật ra tớ viết thư.▼Không biết ông đọc chưa...
+153|Mong ông mau▼mang quà đến cho tớ!$079;
+154|Tuyệt! Tớ được▼đúng món quà mình muốn!
+155|Vui quá! Cảm ơn▼$000'3;Ông già Noel$000'1;!
+156|Hả? Cậu bảo▼"Không có gì" là sao?
+157|Đúng là đồ kỳ quặc...$079;
+158|Có đồ vật từ vũ trụ,▼cậu sẽ nhận được▼tin nhắn từ người ngoài hành tinh.
+159|Tớ nói thật đấy!
+160|Hôm nọ, cuối cùng▼tớ cũng kiếm được▼thứ có thể dùng.
+161|Trời ơi! Tớ nóng lòng▼nhận được tin nhắn quá!
+162|Háo hức ghê luôn!$079;
+163|Dạo này sáng nào thức dậy▼tớ cũng nghe tiếng ấy...▼Bực mình quá đi.
+164|Tớ chắc chắn▼đã nghe ở đâu rồi...
+165|Ừm... Ở đâu nhỉ?
+166|Sắp nhớ ra rồi...▼Cứ như đã nghe▼cả triệu lần vậy...
+167|Áaa! Khó chịu quá!$079;
+168|Cuối cùng tớ cũng biết rồi!
+169|Cái âm thanh cứ▼vang trong đầu tớ ấy...
+170|Biết là từng nghe,▼thế mà nghĩ mãi▼chẳng ra.
+171|Ai ngờ lại là▼chuông $000'5;trường$000'1; chứ...
+172|Ngay trước mắt▼mà tớ không nhận ra!$079;
+173|Dạo này cứ ra ngoài▼là tớ lại té liên tục.
+174|Đầu tiên tớ tưởng▼ai đang trêu mình,▼nhưng chẳng có ai ở đó.
+175|Có kẻ đang âm mưu▼hại tớ sao?!$079;
+176|Ừm... Làm sao tìm ra▼ai cứ ngáng chân tớ nhỉ?
+177|Cậu nghĩ vũng nước▼có giúp soi bóng▼hay dấu chân nó không?
+178|Ừ, nhất định tớ phải▼tìm ra thủ phạm!$079;
+179|Ái da! Ngã liên tục▼làm tớ vẫn đau ê ẩm...
+180|Lần tới nhất định▼tớ sẽ tóm được hắn!
+181|Hả? Cậu giải quyết rồi sao?▼Chính cậu á, $500;?
+182|Tớ tìm mãi không ra,▼vậy mà cậu đã xử lý xong!$079;
+183|Cậu thấy hình thù lạ▼vừa xuất hiện trong $000'5;thị trấn$000'1; chưa?
+184|Nghe nói đêm nọ,▼nó đột nhiên▼phát sáng rực rỡ.
+185|Nếu cậu có mặt ở đó,▼biết đâu đã tìm ra▼ai vẽ nó rồi.
+186|Ước gì tớ được chứng kiến...$079;
+187|Hóa ra $000'3;vòng tròn bí ẩn$000'1;▼chỉ phát sáng ban đêm.
+188|Rốt cuộc nó là gì nhỉ?
+189|Không biết có liên quan▼đến ai ở $000'5;thị trấn$000'1; không.$079;
+190|Tớ nghĩ hoa văn▼$000'3;vòng tròn bí ẩn$000'1;▼cứ đổi khác qua mỗi đêm.
+191|Đến sáng là▼trông khác hẳn.
+192|Tớ rất muốn biết▼ai đứng sau vụ này.
+193|Lần tới cậu để mắt▼giúp tớ nhé, $500;?$079;
+194|Này, cậu nghe▼chuyện ở $000'5;bãi biển$000'1; chưa?
+195|Có người nói đó là▼hiệp sĩ không đầu,▼người khác lại bảo không...
+196|Đồn ầm lên thế này,▼ai còn dám xuống▼$000'5;bãi biển$000'1; nữa!$079;
+197|Cái đầu ở $000'5;bãi biển$000'1;▼có thân, nhưng thân bỏ chạy à?
+198|Tội nghiệp cái đầu.
+199|Đầu là bộ phận▼quan trọng nhất,▼quyết định đủ mọi thứ...
+200|vậy mà không có thân▼thì chẳng đi đâu được.
+201|Có cái thân tự ý▼chạy lung tung,▼hẳn phiền lắm nhỉ.$079;
+202|Đầu với thân▼vẫn còn giận nhau à?
+203|À, làm hòa rồi sao?▼Tốt quá.
+204|Lẽ ra tớ nên dạy cái đầu▼một chút phép ngôn ngữ nữa...
+205|nhưng bận quá trời.▼Thôi thì đành chịu vậy.$079;
+206|$500;, cậu đây rồi!▼$000'3;Reginald$000'1; vừa tìm cậu đấy.
+207|$500;, cậu▼làm gì sai à?▼Ông ấy giận dữ lắm!
+208|Tớ chưa thấy ông nổi nóng▼thế từ hôm bắt quả tang▼tớ ăn vụng đồ của ông!$079;
+209|Cậu hỏi tớ chỗ tìm▼nấm đùi gà vua à?
+210|$000'3;Manticore$000'1; đã ăn sạch▼gần hết $000'5;Rừng Nấm$000'1; rồi,▼còn nấm đâu mà tìm...
+211|Nghĩ lại, hình như▼tớ thấy một cây dưới gốc cây▼gần $000'5;ký túc xá$000'1;?
+212|Chẳng biết còn đó không,▼nhưng cậu cứ đến thử xem.$079;
+213|Từ khi $000'3;Manticore$000'1;▼bỏ thói ích kỷ,▼$000'5;Rừng Nấm$000'1; lại yên bình.
+214|Giờ đi hái nấm▼cũng an toàn rồi.
+215|Hả? Tớ có sợ▼$000'3;Manticore$000'1; không á?
+216|K-Không đời nào!▼Ý tớ là đến đó làm gì▼nếu chẳng còn nấm...
+217|Đừng hỏi mấy câu▼ngớ ngẩn nữa!$079;
+218|$500;, cậu thấy▼con chim khổng lồ ấy chưa?
+219|Nghe nói nó là $000'3;Griffin$000'1;!
+220|Trông nó tức giận lắm!▼Không biết đã có▼chuyện gì với nó...
+221|Tớ á? Tớ vô tội nhé!$079;
+222|$000'3;Charlie$000'1; dạo này▼cứ vui như mở hội!
+223|Nghe đâu cậu ấy▼đang kiếm tiền từ quả mọng.
+224|Mừng quá! Thường ngày▼cậu ta chỉ biết mất tiền...
+225|Cuối cùng tiền cũng▼chịu chảy vào túi cậu ấy!$079;
+226|Ôi, cậu dám đối đầu▼với $000'3;Đội trưởng Dot$000'1; sao?
+227|Nghe đồn cậu▼đánh hắn te tua luôn!
+228|Cậu giỏi hơn tớ tưởng,▼$500;!
+229|Chẳng cần thương hại▼$000'3;Dot$000'1; đâu!
+230|Cuối cùng hắn cũng▼nếm mùi bị trị rồi!$079;
+231|Nghe nói dạo này▼có kẻ lẻn vào $000'5;trường$000'1;...

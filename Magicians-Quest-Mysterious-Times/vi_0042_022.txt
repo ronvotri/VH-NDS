@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0042#60.60#page:4	Không thì cô giận▼mãi không thôi đâu!$079;
+talkfigs/0eng/data/0042#60.61#page:1	Tớ nói với cậu▼một chuyện được không?
+talkfigs/0eng/data/0042#60.61#page:3	Dạo này ai cũng▼bàn về $000'3;tiên$000'1;...
+talkfigs/0eng/data/0042#60.61#page:4	Tớ thật sự nghĩ▼chúng không tồn tại đâu...
+talkfigs/0eng/data/0042#60.61#page:5	Cậu cũng nghĩ thế chứ,▼$500;?
+talkfigs/0eng/data/0042#60.62#page:1	Tớ nói với cậu▼một chuyện được không?
+talkfigs/0eng/data/0042#60.62#page:3	Dạo này ai cũng▼bàn về $000'3;tiên$000'1;...
+talkfigs/0eng/data/0042#60.62#page:4	Tớ thật sự nghĩ▼chúng không tồn tại đâu...
+talkfigs/0eng/data/0042#60.62#page:5	Cậu cũng nghĩ thế chứ,▼$500;?
+talkfigs/0eng/data/0042#60.63#page:1	Tớ nói với cậu▼một chuyện được không?
+talkfigs/0eng/data/0042#60.63#page:3	Tớ chưa từng thấy $000'3;tiên$000'1;.
+talkfigs/0eng/data/0042#60.63#page:4	Chưa thấy bao giờ,▼chắc nghĩa là▼chúng không có thật nhỉ?
+talkfigs/0eng/data/0042#60.64#page:1	Tớ nói với cậu▼một chuyện được không?
+talkfigs/0eng/data/0042#60.64#page:3	Tớ chưa từng thấy $000'3;tiên$000'1;.
+talkfigs/0eng/data/0042#60.64#page:4	Chưa thấy bao giờ,▼chắc nghĩa là▼chúng không có thật nhỉ?
+talkfigs/0eng/data/0042#60.65#page:1	Tớ nói với cậu▼một chuyện được không?
+talkfigs/0eng/data/0042#60.65#page:3	Này, $500;...▼$000'3;Tiên$000'1; có thật mà, đúng chứ?
+talkfigs/0eng/data/0042#60.66#page:2	Có$019'6069;
+talkfigs/0eng/data/0042#60.66#page:3	Không$019'6070;
+talkfigs/0eng/data/0042#60.67#page:2	Có$019'6071;
+talkfigs/0eng/data/0042#60.67#page:3	Không$019'6072;
+talkfigs/0eng/data/0042#60.68#page:2	Có$019'6073;
+talkfigs/0eng/data/0042#60.68#page:3	Không$019'6074;
+talkfigs/0eng/data/0042#60.69#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Ừ, tớ cũng nghĩ vậy.▼Làm gì có $000'3;tiên$000'1; thật chứ.$079;
+talkfigs/0eng/data/0042#60.70#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu nghĩ là có ư?▼Ừm... Tớ không chắc đâu...$073'109'2;$079;
+talkfigs/0eng/data/0042#60.71#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Biết ngay mà!▼$000'3;Tiên$000'1; làm gì có thật.$079;
+talkfigs/0eng/data/0042#60.72#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu nghĩ tớ sai à?▼Ừm... Chắc chứ?$073'109'2;$079;
+talkfigs/0eng/data/0042#60.73#page:1	Ừ, cậu đúng!▼$000'3;Tiên$000'1; nhất định có thật!
+talkfigs/0eng/data/0042#60.73#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ hết hoài nghi rồi!▼Cảm ơn cậu, $500;!$073'109'2;$079;
+talkfigs/0eng/data/0042#60.74#page:1	Thật vậy sao... Tớ hiểu rồi...
+talkfigs/0eng/data/0042#60.74#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;Vậy mọi chuyện về $000'3;tiên$000'1;▼chỉ là bịa đặt thôi.$079;
+talkfigs/0eng/data/0042#60.75#page:1	Tớ cũng quyết định▼tin rằng có $000'3;tiên$000'1;!
+talkfigs/0eng/data/0042#60.75#page:3	Tớ tìm hiểu xem▼có thể gặp họ ở đâu...
+talkfigs/0eng/data/0042#60.75#page:4	Hóa ra là trong▼$000'5;Rừng Nấm$000'1; đấy!
+talkfigs/0eng/data/0042#60.75#page:5	$024'327'7;$023'327'170'10'2;$022'327'301;Nhưng $000'5;Rừng Nấm$000'1; đầy nấm,▼tìm sinh vật bé tí▼đâu có dễ.$079;
+talkfigs/0eng/data/0042#60.80#page:1	$024'327'5;$023'327'170'10'1;$022'327'301;Này! Cậu thấy▼$000'3;Ông già Noel$000'1; đi dạo không?
+talkfigs/0eng/data/0042#60.80#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Tớ tưởng năm nay▼được nhận quà sớm...
+talkfigs/0eng/data/0042#60.80#page:3	$024'327'5;$023'327'175'8'2;$022'327'345;Ai dè hỏi xin quà,▼ông bảo phải đợi▼đến lần tới.
+talkfigs/0eng/data/0042#60.80#page:5	$024'327'3;$023'327'171'10'1;$022'327'304;Chán ơi là chán!$079;
+talkfigs/0eng/data/0042#60.81#page:1	Tớ đã nói với▼$000'3;Ông già Noel$000'1;▼món quà Giáng Sinh tớ muốn.
+talkfigs/0eng/data/0042#60.81#page:2	$024'327'0;$023'327'178'10'1;$022'327'361;Thật ra tớ viết thư.▼Không biết ông đọc chưa...
+talkfigs/0eng/data/0042#60.81#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;Mong ông mau▼mang quà đến cho tớ!$079;
+talkfigs/0eng/data/0042#60.82#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tuyệt! Tớ được▼đúng món quà mình muốn!
+talkfigs/0eng/data/0042#60.82#page:2	Vui quá! Cảm ơn▼$000'3;Ông già Noel$000'1;!
+talkfigs/0eng/data/0042#60.82#page:4	Hả? Cậu bảo▼"Không có gì" là sao?
+talkfigs/0eng/data/0042#60.82#page:5	Đúng là đồ kỳ quặc...$079;
+talkfigs/0eng/data/0042#61.0#page:1	Có đồ vật từ vũ trụ,▼cậu sẽ nhận được▼tin nhắn từ người ngoài hành tinh.
+talkfigs/0eng/data/0042#61.0#page:2	Tớ nói thật đấy!
+talkfigs/0eng/data/0042#61.0#page:4	Hôm nọ, cuối cùng▼tớ cũng kiếm được▼thứ có thể dùng.
+talkfigs/0eng/data/0042#61.0#page:5	Trời ơi! Tớ nóng lòng▼nhận được tin nhắn quá!
+talkfigs/0eng/data/0042#61.0#page:6	$024'327'1;$023'327'173'6'2;$022'327'341;Háo hức ghê luôn!$079;
+talkfigs/0eng/data/0042#61.1#page:1	Dạo này sáng nào thức dậy▼tớ cũng nghe tiếng ấy...▼Bực mình quá đi.
+talkfigs/0eng/data/0042#61.1#page:2	$024'327'0;$023'327'178'10'1;$022'327'361;Tớ chắc chắn▼đã nghe ở đâu rồi...
+talkfigs/0eng/data/0042#61.1#page:3	Ừm... Ở đâu nhỉ?
+talkfigs/0eng/data/0042#61.1#page:4	Sắp nhớ ra rồi...▼Cứ như đã nghe▼cả triệu lần vậy...
+talkfigs/0eng/data/0042#61.1#page:5	$024'327'5;$023'327'170'10'1;$022'327'301;Áaa! Khó chịu quá!$079;
+talkfigs/0eng/data/0042#61.2#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Cuối cùng tớ cũng biết rồi!
+talkfigs/0eng/data/0042#61.2#page:2	Cái âm thanh cứ▼vang trong đầu tớ ấy...
+talkfigs/0eng/data/0042#61.2#page:3	Biết là từng nghe,▼thế mà nghĩ mãi▼chẳng ra.
+talkfigs/0eng/data/0042#61.2#page:5	Ai ngờ lại là▼chuông $000'5;trường$000'1; chứ...
+talkfigs/0eng/data/0042#61.2#page:6	Ngay trước mắt▼mà tớ không nhận ra!$079;
+talkfigs/0eng/data/0042#61.20#page:1	$024'327'3;$023'327'171'10'1;$022'327'304;Dạo này cứ ra ngoài▼là tớ lại té liên tục.
+talkfigs/0eng/data/0042#61.20#page:2	$024'327'0;$023'327'178'10'1;$022'327'361;Đầu tiên tớ tưởng▼ai đang trêu mình,▼nhưng chẳng có ai ở đó.
+talkfigs/0eng/data/0042#61.20#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Có kẻ đang âm mưu▼hại tớ sao?!$079;
+talkfigs/0eng/data/0042#61.21#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Ừm... Làm sao tìm ra▼ai cứ ngáng chân tớ nhỉ?
+talkfigs/0eng/data/0042#61.21#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Cậu nghĩ vũng nước▼có giúp soi bóng▼hay dấu chân nó không?
+talkfigs/0eng/data/0042#61.21#page:4	$024'327'5;$023'327'170'10'1;$022'327'301;Ừ, nhất định tớ phải▼tìm ra thủ phạm!$079;
+talkfigs/0eng/data/0042#61.22#page:1	$024'327'2;$023'327'28'8'4;$022'327'381;Ái da! Ngã liên tục▼làm tớ vẫn đau ê ẩm...
+talkfigs/0eng/data/0042#61.22#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Lần tới nhất định▼tớ sẽ tóm được hắn!
+talkfigs/0eng/data/0042#61.22#page:4	$024'327'5;$023'327'175'8'1;$022'327'342;Hả? Cậu giải quyết rồi sao?▼Chính cậu á, $500;?
+talkfigs/0eng/data/0042#61.22#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;Tớ tìm mãi không ra,▼vậy mà cậu đã xử lý xong!$079;
+talkfigs/0eng/data/0042#61.40#page:1	Cậu thấy hình thù lạ▼vừa xuất hiện trong $000'5;thị trấn$000'1; chưa?
+talkfigs/0eng/data/0042#61.40#page:2	Nghe nói đêm nọ,▼nó đột nhiên▼phát sáng rực rỡ.
+talkfigs/0eng/data/0042#61.40#page:4	Nếu cậu có mặt ở đó,▼biết đâu đã tìm ra▼ai vẽ nó rồi.
+talkfigs/0eng/data/0042#61.40#page:5	$024'327'3;$023'327'171'10'1;$022'327'304;Ước gì tớ được chứng kiến...$079;
+talkfigs/0eng/data/0042#61.41#page:1	Hóa ra $000'3;vòng tròn bí ẩn$000'1;▼chỉ phát sáng ban đêm.
+talkfigs/0eng/data/0042#61.41#page:2	$024'327'0;$023'327'178'10'1;$022'327'361;Rốt cuộc nó là gì nhỉ?
+talkfigs/0eng/data/0042#61.41#page:4	Không biết có liên quan▼đến ai ở $000'5;thị trấn$000'1; không.$079;
+talkfigs/0eng/data/0042#61.42#page:1	Tớ nghĩ hoa văn▼$000'3;vòng tròn bí ẩn$000'1;▼cứ đổi khác qua mỗi đêm.
+talkfigs/0eng/data/0042#61.42#page:2	Đến sáng là▼trông khác hẳn.
+talkfigs/0eng/data/0042#61.42#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Tớ rất muốn biết▼ai đứng sau vụ này.
+talkfigs/0eng/data/0042#61.42#page:5	$024'327'1;$023'327'173'6'2;$022'327'341;Lần tới cậu để mắt▼giúp tớ nhé, $500;?$079;
+talkfigs/0eng/data/0042#61.60#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Này, cậu nghe▼chuyện ở $000'5;bãi biển$000'1; chưa?
+talkfigs/0eng/data/0042#61.60#page:3	Có người nói đó là▼hiệp sĩ không đầu,▼người khác lại bảo không...
+talkfigs/0eng/data/0042#61.60#page:4	$024'327'5;$023'327'99'10'2;$022'327'303;Đồn ầm lên thế này,▼ai còn dám xuống▼$000'5;bãi biển$000'1; nữa!$079;
+talkfigs/0eng/data/0042#61.61#page:1	Cái đầu ở $000'5;bãi biển$000'1;▼có thân, nhưng thân bỏ chạy à?
+talkfigs/0eng/data/0042#61.61#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Tội nghiệp cái đầu.
+talkfigs/0eng/data/0042#61.61#page:4	$024'327'0;$023'327'1'4'0;Đầu là bộ phận▼quan trọng nhất,▼quyết định đủ mọi thứ...
+talkfigs/0eng/data/0042#61.61#page:5	vậy mà không có thân▼thì chẳng đi đâu được.
+talkfigs/0eng/data/0042#61.61#page:6	Có cái thân tự ý▼chạy lung tung,▼hẳn phiền lắm nhỉ.$079;
+talkfigs/0eng/data/0042#61.62#page:1	Đầu với thân▼vẫn còn giận nhau à?
+talkfigs/0eng/data/0042#61.62#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;À, làm hòa rồi sao?▼Tốt quá.
+talkfigs/0eng/data/0042#61.62#page:4	$024'327'0;$023'327'1'4'0;Lẽ ra tớ nên dạy cái đầu▼một chút phép ngôn ngữ nữa...
+talkfigs/0eng/data/0042#61.62#page:5	$024'327'1;$023'327'173'6'2;$022'327'341;nhưng bận quá trời.▼Thôi thì đành chịu vậy.$079;
+talkfigs/0eng/data/0042#61.80#page:1	$500;, cậu đây rồi!▼$000'3;Reginald$000'1; vừa tìm cậu đấy.
+talkfigs/0eng/data/0042#61.80#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;$500;, cậu▼làm gì sai à?▼Ông ấy giận dữ lắm!
+talkfigs/0eng/data/0042#61.80#page:4	$024'327'5;$023'327'99'10'2;$022'327'303;Tớ chưa thấy ông nổi nóng▼thế từ hôm bắt quả tang▼tớ ăn vụng đồ của ông!$079;
+talkfigs/0eng/data/0042#61.81#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu hỏi tớ chỗ tìm▼nấm đùi gà vua à?
+talkfigs/0eng/data/0042#61.81#page:2	$000'3;Manticore$000'1; đã ăn sạch▼gần hết $000'5;Rừng Nấm$000'1; rồi,▼còn nấm đâu mà tìm...
+talkfigs/0eng/data/0042#61.81#page:4	Nghĩ lại, hình như▼tớ thấy một cây dưới gốc cây▼gần $000'5;ký túc xá$000'1;?
+talkfigs/0eng/data/0042#61.81#page:5	Chẳng biết còn đó không,▼nhưng cậu cứ đến thử xem.$079;
+talkfigs/0eng/data/0042#61.82#page:1	Từ khi $000'3;Manticore$000'1;▼bỏ thói ích kỷ,▼$000'5;Rừng Nấm$000'1; lại yên bình.
+talkfigs/0eng/data/0042#61.82#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Giờ đi hái nấm▼cũng an toàn rồi.
+talkfigs/0eng/data/0042#61.82#page:4	$024'327'7;$023'327'177'10'1;Hả? Tớ có sợ▼$000'3;Manticore$000'1; không á?
+talkfigs/0eng/data/0042#61.82#page:5	$024'327'5;$023'327'170'10'1;$022'327'301;K-Không đời nào!▼Ý tớ là đến đó làm gì▼nếu chẳng còn nấm...
+talkfigs/0eng/data/0042#61.82#page:6	$024'327'7;$023'327'177'10'1;$022'327'400;Đừng hỏi mấy câu▼ngớ ngẩn nữa!$079;
+talkfigs/0eng/data/0042#62.0#page:1	$500;, cậu thấy▼con chim khổng lồ ấy chưa?
+talkfigs/0eng/data/0042#62.0#page:2	Nghe nói nó là $000'3;Griffin$000'1;!
+talkfigs/0eng/data/0042#62.0#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Trông nó tức giận lắm!▼Không biết đã có▼chuyện gì với nó...
+talkfigs/0eng/data/0042#62.0#page:5	$024'327'5;$023'327'170'10'1;$022'327'301;Tớ á? Tớ vô tội nhé!$079;
+talkfigs/0eng/data/0042#62.1#page:1	$000'3;Charlie$000'1; dạo này▼cứ vui như mở hội!
+talkfigs/0eng/data/0042#62.1#page:2	Nghe đâu cậu ấy▼đang kiếm tiền từ quả mọng.
+talkfigs/0eng/data/0042#62.1#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;Mừng quá! Thường ngày▼cậu ta chỉ biết mất tiền...
+talkfigs/0eng/data/0042#62.1#page:5	$024'327'1;$023'327'173'6'2;$022'327'341;Cuối cùng tiền cũng▼chịu chảy vào túi cậu ấy!$079;
+talkfigs/0eng/data/0042#62.2#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Ôi, cậu dám đối đầu▼với $000'3;Đội trưởng Dot$000'1; sao?
+talkfigs/0eng/data/0042#62.2#page:2	Nghe đồn cậu▼đánh hắn te tua luôn!
+talkfigs/0eng/data/0042#62.2#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Cậu giỏi hơn tớ tưởng,▼$500;!
+talkfigs/0eng/data/0042#62.2#page:5	$024'327'0;$023'327'1'4'0;Chẳng cần thương hại▼$000'3;Dot$000'1; đâu!
+talkfigs/0eng/data/0042#62.2#page:6	Cuối cùng hắn cũng▼nếm mùi bị trị rồi!$079;
+talkfigs/0eng/data/0042#62.20#page:1	$024'327'0;$023'327'1'4'0;Nghe nói dạo này▼có kẻ lẻn vào $000'5;trường$000'1;...
