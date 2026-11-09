@@ -1,0 +1,152 @@
+﻿tep,key,english,machine,new,max,len,status
+F_MENU_THONG_BAO_01.csv,game|27|0,New Game,Game Mới,Chơi mới,9,8,SUA
+F_MENU_THONG_BAO_01.csv,game|47|0,First Tag,Tag Đầu Tiên,Đội đầu tiên,14,12,SUA
+F_MENU_THONG_BAO_01.csv,game|201|0,Single Duel,Duel Đơn,Đấu đơn,13,7,SUA
+F_MENU_THONG_BAO_01.csv,game|202|0,Match 1st round,Match Vòng 1,Ván thứ nhất,17,12,SUA
+F_MENU_THONG_BAO_01.csv,game|203|0,Match 2nd round,Match Vòng 2,Ván thứ hai,17,11,SUA
+F_MENU_THONG_BAO_01.csv,game|204|0,Match 3rd round,Match Vòng 3,Ván thứ ba,17,10,SUA
+F_MENU_THONG_BAO_01.csv,game|207|0,Select your hand.,Chọn tay chơi của bạn.,Chọn tay của bạn.,25,17,SUA
+F_MENU_THONG_BAO_01.csv,game|224|0,Duel Settings,Thiết Lập Duel,Thiết lập đấu,16,13,SUA
+F_MENU_THONG_BAO_01.csv,game|226|0,SINGLE DUEL,DUEL ĐƠN,ĐẤU ĐƠN,13,7,SUA
+F_MENU_THONG_BAO_01.csv,game|227|0,MATCH DUEL,DUEL MATCH,ĐẤU 3 VÁN,12,9,SUA
+F_MENU_THONG_BAO_01.csv,game|236|0,Opponent selecting Deck...,Đối Thủ Đang Chọn Deck...,Đối Thủ Đang Chọn Bộ bài...,29,27,SUA
+F_MENU_THONG_BAO_01.csv,game|243|0,Deck Name,Tên Deck,Tên Bộ bài,10,10,SUA
+F_MENU_THONG_BAO_01.csv,game|244|0,Enter Deck name.,Nhập tên Deck.,Nhập tên Bộ bài.,18,16,SUA
+F_MENU_THONG_BAO_01.csv,game|255|0,Enter a Tag Team name.,Nhập tên Tag Team.,Đặt tên đội đấu đôi.,25,20,SUA
+F_MENU_THONG_BAO_01.csv,game|296|0,ALL MONSTERS,TẤT CẢ MONSTER,TẤT CẢ QUÁI THÚ,16,15,SUA
+F_MENU_THONG_BAO_01.csv,game|297|0,ALL SPELLS,TẤT CẢ SPELL,TẤT CẢ PHÉP,14,11,SUA
+F_MENU_THONG_BAO_01.csv,game|298|0,ALL TRAPS,TẤT CẢ TRAP,TẤT CẢ BẪY,13,10,SUA
+F_MENU_THONG_BAO_01.csv,game|301|0,Change Deck Name,Đổi Tên Deck,Đổi tên Bộ bài,18,14,SUA
+F_MENU_THONG_BAO_01.csv,game|302|0,Reset Deck,Đặt Lại Deck,Đặt lại Bộ bài,14,14,SUA
+F_MENU_THONG_BAO_01.csv,game|303|0,Delete Deck,Xóa Deck,Xóa Bộ bài,13,10,SUA
+F_MENU_THONG_BAO_01.csv,game|570|0,No Icon,Không icon,Không hình,12,10,SUA
+F_MENU_THONG_BAO_01.csv,game|669|0,Other Summons,Summon khác,Triệu hồi khác,15,14,SUA
+F_MENU_THONG_BAO_01.csv,game|687|0,Game System,Hệ thống game,Hệ thống,15,8,SUA
+F_MENU_THONG_BAO_01.csv,game|965|0,Duel against friend,Duel với bạn bè,Đấu với bạn bè,21,14,SUA
+F_MENU_THONG_BAO_01.csv,game|973|0,Ranked Duel,Duel xếp hạng,Đấu xếp hạng,15,12,SUA
+F_MENU_THONG_BAO_01.csv,game|974|0,Practice Duel,Duel luyện tập,Đấu luyện tập,16,13,SUA
+F_MENU_THONG_BAO_01.csv,game|979|0,"Because you turned off the power during a Duel, you lost some DP and your rating went down.",Vì bạn tắt nguồn giữa lúc Duel nên bạn bị mất một số DP và điểm rating bị giảm.,Vì bạn tắt nguồn giữa lúc đấu bài nên bạn bị mất một số DP và điểm xếp hạng bị giảm.,101,84,SUA
+F_MENU_THONG_BAO_01.csv,game|980|0,Duel Type,Loại Duel,Loại đấu,10,8,SUA
+F_MENU_THONG_BAO_01.csv,game|985|0,Single Duel,Duel Đơn,Đấu đơn,13,7,SUA
+F_MENU_THONG_BAO_01.csv,game|986|0,Match Duel,Duel Match,Đấu 3 ván,12,9,SUA
+F_MENU_THONG_BAO_01.csv,game|991|0,Equal rating,Rating tương đương,Cùng hạng,20,9,SUA
+F_MENU_THONG_BAO_01.csv,game|992|0,Random rating,Rating ngẫu nhiên,Hạng ngẫu nhiên,19,15,SUA
+F_MENU_THONG_BAO_01.csv,game|1004|0,To Deck,Vào Deck,Vào Bộ,9,6,SUA
+F_MENU_THONG_BAO_01.csv,game|1005|0,To Side Deck,Vào Side Deck,Vào Bộ bài phụ,15,14,SUA
+F_MENU_THONG_BAO_01.csv,game|1006|0,To Fusion Deck,Vào Fusion Deck,Vào Bộ Dung hợp,17,15,SUA
+F_MENU_THONG_BAO_01.csv,game|1010|0,Change to ON,Đổi sang ON,Bật,14,3,SUA
+F_MENU_THONG_BAO_01.csv,game|1011|0,Change to OFF,Đổi sang OFF,Tắt,15,3,SUA
+F_MENU_THONG_BAO_01.csv,game|1012|0,From Trunk to Deck,Từ Kho vào Deck,Kho bài sang Bộ bài,20,19,SUA
+F_MENU_THONG_BAO_01.csv,game|1013|0,From Trunk to Side Deck,Từ Kho vào Side Deck,Kho sang Bộ bài phụ,26,19,SUA
+F_MENU_THONG_BAO_01.csv,game|1014|0,From Trunk to Fusion Deck,Từ Kho vào Fusion Deck,Kho sang Bộ Dung hợp,28,20,SUA
+F_MENU_THONG_BAO_01.csv,game|1015|0,From Deck to Trunk,Từ Deck về Kho,Bộ bài về Kho,20,13,SUA
+F_MENU_THONG_BAO_01.csv,game|1016|0,From Deck to Side Deck,Từ Deck vào Side Deck,Bộ bài sang Bộ phụ,25,18,SUA
+F_MENU_THONG_BAO_01.csv,game|1017|0,From Side Deck to Trunk,Từ Side Deck về Kho,Bộ phụ về Kho,26,13,SUA
+F_MENU_THONG_BAO_01.csv,game|1018|0,From Side Deck to Deck,Từ Side Deck vào Deck,Bộ phụ sang Bộ bài,25,18,SUA
+F_MENU_THONG_BAO_01.csv,game|1019|0,From Fusion Deck to Trunk,Từ Fusion Deck về Kho,Bộ Dung hợp về Kho,28,18,SUA
+F_MENU_THONG_BAO_01.csv,game|1035|0,ON only,Chỉ ON,Chỉ bật,8,7,SUA
+F_MENU_THONG_BAO_01.csv,game|1036|0,OFF only,Chỉ OFF,Chỉ tắt,9,7,SUA
+F_MENU_THONG_BAO_01.csv,game|1046|0,All Monsters,Mọi Monster,Mọi quái thú,14,12,SUA
+F_MENU_THONG_BAO_01.csv,game|1062|0,Recover Life Points,Hồi phục Life Points,Hồi LP,23,6,SUA
+F_MENU_THONG_BAO_01.csv,game|1063|0,Reduce Life Points,Giảm Life Points,Giảm LP,20,7,SUA
+F_MENU_THONG_BAO_01.csv,game|1067|0,Cannot perform\nNormal Summon,Không thể\nNormal Summon,Không thể\nTriệu hồi Thường,31,27,SUA
+F_MENU_THONG_BAO_01.csv,game|1068|0,Search Deck,Tìm trong Deck,Tìm trong Bộ bài,16,16,SUA
+F_MENU_THONG_BAO_01.csv,game|1069|0,Recover cards\nfrom Graveyard,Lấy lá bài\ntừ Graveyard,Lấy bài\ntừ Mộ,31,14,SUA
+F_MENU_THONG_BAO_01.csv,game|1070|0,Destroy monster,Phá hủy monster,Phá hủy quái thú,17,16,SUA
+F_MENU_THONG_BAO_01.csv,game|1071|0,Destroy Spell/Trap,Phá hủy Spell/Trap,Phá hủy Phép/Bẫy,20,16,SUA
+F_MENU_THONG_BAO_01.csv,game|1083|0,Gamble,Đánh bạc,May rủi,9,7,SUA
+F_MENU_THONG_BAO_01.csv,game|1096|0,Deck destruction,Phá Deck,Phá Bộ bài,18,10,SUA
+F_MENU_THONG_BAO_01.csv,game|1100|0,Deck Menu,Menu Deck,Bộ bài,10,6,SUA
+F_MENU_THONG_BAO_01.csv,game|1101|0,Save Recipe,Lưu Recipe,Lưu công thức,13,13,SUA
+F_MENU_THONG_BAO_01.csv,game|1102|0,Read Recipe,Đọc Recipe,Đọc công thức,13,13,SUA
+F_MENU_THONG_BAO_01.csv,game|1103|0,Delete 1 Recipe,Xóa 1 Recipe,Xóa một công thức,17,17,SUA
+F_MENU_THONG_BAO_01.csv,game|1104|0,Change Recipe Name,Đổi tên Recipe,Đổi tên công thức,20,17,SUA
+F_MENU_THONG_BAO_01.csv,game|1105|0,Empty Deck,Làm trống Deck,Làm trống Bộ bài,16,16,SUA
+F_MENU_THONG_BAO_01.csv,game|1106|0,Reset Deck,Đặt Lại Deck,Đặt lại Bộ bài,14,14,SUA
+F_MENU_THONG_BAO_01.csv,game|1107|0,Edit Deck to fit Ltd Card Lst,Chỉnh Deck theo Ltd Card Lst,Sửa theo DS Cấm/Giới hạn,32,24,SUA
+F_MENU_THONG_BAO_01.csv,game|1108|0,Change Deck Name,Đổi tên Deck,Đổi tên Bộ bài,18,14,SUA
+F_MENU_THONG_BAO_01.csv,game|1109|0,Save Recipe,Lưu Recipe,Lưu công thức,13,13,SUA
+F_MENU_THONG_BAO_01.csv,game|1110|0,Read Recipe,Đọc Recipe,Đọc công thức,13,13,SUA
+F_MENU_THONG_BAO_01.csv,game|1111|0,Delete Recipe,Xóa Recipe,Xóa công thức,15,13,SUA
+F_MENU_THONG_BAO_01.csv,game|1112|0,Change Recipe Name,Đổi tên Recipe,Đổi tên công thức,20,17,SUA
+F_MENU_THONG_BAO_01.csv,game|1114|0,Send Recipe,Gửi Recipe,Gửi công thức,13,13,SUA
+F_MENU_THONG_BAO_01.csv,game|1115|0,Receive Recipe,Nhận Recipe,Nhận công thức,16,14,SUA
+F_MENU_THONG_BAO_01.csv,game|1116|0,Select Recipe,Chọn Recipe,Chọn công thức,15,14,SUA
+F_MENU_THONG_BAO_01.csv,game|1119|0,My Recipe,Recipe của tôi,Công thức riêng,16,15,SUA
+F_MENU_THONG_BAO_02.csv,game|1120|0,Sample Recipe,Recipe mẫu,Công thức mẫu,15,13,SUA
+F_MENU_THONG_BAO_02.csv,game|1122|0,Your Deck may contain up to 3 copies of the same card.,Deck của bạn có thể chứa tối đa 3 bản sao của cùng một lá bài.,Bộ bài được có tối đa 3 bản của cùng một lá.,69,44,SUA
+F_MENU_THONG_BAO_02.csv,game|1123|0,"The number of copies of \n""%s""\nexceeds the number permitted by the current Forbidden/Limited Card List.","Số bản sao của \n""%s""\nvượt quá số lượng cho phép theo Forbidden/Limited Card List hiện tại.","Số lượng lá\n""%s""\nvượt quá Danh sách Cấm/Giới hạn hiện tại.",113,60,SUA
+F_MENU_THONG_BAO_02.csv,game|1124|0,Your Deck contains less than 40 cards.,Deck của bạn có ít hơn 40 lá bài.,Bộ bài của bạn chưa đủ 40 lá.,42,29,SUA
+F_MENU_THONG_BAO_02.csv,game|1125|0,Your Deck may contain up to 80 cards.,Deck của bạn có thể chứa tối đa 80 lá bài.,Bộ bài được có tối đa 80 lá.,47,28,SUA
+F_MENU_THONG_BAO_02.csv,game|1126|0,Your Side Deck may contain up to 15 cards.,Side Deck của bạn có thể chứa tối đa 15 lá bài.,Bộ bài phụ được có tối đa 15 lá.,52,32,SUA
+F_MENU_THONG_BAO_02.csv,game|1127|0,Your Fusion Deck may contain up to 30 cards.,Fusion Deck của bạn có thể chứa tối đa 30 lá bài.,Bộ Dung hợp được có tối đa 30 lá.,54,33,SUA
+F_MENU_THONG_BAO_02.csv,game|1128|0,Overwrite Recipe. OK?,Ghi đè Recipe. OK?,Ghi đè công thức?,24,17,SUA
+F_MENU_THONG_BAO_02.csv,game|1129|0,Save Recipe. OK?,Lưu Recipe. OK?,Lưu công thức?,18,14,SUA
+F_MENU_THONG_BAO_02.csv,game|1131|0,Read Recipe. OK?,Đọc Recipe. OK?,Đọc công thức?,18,14,SUA
+F_MENU_THONG_BAO_02.csv,game|1132|0,Delete Recipe. OK?,Xóa Recipe. OK?,Xóa công thức?,20,14,SUA
+F_MENU_THONG_BAO_02.csv,game|1137|0,Return to the previous screen without saving Recipe. OK?,Quay lại màn hình trước mà không lưu Recipe. OK?,Quay lại mà không lưu công thức. Đồng ý?,62,40,SUA
+F_MENU_THONG_BAO_02.csv,game|1138|0,Empty Deck. OK?,Làm trống Deck. OK?,Xóa hết bài?,21,12,SUA
+F_MENU_THONG_BAO_02.csv,game|1139|0,Reset Deck. OK?,Đặt Lại Deck. Đồng Ý?,Đặt lại Bộ bài. Đồng ý?,24,23,SUA
+F_MENU_THONG_BAO_02.csv,game|1140|0,Change the contents of your Deck to fit the current Forbidden/Limited Card List limits. OK?,Đổi nội dung Deck cho phù hợp giới hạn của Forbidden/Limited Card List hiện tại. OK?,Sửa Bộ bài theo Danh sách Cấm/Giới hạn. Đồng ý?,101,47,SUA
+F_MENU_THONG_BAO_02.csv,game|1141|0,Your Deck fits the current Forbidden/Limited Card List limits.,Deck của bạn phù hợp giới hạn của Forbidden/Limited Card List hiện tại.,Bộ bài đáp ứng Danh sách Cấm/Giới hạn.,79,38,SUA
+F_MENU_THONG_BAO_02.csv,game|1146|0,Can exchange cards w/your Side Deck.,Có thể đổi lá với Side Deck.,Có thể đổi bài với Bộ phụ.,40,26,SUA
+F_MENU_THONG_BAO_02.csv,game|1147|0,Move %s cards to your Deck.,Chuyển %s lá vào Deck.,Chuyển %s lá vào Bộ bài.,30,24,SUA
+F_MENU_THONG_BAO_02.csv,game|1148|0,Move %s cards to your Side Deck.,Chuyển %s lá vào Side Deck.,Chuyển %s lá vào Bộ phụ.,36,24,SUA
+F_MENU_THONG_BAO_02.csv,game|1149|0,Exchange cards with Side Deck,Đổi lá với Side Deck,Đổi bài với Bộ bài phụ,32,22,SUA
+F_MENU_THONG_BAO_02.csv,game|1151|0,Finish exchanging cards with the Side Deck. OK?,Kết thúc đổi lá với Side Deck. OK?,Đổi bài với Bộ phụ xong. Đồng ý?,52,32,SUA
+F_MENU_THONG_BAO_02.csv,game|1152|0,The Deck must contain the same amount of cards after the exchange as it had before the exchange.,"Sau khi đổi, Deck phải có số lá bài bằng trước khi đổi.","Sau khi đổi, Bộ bài phải có số lá như ban đầu.",106,46,SUA
+F_MENU_THONG_BAO_02.csv,game|1153|0,Time up. Exchange has been canceled and Deck reset.,Hết giờ. Đã hủy việc đổi lá và Deck được reset.,Hết giờ. Hủy đổi bài và khôi phục Bộ bài.,57,41,SUA
+F_MENU_THONG_BAO_02.csv,game|1162|0,My Hero,Hero của tôi,Người hùng,14,10,SUA
+F_MENU_THONG_BAO_02.csv,game|1163|0,Exit Deck Construction?,Thoát Xây dựng Deck?,Thoát sửa Bộ bài?,26,17,SUA
+F_MENU_THONG_BAO_02.csv,game|1165|0,All Forbidden/Limited Cards,Mọi lá Forbidden/Limited,Tất cả bài Cấm/Giới hạn,30,23,SUA
+F_MENU_THONG_BAO_02.csv,game|1166|0,Forbidden Cards,Lá Forbidden,Lá bài bị Cấm,17,13,SUA
+F_MENU_THONG_BAO_02.csv,game|1167|0,Limited Cards,Lá Limited,Lá bài Giới hạn,15,15,SUA
+F_MENU_THONG_BAO_02.csv,game|1168|0,Semi-Limited Cards,Lá Semi-Limited,Lá bài Bán giới hạn,20,19,SUA
+F_MENU_THONG_BAO_02.csv,game|1169|0,Change Forbidden/Limited Card List,Đổi Forbidden/Limited Card List,Đổi DS Cấm/Giới hạn,38,19,SUA
+F_MENU_THONG_BAO_02.csv,game|1170|0,Save Forbidden/Limited Card List,Lưu Forbidden/Limited Card List,Lưu DS Cấm/Giới hạn,36,19,SUA
+F_MENU_THONG_BAO_02.csv,game|1171|0,Delete Forbidden/Limited Card List,Xóa Forbidden/Limited Card List,Xóa DS Cấm/Giới hạn,38,19,SUA
+F_MENU_THONG_BAO_02.csv,game|1172|0,Change Forbidden/Limited Card List name,Đổi tên Forbidden/Limited Card List,Đổi tên DS Cấm/Giới hạn,43,23,SUA
+F_MENU_THONG_BAO_02.csv,game|1173|0,Change Forbidden/Limited Card List. OK?,Đổi Forbidden/Limited Card List. OK?,Đổi DS Cấm/Giới hạn. Đồng ý?,43,28,SUA
+F_MENU_THONG_BAO_02.csv,game|1174|0,This is the current Forbidden/Limited Card List.,Đây là Forbidden/Limited Card List hiện tại.,Đây là DS Cấm/Giới hạn hiện tại.,53,32,SUA
+F_MENU_THONG_BAO_02.csv,game|1175|0,Overwrite Forbidden/Limited Card List. OK?,Ghi đè Forbidden/Limited Card List. OK?,Ghi đè DS Cấm/Giới hạn. Đồng ý?,47,31,SUA
+F_MENU_THONG_BAO_02.csv,game|1176|0,Save Forbidden/Limited Card List. OK?,Lưu Forbidden/Limited Card List. OK?,Lưu DS Cấm/Giới hạn. Đồng ý?,41,28,SUA
+F_MENU_THONG_BAO_02.csv,game|1177|0,Return to the previous screen without saving the Forbidden/Limited Card List. OK?,Quay lại màn hình trước mà không lưu Forbidden/Limited Card List. OK?,Quay lại mà không lưu DS Cấm/Giới hạn. Đồng ý?,90,46,SUA
+F_MENU_THONG_BAO_02.csv,game|1180|0,Delete Forbidden/Limited Card List. OK?,Xóa Forbidden/Limited Card List. OK?,Xóa DS Cấm/Giới hạn. Đồng ý?,43,28,SUA
+F_MENU_THONG_BAO_02.csv,game|1181|0,"The number of copies of \n""%s""\nexceeds the number permitted by the current Forbidden/Limited Card List.OK?","Số bản sao của \n""%s""\nvượt quá số lượng cho phép theo Forbidden/Limited Card List hiện tại.OK?","Số lượng lá\n""%s""\nvượt mức cho phép của DS Cấm/Giới hạn. Đồng ý?",116,65,SUA
+F_MENU_THONG_BAO_02.csv,game|1185|0,Won %d/%d duels,Thắng %d/%d duel,Thắng %d/%d trận,18,16,SUA
+F_MENU_THONG_BAO_02.csv,game|1186|0,Win Ratio:%d.%d%%,Tỉ lệ thắng:%d.%d%%,Tỷ lệ thắng: %d.%d%%,21,20,SUA
+F_MENU_THONG_BAO_02.csv,game|1213|0,You can only give 1 card.,Bạn chỉ có thể tăng 1 lá bài.,Bạn chỉ có thể tặng một lá.,32,27,SUA
+F_MENU_THONG_BAO_02.csv,game|1251|0,Select a Structure Deck.,Chọn một Structure Deck.,Chọn một Bộ bài cấu trúc.,27,25,SUA
+F_MENU_THONG_BAO_02.csv,game|1327|0,List for Spring 2006,List mùa Xuân 2006,DS mùa Xuân 2006,23,16,SUA
+F_MENU_THONG_BAO_02.csv,game|1328|0,List for Summer 2006,List mùa Hạ 2006,DS mùa Hạ 2006,23,14,SUA
+F_MENU_THONG_BAO_02.csv,game|1329|0,List for Fall 2006,List mùa Thu 2006,DS mùa Thu 2006,20,15,SUA
+F_MENU_THONG_BAO_02.csv,game|1330|0,List for Winter 2006,List mùa Đông 2006,DS mùa Đông 2006,23,16,SUA
+F_MENU_THONG_BAO_02.csv,game|1367|0,No Forb/Ltd Card List,Không dùng Forb/Ltd Card List,Không dùng DS Cấm/Giới hạn,32,26,SUA
+F_MENU_THONG_BAO_02.csv,game|1368|0,Forb/Ltd Card Lists,Các Forb/Ltd Card List,Các DS Cấm/Giới hạn,25,19,SUA
+F_MENU_THONG_BAO_02.csv,game|1373|0,Password Lists,Các Password List,Danh sách mật khẩu,19,18,SUA
+F_MENU_THONG_BAO_02.csv,game|1378|0,Special Lists,Các Special List,Danh sách đặc biệt,18,18,SUA
+F_MENU_THONG_BAO_02.csv,game|1383|0,Treat Ltd as Forb,Coi Ltd như Forb,Giới hạn = Cấm,19,14,SUA
+F_MENU_THONG_BAO_02.csv,game|1384|0,Up to 1 Forb Card,Tối đa 1 lá Forb,Tối đa 1 lá Cấm,19,15,SUA
+F_MENU_THONG_BAO_02.csv,game|1641|0,"When you update Nintendo Wi-Fi Connection User Information, you get a new Friend Code. Make sure to give your new Friend Code to your friends so that they can register it.","Khi cập nhật Thông tin người dùng Nintendo Wi-Fi Connection, bạn sẽ có Friend Code mới. Hãy gửi Friend Code mới cho bạn bè để họ đăng ký lại.","Khi cập nhật Thông tin người dùng Nintendo Wi-Fi Connection, bạn sẽ có mã bạn bè mới. Hãy gửi mã bạn bè mới cho bạn bè để họ đăng ký lại.",189,137,SUA
+F_MENU_THONG_BAO_02.csv,game|1644|0,Searching for opponent...\nPlease wait.,Đang tìm Opponent...\nVui lòng đợi.,Đang tìm đối thủ...\nVui lòng đợi.,42,34,SUA
+F_MENU_THONG_BAO_02.csv,game|1647|0,You've been cancelled.,Bạn đã bị hủy.,Đối thủ đã hủy.,25,15,SUA
+F_MENU_THONG_BAO_02.csv,game|1655|0,Unable to register.\r\nCheck the Friend Code.,Không thể đăng ký.\r\nKiểm tra Friend Code.,Không thể đăng ký.\r\nKiểm tra mã bạn bè.,48,41,SUA
+F_MENU_THONG_BAO_02.csv,game|1656|0,"You do not have a Friend Code.\nWhen you connect to Nintendo\r\nWi-Fi Connection, a Friend Code will be made for you.","Bạn chưa có Friend Code.\nKhi kết nối tới Nintendo\r\nWi-Fi Connection, Friend Code sẽ được tạo cho bạn.","Bạn chưa có mã bạn bè.\nKhi kết nối tới Nintendo\r\nWi-Fi Connection, mã bạn bè sẽ được tạo cho bạn.",126,100,SUA
+F_MENU_THONG_BAO_02.csv,game|1657|0,You cannot input Friend Code.\nYou must first connect to Nintendo Wi-Fi Connection.,Bạn không thể nhập Friend Code.\nTrước tiên phải kết nối tới Nintendo Wi-Fi Connection.,Bạn không thể nhập mã bạn bè.\nTrước tiên phải kết nối tới Nintendo Wi-Fi Connection.,95,85,SUA
+F_MENU_THONG_BAO_02.csv,game|1712|0,Check/Input Friend Code,Xem/Nhập Friend Code,Xem/Nhập mã bạn bè,26,18,SUA
+F_MENU_THONG_BAO_02.csv,game|1713|0,Recorded Friend Code.,Đã lưu Friend Code.,Đã lưu mã bạn bè.,24,17,SUA
+F_MENU_THONG_BAO_02.csv,game|1714|0,The Friend Code you entered is already recorded.,Friend Code bạn nhập đã được lưu trước đó.,Mã bạn bè bạn nhập đã được lưu trước đó.,53,40,SUA
+F_MENU_THONG_BAO_02.csv,game|1718|0,Your Friend Code,Friend Code của bạn,Mã bạn bè của bạn,21,17,SUA
+F_MENU_THONG_BAO_02.csv,game|1719|0,Friend Code mid-input,Friend Code đăng nhập,Mã bạn bè đang nhập,24,19,SUA
+F_MENU_THONG_BAO_02.csv,game|1722|0,Input Friend Code,Nhập Friend Code,Nhập mã bạn bè,19,14,SUA
+F_MENU_THONG_BAO_02.csv,game|1723|0,You can check Friend Codes and input new Friend Codes.,Bạn có thể xem Friend Code và nhập Friend Code mới.,Bạn có thể xem mã bạn bè và nhập mã bạn bè mới.,60,47,SUA
+F_MENU_THONG_BAO_02.csv,game|1726|0,"If there is no Nintendo Wi-Fi Connection, you cannot check or input Friend Codes.","Nếu không có Nintendo Wi-Fi Connection, bạn không thể xem hoặc nhập Friend Code.","Nếu không có Nintendo Wi-Fi Connection, bạn không thể xem hoặc nhập mã bạn bè.",90,78,SUA
+F_MENU_THONG_BAO_02.csv,game|1734|0,School Lv.,Lv. Học viên,Cấp học viên,14,12,SUA
+F_MENU_THONG_BAO_02.csv,game|1736|0,Next level,Level kế tiếp,Cấp tiếp theo,15,13,SUA
+F_MENU_THONG_BAO_02.csv,game|1743|0,Duelist Info,Thông tin Duelist,Thông tin đấu thủ,19,17,SUA
+F_MENU_THONG_BAO_02.csv,game|1746|0,There is no duelist info.,Không có thông tin Duelist.,Không có thông tin đấu thủ.,30,27,SUA
+F_MENU_THONG_BAO_02.csv,game|1902|0,Brown jumper,Áo jumper nâu,Áo len nâu,15,10,SUA
+F_MENU_THONG_BAO_02.csv,game|1910|0,Moonlight,Ánh trắng,Ánh trăng,10,9,SUA
+F_MENU_THONG_BAO_02.csv,game|1911|0,Night Light,Đèn ngủ,Ánh đèn đêm,13,11,SUA
+F_MENU_THONG_BAO_02.csv,game|2021|0,Don't Assume,Đúng chủ quan,Đừng chủ quan,15,13,SUA
+F_MENU_THONG_BAO_02.csv,game|2022|0,Close Call,Suýt soát,Thoát hiểm,12,10,SUA

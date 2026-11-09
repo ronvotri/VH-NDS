@@ -1,0 +1,251 @@
+﻿key,ten_la_bai_EN,tieng_Anh,tieng_Viet_hien_tai,toi_da_ky_tu,tieng_Viet_MOI
+game|21|0,,Japanese,Tiếng Nhật,12,Tiếng Nhật
+game|22|0,,English,Tiếng Anh,10,Tiếng Anh
+game|23|0,,German,Tiếng Đức,10,Tiếng Đức
+game|24|0,,French,Tiếng Pháp,12,Tiếng Pháp
+game|25|0,,Italian,Tiếng Ý,8,Tiếng Ý
+game|26|0,,Spanish,Tiếng Tây Ban Nha,19,Tiếng Tây Ban Nha
+game|27|0,,New Game,Game Mới,9,Chơi mới
+game|28|0,,Continue,Tiếp Tục,9,Tiếp Tục
+game|29|0,,YES,CÓ,4,CÓ
+game|30|0,,NO,KHÔNG,6,KHÔNG
+game|32|0,,Cancel,Hủy,7,Hủy
+game|33|0,,Win,Thắng,6,Thắng
+game|34|0,,Lose,Thua,5,Thua
+game|37|0,,YES,CÓ,4,CÓ
+game|38|0,,NO,KHÔNG,6,KHÔNG
+game|45|0,,Initializing Data...,Đang Khởi Tạo Dữ Liệu...,27,Đang Khởi Tạo Dữ Liệu...
+game|46|0,,Saving Data...,Đang Lưu Dữ Liệu...,21,Đang Lưu Dữ Liệu...
+game|47|0,,First Tag,Tag Đầu Tiên,14,Đội đầu tiên
+game|51|0,,You,Bạn,4,Bạn
+game|201|0,,Single Duel,Duel Đơn,13,Đấu đơn
+game|202|0,,Match 1st round,Match Vòng 1,17,Ván thứ nhất
+game|203|0,,Match 2nd round,Match Vòng 2,17,Ván thứ hai
+game|204|0,,Match 3rd round,Match Vòng 3,17,Ván thứ ba
+game|205|0,,FIRST TO GO,ĐI TRƯỚC,13,ĐI TRƯỚC
+game|206|0,,SECOND TO GO,ĐI SAU,14,ĐI SAU
+game|207|0,,Select your hand.,Chọn tay chơi của bạn.,25,Chọn tay của bạn.
+game|208|0,,Select who goes first.,Chọn ai đi trước.,25,Chọn ai đi trước.
+game|211|0,,Receiving...,Đang Nhận...,14,Đang Nhận...
+game|212|0,,Transmitting...,Đang Gửi...,17,Đang Gửi...
+game|213|0,,Connecting...,Đang Kết Nối...,17,Đang Kết Nối...
+game|214|0,,Disconnected,Đã Ngắt Kết Nối,17,Đã Ngắt Kết Nối
+game|215|0,,Receiving card...,Đang Nhận Lá Bài...,21,Đang Nhận Lá Bài...
+game|216|0,,"You got %d copie(s) of ""%s"".","Bạn đã nhận %d lá ""%s"".",31,"Bạn đã nhận %d lá ""%s""."
+game|217|0,,has sent request.,đã gửi yêu cầu.,19,đã gửi yêu cầu.
+game|218|0,,Accept request?,Chấp nhận yêu cầu?,20,Chấp nhận yêu cầu?
+game|220|0,,Searching for opponent...,Đang Tìm Đối Thủ...,28,Đang Tìm Đối Thủ...
+game|221|0,,Select opponent...,Chọn Đối Thủ...,20,Chọn Đối Thủ...
+game|222|0,,Waiting for opponent...,Đang Chờ Đối Thủ...,26,Đang Chờ Đối Thủ...
+game|223|0,,Waiting for response...,Đang Chờ Phản Hồi...,26,Đang Chờ Phản Hồi...
+game|224|0,,Duel Settings,Thiết Lập Duel,16,Thiết lập đấu
+game|225|0,,Select action from menu.,Chọn hành động từ menu.,27,Chọn hành động từ menu.
+game|226|0,,SINGLE DUEL,DUEL ĐƠN,13,ĐẤU ĐƠN
+game|227|0,,MATCH DUEL,DUEL MATCH,12,ĐẤU 3 VÁN
+game|228|0,,CARD TRADE,TRAO ĐỔI LÁ BÀI,17,TRAO ĐỔI LÁ BÀI
+game|229|0,,Send Recipe,Gửi Công Thức,15,Gửi Công Thức
+game|230|0,,Receive Recipe,Nhận Công Thức,16,Nhận Công Thức
+game|231|0,,Voice chat,Trò Chuyện Thoại,18,Trò Chuyện Thoại
+game|232|0,,Saving Data...,Đang Lưu Dữ Liệu...,21,Đang Lưu Dữ Liệu...
+game|233|0,,Please wait...,Vui Lòng Chờ...,17,Vui Lòng Chờ...
+game|234|0,,Opponent selecting menu...,Đối Thủ Đang Chọn Menu...,29,Đối Thủ Đang Chọn Menu...
+game|235|0,,Selection complete.,Đã Chọn Xong.,21,Đã Chọn Xong.
+game|236|0,,Opponent selecting Deck...,Đối Thủ Đang Chọn Deck...,29,Đối Thủ Đang Chọn Bộ bài...
+game|237|0,,Selection complete.,Đã Chọn Xong.,21,Đã Chọn Xong.
+game|238|0,,Select cards to trade.,Chọn lá bài để trao đổi.,27,Chọn lá bài để trao đổi.
+game|241|0,,Your Name,Tên Của Bạn,13,Tên Của Bạn
+game|242|0,,Enter your name.,Nhập tên của bạn.,19,Nhập tên của bạn.
+game|243|0,,Deck Name,Tên Deck,10,Tên Bộ bài
+game|244|0,,Enter Deck name.,Nhập tên Deck.,18,Nhập tên Bộ bài.
+game|245|0,,City Name,Tên Thành Phố,15,Tên Thành Phố
+game|246|0,,Enter city name.,Nhập tên thành phố.,21,Nhập tên thành phố.
+game|250|0,,That name cannot be used in this game.,Tên này không thể sử dụng trong game này.,46,Tên này không thể sử dụng trong game này.
+game|251|0,,Recipe Name,Tên Công Thức,15,Tên Công Thức
+game|252|0,,Enter recipe name.,Nhập tên công thức.,21,Nhập tên công thức.
+game|254|0,,DEL,XÓA,4,XÓA
+game|255|0,,Enter a Tag Team name.,Nhập tên Tag Team.,25,Đặt tên đội đấu đôi.
+game|256|0,,"Connect to ""NIGHTMARE TROUBADOUR""","Kết nối với ""NIGHTMARE TROUBADOUR""",38,"Kết nối với ""NIGHTMARE TROUBADOUR"""
+game|257|0,,"In ""NIGHTMARE TROUBADOUR,"" put the cards you want to move to this game up for trade. The traded cards will not be erased from ""NIGHTMARE TROUBADOUR.""","Trong ""NIGHTMARE TROUBADOUR,"" hãy đặt những lá bài bạn muốn chuyển sang game này vào mục trao đổi. Những lá bài đã trao đổi sẽ không bị xóa khỏi ""NIGHTMARE TROUBADOUR.""",185,"Trong ""NIGHTMARE TROUBADOUR,"" hãy đặt những lá bài bạn muốn chuyển sang game này vào mục trao đổi. Những lá bài đã trao đổi sẽ không bị xóa khỏi ""NIGHTMARE TROUBADOUR."""
+game|258|0,,"Connect to ""SPIRIT CALLER""","Kết nối với ""SPIRIT CALLER""",30,"Kết nối với ""SPIRIT CALLER"""
+game|259|0,,"In ""SPIRIT CALLER,"" put the cards you want to move to this game up for trade.","Trong ""SPIRIT CALLER,"" hãy đặt những lá bài bạn muốn chuyển sang game này vào mục trao đổi.",101,"Trong ""SPIRIT CALLER,"" hãy đặt những lá bài bạn muốn chuyển sang game này vào mục trao đổi."
+game|260|0,,"You can receive all the cards in a recipe sent from ""Yu-Gi-Oh! GX SPIRIT CALLER"". This can only be done once.\nReceive all the cards in the Recipe?","Bạn có thể nhận tất cả lá bài trong một Công Thức được gửi từ ""Yu-Gi-Oh! GX SPIRIT CALLER"". Việc này chỉ có thể thực hiện một lần.\nNhận tất cả lá bài trong Công Thức này?",188,"Bạn có thể nhận tất cả lá bài trong một Công Thức được gửi từ ""Yu-Gi-Oh! GX SPIRIT CALLER"". Việc này chỉ có thể thực hiện một lần.\nNhận tất cả lá bài trong Công Thức này?"
+game|281|0,,SORT,SẮP XẾP,8,SẮP XẾP
+game|282|0,,FILTER,LỌC,7,LỌC
+game|283|0,,EXECUTE,THỰC HIỆN,10,THỰC HIỆN
+game|287|0,,ALL,TẤT CẢ,7,TẤT CẢ
+game|288|0,,NAME,TÊN,5,TÊN
+game|294|0,,FRAME,KHUNG,6,KHUNG
+game|296|0,,ALL MONSTERS,TẤT CẢ MONSTER,16,TẤT CẢ QUÁI THÚ
+game|297|0,,ALL SPELLS,TẤT CẢ SPELL,14,TẤT CẢ PHÉP
+game|298|0,,ALL TRAPS,TẤT CẢ TRAP,13,TẤT CẢ BẪY
+game|299|0,,Save Recipe,Lưu Công Thức,15,Lưu Công Thức
+game|300|0,,Read Recipe,Đọc Công Thức,15,Đọc Công Thức
+game|301|0,,Change Deck Name,Đổi Tên Deck,18,Đổi tên Bộ bài
+game|302|0,,Reset Deck,Đặt Lại Deck,14,Đặt lại Bộ bài
+game|303|0,,Delete Deck,Xóa Deck,13,Xóa Bộ bài
+game|351|0,,Select save location.,Chọn vị trí lưu.,24,Chọn vị trí lưu.
+game|352|0,,Select Recipe to read,Chọn Công Thức để đọc,24,Chọn Công Thức để đọc
+game|353|0,,Select Recipe to send,Chọn Công Thức để gửi,24,Chọn Công Thức để gửi
+game|354|0,,Select save location.,Chọn vị trí lưu.,24,Chọn vị trí lưu.
+game|355|0,,Erase Recipe. Are you sure?,Xóa Công Thức. Bạn có chắc không?,37,Xóa Công Thức. Bạn có chắc không?
+game|356|0,,Overwrite Recipe?,Ghi Đè Công Thức?,19,Ghi Đè Công Thức?
+game|357|0,,Yes,Có,4,Có
+game|358|0,,No,Không,6,Không
+game|359|0,,Save failed. Try again?,Lưu thất bại. Thử lại?,26,Lưu thất bại. Thử lại?
+game|360|0,,Save failed.,Lưu thất bại.,15,Lưu thất bại.
+game|441|0,,Enter password.,Nhập mật khẩu.,17,Nhập mật khẩu.
+game|442|0,,Checking password...,Đang Kiểm Tra Mật Khẩu...,28,Đang Kiểm Tra Mật Khẩu...
+game|443|0,,Password verified.,Mật khẩu hợp lệ.,20,Mật khẩu hợp lệ.
+game|444|0,,Password has been used.,Mật khẩu đã được sử dụng.,28,Mật khẩu đã được sử dụng.
+game|445|0,,The card is not in your card list.,Lá bài này không có trong danh sách lá bài của bạn.,57,Lá bài này không có trong danh sách lá bài của bạn.
+game|446|0,,Insufficient KC Points.,Không đủ điểm KC.,26,Không đủ điểm KC.
+game|447|0,,Sound Gallery,Thư Viện Âm Thanh,19,Thư Viện Âm Thanh
+game|449|0,,You need %d DP to acquire this card.  Will you pay?,Bạn cần %d DP để nhận lá bài này.  Bạn có muốn trả không?,63,Bạn cần %d DP để nhận lá bài này.  Bạn có muốn trả không?
+game|450|0,,Insufficient DP. You need %d DP to acquire this card.,Không đủ DP. Bạn cần %d DP để nhận lá bài này.,59,Không đủ DP. Bạn cần %d DP để nhận lá bài này.
+game|451|0,,The card is either not in the card list or is not available.,Lá bài này không có trong danh sách hoặc không khả dụng.,67,Lá bài này không có trong danh sách hoặc không khả dụng.
+game|452|0,,"Acquired ""%s.""","Đã nhận được ""%s.""",20,"Đã nhận được ""%s."""
+game|453|0,,Erase All,Xóa Tất Cả,12,Xóa Tất Cả
+game|454|0,,Insufficient DP.,Không đủ DP.,18,Không đủ DP.
+game|456|0,,%d%% collected,Đã sưu tập %d%%,17,Đã sưu tập %d%%
+game|457|0,,1 Pack/150 KCP,1 Gói/150 KCP,16,1 Gói/150 KCP
+game|458|0,,Please wait a moment.,Vui lòng chờ một chút.,25,Vui lòng chờ một chút.
+game|461|0,,All Cards,Tất Cả Lá Bài,15,Tất Cả Lá Bài
+game|462|0,,%d%% collected,Đã sưu tập %d%%,17,Đã sưu tập %d%%
+game|463|0,,%d cards,%d lá bài,10,%d lá bài
+game|464|0,,%d cards / %d.%d%% collected,%d lá bài / Đã sưu tập %d.%d%%,34,%d lá bài / Đã sưu tập %d.%d%%
+game|524|0,,Ticket,Vé,7,Vé
+game|570|0,,No Icon,Không icon,12,Không hình
+game|601|0,,You,Bạn,4,Bạn
+game|653|0,,Introduction,Giới thiệu,14,Giới thiệu
+game|654|0,,Basics,Cơ bản,7,Cơ bản
+game|655|0,,Practice,Luyện tập,10,Luyện tập
+game|656|0,,Application,Ứng dụng,13,Ứng dụng
+game|657|0,,Beginner,Sơ cấp,9,Sơ cấp
+game|658|0,,Intermediate,Trung cấp,14,Trung cấp
+game|659|0,,Advanced,Cao cấp,9,Cao cấp
+game|663|0,,Cards,Lá bài,7,Lá bài
+game|668|0,,Card Position,Vị trí lá bài,15,Vị trí lá bài
+game|669|0,,Other Summons,Summon khác,15,Triệu hồi khác
+game|678|0,,Miscellaneous,Khác,15,Khác
+game|679|0,,Tip,Mẹo,4,Mẹo
+game|680|0,,Rule,Luật,5,Luật
+game|682|0,,Timings,Thời điểm,10,Thời điểm
+game|685|0,,Effects,Hiệu ứng,9,Hiệu ứng
+game|687|0,,Game System,Hệ thống game,15,Hệ thống
+game|688|0,,Various Effects,Các hiệu ứng,17,Các hiệu ứng
+game|689|0,,Specific Cards,Lá bài đặc biệt,17,Lá bài đặc biệt
+game|690|0,,By ABC,Theo ABC,9,Theo ABC
+game|691|0,,By Genre,Theo thể loại,15,Theo thể loại
+game|692|0,,Genre:,Thể loại:,10,Thể loại:
+game|781|0,,SCORE,ĐIỂM,6,ĐIỂM
+game|801|0,,Unable to read data. Please turn off the power and reinsert the Game Card.,Không thể đọc dữ liệu. Hãy tắt nguồn và cắm lại Game Card.,82,Không thể đọc dữ liệu. Hãy tắt nguồn và cắm lại Game Card.
+game|802|0,,"Are you sure you want to delete all saved data from this DS Card? Press @3START@7 to delete all data and begin a new game, or press the @5B Button@7 to go back to the previous screen.","Bạn có chắc muốn xóa toàn bộ dữ liệu đã lưu trên DS Card này? Nhấn @3START@7 để xóa toàn bộ dữ liệu và bắt đầu game mới, hoặc nhấn @5Nút B@7 để quay lại màn hình trước.",202,"Bạn có chắc muốn xóa toàn bộ dữ liệu đã lưu trên DS Card này? Nhấn @3START@7 để xóa toàn bộ dữ liệu và bắt đầu game mới, hoặc nhấn @5Nút B@7 để quay lại màn hình trước."
+game|803|0,,Warning,Cảnh báo,9,Cảnh báo
+game|804|0,,Unable to write data. Please turn off the power and reinsert the Game Card.,Không thể ghi dữ liệu. Hãy tắt nguồn và cắm lại Game Card.,83,Không thể ghi dữ liệu. Hãy tắt nguồn và cắm lại Game Card.
+game|805|0,,Save data is corrupt and has been deleted.,Dữ liệu lưu bị lỗi và đã bị xóa.,47,Dữ liệu lưu bị lỗi và đã bị xóa.
+game|806|0,,Save data is corrupt. Initializing Data...,Dữ liệu lưu bị lỗi. Đang khởi tạo dữ liệu...,49,Dữ liệu lưu bị lỗi. Đang khởi tạo dữ liệu...
+game|901|0,,Card View,Xem lá bài,12,Xem lá bài
+game|903|0,,List,Danh sách,10,Danh sách
+game|912|0,,Surrender,Đầu hàng,10,Đầu hàng
+game|950|0,,Host Other Players,Tạo phòng,20,Tạo phòng
+game|951|0,,Join Other Players,Vào phòng,20,Vào phòng
+game|952|0,,Request connection,Yêu cầu kết nối,20,Yêu cầu kết nối
+game|953|0,,Acquire card,Nhận lá bài,14,Nhận lá bài
+game|954|0,,Waiting...,Đang chờ...,13,Đang chờ...
+game|955|0,,Accept,Đồng ý,7,Đồng ý
+game|956|0,,Refuse,Từ chối,8,Từ chối
+game|957|0,,Make selection,Chọn,16,Chọn
+game|958|0,,Select from the Trunk,Chọn từ Kho,24,Chọn từ Kho
+game|959|0,,You can select from the Trunk.,Bạn có thể chọn từ Kho.,34,Bạn có thể chọn từ Kho.
+game|960|0,,The opponent has not made a selection.,Đối thủ chưa chọn.,42,Đối thủ chưa chọn.
+game|961|0,,Opponent has changed selection.,Đối thủ đã đổi lựa chọn.,35,Đối thủ đã đổi lựa chọn.
+game|962|0,,Select the card you want.,Chọn lá bài bạn muốn.,28,Chọn lá bài bạn muốn.
+game|963|0,,Agree to the trade?,Đồng ý trao đổi?,21,Đồng ý trao đổi?
+game|964|0,,Search for opponent,Tìm đối thủ,21,Tìm đối thủ
+game|965|0,,Duel against friend,Duel với bạn bè,21,Đấu với bạn bè
+game|967|0,,Download,Tải về,9,Tải về
+game|970|0,,DS Wireless Communications,Kết nối không dây DS,29,Kết nối không dây DS
+game|973|0,,Ranked Duel,Duel xếp hạng,15,Đấu xếp hạng
+game|974|0,,Practice Duel,Duel luyện tập,16,Đấu luyện tập
+game|977|0,,Waiting for %d more player(s),Đang chờ thêm %d người chơi,32,Đang chờ thêm %d người chơi
+game|978|0,,"Last time you did not exit properly, so wait %d minutes to connect again.","Lần trước bạn thoát không đúng cách, hãy đợi %d phút để kết nối lại.",81,"Lần trước bạn thoát không đúng cách, hãy đợi %d phút để kết nối lại."
+game|979|0,,"Because you turned off the power during a Duel, you lost some DP and your rating went down.",Vì bạn tắt nguồn giữa lúc Duel nên bạn bị mất một số DP và điểm rating bị giảm.,101,Vì bạn tắt nguồn giữa lúc đấu bài nên bạn bị mất một số DP và điểm xếp hạng bị giảm.
+game|980|0,,Duel Type,Loại Duel,10,Loại đấu
+game|982|0,,Rating,Xếp Hạng,9,Xếp Hạng
+game|984|0,,Search for opponent,Tìm đối thủ,21,Tìm đối thủ
+game|985|0,,Single Duel,Duel Đơn,13,Đấu đơn
+game|986|0,,Match Duel,Duel Match,12,Đấu 3 ván
+game|987|0,,Japan only,Chỉ Nhật Bản,14,Chỉ Nhật Bản
+game|988|0,,North America only,Chỉ Bắc Mỹ,20,Chỉ Bắc Mỹ
+game|989|0,,Europe only,Chỉ Châu Âu,13,Chỉ Châu Âu
+game|990|0,,Whole world,Toàn thế giới,15,Toàn thế giới
+game|991|0,,Equal rating,Rating tương đương,20,Cùng hạng
+game|992|0,,Random rating,Rating ngẫu nhiên,19,Hạng ngẫu nhiên
+game|993|0,,Same,Giống,6,Giống
+game|994|0,,Any,Bất kỳ,7,Bất kỳ
+game|997|0,,Korea only,Chỉ Hàn Quốc,14,Chỉ Hàn Quốc
+game|1002|0,,Detail,Chi tiết,9,Chi tiết
+game|1003|0,,To Trunk,Về Kho,9,Về Kho
+game|1004|0,,To Deck,Vào Deck,9,Vào Bộ
+game|1005|0,,To Side Deck,Vào Side Deck,15,Vào Bộ bài phụ
+game|1006|0,,To Fusion Deck,Vào Fusion Deck,17,Vào Bộ Dung hợp
+game|1007|0,,To Trade,Vào Trao đổi,14,Vào Trao đổi
+game|1008|0,,To %s,Vào %s,7,Vào %s
+game|1009|0,,Related Cards,Lá bài liên quan,18,Lá bài liên quan
+game|1010|0,,Change to ON,Đổi sang ON,14,Bật
+game|1011|0,,Change to OFF,Đổi sang OFF,15,Tắt
+game|1012|0,,From Trunk to Deck,Từ Kho vào Deck,20,Kho bài sang Bộ bài
+game|1013|0,,From Trunk to Side Deck,Từ Kho vào Side Deck,26,Kho sang Bộ bài phụ
+game|1014|0,,From Trunk to Fusion Deck,Từ Kho vào Fusion Deck,28,Kho sang Bộ Dung hợp
+game|1015|0,,From Deck to Trunk,Từ Deck về Kho,20,Bộ bài về Kho
+game|1016|0,,From Deck to Side Deck,Từ Deck vào Side Deck,25,Bộ bài sang Bộ phụ
+game|1017|0,,From Side Deck to Trunk,Từ Side Deck về Kho,26,Bộ phụ về Kho
+game|1018|0,,From Side Deck to Deck,Từ Side Deck vào Deck,25,Bộ phụ sang Bộ bài
+game|1019|0,,From Fusion Deck to Trunk,Từ Fusion Deck về Kho,28,Bộ Dung hợp về Kho
+game|1020|0,,To selected card.,Đến lá bài đã chọn.,21,Đến lá bài đã chọn.
+game|1022|0,,Alphabetically by name,Theo bảng chữ cái,25,Theo bảng chữ cái
+game|1027|0,,Icon,Biểu tượng,12,Biểu tượng
+game|1031|0,,New cards,Lá bài mới,12,Lá bài mới
+game|1033|0,,All,Tất cả,7,Tất cả
+game|1035|0,,ON only,Chỉ ON,8,Chỉ bật
+game|1036|0,,OFF only,Chỉ OFF,9,Chỉ tắt
+game|1046|0,,All Monsters,Mọi Monster,14,Mọi quái thú
+game|1062|0,,Recover Life Points,Hồi phục Life Points,23,Hồi LP
+game|1063|0,,Reduce Life Points,Giảm Life Points,20,Giảm LP
+game|1067|0,,Cannot perform\nNormal Summon,Không thể\nNormal Summon,31,Không thể\nTriệu hồi Thường
+game|1068|0,,Search Deck,Tìm trong Deck,16,Tìm trong Bộ bài
+game|1069|0,,Recover cards\nfrom Graveyard,Lấy lá bài\ntừ Graveyard,31,Lấy bài\ntừ Mộ
+game|1070|0,,Destroy monster,Phá hủy monster,17,Phá hủy quái thú
+game|1071|0,,Destroy Spell/Trap,Phá hủy Spell/Trap,20,Phá hủy Phép/Bẫy
+game|1072|0,,Remove card from play,Loại bỏ lá bài,24,Loại bỏ lá bài
+game|1073|0,,Return card,Trả lá bài,13,Trả lá bài
+game|1074|0,,Change control,Đổi quyền điều khiển,23,Đổi quyền điều khiển
+game|1075|0,,Change card position,Đổi vị trí lá bài,23,Đổi vị trí lá bài
+game|1076|0,,Attack support,Hỗ trợ tấn công,17,Hỗ trợ tấn công
+game|1077|0,,Defense support,Hỗ trợ phòng thủ,18,Hỗ trợ phòng thủ
+game|1080|0,,Multiple Attack,Tấn công nhiều lần,20,Tấn công nhiều lần
+game|1081|0,,Cannot be destroyed,Không thể bị phá hủy,23,Không thể bị phá hủy
+game|1082|0,,Restrict Attack,Hạn chế tấn công,18,Hạn chế tấn công
+game|1083|0,,Gamble,Đánh bạc,9,May rủi
+game|1086|0,,Cancel out Effect,Vô hiệu hiệu ứng,19,Vô hiệu hiệu ứng
+game|1094|0,,Increase draw,Rút thêm bài,15,Rút thêm bài
+game|1095|0,,Hand destruction,Phá bài trên tay,18,Phá bài trên tay
+game|1096|0,,Deck destruction,Phá Deck,18,Phá Bộ bài
+game|1100|0,,Deck Menu,Menu Deck,10,Bộ bài
+game|1101|0,,Save Recipe,Lưu Recipe,13,Lưu công thức
+game|1102|0,,Read Recipe,Đọc Recipe,13,Đọc công thức
+game|1103|0,,Delete 1 Recipe,Xóa 1 Recipe,17,Xóa một công thức
+game|1104|0,,Change Recipe Name,Đổi tên Recipe,20,Đổi tên công thức
+game|1105|0,,Empty Deck,Làm trống Deck,16,Làm trống Bộ bài
+game|1106|0,,Reset Deck,Đặt Lại Deck,14,Đặt lại Bộ bài
+game|1107|0,,Edit Deck to fit Ltd Card Lst,Chỉnh Deck theo Ltd Card Lst,32,Sửa theo DS Cấm/Giới hạn
+game|1108|0,,Change Deck Name,Đổi tên Deck,18,Đổi tên Bộ bài
+game|1109|0,,Save Recipe,Lưu Recipe,13,Lưu công thức
+game|1110|0,,Read Recipe,Đọc Recipe,13,Đọc công thức
+game|1111|0,,Delete Recipe,Xóa Recipe,15,Xóa công thức
+game|1112|0,,Change Recipe Name,Đổi tên Recipe,20,Đổi tên công thức
+game|1114|0,,Send Recipe,Gửi Recipe,13,Gửi công thức
+game|1115|0,,Receive Recipe,Nhận Recipe,16,Nhận công thức
+game|1116|0,,Select Recipe,Chọn Recipe,15,Chọn công thức
+game|1118|0,,(not used),(chưa dùng),13,(chưa dùng)
+game|1119|0,,My Recipe,Recipe của tôi,16,Công thức riêng
