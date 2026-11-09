@@ -1,3 +1,10 @@
+## Checkpoint 079 — 09/11/2026
+
+- +240 trang thoại `0042.011`, `0042.012`; tổng 20,898/55,976 (37.33%), NPC 17,773/52.608.
+- 38 mẫu dịch mới + 15 mẫu tái dùng. QA 501 JSONL / 55.976 bản ghi đạt; 499 JSONL không đổi byte.
+- ZIP đầy đủ + TSV EN–VI, delta, script, QA, nguồn cho đợt 080. Chưa kiểm thử ROM thực.
+- Tiếp `0042.013` và `0042.014` (240 trang nguồn).
+
 ## Checkpoint 078 — 09/11/2026
 
 - Hoàn thành `0042.009`, `0042.010`: +240 trang; tổng 20,658/55,976 (36.91%), NPC 17,533/52.608.
