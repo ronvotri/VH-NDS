@@ -1,3 +1,10 @@
+## Checkpoint 087 — 10/11/2026
+
+- +240 trang thoại `0043.004` và `0043.005`; 22.809/55.976 (40,75%), NPC 19.684/52.608.
+- 55 mẫu EN riêng: 35 dịch mới, 20 tái dùng. QA 501 JSONL PASS, giữ nguyên 22.569 bản dịch trước.
+- Bàn giao ZIP đầy đủ, bản EN–VI, delta, script, QA. Chưa thử trong ROM NDS.
+- Tiếp `0043.006` và `0043.007` (120 trang mỗi tệp).
+
 ## Checkpoint 086 — 10/11/2026
 
 - +240 trang thoại (`0043.002` và `0043.003`); tổng 22.569/55.976 (40,32%), NPC 19.444/52.608.
