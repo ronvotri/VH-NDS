@@ -1,0 +1,151 @@
+key,ten_la_bai_EN,tieng_Anh,tieng_Viet_hien_tai,toi_da_ky_tu,tieng_Viet_MOI
+story|196|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|197|0,,(It looks like it's trying to say something. But its words are eaten up by a sandstorm...),(Có vẻ nó đang muốn nói gì đó. Những lời của nó bị bão cát nuốt mất...),100,"(Có vẻ nó muốn nói gì đó, nhưng tiếng nói bị bão cát cuốn đi...)"
+story|199|0,,What will you do?,Bạn muốn làm gì?,19,Bạn muốn làm gì?
+story|200|0,,Talk\nDuel,Nói chuyện\nDuel,17,Trò chuyện\nĐấu
+story|203|0,,(It appears to be talking to itself. But its words are eaten up by a sandstorm...),(Có vẻ nó đang tự nói chuyện. Những lời của nó bị bão cát nuốt mất...),91,"(Có vẻ nó tự nói một mình, nhưng tiếng nói bị bão cát cuốn đi...)"
+story|204|0,,(It looks to be saying something about how much it wants to duel... But its words are eaten up by a sandstorm...),(Có vẻ nó đang nói nó muốn duel đến mức nào... Những lời của nó bị bão cát nuốt mất...),125,(Có lẽ nó đang nói mình muốn đấu lắm... nhưng tiếng nói bị bão cát cuốn đi...)
+story|205|0,,(It seems to be saying something about how disappointed it feels... But its words are eaten up by a sandstorm...) ,(Có vẻ nó đang nói nó thất vọng ra sao... Những lời của nó bị bão cát nuốt mất...) ,126,(Có lẽ nó đang than phiền vì thất vọng... nhưng tiếng nói bị bão cát cuốn đi...)
+story|206|0,,(It appears to be talking about how ecstatic it feels... But its words are eaten up by a sandstorm...),(Có vẻ nó đang nói nó vui sướng thế nào... Những lời của nó bị bão cát nuốt mất...),113,(Có lẽ nó đang reo vui... nhưng tiếng nói bị bão cát cuốn đi...)
+story|207|0,,(It seems to be saying something filled with goodwill... But its words are eaten up by a sandstorm...),(Có vẻ nó đang nói điều gì đó đầy thiện chí... Những lời của nó bị bão cát nuốt mất...),113,(Có lẽ nó đang nói lời thân thiện... nhưng tiếng nói bị bão cát cuốn đi...)
+story|208|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|209|0,,"What are you doing in a place like this? If you're here to rob graves, I'll show you no mercy!","Ngươi làm gì ở nơi như thế này? Nếu đến đây để trộm mộ, ta sẽ không nương tay!",104,"Ngươi tới chốn này làm gì? Nếu định đào trộm mộ, ta sẽ không tha!"
+story|211|0,,What will you do?,Bạn muốn làm gì?,19,Bạn muốn làm gì?
+story|212|0,,Talk\nDuel,Nói chuyện\nDuel,17,Trò chuyện\nĐấu
+story|215|0,,Grave robber!,Kẻ trộm mộ!,15,Đồ trộm mộ!
+story|216|0,,What is it? Were you caught off guard?\nI was just trying to fool you!,Gì thế? Bị bất ngờ hả?\nTa chỉ đang dọa ngươi thôi!,76,Sao? Bị bất ngờ hả?\nTa chỉ muốn trêu ngươi thôi!
+story|217|0,,"You want to duel? I admire your courage! Alright, I have the time. I accept your challenge!","Ngươi muốn duel? Ta phục lòng dũng cảm của ngươi! Được, ta còn thời gian. Ta nhận lời thách đấu!",106,"Muốn đấu với ta sao? Can đảm đấy! Được, ta rảnh. Ta nhận lời!"
+story|218|0,,"How awful! If a grave robber does come, I might not be able to stop them. I'll have to train harder!","Tệ thật! Nếu kẻ trộm mộ đến thật, ta có thể không ngăn được. Ta phải luyện tập chăm chỉ hơn!",111,"Tệ quá! Nếu trộm mộ tới thật, có khi ta chẳng cản nổi. Phải rèn luyện thêm thôi!"
+story|219|0,,"Ha, ha, ha! Of course, I am the victor! Foolish grave robbers! You can test me anytime!","Ha, ha, ha! Tất nhiên, ta là người thắng! Lũ trộm mộ ngu ngốc! Cứ đến thử sức ta bất cứ lúc nào!",106,"Ha ha ha! Tất nhiên ta thắng! Lũ trộm mộ ngốc nghếch, cứ tới thử sức bất kỳ lúc nào!"
+story|220|0,,It appears you are not a grave robber. Then I must give you this! Use it as you see fit!,Có vẻ ngươi không phải kẻ trộm mộ. Vậy ta phải tặng ngươi cái này! Cứ dùng theo ý ngươi!,97,Hóa ra ngươi không phải kẻ trộm mộ. Vậy thì nhận lấy thứ này! Cứ tùy ý sử dụng!
+story|221|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|222|0,,We are the Dark Scorpion Burglars!,Chúng tao là Dark Scorpion Burglars!,40,Bọn ta là băng Cướp Bọ Cạp Đen!
+story|223|0,,"Oh, were you listening? I was just practicing!","Oh, mày nghe lén à? Tao chỉ đang tập thôi!",51,"Ồ, mày nghe thấy à? Tao chỉ tập nói thôi!"
+story|225|0,,What will you do?,Bạn muốn làm gì?,19,Bạn muốn làm gì?
+story|226|0,,Talk\nDuel,Nói chuyện\nDuel,17,Trò chuyện\nĐấu
+story|229|0,,A group that hides out in the depths of a pyramid!,Một băng nhóm ẩn nấp sâu trong lòng kim tự tháp!,56,Một băng cướp ẩn sâu trong kim tự tháp!
+story|230|0,,We are the Dark Scorpion Burglars! I'm now recruiting new members!,Chúng tao là Dark Scorpion Burglars! Bây giờ đang tuyển thành viên mới!,79,Bọn ta là băng Cướp Bọ Cạp Đen! Đang tuyển thành viên mới đây!
+story|231|0,,The Dark Scorpions never steal from the poor or hurt a person!,Dark Scorpion không bao giờ ăn cắp của người nghèo hay làm hại ai!,73,Bọ Cạp Đen không cướp của người nghèo hay làm hại người khác!
+story|232|0,,Hey! Is that how it's gonna be?,Này! Lại thế à?,35,Này! Mày định chơi kiểu đó hả?
+story|233|0,,"Huh, the duel's over already?\nWait a second! I can't accept this! The Don never loses!!!","Hử, duel xong rồi à?\nKhoan đã! Tao không chấp nhận! Đại ca không bao giờ thua!!!",97,"Hả, trận đấu xong rồi sao?\nKhoan! Tao không chấp nhận! Đại ca không bao giờ thua!!!"
+story|234|0,,"Hey! Naturally, we came out on top!\nWe always win in the end no matter what! After all...\nWe are the...Dark Scorpion Burglars!",Này! Tất nhiên chúng tao thắng!\nCuối cùng bao giờ chúng tao cũng thắng! Vì chúng tao là...\nDark Scorpion Burglars!,139,Hừ! Tất nhiên bọn ta thắng!\nRốt cuộc bọn ta luôn thắng! Bởi vì...\nBọn ta là... băng Cướp Bọ Cạp Đen!
+story|235|0,,"I'll give you this!\nNow, if you get the urge, join my Dark Scorpions!","Cho mày cái này!\nNếu thấy hứng, cứ gia nhập Dark Scorpion của tao!",76,"Tặng mày thứ này!\nNếu thích, cứ gia nhập băng Bọ Cạp Đen nhé!"
+story|236|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|239|0,,What will you do?,Bạn muốn làm gì?,19,Bạn muốn làm gì?
+story|240|0,,Talk\nDuel,Nói chuyện\nDuel,17,Trò chuyện\nĐấu
+story|247|0,,Raaaaaaaa!!! (It looks like it's going to give you a card!),Raaaaaaaa!!! (Có vẻ nó sắp tặng bạn một lá bài!),65,Raaaaaaaa!!! (Hình như nó muốn tặng bạn một lá bài!)
+story|248|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|251|0,,What will you do?,Bạn muốn làm gì?,19,Bạn muốn làm gì?
+story|252|0,,Talk\nDuel,Nói chuyện\nDuel,17,Trò chuyện\nĐấu
+story|256|0,,Ro-ro-ro! Ra-ra-ra! ,Rô-rô-rô! Ra-ra-ra! ,23,Ro-ro-ro! Ra-ra-ra!
+story|259|0,,Kweee! Kweee! (It's holding something in its mouth.),Kweee! Kweee! (Nó đang ngậm thứ gì đó trong miệng.),58,Kweee! Kweee! (Nó đang ngậm thứ gì đó.)
+story|260|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|263|0,,What will you do?,Bạn muốn làm gì?,19,Bạn muốn làm gì?
+story|264|0,,Talk\nDuel,Nói chuyện\nDuel,17,Trò chuyện\nĐấu
+story|271|0,,Gowaa! Gowaa! (It looks like it's going to give you something.),Gowaa! Gowaa! (Có vẻ nó sắp tặng bạn thứ gì đó.),70,Gowaa! Gowaa! (Có vẻ nó muốn tặng bạn thứ gì đó.)
+story|272|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|273|0,,(You call out to it. But it keeps fluttering around without answering you at all...),(Bạn gọi nó. Nhưng nó cứ bay lượn mà không đáp lại chút nào...),93,"(Bạn gọi, nhưng nó cứ bay lượn, chẳng hề đáp lại...)"
+story|275|0,,What will you do?,Bạn muốn làm gì?,19,Bạn muốn làm gì?
+story|276|0,,Talk\nDuel,Nói chuyện\nDuel,17,Trò chuyện\nĐấu
+story|279|0,,"(Its flames flicker regularly and wildly. Whether or not it's trying to express something, it's too hard to tell.)","(Ngọn lửa của nó chập chờn đều đặn và dữ dội. Không biết nó có đang muốn biểu đạt điều gì không, khó đoán quá.)",126,"(Ngọn lửa của nó lập lòe, khi đều khi dữ. Không rõ nó có muốn nói điều gì không.)"
+story|280|0,,"(When it hears the word ""duel"", its flames seem to become more powerful...)","(Khi nghe từ ""duel"", ngọn lửa của nó có vẻ mạnh lên...)",83,"(Nghe tới từ ""đấu bài"", ngọn lửa trên người nó cháy mạnh hơn...)"
+story|281|0,,"(Compared to before, its flames seem to have lost their strength. It looks pretty sad now.)","(So với trước, ngọn lửa của nó như mất hết sức. Trông nó có vẻ buồn.)",101,"(So với lúc trước, ngọn lửa đã yếu đi nhiều. Trông nó khá buồn.)"
+story|282|0,,(Its flames have really intensified. They're dancing like mad!),(Ngọn lửa của nó bùng cháy dữ dội. Nó nhảy múa như điên!),70,"(Ngọn lửa bùng lên dữ dội, nhảy múa điên cuồng!)"
+story|283|0,,"(For a moment, a bright shining light circles all around you.)","(Trong giây lát, một luồng ánh sáng chói lọi bay vòng quanh bạn.)",72,(Bỗng ánh sáng chói lòa xoay quanh bạn trong thoáng chốc.)
+story|284|0,,"(Then, after some time, a card falls from the sky. You should receive it gratefully.)","(Một lúc sau, một lá bài từ trên trời rơi xuống. Bạn nên nhận nó với lòng biết ơn.)",94,"(Một lát sau, một lá bài rơi từ trời xuống. Hãy vui vẻ nhận lấy.)"
+story|285|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|286|0,,Where am I? Who are you? I have to protect the base!,Đây là đâu? Ngươi là ai? Ta phải bảo vệ căn cứ!,58,Đây là đâu? Ngươi là ai? Ta phải bảo vệ căn cứ!
+story|288|0,,What will you do?,Bạn muốn làm gì?,19,Bạn muốn làm gì?
+story|289|0,,Talk\nDuel,Nói chuyện\nDuel,17,Trò chuyện\nĐấu
+story|292|0,,Your highness -- I take it he is in the best of health? His well-being is my greatest concern.,Điện hạ... ngài vẫn mạnh khỏe chứ? Sức khỏe của ngài là điều ta lo nhất.,104,Điện hạ... Hẳn ngài vẫn mạnh khỏe chứ? Đó là mối bận tâm lớn nhất của ta.
+story|293|0,,Live to duel!\nThat's the way of the warrior!,Sống để duel!\nĐây là đạo của chiến binh!,49,Sống để đấu bài!\nĐó là đạo của chiến binh!
+story|294|0,,Defeat! It can't be! What has happened? I've lost the battle!,Thua rồi! Không thể nào! Chuyện gì đã xảy ra? Ta đã thua trận!,69,Bại trận ư? Không thể nào! Chuyện gì vậy? Ta đã thua!
+story|295|0,,"Ha, ha, ha! How was that? Maybe now you know the strength of this army!","Ha, ha, ha! Thế nào? Giờ thì ngươi biết sức mạnh của đội quân này chưa!",79,Ha ha ha! Thế nào? Giờ ngươi hiểu sức mạnh của đội quân này rồi chứ!
+story|296|0,,"Here, take this as a reward. It's alright! Be sure to use it wisely!","Đây, nhận lấy phần thưởng. Cứ yên tâm! Nhớ dùng cho khôn ngoan!",75,"Đây, nhận phần thưởng này. Không sao đâu! Nhớ dùng thật khôn ngoan!"
+story|297|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|298|0,,(It appears to be asking you about why you have come here.) ,(Có vẻ nó đang hỏi bạn tại sao lại đến đây.) ,67,(Có vẻ nó đang hỏi vì sao bạn đến đây.)
+story|300|0,,What will you do?,Bạn muốn làm gì?,19,Bạn muốn làm gì?
+story|301|0,,Talk\nDuel,Nói chuyện\nDuel,17,Trò chuyện\nĐấu
+story|304|0,,(It's watching you with a penetrating gaze. Maybe it's waiting for your next move.),(Nó nhìn bạn bằng ánh mắt sắc bén. Có lẽ nó đang chờ nước đi tiếp theo của bạn.),92,"(Nó nhìn bạn chằm chằm, ánh mắt sắc lạnh. Có lẽ đang chờ bạn ra tay.)"
+story|305|0,,"(In response to your dueling spirit, the dragon gives out a brief roar.)","(Trước tinh thần duel của bạn, con rồng khẽ gầm lên một tiếng.)",80,"(Đáp lại khí thế quyết đấu của bạn, con rồng khẽ gầm lên.)"
+story|306|0,,"(After the duel finishes, the dragon looks away as if to show disinterest.)","(Sau trận duel, con rồng quay đi như thể không còn quan tâm.)",83,"(Sau trận đấu, con rồng quay mặt đi như chẳng còn bận tâm.)"
+story|307|0,,"(The dragon howls, showing a trace of pleasure.)","(Con rồng gầm lên, để lộ một chút vui sướng.)",53,"(Con rồng tru lên, thoáng vẻ vui mừng.)"
+story|308|0,,(It's holding out a card. ),(Nó đang đưa ra một lá bài. ),32,(Nó đang đưa ra một lá bài.)
+story|309|0,,"(Apparently, it wants to give it you. Unlike usual, its eyes now show a slight hint of kindness.)","(Hình như nó muốn tặng bạn. Khác mọi khi, ánh mắt nó thoáng chút dịu dàng.)",107,"(Có vẻ nó muốn tặng bạn. Khác thường ngày, ánh mắt nó thoáng dịu dàng.)"
+story|310|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|311|0,,Beep. Beep. Duelist confirmed. Beep. Beep. Analyzing data...,Bíp. Bíp. Đã xác nhận duelist. Bíp. Bíp. Đang phân tích dữ liệu...,73,Bíp. Bíp. Đã xác nhận người đấu bài. Bíp. Đang phân tích dữ liệu...
+story|313|0,,What will you do?,Bạn muốn làm gì?,19,Bạn muốn làm gì?
+story|314|0,,Talk\nDuel,Nói chuyện\nDuel,17,Trò chuyện\nĐấu
+story|317|0,,Beep. Beep. Now performing data fragmentation restoration. Please wait a moment...,Bíp. Bíp. Đang khôi phục các phân mảnh dữ liệu. Vui lòng chờ giây lát...,91,Bíp. Bíp. Đang khôi phục dữ liệu phân mảnh. Vui lòng đợi...
+story|318|0,,System all clear. Duel preparations have been executed.,Hệ thống ổn định. Đã hoàn tất chuẩn bị duel.,61,Hệ thống ổn định. Hoàn tất chuẩn bị đấu bài.
+story|319|0,,Addressing problem areas. Analyzing duel replay...,Đang xử lý các điểm lỗi. Đang phân tích bản ghi lại duel...,65,Đang khắc phục sự cố. Phân tích dữ liệu trận đấu...
+story|320|0,,Duel was successful. Analyzing duel replay...,Duel thành công. Đang phân tích bản ghi lại duel...,57,Đấu bài thành công. Đang phân tích trận đấu...
+story|321|0,,Beep. Beep. Congratulations. This card is a present for you.,Bíp. Bíp. Xin chúc mừng. Lá bài này là quà dành cho bạn.,67,Bíp. Bíp. Chúc mừng. Lá bài này là quà dành cho bạn.
+story|322|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|323|0,,"Your highness, there is a suspicious looking character here...","Điện hạ, ở đây có một kẻ đáng ngờ...",69,"Thưa điện hạ, có một kẻ đáng nghi ở đây..."
+story|324|0,,Who do you think you are? Give us your name!,Ngươi là ai? Xưng tên ra!,49,Ngươi là ai? Hãy xưng danh!
+story|326|0,,What will you do?,Bạn muốn làm gì?,19,Bạn muốn làm gì?
+story|327|0,,Talk\nDuel,Nói chuyện\nDuel,17,Trò chuyện\nĐấu
+story|330|0,,What business could you possibly have out here?,Ngươi có việc gì mà lại đến tận nơi này?,52,Ngươi có việc gì mà phải tới tận đây?
+story|331|0,,Yeah! What are you up to!?,Đúng rồi! Ngươi định làm gì!?,32,Phải đó! Ngươi định làm gì!?
+story|332|0,,"A duel? Ho, ho, ho! You dare to challenge us? You sure are brave!","Duel à? Hô, hô, hô! Ngươi dám thách đấu chúng ta sao? Can đảm thật!",74,Một trận đấu ư? Hô hô hô! Dám thách thức chúng ta? Can đảm thật!
+story|333|0,,"Yeah! If you battle the queen, you're sure to get squashed!",Đúng rồi! Dám đánh với nữ hoàng là bị nghiền bẹt đấy!,65,"Đúng đó! Dám đấu với nữ hoàng, ngươi sẽ bị nghiền nát!"
+story|334|0,,I have been defeated...,Ta đã bại trận...,26,Ta... đã bại trận...
+story|335|0,,"But, your highness, you can't lose. Please don't give up hope. ","Nhưng, thưa điện hạ, người không thể thua. Xin đừng bỏ cuộc hy vọng. ",76,"Nhưng thưa điện hạ, người đâu thể thua! Xin người đừng tuyệt vọng!"
+story|336|0,,"Ho, ho, ho! Just as expected, I am victorious!","Hô, hô, hô! Đúng như ta đoán, ta thắng!",51,"Hô hô hô! Đúng như dự đoán, ta thắng!"
+story|337|0,,Challenge us again anytime! We'll duel it out again!,Cứ thách đấu chúng ta bất cứ lúc nào! Chúng ta sẽ duel lại!,65,Cứ đến thách đấu bất cứ lúc nào! Chúng ta sẽ đấu lại!
+story|338|0,,I will bestow upon you a piece from the national royal treasure. May it become a family heirloom.,Ta sẽ ban cho ngươi một món trong kho báu hoàng gia quốc gia. Mong nó trở thành vật gia truyền.,107,Ta ban cho ngươi một món bảo vật hoàng gia. Mong nó thành báu vật gia truyền.
+story|339|0,,Oh! National royal treasure! Wow! What does that mean?,Oh! Bảo vật hoàng gia quốc gia! Wow! Nghĩa là sao vậy?,60,Ồ! Bảo vật hoàng gia! Ghê quá! Mà đó là gì vậy?
+story|340|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|341|0,,Target acquired... Lock-on...,Đã xác định mục tiêu... Đang khóa...,40,Đã xác định mục tiêu... Khóa mục tiêu...
+story|342|0,,Conducting reconnaissance... Analyzing data...,Đang tuần tra... Đang phân tích dữ liệu...,51,Đang trinh sát... Phân tích dữ liệu...
+story|344|0,,What will you do?,Bạn muốn làm gì?,19,Bạn muốn làm gì?
+story|345|0,,Talk\nDuel,Nói chuyện\nDuel,17,Trò chuyện\nĐấu
+story|348|0,,Checking perimeter... Searching for hostile forms...,Đang kiểm tra chu vi... Đang tìm kẻ địch...,58,Đang kiểm tra vành đai... Tìm dấu hiệu thù địch...
+story|349|0,,Raising defense shields... No abnormalities detected...,Đang nâng khiên phòng thủ... Không phát hiện bất thường...,64,Đang dựng khiên phòng thủ... Không phát hiện bất thường...
+story|350|0,,Emergency alert... Emergency alert...,Báo động khẩn cấp... Báo động khẩn cấp...,46,Báo động khẩn cấp... Báo động khẩn cấp...
+story|351|0,,Assuming battle positions... Preparing for attack...,Đang vào vị trí chiến đấu... Chuẩn bị tấn công...,58,Đang vào vị trí chiến đấu... Chuẩn bị tấn công...
+story|352|0,,Checking damaged areas... Checking shield level...,Đang kiểm tra khu vực bị hư hại... Đang kiểm tra mức khiên...,68,Đang kiểm tra hư hại... Kiểm tra năng lượng khiên...
+story|353|0,,Commencing repairs... Replenishing energy...,Bắt đầu sửa chữa... Đang nạp lại năng lượng...,51,Bắt đầu sửa chữa... Bổ sung năng lượng...
+story|354|0,,Confirming victory... Transmitting data...,Đã xác nhận chiến thắng... Đang truyền dữ liệu...,54,Xác nhận chiến thắng... Truyền dữ liệu...
+story|355|0,,Checking database... Searching for analogous conditions...,Đang kiểm tra cơ sở dữ liệu... Đang tìm tình huống tương tự...,69,Kiểm tra cơ sở dữ liệu... Tìm tình huống tương tự...
+story|356|0,,Opponent... identified...,Đối thủ... đã xác định...,28,Đối thủ... đã xác định...
+story|357|0,,Ejecting... card...,Đang đẩy... lá bài... ra...,30,Đang... đẩy lá bài... ra...
+story|358|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|359|0,,"Gya, gya, gya... You!","Gya, gya, gya... Ngươi!",26,"Gya, gya, gya... Ngươi!"
+story|360|0,,Fool... Do you want something from me?,Kẻ ngu... Ngươi cần gì ở ta?,42,Đồ ngu... Ngươi muốn gì ở ta?
+story|362|0,,What will you do?,Bạn muốn làm gì?,19,Bạn muốn làm gì?
+story|363|0,,Talk\nDuel,Nói chuyện\nDuel,17,Trò chuyện\nĐấu
+story|366|0,,I will rule... over... the sky.,Ta sẽ... thống trị... cả bầu trời.,38,Ta sẽ... thống trị... bầu trời.
+story|367|0,,I will show my powers to the world!,Ta sẽ cho thế giới thấy sức mạnh của ta!,45,Ta sẽ cho cả thế giới thấy sức mạnh của ta!
+story|368|0,,You'll... regret... this...,Ngươi... sẽ hối hận... vì điều này...,41,Ngươi... sẽ... hối hận...
+story|369|0,,"First, you will get a taste of my might!","Trước hết, ngươi sẽ nếm thử sức mạnh của ta!",49,"Trước tiên, hãy nếm thử sức mạnh của ta!"
+story|370|0,,What happened... Fool... how... did you... win?,Chuyện gì thế này... Kẻ ngu... làm sao... ngươi thắng được?,65,Chuyện gì thế... Đồ ngu... sao... ngươi thắng nổi?
+story|371|0,,Argh! My powers are much stronger than this...,Argh! Sức mạnh của ta phải lớn hơn thế này!,51,Gừ! Sức mạnh thật sự của ta còn lớn hơn nhiều...
+story|372|0,,"Gya, gya, gya... See... We can't lose...","Gya, gya, gya... Thấy chưa... Chúng ta không thể thua...",62,"Gya, gya, gya... Thấy chưa... Bọn ta không thể thua..."
+story|373|0,,Ha! Now you know how powerful I am!,Hà! Giờ thì ngươi biết ta mạnh đến mức nào rồi!,52,Hà! Giờ thì ngươi đã biết ta mạnh thế nào!
+story|374|0,,One day... I will take you... to my homeland.,Một ngày nào đó... ta sẽ đưa ngươi... về quê hương của ta.,64,Một ngày nọ... ta sẽ dẫn ngươi... tới quê hương ta.
+story|375|0,,"Here, take this as proof of our pact!","Đây, nhận lấy làm bằng chứng cho giao ước của chúng ta!",61,"Đây, hãy nhận lấy làm minh chứng cho giao ước!"
+story|376|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|380|0,,What will you do?,Bạn muốn làm gì?,19,Bạn muốn làm gì?
+story|381|0,,Talk\nDuel,Nói chuyện\nDuel,17,Trò chuyện\nĐấu
+story|384|0,,(Both creatures are waiting to see what you do next.),(Cả hai sinh vật đang chờ xem bạn làm gì tiếp theo.),59,(Cả hai sinh vật đang chờ xem bạn sẽ làm gì tiếp theo.)
+story|385|0,,"(They seem to be acting more cautiously, as if sensing the mood of the duel.)  ","(Chúng đang trở nên thận trọng hơn, như cảm nhận được bầu không khí của trận duel.)  ",94,"(Chúng dường như thận trọng hơn, như thể đang dò xét diễn biến trận đấu.)"
+story|386|0,,"(Maybe because the duel was unsatisfying, both creatures are still showing their will to fight.)","(Có lẽ vì trận duel chưa đã, cả hai sinh vật vẫn thể hiện ý chí chiến đấu.)",106,"(Có lẽ trận đấu chưa đủ thỏa mãn, cả hai vẫn muốn tiếp tục chiến đấu.)"
+story|387|0,,(Both creatures appear somewhat pleased.),(Cả hai sinh vật trông có vẻ hài lòng.),46,(Cả hai sinh vật trông khá hài lòng.)
+story|388|0,,(Cerberus approaches you. It places something on the ground!),(Cerberus tiến lại gần bạn. Nó đặt thứ gì đó xuống đất!),68,"(Cerberus đến gần, đặt thứ gì đó xuống đất!)"
+story|389|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|390|0,,What brings you here?,Có chuyện gì đưa cậu đến đây?,32,Sao cậu lại tới đây?
+story|391|0,,"If anything is bothering you, you'd better tell us about it!","Nếu có điều gì phiền lòng, cậu nên nói với chúng ta!",67,"Nếu có chuyện phiền lòng, cậu cứ kể cho bọn mình nghe!"
+story|393|0,,What will you do?,Bạn muốn làm gì?,19,Bạn muốn làm gì?
+story|394|0,,Talk\nDuel,Nói chuyện\nDuel,17,Trò chuyện\nĐấu
+story|397|0,,You have such eyes beautifully clear eyes.,Bạn có đôi mắt thật trong veo.,47,Đôi mắt cậu trong veo quá.
+story|398|0,,We are the rulers of nothingness. We might just steal your heart away...,Chúng ta là kẻ thống trị hư vô. Có lẽ chúng ta sẽ đánh cắp trái tim bạn...,82,Bọn mình thống trị cõi hư vô. Biết đâu sẽ đánh cắp cả trái tim cậu...
+story|399|0,,Are you saying that you want to fight us?,Bạn nói là muốn đấu với chúng ta à?,46,Ý cậu là muốn đấu với bọn mình sao?
+story|400|0,,"If so, then we have no choice but to accept. I'm sure we'll enjoy it!",Nếu vậy thì chúng ta đâu còn cách nào ngoài chấp nhận. Chắc chúng ta sẽ thích lắm!,91,Vậy thì bọn mình đành nhận lời. Chắc sẽ vui lắm đây!
+story|401|0,,"So, you were the victor! You are a capable one.",Vậy ra bạn là người thắng. Bạn khá lắm.,52,Vậy cậu là người chiến thắng! Cừ lắm đấy.
+story|402|0,,We've been fooling around too much. We'd better start dueling more.,Chúng ta đã chơi bời quá nhiều. Nên bắt đầu Duel nhiều hơn.,74,Bọn mình mải chơi quá rồi. Phải đấu bài nhiều hơn mới được.
+story|403|0,,"So, we have triumphed!",Vậy là chúng ta thắng!,25,Vậy là bọn mình thắng!
+story|404|0,,You can learn from us. It's a good idea to go out and have fun.,Bạn có thể học hỏi từ chúng ta. Nên ra ngoài và vui chơi đi.,70,Cậu có thể học hỏi bọn mình. Ra ngoài vui chơi cũng hay lắm!
+story|405|0,,The two of us went searching for a card that really suits you!,Hai chúng ta đã đi tìm một lá bài thật sự hợp với bạn!,69,Hai đứa mình đã tìm được một lá bài thật hợp với cậu!
+story|406|0,,Hope you like it.,Hy vọng bạn thích.,20,Mong cậu sẽ thích!
