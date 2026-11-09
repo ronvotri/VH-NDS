@@ -1,0 +1,501 @@
+﻿stt,tep,key,tieng_Anh,tieng_Viet_hien_tai,ban_C02,ban_C03,gioi_han,so_ky_tu,trang_thai
+1,C_THOAI_DUEL_05.csv,talk|1142|0,Great job!!,Tuyệt lắm!!,,Tuyệt lắm!!,13,11,GIU_NGUYEN
+2,C_THOAI_DUEL_05.csv,talk|1143|0,Don't worry! The game has just begun!,Đừng lo! Trận đấu mới bắt đầu thôi!,,Đừng lo! Trận đấu mới bắt đầu thôi!,41,35,GIU_NGUYEN
+3,C_THOAI_DUEL_05.csv,talk|1144|0,"Oh, man...\nWe're doomed!",Trời ơi...\nChúng ta toi rùi!,,Trời ơi...\nChúng ta tiêu rồi!,31,30,SUA
+4,C_THOAI_DUEL_05.csv,talk|1145|0,Victory! Friendship!\nThat's what we came for!!,Chiến thắng! Tình bạn!\nĐây mới là điều chúng ta tìm đến!!,,Chiến thắng! Tình bạn!\nĐây mới là điều chúng ta tìm đến!!,63,58,GIU_NGUYEN
+5,C_THOAI_DUEL_05.csv,talk|1146|0,Keep your head up! \nYou're not alone!,Ngẩng cao đầu lên!\nCậu không đơn độc đâu!,,Ngẩng cao đầu lên!\nCậu không đơn độc đâu!,46,42,GIU_NGUYEN
+6,C_THOAI_DUEL_05.csv,talk|1147|0,"Next time give it some more guts, dude!!","Lần sau ra tay mạnh dạn hơn đi, anh em!!",,"Lần sau gan dạ hơn chút đi, anh bạn!!",45,37,SUA
+7,C_THOAI_DUEL_05.csv,talk|1148|0,Here I go!,Tôi vào đây!,,Tôi ra đây!,14,11,SUA
+8,C_THOAI_DUEL_05.csv,talk|1149|0,My turn!\nI draw!,Lượt của tôi!\nTôi rút bài!,,Lượt của tôi!\nTôi rút bài!,29,27,GIU_NGUYEN
+9,C_THOAI_DUEL_05.csv,talk|1150|0,This!,Lá này!,,Lá này!,8,7,GIU_NGUYEN
+10,C_THOAI_DUEL_05.csv,talk|1151|0,My monster now attacks! Hiya!,Quái thú của tôi tấn công! Hia!,,"Quái thú của tôi, tấn công! Ya!",35,31,SUA
+11,C_THOAI_DUEL_05.csv,talk|1152|0,My monster now attacks you directly!,Quái thú của tôi tấn công trực tiếp!,,Quái thú của tôi tấn công trực tiếp!,40,36,GIU_NGUYEN
+12,C_THOAI_DUEL_05.csv,talk|1153|0,Try to stand up to this!,Thử chịu nổi cái này xem!,,Thử chịu nổi cái này xem!,28,25,GIU_NGUYEN
+13,C_THOAI_DUEL_05.csv,talk|1154|0,I activate a Spell!,Tôi kích hoạt Spell!,,Tôi kích hoạt Phép!,23,19,SUA
+14,C_THOAI_DUEL_05.csv,talk|1155|0,Now!\nI activate my Trap!,Ngay bây giờ!\nTôi kích hoạt Trap!,,Ngay bây giờ!\nTôi kích hoạt Bẫy!,37,33,SUA
+15,C_THOAI_DUEL_05.csv,talk|1156|0,My turn is complete!,Lượt của tôi hoàn tất!,,Tôi kết thúc lượt!,25,18,SUA
+16,C_THOAI_DUEL_05.csv,talk|1157|0,Ah!,À!,,À!,4,2,GIU_NGUYEN
+17,C_THOAI_DUEL_05.csv,talk|1160|0,Stand up! This is no place for weakness!,Đứng dậy! Đây không phải chỗ cho sự yếu đuối!,,Đứng lên! Đừng tỏ ra yếu đuối thế!,50,34,SUA
+18,C_THOAI_DUEL_05.csv,talk|1161|0,What fantastic passion!\nWell played my boy!,"Nhiệt huyết tuyệt vời!\nChơi hay lắm, chàng trai!",,"Nhiệt huyết tuyệt vời!\nChơi hay lắm, chàng trai!",53,49,GIU_NGUYEN
+19,C_THOAI_DUEL_05.csv,talk|1162|0,"What, a draw? We duel again!","Sao, hòa à? Duel lại nào!",,"Sao, hòa à? Đấu lại nào!",31,24,SUA
+20,C_THOAI_DUEL_05.csv,talk|1163|0,Come!,Lại đây!,,Lại đây!,9,8,GIU_NGUYEN
+21,C_THOAI_DUEL_05.csv,talk|1166|0,What's wrong!,Sao thế!,,Sao thế!,15,8,GIU_NGUYEN
+22,C_THOAI_DUEL_05.csv,talk|1168|0,"C'mon, already!","Nào, nhanh lên!",,"Nào, nhanh lên!",17,15,GIU_NGUYEN
+23,C_THOAI_DUEL_05.csv,talk|1169|0,"Let's have a good, clean duel!",Hãy có một trận Duel hay và sạch sẽ nhé!,,Đấu một trận thật công bằng nhé!,45,32,SUA
+24,C_THOAI_DUEL_05.csv,talk|1170|0,There it is!!,Đây rồi!!,,Đây rồi!!,15,9,GIU_NGUYEN
+25,C_THOAI_DUEL_05.csv,talk|1171|0,Is that all!? Take the pain!!,Chỉ có thế thôi sao!? Nếm mùi đau đớn đi!!,,Chỉ có vậy thôi sao!? Nếm đòn này đi!!,47,38,SUA
+26,C_THOAI_DUEL_05.csv,talk|1172|0,"Get it together, will ya!?",Tỉnh lại đi chứ!?,,Tỉnh lại đi chứ!?,29,17,GIU_NGUYEN
+27,C_THOAI_DUEL_05.csv,talk|1173|0,That's the stuff!!\nFriendship and victory!!!,Đúng rồi đó!!\nTình bạn và chiến thắng!!!,,Đúng rồi đó!!\nTình bạn và chiến thắng!!!,49,41,GIU_NGUYEN
+28,C_THOAI_DUEL_05.csv,talk|1174|0,No! Noooo!!,Không! Khongggg!!,,Không! Khônggg!!,19,16,SUA
+29,C_THOAI_DUEL_05.csv,talk|1175|0,"A double KO, huh!?",Cả hai cùng gục à!?,,Cả hai cùng gục à!?,21,19,GIU_NGUYEN
+30,C_THOAI_DUEL_05.csv,talk|1176|0,Here I go!,Mình đi đây!,,Mình ra đây!,14,12,SUA
+31,C_THOAI_DUEL_05.csv,talk|1177|0,My turn!\nDraw!,Lượt của mình!\nRút bài!,,Lượt của mình!\nRút bài!,26,24,GIU_NGUYEN
+32,C_THOAI_DUEL_05.csv,talk|1178|0,This is it!,Chính là nó!,,Chính là nó!,14,12,GIU_NGUYEN
+33,C_THOAI_DUEL_05.csv,talk|1179|0,"My monster, attack!","Quái thú của mình, tấn công!",,"Quái thú của mình, tấn công!",31,28,GIU_NGUYEN
+34,C_THOAI_DUEL_05.csv,talk|1180|0,My monster attacks you directly!,Quái thú của mình tấn công trực tiếp!,,Quái thú của mình tấn công trực tiếp!,41,37,GIU_NGUYEN
+35,C_THOAI_DUEL_05.csv,talk|1181|0,My victory!\nGo!,Chiến thắng của mình!\nĐi!,,Thắng rồi!\nTiến lên!,28,21,SUA
+36,C_THOAI_DUEL_05.csv,talk|1182|0,Activate Spell!,Kích hoạt Spell!,,Kích hoạt Phép!,18,15,SUA
+37,C_THOAI_DUEL_05.csv,talk|1183|0,At this moment!\nActivate Trap!,Ngay lúc này!\nKích hoạt Trap!,,Ngay lúc này!\nKích hoạt Bẫy!,34,29,SUA
+38,C_THOAI_DUEL_05.csv,talk|1184|0,I end my turn!,Mình kết thúc lượt!,,Mình kết thúc lượt!,21,19,GIU_NGUYEN
+39,C_THOAI_DUEL_05.csv,talk|1185|0,Ah...,À...,,À...,6,4,GIU_NGUYEN
+40,C_THOAI_DUEL_05.csv,talk|1188|0,Good! I win!,Tốt! Mình thắng rồi!,,Tốt! Mình thắng rồi!,23,20,GIU_NGUYEN
+41,C_THOAI_DUEL_05.csv,talk|1189|0,"What? Me, lose...",Hử? Mình thua sao...,,Hả? Mình... thua sao...,23,23,SUA
+42,C_THOAI_DUEL_05.csv,talk|1190|0,A draw...,Hòa...,,Hòa...,10,6,GIU_NGUYEN
+43,C_THOAI_DUEL_05.csv,talk|1191|0,This is it!,Chính là nó!,,Chính là nó!,14,12,GIU_NGUYEN
+44,C_THOAI_DUEL_05.csv,talk|1193|0,I won't let you!,Mình không để cậu làm vậy đâu!,,Mình không để cậu làm vậy đâu!,34,30,GIU_NGUYEN
+45,C_THOAI_DUEL_05.csv,talk|1196|0,Double click your Deck if it's too much heat...,Nếu nóng quá thì cứ nhấp đúp vào Deck của cậu...,,Nóng quá thì nhấp đúp vào Bộ bài...,53,35,SUA
+46,C_THOAI_DUEL_05.csv,talk|1197|0,"Let's trust in our decks, and fight a good duel!","Hãy tin vào Deck của chúng ta,\nvà đem đến một trận Duel hay!",,Hãy tin vào Bộ bài và đấu thật hay nhé!,67,39,SUA
+47,C_THOAI_DUEL_05.csv,talk|1198|0,Nice comeback!,Lật kèo đẹp lắm!,,Lật kèo đẹp lắm!,18,16,GIU_NGUYEN
+48,C_THOAI_DUEL_05.csv,talk|1199|0,Hey! Get it together!,Này! Tỉnh lại đi!,,Này! Tỉnh lại đi!,24,17,GIU_NGUYEN
+49,C_THOAI_DUEL_05.csv,talk|1200|0,Hey! Stay in there!,"Này! Cố lên, đừng bỏ cuộc!",,"Này! Cố lên, đừng bỏ cuộc!",29,26,GIU_NGUYEN
+50,C_THOAI_DUEL_05.csv,talk|1201|0,Yes! Let's go on and take them all!!,Đúng rồi! Cùng hạ gục cả bốn họ nào!!,,Phải! Cùng đánh bại tất cả bọn họ!!,41,35,SUA
+51,C_THOAI_DUEL_05.csv,talk|1202|0,"No matter how strong they are, they can always be beat!","Dù họ mạnh tới đâu, vẫn luôn có thể bị đánh bại!",,"Dù mạnh đến đâu, họ vẫn có thể bị đánh bại!",61,43,SUA
+52,C_THOAI_DUEL_05.csv,talk|1203|0,"Oh well, it's better than losing, right? He he he.","Thôi kệ, còn hơn là thua, đúng không? Hề hề hề.",,"Thôi, ít ra không thua, nhỉ? Hì hì.",56,35,SUA
+53,C_THOAI_DUEL_05.csv,talk|1204|0,Shall we get started?,Chúng ta bắt đầu nhé?,,Chúng ta bắt đầu nhé?,24,21,GIU_NGUYEN
+54,C_THOAI_DUEL_05.csv,talk|1205|0,My turn!\nDraw!,Đến lượt em!\nRút bài!,,Đến lượt em!\nRút bài!,24,22,GIU_NGUYEN
+55,C_THOAI_DUEL_05.csv,talk|1206|0,How about that!?,Thế này thì sao!?,,Thế này thì sao!?,19,17,GIU_NGUYEN
+56,C_THOAI_DUEL_05.csv,talk|1207|0,Now to attack! Watch out!,Tấn công đây! Coi chừng nhé!,,Tấn công đây! Coi chừng nhé!,31,28,GIU_NGUYEN
+57,C_THOAI_DUEL_05.csv,talk|1208|0,Look out!\nI'm attacking you directly!,Coi chừng!\nEm tấn công trực tiếp đây!,,Coi chừng!\nEm tấn công trực tiếp đây!,41,38,GIU_NGUYEN
+58,C_THOAI_DUEL_05.csv,talk|1209|0,He he he. Looks like a win for me!,Hề hề hề. Hình như em thắng rồi!,,Hì hì. Chắc em thắng rồi!,38,25,SUA
+59,C_THOAI_DUEL_05.csv,talk|1210|0,Activate Spell!,Kích hoạt Spell!,,Kích hoạt Phép!,18,15,SUA
+60,C_THOAI_DUEL_05.csv,talk|1211|0,"He he, how's that for a Trap!?","Hề hề, Trap này thì sao nào!?",,"Hì hì, Bẫy này thấy sao!?",34,25,SUA
+61,C_THOAI_DUEL_05.csv,talk|1212|0,I end my turn!,Em kết thúc lượt!,,Em kết thúc lượt!,19,17,GIU_NGUYEN
+62,C_THOAI_DUEL_05.csv,talk|1213|0,Ouch... That hurts...,Âu... Đau quá...,,Ái... Đau quá...,24,16,SUA
+63,C_THOAI_DUEL_05.csv,talk|1214|0,Oooow! You got me!,Ooow! Anh trúng em rồi!,,Á! Anh đánh trúng em rồi!,26,25,SUA
+64,C_THOAI_DUEL_05.csv,talk|1216|0,"He he, I win!\nLet's play again!","Hề hề, em thắng!\nChơi lại nữa nhé!",,"Hì hì, em thắng!\nĐấu lại nhé!",38,30,SUA
+65,C_THOAI_DUEL_05.csv,talk|1217|0,"Oww, I lose.\nI'm no good at all.","Âu, em thua rồi.\nEm đúng là tệ thật.",,"Ái, em thua rồi.\nEm đúng là kém quá.",40,37,SUA
+66,C_THOAI_DUEL_05.csv,talk|1218|0,"Uh, a draw, huh?\nLet's play again!","Ủa, hòa à?\nChơi lại nữa nhé!",,"Ủa, hòa à?\nChơi lại nữa nhé!",38,29,GIU_NGUYEN
+67,C_THOAI_DUEL_05.csv,talk|1219|0,He he! What about that?,Hề hề! Cái này thì sao?,,Hì hì! Thế này thì sao?,26,23,SUA
+68,C_THOAI_DUEL_05.csv,talk|1220|0,"Ahh, what do I do now?","Aaa, giờ em phải làm sao đây?",,"Á, giờ em phải làm sao đây?",32,27,SUA
+69,C_THOAI_DUEL_05.csv,talk|1221|0,He he! Take that!,Hề hề! Nhận lấy này!,,Hì hì! Nhận lấy này!,23,20,SUA
+70,C_THOAI_DUEL_05.csv,talk|1222|0,"Uh huh, looking good.","Uh huh, trông ổn đây.",,"Ừm, có vẻ ổn đấy.",24,17,SUA
+71,C_THOAI_DUEL_05.csv,talk|1223|0,"Uhh, what shall I do...","Uhh, em nên làm gì đây...",,"Ừm, em làm sao bây giờ...",28,25,SUA
+72,C_THOAI_DUEL_05.csv,talk|1224|0,"Come on, hurry up!!","Nào, nhanh lên!!",,"Nào, nhanh lên!!",21,16,GIU_NGUYEN
+73,C_THOAI_DUEL_05.csv,talk|1225|0,"I'm relying on you, pal!",Em trông cậy cả vào anh đó!,,Em trông cậy cả vào anh đó!,30,27,GIU_NGUYEN
+74,C_THOAI_DUEL_05.csv,talk|1226|0,Woooow! \nYou're really cool!!,Woooow!\nAnh thật ngầu!!,,Oa!\nAnh ngầu thật đấy!!,32,24,SUA
+75,C_THOAI_DUEL_05.csv,talk|1227|0,What are you doing!!,Anh đang làm gì vậy!!,,Anh đang làm gì vậy!!,24,21,GIU_NGUYEN
+76,C_THOAI_DUEL_05.csv,talk|1228|0,"Hey there, keep your chin up!","Này, ngẩng đầu lên nào!",,"Này, ngẩng đầu lên nào!",32,23,GIU_NGUYEN
+77,C_THOAI_DUEL_05.csv,talk|1229|0,You gave the courage to do this! Thanks!,Nhờ anh mà em có dũng cảm làm được! Cảm ơn!,,Nhờ anh mà em đủ can đảm! Cảm ơn anh!,48,37,SUA
+78,C_THOAI_DUEL_05.csv,talk|1230|0,All of our careful plans were for nothing!,Mọi kế hoạch kỹ lưỡng của chúng ta đều vô ích!,,Mọi kế hoạch kỹ lưỡng của chúng ta đều vô ích!,51,46,GIU_NGUYEN
+79,C_THOAI_DUEL_05.csv,talk|1231|0,I thought you were going to back me up...,Em tưởng anh sẽ yểm trợ em chứ...,,Em tưởng anh sẽ yểm trợ em chứ...,46,33,GIU_NGUYEN
+80,C_THOAI_DUEL_05.csv,talk|1232|0,Shall we start?,Bắt đầu nào?,,Bắt đầu nào?,17,12,GIU_NGUYEN
+81,C_THOAI_DUEL_05.csv,talk|1233|0,My turn!\nDraw!,Lượt của tui!\nRút bài!,,Lượt của tui!\nRút bài!,25,23,GIU_NGUYEN
+82,C_THOAI_DUEL_05.csv,talk|1234|0,I'll leave it up to this guy for now!,Tạm thời giao cho nhóc này vậy!,,Tạm thời giao cho nhóc này vậy!,41,31,GIU_NGUYEN
+83,C_THOAI_DUEL_05.csv,talk|1235|0,Do your worst little one!,"Ra tay hết cỡ đi, nhóc con!",,"Ra tay hết cỡ đi, nhóc con!",30,27,GIU_NGUYEN
+84,C_THOAI_DUEL_05.csv,talk|1236|0,Yees! Direct attack!,Yeeees! Tấn công trực tiếp!,,Tuyệt! Tấn công trực tiếp!,30,26,SUA
+85,C_THOAI_DUEL_05.csv,talk|1237|0,You ready for this? I'm going to finish you off.,Sẵn sàng chưa? Tui sắp hạ cậu đây.,,Sẵn sàng chưa? Tui sắp hạ cậu đây.,53,34,GIU_NGUYEN
+86,C_THOAI_DUEL_05.csv,talk|1238|0,Moving right along... Activate Spell!,Tiếp tục thôi... Kích hoạt Spell!,,Tiếp tục thôi... Kích hoạt Phép!,41,32,SUA
+87,C_THOAI_DUEL_05.csv,talk|1239|0,"Activate Trap! He he, did you see that coming?","Kích hoạt Trap! Hề hề, cậu có lường trước được không?",,"Kích hoạt Bẫy! Hì hì, bất ngờ chưa?",59,35,SUA
+88,C_THOAI_DUEL_05.csv,talk|1240|0,I end my turn there!,Tui kết thúc lượt ở đây!,,Tui kết thúc lượt ở đây!,27,24,GIU_NGUYEN
+89,C_THOAI_DUEL_05.csv,talk|1242|0,Owwie! That smarts!,Âu âu! Đau chết đi được!,,Ái! Đau chết mất!,27,17,SUA
+90,C_THOAI_DUEL_05.csv,talk|1243|0,Uwaaaa!! You'll pay for that!,Uwaaaa!! Cậu sẽ phải trả giá!,,Áaaa!! Cậu sẽ phải trả giá!,32,27,SUA
+91,C_THOAI_DUEL_05.csv,talk|1244|0,"Ha ha, you poor little thing!\nPlay me again some time?","Ha ha, tội nghiệp chưa!\nLúc nào chơi với tui lần nữa nhé?",,"Ha ha, tội nghiệp chưa!\nLúc nào chơi với tui lần nữa nhé?",63,58,GIU_NGUYEN
+92,C_THOAI_DUEL_05.csv,talk|1245|0,"Darn, you got me.\nPlay again?","Chán thật, cậu thắng rồi.\nChơi lại nhé?",,"Chán thật, cậu thắng rồi.\nChơi lại nhé?",43,40,GIU_NGUYEN
+93,C_THOAI_DUEL_05.csv,talk|1246|0,No one wins.\nHmmm.,Không ai thắng.\nHmmm.,,Không ai thắng.\nHmmm.,24,22,GIU_NGUYEN
+94,C_THOAI_DUEL_05.csv,talk|1247|0,"Ha ha, surprise!!\nCool, huh?","Ha ha, bất ngờ chưa!!\nNgầu không?",,"Ha ha, bất ngờ chưa!!\nNgầu nhỉ?",37,32,SUA
+95,C_THOAI_DUEL_05.csv,talk|1248|0,Wha...!!\nWadda I do now?,Hử...!!\nGiờ tui phải làm sao đây?,,Cái... gì!?\nGiờ tui phải làm sao?,37,34,SUA
+96,C_THOAI_DUEL_05.csv,talk|1249|0,"OK, there! Te he he.",Xong! Tè he he.,,Xong rồi! Hì hì.,23,16,SUA
+97,C_THOAI_DUEL_05.csv,talk|1250|0,Ha ha ha ha...,Ha ha ha ha...,,Ha ha ha ha...,16,14,GIU_NGUYEN
+98,C_THOAI_DUEL_05.csv,talk|1251|0,Arg... What'll I do...,Arg... Tui phải làm sao đây...,,Á... Giờ tui làm sao đây...,34,27,SUA
+99,C_THOAI_DUEL_05.csv,talk|1252|0,"He he, have you given up?","Hề hề, cậu bỏ cuộc rồi à?",,"Hề hề, cậu bỏ cuộc rồi à?",28,25,GIU_NGUYEN
+100,C_THOAI_DUEL_05.csv,talk|1253|0,Yah! I'm your partner! Lucky you!,Yah! Tui là đồng đội của cậu đó! Cậu may quá!,,Yay! Tui là đồng đội cậu! May nhé!,50,34,SUA
+101,C_THOAI_DUEL_05.csv,talk|1254|0,Teh he he. They are all yours!,Tè he he. Giao hết cho cậu đó!,,Hì hì. Giao bọn chúng cho cậu!,34,30,SUA
+102,C_THOAI_DUEL_05.csv,talk|1255|0,Look after yourself!,Tự lo cho mình nhé!,,Tự lo cho mình nhé!,23,19,GIU_NGUYEN
+103,C_THOAI_DUEL_05.csv,talk|1256|0,"Turn this duel around, and I'll owe you one!","Lật ngược trận Duel này đi, tui sẽ mang ơn cậu!",,"Lật ngược thế trận đi, tui mang ơn cậu!",52,39,SUA
+104,C_THOAI_DUEL_05.csv,talk|1257|0,Nice job! \nI owe you big time...,Giỏi lắm!\nTui mang ơn cậu nhiều lắm...,,Giỏi lắm!\nTui nợ cậu nhiều lắm...,42,34,SUA
+105,C_THOAI_DUEL_05.csv,talk|1258|0,Humph! No more special treatment from me!,Hmph! Tui sẽ không ưu ái cậu nữa đâu!,,Hừ! Đừng mong tui ưu ái nữa!,46,28,SUA
+106,C_THOAI_DUEL_05.csv,talk|1259|0,Teh he he. \nWe almost had them.,Tè he he.\nSuýt chút nữa là thắng họ rồi.,,Hì hì.\nSuýt nữa là thắng rồi.,45,30,SUA
+107,C_THOAI_DUEL_05.csv,talk|1260|0,Let's get this over with!,Xong chuyện này nhanh thôi!,,Giải quyết lẹ chuyện này nào!,30,29,SUA
+108,C_THOAI_DUEL_05.csv,talk|1261|0,My turn!\nDraw!,Lượt của tui!\nRút bài!,,Lượt của tui!\nRút bài!,25,23,GIU_NGUYEN
+109,C_THOAI_DUEL_05.csv,talk|1262|0,I summon a monster!\nWhat about that!?,Tui Summon một quái thú!\nThế này thì sao!?,,Tui Triệu hồi quái thú!\nThấy sao hả!?,47,38,SUA
+110,C_THOAI_DUEL_05.csv,talk|1263|0,You won't be able to do anything against this attack!,Cậu không làm gì được trước đòn này đâu!,,Đòn này cậu chẳng đỡ nổi đâu!,59,29,SUA
+111,C_THOAI_DUEL_05.csv,talk|1264|0,Geez! At least put out a monster or something!,Trời ơi! Ít nhất cũng phải đặt một quái thú chứ!,,Trời! Ít ra cũng Triệu hồi quái đi chứ!,53,39,SUA
+112,C_THOAI_DUEL_05.csv,talk|1265|0,Is that it...?\nTry harder!,Có thế thôi sao...?\nCố gắng lên chút!,,Có thế thôi sao...?\nCố gắng lên chút!,41,38,GIU_NGUYEN
+113,C_THOAI_DUEL_05.csv,talk|1266|0,I so activate a Spell Card!,Tui kích hoạt Spell Card đây nha!,,Tui kích hoạt lá Phép đây nha!,37,30,SUA
+114,C_THOAI_DUEL_05.csv,talk|1267|0,I totally activate a Trap!,Tui kích hoạt Trap luôn nha!,,Tui kích hoạt Bẫy luôn nha!,31,27,SUA
+115,C_THOAI_DUEL_05.csv,talk|1268|0,That's all for my turn!,Lượt của tui đến đây thôi!,,Lượt của tui đến đây thôi!,29,26,GIU_NGUYEN
+116,C_THOAI_DUEL_05.csv,talk|1269|0,Hey! That hurts!,Này! Đau đó!,,Này! Đau đó!,18,12,GIU_NGUYEN
+117,C_THOAI_DUEL_05.csv,talk|1270|0,Ahhhh!!\nYou're pretty good!,Aaaa!!\nCậu cũng giỏi đó chứ!,,Aaaa!!\nCậu cũng giỏi đó chứ!,31,29,GIU_NGUYEN
+118,C_THOAI_DUEL_05.csv,talk|1271|0,Ahhhhhhh!\nAre you for real!?,Aaaaaaa!\nCậu chơi thật sao!?,,Áaaaa!\nCậu nghiêm túc đấy à!?,31,30,SUA
+119,C_THOAI_DUEL_05.csv,talk|1272|0,Humph! What a let down you turned out to be!,Hmph! Cậu thật làm tui thất vọng!,,Hừ! Cậu làm tui thất vọng quá!,49,30,SUA
+120,C_THOAI_DUEL_05.csv,talk|1273|0,You're... good! I might have underestimated you.,Cậu... giỏi thật! Có lẽ tui đã xem thường cậu.,,Cậu... giỏi thật! Có lẽ tui đã xem thường cậu.,53,46,GIU_NGUYEN
+121,C_THOAI_DUEL_05.csv,talk|1274|0,Humph! We'll settle this next time!,Hmph! Lần sau phân thắng bại nhé!,,Hmph! Lần sau phân thắng bại nhé!,39,33,GIU_NGUYEN
+122,C_THOAI_DUEL_05.csv,talk|1275|0,Are you crazy!?\nTry to stop this one!,Cậu điên à!?\nThử cản cái này xem!,,Cậu điên à!?\nThử cản cái này xem!,41,34,GIU_NGUYEN
+123,C_THOAI_DUEL_05.csv,talk|1276|0,Ah!.. D-Doesn't matter. That won't slow me down!,À!.. K-Không sao. Cái đó không làm tui\nchùn lại đâu!,,Á!.. K-Không sao. Tui chưa chịu thua đâu!,58,41,SUA
+124,C_THOAI_DUEL_05.csv,talk|1277|0,Humph! Well then!\n How about this?,Hmph! Vậy thì!\nCái này thì sao?,,Hmph! Vậy thì!\nCái này thì sao?,38,32,GIU_NGUYEN
+125,C_THOAI_DUEL_05.csv,talk|1278|0,"If you're going to surrender, now's the time.","Nếu cậu tính đầu hàng, thì bây giờ là lúc đó.",,"Nếu cậu tính đầu hàng, thì bây giờ là lúc đó.",50,45,GIU_NGUYEN
+126,C_THOAI_DUEL_05.csv,talk|1279|0,I-It's not like I'm worried or anything!,T-Tui đâu có lo lắng gì đâu!,,T-Tui đâu có lo gì hết!,45,23,SUA
+127,C_THOAI_DUEL_05.csv,talk|1280|0,Humph! \nAre you ever going to play!?,Hmph!\nBao giờ cậu mới chịu đánh vậy!?,,Hừ!\nBao giờ cậu mới đánh hả!?,41,30,SUA
+128,C_THOAI_DUEL_05.csv,talk|1281|0,I won't forgive you if we lose this duel!!,"Nếu thua trận Duel này, tui sẽ không tha cho cậu đâu!!",,Thua trận này thì tui không tha đâu!!,60,37,SUA
+129,C_THOAI_DUEL_05.csv,talk|1282|0,"A-Ah, nice...","À-À, tốt lắm...",,"À-À, tốt lắm...",17,15,GIU_NGUYEN
+130,C_THOAI_DUEL_05.csv,talk|1283|0,"Get a grip! You are my partner, right!?","Tỉnh lại đi! Cậu là đồng đội của tui, đúng không!?",,"Tỉnh lại đi! Cậu là đồng đội của tui, đúng không!?",56,50,GIU_NGUYEN
+131,C_THOAI_DUEL_05.csv,talk|1284|0,Get up!!\nI'm begging you!!,Đứng dậy đi!!\nTui cầu xin cậu đó!!,,Đứng dậy đi!!\nTui cầu xin cậu đó!!,38,35,GIU_NGUYEN
+132,C_THOAI_DUEL_05.csv,talk|1285|0,"A-Ah, thanks...","À-À, cảm ơn...",,"À-À, cảm ơn...",17,14,GIU_NGUYEN
+133,C_THOAI_DUEL_05.csv,talk|1286|0,I'll give you one more chance. Don't fail me again!!,Tui cho cậu thêm một cơ hội nữa.\nĐừng làm tui thất vọng lần nữa!!,,Tui cho cậu thêm cơ hội. Đừng phụ lòng tui!!,72,44,SUA
+134,C_THOAI_DUEL_05.csv,talk|1287|0,"You had it going, but you messed it up...","Đang thuận lợi, vậy mà cậu lại làm hỏng...",,Đang thắng thế mà cậu phá hỏng hết...,47,37,SUA
+135,C_THOAI_DUEL_05.csv,talk|1288|0,This time it's me!,Lần này đến lượt ta!,,Lần này đến lượt ta!,23,20,GIU_NGUYEN
+136,C_THOAI_DUEL_05.csv,talk|1289|0,My turn!\nDraw!,Lượt của ta!\nRút bài!,,Lượt của ta!\nRút bài!,24,22,GIU_NGUYEN
+137,C_THOAI_DUEL_05.csv,talk|1290|0,Here we go!\nBam!,Bắt đầu nào!\nBấm!,,Bắt đầu nào!\nBùm!,19,18,SUA
+138,C_THOAI_DUEL_05.csv,talk|1291|0,Here goes my attack!\nWomp!,Đòn tấn công của ta đây!\nWomp!,,Ta tấn công đây!\nBốp!,34,22,SUA
+139,C_THOAI_DUEL_05.csv,talk|1292|0,"No guard, huh?\nFull assault!",Không phòng thủ à?\nTổng tấn công!,,Không phòng thủ à?\nTổng tấn công!,37,34,GIU_NGUYEN
+140,C_THOAI_DUEL_05.csv,talk|1293|0,Get ready for it.\nYou're gone!,Chuẩn bị đi.\nCậu tiêu đời!,,Chuẩn bị đi.\nCậu tiêu đời!,34,27,GIU_NGUYEN
+141,C_THOAI_DUEL_05.csv,talk|1294|0,The sorceress activates her Spell! Check it out!,Nữ pháp sư kích hoạt Spell! Ngó qua đi!,,Nữ pháp sư tung Phép! Xem này!,53,30,SUA
+142,C_THOAI_DUEL_05.csv,talk|1295|0,Activate Trap!\nWrithe in pain! Ha ha ha!,Kích hoạt Trap!\nQuằn quại trong đau đớn đi! Ha ha ha!,,Kích hoạt Bẫy!\nĐau đớn đi! Ha ha ha!,59,37,SUA
+143,C_THOAI_DUEL_05.csv,talk|1296|0,End turn!\nYour go!,Hết lượt!\nĐến lượt cậu!,,Hết lượt!\nĐến lượt cậu!,26,24,GIU_NGUYEN
+144,C_THOAI_DUEL_05.csv,talk|1297|0,Ouch! You got me!,Âu! Trung ta rồi!,,Ái! Trúng ta rồi!,19,17,SUA
+145,C_THOAI_DUEL_05.csv,talk|1298|0,Ow ow ow!\nQuit it!,Âu âu âu!\nDừng lại!,,Ái ái ái!\nDừng lại!,21,20,SUA
+146,C_THOAI_DUEL_05.csv,talk|1299|0,Ahhhhhhhhhhhhh!!!\nYou heartless brute.,Aaaaaaaaaaaa!!!\nĐồ thú vô tâm.,,Áaaaa!!!\nĐồ hung ác vô tình!,42,29,SUA
+147,C_THOAI_DUEL_05.csv,talk|1300|0,Ha ha ha! I win!\nWorship me!,Ha ha ha! Ta thắng!\nHãy tôn thờ ta đi!,,Ha ha ha! Ta thắng!\nHãy tôn thờ ta đi!,42,39,GIU_NGUYEN
+148,C_THOAI_DUEL_05.csv,talk|1301|0,I lose!?\nNot very hospitable are you?,Ta thua sao!?\nCậu chẳng hiếu khách chút nào nhỉ?,,Ta thua sao!?\nCậu chẳng hiếu khách chút nào nhỉ?,53,49,GIU_NGUYEN
+149,C_THOAI_DUEL_05.csv,talk|1302|0,A draw! Next time let's toss a coin to see who wins!,Hòa rồi! Lần sau tung đồng xu xem ai thắng nhé!,,Hòa rồi! Lần sau tung đồng xu xem ai thắng nhé!,58,47,GIU_NGUYEN
+150,C_THOAI_DUEL_05.csv,talk|1303|0,Dah da da dum!\nTake that!,Tăng ta ta ta!\nNhận lấy này!,,Tăng ta ta ta!\nNhận lấy!,31,25,SUA
+151,C_THOAI_DUEL_05.csv,talk|1304|0,"Huh, what?\nTime out!!","Hử, gì vậy?\nXin tạm dừng!!",,"Hử, gì vậy?\nXin tạm dừng!!",29,27,GIU_NGUYEN
+152,C_THOAI_DUEL_05.csv,talk|1305|0,Hah ha ha!\nI chain! Mwah ha ha.,Ha ha ha!\nTa đưa vào Chain! Muah ha ha.,,Ha ha ha!\nTa nối Chuỗi! Ha ha!,43,31,SUA
+153,C_THOAI_DUEL_05.csv,talk|1306|0,Teh he he...,Tè he he...,,Tè he he...,14,11,GIU_NGUYEN
+154,C_THOAI_DUEL_05.csv,talk|1307|0,When it gets tough... I pray...,Khi khốn khó... ta cầu nguyện...,,Khi khốn khó... ta cầu nguyện...,36,32,GIU_NGUYEN
+155,C_THOAI_DUEL_05.csv,talk|1308|0,"Knock knock, anyone home?","Cốc cốc, có ai ở nhà không?",,"Cốc cốc, có ai ở nhà không?",30,27,GIU_NGUYEN
+156,C_THOAI_DUEL_05.csv,talk|1309|0,Me and you are going to take the win!!,Ta và cậu sẽ giành chiến thắng!!,,Ta với cậu sẽ thắng trận này!!,42,30,SUA
+157,C_THOAI_DUEL_05.csv,talk|1310|0,Wah... Awesome dude!,Wa... Tuyệt quá bạn ơi!,,"Oa... Đỉnh thật, anh bạn!",26,25,SUA
+158,C_THOAI_DUEL_05.csv,talk|1311|0,Don't you cry!\nI'll get you!,Đừng khóc!\nTa sẽ trả thù cho cậu!,,Đừng khóc!\nTa sẽ bắt được ngươi!,37,33,SUA
+159,C_THOAI_DUEL_05.csv,talk|1312|0,"Ouchy, ouchy, fly away...!!","Đau đau, bay đi nào...!!",,"Đau đau, biến đi nào...!!",30,25,SUA
+160,C_THOAI_DUEL_05.csv,talk|1313|0,"So that's cooperation, huh!!",Hóa ra đó là hợp tác à!!,,Hóa ra đó là hợp tác à!!,31,24,GIU_NGUYEN
+161,C_THOAI_DUEL_05.csv,talk|1314|0,"Boo hoo, we lost big time...!!","Hu hu, chúng ta thua đậm rồi...!!",,"Hu hu, chúng ta thua đậm rồi...!!",37,33,GIU_NGUYEN
+162,C_THOAI_DUEL_05.csv,talk|1315|0,"Ho, ho...\nLooks like a tie!","Hô, hô...\nHình như hòa rồi!",,Hô hô...\nXem ra hòa rồi!,30,25,SUA
+163,C_THOAI_DUEL_05.csv,talk|1316|0,May the best me win!,Người giỏi nhất sẽ thắng - tức là ta!,,Người giỏi nhất sẽ thắng - tức là ta!,41,37,GIU_NGUYEN
+164,C_THOAI_DUEL_05.csv,talk|1317|0,My turn...\nDraw.,Lượt của tôi...\nRút bài.,,Lượt của tôi...\nRút bài.,27,25,GIU_NGUYEN
+165,C_THOAI_DUEL_05.csv,talk|1318|0,I summon.,Tôi Summon.,,Tôi gọi ra.,13,11,SUA
+166,C_THOAI_DUEL_05.csv,talk|1319|0,Target locked on...\nAttack!,Đã khóa mục tiêu...\nTấn công!,,Đã khóa mục tiêu...\nTấn công!,32,30,GIU_NGUYEN
+167,C_THOAI_DUEL_05.csv,talk|1320|0,Commence full frontal attack.,Bắt đầu tấn công chính diện toàn lực.,,Bắt đầu tấn công chính diện toàn lực.,41,37,GIU_NGUYEN
+168,C_THOAI_DUEL_05.csv,talk|1321|0,Here comes the killing blow!,Đòn chí mạng đây!,,Đòn chí mạng đây!,31,17,GIU_NGUYEN
+169,C_THOAI_DUEL_05.csv,talk|1322|0,Spell Card activate...,"Spell Card, kích hoạt...",,Kích hoạt lá Phép...,27,20,SUA
+170,C_THOAI_DUEL_05.csv,talk|1323|0,Right now...\nActivate Trap!,Ngay bây giờ...\nKích hoạt Trap!,,Ngay bây giờ...\nKích hoạt Bẫy!,35,31,SUA
+171,C_THOAI_DUEL_05.csv,talk|1324|0,I end my turn.,Tôi kết thúc lượt.,,Tôi kết thúc lượt.,20,18,GIU_NGUYEN
+172,C_THOAI_DUEL_05.csv,talk|1325|0,I took a hit...\nVital signs OK...,Tôi bị trúng đòn...\nSinh hiệu ổn định...,,Trúng đòn...\nSinh hiệu ổn định...,45,34,SUA
+173,C_THOAI_DUEL_05.csv,talk|1326|0,...!!\nModerate injuries... ,...!!\nThương tích mức vừa...,,...!!\nThương tích vừa...,31,25,SUA
+174,C_THOAI_DUEL_05.csv,talk|1327|0,...!!!!\nI'm flat lining here!,...!!!!\nNhịp tim tôi ngừng đập rồi!,,...!!!!\nTim tôi ngừng đập rồi!,39,31,SUA
+175,C_THOAI_DUEL_05.csv,talk|1328|0,I win! Here's to the health of the card spirits...,Tôi thắng! Xin chúc sức khỏe\ncác linh hồn lá bài...,,Tôi thắng! Chúc linh hồn các lá bài mạnh khỏe...,57,48,SUA
+176,C_THOAI_DUEL_05.csv,talk|1329|0,I lose... Here's to the health of the card spirits...,Tôi thua... Xin chúc sức khỏe\ncác linh hồn lá bài...,,Tôi thua... Chúc linh hồn các lá bài mạnh khỏe...,59,49,SUA
+177,C_THOAI_DUEL_05.csv,talk|1330|0,A draw... Here's to the health of the card spirits...,Hòa... Xin chúc sức khỏe\ncác linh hồn lá bài...,,Hòa rồi... Chúc linh hồn các lá bài mạnh khỏe...,59,48,SUA
+178,C_THOAI_DUEL_05.csv,talk|1331|0,Key Card... Activate!!,Key Card... Kích hoạt!!,,Lá chủ lực... Kích hoạt!!,26,25,SUA
+179,C_THOAI_DUEL_05.csv,talk|1332|0,Hmm... The antithesis of my expectations...,Hmm... Hoàn toàn trái ngược với mong đợi của tôi...,,Hmm... Trái hẳn với dự đoán của tôi...,57,38,SUA
+180,C_THOAI_DUEL_05.csv,talk|1333|0,...can I join in?,...tôi tham gia được không?,,...tôi tham gia được không?,30,27,GIU_NGUYEN
+181,C_THOAI_DUEL_05.csv,talk|1334|0,My duel tactics are all systems go...,Chiến thuật Duel của tôi: mọi hệ thống sẵn sàng...,,Chiến thuật đấu: mọi hệ thống đã sẵn sàng...,56,44,SUA
+182,C_THOAI_DUEL_05.csv,talk|1335|0,...There's no coming back from the dead now...,...Không thể hồi sinh từ cõi chết được nữa...,,...Lần này không thể hồi sinh nữa...,51,36,SUA
+183,C_THOAI_DUEL_05.csv,talk|1336|0,Doctor! I think he's flat lining...,Bác sĩ! Hình như bệnh nhân ngừng tim rồi...,,Bác sĩ! Hình như bệnh nhân ngừng tim...,48,39,SUA
+184,C_THOAI_DUEL_05.csv,talk|1337|0,You've got my full support partner...,"Bạn có sự hỗ trợ trọn vẹn của tôi, đồng đội...",,Đồng đội... Tôi sẽ hỗ trợ hết mình...,51,37,SUA
+185,C_THOAI_DUEL_05.csv,talk|1338|0,An unexpected development...,Một diễn biến ngoài dự kiến...,,Một diễn biến ngoài dự kiến...,34,30,GIU_NGUYEN
+186,C_THOAI_DUEL_05.csv,talk|1339|0,It's just a graze...,Chỉ xước xát nhẹ thôi...,,Chỉ xước xát nhẹ thôi...,27,24,GIU_NGUYEN
+187,C_THOAI_DUEL_05.csv,talk|1340|0,Nurse! It's critical!,Y tá! Nguy kịch rồi!,,Y tá! Nguy kịch rồi!,24,20,GIU_NGUYEN
+188,C_THOAI_DUEL_05.csv,talk|1341|0,"Partner compatibility, 100%...",Độ tương thích đồng đội: 100%...,,Độ tương thích đồng đội: 100%...,36,32,GIU_NGUYEN
+189,C_THOAI_DUEL_05.csv,talk|1342|0,Failure to communicate...,Lỗi giao tiếp...,,Lỗi giao tiếp...,28,16,GIU_NGUYEN
+190,C_THOAI_DUEL_05.csv,talk|1343|0,We need some pep pills...,Chúng ta cần vài viên thuốc bổ...,,Chúng ta cần thuốc tăng lực...,37,30,SUA
+191,C_THOAI_DUEL_05.csv,talk|1344|0,Let's get this party started!,Khai tiệc nào!,,Khai tiệc nào!,32,14,GIU_NGUYEN
+192,C_THOAI_DUEL_05.csv,talk|1345|0,My turn.\nI diggedy draw!,"Lượt tui.\nTui rút bài nào, thình thịch!",,Đến lượt tui!\nRút bài tới đây!,43,31,SUA
+193,C_THOAI_DUEL_05.csv,talk|1346|0,I summon this bad boy!,Tui Summon thằng nhóc ngầu này!,,Tui Triệu hồi nhóc ngầu này!,35,28,SUA
+194,C_THOAI_DUEL_05.csv,talk|1347|0,Attack! Chew on this!,Tấn công! Nhai cái này đi!,,Tấn công! Ăn đòn này đi!,29,24,SUA
+195,C_THOAI_DUEL_05.csv,talk|1348|0,Direct Attackio!,Direct Attack luôn!,,Tấn công trực tiếp!,21,19,SUA
+196,C_THOAI_DUEL_05.csv,talk|1349|0,That's all folks!,"Hết rồi, thưa các bạn!",,"Hết màn rồi, bà con ơi!",25,23,SUA
+197,C_THOAI_DUEL_05.csv,talk|1350|0,Activation! Spell Card!,Kích hoạt! Spell Card!,,Kích hoạt! Lá Phép!,26,19,SUA
+198,C_THOAI_DUEL_05.csv,talk|1351|0,Stop...\nTrap time! ,Dừng lại...\nĐến giờ Trap!,,Khoan...\nĐến giờ Bẫy!,28,22,SUA
+199,C_THOAI_DUEL_05.csv,talk|1352|0,Hereth endeth my turn.,"Lượt tui đến đây là hết, hô hô.",,Lượt tui kết thúc tại đây!,35,26,SUA
+200,C_THOAI_DUEL_05.csv,talk|1353|0,Uh! I'm still partying!,Uh! Tui vẫn còn đang quẩy!,,Á! Tui còn đang vui mà!,29,23,SUA
+201,C_THOAI_DUEL_05.csv,talk|1354|0,Uhhhh!!\nThat smarts! ,Uhhhh!!\nĐau quá trời!,,Uhhhh!!\nĐau quá trời!,24,22,GIU_NGUYEN
+202,C_THOAI_DUEL_05.csv,talk|1355|0,Ahhhhhh!!!\nIt hurts! It hurts!,Aaaaaa!!!\nĐau! Đau quá!,,Aaaaaa!!!\nĐau! Đau quá!,34,24,GIU_NGUYEN
+203,C_THOAI_DUEL_05.csv,talk|1356|0,Looks like I win!\nThat was fun!,Hình như tui thắng!\nVui ghê!,,Hình như tui thắng!\nVui ghê!,35,29,GIU_NGUYEN
+204,C_THOAI_DUEL_05.csv,talk|1357|0,Looks like I lose...\nThanking you kindly!,Hình như tui thua...\nXin cảm ơn bạn nhiều!,,Hình như tui thua...\nCảm ơn nhé!,47,33,SUA
+205,C_THOAI_DUEL_05.csv,talk|1358|0,"A draw, huh?\nThanking you kindly!",Hòa à?\nXin cảm ơn bạn nhiều!,,Hòa rồi à?\nCảm ơn nhé!,37,23,SUA
+206,C_THOAI_DUEL_05.csv,talk|1359|0,I activate my killer card!!,Tui kích hoạt lá bài sát thủ của tui!!,,Tui kích hoạt lá bài sát thủ của tui!!,42,38,GIU_NGUYEN
+207,C_THOAI_DUEL_05.csv,talk|1360|0,Huh!? That puts me in a pickle!,Hử!? Vậy là tui kẹt cứng rồi!,,Hử!? Vậy là tui kẹt cứng rồi!,35,29,GIU_NGUYEN
+208,C_THOAI_DUEL_05.csv,talk|1361|0,If that's the way you wanna play it... take that!,Nếu cậu muốn chơi kiểu đó... nhận lấy này!,,Nếu cậu muốn chơi kiểu đó... nhận lấy này!,54,42,GIU_NGUYEN
+209,C_THOAI_DUEL_05.csv,talk|1362|0,Teh he he he,Tệ hề hề hề,,Hì hì hì!,14,9,SUA
+210,C_THOAI_DUEL_05.csv,talk|1363|0,I'm in a little bit of trouble here...,Tui đang gặp chút rắc rối đây...,,Tui đang gặp chút rắc rối đây...,42,32,GIU_NGUYEN
+211,C_THOAI_DUEL_05.csv,talk|1364|0,Have you nodded off?,Cậu ngủ gật rồi à?,,Cậu ngủ gật rồi à?,23,18,GIU_NGUYEN
+212,C_THOAI_DUEL_05.csv,talk|1365|0,Let's diggedy do this!,Cùng ra tay thôi nào!,,Quẩy lên nào!,25,13,SUA
+213,C_THOAI_DUEL_05.csv,talk|1366|0,Heartfelt thanks to ye!,Chân thành cảm ơn bạn!,,Xin chân thành cảm ơn!,26,22,SUA
+214,C_THOAI_DUEL_05.csv,talk|1367|0,"Oh, ah!! \nYou get a boo boo...?","Ồ, à!!\nCậu bị đau đau à...?",,Ồ!\nCậu bị đau hả...?,35,21,SUA
+215,C_THOAI_DUEL_05.csv,talk|1368|0,It's all downhill from here...!!,Từ đây trở đi là xuống dốc hết...!!,,Thế này thì càng lúc càng tệ...!!,39,33,SUA
+216,C_THOAI_DUEL_05.csv,talk|1369|0,Alright! Strike that winning pose!!,Tuyệt! Tạo dáng chiến thắng nào!!,,Tuyệt! Tạo dáng chiến thắng nào!!,39,33,GIU_NGUYEN
+217,C_THOAI_DUEL_05.csv,talk|1370|0,We lost the duel!? \nSorry 'bout that champ!!,"Chúng ta thua Duel rồi!?\nXin lỗi nhé, nhà vô địch!!",,"Thua trận rồi!?\nXin lỗi nhé, anh bạn!!",57,39,SUA
+218,C_THOAI_DUEL_05.csv,talk|1371|0,Argh! \nI want another go!!,Argh!\nTui muốn chơi lại!!,,Argh!\nTui muốn chơi lại!!,29,26,GIU_NGUYEN
+219,C_THOAI_DUEL_05.csv,talk|1372|0,Let's have a pleasant duel.,Hãy có một trận Duel thú vị nhé.,,Chúc một trận đấu vui vẻ.,36,25,SUA
+220,C_THOAI_DUEL_05.csv,talk|1373|0,My turn.\nI draw.,Lượt của ta.\nTa rút bài.,,Lượt của ta.\nTa rút bài.,27,25,GIU_NGUYEN
+221,C_THOAI_DUEL_05.csv,talk|1374|0,How about this.,Thế cái này thì sao.,,Thế cái này thì sao.,23,20,GIU_NGUYEN
+222,C_THOAI_DUEL_05.csv,talk|1375|0,My monster will attack.,Quái thú của ta sẽ tấn công.,,Quái thú của ta sẽ tấn công.,31,28,GIU_NGUYEN
+223,C_THOAI_DUEL_05.csv,talk|1376|0,My monster will attack you directly.,Quái thú của ta sẽ tấn công trực tiếp.,,Quái thú của ta sẽ tấn công trực tiếp.,42,38,GIU_NGUYEN
+224,C_THOAI_DUEL_05.csv,talk|1377|0,My victory's guaranteed. Accept your loss.,Chiến thắng của ta đã chắc chắn. Hãy chấp nhận thất bại.,,Chiến thắng của ta đã chắc chắn. Hãy chấp nhận thất bại.,62,56,GIU_NGUYEN
+225,C_THOAI_DUEL_05.csv,talk|1378|0,I activate a Spell.,Ta kích hoạt Spell.,,Ta kích hoạt Phép.,21,18,SUA
+226,C_THOAI_DUEL_05.csv,talk|1379|0,Right now.\nI will activate a Trap.,Ngay lúc này.\nTa sẽ kích hoạt Trap.,,Ngay lúc này.\nTa kích hoạt Bẫy.,39,32,SUA
+227,C_THOAI_DUEL_05.csv,talk|1380|0,It's the end of my turn.,Lượt của ta kết thúc.,,Lượt của ta kết thúc.,27,21,GIU_NGUYEN
+228,C_THOAI_DUEL_05.csv,talk|1384|0,Humph...I win.,Hmph... Ta thắng.,,Hừm... Ta thắng.,19,16,SUA
+229,C_THOAI_DUEL_05.csv,talk|1385|0,Oof...I lost...,Hử... Ta thua...,,Hự... Ta thua...,18,16,SUA
+230,C_THOAI_DUEL_05.csv,talk|1386|0,A draw...,Hòa...,,Hòa...,10,6,GIU_NGUYEN
+231,C_THOAI_DUEL_05.csv,talk|1387|0,This is it.,Chính là nó.,,Chính là nó.,14,12,GIU_NGUYEN
+232,C_THOAI_DUEL_05.csv,talk|1389|0,I'll stop you.,Ta sẽ ngăn cậu.,,Ta sẽ ngăn cậu.,17,15,GIU_NGUYEN
+233,C_THOAI_DUEL_05.csv,talk|1392|0,Don't make a fool of me!,Đừng coi ta là kẻ ngốc!,,Đừng coi ta là kẻ ngốc!,27,23,GIU_NGUYEN
+234,C_THOAI_DUEL_05.csv,talk|1393|0,We shall show them our strength!!,Chúng ta sẽ cho họ thấy sức mạnh của mình!!,,Chúng ta sẽ cho họ thấy sức mạnh của mình!!,48,43,GIU_NGUYEN
+235,C_THOAI_DUEL_05.csv,talk|1394|0,That's my partner right there!,Đúng là đồng đội của ta!,,Đúng là đồng đội của ta!,34,24,GIU_NGUYEN
+236,C_THOAI_DUEL_05.csv,talk|1395|0,It all starts here!,Mọi thứ bắt đầu từ đây!,,Mọi chuyện bắt đầu từ đây!,26,26,SUA
+237,C_THOAI_DUEL_05.csv,talk|1396|0,You must never surrender!!,Cậu không bao giờ được đầu hàng!!,,Cậu không bao giờ được đầu hàng!!,37,33,GIU_NGUYEN
+238,C_THOAI_DUEL_05.csv,talk|1397|0,It's just begun!\nWe will only get stronger!,Mới chỉ bắt đầu thôi!\nChúng ta chỉ có thể mạnh lên!,,Mới bắt đầu thôi!\nChúng ta sẽ mạnh hơn!,57,40,SUA
+239,C_THOAI_DUEL_05.csv,talk|1398|0,"Aargh!! Don't mess up again, you chump!","Aargh!! Đừng làm hỏng chuyện nữa, thằng ngốc!",,"Á! Đừng phá hỏng nữa, đồ ngốc!",50,30,SUA
+240,C_THOAI_DUEL_05.csv,talk|1399|0,Aah... \nAnd we tried so hard...,Aah...\nVậy mà chúng ta đã cố gắng hết sức...,,Aah...\nVậy mà chúng ta đã cố gắng hết sức...,49,45,GIU_NGUYEN
+241,C_THOAI_DUEL_05.csv,talk|1400|0,Would you do me the honor? ,Quý ngài có vui lòng cho tôi vinh dự này không?,,Cho tôi vinh dự được đấu với ngài nhé?,52,38,SUA
+242,C_THOAI_DUEL_05.csv,talk|1401|0,It appears to be my turn.\nI draw.,Hình như đến lượt tôi.\nTôi rút bài.,,Hình như đến lượt tôi.\nTôi rút bài.,39,36,GIU_NGUYEN
+243,C_THOAI_DUEL_05.csv,talk|1402|0,I think I may go with this.,Tôi nghĩ tôi sẽ chọn lá này.,,Tôi nghĩ mình sẽ chọn lá này.,31,29,SUA
+244,C_THOAI_DUEL_05.csv,talk|1403|0,Come home safe little one.,"Hãy trở về bình an nhé, bé con.",,"Về bình an nhé, bé con.",35,23,SUA
+245,C_THOAI_DUEL_05.csv,talk|1404|0,He he... Prepare yourself.,Hề hề... Hãy chuẩn bị tinh thần.,,Hề hề... Hãy chuẩn bị tinh thần.,36,32,GIU_NGUYEN
+246,C_THOAI_DUEL_05.csv,talk|1405|0,"Oh my, it looks like I win.","Ôi chao, hình như tôi thắng rồi.",,"Ôi chao, hình như tôi thắng rồi.",36,32,GIU_NGUYEN
+247,C_THOAI_DUEL_05.csv,talk|1406|0,I activate my Spell Card.,Tôi kích hoạt Spell Card của tôi.,,Tôi kích hoạt lá Phép.,37,22,SUA
+248,C_THOAI_DUEL_05.csv,talk|1407|0,I activate my Trap.,Tôi kích hoạt Trap của tôi.,,Tôi kích hoạt Bẫy.,30,18,SUA
+249,C_THOAI_DUEL_05.csv,talk|1408|0,I end my turn.,Tôi kết thúc lượt.,,Tôi kết thúc lượt.,20,18,GIU_NGUYEN
+250,C_THOAI_DUEL_05.csv,talk|1410|0,Ohhhh! How rude!,Ohhhh! Thật vô lễ!,,Ôi chao! Thật vô lễ!,20,20,SUA
+251,C_THOAI_DUEL_06.csv,talk|1411|0,Arghh!\nYou got me!,Arghh!\nNgài trúng tôi rồi!,,Á!\nNgài đánh trúng tôi rồi!,29,28,SUA
+252,C_THOAI_DUEL_06.csv,talk|1412|0,With moi as your opponent that was inevitable.,Có tôi làm đối thủ của ngài thì chuyện này là tất nhiên.,,Có tôi làm đối thủ thì kết quả ấy là tất nhiên.,62,47,SUA
+253,C_THOAI_DUEL_06.csv,talk|1413|0,Wh-What...\nI never lose...,C-Cái gì...\nTôi không bao giờ thua...,,C-Cái gì...\nTôi chưa từng thua mà...,41,37,SUA
+254,C_THOAI_DUEL_06.csv,talk|1414|0,"Oh gosh, a draw...\nUntil next time then.","Trời ơi, hòa sao...\nVậy hẹn lần sau nhé.",,"Chao ôi, hòa sao...\nHẹn ngài lần sau.",45,38,SUA
+255,C_THOAI_DUEL_06.csv,talk|1415|0,Did that slow you down?,Cái đó có làm ngài chững lại không?,,Cái đó có làm ngài chững lại không?,39,35,GIU_NGUYEN
+256,C_THOAI_DUEL_06.csv,talk|1416|0,Oh!\nThat's not nice at all...,Oh!\nNhư vậy không tốt chút nào...,,Ôi!\nThật chẳng hay chút nào...,37,31,SUA
+257,C_THOAI_DUEL_06.csv,talk|1417|0,One moment please my good sir.,Xin ngài đợi một chút.,,Xin ngài đợi một chút.,34,22,GIU_NGUYEN
+258,C_THOAI_DUEL_06.csv,talk|1418|0,He he...\nIsn't this a delightful duel.,Hề hề...\nMột trận Duel thú vị lắm phải không.,,Hì hì...\nMột trận đấu thú vị nhỉ?,50,34,SUA
+259,C_THOAI_DUEL_06.csv,talk|1419|0,What ever shall I do?,Tôi nên làm gì đây nhỉ?,,Tôi nên làm gì đây nhỉ?,26,23,GIU_NGUYEN
+260,C_THOAI_DUEL_06.csv,talk|1420|0,"He he, on a tea break?","Hề hề, nghỉ giải lao uống trà à?",,"Hề hề, nghỉ giải lao uống trà à?",36,32,GIU_NGUYEN
+261,C_THOAI_DUEL_06.csv,talk|1421|0,Lead me to a great victory!,Hãy dẫn tôi tới chiến thắng vang dội!,,Hãy dẫn tôi tới chiến thắng vang dội!,41,37,GIU_NGUYEN
+262,C_THOAI_DUEL_06.csv,talk|1422|0,You are simply fascinating!,Ngài thật thú vị quá!,,Ngài thật thú vị quá!,30,21,GIU_NGUYEN
+263,C_THOAI_DUEL_06.csv,talk|1423|0,"Oh, it's just a scratch...","Oh, chỉ xước xát thôi...",,"Ồ, chỉ trầy xước thôi...",29,24,SUA
+264,C_THOAI_DUEL_06.csv,talk|1424|0,It only hurts because you think it does!!,Nó chỉ đau vì ngài nghĩ là nó đau thôi!!,,Chỉ đau vì ngài nghĩ nó đau thôi!!,46,34,SUA
+265,C_THOAI_DUEL_06.csv,talk|1425|0,"With our powers combined, no one can stand before us!!",Hợp sức lại thì không ai chống nổi chúng ta!!,,Hợp sức lại thì không ai chống nổi chúng ta!!,60,45,GIU_NGUYEN
+266,C_THOAI_DUEL_06.csv,talk|1426|0,If you keep playing like that I'm going home!,"Nếu ngài cứ chơi như thế, tôi về nhà đây!",,"Nếu ngài cứ chơi như thế, tôi về nhà đây!",50,41,GIU_NGUYEN
+267,C_THOAI_DUEL_06.csv,talk|1427|0,A draw does not befit me...,Hòa không hợp với tôi...,,Hòa thật chẳng xứng với tôi...,30,30,SUA
+268,C_THOAI_DUEL_06.csv,talk|1428|0,Think you can best me?,Ngài nghĩ ngài thắng được tôi sao?,,Ngài nghĩ ngài thắng được tôi sao?,38,34,GIU_NGUYEN
+269,C_THOAI_DUEL_06.csv,talk|1429|0,My turn!\nDraw!,Lượt của tôi!\nRút bài!,,Lượt của tôi!\nRút bài!,25,23,GIU_NGUYEN
+270,C_THOAI_DUEL_06.csv,talk|1430|0,What about this little darling?,Con bé đáng yêu này thì sao nhỉ?,,Cô bé đáng yêu này thì sao?,36,27,SUA
+271,C_THOAI_DUEL_06.csv,talk|1431|0,I attack.\nWhat do you think of that?,Tôi tấn công.\nNgài thấy thế nào?,,Tôi tấn công.\nNgài thấy thế nào?,40,33,GIU_NGUYEN
+272,C_THOAI_DUEL_06.csv,talk|1432|0,"Oh dear, is this OK?\nA Direct Attack?","Chao ôi, vậy có sao không?\nDirect Attack nhé?",,"Ôi, thế này được chứ?\nĐánh trực tiếp nhé?",50,42,SUA
+273,C_THOAI_DUEL_06.csv,talk|1433|0,Oh dear?\nIs it already over?,Chao ôi?\nĐã xong rồi sao?,,Chao ôi?\nĐã xong rồi sao?,31,26,GIU_NGUYEN
+274,C_THOAI_DUEL_06.csv,talk|1434|0,"I activate a Spell, just for you.","Tôi kích hoạt một Spell, dành riêng cho ngài.",,Tôi kích hoạt lá Phép dành riêng cho ngài.,50,42,SUA
+275,C_THOAI_DUEL_06.csv,talk|1435|0,That's too bad.\nI activate my trap.,Tiếc quá.\nTôi kích hoạt Trap của tôi.,,Tiếc thật.\nTôi kích hoạt Bẫy.,41,30,SUA
+276,C_THOAI_DUEL_06.csv,talk|1436|0,And I end my turn.,Và tôi kết thúc lượt.,,Và tôi kết thúc lượt.,24,21,GIU_NGUYEN
+277,C_THOAI_DUEL_06.csv,talk|1437|0,!...is that all?,!...chỉ có thế thôi sao?,,!... chỉ có vậy thôi sao?,27,25,SUA
+278,C_THOAI_DUEL_06.csv,talk|1438|0,Ow!!\nDidn't hurt a bit!,Âu!!\nChẳng đau chút nào!,,Ái!!\nChẳng đau chút nào!,27,25,SUA
+279,C_THOAI_DUEL_06.csv,talk|1439|0,Arrgghh!!\nBehave yourself!,Arrgghh!!\nCư xử cho đúng mực đi!,,Áaaa!!\nXin cư xử đúng mực!,36,27,SUA
+280,C_THOAI_DUEL_06.csv,talk|1440|0,Just as I thought. You can't beat me!,Đúng như tôi nghĩ. Ngài không thể thắng tôi!,,Đúng như tôi nghĩ. Ngài không thể thắng tôi!,49,44,GIU_NGUYEN
+281,C_THOAI_DUEL_06.csv,talk|1441|0,I lose... I wonder where I went wrong?,Tôi thua... Không biết tôi sai ở đâu nhỉ?,,Tôi thua... Không biết tôi sai ở đâu nhỉ?,46,41,GIU_NGUYEN
+282,C_THOAI_DUEL_06.csv,talk|1442|0,A draw... You are very lucky.,Hòa... Ngài thật may mắn.,,Hòa... Ngài thật may mắn.,32,25,GIU_NGUYEN
+283,C_THOAI_DUEL_06.csv,talk|1443|0,"Well then, try stopping that! Ah ha ha!",Vậy thì thử cản cái này xem! À ha ha!,,Vậy thì thử cản cái này xem! À ha ha!,43,37,GIU_NGUYEN
+284,C_THOAI_DUEL_06.csv,talk|1444|0,It couldn't be...!,Không thể nào...!,,Không thể nào...!,20,17,GIU_NGUYEN
+285,C_THOAI_DUEL_06.csv,talk|1445|0,"And, I think I'll go with this! He he he.",Và tôi nghĩ tôi sẽ chọn lá này! Hề hề hề.,,Và tôi nghĩ tôi sẽ chọn lá này! Hề hề hề.,46,41,GIU_NGUYEN
+286,C_THOAI_DUEL_06.csv,talk|1446|0,"Huh, just a matter of time...","Hừ, chỉ là vấn đề thời gian...",,"Hừ, chỉ là vấn đề thời gian...",34,30,GIU_NGUYEN
+287,C_THOAI_DUEL_06.csv,talk|1447|0,How could this have happened...?,Sao lại thế này...?,,Sao lại thế này...?,36,19,GIU_NGUYEN
+288,C_THOAI_DUEL_06.csv,talk|1448|0,"Oh dear, is it already over?","Chao ôi, đã xong rồi sao?",,"Chao ôi, đã xong rồi sao?",31,25,GIU_NGUYEN
+289,C_THOAI_DUEL_06.csv,talk|1449|0,"Well then, off we go!","Nào, chúng ta bắt đầu thôi!",,"Nào, chúng ta bắt đầu thôi!",30,27,GIU_NGUYEN
+290,C_THOAI_DUEL_06.csv,talk|1450|0,You're late!! \nWhat were you doing!!,Ngài đến trễ!!\nNgài đã làm gì vậy!!,,Ngài đến trễ!\nNãy giờ làm gì vậy!?,40,35,SUA
+291,C_THOAI_DUEL_06.csv,talk|1451|0,My little finger could do more damage!!,Ngón út của tôi còn gây nhiều sát thương hơn!!,,Ngón út tôi còn đánh mạnh hơn đấy!!,51,35,SUA
+292,C_THOAI_DUEL_06.csv,talk|1452|0,G-Give up now and I'll give you something to cry about!! ,"D-Đầu hàng ngay đi, không thì tôi cho ngài khóc thật sự!!",,"D-Đầu hàng ngay đi, không thì tôi cho ngài khóc thật sự!!",63,57,GIU_NGUYEN
+293,C_THOAI_DUEL_06.csv,talk|1453|0,Didn't I tell you? My tactics are flawless!,Tôi chẳng nói rồi sao? Chiến thuật của tôi hoàn hảo!,,Tôi đã nói rồi! Chiến thuật của tôi hoàn hảo!,58,45,SUA
+294,C_THOAI_DUEL_06.csv,talk|1454|0,Now you are in trouble!! \nPrepare yourself!!,Giờ ngài gặp rắc rối rồi!!\nChuẩn bị đi!!,,Lần này ngài tiêu rồi!!\nSẵn sàng đi!!,49,38,SUA
+295,C_THOAI_DUEL_06.csv,talk|1455|0,Just this once I'll forgive you...,"Chỉ lần này thôi, tôi tha cho ngài...",,"Chỉ lần này thôi, tôi tha cho ngài...",41,37,GIU_NGUYEN
+296,C_THOAI_DUEL_06.csv,talk|1456|0,Thanking you in advance.,Xin cảm ơn trước.,,Xin cảm ơn trước.,27,17,GIU_NGUYEN
+297,C_THOAI_DUEL_06.csv,talk|1457|0,My turn!\nI draw!,Lượt của tôi!\nTôi rút!,,Lượt của tôi!\nTôi rút!,25,23,GIU_NGUYEN
+298,C_THOAI_DUEL_06.csv,talk|1458|0,It's my friend!,Bạn của tôi đây!,,Bạn của tôi đây!,18,16,GIU_NGUYEN
+299,C_THOAI_DUEL_06.csv,talk|1459|0,I'll attack with my monster!,Tôi sẽ tấn công bằng quái thú của tôi!,,Tôi sẽ tấn công bằng quái thú của tôi!,42,38,GIU_NGUYEN
+300,C_THOAI_DUEL_06.csv,talk|1460|0,I'll attack you directly with my monster!,Tôi sẽ dùng quái thú tấn công trực tiếp cậu!,,Tôi sẽ dùng quái thú tấn công trực tiếp cậu!,49,44,GIU_NGUYEN
+301,C_THOAI_DUEL_06.csv,talk|1461|0,Make it through!\nI'm counting on you!,Vượt qua đi!\nTôi trông cậy vào cậu đây!,,Cố lên nhé!\nTôi trông cậy vào cậu!,43,35,SUA
+302,C_THOAI_DUEL_06.csv,talk|1462|0,I activate a Spell!,Tôi kích hoạt Spell!,,Tôi kích hoạt Phép!,23,19,SUA
+303,C_THOAI_DUEL_06.csv,talk|1463|0,Right now!\nI activate a Trap!,Ngay bây giờ!\nTôi kích hoạt Trap!,,Ngay bây giờ!\nTôi kích hoạt Bẫy!,37,33,SUA
+304,C_THOAI_DUEL_06.csv,talk|1464|0,I'm ending my turn!,Tôi kết thúc lượt!,,Tôi kết thúc lượt!,21,18,GIU_NGUYEN
+305,C_THOAI_DUEL_06.csv,talk|1468|0,Yup! How's that!,Đúng rồi! Thế nào!,,Đấy! Thấy chưa!,20,15,SUA
+306,C_THOAI_DUEL_06.csv,talk|1469|0,Argh...I gave up...,Argh...Tôi bỏ cuộc...,,Á... Tôi chịu thua...,24,21,SUA
+307,C_THOAI_DUEL_06.csv,talk|1470|0,A draw...,Hòa...,,Hòa...,10,6,GIU_NGUYEN
+308,C_THOAI_DUEL_06.csv,talk|1471|0,This is it!,Đây rồi!,,Đây rồi!,13,8,GIU_NGUYEN
+309,C_THOAI_DUEL_06.csv,talk|1473|0,Excuse me!,Xin lỗi!,,Xin lỗi!,12,8,GIU_NGUYEN
+310,C_THOAI_DUEL_06.csv,talk|1476|0,"Hey, I'm tired of waiting!!","Này, tôi chán chờ đợi lắm rồi!!",,"Này, tôi chán chờ đợi lắm rồi!!",35,31,GIU_NGUYEN
+311,C_THOAI_DUEL_06.csv,talk|1477|0,Together we will knock down any obstacles in our way!,Cùng nhau chúng ta sẽ phá tan mọi trở ngại trên đường!,,Cùng nhau ta sẽ vượt qua mọi chướng ngại!,60,41,SUA
+312,C_THOAI_DUEL_06.csv,talk|1478|0,I'm depending on you!,Tôi trông cậy vào cậu!,,Tôi trông cậy vào cậu!,25,22,GIU_NGUYEN
+313,C_THOAI_DUEL_06.csv,talk|1479|0,Watch what you are doing!!,Chú ý việc cậu đang làm!!,,Coi chừng việc cậu làm!!,29,24,SUA
+314,C_THOAI_DUEL_06.csv,talk|1480|0,Together we can overcome anything!,Cùng nhau chúng ta có thể vượt qua mọi thứ!,,Cùng nhau chúng ta có thể vượt qua mọi thứ!,48,43,GIU_NGUYEN
+315,C_THOAI_DUEL_06.csv,talk|1481|0,We overcame all odds and won!,Chúng ta đã vượt mọi khó khăn và chiến thắng!,,Chúng ta đã vượt mọi khó khăn và chiến thắng!,50,45,GIU_NGUYEN
+316,C_THOAI_DUEL_06.csv,talk|1482|0,I was hopeless as your partner...,Tôi thật vô dụng khi làm đồng đội của cậu...,,Tôi thật vô dụng khi làm đồng đội của cậu...,49,44,GIU_NGUYEN
+317,C_THOAI_DUEL_06.csv,talk|1483|0,Sometimes there are days like this.,Đôi khi cũng có những ngày như thế này.,,Đôi khi cũng có những ngày như thế này.,43,39,GIU_NGUYEN
+318,C_THOAI_DUEL_06.csv,talk|1484|0,Take it easy on me!,Nhẹ tay với tôi nhé!,,Nhẹ tay với tôi nhé!,23,20,GIU_NGUYEN
+319,C_THOAI_DUEL_06.csv,talk|1485|0,Um... My turn!\nDraw!,Ummm... Lượt của tôi!\nRút bài!,,Ừm... Lượt của tôi!\nRút bài!,34,29,SUA
+320,C_THOAI_DUEL_06.csv,talk|1486|0,I choose you!\nDo your best!,Tôi chọn cậu!\nHãy cố gắng hết sức!,,Tôi chọn cậu!\nCố lên nhé!,38,26,SUA
+321,C_THOAI_DUEL_06.csv,talk|1487|0,A-Attack!\nAttack!,T-Tấn công!\nTấn công!,,T-Tấn công!\nTấn công!,24,22,GIU_NGUYEN
+322,C_THOAI_DUEL_06.csv,talk|1488|0,Err... Direct Attack...\nI think...,Er... Direct Attack...\nChắc vậy...,,Ừm... Đánh trực tiếp...\nChắc thế...,38,36,SUA
+323,C_THOAI_DUEL_06.csv,talk|1489|0,My wish is coming true!,Điều ước của tôi sắp thành thật!,,Ước nguyện sắp thành sự thật!,36,29,SUA
+324,C_THOAI_DUEL_06.csv,talk|1490|0,Ah! I activate a Spell!,Ah! Tôi kích hoạt Spell!,,À! Tôi kích hoạt Phép!,27,22,SUA
+325,C_THOAI_DUEL_06.csv,talk|1491|0,Uhm... I think I'll activate a Trap!,Ummm... Chắc tôi sẽ kích hoạt Trap!,,Ừm... Chắc tôi kích hoạt Bẫy!,40,29,SUA
+326,C_THOAI_DUEL_06.csv,talk|1492|0,I guess I end my turn.,Chắc tôi kết thúc lượt.,,Chắc tôi kết thúc lượt.,26,23,GIU_NGUYEN
+327,C_THOAI_DUEL_06.csv,talk|1494|0,Gwaaa!\nYou're scaring me...,Gwaaa!\nCậu làm tôi sợ quá...,,Á!\nCậu làm tôi sợ quá...,31,25,SUA
+328,C_THOAI_DUEL_06.csv,talk|1495|0,Ahhhhhhhh!\nI'm done for!,Ahhhhhhhh!\nTôi tới số rồi!,,Áaaa!\nTôi tiêu rồi!,29,20,SUA
+329,C_THOAI_DUEL_06.csv,talk|1496|0,"Oh, um, err...\nThank you very much!","Oh, ummm, er...\nCảm ơn cậu rất nhiều!",,"Ơ, ừm...\nCảm ơn cậu nhiều lắm!",41,31,SUA
+330,C_THOAI_DUEL_06.csv,talk|1497|0,Uhhh...\nI lose... Boo hoo...,Uhhh...\nTôi thua... Hu hu...,,Hức...\nTôi thua... Hu hu...,31,28,SUA
+331,C_THOAI_DUEL_06.csv,talk|1498|0,Umm...\nPlay with me again?,Umm...\nChơi với tôi lần nữa nhé?,,Ừm...\nĐấu với tôi lần nữa nhé?,36,31,SUA
+332,C_THOAI_DUEL_06.csv,talk|1499|0,Umm... Here it goes!\nDo your best!,Umm... Bắt đầu đây!\nCố gắng hết sức nhé!,,Ừm... Bắt đầu đây!\nCố lên nhé!,45,31,SUA
+333,C_THOAI_DUEL_06.csv,talk|1500|0,Huh! Wh-Wha...\nWhat now!?,Huh! C-Cái gì...\nBây giờ sao đây!?,,Hả! C-Cái gì...\nGiờ sao đây!?,38,30,SUA
+334,C_THOAI_DUEL_06.csv,talk|1501|0,"Umm, err...\nI'll go with this!","Umm, er...\nTôi chọn lá này!",,Ừm...\nTôi chọn lá này!,34,23,SUA
+335,C_THOAI_DUEL_06.csv,talk|1502|0,Tee-hee...,Hí hí...,,Hí hí...,12,8,GIU_NGUYEN
+336,C_THOAI_DUEL_06.csv,talk|1503|0,Uhh... Looks like I'm done for...,Uhh... Hình như tôi tới số rồi...,,Ừm... Chắc tôi tiêu rồi...,37,26,SUA
+337,C_THOAI_DUEL_06.csv,talk|1504|0,"Uh, hum! \nPlay properly, please!","U, hem!\nLàm ơn chơi cho nghiêm túc!",,Ừm!\nXin hãy chơi nghiêm túc!,39,29,SUA
+338,C_THOAI_DUEL_06.csv,talk|1505|0,"I-I'll try my very best. I hope you do, too!!",T-Tôi sẽ cố gắng hết sức. Mong cậu cũng vậy!!,,T-Tôi sẽ cố hết sức. Mong cậu cũng vậy!!,50,40,SUA
+339,C_THOAI_DUEL_06.csv,talk|1506|0,O-Oh,O-Oh...,,Ơ-Ơ...,8,6,SUA
+340,C_THOAI_DUEL_06.csv,talk|1507|0,A-A-Are you alright...!?,C-Cậu không sao chứ...!?,,C-Cậu không sao chứ...!?,27,24,GIU_NGUYEN
+341,C_THOAI_DUEL_06.csv,talk|1508|0,D-Don't give up now!!,D-Đừng bỏ cuộc lúc này!!,,D-Đừng bỏ cuộc lúc này!!,27,24,GIU_NGUYEN
+342,C_THOAI_DUEL_06.csv,talk|1509|0,"Yeeeees!! \nOh, ah... we did it, huh?","Yeeeees!!\nOh, ah... chúng ta làm được rồi nhỉ?",,Yay!!\nƠ... Ta làm được rồi nhỉ?,51,32,SUA
+343,C_THOAI_DUEL_06.csv,talk|1510|0,Aaah! That was my fault! \nI'm so sorry!!,Aaah! Là lỗi của tôi!\nTôi xin lỗi nhiều lắm!!,,Á! Lỗi của tôi!\nXin lỗi nhiều lắm!!,50,36,SUA
+344,C_THOAI_DUEL_06.csv,talk|1511|0,A draw is good too! \n...Isn't it?,Hòa cũng tốt mà!\n...Đúng không?,,Hòa cũng tốt mà!\n...Đúng không?,37,32,GIU_NGUYEN
+345,C_THOAI_DUEL_06.csv,talk|1512|0,I'll show you no mercy!,Tôi sẽ không nương tay đâu!,,Tôi không nương tay đâu!,30,24,SUA
+346,C_THOAI_DUEL_06.csv,talk|1513|0,My turn!\nDraw!,Lượt của tôi!\nRút bài!,,Lượt của tôi!\nRút bài!,25,23,GIU_NGUYEN
+347,C_THOAI_DUEL_06.csv,talk|1514|0,This is the child!,Chính là bé này đây!,,Chính là nhóc này!,23,18,SUA
+348,C_THOAI_DUEL_06.csv,talk|1515|0,My monster attacks!,Quái thú của tôi tấn công!,,Quái thú của tôi tấn công!,29,26,GIU_NGUYEN
+349,C_THOAI_DUEL_06.csv,talk|1516|0,My monster attacks you directly!,Quái thú của tôi tấn công trực tiếp cậu!,,Quái thú của tôi tấn công trực tiếp cậu!,45,40,GIU_NGUYEN
+350,C_THOAI_DUEL_06.csv,talk|1517|0,Hey!,Này!,,Này!,5,4,GIU_NGUYEN
+351,C_THOAI_DUEL_06.csv,talk|1518|0,I activate a Spell!,Tôi kích hoạt Spell!,,Tôi kích hoạt Phép!,23,19,SUA
+352,C_THOAI_DUEL_06.csv,talk|1519|0,Here's a Trap!,Đây là Trap!,,Bẫy đây!,16,8,SUA
+353,C_THOAI_DUEL_06.csv,talk|1520|0,I end my turn!,Tôi kết thúc lượt!,,Tôi kết thúc lượt!,20,18,GIU_NGUYEN
+354,C_THOAI_DUEL_06.csv,talk|1522|0,I-It doesn't hurt!,K-Không đau!,,K-Không đau!,20,12,GIU_NGUYEN
+355,C_THOAI_DUEL_06.csv,talk|1524|0,I win!\nYeah! I'm the man!,Tôi thắng!\nYeah! Tôi giỏi nhất!,,Tôi thắng!\nYeah! Tôi đỉnh nhất!,35,32,SUA
+356,C_THOAI_DUEL_06.csv,talk|1525|0,I-I won't lose a second time!,T-Tôi sẽ không thua lần thứ hai!,,T-Tôi sẽ không thua lần nữa!,36,28,SUA
+357,C_THOAI_DUEL_06.csv,talk|1526|0,"If I play for real,\nI'll definitely win next time!","Nếu tôi chơi hết sức,\nlần sau tôi chắc chắn sẽ thắng!",,"Nếu tôi chơi hết sức,\nlần sau tôi chắc chắn sẽ thắng!",59,54,GIU_NGUYEN
+358,C_THOAI_DUEL_06.csv,talk|1527|0,Go!,Đi nào!,,Đi nào!,8,7,GIU_NGUYEN
+359,C_THOAI_DUEL_06.csv,talk|1529|0,Sorry!,Xin lỗi!,,Xin lỗi!,9,8,GIU_NGUYEN
+360,C_THOAI_DUEL_06.csv,talk|1532|0,What the heck are you doing?,Cậu đang làm cái quái gì vậy?,,Cậu đang làm cái quái gì vậy?,32,29,GIU_NGUYEN
+361,C_THOAI_DUEL_06.csv,talk|1533|0,Mess with our team and there'll be trouble for you!,Dám đụng vào đội của chúng tôi thì cậu có chuyện đấy!,,Đụng vào đội tôi là cậu gặp rắc rối đấy!,59,40,SUA
+362,C_THOAI_DUEL_06.csv,talk|1534|0,Sorry!,Xin lỗi!,,Xin lỗi!,9,8,GIU_NGUYEN
+363,C_THOAI_DUEL_06.csv,talk|1535|0,Look out! \nYou're your own worst enemy!,Coi chừng!\nCậu tự hại mình đấy!,,Cẩn thận!\nCậu đang tự hại mình!,43,32,SUA
+364,C_THOAI_DUEL_06.csv,talk|1536|0,No...\nThis won't do...,Không...\nThế này không được...,,Không...\nThế này không được...,34,31,GIU_NGUYEN
+365,C_THOAI_DUEL_06.csv,talk|1537|0,No one can destroy our combined strength!,Không ai phá nổi sức mạnh hợp nhất của chúng ta!,,Không ai phá nổi sức mạnh hợp nhất của chúng ta!,53,48,GIU_NGUYEN
+366,C_THOAI_DUEL_06.csv,talk|1538|0,We lost? \nNo way!,Chúng ta thua sao?\nKhông thể nào!,,Chúng ta thua sao?\nKhông thể nào!,37,34,GIU_NGUYEN
+367,C_THOAI_DUEL_06.csv,talk|1539|0,Well... I guess it's better then losing...,Thôi... Chắc vẫn hơn là thua...,,Ừm... Ít ra cũng chưa thua...,47,29,SUA
+368,C_THOAI_DUEL_06.csv,talk|1540|0,I'm no push-over!,Tôi không để bị bắt nạt đâu!,,Tôi không để bị bắt nạt đâu!,31,28,GIU_NGUYEN
+369,C_THOAI_DUEL_06.csv,talk|1541|0,My turn!\nDraw!,Lượt của tôi!\nRút bài!,,Lượt của tôi!\nRút bài!,25,23,GIU_NGUYEN
+370,C_THOAI_DUEL_06.csv,talk|1542|0,Please come!,Xin hãy ra đây!,,Mời cậu ra đây!,17,15,SUA
+371,C_THOAI_DUEL_06.csv,talk|1543|0,My monster attacks!,Quái thú của tôi tấn công!,,Quái thú của tôi tấn công!,29,26,GIU_NGUYEN
+372,C_THOAI_DUEL_06.csv,talk|1544|0,My monster attacks you directly!,Quái thú của tôi tấn công trực tiếp cậu!,,Quái thú của tôi tấn công trực tiếp cậu!,45,40,GIU_NGUYEN
+373,C_THOAI_DUEL_06.csv,talk|1545|0,Please!,Làm ơn!,,Làm ơn!,8,7,GIU_NGUYEN
+374,C_THOAI_DUEL_06.csv,talk|1546|0,I activate a Spell!,Tôi kích hoạt Spell!,,Tôi kích hoạt Phép!,23,19,SUA
+375,C_THOAI_DUEL_06.csv,talk|1547|0,I activate a Trap!,Tôi kích hoạt Trap!,,Tôi kích hoạt Bẫy!,21,18,SUA
+376,C_THOAI_DUEL_06.csv,talk|1548|0,I end my turn!,Tôi kết thúc lượt!,,Tôi kết thúc lượt!,20,18,GIU_NGUYEN
+377,C_THOAI_DUEL_06.csv,talk|1550|0,Ergh... I won't lose!,Ergh... Tôi sẽ không thua!,,Hừ... Tôi sẽ không thua!,29,24,SUA
+378,C_THOAI_DUEL_06.csv,talk|1552|0,Yes! I did it!\nDuel again sometime?,Yes! Tôi làm được rồi!\nLúc nào Duel lại nhé?,,Tuyệt! Tôi thắng rồi!\nHẹn đấu lại nhé?,49,39,SUA
+379,C_THOAI_DUEL_06.csv,talk|1553|0,"Darn, I lost...\nDuel again sometime?","Chán thật, tôi thua rồi...\nLúc nào Duel lại nhé?",,"Tiếc quá, tôi thua...\nHẹn đấu lại nhé?",53,39,SUA
+380,C_THOAI_DUEL_06.csv,talk|1554|0,That's a bummer...\nDuel again sometime?,Thật là tệ...\nLúc nào Duel lại nhé?,,Chán thật...\nHẹn đấu lại nhé?,43,30,SUA
+381,C_THOAI_DUEL_06.csv,talk|1558|0,Hee hee.,Hí hí.,,Hí hí.,9,6,GIU_NGUYEN
+382,C_THOAI_DUEL_06.csv,talk|1560|0,You won't last through a duel with that sort of indecision!,Do dự như vậy thì cậu không trụ nổi một trận Duel đâu!,,Do dự thế thì cậu chẳng trụ nổi một trận đấu!,65,45,SUA
+383,C_THOAI_DUEL_06.csv,talk|1561|0,So it begins... \nThis battle is our destiny!,Thế là bắt đầu rồi...\nTrận chiến này là số mệnh của chúng ta!,,Thế là bắt đầu rồi...\nTrận chiến này là số mệnh của chúng ta!,68,62,GIU_NGUYEN
+384,C_THOAI_DUEL_06.csv,talk|1562|0,I trust in you!,Tôi tin tưởng cậu!,,Tôi tin tưởng cậu!,20,18,GIU_NGUYEN
+385,C_THOAI_DUEL_06.csv,talk|1563|0,That's nothing!,Chẳng là gì!,,Chẳng là gì!,17,12,GIU_NGUYEN
+386,C_THOAI_DUEL_06.csv,talk|1564|0,A true duelist never gives up in the face of adversity!,Một Duelist thực thụ không bao giờ bỏ cuộc trước nghịch cảnh!,,Đấu thủ thực thụ không bỏ cuộc trước nghịch cảnh!,68,49,SUA
+387,C_THOAI_DUEL_06.csv,talk|1565|0,Our partnership has what it takes to win!,Sự phối hợp của chúng ta đủ sức để chiến thắng!,,Sự phối hợp của chúng ta đủ sức để chiến thắng!,52,47,GIU_NGUYEN
+388,C_THOAI_DUEL_06.csv,talk|1566|0,That was your fault! \nTake the blame!!,Đó là lỗi của cậu!\nHãy nhận trách nhiệm!!,,Đó là lỗi của cậu!\nNhận lỗi đi!!,46,33,SUA
+389,C_THOAI_DUEL_06.csv,talk|1567|0,It's looks like we were a little sloppy.,Hình như chúng ta hơi cẩu thả một chút.,,Xem ra ta hơi bất cẩn rồi.,45,26,SUA
+390,C_THOAI_DUEL_06.csv,talk|1568|0,Make it a good clean fight!,Hãy chơi cho đẹp và công bằng!,,Hãy chơi cho đẹp và công bằng!,34,30,GIU_NGUYEN
+391,C_THOAI_DUEL_06.csv,talk|1569|0,My turn!\nDraw!,Lượt của tôi!\nRút bài!,,Lượt của tôi!\nRút bài!,25,23,GIU_NGUYEN
+392,C_THOAI_DUEL_06.csv,talk|1570|0,I'm counting on you!,Tôi trông cậy vào cậu!,,Tôi trông cậy vào cậu!,25,22,GIU_NGUYEN
+393,C_THOAI_DUEL_06.csv,talk|1571|0,I attack with my monster!,Tôi tấn công bằng quái thú của tôi!,,Tôi tấn công bằng quái thú của tôi!,39,35,GIU_NGUYEN
+394,C_THOAI_DUEL_06.csv,talk|1572|0,My monster attacks you directly!,Quái thú của tôi tấn công trực tiếp cậu!,,Quái thú của tôi tấn công trực tiếp cậu!,45,40,GIU_NGUYEN
+395,C_THOAI_DUEL_06.csv,talk|1573|0,Did I win!?,Tôi thắng rồi à!?,,Tôi thắng rồi à!?,19,17,GIU_NGUYEN
+396,C_THOAI_DUEL_06.csv,talk|1574|0,I activate a Spell!,Tôi kích hoạt Spell!,,Tôi kích hoạt Phép!,23,19,SUA
+397,C_THOAI_DUEL_06.csv,talk|1575|0,I activate a Trap!,Tôi kích hoạt Trap!,,Tôi kích hoạt Bẫy!,21,18,SUA
+398,C_THOAI_DUEL_06.csv,talk|1576|0,I end my turn!,Tôi kết thúc lượt!,,Tôi kết thúc lượt!,20,18,GIU_NGUYEN
+399,C_THOAI_DUEL_06.csv,talk|1578|0,Ouch!,Âu!,,Ái!,6,3,SUA
+400,C_THOAI_DUEL_06.csv,talk|1580|0,Huh?\nLooks like I win.,Huh?\nHình như tôi thắng.,,Hả?\nHình như tôi thắng.,27,24,SUA
+401,C_THOAI_DUEL_06.csv,talk|1581|0,"Huh! Oh, no!\nDid I lose?","Huh! Oh, không!\nTôi thua sao?",,Hả! Không!\nTôi thua sao?,32,25,SUA
+402,C_THOAI_DUEL_06.csv,talk|1582|0,"No one wins, huh?\nLet's duel again.",Không ai thắng à?\nDuel lại nhé.,,Hòa à?\nĐấu lại nhé.,39,20,SUA
+403,C_THOAI_DUEL_06.csv,talk|1583|0,Do I do this?,Tôi làm thế này à?,,Tôi làm thế này à?,20,18,GIU_NGUYEN
+404,C_THOAI_DUEL_06.csv,talk|1585|0,Stop!,Dừng lại!,,Dừng lại!,10,9,GIU_NGUYEN
+405,C_THOAI_DUEL_06.csv,talk|1586|0,Can I do this!?,Tôi làm được không đây!?,,Tôi làm được không đây!?,27,24,GIU_NGUYEN
+406,C_THOAI_DUEL_06.csv,talk|1588|0,Window shopping are we?,Đang đi ngắm đồ thôi à?,,Đang ngắm hàng thôi à?,26,22,SUA
+407,C_THOAI_DUEL_06.csv,talk|1589|0,Together we will definitely win this!,Cùng nhau chúng ta nhất định sẽ thắng!,,Cùng nhau chúng ta nhất định sẽ thắng!,42,38,GIU_NGUYEN
+408,C_THOAI_DUEL_06.csv,talk|1590|0,That's not right!,Không đúng!,,Không đúng!,19,11,GIU_NGUYEN
+409,C_THOAI_DUEL_06.csv,talk|1591|0,It's nothing!,Không có gì!,,Không có gì!,15,12,GIU_NGUYEN
+410,C_THOAI_DUEL_06.csv,talk|1592|0,It's nothing! Oh...? It's something...?,Không có gì! Oh...? Hình như có chuyện...?,,Không sao! Ơ...? Có chuyện rồi...?,47,34,SUA
+411,C_THOAI_DUEL_06.csv,talk|1593|0,We did it! \nThanks to you that is!!,Chúng ta làm được rồi!\nNhờ có cậu đây!!,,Ta làm được rồi!\nNhờ cậu đấy!!,43,31,SUA
+412,C_THOAI_DUEL_06.csv,talk|1594|0,You win some - you lose some!,"Có khi thắng, có khi thua!",,"Có khi thắng, có khi thua!",32,26,GIU_NGUYEN
+413,C_THOAI_DUEL_06.csv,talk|1595|0,We are going to take it to victory next time!,Lần sau chúng ta sẽ giành chiến thắng!,,Lần sau chúng ta sẽ giành chiến thắng!,50,38,GIU_NGUYEN
+414,C_THOAI_DUEL_06.csv,talk|1596|0,I'm going to do my best! ,Tôi sẽ cố gắng hết sức!,,Tôi sẽ cố gắng hết sức!,28,23,GIU_NGUYEN
+415,C_THOAI_DUEL_06.csv,talk|1597|0,My turn!\nDraw!,Lượt của tôi!\nRút bài!,,Lượt của tôi!\nRút bài!,25,23,GIU_NGUYEN
+416,C_THOAI_DUEL_06.csv,talk|1598|0,With this card!,Với lá bài này!,,Với lá bài này!,17,15,GIU_NGUYEN
+417,C_THOAI_DUEL_06.csv,talk|1600|0,I attack you directly with my monster!,Tôi tấn công trực tiếp cậu bằng quái thú của tôi!,,Tôi cho quái thú đánh trực tiếp!,54,32,SUA
+418,C_THOAI_DUEL_06.csv,talk|1601|0,Attack!,Tấn công!,,Tấn công!,10,9,GIU_NGUYEN
+419,C_THOAI_DUEL_06.csv,talk|1602|0,I activate a Spell Card!,Tôi kích hoạt Spell Card!,,Tôi kích hoạt lá Phép!,28,22,SUA
+420,C_THOAI_DUEL_06.csv,talk|1603|0,Here's a Trap!,Đây là Trap!,,Bẫy đây!,16,8,SUA
+421,C_THOAI_DUEL_06.csv,talk|1604|0,That ends my turn!,Thế là hết lượt của tôi!,,Thế là hết lượt của tôi!,27,24,GIU_NGUYEN
+422,C_THOAI_DUEL_06.csv,talk|1606|0,That hurt!,Đau quá!,,Đau quá!,12,8,GIU_NGUYEN
+423,C_THOAI_DUEL_06.csv,talk|1608|0,"I'm the winner?\nWow, that was fun!","Tôi là người thắng à?\nWow, vui quá!",,"Tôi thắng à?\nOa, vui thật!",39,27,SUA
+424,C_THOAI_DUEL_06.csv,talk|1609|0,What? It's already over?\nI lost...?,Sao? Đã hết rồi sao?\nTôi thua à...?,,Hả? Hết rồi sao?\nTôi thua à...?,39,32,SUA
+425,C_THOAI_DUEL_06.csv,talk|1610|0,"A draw?\nOh, I see...","Hòa à?\nOh, tôi hiểu rồi...",,"Hòa à?\nÀ, hiểu rồi...",29,22,SUA
+426,C_THOAI_DUEL_06.csv,talk|1611|0,Am I supposed to do that?,Tôi phải làm như vậy à?,,Tôi phải làm như vậy à?,28,23,GIU_NGUYEN
+427,C_THOAI_DUEL_06.csv,talk|1613|0,That's not right!,Không đúng!,,Không đúng!,19,11,GIU_NGUYEN
+428,C_THOAI_DUEL_06.csv,talk|1616|0,Shall we finish up here today?,Hôm nay ta kết thúc ở đây nhé?,,Hôm nay ta dừng ở đây nhé?,34,26,SUA
+429,C_THOAI_DUEL_06.csv,talk|1617|0,I most humbly await a demonstration of your skills.,Tôi xin khiêm tốn chờ đợi ngài thể hiện tài năng.,,Tôi xin khiêm tốn chờ đợi ngài thể hiện tài năng.,57,49,GIU_NGUYEN
+430,C_THOAI_DUEL_06.csv,talk|1618|0,Well! I didn't know you had it in you!,Chà! Tôi không biết ngài giỏi vậy!,,Chà! Tôi không biết ngài giỏi vậy!,42,34,GIU_NGUYEN
+431,C_THOAI_DUEL_06.csv,talk|1619|0,That's not even worth mentioning!!,Chuyện đó chẳng đáng nhắc tới!!,,Chuyện ấy chẳng đáng nhắc tới!!,38,31,SUA
+432,C_THOAI_DUEL_06.csv,talk|1620|0,"Well, I guess it's all over then...",Chắc là mọi chuyện đã xong rồi...,,Chắc là mọi chuyện đã xong rồi...,39,33,GIU_NGUYEN
+433,C_THOAI_DUEL_06.csv,talk|1621|0,I would have lost if it weren't for you... Thanks a lot!!,Nếu không có cậu thì tôi đã thua... Cảm ơn nhiều!!,,Nếu không có cậu thì tôi đã thua... Cảm ơn nhiều!!,63,50,GIU_NGUYEN
+434,C_THOAI_DUEL_06.csv,talk|1622|0,I take the responsibility for our loss too. Chin up!,Tôi cũng nhận trách nhiệm cho trận thua này. Ngẩng đầu lên nào!,,Tôi cũng có lỗi khi thua. Vui lên nào!,70,38,SUA
+435,C_THOAI_DUEL_06.csv,talk|1623|0,"And we were so close... Oh, how it hurts.","Vậy mà chúng ta suýt thắng... Oh, đau lòng quá.",,"Suýt nữa thì thắng... Ôi, tiếc quá.",52,35,SUA
+436,C_THOAI_DUEL_06.csv,talk|1624|0,"OK, let's do this.","OK, bắt đầu thôi.",,"Được, bắt đầu thôi.",20,19,SUA
+437,C_THOAI_DUEL_06.csv,talk|1625|0,It's my turn.\nI draw.,Đến lượt tôi.\nTôi rút bài.,,Đến lượt tôi.\nTôi rút bài.,29,27,GIU_NGUYEN
+438,C_THOAI_DUEL_06.csv,talk|1626|0,Come here.,Lại đây.,,Lại đây.,12,8,GIU_NGUYEN
+439,C_THOAI_DUEL_06.csv,talk|1627|0,My monster will attack.,Quái thú của tôi sẽ tấn công.,,Quái thú của tôi sẽ tấn công.,32,29,GIU_NGUYEN
+440,C_THOAI_DUEL_06.csv,talk|1629|0,The end!,Hết rồi!,,Hết rồi!,9,8,GIU_NGUYEN
+441,C_THOAI_DUEL_06.csv,talk|1630|0,I will activate a Spell.,Tôi sẽ kích hoạt Spell.,,Tôi kích hoạt Phép.,27,19,SUA
+442,C_THOAI_DUEL_06.csv,talk|1631|0,I will activate a Trap.,Tôi sẽ kích hoạt Trap.,,Tôi kích hoạt Bẫy.,26,18,SUA
+443,C_THOAI_DUEL_06.csv,talk|1632|0,It's the end of my turn.,Hết lượt của tôi.,,Hết lượt của tôi.,27,17,GIU_NGUYEN
+444,C_THOAI_DUEL_06.csv,talk|1636|0,Hmm... So I win?,Hmm... Vậy là tôi thắng?,,Hmm... Vậy là tôi thắng?,27,24,GIU_NGUYEN
+445,C_THOAI_DUEL_06.csv,talk|1637|0,Looks like you didn't have the luck of the draw...,Hình như cậu không có vận may rút bài...,,Có vẻ cậu không may khi rút bài...,56,34,SUA
+446,C_THOAI_DUEL_06.csv,talk|1638|0,"Huh, a draw?","Huh, hòa sao?",,"Hử, hòa sao?",15,12,SUA
+447,C_THOAI_DUEL_06.csv,talk|1639|0,Excuse me.,Xin lỗi.,,Xin lỗi.,12,8,GIU_NGUYEN
+448,C_THOAI_DUEL_06.csv,talk|1640|0,My...,Chào...,,Ôi...,8,5,SUA
+449,C_THOAI_DUEL_06.csv,talk|1641|0,Sorry.,Xin lỗi.,,Xin lỗi.,9,8,GIU_NGUYEN
+450,C_THOAI_DUEL_06.csv,talk|1642|0,Hee hee...,Hí hí...,,Hí hí...,12,8,GIU_NGUYEN
+451,C_THOAI_DUEL_06.csv,talk|1644|0,Are you ill perhaps?,Có khi nào cậu bị ốm không?,,Có khi nào cậu bị ốm không?,30,27,GIU_NGUYEN
+452,C_THOAI_DUEL_06.csv,talk|1645|0,Let's duel smart and have fun!,Hãy Duel thông minh và thật vui nhé!,,Hãy đấu khôn ngoan và vui vẻ nhé!,40,33,SUA
+453,C_THOAI_DUEL_06.csv,talk|1646|0,That was good!,Tốt lắm!,,Tốt lắm!,16,8,GIU_NGUYEN
+454,C_THOAI_DUEL_06.csv,talk|1647|0,Ouchy... \nGive them back double!!,Âu...\nTrả lại gấp đôi đi!!,,Ái...\nTrả đòn gấp đôi đi!!,37,27,SUA
+455,C_THOAI_DUEL_06.csv,talk|1648|0,Aaah... As your partner I share in your pain!,"Aaah... Là đồng đội của cậu, tôi cũng chia sẻ nỗi đau của cậu!",,"Á... Đồng đội đau, tôi cũng đau!",69,32,SUA
+456,C_THOAI_DUEL_06.csv,talk|1649|0,I have the power of two! \nSo I will never lose!!,Tôi có sức mạnh của hai người!\nNên tôi sẽ không bao giờ thua!!,,Tôi có sức mạnh của cả hai!\nTôi sẽ không thua!!,69,48,SUA
+457,C_THOAI_DUEL_06.csv,talk|1650|0,"Don't be depressed, I'm there for you.","Đừng buồn, có tôi bên cạnh cậu đây.",,"Đừng buồn, có tôi bên cạnh cậu đây.",42,35,GIU_NGUYEN
+458,C_THOAI_DUEL_06.csv,talk|1651|0,Everyone has to start somewhere.,Ai cũng phải bắt đầu từ đâu đó.,,Ai cũng phải bắt đầu từ đâu đó.,36,31,GIU_NGUYEN
+459,C_THOAI_DUEL_06.csv,talk|1652|0,Here I go.,Tôi bắt đầu đây.,,Tôi bắt đầu đây.,18,16,GIU_NGUYEN
+460,C_THOAI_DUEL_06.csv,talk|1653|0,My turn!\nDraw.,Lượt của tôi!\nRút bài.,,Lượt của tôi!\nRút bài.,25,23,GIU_NGUYEN
+461,C_THOAI_DUEL_06.csv,talk|1655|0,Here I go!,Bắt đầu nào!,,Bắt đầu nào!,14,12,GIU_NGUYEN
+462,C_THOAI_DUEL_06.csv,talk|1656|0,You!,Cậu đó!,,Cậu đó!,8,7,GIU_NGUYEN
+463,C_THOAI_DUEL_06.csv,talk|1657|0,Mine!,Của tôi!,,Của tôi!,9,8,GIU_NGUYEN
+464,C_THOAI_DUEL_06.csv,talk|1658|0,I activate a Spell!,Tôi kích hoạt Spell!,,Tôi kích hoạt Phép!,23,19,SUA
+465,C_THOAI_DUEL_06.csv,talk|1659|0,I use a Trap!,Tôi dùng Trap!,,Tôi dùng Bẫy!,16,13,SUA
+466,C_THOAI_DUEL_06.csv,talk|1660|0,I'll end my turn!,Tôi kết thúc lượt!,,Tôi kết thúc lượt!,20,18,GIU_NGUYEN
+467,C_THOAI_DUEL_06.csv,talk|1664|0,Is that it? What do we do now? You wanna play again?,Vậy là hết à? Giờ làm sao đây? Cậu muốn chơi lại không?,,Vậy là hết à? Giờ làm sao đây? Cậu muốn chơi lại không?,61,55,GIU_NGUYEN
+468,C_THOAI_DUEL_06.csv,talk|1665|0,Hold up! Again!\nLet's play it over!,Khoan đã! Lại nào!\nChơi lại từ đầu đi!,,Khoan! Đấu lại!\nLàm ván nữa nào!,42,33,SUA
+469,C_THOAI_DUEL_06.csv,talk|1666|0,Let's go from the beginning again! Let's see who wins!,Làm lại từ đầu nào! Xem ai thắng nhé!,,Làm lại từ đầu nào! Xem ai thắng nhé!,60,37,GIU_NGUYEN
+470,C_THOAI_DUEL_06.csv,talk|1667|0,This is it!,Đây rồi!,,Đây rồi!,13,8,GIU_NGUYEN
+471,C_THOAI_DUEL_06.csv,talk|1668|0,What!?,Cái gì!?,,Cái gì!?,9,8,GIU_NGUYEN
+472,C_THOAI_DUEL_06.csv,talk|1669|0,Stop!,Dừng lại!,,Dừng lại!,10,9,GIU_NGUYEN
+473,C_THOAI_DUEL_06.csv,talk|1672|0,Heeey! Get on with it!,Heeey! Nhanh lên coi!,,Này! Nhanh lên coi!,25,19,SUA
+474,C_THOAI_DUEL_06.csv,talk|1673|0,Here we go! \nDon't forget to back me up!,Bắt đầu nào!\nNhớ hỗ trợ tôi nhé!,,Bắt đầu!\nNhớ hỗ trợ tôi nhé!,45,29,SUA
+475,C_THOAI_DUEL_06.csv,talk|1674|0,Not bad!,Không tệ!,,Không tệ!,10,9,GIU_NGUYEN
+476,C_THOAI_DUEL_06.csv,talk|1675|0,Hey! You! \nIt's too early to go giving up!!,Này! Cậu!\nCòn sớm lắm mới bỏ cuộc!!,,Này!\nĐừng bỏ cuộc sớm thế!!,48,28,SUA
+477,C_THOAI_DUEL_06.csv,talk|1676|0,"Be strong, we are going to win this soon!","Mạnh mẽ lên, chúng ta sắp thắng rồi!",,"Mạnh mẽ lên, chúng ta sắp thắng rồi!",46,36,GIU_NGUYEN
+478,C_THOAI_DUEL_06.csv,talk|1677|0,Follow my lead and all your duels will end in victory!!,Cứ theo tôi thì mọi trận Duel của cậu đều chiến thắng!!,,"Cứ theo tôi, trận nào cậu cũng thắng!!",61,38,SUA
+479,C_THOAI_DUEL_06.csv,talk|1678|0,Huh? Wha...!? \nYou'd better start explaining!!,Huh? Cái... gì!?\nCậu nên bắt đầu giải thích đi!!,,Hả? C-Cái gì!?\nGiải thích ngay đi!!,53,36,SUA
+480,C_THOAI_DUEL_06.csv,talk|1679|0,"Weell, I'll let you away with a draw this time.","Thôi, lần này tôi tha cho cậu hòa vậy.",,"Thôi được, lần này hòa cũng được.",52,33,SUA
+481,C_THOAI_DUEL_06.csv,talk|1680|0,Here I come!,Tôi đến đây!,,Tôi đến đây!,14,12,GIU_NGUYEN
+482,C_THOAI_DUEL_06.csv,talk|1681|0,It's my turn!\nI draw.,Đến lượt tôi!\nTôi rút.,,Đến lượt tôi!\nTôi rút.,25,23,GIU_NGUYEN
+483,C_THOAI_DUEL_06.csv,talk|1682|0,Do this?,Làm thế này?,,Làm thế này?,14,12,GIU_NGUYEN
+484,C_THOAI_DUEL_06.csv,talk|1684|0,Here I go!,Tôi bắt đầu đây!,,Tôi bắt đầu đây!,18,16,GIU_NGUYEN
+485,C_THOAI_DUEL_06.csv,talk|1685|0,I got it!,Tôi biết rồi!,,Tôi biết rồi!,15,13,GIU_NGUYEN
+486,C_THOAI_DUEL_06.csv,talk|1686|0,I should activate a Spell!,Chắc tôi nên kích hoạt Spell!,,Chắc tôi nên kích hoạt Phép!,32,28,SUA
+487,C_THOAI_DUEL_06.csv,talk|1687|0,I should activate a Trap!,Chắc tôi nên kích hoạt Trap!,,Chắc tôi nên kích hoạt Bẫy!,31,27,SUA
+488,C_THOAI_DUEL_06.csv,talk|1688|0,I end my turn!,Tôi kết thúc lượt!,,Tôi kết thúc lượt!,20,18,GIU_NGUYEN
+489,C_THOAI_DUEL_06.csv,talk|1692|0,"Hmm, I win, huh?\nPlay again sometime?","Hmm, tôi thắng à?\nLúc nào chơi lại nhé?",,"Hmm, tôi thắng à?\nLúc nào chơi lại nhé?",43,40,GIU_NGUYEN
+490,C_THOAI_DUEL_06.csv,talk|1693|0,Very well done...\nPlay again sometime?,Giỏi lắm...\nLúc nào chơi lại nhé?,,Giỏi lắm...\nLúc nào chơi lại nhé?,42,34,GIU_NGUYEN
+491,C_THOAI_DUEL_06.csv,talk|1694|0,"Hmm, don't see that often...\nPlay again sometime?","Hmm, hiếm khi thấy vậy...\nLúc nào chơi lại nhé?",,"Hmm, hiếm khi thấy vậy...\nLúc nào chơi lại nhé?",54,48,GIU_NGUYEN
+492,C_THOAI_DUEL_06.csv,talk|1695|0,Do you like this?,Cậu thích cái này không?,,Cậu thích cái này không?,27,24,GIU_NGUYEN
+493,C_THOAI_DUEL_06.csv,talk|1696|0,Oh my!,Trời ơi!,,Trời ơi!,9,8,GIU_NGUYEN
+494,C_THOAI_DUEL_06.csv,talk|1697|0,Sorry!,Xin lỗi!,,Xin lỗi!,9,8,GIU_NGUYEN
+495,C_THOAI_DUEL_06.csv,talk|1698|0,Hee hee.,Hí hí.,,Hí hí.,9,6,GIU_NGUYEN
+496,C_THOAI_DUEL_06.csv,talk|1700|0,Taking a nap are we?,Đang ngủ gật à?,,Đang ngủ gật à?,23,15,GIU_NGUYEN
+497,C_THOAI_DUEL_06.csv,talk|1701|0,"Let's check our compatibility with this duel, huh?",Thử xem trận Duel này hai ta hợp nhau cỡ nào nhé?,,Đấu trận này xem hai ta hợp ý không nhé?,56,40,SUA
+498,C_THOAI_DUEL_06.csv,talk|1702|0,Oh ho ho! ,Oh họ họ!,,Ô hô hô!,12,8,SUA
+499,C_THOAI_DUEL_06.csv,talk|1703|0,"Oh dear, that looks painful...","Chao ôi, trông đau đấy...",,"Chao ôi, trông đau đấy...",34,25,GIU_NGUYEN
+500,C_THOAI_DUEL_06.csv,talk|1704|0,Time to show what you are made of!,Đến lúc cho thấy cậu làm bằng gì rồi!,,Đến lúc thể hiện bản lĩnh rồi!,41,30,SUA
