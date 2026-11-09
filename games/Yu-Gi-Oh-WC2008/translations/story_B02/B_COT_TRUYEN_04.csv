@@ -1,0 +1,151 @@
+key,ten_la_bai_EN,tieng_Anh,tieng_Viet_hien_tai,toi_da_ky_tu,tieng_Viet_MOI
+story|606|0,,I'll give you this!,Tui tặng cậu cái này!,24,Tặng ngươi thứ này!
+story|607|0,,I didn't prepare it for you though. The card just wanted to be with you! So don't get the wrong idea!,Nhưng tui không chuẩn bị nó cho cậu đâu. Lá bài này tự muốn ở bên cậu thôi! Đừng hiểu lầm nhé!,112,"Nhưng đừng hiểu lầm! Ta đâu có chuẩn bị riêng, chính lá bài muốn ở bên ngươi đấy!"
+story|608|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|609|0,,"Hmm, that adventurer seems lost He doesn't look like trouble, but who is he?","Hm, nhà phiêu lưu kia hình như bị lạc. Nhìn không có vẻ gây chuyện, nhưng ai thế nhỉ?",94,"Ừm, người phiêu lưu kia có vẻ lạc đường. Không giống kẻ xấu... nhưng là ai nhỉ?"
+story|611|0,,What will you do?,Bạn muốn làm gì?,19,Bạn muốn làm gì?
+story|612|0,,Talk\nDuel,Nói chuyện\nDuel,17,Trò chuyện\nĐấu
+story|615|0,,Duelists are really tested in this world. Do you think you are strong enough?,Duelist ở thế giới này luôn bị thử thách. Cậu nghĩ mình đủ mạnh không?,85,Đấu sĩ ở thế giới này phải trải qua nhiều thử thách. Ngươi đủ mạnh chứ?
+story|616|0,,"Well, bring it on! Heroes never run away!",Vậy thì cứ đến đây! Anh hùng không bao giờ bỏ chạy!,57,Cứ thử đi! Anh hùng không bao giờ bỏ chạy!
+story|617|0,,That was some victory! I'll fight with all my power next time! You better be ready!,Thật là một chiến thắng! Lần sau tui sẽ chiến đấu hết sức! Cậu liệu chuẩn bị đi!,92,Thắng hay lắm! Lần sau ta sẽ dốc hết sức. Nhớ chuẩn bị đấy!
+story|618|0,,"Yes, that was a good battle. You've got potential as a duelist. Keep working on it!","Phải, trận vừa rồi đẹp. Cậu có tiềm năng làm duelist. Cứ cố gắng nhé!",92,Một trận rất hay! Ngươi có tố chất đấu sĩ. Tiếp tục rèn luyện nhé!
+story|619|0,,I'd like to give you this card. Promise you'll take good care of it!,Tui muốn tặng cậu lá bài này. Hứa là sẽ giữ gìn nó thật tốt nhé!,75,Ta tặng ngươi lá bài này. Hứa sẽ giữ gìn cẩn thận nhé!
+story|620|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|621|0,,(He's staring at you fiercely.),(Anh ta đang trừng trừng nhìn bạn.),39,(Anh ta trừng mắt nhìn bạn.)
+story|623|0,,What will you do?,Bạn muốn làm gì?,19,Bạn muốn làm gì?
+story|624|0,,Talk\nDuel,Nói chuyện\nDuel,17,Trò chuyện\nĐấu
+story|627|0,,Here... it's dangerous. Dueling... power... is... a must...,Ở đây... nguy hiểm... Sức mạnh... duel... là... bắt buộc...,65,Nơi này... rất nguy hiểm... Phải có... sức mạnh... đấu bài...
+story|628|0,,Duel... I... agree...,Duel... tôi... đồng ý...,27,Đấu... ta... đồng ý...
+story|629|0,,You... are strong... I... lost...,Bạn... mạnh... Tôi... thua...,37,Ngươi... mạnh... Ta... thua...
+story|630|0,,I... win... You... are weak...,Tôi... thắng... Bạn... yếu...,34,Ta... thắng... Ngươi... yếu...
+story|631|0,,You've proven... yourself to me\nTake... this...,Bạn đã chứng minh... mình với tôi\nHãy nhận... cái này...,62,Ngươi đã... chứng tỏ bản lĩnh.\nCầm... lấy...
+story|632|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|633|0,,I the guardian of this forest. Are you an enemy of these woods?,Ta là người bảo vệ khu rừng này. Ngươi có phải kẻ thù của khu rừng này không?,85,Ta là người canh giữ khu rừng này. Ngươi có phải kẻ thù của rừng không?
+story|635|0,,What will you do?,Bạn muốn làm gì?,19,Bạn muốn làm gì?
+story|636|0,,Talk\nDuel,Nói chuyện\nDuel,17,Trò chuyện\nĐấu
+story|639|0,,I do not exaggerate when I say that the peace of this forest depends on me!,Nói rằng sự bình yên của rừng này phụ thuộc vào ta cũng không ngoa!,83,Không ngoa khi nói sự bình yên của khu rừng tùy thuộc vào ta!
+story|640|0,,"Ho, ho, ho! You want to duel me? That's quite foolish but attack if you must!","Hô, hô, hô! Ngươi muốn duel với ta? Thật dại dột, nhưng cứ tấn công nếu ngươi muốn!",92,Hô hô hô! Muốn đấu với ta sao? Dại dột thật! Cứ tấn công nếu ngươi muốn!
+story|641|0,,How could it be? You defeated me! Will you protect the forest too? What do you say?,Sao có thể như vậy? Ngươi đã đánh bại ta! Ngươi cũng sẽ bảo vệ khu rừng chứ? Ngươi trả lời sao?,105,Sao có thể? Ngươi thắng ta rồi! Ngươi có chịu bảo vệ khu rừng này không?
+story|642|0,,"Ho, ho, ho! You cannot beat me! That means you are unable to protect the forest!","Hô, hô, hô! Ngươi không thể thắng ta! Nghĩa là ngươi không thể bảo vệ khu rừng!",89,Hô hô hô! Ngươi không thắng nổi ta thì sao bảo vệ được khu rừng!
+story|643|0,,I will give you this! Think of it as a present from the forest itself!,Ta tặng ngươi cái này! Hãy xem như quà từ chính khu rừng!,78,Ta tặng ngươi thứ này! Hãy coi là món quà của chính khu rừng!
+story|644|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|645|0,,In a different age...,Ở một thời đại khác...,25,Ở một thời đại khác...
+story|646|0,,In a distant world...,Ở một thế giới xa xôi...,27,Tại một thế giới xa xôi...
+story|647|0,,A world with duels like you've never seen,Một thế giới duel như bạn chưa từng thấy,46,Một thế giới với những trận đấu chưa từng thấy
+story|648|0,,awaits your arrival...,đang chờ bạn đến...,25,đang chờ bạn đến...
+story|649|0,,Welcome to Duel World!,Chào mừng đến Duel World!\nDịch bởi Duong Duong - Kỹ thuật: Votri Valley,79,Chào mừng đến Duel World!
+story|650|0,,Are you an experienced Yu-Gi-Oh! duelist?,Bạn đã là duelist Yu-Gi-Oh! có kinh nghiệm chưa?,53,Bạn đã có kinh nghiệm đấu Yu-Gi-Oh! chưa?
+story|651|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|652|0,,There's a hidden gate in each Duel World.,Có một cổng ẩn trong mỗi Duel World.,46,Mỗi Duel World đều có một cánh cổng bí mật.
+story|653|0,,Only those who pass the test may enter through it.,Chỉ những ai vượt qua thử thách mới được vào.,56,Chỉ ai vượt qua thử thách mới được đi qua cổng ấy.
+story|654|0,,"You can't save your game on the World Map, so be sure","Bạn không thể lưu game trên World Map, nên nhớ",59,"Không thể lưu game trên Bản đồ Thế giới, nên hãy nhớ"
+story|655|0,,"to save on the World Map Selection Screen, etc.","lưu ở Màn Hình Chọn Thế Giới, v.v.",52,lưu ở màn hình Chọn Bản đồ Thế giới hoặc nơi khác.
+story|656|0,,"Now, go. Set out on your first adventure!","Nào, đi thôi. Bắt đầu cuộc phiêu lưu đầu tiên của bạn!",60,Lên đường thôi! Cuộc phiêu lưu đầu tiên bắt đầu!
+story|657|0,,To learn the rules of the duels that take,Để biết luật của các trận duel diễn ra,46,Muốn biết luật đấu ở
+story|658|0,,"place in Duel World, check out the World","trong Duel World, hãy xem phần hướng dẫn",45,"Duel World, hãy xem phần"
+story|659|0,,Championship Tutorial. You should definitely,World Championship Tutorial. Bạn nên bắt đầu,49,Hướng dẫn World Championship. Tốt nhất hãy
+story|660|0,,start out by learning the rules. Once you've,"bằng việc học luật. Khi đã học xong,",49,học luật đấu trước. Khi đã
+story|661|0,,"learned them, come and adventure through Duel World.",hãy quay lại phiêu lưu qua Duel World.,58,"nắm vững, hãy trở lại khám phá Duel World!"
+story|662|0,,There's a hidden gate in each Duel World.,Có một cổng ẩn trong mỗi Duel World.,46,Mỗi Duel World đều có một cánh cổng bí mật.
+story|663|0,,Only those who pass the test may enter through it.,Chỉ những ai vượt qua thử thách mới được vào.,56,Chỉ ai vượt qua thử thách mới được đi qua cổng ấy.
+story|664|0,,"You can't save your game on the World Map, so be sure","Bạn không thể lưu game trên World Map, nên nhớ",59,"Không thể lưu game trên Bản đồ Thế giới, nên hãy nhớ"
+story|665|0,,"to save on the World Map Selection Screen, etc.","lưu ở Màn Hình Chọn Thế Giới, v.v.",52,lưu ở màn hình Chọn Bản đồ Thế giới hoặc nơi khác.
+story|666|0,,"Once you're ready, start your adventure!","Khi sẵn sàng, hãy bắt đầu cuộc phiêu lưu!",46,Sẵn sàng rồi thì lên đường phiêu lưu nào!
+story|668|0,,(Seems Gigobyte is beling bullied.),(Hình như Gigobyte đang bị bắt nạt.),40,(Có vẻ Gigobyte đang bị bắt nạt.)
+story|669|0,,What will you do?,Bạn muốn làm gì?,19,Bạn muốn làm gì?
+story|670|0,,Ask to duel\nTalk\nLeave,Xin duel\nNói chuyện\nRời đi,29,Thách đấu\nTrò chuyện\nRời đi
+story|671|0,,Duel? Who do you think you are!?,Duel à? Mày nghĩ mày là ai chứ!?,36,Đấu à? Mày tưởng mày là ai hả?!
+story|673|0,,I have no business with you! Scram!,Tao không có chuyện gì với mày! Cút đi!,43,Tao không có gì để nói với mày! Cút!
+story|674|0,,(You were turned away...),(Bạn bị đuổi đi...),28,(Bạn bị đuổi đi...)
+story|675|0,,Make your selection.,Hãy chọn.,23,Hãy lựa chọn.
+story|677|0,,Get out of my way! Scram! I have nothing to say to you! ,Tránh ra! Cút đi! Tao không có gì để nói với mày! ,62,Tránh đường! Cút! Tao không có chuyện gì với mày!
+story|678|0,,(You were turned away...),(Bạn bị đuổi đi...),28,(Bạn bị đuổi đi...)
+story|679|0,,Gigi... Traveler...! Help me!!!,Gigi... Người du hành...! Cứu tôi!!!,40,Gigi... Người lữ hành... Cứu tôi!!!
+story|680|0,,Make your selection,Hãy chọn,21,Hãy lựa chọn
+story|681|0,,Help\nDon't help,Giúp\nKhông giúp,17,Giúp\nKhông giúp
+story|682|0,,"Boy, you're unusual! You wanna help a complete stranger?","Chào, mày là loại khác thường đấy! Muốn giúp một kẻ xa lạ hoàn toàn hả?",79,"Ồ, mày lạ thật! Muốn giúp một đứa hoàn toàn xa lạ sao?"
+story|683|0,,"Mwa ha ha, OK!","Mwa ha ha, được thôi!",24,Mwa ha ha! Được thôi!
+story|684|0,,"Here're my conditions. If I win, you give me a card of yours.","Đây là điều kiện của tao. Nếu tao thắng, mày phải đưa tao một lá bài của mày.",85,"Điều kiện đây: tao thắng, mày phải đưa tao một lá bài."
+story|685|0,,"If you win, I'll let him go.","Nếu mày thắng, tao sẽ tha nó.",32,"Nếu mày thắng, tao thả nó."
+story|686|0,,Make your selection,Hãy chọn,21,Hãy lựa chọn
+story|687|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|688|0,,(You left the area.),(Bạn đã rời khỏi khu vực.),29,(Bạn rời khỏi khu vực.)
+story|689|0,,(You left the area.),(Bạn đã rời khỏi khu vực.),29,(Bạn rời khỏi khu vực.)
+story|690|0,,(You left the area.),(Bạn đã rời khỏi khu vực.),29,(Bạn rời khỏi khu vực.)
+story|691|0,,"Handed over ""@5OWNCARD()@0"".","Đã đưa ra ""@5OWNCARD()@0"".",31,"Đã giao ""@5OWNCARD()@0""."
+story|692|0,,I'm not dueling for a card like this.,Tao không duel để lấy lá bài như thế này.,46,Tao chẳng đấu vì lá bài tầm thường thế này.
+story|693|0,,I'm not dueling for a card like this. Come back when you have a better card to bet!,Tao không duel để lấy lá bài như thế này. Quay lại khi có lá bài đáng giá hơn để cược!,95,Tao không đấu vì lá bài tầm thường này. Có lá đáng cược hơn thì quay lại!
+story|694|0,,(...You were turned away.),(...Bạn bị đuổi đi.),29,(...Bạn bị đuổi đi.)
+story|695|0,,"Handed over ""@5OWNCARD()@0"".","Đã đưa ra ""@5OWNCARD()@0"".",31,"Đã giao ""@5OWNCARD()@0""."
+story|696|0,,"Hm. Not bad....\nOK, you're on!","Hm. Không tệ....\nĐược, chiến!",34,"Hừm. Cũng được...\nĐược, đấu thôi!"
+story|697|0,,"""@5OWNCARD()@0"" Returned.","Đã trả lại ""@5OWNCARD()@0"".",30,"Đã trả lại ""@5OWNCARD()@0""."
+story|698|0,,Argh! I'll remember this!,Argh! Tao sẽ nhớ chuyện này!,31,Gừ! Tao sẽ nhớ chuyện này!
+story|699|0,,I hope to repay this favor one day! Thank you so much!,Hy vọng một ngày tôi có thể báo đáp ân này! Cảm ơn bạn rất nhiều!,72,Mong có ngày báo đáp được ân này! Cảm ơn bạn nhiều lắm!
+story|700|0,,Hmph. Come back with another card if you wanna duel again.,Hmph. Muốn duel nữa thì mang lá bài khác đến.,64,Hừ! Muốn đấu nữa thì mang lá bài khác đến.
+story|702|0,,(You were turned away.),(Bạn bị đuổi đi.),26,(Bạn bị đuổi đi.)
+story|703|0,,Help me!,Cứu tôi với!,14,Cứu tôi!
+story|704|0,,"You're back again? What, you wanna help this guy?","Lại là mày à? Sao, mày muốn giúp thằng này à?",54,Lại là mày? Muốn giúp thằng này nữa à?
+story|705|0,,"Here're my conditions. If I win, you give me a card of yours.","Đây là điều kiện của tao. Nếu tao thắng, mày phải đưa tao một lá bài của mày.",85,"Điều kiện đây: tao thắng, mày phải đưa tao một lá bài."
+story|706|0,,"If you win, I'll let him go.","Nếu mày thắng, tao sẽ tha nó.",32,"Nếu mày thắng, tao thả nó."
+story|707|0,,Make your selection,Hãy chọn,21,Hãy lựa chọn
+story|708|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|709|0,,(You left the area.),(Bạn đã rời khỏi khu vực.),29,(Bạn rời khỏi khu vực.)
+story|710|0,,Get out of my way! Scram! I have nothing to say to you!,Tránh ra! Cút đi! Tao không có gì để nói với mày!,61,Tránh đường! Cút! Tao không có chuyện gì với mày!
+story|711|0,,(...You were turned away.),(...Bạn bị đuổi đi.),29,(...Bạn bị đuổi đi.)
+story|712|0,,An Exit Gate appeared.,Một Cổng Thoát đã xuất hiện.,31,Một Cổng Thoát đã xuất hiện.
+story|714|0,,"Traveler, you have made the gate appear.","Người du hành, ngươi đã khiến cổng xuất hiện.",50,"Lữ khách, ngươi đã khiến cánh cổng hiện ra."
+story|715|0,,"This is the Exit Gate, and this is where","Đây là Cổng Thoát, nơi",45,"Đây là Cổng Thoát, cũng là nơi"
+story|716|0,,duelists that travel Duel World are tested.,các duelist du hành qua Duel World bị thử thách.,53,thử thách những người du hành qua Duel World.
+story|717|0,,My name is Green Guardian - Embust,Ta tên là Green Guardian - Embust,38,Tên ta là Green Guardian - Embust.
+story|718|0,,"If you pass my test, you'll be allowed to pass.","Nếu ngươi vượt qua thử thách của ta, ngươi sẽ được đi qua.",64,"Vượt qua thử thách của ta, ngươi mới được đi tiếp."
+story|719|0,,As for my test... You guessed it. It's a duel.,Còn về thử thách của ta... Ngươi đoán ra rồi. Đó là một trận duel.,73,Và thử thách ấy... Đúng như ngươi nghĩ: một trận đấu.
+story|720|0,,I have 5 different Decks.,Ta có 5 Deck khác nhau.,28,Ta có 5 Bộ bài khác nhau.
+story|721|0,,"If you can beat 3 of these, you can pass","Nếu ngươi thắng được 3 trong số đó, ngươi có thể",53,"Nếu thắng 3 Bộ bài trong số đó, ngươi sẽ được"
+story|722|0,,through this gate to another world.,đi qua cổng này đến thế giới khác.,39,đi qua cổng này sang thế giới khác.
+story|723|0,,Of course you can try to beat all 5 if you like.,"Tất nhiên, nếu muốn, ngươi có thể thử thắng cả 5.",54,"Tất nhiên, ngươi có thể thử thắng cả 5 nếu muốn."
+story|725|0,,"Well, then. Will you try my test?",Vậy thì. Ngươi có muốn thử thách của ta không?,51,"Nào, ngươi có muốn nhận thử thách của ta không?"
+story|727|0,,What will you do?,Bạn muốn làm gì?,19,Bạn muốn làm gì?
+story|728|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|729|0,,Select a Deck.,Hãy chọn Deck.,16,Chọn một Bộ bài.
+story|730|0,,Open and Close\nWiggling Beings\nCalm Spirits\nSilent Memory\nSilent Victory,Đóng Và Mở\nSinh Vật Quằn Quại\nLinh Hồn Bình Yên\nKý Ức Lặng Im\nChiến Thắng Lặng Lẽ,90,Mở Và Đóng\nSinh Vật Nhúc Nhích\nLinh Hồn Tĩnh Lặng\nKý Ức Câm Lặng\nChiến Thắng Im Lìm
+story|731|0,,That's OK. There is no need to rush.,Không sao. Không cần vội vàng.,40,Không sao. Chẳng cần vội.
+story|732|0,,Come back once you are ready to try again.,Hãy quay lại khi ngươi đã sẵn sàng thử lại.,48,Hãy quay lại khi ngươi sẵn sàng thử lần nữa.
+story|733|0,,"Traveler, I believed you could do it.","Người du hành, ta đã tin ngươi làm được.",45,"Lữ khách, ta đã tin ngươi làm được mà."
+story|734|0,,Will you continue the challenge?,Ngươi có muốn tiếp tục thử thách không?,43,Ngươi muốn tiếp tục thử thách chứ?
+story|736|0,,"Traveler, you failed this time, but don't give up.","Người du hành, lần này ngươi thất bại, nhưng đừng bỏ cuộc.",64,"Lữ khách, lần này ngươi thua, nhưng đừng nản."
+story|737|0,,You should be able to pass this test!,Ngươi nhất định sẽ vượt qua được thử thách này!,52,Ta tin ngươi có thể vượt qua thử thách!
+story|738|0,,Will you continue the challenge?,Ngươi có muốn tiếp tục thử thách không?,43,Ngươi muốn tiếp tục thử thách chứ?
+story|740|0,,"Traveler, I believed you could do it.","Người du hành, ta đã tin ngươi làm được.",45,"Lữ khách, ta đã tin ngươi làm được mà."
+story|741|0,,"Now, advance to the next world!",Giờ hãy tiến đến thế giới tiếp theo!,40,Giờ hãy tiến đến thế giới tiếp theo!
+story|743|0,,"Hey, you! Never seen you around before. You new here?","Này, cậu! Chưa thấy cậu ở đây bao giờ. Cậu mới đến à?",59,"Này, cậu! Chưa thấy cậu ở đây bao giờ. Mới tới à?"
+story|744|0,,Let me explain about this place.,Để tui giải thích về nơi này.,36,Để tớ giới thiệu nơi này.
+story|745|0,,This is the Structure Coliseum.,Đây là Đấu Trường Structure.,35,Đây là Đấu trường Structure.
+story|746|0,,Fixed duels using Structure Decks take place here.,Những trận Duel cố định dùng Structure Deck diễn ra tại đây.,67,Ở đây diễn ra các trận đấu dùng Bộ bài Structure cố định.
+story|747|0,,I'll assume that you know that there are different,Ta đoán là ngươi cũng biết có nhiều,56,Chắc cậu biết có nhiều kiểu
+story|748|0,,types of Decks and strategies for dueling.,loại Deck và chiến thuật khác nhau để Duel.,48,Bộ bài và chiến thuật đấu khác nhau.
+story|749|0,,You can't learn until you try.,Không thử thì không bao giờ học được đâu.,46,Phải thử mới học được chứ!
+story|751|0,,So how about it? Want to try a Structure Duel?,"Thế nào, muốn thử một trận Structure Duel không?",53,Thế nào? Muốn thử đấu Structure không?
+story|752|0,,What will you do?,Bạn sẽ làm gì?,19,Bạn muốn làm gì?
+story|753|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|755|0,,"Hm... Well, I'll be here if you change your mind.","Hm... Thôi được, ta sẽ ở đây nếu ngươi đổi ý.",54,Ừm... Đổi ý thì cứ quay lại đây nhé.
+story|756|0,,"Hey, nice dueling.","Này, Duel không tệ đấy.",26,Đấu hay đấy!
+story|757|0,,"The difference here was technique, not the Deck.","Điểm khác biệt ở đây là kỹ thuật, không phải Deck.",56,"Thắng bại do kỹ thuật, không phải do Bộ bài."
+story|758|0,,Let's duel again. What do you say?,Duel lại nhé. Ngươi nghĩ sao?,38,Lần sau đấu tiếp nhé. Đồng ý không?
+story|760|0,,"So, you like my dueling technique?",Vậy là ngươi thích kỹ thuật Duel của ta hả?,48,"Sao, cậu thích lối đấu của tớ à?"
+story|761|0,,You can duel me again if you like.,Ngươi có thể Duel với ta lần nữa nếu thích.,48,Thích thì cứ đến đấu với tớ lần nữa nhé.
+story|763|0,,What will you do?,Bạn sẽ làm gì?,19,Bạn muốn làm gì?
+story|764|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|766|0,,Oh...,Ồ...,6,Ồ...
+story|767|0,,"Well, come back anytime you wanna have a Structure Duel.","Thôi, quay lại bất cứ lúc nào nếu muốn Structure Duel nhé.",64,Khi nào muốn đấu Structure thì cứ ghé lại nhé.
+story|768|0,,You're really something!,Ngươi đúng là có gì đó đặc biệt!,36,Cậu đúng là cao thủ!
+story|769|0,,I can't believe you beat me using all the different Decks!,Không thể tin là ngươi thắng ta với từng ấy loại Deck khác nhau!,71,Không thể tin cậu thắng tớ với đủ loại Bộ bài khác nhau!
+story|770|0,,"Here, take this as a memorial gift!","Đây, cầm lấy cái này như món quà kỷ niệm!",46,"Đây, nhận món quà kỷ niệm này nhé!"
+story|771|0,,"You received ""@5Amazoness Card Set!@0""","Bạn đã nhận ""@5Amazoness Card Set!@0""",42,"Bạn nhận được ""@5Amazoness Card Set!@0"""
+story|772|0,,"Remember, you can still come and duel me anytime!","Nhớ nhé, ngươi vẫn có thể quay lại Duel với ta bất cứ lúc nào!",69,"Nhớ nhé, cậu vẫn có thể đến đấu bất cứ lúc nào!"
+story|773|0,,There is a spring before you.,Có một con suối phía trước bạn.,35,Trước mặt bạn có một con suối.
+story|774|0,,Throw 100 DP into the Springs?,Ném 100 DP vào con suối?,34,Ném 100 DP xuống suối?
+story|775|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|776|0,,Which card would you like?,Bạn muốn lá bài nào?,29,Bạn muốn lá bài nào?
+story|777|0,,Please Select Answer.,Hãy chọn câu trả lời.,24,Hãy chọn câu trả lời.
+story|778|0,,L\nR,Trái\nPhải,10,L\nR
+story|779|0,,"You received ""@5YOURCARD()@0""!","Bạn đã nhận ""@5YOURCARD()@0""!",34,"Bạn nhận được ""@5YOURCARD()@0""!"
