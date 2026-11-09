@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0042#36.33#page:2	Cũng có thể là thật đấy.$018'1;
+talkfigs/0eng/data/0042#36.33#page:3	Tớ không nghĩ vậy.$018'2;
+talkfigs/0eng/data/0042#36.34#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Đấy, thấy chưa.▼Ngày nào cũng học được▼điều mới nhỉ.
+talkfigs/0eng/data/0042#36.34#page:2	$024'327'7;$023'327'177'10'1;$022'327'400;Thật ra, tớ cũng... ờ...▼Thôi, bỏ đi.$032;
+talkfigs/0eng/data/0042#36.35#page:1	Ơ, hóa ra không đúng à?
+talkfigs/0eng/data/0042#36.35#page:2	Tớ bất ngờ ghê luôn.
+talkfigs/0eng/data/0042#37.0#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu nghĩ chuyện này có thật không?
+talkfigs/0eng/data/0042#37.0#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Đừng trách tớ. Tớ chỉ▼đưa tin thôi! Thế...▼chuyện đó thật chứ?$018'1;
+talkfigs/0eng/data/0042#37.1#page:2	Cũng có thể là thật đấy.$018'1;
+talkfigs/0eng/data/0042#37.1#page:3	Tớ không nghĩ vậy.$018'2;
+talkfigs/0eng/data/0042#37.2#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Đấy, thấy chưa.▼Ngày nào cũng học được▼điều mới nhỉ.
+talkfigs/0eng/data/0042#37.2#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Muốn bàn chuyện gì với tớ▼cũng được. Tất nhiên,▼phải trả chút phí nhé.$032;
+talkfigs/0eng/data/0042#37.3#page:1	Ơ, hóa ra không đúng à?
+talkfigs/0eng/data/0042#37.3#page:2	Tớ bất ngờ ghê luôn.
+talkfigs/0eng/data/0042#37.4#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu nghĩ chuyện này có thật không?
+talkfigs/0eng/data/0042#37.4#page:2	$535'0; có hành động▼đáng ngờ▼$538;.
+talkfigs/0eng/data/0042#37.4#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Đừng trách tớ. Tớ chỉ▼đưa tin thôi! Thế...▼chuyện đó thật chứ?$018'1;
+talkfigs/0eng/data/0042#37.5#page:2	Cũng có thể là thật đấy.$018'1;
+talkfigs/0eng/data/0042#37.5#page:3	Tớ không nghĩ vậy.$018'2;
+talkfigs/0eng/data/0042#37.6#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Đấy, thấy chưa.▼Ngày nào cũng học được▼điều mới nhỉ.
+talkfigs/0eng/data/0042#37.6#page:2	Hay thật! Ước gì▼họ cũng rủ tớ một lần.$032;
+talkfigs/0eng/data/0042#37.7#page:1	Ơ, hóa ra không đúng à?
+talkfigs/0eng/data/0042#37.7#page:2	Tớ bất ngờ ghê luôn.
+talkfigs/0eng/data/0042#37.8#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu nghĩ chuyện này có thật không?
+talkfigs/0eng/data/0042#37.8#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Đừng trách tớ. Tớ chỉ▼đưa tin thôi! Thế...▼chuyện đó thật chứ?$018'1;
+talkfigs/0eng/data/0042#37.9#page:2	Cũng có thể là thật đấy.$018'1;
+talkfigs/0eng/data/0042#37.9#page:3	Tớ không nghĩ vậy.$018'2;
+talkfigs/0eng/data/0042#37.10#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Đấy, thấy chưa.▼Ngày nào cũng học được▼điều mới nhỉ.
+talkfigs/0eng/data/0042#37.10#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;À mà này, nếu cậu nghe được▼chuyện gì kiếm ra tiền...
+talkfigs/0eng/data/0042#37.10#page:3	thì báo tớ ngay nhé.▼Được chứ?$032;
+talkfigs/0eng/data/0042#37.11#page:1	Ơ, hóa ra không đúng à?
+talkfigs/0eng/data/0042#37.11#page:2	Tớ bất ngờ ghê luôn.
+talkfigs/0eng/data/0042#37.12#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu nghĩ chuyện này có thật không?
+talkfigs/0eng/data/0042#37.12#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Đừng trách tớ. Tớ chỉ▼đưa tin thôi! Thế...▼chuyện đó thật chứ?$018'1;
+talkfigs/0eng/data/0042#37.13#page:2	Cũng có thể là thật đấy.$018'1;
+talkfigs/0eng/data/0042#37.13#page:3	Tớ không nghĩ vậy.$018'2;
+talkfigs/0eng/data/0042#37.14#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Đấy, thấy chưa.▼Ngày nào cũng học được▼điều mới nhỉ.
+talkfigs/0eng/data/0042#37.14#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Muốn bàn chuyện gì với tớ▼cũng được. Tất nhiên,▼phải trả chút phí nhé.$032;
+talkfigs/0eng/data/0042#37.15#page:1	Ơ, hóa ra không đúng à?
+talkfigs/0eng/data/0042#37.15#page:2	Tớ bất ngờ ghê luôn.
+talkfigs/0eng/data/0042#37.16#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu nghĩ chuyện này có thật không?
+talkfigs/0eng/data/0042#37.16#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Đừng trách tớ. Tớ chỉ▼đưa tin thôi! Thế...▼chuyện đó thật chứ?$018'1;
+talkfigs/0eng/data/0042#37.17#page:2	Cũng có thể là thật đấy.$018'1;
+talkfigs/0eng/data/0042#37.17#page:3	Tớ không nghĩ vậy.$018'2;
+talkfigs/0eng/data/0042#37.18#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Đấy, thấy chưa.▼Ngày nào cũng học được▼điều mới nhỉ.
+talkfigs/0eng/data/0042#37.18#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;À mà này, nếu cậu nghe được▼chuyện gì kiếm ra tiền...
+talkfigs/0eng/data/0042#37.18#page:3	thì báo tớ ngay nhé.▼Được chứ?$032;
+talkfigs/0eng/data/0042#37.19#page:1	Ơ, hóa ra không đúng à?
+talkfigs/0eng/data/0042#37.19#page:2	Tớ bất ngờ ghê luôn.
+talkfigs/0eng/data/0042#37.20#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu nghĩ chuyện này có thật không?
+talkfigs/0eng/data/0042#37.20#page:2	Tớ nghe cậu định▼chăm chỉ học để mai này▼trở thành $538;...
+talkfigs/0eng/data/0042#37.20#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Đó là lời đồn thôi.▼Cậu nghĩ có thật không?$018'1;
+talkfigs/0eng/data/0042#37.21#page:2	Cũng có thể là thật đấy.$018'1;
+talkfigs/0eng/data/0042#37.21#page:3	Tớ không nghĩ vậy.$018'2;
+talkfigs/0eng/data/0042#37.22#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Đấy, thấy chưa.▼Ngày nào cũng học được▼điều mới nhỉ.
+talkfigs/0eng/data/0042#37.22#page:2	$024'327'5;$023'327'175'8'1;$022'327'342;Bất ngờ ghê! Nhưng kệ thôi.▼Tớ sẽ tới đích trước!$032;
+talkfigs/0eng/data/0042#37.23#page:1	Ơ, hóa ra không đúng à?
+talkfigs/0eng/data/0042#37.23#page:2	Tớ bất ngờ ghê luôn.
+talkfigs/0eng/data/0042#37.24#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu nghĩ chuyện này có thật không?
+talkfigs/0eng/data/0042#37.24#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Đừng trách tớ. Tớ chỉ▼đưa tin thôi! Thế...▼chuyện đó thật chứ?$018'1;
+talkfigs/0eng/data/0042#37.25#page:2	Cũng có thể là thật đấy.$018'1;
+talkfigs/0eng/data/0042#37.25#page:3	Tớ không nghĩ vậy.$018'2;
+talkfigs/0eng/data/0042#37.26#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Đấy, thấy chưa.▼Ngày nào cũng học được▼điều mới nhỉ.
+talkfigs/0eng/data/0042#37.26#page:2	$024'327'2;$023'327'28'8'4;$022'327'381;Đúng là họ rắc rối thật nhỉ?▼Bình tĩnh lại chút đi chứ.
+talkfigs/0eng/data/0042#37.26#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Mà thôi... Tớ chắc cậu▼biết hết chuyện này rồi.$032;
+talkfigs/0eng/data/0042#37.27#page:1	Ơ, hóa ra không đúng à?
+talkfigs/0eng/data/0042#37.27#page:2	Tớ bất ngờ ghê luôn.
+talkfigs/0eng/data/0042#38.0#page:1	$024'327'7;$023'327'177'10'1;Tớ vừa nghe một chuyện▼thú vị lắm này...
+talkfigs/0eng/data/0042#38.1#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Hai cậu lén đi hẹn hò à?
+talkfigs/0eng/data/0042#38.2#page:1	$024'327'3;$023'327'171'10'1;$022'327'304;Thật tình... Ngay cả tớ▼cũng hết hứng trêu▼hai người đó luôn.
+talkfigs/0eng/data/0042#38.2#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Nói tớ nghe đi. Lúc lén lút▼gặp nhau, cậu có còn nghĩ▼cách kiếm tiền không?
+talkfigs/0eng/data/0042#38.5#page:1	$024'327'7;$023'327'177'10'1;Tớ vừa nghe một chuyện▼thú vị lắm này...
+talkfigs/0eng/data/0042#38.6#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Hai cậu cứ bí mật làm▼phép tình yêu suốt nhỉ?
+talkfigs/0eng/data/0042#38.7#page:1	$024'327'3;$023'327'171'10'1;$022'327'304;Thật tình... Ngay cả tớ▼cũng hết hứng trêu▼hai người đó luôn.
+talkfigs/0eng/data/0042#38.7#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Nói tớ nghe đi. Lúc lén lút▼gặp nhau, cậu có còn nghĩ▼cách kiếm tiền không?
+talkfigs/0eng/data/0042#38.10#page:1	$024'327'7;$023'327'177'10'1;Tớ vừa nghe một chuyện▼thú vị lắm này...
+talkfigs/0eng/data/0042#38.11#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Thế hai cậu lúc nào cũng▼tám chuyện yêu đương à?
+talkfigs/0eng/data/0042#38.12#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Kể tớ nghe xem, hai cậu▼thường nói chuyện gì vậy?
+talkfigs/0eng/data/0042#38.12#page:2	$024'327'5;$023'327'170'10'1;$022'327'301;Khi ở bên ai đó, tớ... ờ...▼Thôi bỏ đi.
+talkfigs/0eng/data/0042#38.15#page:1	$024'327'7;$023'327'177'10'1;Tớ vừa nghe một chuyện▼thú vị lắm này...
+talkfigs/0eng/data/0042#38.16#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Tớ nghe hôm nọ hai cậu▼đút nhau ăn trưa đấy.
+talkfigs/0eng/data/0042#38.17#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Kể tớ nghe đi, làm sao▼để có người đút mình ăn vậy?
+talkfigs/0eng/data/0042#38.17#page:2	$024'327'5;$023'327'170'10'1;$022'327'301;Khi ở bên ai đó, tớ... ờ...▼Thôi bỏ đi.
+talkfigs/0eng/data/0042#38.20#page:1	$024'327'7;$023'327'177'10'1;Tớ vừa nghe một chuyện▼thú vị lắm này...
+talkfigs/0eng/data/0042#38.21#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thế... hai cậu sắp cưới à?!
+talkfigs/0eng/data/0042#38.22#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Người ta bảo tuổi trẻ▼là lúc dễ quyết định▼bốc đồng mà.
+talkfigs/0eng/data/0042#38.22#page:2	$024'327'5;$023'327'170'10'1;$022'327'301;Khi ở bên ai đó, tớ... ờ...▼Thôi bỏ đi.
+talkfigs/0eng/data/0042#38.25#page:1	$024'327'7;$023'327'177'10'1;Tớ vừa nghe một chuyện▼thú vị lắm này...
+talkfigs/0eng/data/0042#38.26#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Nghe đồn hai cậu viết▼nhật ký rồi đổi cho nhau?
+talkfigs/0eng/data/0042#38.27#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Cho tớ xem được không?▼Liếc một chút thôi...
+talkfigs/0eng/data/0042#38.30#page:1	$024'327'7;$023'327'177'10'1;Tớ vừa nghe một chuyện▼thú vị lắm này...
+talkfigs/0eng/data/0042#38.31#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Cậu là đàn em chạy vặt▼của $503'567; à?
+talkfigs/0eng/data/0042#38.32#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Đàn em chạy vặt à...?▼Có lẽ tớ cũng nên▼tuyển thêm vài đứa.
+talkfigs/0eng/data/0042#38.35#page:1	$024'327'7;$023'327'177'10'1;Tớ vừa nghe một chuyện▼thú vị lắm này...
+talkfigs/0eng/data/0042#38.36#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Hai cậu định bỏ trốn▼để cưới nhau à?!
+talkfigs/0eng/data/0042#38.37#page:1	$024'327'3;$023'327'171'10'1;$022'327'304;Thật tình... Ngay cả tớ▼cũng hết hứng trêu▼hai người đó luôn.
+talkfigs/0eng/data/0042#38.37#page:2	$024'327'0;$023'327'178'10'1;$022'327'361;Nếu có thể, cậu sẽ▼bay vào vũ trụ chứ?
+talkfigs/0eng/data/0042#38.40#page:1	$024'327'7;$023'327'177'10'1;Tớ vừa nghe một chuyện▼thú vị lắm này...
+talkfigs/0eng/data/0042#38.41#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Vậy hai cậu cuối cùng▼cũng trao nhẫn rồi à?
+talkfigs/0eng/data/0042#38.42#page:1	$024'327'3;$023'327'171'10'1;$022'327'304;Thật tình... Ngay cả tớ▼cũng hết hứng trêu▼hai người đó luôn.
+talkfigs/0eng/data/0042#38.42#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Cứ để tớ giữ nhẫn hộ.▼Nhỡ có kẻ trộm vì tiền▼thì nguy lắm...
+talkfigs/0eng/data/0042#38.45#page:1	$024'327'7;$023'327'177'10'1;Tớ vừa nghe một chuyện▼thú vị lắm này...
+talkfigs/0eng/data/0042#38.46#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Hai cậu ở bên nhau cả đêm?▼Tới tận lúc mặt trời mọc?!
+talkfigs/0eng/data/0042#38.47#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ở cạnh nhau cả đêm,▼chắc nghĩ ra khối▼trò hay rồi nhỉ!
+talkfigs/0eng/data/0042#38.50#page:1	$024'327'7;$023'327'177'10'1;Tớ vừa nghe một chuyện▼thú vị lắm này...
+talkfigs/0eng/data/0042#38.51#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Hai cậu đang tính▼chia tay nhau à?
+talkfigs/0eng/data/0042#38.52#page:1	Ờ, chắc yêu đương▼thì cũng có lúc thế thôi.
+talkfigs/0eng/data/0042#38.52#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Muốn tâm sự thì cứ tìm tớ...▼Dĩ nhiên có thu chút▼phí tư vấn nhé.
+talkfigs/0eng/data/0042#38.55#page:1	$024'327'7;$023'327'177'10'1;Tớ nghe được tin đồn▼hay ho lắm. Cậu biết chưa?
+talkfigs/0eng/data/0042#38.56#page:1	Nghe đồn hai cậu đã▼hẹn hò kiểu người lớn đấy!
+talkfigs/0eng/data/0042#38.57#page:1	$024'327'3;$023'327'171'10'1;$022'327'304;Thật tình... Ngay cả tớ▼cũng hết hứng trêu▼hai người đó luôn.
+talkfigs/0eng/data/0042#38.57#page:2	$024'327'5;$023'327'170'10'1;$022'327'301;Khi ở bên ai đó, tớ... ờ...▼Thôi bỏ đi.
+talkfigs/0eng/data/0042#38.60#page:1	$024'327'7;$023'327'177'10'1;Tớ nghe được tin đồn▼hay ho lắm. Cậu biết chưa?
+talkfigs/0eng/data/0042#38.61#page:1	Có tin đồn rằng▼hai cậu đã...
+talkfigs/0eng/data/0042#38.61#page:2	lén đến chỗ vắng▼rồi bày đủ trò nghịch ngợm!
+talkfigs/0eng/data/0042#38.62#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Nếu cậu nghe được▼tin gì kiếm ra tiền...
+talkfigs/0eng/data/0042#38.62#page:2	nhớ báo tớ ngay nhé!▼Hiểu chưa?
+talkfigs/0eng/data/0042#38.65#page:1	$024'327'7;$023'327'177'10'1;Tớ nghe được tin đồn▼hay ho lắm. Cậu biết chưa?
+talkfigs/0eng/data/0042#38.66#page:1	Nghe đồn cậu đang▼bắt cá hai tay đấy!
+talkfigs/0eng/data/0042#38.67#page:1	Ờ, chắc yêu đương▼thì cũng có lúc thế thôi.
