@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0042#43.42#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;Hẳn phải có lý do.▼Để niệm chú? Hay là▼kiếm lời gì đó nhỉ...?
+talkfigs/0eng/data/0042#43.43#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ vừa bàn một chuyện.▼Cậu cũng nên nghe thử.
+talkfigs/0eng/data/0042#43.43#page:2	$530'0; mê tít▼$532;▼$531;.
+talkfigs/0eng/data/0042#43.43#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;Hẳn phải có lý do.▼Để niệm chú? Hay là▼kiếm lời gì đó nhỉ...?
+talkfigs/0eng/data/0042#43.44#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ vừa bàn một chuyện.▼Cậu cũng nên nghe thử.
+talkfigs/0eng/data/0042#43.44#page:2	$530'0; mê tít▼$532;▼$531;.
+talkfigs/0eng/data/0042#43.44#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;Hẳn phải có lý do.▼Để niệm chú? Hay là▼kiếm lời gì đó nhỉ...?
+talkfigs/0eng/data/0042#43.45#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ vừa bàn một chuyện.▼Cậu cũng nên nghe thử.
+talkfigs/0eng/data/0042#43.45#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0042#43.45#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nếu là trò nghịch ngợm,▼tớ cũng muốn tham gia...
+talkfigs/0eng/data/0042#43.46#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ vừa bàn một chuyện.▼Cậu cũng nên nghe thử.
+talkfigs/0eng/data/0042#43.46#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0042#43.46#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nếu là trò nghịch ngợm,▼tớ cũng muốn tham gia...
+talkfigs/0eng/data/0042#43.50#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#43.50#page:2	$530'0; và $530'1;▼$533;!
+talkfigs/0eng/data/0042#43.50#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Cậu nghĩ giờ họ là một đôi à?
+talkfigs/0eng/data/0042#43.50#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ hội kiếm tiền đến rồi!
+talkfigs/0eng/data/0042#43.51#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#43.51#page:2	$530'0; và $530'1;▼$533;!
+talkfigs/0eng/data/0042#43.51#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Cậu nghĩ giờ họ là một đôi à?
+talkfigs/0eng/data/0042#43.51#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ hội kiếm tiền đến rồi!
+talkfigs/0eng/data/0042#43.52#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#43.52#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Cậu nghĩ giờ họ là một đôi à?
+talkfigs/0eng/data/0042#43.52#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ hội kiếm tiền đến rồi!
+talkfigs/0eng/data/0042#43.53#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#43.53#page:2	$530'0; và $530'1;▼đã $533;!
+talkfigs/0eng/data/0042#43.53#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Không biết họ làm gì nhỉ...
+talkfigs/0eng/data/0042#43.53#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ hội kiếm tiền đến rồi!
+talkfigs/0eng/data/0042#43.54#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#43.54#page:2	$530'0; và $530'1;▼đã $533;!
+talkfigs/0eng/data/0042#43.54#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Không biết họ làm gì nhỉ...
+talkfigs/0eng/data/0042#43.54#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ hội kiếm tiền đến rồi!
+talkfigs/0eng/data/0042#43.65#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#43.65#page:2	$530'0; và $530'1;▼đã $533;!
+talkfigs/0eng/data/0042#43.65#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Chẳng biết có chuyện gì...▼Khoan! Tớ nghĩ ra rồi!
+talkfigs/0eng/data/0042#43.65#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ hội kiếm tiền đến rồi!
+talkfigs/0eng/data/0042#43.66#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#43.66#page:2	$530'0; và $530'1;▼bên nhau hạnh phúc lắm,▼$533;!
+talkfigs/0eng/data/0042#43.66#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Chẳng biết có chuyện gì...▼Khoan! Tớ nghĩ ra rồi!
+talkfigs/0eng/data/0042#43.66#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ hội kiếm tiền đến rồi!
+talkfigs/0eng/data/0042#43.67#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#43.67#page:2	$530'0; và $530'1;▼$533; hợp nhau đến mức▼trông cứ như diễn!
+talkfigs/0eng/data/0042#43.67#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Lạ thật, cậu không thấy sao?▼Ơ, khoan...
+talkfigs/0eng/data/0042#43.67#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ hội kiếm tiền đến rồi!
+talkfigs/0eng/data/0042#43.68#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#43.68#page:2	$530'0; và $530'1;▼lúc nào cũng dính lấy nhau.▼Tớ nghĩ $533;!
+talkfigs/0eng/data/0042#43.68#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Lạ thật, cậu không thấy sao?▼Ơ, khoan...
+talkfigs/0eng/data/0042#43.68#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ hội kiếm tiền đến rồi!
+talkfigs/0eng/data/0042#43.80#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#43.80#page:2	Nghe nói $530'0;▼đã $531; và trông▼rất $533;.
+talkfigs/0eng/data/0042#43.80#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Chẳng biết có chuyện gì...▼Khoan! Tớ nghĩ ra rồi!
+talkfigs/0eng/data/0042#43.80#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ hội kiếm tiền đến rồi!
+talkfigs/0eng/data/0042#43.81#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#43.81#page:2	Nghe nói $530'0;▼đã $531; và dùng▼$533; kỳ lạ.
+talkfigs/0eng/data/0042#43.81#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Chẳng biết có chuyện gì...▼Khoan! Tớ nghĩ ra rồi!
+talkfigs/0eng/data/0042#43.81#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ hội kiếm tiền đến rồi!
+talkfigs/0eng/data/0042#43.82#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#43.82#page:2	Nghe nói $530'0;▼đã $531; rồi làm▼$533; kỳ quặc?
+talkfigs/0eng/data/0042#43.82#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Chẳng biết có chuyện gì...▼Khoan! Tớ nghĩ ra rồi!
+talkfigs/0eng/data/0042#43.82#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ hội kiếm tiền đến rồi!
+talkfigs/0eng/data/0042#43.83#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#43.83#page:2	Nghe nói $530'0;▼đã $531; rồi▼$533; rất cẩn thận.
+talkfigs/0eng/data/0042#43.83#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Rốt cuộc là gì nhỉ?▼Ồ, khoan...
+talkfigs/0eng/data/0042#43.83#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ hội kiếm tiền đến rồi!
+talkfigs/0eng/data/0042#43.90#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#43.90#page:2	$530'0; siêu ngầu,▼theo lời $533;.
+talkfigs/0eng/data/0042#43.90#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;Nhưng tớ chẳng lo. Chỉ là▼tin đồn thôi. Chắc ai đó▼nhầm tên rồi...
+talkfigs/0eng/data/0042#43.91#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#43.91#page:2	$530'0;▼$533;▼vì biết quan tâm.
+talkfigs/0eng/data/0042#43.91#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;Nhưng tớ chẳng lo. Chỉ là▼tin đồn thôi. Chắc ai đó▼nhầm tên rồi...
+talkfigs/0eng/data/0042#43.92#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#43.92#page:2	$530'0;▼$533;▼vì hay bày trò.
+talkfigs/0eng/data/0042#43.92#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Chẳng biết có chuyện gì...▼Khoan! Tớ nghĩ ra rồi!
+talkfigs/0eng/data/0042#43.92#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ hội kiếm tiền đến rồi!
+talkfigs/0eng/data/0042#44.0#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#44.0#page:2	$530'0; và $530'1;▼lúc nào cũng $533;▼cùng nhau!
+talkfigs/0eng/data/0042#44.0#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Thả thính giỏi thế▼thì bất công quá!
+talkfigs/0eng/data/0042#44.0#page:4	$024'327'3;$023'327'171'10'1;$022'327'304;Thật tình... Ngay cả tớ▼cũng hết hứng trêu▼hai người đó luôn.
+talkfigs/0eng/data/0042#44.1#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#44.1#page:2	$530'0; và $530'1;▼công khai $533; rồi!
+talkfigs/0eng/data/0042#44.1#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Thả thính giỏi thế▼thì bất công quá!
+talkfigs/0eng/data/0042#44.1#page:4	$024'327'3;$023'327'171'10'1;$022'327'304;Thật tình... Ngay cả tớ▼cũng hết hứng trêu▼hai người đó luôn.
+talkfigs/0eng/data/0042#44.2#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#44.2#page:2	$530'0; và $530'1;▼$533;!
+talkfigs/0eng/data/0042#44.2#page:3	Ngắm pháo hoa thì▼có gì ghê gớm đâu nhỉ?
+talkfigs/0eng/data/0042#44.3#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#44.3#page:2	$530'0; và $530'1;▼lén lút $533; đấy!
+talkfigs/0eng/data/0042#44.3#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Thả thính giỏi thế▼thì bất công quá!
+talkfigs/0eng/data/0042#44.3#page:4	$024'327'3;$023'327'171'10'1;$022'327'304;Thật tình... Ngay cả tớ▼cũng hết hứng trêu▼hai người đó luôn.
+talkfigs/0eng/data/0042#44.4#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#44.4#page:2	$530'0; khiến $530'1;▼$533;!
+talkfigs/0eng/data/0042#44.4#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Chẳng biết có chuyện gì...▼Khoan! Tớ nghĩ ra rồi!
+talkfigs/0eng/data/0042#44.4#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ hội kiếm tiền đến rồi!
+talkfigs/0eng/data/0042#44.5#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#44.5#page:2	$530'0; và $530'1;▼$533;!
+talkfigs/0eng/data/0042#44.5#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Chẳng biết có chuyện gì...▼Khoan! Tớ nghĩ ra rồi!
+talkfigs/0eng/data/0042#44.5#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ hội kiếm tiền đến rồi!
+talkfigs/0eng/data/0042#44.6#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#44.6#page:2	$530'0; và $530'1;▼$533;!
+talkfigs/0eng/data/0042#44.6#page:3	$024'327'5;$023'327'175'8'1;$022'327'342;Tin nổi không? Tớ hơi bất ngờ đấy.
+talkfigs/0eng/data/0042#44.7#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#44.7#page:2	$533;▼tình bạn khăng khít▼giữa $530'0; và $530'1;!
+talkfigs/0eng/data/0042#44.7#page:3	$024'327'7;$023'327'177'10'1;Chuyện gì vậy ta?▼Tự nhiên tò mò ghê.
+talkfigs/0eng/data/0042#44.7#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ hội kiếm tiền đến rồi!
+talkfigs/0eng/data/0042#44.8#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#44.8#page:2	$530'0; và $530'1;▼$533; nhờ mối▼gắn kết bền chặt!
+talkfigs/0eng/data/0042#44.8#page:3	$024'327'5;$023'327'175'8'1;$022'327'342;Tin nổi không? Tớ hơi bất ngờ đấy.
+talkfigs/0eng/data/0042#44.25#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#44.25#page:3	$024'327'7;$023'327'177'10'1;Không biết đã xảy ra gì.▼Ơ, khoan...
+talkfigs/0eng/data/0042#44.25#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ hội kiếm tiền đến rồi!
+talkfigs/0eng/data/0042#44.26#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#44.26#page:2	$530'0; có hành động▼đáng ngờ▼$533;!
+talkfigs/0eng/data/0042#44.26#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;Hê hê! Chắc chắn▼có chuyện bị giấu giếm!
+talkfigs/0eng/data/0042#44.26#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ hội kiếm tiền đến rồi!
+talkfigs/0eng/data/0042#44.27#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#44.27#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;Hê hê! Cậu tò mò▼muốn biết lắm rồi chứ gì?
+talkfigs/0eng/data/0042#44.27#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ hội kiếm tiền đến rồi!
+talkfigs/0eng/data/0042#44.28#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Ồ, đúng lúc quá! Bọn tớ vừa▼bàn vài tin đồn đây.
+talkfigs/0eng/data/0042#44.28#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Ai mà chẳng có khuyết điểm,▼nên tớ chẳng thấy lạ...
+talkfigs/0eng/data/0042#44.28#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Cơ mà tớ cũng tò mò▼cảm giác có khuyết điểm▼là thế nào...
