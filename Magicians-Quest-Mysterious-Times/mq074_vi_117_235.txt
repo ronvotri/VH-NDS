@@ -1,0 +1,119 @@
+117|Tớ làm ồn quá▼khiến cậu khó chịu à?
+118|Không đến mức đó.$019'-1;
+119|Ừ, ồn thật đấy...!$019'-1;
+120|Biết thế tớ đã chẳng▼bày ra làm gì...
+121|Mọi thứ vốn đã▼sạch sẽ, gọn gàng rồi.
+122|Chắc tớ phải quay lại▼làm bài tập thôi.
+123|Ừ thì, có những việc▼dù sao cũng phải làm.
+124|Được, được rồi.▼Tớ ngừng đây.
+125|$004'60;Ááá...!
+126|$500; đấy à?▼Để tớ đoán... Cậu nghe▼tiếng tớ hét đúng không?
+127|Ừ, tiếng hét như thế▼hẳn làm cậu giật mình lắm.
+128|Xin lỗi. Tớ... Tớ cứ tưởng▼mình trông thấy thứ gì đó.
+129|Tớ cứ tưởng đống rác▼là $000'4;$507'2145;$000'1;.
+130|Tớ đánh thức cậu à, $500;?
+131|Hôm nay tớ tuyệt đối▼không thể ngủ quên,▼nên phải dùng báo thức đặc biệt.
+132|Công nhận nó hiệu quả ghê.
+133|Hình như hiệu quả quá mức!▼Chắc tớ sẽ không▼dùng nó nữa đâu.
+134|Đã ở đây rồi thì▼học cùng nhau luôn nhé!
+135|Sai rồi! Cậu nghĩ gì thế,▼$500;?
+136|Tớ sẽ hỏi cậu vài câu,▼cố trả lời cho tốt nhé.
+137|Câu đầu tiên đây...
+138|Giờ đến câu tiếp theo...
+139|Hết rồi! Để xem▼cậu làm tốt đến đâu nhé.
+140|Thật khó tin!▼Cậu đúng hết 100% luôn!▼Đỉnh thật đấy!
+141|Cậu trả lời đúng $550'78; câu.▼Cũng khá lắm đấy.
+142|Cậu chỉ đúng $550'78; câu.▼Phải học thêm rồi, $500;.
+143|Vui thật đấy.
+144|Lần sau muốn học cùng▼cứ nói tớ nhé.▼Tớ còn không lấy học phí đâu!
+145|Có chuyện quan trọng▼tớ phải nói, $500;...
+146|Chuyện là tớ sắp▼chuyển sang trường khác.
+147|Không biết trường mới thế nào,▼nhưng tớ sẽ cố hết sức!▼Cậu thấy ổn chứ?$019'601;
+148|Đừng đi!$019'-1;
+149|Chúc may mắn!$019'-1;
+150|Cậu buồn đến thế sao,▼$500;?
+151|Ra là cậu buồn lắm nhỉ.▼Dù sao thì... cảm ơn nhé.
+152|Giờ tớ phải nghĩ lại▼mọi kế hoạch rồi...
+153|Biết ngay cậu sẽ ủng hộ!▼Thế quà chia tay▼của tớ đâu nào?
+154|Đùa thôi! Kỷ niệm▼bên nhau là món quà▼quý nhất rồi!
+155|Vậy đừng quên tớ nhé!▼Hứa đấy? Hẹn gặp lại!
+156|Hôm nay là ngày cuối của tớ.▼Đột ngột bỏ đi như thế,▼đúng là kiểu của tớ nhỉ?
+157|Tớ cảm thấy ngoài kia▼có người đang đợi mình.
+158|Chúc cậu mọi điều tốt đẹp!▼Mong có ngày gặp lại!▼Au revoir!
+159|Chắc cậu buồn vì▼tớ sắp đi lắm nhỉ...
+160|Cảm ơn! Tớ phải làm▼việc này thôi.▼Cậu hiểu mà.
+161|Tớ sẽ không quên cậu.▼Hẹn gặp lại nhé!
+162|Tớ là $503'562;,▼từ nay sẽ học ở đây.
+163|Nhà tớ giàu nứt đố đổ vách,▼rồi cậu sẽ thấy thôi,▼nhưng cứ tự nhiên nhé.
+164|Ô, ai đến kìa!▼Chào $500;! Vào đi!
+165|Cậu muốn đổi▼$540'4;▼lấy thứ khác à?
+166|Được chứ!$019'652;
+167|Không, để lần khác.$019'653;
+168|Thế hôm nay cậu có▼món gì để đổi, $500;?
+169|Cần tớ thì cứ nói nhé!
+170|Cậu đề nghị món đó à?▼Chắc tớ cũng chẳng▼có lựa chọn nào khác. Đổi!
+171|Vậy để tớ nhận▼món nội thất đó nhé.
+172|Dù sao tớ cũng đang▼tìm món như thế.
+173|Tớ chẳng muốn đổi▼thứ gì ngoài nội thất đâu.
+174|Nào, chọn thứ gì mà▼tớ chịu đổi đi chứ.
+175|Chắc cậu chỉ chọn▼nhầm thôi, đúng không?
+176|Cậu có món nội thất▼cùng kích cỡ không, $500;?
+177|Có thì đúng thứ▼tớ đang tìm đấy.
+178|Không thì tớ không▼nhận lời đổi đâu.
+179|Cậu định lừa tớ đấy à?
+180|Tớ không thể nhận▼thứ rẻ tiền đến vậy.
+181|Cậu phải đưa ra▼món xịn hơn nhiều cơ.
+182|Nếu được, tớ muốn▼nội thất cùng loại.
+183|Cậu không có à?
+184|Đổi hai món nội thất▼giống hệt nhau thì▼phí quá, đúng không?
+185|Sao cậu không▼chọn thứ khác đi?
+186|Ghé hội chợ bán đồ cũ▼của tớ nhé!
+187|T-Tớ kiện cậu bây giờ!$079;
+188|Trên đời này còn▼một TỚ khác sao?
+189|Có chuyện gì thế?▼Ai đang chơi khăm tớ à?▼Á... Chóng mặt quá...$079;
+190|$500;? Không hiểu sao▼tớ cứ buồn ngủ mãi...$079;
+191|Ááá...! Phòng tớ▼biến thành rừng nấm rồi!$079;
+192|$500;? Tớ đang làm gì nhỉ?▼Chẳng nhớ gì hết...$079;
+193|$500;, cậu dễ thương quá...
+194|Hẹn hò với tớ đi,▼tớ sẽ chia cho cậu▼một ít gia tài nữa.$079;
+195|$500;! Không hiểu sao▼có thứ cứ kéo tớ đi!
+196|Cứu tớ với!▼Tớ trả tiền cho...!$079;
+197|Hửm? Tớ đang làm gì thế?$079;
+198|Tớ đang gặp chút▼rắc rối với một việc...
+199|nhưng thôi, đừng lo.▼Dù sao cũng cảm ơn!$079;
+200|Nhìn thì tưởng tớ▼đang nghỉ ngơi, nhưng...
+201|thật ra tớ đang nghĩ cách▼kiếm thêm tiền đấy.$079;
+202|Cậu biết nếu có người▼nhìn thấy lúc niệm chú▼thì phép sẽ thất bại chứ?
+203|Vậy thì... ĐỪNG nhìn tớ nữa!$079;
+204|Ừm, món đó đẹp ghê...▼Chắc tớ sẽ nhờ mẹ▼mua cả cửa hàng luôn!$079;
+205|Ồ, $500; đấy à.▼Dạo này thế nào?
+206|Tớ đang nghĩ cách▼để cuộc sống dễ dàng hơn...$079;
+207|Có lẽ cậu khó tin,▼nhưng gần đây tớ▼đau đầu kinh khủng.
+208|Hôm nay đừng▼gắng sức quá nhé?
+209|Cậu không tin nổi đâu,▼nhưng tớ đang▼đau bụng ghê gớm.
+210|Vậy mà tớ đã cố▼đối xử tốt với nó...
+211|Cậu khó tin nhỉ,▼nhưng hình như tớ bị sốt.
+212|Tớ sẽ tạm nghỉ học▼một thời gian để hồi sức.
+213|Cậu không tin nổi đâu,▼tớ bị đau đầu dữ dội▼suốt mấy hôm nay.
+214|Tớ muốn khỏe hẳn▼rồi mới ra ngoài.$073'705'2'1;
+215|Cậu không tin nổi đâu,▼tớ bị đau bụng dữ dội▼suốt mấy hôm nay.
+216|Trong tình trạng này▼tớ không ra ngoài đâu.$073'705'2'1;
+217|Cậu không tin nổi đâu,▼tớ bị sốt nặng▼suốt mấy hôm nay...
+218|và sẽ chẳng ra ngoài▼cho đến khi khỏe lại.$073'705'2'1;
+219|Im lặng chút đi!▼Tớ đau đầu quá.▼Đừng nói chuyện với tớ...$073'705'2'1;
+220|Nếu cậu muốn biết,▼tớ đang đau bụng dữ dội,▼gần như không nhúc nhích nổi.$073'705'2'1;
+221|Làm ơn, để sau đi!▼Tớ sốt nóng ran,▼đi còn chẳng nổi nữa.$073'705'2'1;
+222|Đồ uống ở đây ngon thật.
+223|Tớ hay ghé uống vài ly.▼Ly nào cũng NGON hết sảy...
+224|Để người khác uống▼thì phí quá!
+225|Ê, $500;!▼Đi câu cá nào.
+226|Thật ra tớ chẳng▼mê câu cá lắm đâu...
+227|Nhưng nghe nói câu được cá to▼là có quyền khoe,▼nên tớ thử vận may vậy!$079;
+228|Ối, $500;! C-Cậu▼làm gì ở đây thế?
+229|Giờ tớ đang vội,▼nói chuyện sau nhé!$079;
+230|Tớ mê đọc sách lắm!▼Vui cực kỳ luôn.
+231|Tớ đặc biệt thích sách▼về kinh doanh, tài chính▼và cách kiếm lời thật nhiều...
+232|Đọc chúng giúp tớ▼lên kế hoạch tương lai!$079;
+233|Biển tuyệt quá!▼Không gì sánh bằng!▼Ước gì tớ cũng giỏi thế!
+234|Từ nay tớ phải▼khôn khéo, ranh mãnh hơn...!$079;
+235|Ngắm cảnh ở Mũi Tình Nhân▼đẹp tuyệt! Gió cũng▼mát dễ sợ luôn!

@@ -1,3 +1,12 @@
+## Checkpoint 074 — 09/11/2026
+
+- **19.698/55.976 (35,19%)**, thoại NPC **16.573/52.608**, tăng 240 trang từ 073.
+- Hoàn thành `0042.001` + `0042.002` (120 trang/tệp), 235 mẫu EN riêng: 220 mẫu dịch mới, 15 mẫu có bản dịch trùng từ trước.
+- QA toàn bộ 501 JSONL / 55.976: 19.458 bản dịch cũ nguyên vẹn; chỉ thêm 240 `vi`. Token NDS và giới hạn dòng tĩnh đạt.
+- ZIP bàn giao: `MagiciansQuest-VietHoa-Checkpoint-074.zip` trong Thư viện `/Dịch giả lập`.
+- Tiếp theo `0042.003` + `0042.004` (nguồn sẵn, mỗi tệp 120 trang).
+- Chưa thử trực tiếp trên ROM NDS.
+
 ## Checkpoint 073 — 09/11/2026
 
 - **19.458/55.976 (34,76%)**, thoại NPC **16.333/52.608**; tăng 126 mục từ checkpoint 072.

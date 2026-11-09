@@ -1,0 +1,116 @@
+001|Ê! Tránh đường ra,▼không là tớ kiện cậu đấy!$079;
+002|Cậu cố tình phải không?▼Đừng để tớ gọi luật sư nhé!$079;
+003|Cậu thích cản đường▼bạn bè lắm hả?!$079;
+004|Ồ? Thật sự tặng tớ sao?
+005|Cậu không đòi lại▼sau này đấy chứ?
+006|Cậu làm tớ vui cả ngày!▼Ừm... Lần sau mang▼thêm nữa được không?
+007|Gì đây? Tuyệt ghê.▼Cậu mang đúng thứ▼tớ ghét nhất đến đấy.
+008|Ừ thì... Tớ biết cậu▼cũng có ý tốt mà...
+009|Đừng lo, tớ sẽ tìm cách▼dùng nó. Cảm ơn nhé.
+010|Cảm ơn. Khi nào thích▼thì tớ sẽ tặng lại cậu.
+011|Cậu không định tặng▼tớ gì thật à?
+012|Ồ? Thuốc cho tớ à?
+013|Ừm, cảm ơn nhé. Tớ đâu▼muốn cậu phải lo cho tớ.
+014|Lát nữa tớ sẽ uống.▼Cảm ơn lần nữa!
+015|Gì đây? Thuốc cho tớ sao?
+016|Cậu tốt bụng quá!▼Ừm... Muốn tớ làm gì nào?
+017|Dù sao lát nữa tớ sẽ uống!▼Cảm ơn nhé!
+018|Ơ? Chẳng phải cậu▼đã cho tớ thuốc rồi sao?
+019|Cảm ơn, nhưng thật đấy,▼tớ đã có đủ thuốc▼dùng tạm rồi.
+020|Ối... Đau quá...
+021|Ồ, cho tớ thật sao?
+022|Cậu tốt quá...▼Nhưng tớ sẽ chờ▼khỏe hơn rồi dùng nhé.
+023|Tớ đi làm thủ tục▼chuyển trường đây.
+024|Cậu quyết định ở lại à?
+025|Tớ cũng thế! Tớ không đi nữa!
+026|Hy vọng cậu cho tớ▼đi cùng nhé.$019'103;
+027|Có$019'104;
+028|Không$019'105;
+029|Vậy thì lên đường thôi.
+030|Ôi, tiếc thật đấy!▼Để lần sau vậy.
+031|Ồ, ồ, ồ!▼Chúc mừng sinh nhật!
+032|Tớ có quà cho cậu này!▼Nóng lòng muốn mở lắm nhỉ?
+033|Không cần cảm ơn đâu,▼nhưng thích thì cứ nói nhé.▼Mong cậu thích món quà!
+034|Gì cơ? Đây là quà▼sinh nhật cho tớ sao?
+035|Ý cậu là...▼cậu thực sự nhớ à?
+036|Cảm ơn, $500;!▼Biết cậu quan tâm thật vui.
+037|Cảm ơn đã mời tớ đến chơi.
+038|Nào... Để xem nhà cậu ra sao...
+039|Chỗ này bừa bộn quá.▼Tớ bắt đầu hối hận▼vì đã đến đây rồi.
+040|Ít ra cậu không phí tiền▼vào đồ trang trí nhỉ...
+041|Ừm, bình thường cũng▼có cái hay của nó...
+042|Phòng này cũng khá đấy.▼Hơi sang chảnh nhỉ?▼Quý tộc quá cơ!
+043|Phòng này đúng là hạng nhất!▼Đang học theo phong cách▼của tớ hả?
+044|Chắc cậu mê màu này lắm.▼Phối với mọi thứ▼khéo thật đấy!
+045|Cậu định học theo▼gu thẩm mỹ đỉnh cao▼của tớ à?
+046|Phòng này phối đồ▼rất hài hòa đấy.
+047|Cậu đang định chôm▼ý tưởng trang trí▼tuyệt vời của tớ à?
+048|Chà, chỗ này đúng là▼sành điệu, hiện đại,▼lại còn bắt mắt nữa...
+049|Ê... Cậu định trang trí▼phòng theo lối sống▼của tớ đấy à?
+050|Chà! Chắc cậu tốn▼không ít công mới sưu tầm▼được bộ nội thất đẹp thế.
+051|Chắc cậu thấy đồ của tớ▼rồi muốn bắt chước chứ gì!
+052|Phòng đẹp đấy.▼Đúng kiểu tớ sẽ bày trí.
+053|Cứ như thiên đường ấy.▼Giỏi lắm!
+054|Cậu vui chứ?▼Lúc nào tớ cũng▼sẵn lòng ghé lại nhé!
+055|Cậu đã đến rồi,▼uống một tách trà nhé?
+056|Không gian rất quan trọng▼khi thưởng trà.▼Ví dụ như bãi bừa này...
+057|Đây không hẳn là nơi▼lý tưởng để uống trà,▼nhưng đành vậy thôi.
+058|Đây mới gọi là trà chứ!▼Tớ nghĩ cậu sẽ▼thích tách này lắm.
+059|Muốn trà ngon thì▼phải có không khí trong lành.▼Hoặc đơn giản là trà ngon!
+060|ĐÂY mới là cách▼người văn minh uống trà.
+061|Trà ngon lắm,▼thêm món ăn này nữa▼thì đúng là tuyệt phẩm!
+062|Hôm nào lại uống trà nhé.▼Cậu rảnh là tớ sẵn sàng!
+063|Xin lỗi, tớ đến muộn.
+064|Này, $500;!
+065|Cứ lấy cái này đi.
+066|Tớ bảo bạn bè là tớ muốn▼một cái, ai ngờ▼được cho nhiều quá.
+067|Đừng lãng phí, đúng không?▼Cứ nhận đi, của cậu đấy.
+068|Chào $500;!▼Lâu lắm không gặp nhỉ.
+069|Sao lại thế nhỉ?
+070|Trông cậu vẫn ổn,▼thế cũng tốt rồi.
+071|Thôi, gặp lại sau nhé.▼Lần sau gặp tớ thì▼nhớ chào đấy!
+072|Cậu đang làm gì đấy,▼$500;? Rảnh chơi với▼bạn cũ một lát không?
+073|Được thôi.$019'-1;
+074|Xin lỗi nhé.$019'-1;
+075|Tuyệt! Vậy đi thôi!
+076|Ồ, cậu bận đến mức▼không chơi với tớ à?▼Để lần sau vậy.
+077|Tớ muốn hỏi cậu▼một chuyện, $500;.
+078|Cần $000'4;$507'427;$000'1; để▼niệm chú $000'4;Học sinh ưu tú,▼đúng không?
+079|Đúng rồi.$019'-1;
+080|Không, sai rồi.$019'-1;
+081|Thật sao? Tớ cũng▼không chắc lắm...
+082|Ừm, vậy chắc tớ nên▼học lại buổi đó.
+083|Đúng như tớ nghĩ!▼Tớ biết có gì đó sai sai mà...
+084|Lần sau tớ sẽ làm đúng.▼Cảm ơn, $500;!
+085|Như thế đấy.▼Cậu làm được chưa?
+086|$500;?▼Cậu làm gì ở đây thế?
+087|Cậu nghe tớ huýt sáo à?▼Hôm nay trời đẹp quá,▼tớ tự dưng muốn huýt sáo.
+088|Thỉnh thoảng huýt sáo▼cũng vui lắm.▼Cậu muốn thử không?
+089|Dĩ nhiên trước tiên▼cậu phải học đã...
+090|Tớ muốn học.$019'-1;
+091|Không hứng thú.$018'2;
+092|Được rồi, chú ý nhé.
+093|Tiếc thật! Đâu phải ngày nào▼tớ cũng dạy miễn phí đâu.
+094|Ồ, $500; đấy à.▼Có chuyện gì sao?
+095|À, vụ rung chuyển ấy hả?▼Tin hay không tùy cậu,▼tớ cũng có lúc thất bại mà.
+096|Tớ đang thử niệm▼$000'4;Phép thuật thất bại$000'1;.▼Như thế này đúng không...?
+097|Không đúng đâu.$019'-1;
+098|Đúng như tớ nghĩ.
+099|Được rồi, tớ thử lại nhé.
+100|Cảm ơn cậu!
+101|Hả? Cậu chắc chứ?▼Làm sai là tớ▼gặp rắc rối to đấy!
+102|Chắc tớ phải học lại▼bài đó rồi.
+103|*Thở dài*
+104|$500;? Giờ này rồi▼cậu còn thức à?
+105|Tớ á? Tớ vừa gặp▼một cơn ác mộng kinh khủng.
+106|Cậu mơ thấy gì?$019'-1;
+107|Chỉ là giấc mơ thôi.$019'-1;
+108|...Và chuyện là thế đấy.
+109|Nghe thì có vẻ▼không đáng sợ lắm...
+110|nhưng trải qua mới biết▼nó kinh khủng thế nào!
+111|Giờ chắc tớ ổn rồi.▼Không sao đâu.
+112|Đêm nay chắc tớ khó ngủ.▼Cậu biết cách nào▼tránh ác mộng không?
+113|Ồ, $500; đấy à.▼Đến đây có việc gì?
+114|Tớ đang dọn dẹp chút,▼nên nói nhanh nhé...
+115|Hả? Sao tớ lại làm thế à?
+116|Thú thật, tớ đang trốn▼bài tập về nhà đấy.

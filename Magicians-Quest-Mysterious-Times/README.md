@@ -1,3 +1,5 @@
+**Checkpoint mới nhất: 074 (09/11/2026) — 19.698 / 55.976 (35,19%).** +240 trang thoại NPC (`0042.001`, `0042.002`). Có 235 mẫu EN riêng, 220 mẫu mới; QA 501 JSONL PASS. Xem `CHECKPOINT-2026-11-09-DOT-74.md`, `QA-074.md`, `DELTA-074.jsonl`. Đợt 075: `0042.003` + `0042.004`.
+
 **Checkpoint mới nhất: 073 (09/11/2026) — 19.458 / 55.976 (34,76%).** Thêm 126 trang thoại NPC `0041.021` + `0041.022`; QA 501 JSONL PASS. Xem `CHECKPOINT-2026-11-09-DOT-73.md`, `QA-073.md`, `DELTA-073.jsonl`.
 
 **Checkpoint mới nhất: 072 (09/11/2026) — 19.332 / 55.976 (34,54%).** +240 trang thoại NPC (`0041.019`, `0041.020`) bằng cách tái dùng 240 bản dịch đã kiểm tra từ đợt trước. Xem `CHECKPOINT-2026-11-09-DOT-72.md`, `QA-072.md`, `DELTA-072.jsonl`. Đợt 073: `0041.021` + `0041.022` (120 + 6 trang).
