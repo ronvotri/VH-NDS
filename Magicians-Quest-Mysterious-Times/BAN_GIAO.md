@@ -1,3 +1,10 @@
+## Checkpoint 089 — 10/11/2026
+
+- +240 trang thoại (`0043.008` và `0043.009`); tổng 23.289/55.976 (41,61%), NPC 20.164/52.608.
+- 65 mẫu riêng: 24 dịch mới, 41 tái sử dụng. QA 501 JSONL PASS, 23.049 mục trước giữ nguyên.
+- Bàn giao ZIP đầy đủ, EN–VI TSV, delta, QA, script. Chưa test ROM.
+- Tiếp `0043.010` + `0043.011` (120 trang/tệp).
+
 ## Checkpoint 088 — 10/11/2026
 
 - +240 trang NPC `0043.006` và `0043.007`; tổng 23,049/55,976 (41.18%), NPC 19.924/52.608.
