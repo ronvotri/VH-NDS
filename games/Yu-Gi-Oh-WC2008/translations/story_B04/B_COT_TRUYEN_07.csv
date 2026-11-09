@@ -1,0 +1,151 @@
+key,ten_la_bai_EN,tieng_Anh,tieng_Viet_hien_tai,toi_da_ky_tu,tieng_Viet_MOI
+story|1124|0,,OK then. Hold on while I strengthen up a bit.,Được rồi. Đợi ta tăng sức thêm chút nhé.,50,Được rồi. Đợi ta tăng sức mạnh chút đã.
+story|1125|0,,"OK, I'm ready.","Xong rồi, ta sẵn sàng.",25,Xong! Ta sẵn sàng rồi.
+story|1127|0,,You feel like dueling again?,Cậu có muốn Duel nữa không?,31,Muốn đấu thêm trận nữa chứ?
+story|1128|0,,Make your selection,Hãy chọn,21,Hãy chọn
+story|1129|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1130|0,,Good stuff! I knew you'd be up for it!,Tuyệt! Ta biết ngay là cậu sẽ đồng ý!,42,Hay lắm! Ta biết ngay cậu sẽ đồng ý!
+story|1131|0,,"Then, step in to the lab's interior.",Vậy thì vào bên trong phòng thí nghiệm đi.,47,Vậy thì vào sâu trong phòng thí nghiệm đi.
+story|1133|0,,"Ooh, I figured you'd be this good.","Ồ, ta cũng đoán cậu giỏi thế này.",38,"Ồ, ta biết cậu giỏi thế này mà."
+story|1134|0,,Can I ask you a favor?,Ta nhờ cậu giúp một việc được không?,40,Ta nhờ cậu một việc được không?
+story|1135|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1136|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1137|0,,"Yee, yee, yee! I knew you'd say that.","Hí, hí, hí! Ta biết ngay là cậu sẽ nói vậy!",48,Hí hí hí! Ta biết cậu sẽ nói vậy mà!
+story|1138|0,,A great treasure lies deep in the cave near the volcano. I'm hoping you can go get it for me.,Có một bảo vật lớn nằm sâu trong hang động gần núi lửa. Ta hy vọng cậu đi lấy giúp ta.,103,Trong hang gần núi lửa có một kho báu quý. Cậu đến lấy giúp ta nhé!
+story|1139|0,,I really want to use it for my next monster power up. Can you help me out?,Ta thật sự muốn dùng nó để tăng sức cho con quái thú kế tiếp. Cậu giúp ta nhé?,86,Ta muốn dùng nó để tăng sức cho quái thú tiếp theo. Cậu giúp ta chứ?
+story|1141|0,,Did you find the treasure?,Cậu tìm thấy bảo vật chưa?,29,Cậu tìm thấy kho báu chưa?
+story|1142|0,,"Oh please, I really need it. It's waiting for you at the volcano.","Làm ơn đi, ta cần nó lắm. Nó đang chờ cậu ở núi lửa.",72,"Làm ơn đi, ta cần nó lắm! Nó nằm ở núi lửa đó."
+story|1143|0,,"You got the volcano's treasure -- ""@5YOURCARD()@0""!!!","Bạn đã nhận được bảo vật của núi lửa -- ""@5YOURCARD()@0""!!!",65,"Bạn nhận được báu vật núi lửa: ""@5YOURCARD()@0""!"
+story|1144|0,,Did you get the treasure?,Cậu lấy được bảo vật chưa?,29,Cậu lấy được báu vật chưa?
+story|1145|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1146|0,,Give a card\nDon't give a card,Đưa lá bài\nKhông đưa,32,Đưa lá bài\nKhông đưa
+story|1148|0,,I'm pretty sure you found it. I don't trust you.,Ta chắc là cậu tìm thấy rồi. Ta không tin cậu.,53,Ta chắc cậu tìm thấy rồi. Ta không tin đâu!
+story|1149|0,,"Handed over ""@5OWNCARD()@0"".","Đã đưa ""@5OWNCARD()@0"".",31,"Đã giao ""@5OWNCARD()@0""."
+story|1150|0,,Oh! Wow! Uh... you must be mistaken!,Ồ! Oa! Ủa... chắc cậu nhầm rồi!,40,Ồ! Chà! Ơ... chắc cậu nhầm rồi!
+story|1151|0,,There's no way this card is the treasure! You better check your bag one more time!,Lá bài này không thể nào là bảo vật được! Cậu kiểm tra lại túi đi!,91,Lá này sao có thể là báu vật được! Cậu kiểm tra túi lại đi!
+story|1152|0,,"Handed over ""@5OWNCARD()@0"".","Đã đưa ""@5OWNCARD()@0"".",31,"Đã giao ""@5OWNCARD()@0""."
+story|1153|0,,"Ooh! This is it! Excellent! With this card, I can strengthen my monsters even more!","Ồ! Chính là nó! Tuyệt vời! Có lá bài này, ta có thể tăng sức cho quái thú của ta hơn nữa!",98,Ồ! Đúng nó rồi! Tuyệt! Lá này sẽ giúp ta cường hóa quái thú hơn nữa!
+story|1154|0,,"Oh, I think you've already met the next monster I'll power up.","À, chắc cậu đã gặp con quái thú kế tiếp ta sẽ tăng sức rồi.",69,"À, chắc cậu đã gặp quái thú tiếp theo mà ta định cường hóa rồi."
+story|1155|0,,"Hey, thanks for all your hard work, gigo!","Này, cảm ơn cậu đã vất vả nhé, gigo!",46,"Cảm ơn cậu đã vất vả vì tớ, gigo!"
+story|1156|0,,"I gotta get stronger, so what happened before never happens again! I gotta beef up, gigi!","Em phải mạnh lên để chuyện hôm trước không bao giờ xảy ra nữa! Em phải tăng sức, gigi!",98,"Tớ phải mạnh hơn, không để chuyện cũ tái diễn! Phải thật khỏe, gigi!"
+story|1157|0,,Time to power Gigobyte up. Please wait a minute.,Đến lúc tăng sức cho Gigobyte. Xin chờ một chút.,53,Đến lúc cường hóa Gigobyte rồi. Đợi ta một lát!
+story|1159|0,,Ahhhhh!!! Help!!!,Aaaaa!!! Cứu với!!!,21,Áááá! Cứu với!!!
+story|1160|0,,I think the conversion surgery was a success. But it looks like it's gone insane!,Ta nghĩ ca phẫu thuật biến đổi đã thành công. Nhưng có vẻ nó phát điên rồi!,90,Ca phẫu thuật cải tạo xem ra thành công. Nhưng nó phát điên mất rồi!
+story|1161|0,,Ga-ga-ga-ga-ga-gi-giyaaaaa!!!,Ga-ga-ga-ga-ga-gì-giyaaaaa!!!,32,Ga-ga-ga-ga-ga-gi-giyaaaaa!!!
+story|1162|0,,It's out of control! Please help!!!,Nó mất kiểm soát rồi! Giúp với!!!,39,Nó mất kiểm soát rồi! Cứu ta với!!!
+story|1163|0,,Ga-ga-ga-ga-ga-gi-giyaaaaa!!!,Ga-ga-ga-ga-ga-gì-giyaaaaa!!!,32,Ga-ga-ga-ga-ga-gi-giyaaaaa!!!
+story|1164|0,,Come back here quickly! The research center is really falling apart.,Quay lại đây nhanh lên! Trung tâm nghiên cứu sắp sụp đổ đến nơi rồi.,75,Mau quay lại! Trung tâm nghiên cứu sắp tan tành rồi!
+story|1165|0,,I'm counting on you. You have to stop him!,Ta trông cậy vào cậu. Cậu phải ngăn nó lại!,48,Ta trông cậy vào cậu! Phải ngăn nó lại!
+story|1166|0,,"I want more power, gigi! Got to power up, gogo!","Em muốn thêm sức mạnh, gigi! Phải tăng sức, gogo!",54,"Tớ muốn mạnh hơn, gigi! Phải tăng sức nữa, gogo!"
+story|1167|0,,Giga Gagagigo starts leaving to go somewhere.,Giga Gagagigo bắt đầu rời đi đâu đó.,50,Giga Gagagigo bỏ đi về một hướng nào đó.
+story|1168|0,,"Phew! You saved me. Let me pay you back. Here, take this.","Phù! Cậu đã cứu ta. Để ta báo đáp cậu. Này, cầm lấy.",63,Phù! Cậu cứu ta rồi. Nhận món này thay lời cảm ơn nhé!
+story|1169|0,,Ah! My research lab's gonna be destroyed!,Á! Phòng thí nghiệm của ta sẽ bị phá hủy mất!,50,Á! Phòng thí nghiệm của ta sắp bị phá nát!
+story|1170|0,,This place will hold out thanks to all the Inpachi.,Chỗ này sẽ cầm cự được nhờ đám Inpachi này.,57,"Có đám Inpachi chống đỡ, nơi này sẽ trụ được."
+story|1171|0,,"Please go somewhere to power up your Deck! Then, come back to my lab right away!",Hãy đi đâu đó tăng sức cho Deck của cậu! Rồi quay lại phòng thí nghiệm của ta ngay nhé!,96,"Hãy đi tăng sức mạnh Bộ bài, rồi trở lại phòng thí nghiệm ngay nhé!"
+story|1172|0,,"Traveler, you have made the gate appear.","Lữ khách, ngươi đã làm cổng hiện ra.",45,"Lữ khách, ngươi đã khiến cánh cổng xuất hiện."
+story|1173|0,,"This is the Spell Gate, and this is where duelists that travel Duel World must show how much they have progressed.","Đây là Spell Gate, nơi các Duelist du hành ở Duel World phải chứng minh mình đã tiến bộ đến đâu.",126,"Đây là Cổng Phép, nơi các đấu thủ chu du Duel World chứng tỏ bản lĩnh của mình."
+story|1174|0,,The gate will test your perseverance.,Cổng này sẽ thử thách lòng kiên trì của ngươi.,51,Cổng sẽ thử thách sự bền bỉ của ngươi.
+story|1175|0,,My name is Speed Guardian - Ferario.,Ta là Speed Guardian - Ferario.,40,Ta là Speed Guardian - Ferario.
+story|1176|0,,"If you pass my test, you'll be allowed to pass through the gate.","Nếu vượt qua thử thách của ta, ngươi sẽ được phép đi qua cổng.",71,"Vượt qua thử thách của ta, ngươi sẽ được đi qua cổng."
+story|1177|0,,"For this trial, you must duel me 3 times in a row.","Trong thử thách này, ngươi phải Duel với ta 3 trận liên tiếp.",68,Ngươi phải đấu với ta 3 trận liên tiếp trong thử thách này.
+story|1178|0,,You may not increase your Life Points between duels. There is also a limit to how many Life Points you can carry over to the next duel.,Ngươi không được tăng Life Points giữa các trận Duel. Cũng có giới hạn Life Points mang sang trận kế tiếp.,149,"Giữa các trận, ngươi không được hồi LP. LP mang sang trận sau cũng bị giới hạn."
+story|1179|0,,You can only have 10000 Life Points.,Ngươi chỉ được có tối đa 10000 Life Points.,48,Ngươi chỉ được có tối đa 10000 LP.
+story|1181|0,,"Well, then. Will you try my test?","Vậy thì, ngươi có muốn thử thách của ta không?",51,"Vậy, ngươi muốn nhận thử thách của ta chứ?"
+story|1183|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1184|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1185|0,,That's OK. There is no need to rush.,Không sao. Không cần vội.,40,Không sao. Chẳng cần phải vội.
+story|1186|0,,Come back once you are ready to try again.,Hãy quay lại khi ngươi đã sẵn sàng thử lại.,48,Hãy trở lại khi ngươi sẵn sàng thử lần nữa.
+story|1187|0,,"Traveler, I believed you could do it.","Lữ khách, ta đã tin ngươi làm được.",41,"Lữ khách, ta biết ngươi làm được mà."
+story|1188|0,,Will you continue the challenge?,Ngươi có muốn tiếp tục thử thách không?,43,Ngươi muốn tiếp tục thử thách chứ?
+story|1190|0,,Impressive! You have pulled it off beautifully.,Ấn tượng đấy! Ngươi đã làm rất xuất sắc.,52,Giỏi lắm! Ngươi đã vượt qua thật xuất sắc.
+story|1191|0,,"Now, advance to the next world!",Giờ hãy tiến vào thế giới kế tiếp!,38,Giờ hãy tiến đến thế giới tiếp theo!
+story|1192|0,,"Traveler, you failed this time, but don't give up.","Lữ khách, lần này ngươi thất bại, nhưng đừng bỏ cuộc.",59,"Lữ khách, lần này ngươi thua rồi. Đừng nản lòng!"
+story|1193|0,,You should be able to pass this test!,Ngươi nhất định có thể vượt qua thử thách này!,51,Ta tin ngươi sẽ vượt qua thử thách này!
+story|1194|0,,Will you continue?,Ngươi có muốn tiếp tục không?,32,Ngươi muốn tiếp tục không?
+story|1197|0,,There is a stone monument in front of you.,Trước mắt bạn là một bia đá.,47,Trước mặt bạn có một tấm bia đá.
+story|1198|0,,Sealed inside of it is a powerful monster.,Bên trong nó phong ấn một quái thú mạnh.,47,Một quái thú hùng mạnh bị phong ấn bên trong.
+story|1200|0,,"If you look closely, ""@5VWXYZ-Dragon Catapult Cannon@0"" is engraved in the stone.","Nhìn kỹ, bạn thấy ""@5VWXYZ-Dragon Catapult Cannon@0"" được khắc trên bia đá.",90,"Quan sát kỹ, bạn thấy khắc tên ""@5VWXYZ-Dragon Catapult Cannon@0"" trên bia."
+story|1201|0,,Do you challenge the seal opening?,Bạn có muốn thử thách để phá phong ấn không?,49,Bạn có muốn thử phá phong ấn không?
+story|1202|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1203|0,,Yes\nNo\nHow to open the seal,Có\nKhông\nCách phá phong ấn,30,Có\nKhông\nCách phá phong ấn
+story|1204|0,,Your Deck doesn't meet certain conditions.,Deck của bạn chưa đáp ứng một số điều kiện.,48,Bộ bài của bạn chưa đủ điều kiện.
+story|1205|0,,You left the area.,Bạn đã rời khỏi khu vực này.,31,Bạn rời khỏi khu vực.
+story|1206|0,,The challenge is a duel against the sealed monster.,Thử thách là một trận Duel với quái thú bị phong ấn.,58,Thử thách là đấu với quái thú bị phong ấn.
+story|1207|0,,You must summon the same monster,Bạn phải Summon đúng quái thú,36,Bạn phải Triệu hồi đúng quái thú
+story|1208|0,,"as the one engraved in the stone monument,","được khắc trên bia đá,",47,"mang tên được khắc trên bia đá,"
+story|1209|0,,and win the duel.,và thắng Duel.,19,rồi thắng trận.
+story|1211|0,,The seal has been successfully opened!,Phong ấn đã được phá thành công!,42,Phong ấn đã được phá giải!
+story|1212|0,,You failed in opening the seal.,Bạn đã thất bại trong việc phá phong ấn.,45,Bạn không phá được phong ấn.
+story|1213|0,,"Hey, you, I bet you're looking for a weapon?","Này cậu, chắc cậu đang tìm vũ khí nhỉ?",49,"Này, cậu đang tìm một món vũ khí phải không?"
+story|1214|0,,No need to hide it. It's written all over your face.,Không cần giấu đâu. Viết rõ mồn một trên mặt cậu kia.,59,"Đừng giấu nữa, nhìn mặt cậu là biết ngay!"
+story|1216|0,,"Well then, you want me to make you one?","Thế nhé, cậu có muốn ta rèn cho một cái không?",51,"Thế nào, muốn ta rèn cho một món không?"
+story|1217|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1218|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1219|0,,"Yeah, I'm sure you do. Then why don't I forge a weapon that will really help you out?","Đúng rồi, ta biết mà. Vậy để ta rèn một vũ khí giúp ích thật sự cho cậu nhé?",94,Ha! Ta biết cậu muốn mà. Để ta rèn một món vũ khí thật hữu ích nhé!
+story|1220|0,,Just come back here in a little while.,Cứ quay lại đây sau một lúc nữa.,42,Lát nữa nhớ quay lại đây.
+story|1221|0,,"Oh, that's a shame. If things change, just come by again.","Ơi, tiếc thật. Nếu đổi ý, cứ ghé lại nhé.",63,Tiếc quá! Nếu đổi ý thì cứ ghé lại nhé.
+story|1222|0,,How impatient can you be?,Cậu sốt ruột đến thế à?,28,Sốt ruột đến thế cơ à?
+story|1223|0,,It's not ready yet. Give me a little more time.,Chưa xong đâu. Cho ta thêm chút thời gian.,52,Chưa xong đâu! Cho ta thêm chút thời gian.
+story|1224|0,,You came just at the right time. I just finished your weapon.,Cậu đến đúng lúc lắm. Ta vừa rèn xong vũ khí của cậu.,68,Cậu đến đúng lúc! Ta vừa rèn xong vũ khí rồi.
+story|1225|0,,"It's ""@5YOURCARD()@0"". Pretty nice, eh?","Là ""@5YOURCARD()@0"". Đẹp chưa?",43,"Đây, ""@5YOURCARD()@0""! Đẹp chứ?"
+story|1226|0,,It's yours for PAYDP()DP.,Của cậu với giá PAYDP()DP.,29,Món này giá PAYDP()DP.
+story|1227|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1228|0,,Pay\nDon't pay,Trả\nKhông trả,15,Trả\nKhông trả
+story|1230|0,,You're really not going to pay?,Cậu thực sự không trả à?,35,Cậu định không trả thật à?
+story|1231|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1232|0,,Pay\nDon't pay,Trả\nKhông trả,15,Trả\nKhông trả
+story|1234|0,,"What! I forged this weapon for you, and you're saying you don't need it?",Cái gì! Ta rèn vũ khí này cho cậu mà cậu bảo không cần à?,80,Cái gì?! Ta rèn riêng cho cậu mà giờ cậu bảo không cần à?
+story|1235|0,,I'll have to teach you a lesson!,Để ta dạy cho cậu một bài học!,36,Để ta dạy cậu một bài học!
+story|1236|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|1237|0,,"If you're up for it, I'll make you another weapon sometime. Just come again.","Nếu cậu muốn, thỉnh thoảng ta sẽ rèn cho cậu thêm vũ khí. Cứ ghé lại nhé.",84,Lần sau muốn rèn vũ khí nữa thì cứ ghé ta nhé!
+story|1238|0,,Insufficient DP.,Không đủ DP.,18,Không đủ DP.
+story|1240|0,,"Hey, you're short of DP! Come back when you're ready!","Này, cậu thiếu DP rồi! Có đủ thì quay lại nhé!",59,"Này, cậu thiếu DP rồi! Có đủ thì quay lại nhé!"
+story|1241|0,,What? This means I've lost? I'm gonna have to reforge my Deck.,Cái gì? Nghĩa là ta thua sao? Ta phải rèn lại Deck thôi.,69,Sao cơ? Ta thua rồi à? Phải rèn lại Bộ bài mới được!
+story|1242|0,,"Alright, young one, the next time I'll make you a weapon that you'll really want to buy. Don't forget it!","Được, nhóc con, lần sau ta sẽ rèn cho cậu một vũ khí mà cậu chắc chắn muốn mua. Nhớ đấy!",116,"Được lắm, nhóc! Lần sau ta sẽ rèn món khiến cậu phải móc hầu bao. Nhớ đấy!"
+story|1243|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|1244|0,,"Ha, ha, ha! You were out of line, young one!","Ha, ha, ha! Cậu quá lố rồi, nhóc con!",49,"Ha ha ha! Nhóc con, cậu quá quắt lắm rồi!"
+story|1245|0,,"Now, I will force you to buy the weapon!",Giờ ta sẽ ép cậu mua vũ khí!,45,Giờ ta sẽ bắt cậu mua món vũ khí này!
+story|1246|0,,Let this be a lesson to you! No more holding out and not paying people their DP!,Cho cậu nhớ bài học này! Không được quịt tiền DP của người ta nữa!,89,Cho cậu một bài học! Đừng hòng quỵt DP công sức người khác nữa!
+story|1247|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|1248|0,,Insufficient DP.,Không đủ DP.,18,Không đủ DP.
+story|1250|0,,"Hey, you're short of DP! Come back when you're ready!","Này, cậu thiếu DP rồi! Có đủ thì quay lại nhé!",59,"Này, cậu thiếu DP rồi! Có đủ thì quay lại nhé!"
+story|1251|0,,Whoo! I'm scorching! I'm burning up! I can't stand it!,Oa! Nóng quá! Nóng cháy người! Không chịu nổi nữa!,60,Ối! Nóng quá! Cháy cả người rồi! Không chịu nổi!
+story|1252|0,,"Hey, help me out!","Này, giúp tui với!",20,"Này, cứu tui với!"
+story|1253|0,,This card is roasting me alive! I can't stop it!,Lá bài này đang nướng tui sống! Không dừng lại được!,58,Lá bài này nướng tui chín mất! Không dừng được!
+story|1254|0,,"If I wager this card in a duel and it burns out, then my lava should cool down some.","Nếu tui đặt lá này trong Duel rồi nó cháy hết, thì dung nham của tui chắc sẽ nguội bớt.",96,"Nếu đem lá này cược trong trận đấu cho nó cháy hết, dung nham của tui chắc sẽ dịu bớt."
+story|1255|0,,"If you win, I'll give you ""@5YOURCARD()@0""!","Nếu cậu thắng, tui sẽ cho cậu ""@5YOURCARD()@0""!",52,"Cậu thắng thì tui cho cậu ""@5YOURCARD()@0""!"
+story|1256|0,,What do you say? Will you duel me?,Sao nào? Cậu Duel với tui chứ?,38,"Sao, cậu đấu với tui không?"
+story|1257|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1258|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1259|0,,Whoo! I'm really roasting!,Oa! Nóng cháy người thật rồi!,32,Ối! Tui sắp chín rồi!
+story|1260|0,,Whoo! I'm really cooking here! What am I supposed to do now?,Oa! Nóng sôi lên rồi! Giờ phải làm sao đây?,67,"Ối, nóng như lửa đốt! Giờ phải làm sao đây?"
+story|1261|0,,Whoo! I'm pretty charred! But it burned out!,Oa! Cháy khét hết rồi! Nhưng nó đã cháy hết rồi!,53,Ối! Tui cháy xém rồi! Nhưng lá bài cũng cháy hết!
+story|1262|0,,"Thanks. I got really singed in the duel, but that's helping my lava to simmer down now.","Cảm ơn. Tui bị cháy khét trong Duel, nhưng nhờ vậy dung nham của tui đã nguội bớt rồi.",96,"Cảm ơn! Tui cháy xém trong trận đấu, nhưng dung nham đang nguội dần rồi."
+story|1263|0,,"Well, just like I promised, here's the card!","Nào, giống như đã hứa, lá bài đây!",49,"Như đã hứa, lá bài của cậu đây!"
+story|1264|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|1265|0,,Whoo! I'm really burnt!,Oa! Cháy khét hết rồi!,26,Ối! Cháy khét cả rồi!
+story|1266|0,,I can't give you a card since you didn't win. And I got pretty roasted there!,Tui không thể cho lá bài vì cậu không thắng. Mà tui cũng bị nướng khá đau!,85,Cậu chưa thắng nên tui không thể tặng bài. Mà tui cũng bị nướng đau điếng!
+story|1267|0,,"So, you're heating up for another duel, right? ","Vậy là cậu đang nóng máu muốn Duel nữa, đúng không?",57,"Sao, cậu lại nóng lòng muốn đấu nữa rồi hả?"
+story|1268|0,,Welcome. Do you want to participate again in my duel research?,Chào mừng. Cậu có muốn tham gia nghiên cứu Duel của ta nữa không?,72,Chào cậu! Có muốn tham gia nghiên cứu Duel của ta lần nữa không?
+story|1269|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1270|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1271|0,,I knew you'd say that.,Ta biết ngay là cậu sẽ nói vậy!,35,Ta biết ngay cậu sẽ đồng ý mà!
+story|1272|0,,Then step right in to the heart of my lab.,Vậy thì vào thẳng trung tâm phòng thí nghiệm của ta đi.,61,Vậy thì vào sâu bên trong phòng thí nghiệm đi!
+story|1273|0,,"Really, that's too bad. If you get the urge some other time, be sure to stop by the lab.","Tiếc thật đấy. Nếu sau này cậu đổi ý, nhớ ghé phòng thí nghiệm nhé.",97,Tiếc thật. Khi nào thấy hứng thú thì nhớ ghé phòng thí nghiệm nhé.
+story|1274|0,,"That duel really helped my research. As thanks, I'll give you this card.",Trận Duel đó giúp ích cho nghiên cứu của ta rất nhiều. Xin tặng cậu lá bài này để cảm ơn.,98,Trận đấu vừa rồi giúp ích cho nghiên cứu lắm! Ta tặng cậu lá này để cảm ơn.
+story|1275|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|1276|0,,Come back to my lab anytime!,Lúc nào cũng hoan nghênh cậu quay lại phòng thí nghiệm của ta!,69,Cứ ghé phòng thí nghiệm của ta bất cứ lúc nào!
+story|1277|0,,An unfortunate result.,Kết quả thật đáng tiếc.,26,Kết quả đáng tiếc thật.
+story|1278|0,,How disappointing. I thought you'd really help my research.,Thật thất vọng. Ta cứ tưởng cậu sẽ giúp ích cho nghiên cứu của ta.,73,Thất vọng quá. Ta cứ tưởng cậu sẽ giúp nghiên cứu tiến triển cơ.
+story|1279|0,,Tag duel rules have now been added,Luật Tag Duel đã được thêm,38,Luật Tag Duel đã được bổ sung
+story|1280|0,,to the World Championship Tutorial.,vào World Championship Tutorial.,39,vào phần hướng dẫn World Championship.
+story|1281|0,,It's a good idea to go there and learn the rules.,Nên đến đó học luật thì hơn.,54,Tốt nhất nên đến đó học luật đi nhé.
+story|1282|0,,"So you have come to this world, brave traveler...","Vậy là ngươi đã đến thế giới này, hỡi lữ khách dũng cảm...",64,"Vậy là ngươi đã đến thế giới này, hỡi lữ khách can trường..."
+story|1283|0,,I show many things to travelers who have lost their way.,Ta chỉ cho nhiều điều cho những lữ khách lạc lối.,62,Ta dẫn đường cho những lữ khách lạc lối.
+story|1284|0,,Are you interested in what I have to say?,Ngươi có muốn nghe ta nói không?,46,Ngươi có muốn nghe lời ta không?
+story|1285|0,,Please Select Answer.,Hãy chọn.,24,Hãy chọn câu trả lời.
+story|1286|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1287|0,,"Well then, I shall start explaining things.","Vậy thì, ta sẽ bắt đầu giải thích.",48,Tốt! Vậy để ta bắt đầu giải thích.
+story|1288|0,,"For some unknown reason, only tag duels can be conducted in this world. ","Không rõ vì lý do gì, ở thế giới này chỉ có thể tiến hành Tag Duel.",80,"Không hiểu vì sao, ở thế giới này chỉ có thể đấu Tag Duel."
+story|1289|0,,"Traveler, this means you must learn the ways of the tag duel.","Lữ khách, nghĩa là ngươi phải học cách thức của Tag Duel.",68,"Vì thế, lữ khách, ngươi phải nắm vững luật Tag Duel."
+story|1290|0,,"First, I will teach you the most basic of rules. Be sure to remember what I say.","Đầu tiên, ta sẽ dạy ngươi những luật cơ bản nhất. Nhớ ghi nhớ những gì ta nói.",89,Trước tiên là những quy tắc căn bản. Nghe cho kỹ và nhớ lấy!

@@ -1,0 +1,301 @@
+tep,key,tieng_Anh,tieng_Viet_hien_tai,ban_B03,ban_B04,gioi_han,so_ky_tu,kiem_tra
+B_COT_TRUYEN_07.csv,story|1124|0,OK then. Hold on while I strengthen up a bit.,Được rồi. Đợi ta tăng sức thêm chút nhé.,,Được rồi. Đợi ta tăng sức mạnh chút đã.,50,39,PASS
+B_COT_TRUYEN_07.csv,story|1125|0,"OK, I'm ready.","Xong rồi, ta sẵn sàng.",,Xong! Ta sẵn sàng rồi.,25,22,PASS
+B_COT_TRUYEN_07.csv,story|1127|0,You feel like dueling again?,Cậu có muốn Duel nữa không?,,Muốn đấu thêm trận nữa chứ?,31,27,PASS
+B_COT_TRUYEN_07.csv,story|1128|0,Make your selection,Hãy chọn,,Hãy chọn,21,8,PASS
+B_COT_TRUYEN_07.csv,story|1129|0,Yes\nNo,Có\nKhông,,Có\nKhông,9,9,PASS
+B_COT_TRUYEN_07.csv,story|1130|0,Good stuff! I knew you'd be up for it!,Tuyệt! Ta biết ngay là cậu sẽ đồng ý!,,Hay lắm! Ta biết ngay cậu sẽ đồng ý!,42,36,PASS
+B_COT_TRUYEN_07.csv,story|1131|0,"Then, step in to the lab's interior.",Vậy thì vào bên trong phòng thí nghiệm đi.,,Vậy thì vào sâu trong phòng thí nghiệm đi.,47,42,PASS
+B_COT_TRUYEN_07.csv,story|1133|0,"Ooh, I figured you'd be this good.","Ồ, ta cũng đoán cậu giỏi thế này.",,"Ồ, ta biết cậu giỏi thế này mà.",38,31,PASS
+B_COT_TRUYEN_07.csv,story|1134|0,Can I ask you a favor?,Ta nhờ cậu giúp một việc được không?,,Ta nhờ cậu một việc được không?,40,31,PASS
+B_COT_TRUYEN_07.csv,story|1135|0,What will you do?,Bạn muốn làm gì?,,Bạn sẽ làm gì?,19,14,PASS
+B_COT_TRUYEN_07.csv,story|1136|0,Yes\nNo,Có\nKhông,,Có\nKhông,9,9,PASS
+B_COT_TRUYEN_07.csv,story|1137|0,"Yee, yee, yee! I knew you'd say that.","Hí, hí, hí! Ta biết ngay là cậu sẽ nói vậy!",,Hí hí hí! Ta biết cậu sẽ nói vậy mà!,48,36,PASS
+B_COT_TRUYEN_07.csv,story|1138|0,A great treasure lies deep in the cave near the volcano. I'm hoping you can go get it for me.,Có một bảo vật lớn nằm sâu trong hang động gần núi lửa. Ta hy vọng cậu đi lấy giúp ta.,,Trong hang gần núi lửa có một kho báu quý. Cậu đến lấy giúp ta nhé!,103,67,PASS
+B_COT_TRUYEN_07.csv,story|1139|0,I really want to use it for my next monster power up. Can you help me out?,Ta thật sự muốn dùng nó để tăng sức cho con quái thú kế tiếp. Cậu giúp ta nhé?,,Ta muốn dùng nó để tăng sức cho quái thú tiếp theo. Cậu giúp ta chứ?,86,68,PASS
+B_COT_TRUYEN_07.csv,story|1141|0,Did you find the treasure?,Cậu tìm thấy bảo vật chưa?,,Cậu tìm thấy kho báu chưa?,29,26,PASS
+B_COT_TRUYEN_07.csv,story|1142|0,"Oh please, I really need it. It's waiting for you at the volcano.","Làm ơn đi, ta cần nó lắm. Nó đang chờ cậu ở núi lửa.",,"Làm ơn đi, ta cần nó lắm! Nó nằm ở núi lửa đó.",72,46,PASS
+B_COT_TRUYEN_07.csv,story|1143|0,"You got the volcano's treasure -- ""@5YOURCARD()@0""!!!","Bạn đã nhận được bảo vật của núi lửa -- ""@5YOURCARD()@0""!!!",,"Bạn nhận được báu vật núi lửa: ""@5YOURCARD()@0""!",65,48,PASS
+B_COT_TRUYEN_07.csv,story|1144|0,Did you get the treasure?,Cậu lấy được bảo vật chưa?,,Cậu lấy được báu vật chưa?,29,26,PASS
+B_COT_TRUYEN_07.csv,story|1145|0,What will you do?,Bạn muốn làm gì?,,Bạn sẽ làm gì?,19,14,PASS
+B_COT_TRUYEN_07.csv,story|1146|0,Give a card\nDon't give a card,Đưa lá bài\nKhông đưa,,Đưa lá bài\nKhông đưa,32,21,PASS
+B_COT_TRUYEN_07.csv,story|1148|0,I'm pretty sure you found it. I don't trust you.,Ta chắc là cậu tìm thấy rồi. Ta không tin cậu.,,Ta chắc cậu tìm thấy rồi. Ta không tin đâu!,53,43,PASS
+B_COT_TRUYEN_07.csv,story|1149|0,"Handed over ""@5OWNCARD()@0"".","Đã đưa ""@5OWNCARD()@0"".",,"Đã giao ""@5OWNCARD()@0"".",31,24,PASS
+B_COT_TRUYEN_07.csv,story|1150|0,Oh! Wow! Uh... you must be mistaken!,Ồ! Oa! Ủa... chắc cậu nhầm rồi!,,Ồ! Chà! Ơ... chắc cậu nhầm rồi!,40,31,PASS
+B_COT_TRUYEN_07.csv,story|1151|0,There's no way this card is the treasure! You better check your bag one more time!,Lá bài này không thể nào là bảo vật được! Cậu kiểm tra lại túi đi!,,Lá này sao có thể là báu vật được! Cậu kiểm tra túi lại đi!,91,59,PASS
+B_COT_TRUYEN_07.csv,story|1152|0,"Handed over ""@5OWNCARD()@0"".","Đã đưa ""@5OWNCARD()@0"".",,"Đã giao ""@5OWNCARD()@0"".",31,24,PASS
+B_COT_TRUYEN_07.csv,story|1153|0,"Ooh! This is it! Excellent! With this card, I can strengthen my monsters even more!","Ồ! Chính là nó! Tuyệt vời! Có lá bài này, ta có thể tăng sức cho quái thú của ta hơn nữa!",,Ồ! Đúng nó rồi! Tuyệt! Lá này sẽ giúp ta cường hóa quái thú hơn nữa!,98,68,PASS
+B_COT_TRUYEN_07.csv,story|1154|0,"Oh, I think you've already met the next monster I'll power up.","À, chắc cậu đã gặp con quái thú kế tiếp ta sẽ tăng sức rồi.",,"À, chắc cậu đã gặp quái thú tiếp theo mà ta định cường hóa rồi.",69,63,PASS
+B_COT_TRUYEN_07.csv,story|1155|0,"Hey, thanks for all your hard work, gigo!","Này, cảm ơn cậu đã vất vả nhé, gigo!",,"Cảm ơn cậu đã vất vả vì tớ, gigo!",46,33,PASS
+B_COT_TRUYEN_07.csv,story|1156|0,"I gotta get stronger, so what happened before never happens again! I gotta beef up, gigi!","Em phải mạnh lên để chuyện hôm trước không bao giờ xảy ra nữa! Em phải tăng sức, gigi!",,"Tớ phải mạnh hơn, không để chuyện cũ tái diễn! Phải thật khỏe, gigi!",98,68,PASS
+B_COT_TRUYEN_07.csv,story|1157|0,Time to power Gigobyte up. Please wait a minute.,Đến lúc tăng sức cho Gigobyte. Xin chờ một chút.,,Đến lúc cường hóa Gigobyte rồi. Đợi ta một lát!,53,47,PASS
+B_COT_TRUYEN_07.csv,story|1159|0,Ahhhhh!!! Help!!!,Aaaaa!!! Cứu với!!!,,Áááá! Cứu với!!!,21,16,PASS
+B_COT_TRUYEN_07.csv,story|1160|0,I think the conversion surgery was a success. But it looks like it's gone insane!,Ta nghĩ ca phẫu thuật biến đổi đã thành công. Nhưng có vẻ nó phát điên rồi!,,Ca phẫu thuật cải tạo xem ra thành công. Nhưng nó phát điên mất rồi!,90,68,PASS
+B_COT_TRUYEN_07.csv,story|1161|0,Ga-ga-ga-ga-ga-gi-giyaaaaa!!!,Ga-ga-ga-ga-ga-gì-giyaaaaa!!!,,Ga-ga-ga-ga-ga-gi-giyaaaaa!!!,32,29,PASS
+B_COT_TRUYEN_07.csv,story|1162|0,It's out of control! Please help!!!,Nó mất kiểm soát rồi! Giúp với!!!,,Nó mất kiểm soát rồi! Cứu ta với!!!,39,35,PASS
+B_COT_TRUYEN_07.csv,story|1163|0,Ga-ga-ga-ga-ga-gi-giyaaaaa!!!,Ga-ga-ga-ga-ga-gì-giyaaaaa!!!,,Ga-ga-ga-ga-ga-gi-giyaaaaa!!!,32,29,PASS
+B_COT_TRUYEN_07.csv,story|1164|0,Come back here quickly! The research center is really falling apart.,Quay lại đây nhanh lên! Trung tâm nghiên cứu sắp sụp đổ đến nơi rồi.,,Mau quay lại! Trung tâm nghiên cứu sắp tan tành rồi!,75,52,PASS
+B_COT_TRUYEN_07.csv,story|1165|0,I'm counting on you. You have to stop him!,Ta trông cậy vào cậu. Cậu phải ngăn nó lại!,,Ta trông cậy vào cậu! Phải ngăn nó lại!,48,39,PASS
+B_COT_TRUYEN_07.csv,story|1166|0,"I want more power, gigi! Got to power up, gogo!","Em muốn thêm sức mạnh, gigi! Phải tăng sức, gogo!",,"Tớ muốn mạnh hơn, gigi! Phải tăng sức nữa, gogo!",54,48,PASS
+B_COT_TRUYEN_07.csv,story|1167|0,Giga Gagagigo starts leaving to go somewhere.,Giga Gagagigo bắt đầu rời đi đâu đó.,,Giga Gagagigo bỏ đi về một hướng nào đó.,50,40,PASS
+B_COT_TRUYEN_07.csv,story|1168|0,"Phew! You saved me. Let me pay you back. Here, take this.","Phù! Cậu đã cứu ta. Để ta báo đáp cậu. Này, cầm lấy.",,Phù! Cậu cứu ta rồi. Nhận món này thay lời cảm ơn nhé!,63,54,PASS
+B_COT_TRUYEN_07.csv,story|1169|0,Ah! My research lab's gonna be destroyed!,Á! Phòng thí nghiệm của ta sẽ bị phá hủy mất!,,Á! Phòng thí nghiệm của ta sắp bị phá nát!,50,42,PASS
+B_COT_TRUYEN_07.csv,story|1170|0,This place will hold out thanks to all the Inpachi.,Chỗ này sẽ cầm cự được nhờ đám Inpachi này.,,"Có đám Inpachi chống đỡ, nơi này sẽ trụ được.",57,45,PASS
+B_COT_TRUYEN_07.csv,story|1171|0,"Please go somewhere to power up your Deck! Then, come back to my lab right away!",Hãy đi đâu đó tăng sức cho Deck của cậu! Rồi quay lại phòng thí nghiệm của ta ngay nhé!,,"Hãy đi tăng sức mạnh Bộ bài, rồi trở lại phòng thí nghiệm ngay nhé!",96,67,PASS
+B_COT_TRUYEN_07.csv,story|1172|0,"Traveler, you have made the gate appear.","Lữ khách, ngươi đã làm cổng hiện ra.",,"Lữ khách, ngươi đã khiến cánh cổng xuất hiện.",45,45,PASS
+B_COT_TRUYEN_07.csv,story|1173|0,"This is the Spell Gate, and this is where duelists that travel Duel World must show how much they have progressed.","Đây là Spell Gate, nơi các Duelist du hành ở Duel World phải chứng minh mình đã tiến bộ đến đâu.",,"Đây là Cổng Phép, nơi các đấu thủ chu du Duel World chứng tỏ bản lĩnh của mình.",126,79,PASS
+B_COT_TRUYEN_07.csv,story|1174|0,The gate will test your perseverance.,Cổng này sẽ thử thách lòng kiên trì của ngươi.,,Cổng sẽ thử thách sự bền bỉ của ngươi.,51,38,PASS
+B_COT_TRUYEN_07.csv,story|1175|0,My name is Speed Guardian - Ferario.,Ta là Speed Guardian - Ferario.,,Ta là Speed Guardian - Ferario.,40,31,PASS
+B_COT_TRUYEN_07.csv,story|1176|0,"If you pass my test, you'll be allowed to pass through the gate.","Nếu vượt qua thử thách của ta, ngươi sẽ được phép đi qua cổng.",,"Vượt qua thử thách của ta, ngươi sẽ được đi qua cổng.",71,53,PASS
+B_COT_TRUYEN_07.csv,story|1177|0,"For this trial, you must duel me 3 times in a row.","Trong thử thách này, ngươi phải Duel với ta 3 trận liên tiếp.",,Ngươi phải đấu với ta 3 trận liên tiếp trong thử thách này.,68,59,PASS
+B_COT_TRUYEN_07.csv,story|1178|0,You may not increase your Life Points between duels. There is also a limit to how many Life Points you can carry over to the next duel.,Ngươi không được tăng Life Points giữa các trận Duel. Cũng có giới hạn Life Points mang sang trận kế tiếp.,,"Giữa các trận, ngươi không được hồi LP. LP mang sang trận sau cũng bị giới hạn.",149,79,PASS
+B_COT_TRUYEN_07.csv,story|1179|0,You can only have 10000 Life Points.,Ngươi chỉ được có tối đa 10000 Life Points.,,Ngươi chỉ được có tối đa 10000 LP.,48,34,PASS
+B_COT_TRUYEN_07.csv,story|1181|0,"Well, then. Will you try my test?","Vậy thì, ngươi có muốn thử thách của ta không?",,"Vậy, ngươi muốn nhận thử thách của ta chứ?",51,42,PASS
+B_COT_TRUYEN_07.csv,story|1183|0,What will you do?,Bạn muốn làm gì?,,Bạn sẽ làm gì?,19,14,PASS
+B_COT_TRUYEN_07.csv,story|1184|0,Yes\nNo,Có\nKhông,,Có\nKhông,9,9,PASS
+B_COT_TRUYEN_07.csv,story|1185|0,That's OK. There is no need to rush.,Không sao. Không cần vội.,,Không sao. Chẳng cần phải vội.,40,30,PASS
+B_COT_TRUYEN_07.csv,story|1186|0,Come back once you are ready to try again.,Hãy quay lại khi ngươi đã sẵn sàng thử lại.,,Hãy trở lại khi ngươi sẵn sàng thử lần nữa.,48,43,PASS
+B_COT_TRUYEN_07.csv,story|1187|0,"Traveler, I believed you could do it.","Lữ khách, ta đã tin ngươi làm được.",,"Lữ khách, ta biết ngươi làm được mà.",41,36,PASS
+B_COT_TRUYEN_07.csv,story|1188|0,Will you continue the challenge?,Ngươi có muốn tiếp tục thử thách không?,,Ngươi muốn tiếp tục thử thách chứ?,43,34,PASS
+B_COT_TRUYEN_07.csv,story|1190|0,Impressive! You have pulled it off beautifully.,Ấn tượng đấy! Ngươi đã làm rất xuất sắc.,,Giỏi lắm! Ngươi đã vượt qua thật xuất sắc.,52,42,PASS
+B_COT_TRUYEN_07.csv,story|1191|0,"Now, advance to the next world!",Giờ hãy tiến vào thế giới kế tiếp!,,Giờ hãy tiến đến thế giới tiếp theo!,38,36,PASS
+B_COT_TRUYEN_07.csv,story|1192|0,"Traveler, you failed this time, but don't give up.","Lữ khách, lần này ngươi thất bại, nhưng đừng bỏ cuộc.",,"Lữ khách, lần này ngươi thua rồi. Đừng nản lòng!",59,48,PASS
+B_COT_TRUYEN_07.csv,story|1193|0,You should be able to pass this test!,Ngươi nhất định có thể vượt qua thử thách này!,,Ta tin ngươi sẽ vượt qua thử thách này!,51,39,PASS
+B_COT_TRUYEN_07.csv,story|1194|0,Will you continue?,Ngươi có muốn tiếp tục không?,,Ngươi muốn tiếp tục không?,32,26,PASS
+B_COT_TRUYEN_07.csv,story|1197|0,There is a stone monument in front of you.,Trước mắt bạn là một bia đá.,,Trước mặt bạn có một tấm bia đá.,47,32,PASS
+B_COT_TRUYEN_07.csv,story|1198|0,Sealed inside of it is a powerful monster.,Bên trong nó phong ấn một quái thú mạnh.,,Một quái thú hùng mạnh bị phong ấn bên trong.,47,45,PASS
+B_COT_TRUYEN_07.csv,story|1200|0,"If you look closely, ""@5VWXYZ-Dragon Catapult Cannon@0"" is engraved in the stone.","Nhìn kỹ, bạn thấy ""@5VWXYZ-Dragon Catapult Cannon@0"" được khắc trên bia đá.",,"Quan sát kỹ, bạn thấy khắc tên ""@5VWXYZ-Dragon Catapult Cannon@0"" trên bia.",90,75,PASS
+B_COT_TRUYEN_07.csv,story|1201|0,Do you challenge the seal opening?,Bạn có muốn thử thách để phá phong ấn không?,,Bạn có muốn thử phá phong ấn không?,49,35,PASS
+B_COT_TRUYEN_07.csv,story|1202|0,What will you do?,Bạn muốn làm gì?,,Bạn sẽ làm gì?,19,14,PASS
+B_COT_TRUYEN_07.csv,story|1203|0,Yes\nNo\nHow to open the seal,Có\nKhông\nCách phá phong ấn,,Có\nKhông\nCách phá phong ấn,30,28,PASS
+B_COT_TRUYEN_07.csv,story|1204|0,Your Deck doesn't meet certain conditions.,Deck của bạn chưa đáp ứng một số điều kiện.,,Bộ bài của bạn chưa đủ điều kiện.,48,33,PASS
+B_COT_TRUYEN_07.csv,story|1205|0,You left the area.,Bạn đã rời khỏi khu vực này.,,Bạn rời khỏi khu vực.,31,21,PASS
+B_COT_TRUYEN_07.csv,story|1206|0,The challenge is a duel against the sealed monster.,Thử thách là một trận Duel với quái thú bị phong ấn.,,Thử thách là đấu với quái thú bị phong ấn.,58,42,PASS
+B_COT_TRUYEN_07.csv,story|1207|0,You must summon the same monster,Bạn phải Summon đúng quái thú,,Bạn phải Triệu hồi đúng quái thú,36,32,PASS
+B_COT_TRUYEN_07.csv,story|1208|0,"as the one engraved in the stone monument,","được khắc trên bia đá,",,"mang tên được khắc trên bia đá,",47,31,PASS
+B_COT_TRUYEN_07.csv,story|1209|0,and win the duel.,và thắng Duel.,,rồi thắng trận.,19,15,PASS
+B_COT_TRUYEN_07.csv,story|1211|0,The seal has been successfully opened!,Phong ấn đã được phá thành công!,,Phong ấn đã được phá giải!,42,26,PASS
+B_COT_TRUYEN_07.csv,story|1212|0,You failed in opening the seal.,Bạn đã thất bại trong việc phá phong ấn.,,Bạn không phá được phong ấn.,45,28,PASS
+B_COT_TRUYEN_07.csv,story|1213|0,"Hey, you, I bet you're looking for a weapon?","Này cậu, chắc cậu đang tìm vũ khí nhỉ?",,"Này, cậu đang tìm một món vũ khí phải không?",49,44,PASS
+B_COT_TRUYEN_07.csv,story|1214|0,No need to hide it. It's written all over your face.,Không cần giấu đâu. Viết rõ mồn một trên mặt cậu kia.,,"Đừng giấu nữa, nhìn mặt cậu là biết ngay!",59,41,PASS
+B_COT_TRUYEN_07.csv,story|1216|0,"Well then, you want me to make you one?","Thế nhé, cậu có muốn ta rèn cho một cái không?",,"Thế nào, muốn ta rèn cho một món không?",51,39,PASS
+B_COT_TRUYEN_07.csv,story|1217|0,What will you do?,Bạn muốn làm gì?,,Bạn sẽ làm gì?,19,14,PASS
+B_COT_TRUYEN_07.csv,story|1218|0,Yes\nNo,Có\nKhông,,Có\nKhông,9,9,PASS
+B_COT_TRUYEN_07.csv,story|1219|0,"Yeah, I'm sure you do. Then why don't I forge a weapon that will really help you out?","Đúng rồi, ta biết mà. Vậy để ta rèn một vũ khí giúp ích thật sự cho cậu nhé?",,Ha! Ta biết cậu muốn mà. Để ta rèn một món vũ khí thật hữu ích nhé!,94,67,PASS
+B_COT_TRUYEN_07.csv,story|1220|0,Just come back here in a little while.,Cứ quay lại đây sau một lúc nữa.,,Lát nữa nhớ quay lại đây.,42,25,PASS
+B_COT_TRUYEN_07.csv,story|1221|0,"Oh, that's a shame. If things change, just come by again.","Ơi, tiếc thật. Nếu đổi ý, cứ ghé lại nhé.",,Tiếc quá! Nếu đổi ý thì cứ ghé lại nhé.,63,39,PASS
+B_COT_TRUYEN_07.csv,story|1222|0,How impatient can you be?,Cậu sốt ruột đến thế à?,,Sốt ruột đến thế cơ à?,28,22,PASS
+B_COT_TRUYEN_07.csv,story|1223|0,It's not ready yet. Give me a little more time.,Chưa xong đâu. Cho ta thêm chút thời gian.,,Chưa xong đâu! Cho ta thêm chút thời gian.,52,42,PASS
+B_COT_TRUYEN_07.csv,story|1224|0,You came just at the right time. I just finished your weapon.,Cậu đến đúng lúc lắm. Ta vừa rèn xong vũ khí của cậu.,,Cậu đến đúng lúc! Ta vừa rèn xong vũ khí rồi.,68,45,PASS
+B_COT_TRUYEN_07.csv,story|1225|0,"It's ""@5YOURCARD()@0"". Pretty nice, eh?","Là ""@5YOURCARD()@0"". Đẹp chưa?",,"Đây, ""@5YOURCARD()@0""! Đẹp chứ?",43,31,PASS
+B_COT_TRUYEN_07.csv,story|1226|0,It's yours for PAYDP()DP.,Của cậu với giá PAYDP()DP.,,Món này giá PAYDP()DP.,29,22,PASS
+B_COT_TRUYEN_07.csv,story|1227|0,What will you do?,Bạn muốn làm gì?,,Bạn sẽ làm gì?,19,14,PASS
+B_COT_TRUYEN_07.csv,story|1228|0,Pay\nDon't pay,Trả\nKhông trả,,Trả\nKhông trả,15,14,PASS
+B_COT_TRUYEN_07.csv,story|1230|0,You're really not going to pay?,Cậu thực sự không trả à?,,Cậu định không trả thật à?,35,26,PASS
+B_COT_TRUYEN_07.csv,story|1231|0,What will you do?,Bạn muốn làm gì?,,Bạn sẽ làm gì?,19,14,PASS
+B_COT_TRUYEN_07.csv,story|1232|0,Pay\nDon't pay,Trả\nKhông trả,,Trả\nKhông trả,15,14,PASS
+B_COT_TRUYEN_07.csv,story|1234|0,"What! I forged this weapon for you, and you're saying you don't need it?",Cái gì! Ta rèn vũ khí này cho cậu mà cậu bảo không cần à?,,Cái gì?! Ta rèn riêng cho cậu mà giờ cậu bảo không cần à?,80,57,PASS
+B_COT_TRUYEN_07.csv,story|1235|0,I'll have to teach you a lesson!,Để ta dạy cho cậu một bài học!,,Để ta dạy cậu một bài học!,36,26,PASS
+B_COT_TRUYEN_07.csv,story|1236|0,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",,"Bạn nhận được ""@5YOURCARD()@0""!",35,31,PASS
+B_COT_TRUYEN_07.csv,story|1237|0,"If you're up for it, I'll make you another weapon sometime. Just come again.","Nếu cậu muốn, thỉnh thoảng ta sẽ rèn cho cậu thêm vũ khí. Cứ ghé lại nhé.",,Lần sau muốn rèn vũ khí nữa thì cứ ghé ta nhé!,84,46,PASS
+B_COT_TRUYEN_07.csv,story|1238|0,Insufficient DP.,Không đủ DP.,,Không đủ DP.,18,12,PASS
+B_COT_TRUYEN_07.csv,story|1240|0,"Hey, you're short of DP! Come back when you're ready!","Này, cậu thiếu DP rồi! Có đủ thì quay lại nhé!",,"Này, cậu thiếu DP rồi! Có đủ thì quay lại nhé!",59,46,PASS
+B_COT_TRUYEN_07.csv,story|1241|0,What? This means I've lost? I'm gonna have to reforge my Deck.,Cái gì? Nghĩa là ta thua sao? Ta phải rèn lại Deck thôi.,,Sao cơ? Ta thua rồi à? Phải rèn lại Bộ bài mới được!,69,52,PASS
+B_COT_TRUYEN_07.csv,story|1242|0,"Alright, young one, the next time I'll make you a weapon that you'll really want to buy. Don't forget it!","Được, nhóc con, lần sau ta sẽ rèn cho cậu một vũ khí mà cậu chắc chắn muốn mua. Nhớ đấy!",,"Được lắm, nhóc! Lần sau ta sẽ rèn món khiến cậu phải móc hầu bao. Nhớ đấy!",116,74,PASS
+B_COT_TRUYEN_07.csv,story|1243|0,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",,"Bạn nhận được ""@5YOURCARD()@0""!",35,31,PASS
+B_COT_TRUYEN_07.csv,story|1244|0,"Ha, ha, ha! You were out of line, young one!","Ha, ha, ha! Cậu quá lố rồi, nhóc con!",,"Ha ha ha! Nhóc con, cậu quá quắt lắm rồi!",49,41,PASS
+B_COT_TRUYEN_07.csv,story|1245|0,"Now, I will force you to buy the weapon!",Giờ ta sẽ ép cậu mua vũ khí!,,Giờ ta sẽ bắt cậu mua món vũ khí này!,45,37,PASS
+B_COT_TRUYEN_07.csv,story|1246|0,Let this be a lesson to you! No more holding out and not paying people their DP!,Cho cậu nhớ bài học này! Không được quịt tiền DP của người ta nữa!,,Cho cậu một bài học! Đừng hòng quỵt DP công sức người khác nữa!,89,63,PASS
+B_COT_TRUYEN_07.csv,story|1247|0,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",,"Bạn nhận được ""@5YOURCARD()@0""!",35,31,PASS
+B_COT_TRUYEN_07.csv,story|1248|0,Insufficient DP.,Không đủ DP.,,Không đủ DP.,18,12,PASS
+B_COT_TRUYEN_07.csv,story|1250|0,"Hey, you're short of DP! Come back when you're ready!","Này, cậu thiếu DP rồi! Có đủ thì quay lại nhé!",,"Này, cậu thiếu DP rồi! Có đủ thì quay lại nhé!",59,46,PASS
+B_COT_TRUYEN_07.csv,story|1251|0,Whoo! I'm scorching! I'm burning up! I can't stand it!,Oa! Nóng quá! Nóng cháy người! Không chịu nổi nữa!,,Ối! Nóng quá! Cháy cả người rồi! Không chịu nổi!,60,48,PASS
+B_COT_TRUYEN_07.csv,story|1252|0,"Hey, help me out!","Này, giúp tui với!",,"Này, cứu tui với!",20,17,PASS
+B_COT_TRUYEN_07.csv,story|1253|0,This card is roasting me alive! I can't stop it!,Lá bài này đang nướng tui sống! Không dừng lại được!,,Lá bài này nướng tui chín mất! Không dừng được!,58,47,PASS
+B_COT_TRUYEN_07.csv,story|1254|0,"If I wager this card in a duel and it burns out, then my lava should cool down some.","Nếu tui đặt lá này trong Duel rồi nó cháy hết, thì dung nham của tui chắc sẽ nguội bớt.",,"Nếu đem lá này cược trong trận đấu cho nó cháy hết, dung nham của tui chắc sẽ dịu bớt.",96,86,PASS
+B_COT_TRUYEN_07.csv,story|1255|0,"If you win, I'll give you ""@5YOURCARD()@0""!","Nếu cậu thắng, tui sẽ cho cậu ""@5YOURCARD()@0""!",,"Cậu thắng thì tui cho cậu ""@5YOURCARD()@0""!",52,43,PASS
+B_COT_TRUYEN_07.csv,story|1256|0,What do you say? Will you duel me?,Sao nào? Cậu Duel với tui chứ?,,"Sao, cậu đấu với tui không?",38,27,PASS
+B_COT_TRUYEN_07.csv,story|1257|0,What will you do?,Bạn muốn làm gì?,,Bạn sẽ làm gì?,19,14,PASS
+B_COT_TRUYEN_07.csv,story|1258|0,Yes\nNo,Có\nKhông,,Có\nKhông,9,9,PASS
+B_COT_TRUYEN_07.csv,story|1259|0,Whoo! I'm really roasting!,Oa! Nóng cháy người thật rồi!,,Ối! Tui sắp chín rồi!,32,21,PASS
+B_COT_TRUYEN_07.csv,story|1260|0,Whoo! I'm really cooking here! What am I supposed to do now?,Oa! Nóng sôi lên rồi! Giờ phải làm sao đây?,,"Ối, nóng như lửa đốt! Giờ phải làm sao đây?",67,43,PASS
+B_COT_TRUYEN_07.csv,story|1261|0,Whoo! I'm pretty charred! But it burned out!,Oa! Cháy khét hết rồi! Nhưng nó đã cháy hết rồi!,,Ối! Tui cháy xém rồi! Nhưng lá bài cũng cháy hết!,53,49,PASS
+B_COT_TRUYEN_07.csv,story|1262|0,"Thanks. I got really singed in the duel, but that's helping my lava to simmer down now.","Cảm ơn. Tui bị cháy khét trong Duel, nhưng nhờ vậy dung nham của tui đã nguội bớt rồi.",,"Cảm ơn! Tui cháy xém trong trận đấu, nhưng dung nham đang nguội dần rồi.",96,72,PASS
+B_COT_TRUYEN_07.csv,story|1263|0,"Well, just like I promised, here's the card!","Nào, giống như đã hứa, lá bài đây!",,"Như đã hứa, lá bài của cậu đây!",49,31,PASS
+B_COT_TRUYEN_07.csv,story|1264|0,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",,"Bạn nhận được ""@5YOURCARD()@0""!",35,31,PASS
+B_COT_TRUYEN_07.csv,story|1265|0,Whoo! I'm really burnt!,Oa! Cháy khét hết rồi!,,Ối! Cháy khét cả rồi!,26,21,PASS
+B_COT_TRUYEN_07.csv,story|1266|0,I can't give you a card since you didn't win. And I got pretty roasted there!,Tui không thể cho lá bài vì cậu không thắng. Mà tui cũng bị nướng khá đau!,,Cậu chưa thắng nên tui không thể tặng bài. Mà tui cũng bị nướng đau điếng!,85,74,PASS
+B_COT_TRUYEN_07.csv,story|1267|0,"So, you're heating up for another duel, right? ","Vậy là cậu đang nóng máu muốn Duel nữa, đúng không?",,"Sao, cậu lại nóng lòng muốn đấu nữa rồi hả?",57,43,PASS
+B_COT_TRUYEN_07.csv,story|1268|0,Welcome. Do you want to participate again in my duel research?,Chào mừng. Cậu có muốn tham gia nghiên cứu Duel của ta nữa không?,,Chào cậu! Có muốn tham gia nghiên cứu Duel của ta lần nữa không?,72,64,PASS
+B_COT_TRUYEN_07.csv,story|1269|0,What will you do?,Bạn muốn làm gì?,,Bạn sẽ làm gì?,19,14,PASS
+B_COT_TRUYEN_07.csv,story|1270|0,Yes\nNo,Có\nKhông,,Có\nKhông,9,9,PASS
+B_COT_TRUYEN_07.csv,story|1271|0,I knew you'd say that.,Ta biết ngay là cậu sẽ nói vậy!,,Ta biết ngay cậu sẽ đồng ý mà!,35,30,PASS
+B_COT_TRUYEN_07.csv,story|1272|0,Then step right in to the heart of my lab.,Vậy thì vào thẳng trung tâm phòng thí nghiệm của ta đi.,,Vậy thì vào sâu bên trong phòng thí nghiệm đi!,61,46,PASS
+B_COT_TRUYEN_07.csv,story|1273|0,"Really, that's too bad. If you get the urge some other time, be sure to stop by the lab.","Tiếc thật đấy. Nếu sau này cậu đổi ý, nhớ ghé phòng thí nghiệm nhé.",,Tiếc thật. Khi nào thấy hứng thú thì nhớ ghé phòng thí nghiệm nhé.,97,66,PASS
+B_COT_TRUYEN_07.csv,story|1274|0,"That duel really helped my research. As thanks, I'll give you this card.",Trận Duel đó giúp ích cho nghiên cứu của ta rất nhiều. Xin tặng cậu lá bài này để cảm ơn.,,Trận đấu vừa rồi giúp ích cho nghiên cứu lắm! Ta tặng cậu lá này để cảm ơn.,98,75,PASS
+B_COT_TRUYEN_07.csv,story|1275|0,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",,"Bạn nhận được ""@5YOURCARD()@0""!",35,31,PASS
+B_COT_TRUYEN_07.csv,story|1276|0,Come back to my lab anytime!,Lúc nào cũng hoan nghênh cậu quay lại phòng thí nghiệm của ta!,,Cứ ghé phòng thí nghiệm của ta bất cứ lúc nào!,69,46,PASS
+B_COT_TRUYEN_07.csv,story|1277|0,An unfortunate result.,Kết quả thật đáng tiếc.,,Kết quả đáng tiếc thật.,26,23,PASS
+B_COT_TRUYEN_07.csv,story|1278|0,How disappointing. I thought you'd really help my research.,Thật thất vọng. Ta cứ tưởng cậu sẽ giúp ích cho nghiên cứu của ta.,,Thất vọng quá. Ta cứ tưởng cậu sẽ giúp nghiên cứu tiến triển cơ.,73,64,PASS
+B_COT_TRUYEN_07.csv,story|1279|0,Tag duel rules have now been added,Luật Tag Duel đã được thêm,,Luật Tag Duel đã được bổ sung,38,29,PASS
+B_COT_TRUYEN_07.csv,story|1280|0,to the World Championship Tutorial.,vào World Championship Tutorial.,,vào phần hướng dẫn World Championship.,39,38,PASS
+B_COT_TRUYEN_07.csv,story|1281|0,It's a good idea to go there and learn the rules.,Nên đến đó học luật thì hơn.,,Tốt nhất nên đến đó học luật đi nhé.,54,36,PASS
+B_COT_TRUYEN_07.csv,story|1282|0,"So you have come to this world, brave traveler...","Vậy là ngươi đã đến thế giới này, hỡi lữ khách dũng cảm...",,"Vậy là ngươi đã đến thế giới này, hỡi lữ khách can trường...",64,60,PASS
+B_COT_TRUYEN_07.csv,story|1283|0,I show many things to travelers who have lost their way.,Ta chỉ cho nhiều điều cho những lữ khách lạc lối.,,Ta dẫn đường cho những lữ khách lạc lối.,62,40,PASS
+B_COT_TRUYEN_07.csv,story|1284|0,Are you interested in what I have to say?,Ngươi có muốn nghe ta nói không?,,Ngươi có muốn nghe lời ta không?,46,32,PASS
+B_COT_TRUYEN_07.csv,story|1285|0,Please Select Answer.,Hãy chọn.,,Hãy chọn câu trả lời.,24,21,PASS
+B_COT_TRUYEN_07.csv,story|1286|0,Yes\nNo,Có\nKhông,,Có\nKhông,9,9,PASS
+B_COT_TRUYEN_07.csv,story|1287|0,"Well then, I shall start explaining things.","Vậy thì, ta sẽ bắt đầu giải thích.",,Tốt! Vậy để ta bắt đầu giải thích.,48,34,PASS
+B_COT_TRUYEN_07.csv,story|1288|0,"For some unknown reason, only tag duels can be conducted in this world. ","Không rõ vì lý do gì, ở thế giới này chỉ có thể tiến hành Tag Duel.",,"Không hiểu vì sao, ở thế giới này chỉ có thể đấu Tag Duel.",80,58,PASS
+B_COT_TRUYEN_07.csv,story|1289|0,"Traveler, this means you must learn the ways of the tag duel.","Lữ khách, nghĩa là ngươi phải học cách thức của Tag Duel.",,"Vì thế, lữ khách, ngươi phải nắm vững luật Tag Duel.",68,52,PASS
+B_COT_TRUYEN_07.csv,story|1290|0,"First, I will teach you the most basic of rules. Be sure to remember what I say.","Đầu tiên, ta sẽ dạy ngươi những luật cơ bản nhất. Nhớ ghi nhớ những gì ta nói.",,Trước tiên là những quy tắc căn bản. Nghe cho kỹ và nhớ lấy!,89,60,PASS
+B_COT_TRUYEN_08.csv,story|1291|0,Each player prepares their own Deck.,Mỗi người chơi chuẩn bị Deck riêng của mình.,,Mỗi người chuẩn bị một Bộ bài riêng.,49,36,PASS
+B_COT_TRUYEN_08.csv,story|1292|0,And the Duel Field is the same size as with a 2 player duel.,Duel Field có kích thước giống như Duel 2 người.,,Sân đấu có kích thước như trận đấu hai người.,67,45,PASS
+B_COT_TRUYEN_08.csv,story|1293|0,"As for Life Points, both partners share a total of 8000.","Về Life Points, hai đồng đội chung nhau tổng cộng 8000.",,Hai đồng đội dùng chung tổng cộng 8000 LP.,62,42,PASS
+B_COT_TRUYEN_08.csv,story|1294|0,"The first time you draw, you can only draw 5 cards.","Lần rút bài đầu tiên, chỉ được rút 5 lá.",,"Lần rút bài đầu tiên, mỗi người chỉ rút 5 lá.",57,45,PASS
+B_COT_TRUYEN_08.csv,story|1295|0,"So, up to now, the rules haven't been much different than in a 2 player duel, right?","Như vậy, cho đến giờ luật cũng không khác mấy so với Duel 2 người, đúng không?",,"Đến đây, luật chưa khác trận đấu hai người là mấy, đúng không?",93,62,PASS
+B_COT_TRUYEN_08.csv,story|1296|0,"But next, I shall tell you what is different, so pay close attention.","Nhưng tiếp theo, ta sẽ nói về điểm khác biệt, nên hãy chú ý.",,Nhưng từ giờ sẽ có điểm khác biệt. Chú ý lắng nghe!,76,51,PASS
+B_COT_TRUYEN_08.csv,story|1297|0,"During your turn, you can use the cards and the monsters your partner has set and summoned,","Trong lượt của bạn, bạn có thể dùng bài và quái thú mà đồng đội đã Set và Summon,",,"Trong lượt mình, ngươi có thể dùng lá bài và quái thú đồng đội đã Đặt úp hoặc Triệu hồi,",101,88,PASS
+B_COT_TRUYEN_08.csv,story|1298|0,as if they were yours. And vice versa.,như là của chính mình. Và ngược lại cũng vậy.,,cứ như của ngươi. Ngược lại cũng thế.,50,37,PASS
+B_COT_TRUYEN_08.csv,story|1299|0,"So if your partner is in a pinch, you can Set a card for your partner to use,","Cho nên nếu đồng đội gặp nguy, bạn có thể Set 1 lá để đồng đội dùng,",,"Nếu đồng đội gặp nguy, ngươi có thể Đặt úp lá bài để họ dùng,",85,61,PASS
+B_COT_TRUYEN_08.csv,story|1300|0,and even Tribute Summon a powerful monster using a monster,thậm chí Tribute Summon một quái thú mạnh bằng cách dùng quái thú,,thậm chí Hiến tế quái thú của đồng đội để Triệu hồi,72,51,PASS
+B_COT_TRUYEN_08.csv,story|1301|0,your partner summoned as a tribute.,mà đồng đội đã Summon làm Tribute.,,một quái thú mạnh hơn.,39,22,PASS
+B_COT_TRUYEN_08.csv,story|1302|0,"Well, there you have a brief explanation of how to play a Tag Duel.",Đó là phần giải thích ngắn gọn cách chơi Tag Duel.,,Đó là những điều cơ bản về cách đấu Tag Duel.,74,45,PASS
+B_COT_TRUYEN_08.csv,story|1303|0,Were you able to understand the rules?,Ngươi đã hiểu luật chưa?,,Ngươi đã hiểu luật chưa?,42,24,PASS
+B_COT_TRUYEN_08.csv,story|1304|0,Yes\nListen once more,Hiểu rồi\nNghe lại lần nữa,,Hiểu rồi\nNghe lại,28,18,PASS
+B_COT_TRUYEN_08.csv,story|1305|0,"Well, if you try it for real, you should gain a proper understanding of how to tag duel.","Nào, nếu thử chơi thật sự, ngươi sẽ hiểu rõ cách Tag Duel thôi.",,"Khi thực sự tham gia Tag Duel, ngươi sẽ nắm luật rõ hơn.",97,56,PASS
+B_COT_TRUYEN_08.csv,story|1306|0,"So, let us go over there and find someone to practice with you.","Vậy thì, chúng ta cùng sang kia tìm người luyện tập với ngươi nhé.",,"Nào, ta cùng sang kia tìm một người cho ngươi luyện tập.",73,56,PASS
+B_COT_TRUYEN_08.csv,story|1307|0,That way you can learn exactly what makes a tag duel different to a regular duel.,Như vậy ngươi sẽ hiểu chính xác điểm khác biệt của Tag Duel so với Duel thường.,,Đấu thử sẽ giúp ngươi thấy Tag Duel khác đấu đơn thế nào.,90,57,PASS
+B_COT_TRUYEN_08.csv,story|1310|0,"Oh, if you insist.","À, nếu ngươi nhất quyết.",,"Ồ, nếu ngươi muốn vậy.",27,22,PASS
+B_COT_TRUYEN_08.csv,story|1311|0,"Oh, and I was ready to teach you something important. You should have listened humbly to my story. You'll live to regret it!","Ấy, ta đã sẵn sàng dạy cho ngươi một điều quan trọng, ngươi nên khiêm tốn lắng nghe. Rồi ngươi sẽ hối hận đấy!",,Hừ! Ta định dạy ngươi điều quan trọng đấy. Đáng lẽ phải khiêm nhường nghe ta! Rồi ngươi sẽ hối hận!,137,99,PASS
+B_COT_TRUYEN_08.csv,story|1312|0,What did you think? Did you get a feel for how a Tag Duel works?,Ngươi thấy sao? Đã cảm nhận được cách Tag Duel vận hành chưa?,,Thế nào? Ngươi đã quen với cách đấu Tag Duel chưa?,71,50,PASS
+B_COT_TRUYEN_08.csv,story|1313|0,"To understand the finer points, duel as often as you can.","Để hiểu rõ những điểm tinh tế, hãy Duel thật nhiều vào.",,"Muốn hiểu những chi tiết nhỏ, hãy đấu thật nhiều.",63,49,PASS
+B_COT_TRUYEN_08.csv,story|1314|0,"Oh, right! I nearly forgot one very important point.","À, đúng rồi! Ta suýt quên một điều rất quan trọng.",,À phải! Ta suýt quên mất một chuyện rất quan trọng.,58,51,PASS
+B_COT_TRUYEN_08.csv,story|1315|0,Duelists who are recorded in your Duelist Registry may become your tag duel partner.,Những Duelist được ghi trong Duelist Registry của ngươi có thể trở thành partner Tag Duel của ngươi.,,Các đấu thủ trong Sổ Đấu thủ của ngươi có thể trở thành đồng đội Tag Duel.,111,74,PASS
+B_COT_TRUYEN_08.csv,story|1316|0,But you can't choose other Duelists' tag partners as your partner.,Nhưng ngươi không thể chọn partner của Duelist khác làm partner của mình.,,Nhưng ngươi không thể chọn đồng đội của một đấu thủ khác.,81,57,PASS
+B_COT_TRUYEN_08.csv,story|1317|0,You can make a change in Options to choose a partner that suits you.,Ngươi có thể đổi trong Options để chọn partner hợp với ngươi.,,Ngươi có thể vào Tùy chọn để đổi sang đồng đội phù hợp.,75,55,PASS
+B_COT_TRUYEN_08.csv,story|1318|0,"Then, construct your Deck, thinking carefully about who your partner is.","Rồi hãy xây dựng Deck của ngươi, nhớ cân nhắc kỹ partner của ngươi là ai.",,Sau đó hãy xây Bộ bài sao cho ăn ý với người đồng đội ấy.,81,57,PASS
+B_COT_TRUYEN_08.csv,story|1319|0,"Well, that was kinda fun, wasn't it? Now go forth and show this world what you can do!","Nào, cũng khá vui đúng không? Giờ hãy đi cho thế giới này thấy ngươi làm được gì!",,Cũng vui đấy chứ! Giờ hãy cho thế giới này thấy bản lĩnh ngươi nào!,95,67,PASS
+B_COT_TRUYEN_08.csv,story|1321|0,"He he! Excuse me, can you give me a hand over here?","Hề hề! Xin lỗi, bạn giúp mình một tay ở đây được không?",,"Hề hề! Xin lỗi, cậu giúp tớ một tay được không?",61,47,PASS
+B_COT_TRUYEN_08.csv,story|1322|0,What will you do?,Bạn muốn làm gì?,,Bạn sẽ làm gì?,19,14,PASS
+B_COT_TRUYEN_08.csv,story|1323|0,Yes\nNo,Có\nKhông,,Có\nKhông,9,9,PASS
+B_COT_TRUYEN_08.csv,story|1324|0,He he he! You walked right into our trap. Say hello to my brothers!,Hề hề hề! Bạn sập bẫy rồi! Chào các anh của mình đi!,,Hề hề hề! Cậu sập bẫy rồi! Ra chào các anh tớ đi!,74,49,PASS
+B_COT_TRUYEN_08.csv,story|1325|0,"You will duel us. If we win, you give us your card with ""Dark World"" in its name as an ante.","Bạn sẽ Duel với bọn này. Nếu bọn này thắng, bạn phải đưa lá bài có ""Dark World"" trong tên làm tiền cược.",,"Cậu phải đấu với bọn tớ. Nếu thua, cậu phải cược mất một lá có ""Dark World"" trong tên.",115,86,PASS
+B_COT_TRUYEN_08.csv,story|1326|0,"Oh, really?","À, vậy à?",,Thật vậy sao?,13,13,PASS
+B_COT_TRUYEN_08.csv,story|1327|0,"Later, you might regret it. He he he!",Sau này bạn có thể hối hận đấy. Hề hề hề!,,Rồi cậu sẽ hối hận cho xem! Hề hề hề!,46,37,PASS
+B_COT_TRUYEN_08.csv,story|1328|0,You ran away!,Bạn đã bỏ chạy!,,Bạn đã bỏ chạy!,17,15,PASS
+B_COT_TRUYEN_08.csv,story|1329|0,No! Remember there are many other residents of Dark World besides us!,Không đâu! Nhớ là Dark World còn rất nhiều cư dân khác ngoài bọn mình!,,Đừng quên Dark World còn vô số cư dân khác ngoài bọn tớ!,78,56,PASS
+B_COT_TRUYEN_08.csv,story|1330|0,"So, my friend, you're good at dueling, huh? Why didn't you say so in the first place?",Vậy ra bạn Duel giỏi thật nhỉ? Sao không nói từ đầu?,,"Ồ, hóa ra cậu đấu giỏi thật! Sao không nói ngay từ đầu?",94,55,PASS
+B_COT_TRUYEN_08.csv,story|1331|0,"Anyway, here's your prize, ""@5YOURCARD()@0""! Take it! It's yours!","Dù sao thì đây là phần thưởng của bạn, ""@5YOURCARD()@0""! Cầm lấy đi! Là của bạn đó!",,"Dù sao, phần thưởng ""@5YOURCARD()@0"" là của cậu! Cầm lấy đi!",92,60,PASS
+B_COT_TRUYEN_08.csv,story|1332|0,"Oh, and... I'll see you later.","À, và... hẹn gặp lại bạn sau.",,"À, còn nữa... hẹn gặp lại nhé.",34,30,PASS
+B_COT_TRUYEN_08.csv,story|1333|0,"He he! As expected, my big brothers were super powerful.","Hề hề! Đúng như dự đoán, các anh của mình mạnh kinh khủng.",,Hề hề! Các anh tớ đúng là mạnh khủng khiếp!,64,43,PASS
+B_COT_TRUYEN_08.csv,story|1334|0,"But, you know, you can get a rematch whenever you want!","Nhưng bạn biết không, bạn có thể đối đầu lại bất cứ lúc nào!",,Nhưng cậu muốn tái đấu lúc nào cũng được nhé!,67,45,PASS
+B_COT_TRUYEN_08.csv,story|1335|0,"Oh, just don't forget to bring a card with ""Dark World"" in its name! He he!","À, nhưng đừng quên mang theo lá bài có ""Dark World"" trong tên nhé! Hề hề!",,"Nhớ mang theo một lá có ""Dark World"" trong tên đấy! Hề hề!",83,58,PASS
+B_COT_TRUYEN_08.csv,story|1336|0,You will duel us. ,Bạn sẽ Duel với bọn này.,,Cậu sẽ đấu với bọn tớ.,27,22,PASS
+B_COT_TRUYEN_08.csv,story|1337|0,"My friend, something is really bothering me.","Bạn ơi, có chuyện rất làm mình băn khoăn.",,"Này bạn hiền, tớ đang có chuyện lo quá.",49,39,PASS
+B_COT_TRUYEN_08.csv,story|1338|0,The story of your beating of my big brothers Zure and Kahkki is spreading all over Dark World.,Chuyện bạn đánh bại hai anh Zure và Kahkki của mình đang lan khắp Dark World.,,Tin cậu đánh bại hai anh Zure và Kahkki đang lan khắp Dark World rồi.,104,69,PASS
+B_COT_TRUYEN_08.csv,story|1339|0,Warriors from all over Dark World are gathering to fight against you.,Các chiến binh từ khắp Dark World đang tụ tập để đánh bạn.,,Các chiến binh khắp Dark World đang kéo đến thách đấu cậu.,76,58,PASS
+B_COT_TRUYEN_08.csv,story|1341|0,"Just as always, the rule is that you need to ante up a card with ""Dark World"" in its name.","Như mọi lần, luật vẫn là bạn phải đưa lá bài có ""Dark World"" trong tên làm tiền cược.",,"Luật vẫn thế: phải đem một lá có ""Dark World"" trong tên ra cược.",100,64,PASS
+B_COT_TRUYEN_08.csv,story|1342|0,"My friend, are you up for it? Will you duel somebody?","Bạn ơi, bạn có sẵn sàng không? Bạn sẽ Duel với ai đó chứ?",,"Sao nào, bạn hiền? Cậu có nhận lời đấu không?",63,45,PASS
+B_COT_TRUYEN_08.csv,story|1343|0,What will you do?,Bạn muốn làm gì?,,Bạn sẽ làm gì?,19,14,PASS
+B_COT_TRUYEN_08.csv,story|1344|0,Yes\nNo,Có\nKhông,,Có\nKhông,9,9,PASS
+B_COT_TRUYEN_08.csv,story|1345|0,"I knew you would! You're a great friend! Though your opponent is really strong, you know?","Mình biết ngay là bạn sẽ đồng ý! Bạn đúng là người bạn tuyệt vời! Dù đối thủ mạnh lắm đấy, bạn biết chưa?",,Tớ biết cậu sẽ nhận lời mà! Bạn tốt quá! Nhưng đối thủ rất mạnh đấy nhé!,116,72,PASS
+B_COT_TRUYEN_08.csv,story|1346|0,Give it your all!,Hãy dùng hết sức nhé!,,Cố hết sức mình nhé!,24,20,PASS
+B_COT_TRUYEN_08.csv,story|1347|0,"Oh, are you scared? I'm really disappointed in you.","À, bạn sợ à? Mình thất vọng về bạn lắm.",,"Ơ, cậu sợ rồi à? Làm tớ thất vọng quá!",57,38,PASS
+B_COT_TRUYEN_08.csv,story|1348|0,You ran away!,Bạn đã bỏ chạy!,,Bạn đã bỏ chạy!,17,15,PASS
+B_COT_TRUYEN_08.csv,story|1349|0,Surprise! The rumors must have been true! You really are a great tag duelist!,Bất ngờ chưa! Tin đồn là thật! Bạn đúng là tay Tag Duel xuất sắc!,,Ôi chao! Tin đồn đúng thật! Cậu đấu Tag Duel giỏi ghê!,85,54,PASS
+B_COT_TRUYEN_08.csv,story|1350|0,"Aw, this means I have to train some more in Dark World.","Hư, vậy là mình phải đi tập luyện thêm ở Dark World rồi.",,"Chà, tớ phải về Dark World tập luyện thêm thôi.",62,47,PASS
+B_COT_TRUYEN_08.csv,story|1351|0,"Just like you to duel so powerfully, my friend! You truly are amazing!","Đúng kiểu bạn, Duel mạnh thế! Bạn thật tuyệt vời!",,"Đúng là cậu, đấu trận nào cũng mạnh! Nể thật đấy, bạn hiền!",78,59,PASS
+B_COT_TRUYEN_08.csv,story|1352|0,"Oh, I almost forgot. This is the card ""@5YOURCARD()@0"" you won! Here, take it!","À, suýt quên. Đây là lá bài ""@5YOURCARD()@0"" bạn thắng được! Cầm lấy đi!",,"À, suýt quên! Đây là lá ""@5YOURCARD()@0"" cậu thắng được. Cầm lấy!",86,65,PASS
+B_COT_TRUYEN_08.csv,story|1353|0,"Ah! My friend, what happened to you?","À! Bạn ơi, bạn bị sao vậy?",,"Ơ kìa, bạn hiền! Cậu bị sao thế?",40,32,PASS
+B_COT_TRUYEN_08.csv,story|1354|0,"You really let Dark World down. Well, go get another card to ante, and duel it out once more. He he!","Bạn đã làm mất mặt Dark World rồi. Thôi, đi tìm lá khác để cược, rồi Duel lại nhé. Hề hề!",,Cậu làm Dark World mất mặt rồi! Kiếm lá khác để cược rồi đấu lại nhé. Hề hề!,111,76,PASS
+B_COT_TRUYEN_08.csv,story|1355|0,You will duel us. ,Bạn sẽ Duel với bọn này.,,Cậu sẽ đấu với bọn tớ.,27,22,PASS
+B_COT_TRUYEN_08.csv,story|1356|0,"My friend! It's not good! All around Dark World, everyone keeps on talking about you. ",Bạn ơi! Không xong rồi! Khắp Dark World ai cũng nói chuyện về bạn.,,Bạn hiền ơi! Không ổn rồi! Khắp Dark World ai cũng bàn tán về cậu!,95,66,PASS
+B_COT_TRUYEN_08.csv,story|1357|0,"And, once again, some of our feistiest Dark World recruits are coming for you.","Và lại một lần nữa, những tân binh hung hãn nhất của Dark World đang tiến về phía bạn.",,Một đám tân binh hung hăng nhất Dark World lại kéo đến tìm cậu đấy.,95,67,PASS
+B_COT_TRUYEN_08.csv,story|1359|0,"If you agree to a duel, there's a rule that you have to ante up a card with ""Dark World"" in its name. That sound OK?","Nếu bạn đồng ý Duel, có luật là bạn phải đưa lá bài có ""Dark World"" trong tên làm tiền cược. Được chứ?",,"Muốn đấu thì vẫn phải cược một lá có ""Dark World"" trong tên. Đồng ý chứ?",128,72,PASS
+B_COT_TRUYEN_08.csv,story|1360|0,Will you take on the next challenge?,Bạn có nhận thử thách tiếp theo không?,,Cậu có nhận thử thách tiếp theo không?,42,38,PASS
+B_COT_TRUYEN_08.csv,story|1361|0,What will you do?,Bạn muốn làm gì?,,Bạn sẽ làm gì?,19,14,PASS
+B_COT_TRUYEN_08.csv,story|1362|0,Yes\nNo,Có\nKhông,,Có\nKhông,9,9,PASS
+B_COT_TRUYEN_08.csv,story|1363|0,"I knew you would! You're a great friend! Though your opponent is really strong, you know?","Mình biết ngay là bạn sẽ đồng ý! Bạn đúng là người bạn tuyệt vời! Dù đối thủ mạnh lắm đấy, bạn biết chưa?",,Tớ biết cậu sẽ nhận lời mà! Bạn tốt quá! Nhưng đối thủ rất mạnh đấy nhé!,116,72,PASS
+B_COT_TRUYEN_08.csv,story|1364|0,Give it your all!,Hãy dùng hết sức nhé!,,Cố hết sức mình nhé!,24,20,PASS
+B_COT_TRUYEN_08.csv,story|1365|0,"My friend, did you have a panic attack? That's not like you.","Bạn ơi, bạn bị hoảng sợ à? Không giống bạn chút nào.",,"Bạn hiền, cậu hoảng rồi à? Đâu có giống cậu!",67,44,PASS
+B_COT_TRUYEN_08.csv,story|1366|0,You ran away!,Bạn đã bỏ chạy!,,Bạn đã bỏ chạy!,17,15,PASS
+B_COT_TRUYEN_08.csv,story|1367|0,Surprise! The rumors must have been true! You really are a great tag duelist!,Bất ngờ chưa! Tin đồn là thật! Bạn đúng là tay Tag Duel xuất sắc!,,Ôi chao! Tin đồn đúng thật! Cậu đấu Tag Duel giỏi ghê!,85,54,PASS
+B_COT_TRUYEN_08.csv,story|1368|0,"Aw, this means I have to train some more in Dark World.","Hừ, vậy là mình phải đi tập luyện thêm ở Dark World rồi.",,"Chà, tớ phải về Dark World tập luyện thêm thôi.",62,47,PASS
+B_COT_TRUYEN_08.csv,story|1369|0,"Just like you to duel so powerfully, my friend! You truly are amazing!","Đúng kiểu bạn, Duel mạnh thế! Bạn thật tuyệt vời!",,"Đúng là cậu, đấu trận nào cũng mạnh! Nể thật đấy, bạn hiền!",78,59,PASS
+B_COT_TRUYEN_08.csv,story|1370|0,"Oh, I almost forgot. This is the card""@5YOURCARD()@0"" you won! Here, take it!","À, suýt quên. Đây là lá bài ""@5YOURCARD()@0"" bạn thắng được! Cầm lấy đi!",,"À, suýt quên! Lá ""@5YOURCARD()@0"" cậu thắng đây. Cầm lấy!",85,57,PASS
+B_COT_TRUYEN_08.csv,story|1371|0,"Ah! My friend, what happened to you?","À! Bạn ơi, bạn bị sao vậy?",,"Ơ kìa, bạn hiền! Cậu bị sao thế?",40,32,PASS
+B_COT_TRUYEN_08.csv,story|1372|0,"You really let Dark World down. Well, go get another card to ante, and duel it out once more. He he!","Bạn đã làm mất mặt Dark World rồi. Thôi, đi tìm lá khác để cược, rồi Duel lại nhé. Hề hề!",,Cậu làm Dark World mất mặt rồi! Kiếm lá khác để cược rồi đấu lại nhé. Hề hề!,111,76,PASS
+B_COT_TRUYEN_08.csv,story|1373|0,You will duel us. ,Bạn sẽ Duel với bọn này.,,Cậu sẽ đấu với bọn tớ.,27,22,PASS
+B_COT_TRUYEN_08.csv,story|1374|0,It appears they have been brainwashed.,Có vẻ bọn chúng đã bị tẩy não.,,Có vẻ bọn chúng đã bị tẩy não.,42,30,PASS
+B_COT_TRUYEN_08.csv,story|1375|0,It appears they have been brainwashed.,Có vẻ bọn chúng đã bị tẩy não.,,Có vẻ bọn chúng đã bị tẩy não.,42,30,PASS
+B_COT_TRUYEN_08.csv,story|1376|0,It appears they have been brainwashed.,Có vẻ bọn chúng đã bị tẩy não.,,Có vẻ bọn chúng đã bị tẩy não.,42,30,PASS
+B_COT_TRUYEN_08.csv,story|1377|0,The brainwashing is now undone and they got back to normal.,"Việc tẩy não đã được hóa giải, bọn chúng đã trở lại bình thường.",,"Ảnh hưởng tẩy não tan biến, chúng trở lại bình thường.",71,54,PASS
+B_COT_TRUYEN_08.csv,story|1378|0,The brainwashing is now undone and they got back to normal.,"Việc tẩy não đã được hóa giải, bọn chúng đã trở lại bình thường.",,"Ảnh hưởng tẩy não tan biến, chúng trở lại bình thường.",71,54,PASS
+B_COT_TRUYEN_08.csv,story|1379|0,The brainwashing is now undone and they got back to normal.,"Việc tẩy não đã được hóa giải, bọn chúng đã trở lại bình thường.",,"Ảnh hưởng tẩy não tan biến, chúng trở lại bình thường.",71,54,PASS
+B_COT_TRUYEN_08.csv,story|1380|0,Monsters ran away!,Quái thú đã bỏ chạy!,,Các quái thú bỏ chạy!,23,21,PASS
+B_COT_TRUYEN_08.csv,story|1381|0,Monsters ran away!,Quái thú đã bỏ chạy!,,Các quái thú bỏ chạy!,23,21,PASS
+B_COT_TRUYEN_08.csv,story|1382|0,Monsters ran away!,Quái thú đã bỏ chạy!,,Các quái thú bỏ chạy!,23,21,PASS
+B_COT_TRUYEN_08.csv,story|1383|0,Gogiga Gagagigo and Mobius the Frost Monarch have appeared.,Gogiga Gagagigo và Mobius the Frost Monarch đã xuất hiện.,,Gogiga Gagagigo và Mobius the Frost Monarch xuất hiện.,65,54,PASS
+B_COT_TRUYEN_08.csv,story|1384|0,They seem brainwashed. It's like they've completely forgotten who they are.,Chúng có vẻ bị tẩy não. Như thể đã quên sạch mình là ai.,,"Chúng có vẻ bị tẩy não, như thể quên sạch bản thân mình.",83,56,PASS
+B_COT_TRUYEN_08.csv,story|1385|0,Ah! They're upon us!,Á! Chúng tấn công đến nơi rồi!,,Á! Chúng lao tới rồi!,34,21,PASS
+B_COT_TRUYEN_08.csv,story|1386|0,"What have I  been doing, gigi?","Mình đã làm gì thế nhỉ, gigi?",,"Tớ... đã làm những gì vậy, gigi?",34,32,PASS
+B_COT_TRUYEN_08.csv,story|1387|0,"I remember going to Kozaky's lab, but what was I doing there?","Mình nhớ đã đến phòng thí nghiệm của Kozaky, nhưng ở đó mình làm gì nhỉ?",,"Tớ nhớ mình đến phòng thí nghiệm Kozaky, nhưng đến đó làm gì nhỉ?",80,65,PASS
+B_COT_TRUYEN_08.csv,story|1388|0,I wanted to become stronger. But... maybe looking for more power made me really lose it.,Mình muốn mạnh lên. Nhưng... có lẽ cứ cưỡng cầu thêm sức mạnh nên mình phát điên thật.,,Tớ chỉ muốn mạnh hơn... Nhưng có lẽ ham sức mạnh quá đã khiến tớ mất trí.,97,73,PASS
+B_COT_TRUYEN_08.csv,story|1389|0,I must have caused you lots of trouble. Sorry about that.,Chắc là mình đã gây cho cậu nhiều phiền phức. Xin lỗi nhé.,,Chắc tớ gây cho cậu bao phiền phức rồi. Xin lỗi nhé.,64,52,PASS
+B_COT_TRUYEN_08.csv,story|1390|0,Thanks for helping me get back to normal. I think I'll go back to that other world now.,Cảm ơn cậu đã giúp mình bình thường trở lại. Mình nghĩ mình sẽ trở về thế giới kia đây.,,Cảm ơn đã giúp tớ tỉnh lại. Giờ tớ trở về thế giới kia đây.,96,59,PASS
+B_COT_TRUYEN_08.csv,story|1391|0,"Hey, come visit me again. When you do, we'll get our game on!","Này, lại thăm mình nhé. Lúc đó chúng ta sẽ chơi hết mình!",,Nhớ đến chơi nữa nhé! Lần sau ta đấu một trận cho đã!,68,53,PASS
+B_COT_TRUYEN_08.csv,story|1393|0,Gu-ga-gayaaaaa!!! Gi-giyaa-yaa!,Gu-ga-gayaaaaa!!! Gi-giyaa-yaa!,,Gu-ga-gayaaaaa!!! Gi-giyaa-yaa!,35,31,PASS
+B_COT_TRUYEN_08.csv,story|1394|0,Are you the one who has been interfering with our plans to take over the world? We'll show you!,Ngươi là kẻ đang cản trở kế hoạch thống trị thế giới của chúng ta à? Chúng ta sẽ cho ngươi biết tay!,,Ngươi là kẻ cản đường bọn ta thống trị thế giới sao? Cho ngươi biết tay!,111,72,PASS
+B_COT_TRUYEN_08.csv,story|1396|0,"We are very sorry that weren't strong enough. Forgive us, please.",Chúng tôi xin lỗi vì không đủ mạnh. Xin hãy tha thứ cho.,,Chúng tôi xin lỗi vì không đủ mạnh. Xin hãy tha thứ!,72,52,PASS
+B_COT_TRUYEN_08.csv,story|1397|0,"The vampires are engulfed into the light, and dissapeared...","Lũ ma cà rồng bị ánh sáng nuốt chửng, rồi biến mất...",,Lũ ma cà rồng bị ánh sáng nuốt chửng rồi biến mất...,67,52,PASS
+B_COT_TRUYEN_08.csv,story|1398|0,I... will not... forget this!,Ta... sẽ không... quên chuyện này!,,Ta... sẽ không... quên chuyện này!,38,34,PASS
+B_COT_TRUYEN_08.csv,story|1399|0,my... brainwashing... reverted... can't be...,Tẩy não... của ta... bị hóa giải... không thể nào...,,Phép tẩy não... của ta... bị hóa giải... không thể nào...,58,57,PASS
+B_COT_TRUYEN_08.csv,story|1400|0,The alien escapes into the sky.,Kẻ ngoài hành tinh trốn lên bầu trời.,,Kẻ ngoài hành tinh trốn lên trời.,41,33,PASS
+B_COT_TRUYEN_08.csv,story|1401|0,Oh ho ho ho! You thought you could beat us? That is ludicrous!,Ô hô hô hô! Ngươi tưởng có thể đánh bại bọn ta à? Thật nực cười!,,Ô hô hô hô! Ngươi tưởng đánh bại được bọn ta sao? Nực cười!,71,59,PASS
+B_COT_TRUYEN_08.csv,story|1402|0,What do you think now? Have you realized how much more powerful we are?,Giờ ngươi nghĩ sao? Đã nhận ra bọn ta mạnh hơn ngươi đến mức nào chưa?,,Giờ thấy thế nào? Đã biết bọn ta mạnh hơn ngươi bao nhiêu chưa?,79,63,PASS
+B_COT_TRUYEN_08.csv,story|1403|0,You undid our brainwashing! You defeated our vampires! You have meddled in our plans far too much!,Ngươi đã hóa giải việc tẩy não của bọn ta! Ngươi đã đánh bại lũ ma cà rồng của ta! Ngươi đã nhúng mũi vào kế hoạch của bọn ta quá nhiều rồi!,,"Ngươi hóa giải tẩy não, hạ ma cà rồng, phá hỏng quá nhiều kế hoạch của bọn ta!",155,78,PASS
+B_COT_TRUYEN_08.csv,story|1404|0,We will take away your ability to act freely! It is time for a brainwashing duel!,Bọn ta sẽ tước đi khả năng hành động tự do của ngươi! Đến lúc cho một Brainwashing Duel!,,Bọn ta sẽ tước quyền tự chủ của ngươi! Đến giờ đấu Tẩy não rồi!,97,63,PASS
+B_COT_TRUYEN_08.csv,story|1405|0,What will you do?,Bạn muốn làm gì?,,Bạn sẽ làm gì?,19,14,PASS
+B_COT_TRUYEN_08.csv,story|1406|0,Duel\nExplain Brainwashing Duel,Duel\nGiải thích Brainwashing Duel,,Đấu\nLuật Đấu Tẩy não,37,21,PASS
+B_COT_TRUYEN_08.csv,story|1407|0,"In a brainwashing duel, players cannot use the controls at all.","Trong Brainwashing Duel, người chơi hoàn toàn không thể điều khiển.",,"Trong trận Đấu Tẩy não, người chơi hoàn toàn không được điều khiển.",74,67,PASS
+B_COT_TRUYEN_08.csv,story|1408|0,And the entire duel is automatically carried out.,Và toàn bộ trận Duel sẽ tự động diễn ra.,,Toàn bộ trận đấu sẽ tự diễn ra.,54,31,PASS
+B_COT_TRUYEN_08.csv,story|1409|0,You really think you can beat us? Don't make me laugh!,Ngươi thật sự nghĩ có thể đánh bại bọn ta à? Đừng làm ta buồn cười!,,Ngươi tưởng thắng nổi bọn ta à? Đừng làm ta cười!,74,49,PASS
+B_COT_TRUYEN_08.csv,story|1410|0,What? We thought this one lacked the power to defeat us!,Cái gì? Bọn ta cứ tưởng kẻ này không đủ sức đánh bại bọn ta!,,Cái gì?! Bọn ta tưởng tên này không đủ sức hạ bọn ta chứ!,67,57,PASS
+B_COT_TRUYEN_08.csv,story|1411|0,We must completely rework our strategy.,Bọn ta phải xây dựng lại hoàn toàn chiến lược.,,Phải tính lại toàn bộ chiến lược thôi.,51,38,PASS
+B_COT_TRUYEN_08.csv,story|1412|0,"Until that day, we will allow you to live! You should be grateful!","Cho đến ngày đó, bọn ta cho phép ngươi sống! Nên biết ơn đi!",,"Đến ngày đó, bọn ta tạm tha mạng ngươi! Biết ơn đi!",73,51,PASS
+B_COT_TRUYEN_08.csv,story|1413|0,There is no way we aliens can lose!,Người ngoài hành tinh bọn ta không thể nào thua!,,Người ngoài hành tinh bọn ta không thể thua!,53,44,PASS
+B_COT_TRUYEN_08.csv,story|1414|0,"Heh, heh, heh... You have made the gate appear.","Hê, hê, hê... Ngươi đã làm cổng hiện ra.",,Hê hê hê... Ngươi đã khiến cánh cổng hiện ra.,52,45,PASS
+B_COT_TRUYEN_08.csv,story|1415|0,"Yes, this is the Unity Gate, where travelers must show their ability to bond with their tag partner. A duelist's destiny is put on trial here. ","Đúng, đây là Unity Gate, nơi các lữ khách phải chứng tỏ khả năng gắn kết với tag partner của mình. Số mệnh của một Duelist bị đem ra thử thách ở đây.",,"Đúng vậy, đây là Cổng Đồng Tâm, nơi lữ khách chứng tỏ sự gắn kết với đồng đội Tag Duel. Vận mệnh đấu thủ sẽ được thử thách tại đây.",164,131,PASS
+B_COT_TRUYEN_08.csv,story|1416|0,My name is Hell Guardian - Morley.,Ta tên là Hell Guardian - Morley.,,Ta là Hell Guardian - Morley.,38,29,PASS
+B_COT_TRUYEN_08.csv,story|1417|0,My name is Dark Guardian - Gigori.,Ta tên là Dark Guardian - Gigori.,,Ta là Dark Guardian - Gigori.,38,29,PASS
+B_COT_TRUYEN_08.csv,story|1418|0,"If you pass our test, you'll be allowed to pass.","Nếu vượt qua thử thách của bọn ta, ngươi sẽ được phép đi qua.",,Vượt qua thử thách của bọn ta thì ngươi sẽ được đi qua.,68,55,PASS
+B_COT_TRUYEN_08.csv,story|1419|0,"We have already constructed 5 different Decks of great power. And against these 5, you must... um, how many times must they win?","Bọn ta đã xây dựng sẵn 5 Deck khác nhau, cực kỳ mạnh. Và ngươi phải thắng cả 5... à, mà, phải thắng mấy lần nhỉ?",,"Bọn ta đã dựng sẵn 5 Bộ bài cực mạnh. Ngươi phải thắng cả 5... Ờ, khoan, thắng mấy trận nhỉ?",141,92,PASS
+B_COT_TRUYEN_08.csv,story|1420|0,Get a grip! It's 3 times. You must win 3 duels to pass through the gate.,Tỉnh táo lại đi! Là 3 lần. Ngươi phải thắng 3 trận Duel để đi qua cổng.,,Tập trung đi! Là 3 trận. Thắng 3 trận là được qua cổng.,80,55,PASS
+B_COT_TRUYEN_08.csv,story|1421|0,"Oh, um... yes, that's right.","À, ừ... đúng rồi.",,"À, ừm... đúng rồi.",31,18,PASS
+B_COT_TRUYEN_08.csv,story|1423|0,"Well, then. Will you try our test?","Vậy thì, ngươi có muốn thử thách của bọn ta không?",,"Nào, ngươi có muốn thử sức với bọn ta không?",56,44,PASS
+B_COT_TRUYEN_08.csv,story|1425|0,What will you do?,Bạn muốn làm gì?,,Bạn sẽ làm gì?,19,14,PASS
+B_COT_TRUYEN_08.csv,story|1426|0,Yes\nNo,Có\nKhông,,Có\nKhông,9,9,PASS
+B_COT_TRUYEN_08.csv,story|1427|0,"Oh, they're going to challenge us! ","À, họ sắp thách đấu bọn ta rồi!",,"Ồ, họ sắp thách đấu bọn ta kìa!",39,31,PASS
+B_COT_TRUYEN_08.csv,story|1429|0,Are you sure? Why not? Are you really scared?,Ngươi chắc chứ? Sao thế? Ngươi thật sự sợ à?,,Ngươi chắc chứ? Sao lại không? Sợ rồi à?,50,40,PASS
+B_COT_TRUYEN_08.csv,story|1430|0,"Well, anytime is OK. We'll be waiting.","Được thôi, lúc nào cũng được. Bọn ta sẽ chờ.",,"Được thôi. Bất cứ lúc nào, bọn ta cũng chờ.",49,43,PASS
+B_COT_TRUYEN_08.csv,story|1431|0,"Heh, heh, heh... They duel very well... ","Hê, hê, hê... Họ Duel giỏi thật...",,Hê hê hê... Họ đấu giỏi thật...,45,31,PASS
+B_COT_TRUYEN_08.csv,story|1432|0,These guys are tough!,Mấy tên này mạnh thật!,,Mấy người này mạnh quá!,25,23,PASS
+B_COT_TRUYEN_08.csv,story|1433|0,We're impressed. Will you duel us again?,Bọn ta ấn tượng đấy. Ngươi có muốn Duel với bọn ta lại không?,,Bọn ta nể đấy! Ngươi muốn đấu tiếp không?,68,41,PASS
+B_COT_TRUYEN_08.csv,story|1435|0,"Heh, heh, heh... You aren't good enough.","Hê, hê, hê... Ngươi chưa đủ giỏi đâu.",,Hê hê hê... Ngươi chưa đủ sức đâu.,45,34,PASS
+B_COT_TRUYEN_08.csv,story|1436|0,"Yeah, I agree.","Ừ, đồng ý.",,"Ừ, đúng rồi.",16,12,PASS
+B_COT_TRUYEN_08.csv,story|1437|0,"But you still have some ability, right? Are you going to try again?","Nhưng ngươi vẫn còn chút khả năng, đúng không? Ngươi sẽ thử lại chứ?",,Nhưng ngươi cũng có chút bản lĩnh. Thử lại chứ?,75,47,PASS
+B_COT_TRUYEN_08.csv,story|1439|0,"Heh, heh, heh... They duel very well... ","Hê, hê, hê... Họ Duel giỏi thật...",,Hê hê hê... Họ đấu giỏi thật...,45,31,PASS
+B_COT_TRUYEN_08.csv,story|1440|0,These guys are tough...,Mấy tên này mạnh thật...,,Mấy người này mạnh thật...,27,26,PASS
+B_COT_TRUYEN_08.csv,story|1442|0,There is a stone monument in front of you.,Trước mắt bạn là một bia đá.,,Trước mặt bạn có một tấm bia đá.,47,32,PASS
+B_COT_TRUYEN_08.csv,story|1443|0,Sealed inside of it is a powerful monster.,Bên trong nó phong ấn một quái thú mạnh.,,Một quái thú hùng mạnh bị phong ấn bên trong.,47,45,PASS
+B_COT_TRUYEN_08.csv,story|1445|0,"If you look closely, ""@5Vennominaga the Deity of Poisonous Snakes@0"" is engraved in the stone.","Nhìn kỹ, bạn thấy ""@5Vennominaga the Deity of Poisonous Snakes@0"" được khắc trên đá.",,"Quan sát kỹ, bạn thấy ""@5Vennominaga the Deity of Poisonous Snakes@0"" khắc trên đá.",104,83,PASS
+B_COT_TRUYEN_08.csv,story|1446|0,Do you challenge the seal opening?,Bạn có muốn thử thách để phá phong ấn không?,,Bạn muốn thử phá phong ấn không?,49,32,PASS
+B_COT_TRUYEN_08.csv,story|1447|0,What will you do?,Bạn muốn làm gì?,,Bạn sẽ làm gì?,19,14,PASS
+B_COT_TRUYEN_08.csv,story|1448|0,Yes\nNo\nHow to open the seal,Có\nKhông\nCách phá phong ấn,,Có\nKhông\nCách phá phong ấn,30,28,PASS
+B_COT_TRUYEN_08.csv,story|1449|0,Your Deck doesn't meet certain conditions.,Deck của bạn chưa đáp ứng một số điều kiện.,,Bộ bài của bạn chưa đủ điều kiện.,48,33,PASS
+B_COT_TRUYEN_08.csv,story|1450|0,You left the area.,Bạn đã rời khỏi khu vực này.,,Bạn rời khỏi khu vực.,31,21,PASS
+B_COT_TRUYEN_08.csv,story|1451|0,The challenge is a duel against the sealed monster.,Thử thách là một trận Duel với quái thú bị phong ấn.,,Thử thách là đấu với quái thú bị phong ấn.,58,42,PASS
+B_COT_TRUYEN_08.csv,story|1452|0,You must summon the same monster,Bạn phải Summon đúng quái thú,,Bạn phải Triệu hồi đúng quái thú,36,32,PASS
+B_COT_TRUYEN_08.csv,story|1453|0,"as the one engraved in the stone monument,","được khắc trên bia đá,",,"mang tên được khắc trên bia đá,",47,31,PASS
+B_COT_TRUYEN_08.csv,story|1454|0,"and win a duel using the Effects of ""@5Vennominaga the Deity of Poisonous Snakes@0.""","và thắng Duel bằng các Effect của ""@5Vennominaga the Deity of Poisonous Snakes@0.""",,"rồi thắng trận bằng hiệu ứng của ""@5Vennominaga the Deity of Poisonous Snakes@0"".",93,81,PASS

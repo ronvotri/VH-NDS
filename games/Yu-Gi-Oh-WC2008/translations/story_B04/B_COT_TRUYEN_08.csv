@@ -1,0 +1,151 @@
+key,ten_la_bai_EN,tieng_Anh,tieng_Viet_hien_tai,toi_da_ky_tu,tieng_Viet_MOI
+story|1291|0,,Each player prepares their own Deck.,Mỗi người chơi chuẩn bị Deck riêng của mình.,49,Mỗi người chuẩn bị một Bộ bài riêng.
+story|1292|0,,And the Duel Field is the same size as with a 2 player duel.,Duel Field có kích thước giống như Duel 2 người.,67,Sân đấu có kích thước như trận đấu hai người.
+story|1293|0,,"As for Life Points, both partners share a total of 8000.","Về Life Points, hai đồng đội chung nhau tổng cộng 8000.",62,Hai đồng đội dùng chung tổng cộng 8000 LP.
+story|1294|0,,"The first time you draw, you can only draw 5 cards.","Lần rút bài đầu tiên, chỉ được rút 5 lá.",57,"Lần rút bài đầu tiên, mỗi người chỉ rút 5 lá."
+story|1295|0,,"So, up to now, the rules haven't been much different than in a 2 player duel, right?","Như vậy, cho đến giờ luật cũng không khác mấy so với Duel 2 người, đúng không?",93,"Đến đây, luật chưa khác trận đấu hai người là mấy, đúng không?"
+story|1296|0,,"But next, I shall tell you what is different, so pay close attention.","Nhưng tiếp theo, ta sẽ nói về điểm khác biệt, nên hãy chú ý.",76,Nhưng từ giờ sẽ có điểm khác biệt. Chú ý lắng nghe!
+story|1297|0,,"During your turn, you can use the cards and the monsters your partner has set and summoned,","Trong lượt của bạn, bạn có thể dùng bài và quái thú mà đồng đội đã Set và Summon,",101,"Trong lượt mình, ngươi có thể dùng lá bài và quái thú đồng đội đã Đặt úp hoặc Triệu hồi,"
+story|1298|0,,as if they were yours. And vice versa.,như là của chính mình. Và ngược lại cũng vậy.,50,cứ như của ngươi. Ngược lại cũng thế.
+story|1299|0,,"So if your partner is in a pinch, you can Set a card for your partner to use,","Cho nên nếu đồng đội gặp nguy, bạn có thể Set 1 lá để đồng đội dùng,",85,"Nếu đồng đội gặp nguy, ngươi có thể Đặt úp lá bài để họ dùng,"
+story|1300|0,,and even Tribute Summon a powerful monster using a monster,thậm chí Tribute Summon một quái thú mạnh bằng cách dùng quái thú,72,thậm chí Hiến tế quái thú của đồng đội để Triệu hồi
+story|1301|0,,your partner summoned as a tribute.,mà đồng đội đã Summon làm Tribute.,39,một quái thú mạnh hơn.
+story|1302|0,,"Well, there you have a brief explanation of how to play a Tag Duel.",Đó là phần giải thích ngắn gọn cách chơi Tag Duel.,74,Đó là những điều cơ bản về cách đấu Tag Duel.
+story|1303|0,,Were you able to understand the rules?,Ngươi đã hiểu luật chưa?,42,Ngươi đã hiểu luật chưa?
+story|1304|0,,Yes\nListen once more,Hiểu rồi\nNghe lại lần nữa,28,Hiểu rồi\nNghe lại
+story|1305|0,,"Well, if you try it for real, you should gain a proper understanding of how to tag duel.","Nào, nếu thử chơi thật sự, ngươi sẽ hiểu rõ cách Tag Duel thôi.",97,"Khi thực sự tham gia Tag Duel, ngươi sẽ nắm luật rõ hơn."
+story|1306|0,,"So, let us go over there and find someone to practice with you.","Vậy thì, chúng ta cùng sang kia tìm người luyện tập với ngươi nhé.",73,"Nào, ta cùng sang kia tìm một người cho ngươi luyện tập."
+story|1307|0,,That way you can learn exactly what makes a tag duel different to a regular duel.,Như vậy ngươi sẽ hiểu chính xác điểm khác biệt của Tag Duel so với Duel thường.,90,Đấu thử sẽ giúp ngươi thấy Tag Duel khác đấu đơn thế nào.
+story|1310|0,,"Oh, if you insist.","À, nếu ngươi nhất quyết.",27,"Ồ, nếu ngươi muốn vậy."
+story|1311|0,,"Oh, and I was ready to teach you something important. You should have listened humbly to my story. You'll live to regret it!","Ấy, ta đã sẵn sàng dạy cho ngươi một điều quan trọng, ngươi nên khiêm tốn lắng nghe. Rồi ngươi sẽ hối hận đấy!",137,Hừ! Ta định dạy ngươi điều quan trọng đấy. Đáng lẽ phải khiêm nhường nghe ta! Rồi ngươi sẽ hối hận!
+story|1312|0,,What did you think? Did you get a feel for how a Tag Duel works?,Ngươi thấy sao? Đã cảm nhận được cách Tag Duel vận hành chưa?,71,Thế nào? Ngươi đã quen với cách đấu Tag Duel chưa?
+story|1313|0,,"To understand the finer points, duel as often as you can.","Để hiểu rõ những điểm tinh tế, hãy Duel thật nhiều vào.",63,"Muốn hiểu những chi tiết nhỏ, hãy đấu thật nhiều."
+story|1314|0,,"Oh, right! I nearly forgot one very important point.","À, đúng rồi! Ta suýt quên một điều rất quan trọng.",58,À phải! Ta suýt quên mất một chuyện rất quan trọng.
+story|1315|0,,Duelists who are recorded in your Duelist Registry may become your tag duel partner.,Những Duelist được ghi trong Duelist Registry của ngươi có thể trở thành partner Tag Duel của ngươi.,111,Các đấu thủ trong Sổ Đấu thủ của ngươi có thể trở thành đồng đội Tag Duel.
+story|1316|0,,But you can't choose other Duelists' tag partners as your partner.,Nhưng ngươi không thể chọn partner của Duelist khác làm partner của mình.,81,Nhưng ngươi không thể chọn đồng đội của một đấu thủ khác.
+story|1317|0,,You can make a change in Options to choose a partner that suits you.,Ngươi có thể đổi trong Options để chọn partner hợp với ngươi.,75,Ngươi có thể vào Tùy chọn để đổi sang đồng đội phù hợp.
+story|1318|0,,"Then, construct your Deck, thinking carefully about who your partner is.","Rồi hãy xây dựng Deck của ngươi, nhớ cân nhắc kỹ partner của ngươi là ai.",81,Sau đó hãy xây Bộ bài sao cho ăn ý với người đồng đội ấy.
+story|1319|0,,"Well, that was kinda fun, wasn't it? Now go forth and show this world what you can do!","Nào, cũng khá vui đúng không? Giờ hãy đi cho thế giới này thấy ngươi làm được gì!",95,Cũng vui đấy chứ! Giờ hãy cho thế giới này thấy bản lĩnh ngươi nào!
+story|1321|0,,"He he! Excuse me, can you give me a hand over here?","Hề hề! Xin lỗi, bạn giúp mình một tay ở đây được không?",61,"Hề hề! Xin lỗi, cậu giúp tớ một tay được không?"
+story|1322|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1323|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1324|0,,He he he! You walked right into our trap. Say hello to my brothers!,Hề hề hề! Bạn sập bẫy rồi! Chào các anh của mình đi!,74,Hề hề hề! Cậu sập bẫy rồi! Ra chào các anh tớ đi!
+story|1325|0,,"You will duel us. If we win, you give us your card with ""Dark World"" in its name as an ante.","Bạn sẽ Duel với bọn này. Nếu bọn này thắng, bạn phải đưa lá bài có ""Dark World"" trong tên làm tiền cược.",115,"Cậu phải đấu với bọn tớ. Nếu thua, cậu phải cược mất một lá có ""Dark World"" trong tên."
+story|1326|0,,"Oh, really?","À, vậy à?",13,Thật vậy sao?
+story|1327|0,,"Later, you might regret it. He he he!",Sau này bạn có thể hối hận đấy. Hề hề hề!,46,Rồi cậu sẽ hối hận cho xem! Hề hề hề!
+story|1328|0,,You ran away!,Bạn đã bỏ chạy!,17,Bạn đã bỏ chạy!
+story|1329|0,,No! Remember there are many other residents of Dark World besides us!,Không đâu! Nhớ là Dark World còn rất nhiều cư dân khác ngoài bọn mình!,78,Đừng quên Dark World còn vô số cư dân khác ngoài bọn tớ!
+story|1330|0,,"So, my friend, you're good at dueling, huh? Why didn't you say so in the first place?",Vậy ra bạn Duel giỏi thật nhỉ? Sao không nói từ đầu?,94,"Ồ, hóa ra cậu đấu giỏi thật! Sao không nói ngay từ đầu?"
+story|1331|0,,"Anyway, here's your prize, ""@5YOURCARD()@0""! Take it! It's yours!","Dù sao thì đây là phần thưởng của bạn, ""@5YOURCARD()@0""! Cầm lấy đi! Là của bạn đó!",92,"Dù sao, phần thưởng ""@5YOURCARD()@0"" là của cậu! Cầm lấy đi!"
+story|1332|0,,"Oh, and... I'll see you later.","À, và... hẹn gặp lại bạn sau.",34,"À, còn nữa... hẹn gặp lại nhé."
+story|1333|0,,"He he! As expected, my big brothers were super powerful.","Hề hề! Đúng như dự đoán, các anh của mình mạnh kinh khủng.",64,Hề hề! Các anh tớ đúng là mạnh khủng khiếp!
+story|1334|0,,"But, you know, you can get a rematch whenever you want!","Nhưng bạn biết không, bạn có thể đối đầu lại bất cứ lúc nào!",67,Nhưng cậu muốn tái đấu lúc nào cũng được nhé!
+story|1335|0,,"Oh, just don't forget to bring a card with ""Dark World"" in its name! He he!","À, nhưng đừng quên mang theo lá bài có ""Dark World"" trong tên nhé! Hề hề!",83,"Nhớ mang theo một lá có ""Dark World"" trong tên đấy! Hề hề!"
+story|1336|0,,You will duel us. ,Bạn sẽ Duel với bọn này.,27,Cậu sẽ đấu với bọn tớ.
+story|1337|0,,"My friend, something is really bothering me.","Bạn ơi, có chuyện rất làm mình băn khoăn.",49,"Này bạn hiền, tớ đang có chuyện lo quá."
+story|1338|0,,The story of your beating of my big brothers Zure and Kahkki is spreading all over Dark World.,Chuyện bạn đánh bại hai anh Zure và Kahkki của mình đang lan khắp Dark World.,104,Tin cậu đánh bại hai anh Zure và Kahkki đang lan khắp Dark World rồi.
+story|1339|0,,Warriors from all over Dark World are gathering to fight against you.,Các chiến binh từ khắp Dark World đang tụ tập để đánh bạn.,76,Các chiến binh khắp Dark World đang kéo đến thách đấu cậu.
+story|1341|0,,"Just as always, the rule is that you need to ante up a card with ""Dark World"" in its name.","Như mọi lần, luật vẫn là bạn phải đưa lá bài có ""Dark World"" trong tên làm tiền cược.",100,"Luật vẫn thế: phải đem một lá có ""Dark World"" trong tên ra cược."
+story|1342|0,,"My friend, are you up for it? Will you duel somebody?","Bạn ơi, bạn có sẵn sàng không? Bạn sẽ Duel với ai đó chứ?",63,"Sao nào, bạn hiền? Cậu có nhận lời đấu không?"
+story|1343|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1344|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1345|0,,"I knew you would! You're a great friend! Though your opponent is really strong, you know?","Mình biết ngay là bạn sẽ đồng ý! Bạn đúng là người bạn tuyệt vời! Dù đối thủ mạnh lắm đấy, bạn biết chưa?",116,Tớ biết cậu sẽ nhận lời mà! Bạn tốt quá! Nhưng đối thủ rất mạnh đấy nhé!
+story|1346|0,,Give it your all!,Hãy dùng hết sức nhé!,24,Cố hết sức mình nhé!
+story|1347|0,,"Oh, are you scared? I'm really disappointed in you.","À, bạn sợ à? Mình thất vọng về bạn lắm.",57,"Ơ, cậu sợ rồi à? Làm tớ thất vọng quá!"
+story|1348|0,,You ran away!,Bạn đã bỏ chạy!,17,Bạn đã bỏ chạy!
+story|1349|0,,Surprise! The rumors must have been true! You really are a great tag duelist!,Bất ngờ chưa! Tin đồn là thật! Bạn đúng là tay Tag Duel xuất sắc!,85,Ôi chao! Tin đồn đúng thật! Cậu đấu Tag Duel giỏi ghê!
+story|1350|0,,"Aw, this means I have to train some more in Dark World.","Hư, vậy là mình phải đi tập luyện thêm ở Dark World rồi.",62,"Chà, tớ phải về Dark World tập luyện thêm thôi."
+story|1351|0,,"Just like you to duel so powerfully, my friend! You truly are amazing!","Đúng kiểu bạn, Duel mạnh thế! Bạn thật tuyệt vời!",78,"Đúng là cậu, đấu trận nào cũng mạnh! Nể thật đấy, bạn hiền!"
+story|1352|0,,"Oh, I almost forgot. This is the card ""@5YOURCARD()@0"" you won! Here, take it!","À, suýt quên. Đây là lá bài ""@5YOURCARD()@0"" bạn thắng được! Cầm lấy đi!",86,"À, suýt quên! Đây là lá ""@5YOURCARD()@0"" cậu thắng được. Cầm lấy!"
+story|1353|0,,"Ah! My friend, what happened to you?","À! Bạn ơi, bạn bị sao vậy?",40,"Ơ kìa, bạn hiền! Cậu bị sao thế?"
+story|1354|0,,"You really let Dark World down. Well, go get another card to ante, and duel it out once more. He he!","Bạn đã làm mất mặt Dark World rồi. Thôi, đi tìm lá khác để cược, rồi Duel lại nhé. Hề hề!",111,Cậu làm Dark World mất mặt rồi! Kiếm lá khác để cược rồi đấu lại nhé. Hề hề!
+story|1355|0,,You will duel us. ,Bạn sẽ Duel với bọn này.,27,Cậu sẽ đấu với bọn tớ.
+story|1356|0,,"My friend! It's not good! All around Dark World, everyone keeps on talking about you. ",Bạn ơi! Không xong rồi! Khắp Dark World ai cũng nói chuyện về bạn.,95,Bạn hiền ơi! Không ổn rồi! Khắp Dark World ai cũng bàn tán về cậu!
+story|1357|0,,"And, once again, some of our feistiest Dark World recruits are coming for you.","Và lại một lần nữa, những tân binh hung hãn nhất của Dark World đang tiến về phía bạn.",95,Một đám tân binh hung hăng nhất Dark World lại kéo đến tìm cậu đấy.
+story|1359|0,,"If you agree to a duel, there's a rule that you have to ante up a card with ""Dark World"" in its name. That sound OK?","Nếu bạn đồng ý Duel, có luật là bạn phải đưa lá bài có ""Dark World"" trong tên làm tiền cược. Được chứ?",128,"Muốn đấu thì vẫn phải cược một lá có ""Dark World"" trong tên. Đồng ý chứ?"
+story|1360|0,,Will you take on the next challenge?,Bạn có nhận thử thách tiếp theo không?,42,Cậu có nhận thử thách tiếp theo không?
+story|1361|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1362|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1363|0,,"I knew you would! You're a great friend! Though your opponent is really strong, you know?","Mình biết ngay là bạn sẽ đồng ý! Bạn đúng là người bạn tuyệt vời! Dù đối thủ mạnh lắm đấy, bạn biết chưa?",116,Tớ biết cậu sẽ nhận lời mà! Bạn tốt quá! Nhưng đối thủ rất mạnh đấy nhé!
+story|1364|0,,Give it your all!,Hãy dùng hết sức nhé!,24,Cố hết sức mình nhé!
+story|1365|0,,"My friend, did you have a panic attack? That's not like you.","Bạn ơi, bạn bị hoảng sợ à? Không giống bạn chút nào.",67,"Bạn hiền, cậu hoảng rồi à? Đâu có giống cậu!"
+story|1366|0,,You ran away!,Bạn đã bỏ chạy!,17,Bạn đã bỏ chạy!
+story|1367|0,,Surprise! The rumors must have been true! You really are a great tag duelist!,Bất ngờ chưa! Tin đồn là thật! Bạn đúng là tay Tag Duel xuất sắc!,85,Ôi chao! Tin đồn đúng thật! Cậu đấu Tag Duel giỏi ghê!
+story|1368|0,,"Aw, this means I have to train some more in Dark World.","Hừ, vậy là mình phải đi tập luyện thêm ở Dark World rồi.",62,"Chà, tớ phải về Dark World tập luyện thêm thôi."
+story|1369|0,,"Just like you to duel so powerfully, my friend! You truly are amazing!","Đúng kiểu bạn, Duel mạnh thế! Bạn thật tuyệt vời!",78,"Đúng là cậu, đấu trận nào cũng mạnh! Nể thật đấy, bạn hiền!"
+story|1370|0,,"Oh, I almost forgot. This is the card""@5YOURCARD()@0"" you won! Here, take it!","À, suýt quên. Đây là lá bài ""@5YOURCARD()@0"" bạn thắng được! Cầm lấy đi!",85,"À, suýt quên! Lá ""@5YOURCARD()@0"" cậu thắng đây. Cầm lấy!"
+story|1371|0,,"Ah! My friend, what happened to you?","À! Bạn ơi, bạn bị sao vậy?",40,"Ơ kìa, bạn hiền! Cậu bị sao thế?"
+story|1372|0,,"You really let Dark World down. Well, go get another card to ante, and duel it out once more. He he!","Bạn đã làm mất mặt Dark World rồi. Thôi, đi tìm lá khác để cược, rồi Duel lại nhé. Hề hề!",111,Cậu làm Dark World mất mặt rồi! Kiếm lá khác để cược rồi đấu lại nhé. Hề hề!
+story|1373|0,,You will duel us. ,Bạn sẽ Duel với bọn này.,27,Cậu sẽ đấu với bọn tớ.
+story|1374|0,,It appears they have been brainwashed.,Có vẻ bọn chúng đã bị tẩy não.,42,Có vẻ bọn chúng đã bị tẩy não.
+story|1375|0,,It appears they have been brainwashed.,Có vẻ bọn chúng đã bị tẩy não.,42,Có vẻ bọn chúng đã bị tẩy não.
+story|1376|0,,It appears they have been brainwashed.,Có vẻ bọn chúng đã bị tẩy não.,42,Có vẻ bọn chúng đã bị tẩy não.
+story|1377|0,,The brainwashing is now undone and they got back to normal.,"Việc tẩy não đã được hóa giải, bọn chúng đã trở lại bình thường.",71,"Ảnh hưởng tẩy não tan biến, chúng trở lại bình thường."
+story|1378|0,,The brainwashing is now undone and they got back to normal.,"Việc tẩy não đã được hóa giải, bọn chúng đã trở lại bình thường.",71,"Ảnh hưởng tẩy não tan biến, chúng trở lại bình thường."
+story|1379|0,,The brainwashing is now undone and they got back to normal.,"Việc tẩy não đã được hóa giải, bọn chúng đã trở lại bình thường.",71,"Ảnh hưởng tẩy não tan biến, chúng trở lại bình thường."
+story|1380|0,,Monsters ran away!,Quái thú đã bỏ chạy!,23,Các quái thú bỏ chạy!
+story|1381|0,,Monsters ran away!,Quái thú đã bỏ chạy!,23,Các quái thú bỏ chạy!
+story|1382|0,,Monsters ran away!,Quái thú đã bỏ chạy!,23,Các quái thú bỏ chạy!
+story|1383|0,,Gogiga Gagagigo and Mobius the Frost Monarch have appeared.,Gogiga Gagagigo và Mobius the Frost Monarch đã xuất hiện.,65,Gogiga Gagagigo và Mobius the Frost Monarch xuất hiện.
+story|1384|0,,They seem brainwashed. It's like they've completely forgotten who they are.,Chúng có vẻ bị tẩy não. Như thể đã quên sạch mình là ai.,83,"Chúng có vẻ bị tẩy não, như thể quên sạch bản thân mình."
+story|1385|0,,Ah! They're upon us!,Á! Chúng tấn công đến nơi rồi!,34,Á! Chúng lao tới rồi!
+story|1386|0,,"What have I  been doing, gigi?","Mình đã làm gì thế nhỉ, gigi?",34,"Tớ... đã làm những gì vậy, gigi?"
+story|1387|0,,"I remember going to Kozaky's lab, but what was I doing there?","Mình nhớ đã đến phòng thí nghiệm của Kozaky, nhưng ở đó mình làm gì nhỉ?",80,"Tớ nhớ mình đến phòng thí nghiệm Kozaky, nhưng đến đó làm gì nhỉ?"
+story|1388|0,,I wanted to become stronger. But... maybe looking for more power made me really lose it.,Mình muốn mạnh lên. Nhưng... có lẽ cứ cưỡng cầu thêm sức mạnh nên mình phát điên thật.,97,Tớ chỉ muốn mạnh hơn... Nhưng có lẽ ham sức mạnh quá đã khiến tớ mất trí.
+story|1389|0,,I must have caused you lots of trouble. Sorry about that.,Chắc là mình đã gây cho cậu nhiều phiền phức. Xin lỗi nhé.,64,Chắc tớ gây cho cậu bao phiền phức rồi. Xin lỗi nhé.
+story|1390|0,,Thanks for helping me get back to normal. I think I'll go back to that other world now.,Cảm ơn cậu đã giúp mình bình thường trở lại. Mình nghĩ mình sẽ trở về thế giới kia đây.,96,Cảm ơn đã giúp tớ tỉnh lại. Giờ tớ trở về thế giới kia đây.
+story|1391|0,,"Hey, come visit me again. When you do, we'll get our game on!","Này, lại thăm mình nhé. Lúc đó chúng ta sẽ chơi hết mình!",68,Nhớ đến chơi nữa nhé! Lần sau ta đấu một trận cho đã!
+story|1393|0,,Gu-ga-gayaaaaa!!! Gi-giyaa-yaa!,Gu-ga-gayaaaaa!!! Gi-giyaa-yaa!,35,Gu-ga-gayaaaaa!!! Gi-giyaa-yaa!
+story|1394|0,,Are you the one who has been interfering with our plans to take over the world? We'll show you!,Ngươi là kẻ đang cản trở kế hoạch thống trị thế giới của chúng ta à? Chúng ta sẽ cho ngươi biết tay!,111,Ngươi là kẻ cản đường bọn ta thống trị thế giới sao? Cho ngươi biết tay!
+story|1396|0,,"We are very sorry that weren't strong enough. Forgive us, please.",Chúng tôi xin lỗi vì không đủ mạnh. Xin hãy tha thứ cho.,72,Chúng tôi xin lỗi vì không đủ mạnh. Xin hãy tha thứ!
+story|1397|0,,"The vampires are engulfed into the light, and dissapeared...","Lũ ma cà rồng bị ánh sáng nuốt chửng, rồi biến mất...",67,Lũ ma cà rồng bị ánh sáng nuốt chửng rồi biến mất...
+story|1398|0,,I... will not... forget this!,Ta... sẽ không... quên chuyện này!,38,Ta... sẽ không... quên chuyện này!
+story|1399|0,,my... brainwashing... reverted... can't be...,Tẩy não... của ta... bị hóa giải... không thể nào...,58,Phép tẩy não... của ta... bị hóa giải... không thể nào...
+story|1400|0,,The alien escapes into the sky.,Kẻ ngoài hành tinh trốn lên bầu trời.,41,Kẻ ngoài hành tinh trốn lên trời.
+story|1401|0,,Oh ho ho ho! You thought you could beat us? That is ludicrous!,Ô hô hô hô! Ngươi tưởng có thể đánh bại bọn ta à? Thật nực cười!,71,Ô hô hô hô! Ngươi tưởng đánh bại được bọn ta sao? Nực cười!
+story|1402|0,,What do you think now? Have you realized how much more powerful we are?,Giờ ngươi nghĩ sao? Đã nhận ra bọn ta mạnh hơn ngươi đến mức nào chưa?,79,Giờ thấy thế nào? Đã biết bọn ta mạnh hơn ngươi bao nhiêu chưa?
+story|1403|0,,You undid our brainwashing! You defeated our vampires! You have meddled in our plans far too much!,Ngươi đã hóa giải việc tẩy não của bọn ta! Ngươi đã đánh bại lũ ma cà rồng của ta! Ngươi đã nhúng mũi vào kế hoạch của bọn ta quá nhiều rồi!,155,"Ngươi hóa giải tẩy não, hạ ma cà rồng, phá hỏng quá nhiều kế hoạch của bọn ta!"
+story|1404|0,,We will take away your ability to act freely! It is time for a brainwashing duel!,Bọn ta sẽ tước đi khả năng hành động tự do của ngươi! Đến lúc cho một Brainwashing Duel!,97,Bọn ta sẽ tước quyền tự chủ của ngươi! Đến giờ đấu Tẩy não rồi!
+story|1405|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1406|0,,Duel\nExplain Brainwashing Duel,Duel\nGiải thích Brainwashing Duel,37,Đấu\nLuật Đấu Tẩy não
+story|1407|0,,"In a brainwashing duel, players cannot use the controls at all.","Trong Brainwashing Duel, người chơi hoàn toàn không thể điều khiển.",74,"Trong trận Đấu Tẩy não, người chơi hoàn toàn không được điều khiển."
+story|1408|0,,And the entire duel is automatically carried out.,Và toàn bộ trận Duel sẽ tự động diễn ra.,54,Toàn bộ trận đấu sẽ tự diễn ra.
+story|1409|0,,You really think you can beat us? Don't make me laugh!,Ngươi thật sự nghĩ có thể đánh bại bọn ta à? Đừng làm ta buồn cười!,74,Ngươi tưởng thắng nổi bọn ta à? Đừng làm ta cười!
+story|1410|0,,What? We thought this one lacked the power to defeat us!,Cái gì? Bọn ta cứ tưởng kẻ này không đủ sức đánh bại bọn ta!,67,Cái gì?! Bọn ta tưởng tên này không đủ sức hạ bọn ta chứ!
+story|1411|0,,We must completely rework our strategy.,Bọn ta phải xây dựng lại hoàn toàn chiến lược.,51,Phải tính lại toàn bộ chiến lược thôi.
+story|1412|0,,"Until that day, we will allow you to live! You should be grateful!","Cho đến ngày đó, bọn ta cho phép ngươi sống! Nên biết ơn đi!",73,"Đến ngày đó, bọn ta tạm tha mạng ngươi! Biết ơn đi!"
+story|1413|0,,There is no way we aliens can lose!,Người ngoài hành tinh bọn ta không thể nào thua!,53,Người ngoài hành tinh bọn ta không thể thua!
+story|1414|0,,"Heh, heh, heh... You have made the gate appear.","Hê, hê, hê... Ngươi đã làm cổng hiện ra.",52,Hê hê hê... Ngươi đã khiến cánh cổng hiện ra.
+story|1415|0,,"Yes, this is the Unity Gate, where travelers must show their ability to bond with their tag partner. A duelist's destiny is put on trial here. ","Đúng, đây là Unity Gate, nơi các lữ khách phải chứng tỏ khả năng gắn kết với tag partner của mình. Số mệnh của một Duelist bị đem ra thử thách ở đây.",164,"Đúng vậy, đây là Cổng Đồng Tâm, nơi lữ khách chứng tỏ sự gắn kết với đồng đội Tag Duel. Vận mệnh đấu thủ sẽ được thử thách tại đây."
+story|1416|0,,My name is Hell Guardian - Morley.,Ta tên là Hell Guardian - Morley.,38,Ta là Hell Guardian - Morley.
+story|1417|0,,My name is Dark Guardian - Gigori.,Ta tên là Dark Guardian - Gigori.,38,Ta là Dark Guardian - Gigori.
+story|1418|0,,"If you pass our test, you'll be allowed to pass.","Nếu vượt qua thử thách của bọn ta, ngươi sẽ được phép đi qua.",68,Vượt qua thử thách của bọn ta thì ngươi sẽ được đi qua.
+story|1419|0,,"We have already constructed 5 different Decks of great power. And against these 5, you must... um, how many times must they win?","Bọn ta đã xây dựng sẵn 5 Deck khác nhau, cực kỳ mạnh. Và ngươi phải thắng cả 5... à, mà, phải thắng mấy lần nhỉ?",141,"Bọn ta đã dựng sẵn 5 Bộ bài cực mạnh. Ngươi phải thắng cả 5... Ờ, khoan, thắng mấy trận nhỉ?"
+story|1420|0,,Get a grip! It's 3 times. You must win 3 duels to pass through the gate.,Tỉnh táo lại đi! Là 3 lần. Ngươi phải thắng 3 trận Duel để đi qua cổng.,80,Tập trung đi! Là 3 trận. Thắng 3 trận là được qua cổng.
+story|1421|0,,"Oh, um... yes, that's right.","À, ừ... đúng rồi.",31,"À, ừm... đúng rồi."
+story|1423|0,,"Well, then. Will you try our test?","Vậy thì, ngươi có muốn thử thách của bọn ta không?",56,"Nào, ngươi có muốn thử sức với bọn ta không?"
+story|1425|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1426|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1427|0,,"Oh, they're going to challenge us! ","À, họ sắp thách đấu bọn ta rồi!",39,"Ồ, họ sắp thách đấu bọn ta kìa!"
+story|1429|0,,Are you sure? Why not? Are you really scared?,Ngươi chắc chứ? Sao thế? Ngươi thật sự sợ à?,50,Ngươi chắc chứ? Sao lại không? Sợ rồi à?
+story|1430|0,,"Well, anytime is OK. We'll be waiting.","Được thôi, lúc nào cũng được. Bọn ta sẽ chờ.",49,"Được thôi. Bất cứ lúc nào, bọn ta cũng chờ."
+story|1431|0,,"Heh, heh, heh... They duel very well... ","Hê, hê, hê... Họ Duel giỏi thật...",45,Hê hê hê... Họ đấu giỏi thật...
+story|1432|0,,These guys are tough!,Mấy tên này mạnh thật!,25,Mấy người này mạnh quá!
+story|1433|0,,We're impressed. Will you duel us again?,Bọn ta ấn tượng đấy. Ngươi có muốn Duel với bọn ta lại không?,68,Bọn ta nể đấy! Ngươi muốn đấu tiếp không?
+story|1435|0,,"Heh, heh, heh... You aren't good enough.","Hê, hê, hê... Ngươi chưa đủ giỏi đâu.",45,Hê hê hê... Ngươi chưa đủ sức đâu.
+story|1436|0,,"Yeah, I agree.","Ừ, đồng ý.",16,"Ừ, đúng rồi."
+story|1437|0,,"But you still have some ability, right? Are you going to try again?","Nhưng ngươi vẫn còn chút khả năng, đúng không? Ngươi sẽ thử lại chứ?",75,Nhưng ngươi cũng có chút bản lĩnh. Thử lại chứ?
+story|1439|0,,"Heh, heh, heh... They duel very well... ","Hê, hê, hê... Họ Duel giỏi thật...",45,Hê hê hê... Họ đấu giỏi thật...
+story|1440|0,,These guys are tough...,Mấy tên này mạnh thật...,27,Mấy người này mạnh thật...
+story|1442|0,,There is a stone monument in front of you.,Trước mắt bạn là một bia đá.,47,Trước mặt bạn có một tấm bia đá.
+story|1443|0,,Sealed inside of it is a powerful monster.,Bên trong nó phong ấn một quái thú mạnh.,47,Một quái thú hùng mạnh bị phong ấn bên trong.
+story|1445|0,,"If you look closely, ""@5Vennominaga the Deity of Poisonous Snakes@0"" is engraved in the stone.","Nhìn kỹ, bạn thấy ""@5Vennominaga the Deity of Poisonous Snakes@0"" được khắc trên đá.",104,"Quan sát kỹ, bạn thấy ""@5Vennominaga the Deity of Poisonous Snakes@0"" khắc trên đá."
+story|1446|0,,Do you challenge the seal opening?,Bạn có muốn thử thách để phá phong ấn không?,49,Bạn muốn thử phá phong ấn không?
+story|1447|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1448|0,,Yes\nNo\nHow to open the seal,Có\nKhông\nCách phá phong ấn,30,Có\nKhông\nCách phá phong ấn
+story|1449|0,,Your Deck doesn't meet certain conditions.,Deck của bạn chưa đáp ứng một số điều kiện.,48,Bộ bài của bạn chưa đủ điều kiện.
+story|1450|0,,You left the area.,Bạn đã rời khỏi khu vực này.,31,Bạn rời khỏi khu vực.
+story|1451|0,,The challenge is a duel against the sealed monster.,Thử thách là một trận Duel với quái thú bị phong ấn.,58,Thử thách là đấu với quái thú bị phong ấn.
+story|1452|0,,You must summon the same monster,Bạn phải Summon đúng quái thú,36,Bạn phải Triệu hồi đúng quái thú
+story|1453|0,,"as the one engraved in the stone monument,","được khắc trên bia đá,",47,"mang tên được khắc trên bia đá,"
+story|1454|0,,"and win a duel using the Effects of ""@5Vennominaga the Deity of Poisonous Snakes@0.""","và thắng Duel bằng các Effect của ""@5Vennominaga the Deity of Poisonous Snakes@0.""",93,"rồi thắng trận bằng hiệu ứng của ""@5Vennominaga the Deity of Poisonous Snakes@0""."
