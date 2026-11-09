@@ -1,0 +1,422 @@
+﻿tep,key,tieng_Anh,tieng_Viet_hien_tai,ban_F03,ban_G01,gioi_han,so_ky_tu,trang_thai
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|1|0,@3Summoning@0 this @3monster@0 requires @21 @3Tribute@0. Do you wish to @3Summon@0?,Cần @21 @3Tribute@0 để @3Summon@0 @3quái thú@0 này. Bạn có muốn @3Summon@0 không?,,Cần @21 @3Hiến tế@0 để @3Triệu hồi@0 @3quái thú@0 này. @3Triệu hồi@0?,92,69,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|2|0,@3Summoning@0 this @3monster@0 requires @2%d @3Tributes@0. Do you wish to @3Summon@0?,Cần @2%d @3Tribute@0 để @3Summon@0 @3quái thú@0 này. Bạn có muốn @3Summon@0 không?,,Cần @2%d @3Hiến tế@0 để @3Triệu hồi@0 @3quái thú@0 này. @3Triệu hồi@0?,94,70,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|3|0,Please select @21st @3monster@0 as @3Tribute@0.,Hãy chọn @3quái thú@0 thứ @21@0 làm @3Tribute@0.,,Chọn @3quái thú@0 thứ @21st để làm @3Hiến tế@0.,53,47,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|4|0,Please select @22nd @3monster@0 as @3Tribute@0.,Hãy chọn @3quái thú@0 thứ @22@0 làm @3Tribute@0.,,Chọn @3quái thú@0 thứ @22nd để làm @3Hiến tế@0.,53,47,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|5|0,Win in this @2turn@0!,Hãy thắng ngay trong @2lượt@0 này!,,Thắng ngay trong @2lượt@0 này!,38,30,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|6|0,Do you @3surrender@0?,Bạn có muốn @3đầu hàng@0 không?,,Bạn muốn @3đầu hàng@0?,35,22,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|7|0,"The effect of ""@3%s@0"" is @3activated@0. @3Chain@0 another card?","Effect của ""@3%s@0"" đã được @3Activate@0. Có muốn @3Chain@0 thêm lá bài khác không?",,"Hiệu ứng của ""@3%s@0"" đã @3kích hoạt@0. Có @3Nối Chuỗi@0 lá khác?",92,65,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|8|0,@3%s@0 is @3activated@0. @3Chain@0 another card?,@3%s@0 đã được @3Activate@0. Có muốn @3Chain@0 thêm lá bài khác không?,,@3%s@0 đã @3kích hoạt@0. Có @3Nối Chuỗi@0 lá khác?,78,50,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|9|0,Do you wish to pay @3500LP@0 to view your opponent's @2hand@0?,Trả @3500LP@0 để xem @2bài trên Hand@0 của Opponent?,,Trả @3500LP@0 để xem @2bài trên tay@0 đối thủ?,69,46,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|10|0,Do you wish to change the position of your opponent's @3face-up monster@0?,Đổi vị trí của @3quái thú face-up@0 của Opponent?,,Đổi tư thế @3quái thú ngửa@0 của đối thủ?,82,41,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|11|0,Do you wish to discard a @3Spell Card@0 from your @2hand@0?,Bỏ 1 @3Spell Card@0 từ @2bài trên Hand@0?,,Bỏ một @3lá Phép@0 từ @2tay@0?,65,30,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|12|0,Select @2%d @3monsters@0 that you wish to use as @3Fusion Material@0.,Chọn @2%d @3quái thú@0 để làm @3Fusion Material@0.,,Chọn @2%d @3quái thú@0 làm @3Nguyên liệu Dung hợp@0.,76,52,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|13|0,There is no target @3card@0 in the @2Deck@0.,Không có @3lá bài@0 Target nào trong @2Deck@0.,,Không tìm thấy @3lá bài@0 phù hợp trong @2Bộ bài@0.,51,51,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|14|0,"Your opponent has @3Special Summoned@0 ""@3%s@0"". Do you wish to @3Special Summon@0 a @3monster@0 from your @2Graveyard@0?","Opponent đã @3Special Summon@0 ""@3%s@0"". Bạn có muốn @3Special Summon@0 1 @3quái thú@0 từ @2Graveyard@0 không?",,"Đối thủ đã @3Triệu hồi Đặc biệt@0 ""@3%s@0"". Bạn muốn @3Triệu hồi Đặc biệt@0 một @3quái thú@0 từ @2Mộ@0?",134,103,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|15|0,"As a replacement, select one of your @3monsters@0 as a target for @3attack@0.",Hãy chọn 1 @3quái thú@0 của bạn làm Target @3tấn công@0 thay thế.,,Chọn @3quái thú@0 của bạn làm mục tiêu @3tấn công@0 mới.,85,56,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|16|0,"As a replacement, select one of your opponent's @3monsters@0 as a target for @3attack@0.",Hãy chọn 1 @3quái thú@0 của Opponent làm Target @3tấn công@0 thay thế.,,Chọn @3quái thú@0 của đối thủ làm mục tiêu @3tấn công@0 mới.,97,60,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|17|0,There is no target @3card@0 in your opponent's @2hand@0.,Không có @3lá bài@0 Target nào trong @2bài trên Hand@0 của Opponent.,,Không có @3lá bài@0 phù hợp trên @2tay@0 của đối thủ.,75,53,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|18|0,Please select a @3monster@0 as @3Tribute@0.,Hãy chọn 1 @3quái thú@0 làm @3Tribute@0.,,Chọn @3quái thú@0 làm @3Hiến tế@0.,48,34,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|19|0,"Please select ""@3%s@0"" as @3Tribute@0.","Hãy chọn ""@3%s@0"" làm @3Tribute@0.",,"Chọn ""@3%s@0"" làm @3Hiến tế@0.",42,30,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|20|0,Please select a @3Spell Card@0 to be discarded from your @2hand@0.,Hãy chọn 1 @3Spell Card@0 để bỏ từ @2bài trên Hand@0.,,Chọn @3lá Phép@0 để bỏ từ @2tay@0.,73,34,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|21|0,There are no @3cards@0 to be added from your @2Deck@0.,Không có @3lá bài@0 nào để thêm từ @2Deck@0.,,Không có @3lá bài@0 nào để lấy từ @2Bộ bài@0.,60,45,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|22|0,Please select a @3monster@0 in the list to be added to your @2hand@0 from your @2Deck@0.,Hãy chọn 1 @3quái thú@0 trong danh sách để thêm từ @2Deck@0 lên @2tay@0.,,Chọn @3quái thú@0 từ @2Bộ bài@0 để thêm lên @2tay@0.,97,52,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|23|0,@3%s@0 has been sent to the @2Graveyard@0. Do you wish to offer a @3card@0 to return it to your @2Deck@0?,@3%s@0 đã bị đưa vào @2Graveyard@0. Bạn có muốn Tribute 1 @3lá bài@0 để đưa nó về @2Deck@0 không?,,@3%s@0 đã vào @2Mộ@0. Dùng một @3lá bài@0 để đưa nó về @2Bộ bài@0?,116,66,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|24|0,@3%s@0 has been sent to the @2Graveyard@0. Do you wish to pay @3500LP@0 to return it to your @2Deck@0?,@3%s@0 đã bị đưa vào @2Graveyard@0. Bạn có muốn trả @3500LP@0 để đưa nó về @2Deck@0 không?,,@3%s@0 đã vào @2Mộ@0. Trả @3500LP@0 để đưa nó về @2Bộ bài@0?,113,60,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|25|0,Select a @3monster@0 that you wish to @3Special Summon@0.,Chọn 1 @3quái thú@0 mà bạn muốn @3Special Summon@0.,,Chọn @3quái thú@0 muốn @3Triệu hồi Đặc biệt@0.,63,46,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|26|0,Select a @3monster@0 from the list that you wish to @3Special Summon@0 from your @2Fusion Deck@0.,Chọn 1 @3quái thú@0 trong danh sách để @3Special Summon@0 từ @2Fusion Deck@0.,,Chọn @3quái thú@0 từ @2Bộ Dung hợp@0 để @3Triệu hồi Đặc biệt@0.,107,63,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|27|0,Select a @3monster@0 from the list that you wish to send to the @2Graveyard@0 from your @2Fusion Deck@0.,Chọn 1 @3quái thú@0 trong danh sách để đưa vào @2Graveyard@0 từ @2Fusion Deck@0.,,Chọn @3quái thú@0 từ @2Bộ Dung hợp@0 để đưa vào @2Mộ@0.,115,55,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|28|0,"Add ""@3%s@0"" from the @2Deck@0 to your @2hand@0 as well?","Thêm luôn ""@3%s@0"" từ @2Deck@0 lên @2tay@0?",,"Thêm cả ""@3%s@0"" từ @2Bộ bài@0 lên @2tay@0?",62,43,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|29|0,Do you wish to pay @32000LP@0?,Bạn có muốn trả @32000LP@0 không?,,Bạn muốn trả @32000LP@0?,37,24,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|30|0,Do you wish to return a @3card@0 from your @2hand@0 to the bottom of your @2Deck@0?,Đưa 1 @3lá bài@0 từ @2tay@0 xuống đáy @2Deck@0?,,Trả một @3lá bài@0 từ @2tay@0 xuống đáy @2Bộ bài@0?,92,51,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|31|0,Select a @3card@0 from your @2hand@0 that you wish to return to the owner's @2Deck@0.,Chọn 1 @3lá bài@0 trên @2tay@0 để trả về @2Deck@0 của Owner.,,Chọn @3lá bài@0 trên @2tay@0 để trả về @2Bộ bài@0 chủ bài.,94,58,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|32|0,Please select @3Spell and/or Trap card(s)@0 from the list.,Hãy chọn @3Spell và/hoặc Trap Card@0 trong danh sách.,,Chọn @3lá Phép và/hoặc Bẫy@0 trong danh sách.,64,45,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|33|0,Do you wish to @3destroy@0 a @3Spell or Trap card@0?,Bạn có muốn @3Destroy@0 1 @3Spell hoặc Trap Card@0 không?,,Bạn muốn @3phá hủy@0 một @3lá Phép/Bẫy@0?,63,41,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|34|0,Do you wish to @3Special Summon %s-Type monster@0?,Bạn có muốn @3Special Summon Monster %s-Type@0 không?,,@3Triệu hồi Đặc biệt quái thú Tộc %s@0?,59,39,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|35|0,Do you wish to @3Special Summon@0 another @3monster@0?,Bạn có muốn @3Special Summon@0 thêm 1 @3quái thú@0 khác không?,,@3Triệu hồi Đặc biệt@0 thêm một @3quái thú@0?,69,45,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|36|0,"As a @3Special Summon@0, select a @3%s monster@0 from your @2hand@0.","Để @3Special Summon@0, hãy chọn 1 @3quái thú %s@0 từ @2bài trên Hand@0.",,Chọn @3quái thú thuộc %s@0 trên @2tay@0 để @3Triệu hồi Đặc biệt@0.,79,66,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|37|0,"As a @3Special Summon@0, select a @3%s-Type monster@0 from your @2hand@0.","Để @3Special Summon@0, hãy chọn 1 @3quái thú %s-Type@0 từ @2bài trên Hand@0.",,Chọn @3quái thú Tộc %s@0 trên @2tay@0 để @3Triệu hồi Đặc biệt@0.,84,64,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|38|0,Do you wish to @3remove from play@0 another @3card@0 in your opponent's @2Graveyard@0?,Bạn có muốn @3loại bỏ@0 thêm 1 @3lá bài@0 trong @2Graveyard@0 của Opponent không?,,@3Loại khỏi trận@0 thêm @3lá bài@0 trong @2Mộ@0 đối thủ?,95,56,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|39|0,Select a @3monster@0 that you wish to @3Normal Summon@0.,Chọn 1 @3quái thú@0 mà bạn muốn @3Normal Summon@0.,,Chọn @3quái thú@0 để @3Triệu hồi Thường@0.,62,42,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|40|0,Do you wish to discard a @3Monster Card@0 from your @2hand@0 to the @2Graveyard@0?,Bỏ 1 @3Monster Card@0 từ @2tay@0 vào @2Graveyard@0?,,Bỏ @3lá Quái thú@0 từ @2tay@0 vào @2Mộ@0?,91,41,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|41|0,Select a @3Monster Card@0 to discard from your @2hand@0.,Chọn 1 @3Monster Card@0 để bỏ từ @2bài trên Hand@0.,,Chọn @3lá Quái thú@0 để bỏ từ @2tay@0.,62,38,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|42|0,There are several @3face-up monsters@0 with an @3ATK@0 of @2%d@0 in Attack Position on your opponent's Field. Select the @3monster@0 that you wish to @3destroy@0.,Có nhiều @3quái thú face-up@0 có @3ATK@0 @2%d@0 ở Attack Position bên Field của Opponent. Hãy chọn @3quái thú@0 mà bạn muốn @3Destroy@0.,,Đối thủ có vài @3quái thú ngửa@0 ở Tư thế Công với @3ATK@0 @2%d@0. Chọn @3quái thú@0 muốn @3phá hủy@0.,179,102,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|43|0,Select @25@0 @3cards@0 from your @2Deck@0.,Chọn @25@0 @3lá bài@0 từ @2Deck@0.,,Chọn @25@0 @3lá bài@0 trong @2Bộ bài@0.,47,39,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|44|0,There are @2%d@0 cards remaining.,Còn lại @2%d@0 lá.,,Còn @2%d@0 lá bài.,37,18,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|45|0,Do you wish to @3Set@0 @3Spell/Trap Cards@0 on the Field?,Bạn có muốn @3Set@0 @3Spell/Trap Card@0 lên Field không?,,@3Đặt úp@0 @3lá Phép/Bẫy@0 lên Sân?,63,35,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|46|0,Select the @3Spell/Trap Cards@0 that you wish to @3Set@0 on the Field.,Chọn @3Spell/Trap Card@0 mà bạn muốn @3Set@0 lên Field.,,Chọn @3lá Phép/Bẫy@0 muốn @3Đặt úp@0.,78,37,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|47|0,Do you wish to @3Special Summon@0 a @3monster@0 to the Field?,Bạn có muốn @3Special Summon@0 1 @3quái thú@0 lên Field không?,,@3Triệu hồi Đặc biệt@0 @3quái thú@0 lên Sân?,69,44,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|48|0,Please select a @3monster@0 from the list that you wish to @3Special Summon@0 from your @2Deck@0 and place on the Field.,Hãy chọn 1 @3quái thú@0 trong danh sách để @3Special Summon@0 từ @2Deck@0 lên Field.,,Chọn @3quái thú@0 từ @2Bộ bài@0 để @3Triệu hồi Đặc biệt@0 lên Sân.,133,66,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|49|0,Do you wish to add a @3Ritual Monster Card@0 from your @2Deck@0 to your @2hand@0?,Thêm 1 @3Ritual Monster Card@0 từ @2Deck@0 lên @2tay@0?,,Lấy @3lá Quái thú Nghi lễ@0 từ @2Bộ bài@0 lên @2tay@0?,90,54,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|50|0,Do you wish to add a @3Ritual Spell Card@0 from your @2Deck@0 to your @2hand@0?,Thêm 1 @3Ritual Spell Card@0 từ @2Deck@0 lên @2tay@0?,,Lấy @3lá Phép Nghi lễ@0 từ @2Bộ bài@0 lên @2tay@0?,87,50,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|51|0,Select a @3card@0 from the list that you wish to add from your @2Deck@0 to your @2hand@0.,Chọn 1 @3lá bài@0 trong danh sách để thêm từ @2Deck@0 lên @2tay@0.,,Chọn @3lá bài@0 từ @2Bộ bài@0 để lấy lên @2tay@0.,98,49,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|52|0,"Do you wish to @3Set@0 ""@3%s@0"" on the Field?","Bạn có muốn @3Set@0 ""@3%s@0"" lên Field không?",,"@3Đặt úp@0 ""@3%s@0"" trên Sân?",50,29,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|53|0,"Do you wish to @3Special Summon@0 ""@3%s@0"" to the field?","Bạn có muốn @3Special Summon@0 ""@3%s@0"" lên Field không?",,"@3Triệu hồi Đặc biệt@0 ""@3%s@0"" lên Sân?",62,40,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|54|0,Do you wish to add a @3monster@0 from the @2Graveyard@0 to your @2hand@0?,Thêm 1 @3quái thú@0 từ @2Graveyard@0 lên @2tay@0?,,Lấy @3quái thú@0 từ @2Mộ@0 lên @2tay@0?,81,39,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|55|0,Select a @3Monster Card@0 that you wish to add to your @2hand@0.,Chọn 1 @3Monster Card@0 để thêm lên @2tay@0.,,Chọn @3lá Quái thú@0 để lấy lên @2tay@0.,71,40,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|56|0,Coin Toss Selection:,Chọn mặt đồng xu:,,Chọn mặt đồng xu:,23,17,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|57|0,"Do you wish to offer ""@3%s@0"" and @3Special Summon@0 ""@3%s@0""?","Tribute ""@3%s@0"" để @3Special Summon@0 ""@3%s@0""?",,"Hiến tế ""@3%s@0"" để @3Triệu hồi Đặc biệt@0 ""@3%s@0""?",69,52,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|58|0,Designate the @3card@0 that you wish to send to the @2Graveyard@0.,Chọn @3lá bài@0 mà bạn muốn đưa vào @2Graveyard@0.,,Chọn @3lá bài@0 muốn đưa vào @2Mộ@0.,73,36,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|60|0,Select a @3Spell Card@0 from the list that you wish to add to your @2hand@0 from the @2Deck@0.,Chọn 1 @3Spell Card@0 trong danh sách để thêm từ @2Deck@0 lên @2tay@0.,,Chọn @3lá Phép@0 trong @2Bộ bài@0 để lấy lên @2tay@0.,104,53,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|61|0,Send a @3card@0 in your @2hand@0 to the @2Graveyard@0.,Đưa 1 @3lá bài@0 trên @2tay@0 vào @2Graveyard@0.,,Đưa @3lá bài@0 trên @2tay@0 vào @2Mộ@0.,60,39,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|62|0,It is the @2Draw Phase@0.,Đây là @2Draw Phase@0.,,Đang ở @2Giai đoạn Rút@0.,28,25,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|63|0,It is the @2Standby Phase@0.,Đây là @2Standby Phase@0.,,Đang ở @2Giai đoạn Chờ@0.,31,25,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|64|0,It is before the end of the @2Main Phase@0.,Sắp hết @2Main Phase@0.,,Sắp hết @2Giai đoạn Chính@0.,48,28,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|65|0,"Do you wish to add @21@0 ""@3%s@0"" from the @2Deck@0 to your @2hand@0?","Thêm @21@0 ""@3%s@0"" từ @2Deck@0 lên @2tay@0?",,"Lấy @21@0 ""@3%s@0"" từ @2Bộ bài@0 lên @2tay@0?",76,45,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|66|0,@3%s@0 has been sent to the @2Graveyard@0. Do you wish to @3equip@0 it to a @3monster@0 on the Field?,@3%s@0 đã bị đưa vào @2Graveyard@0. Bạn có muốn @3trang bị@0 nó cho 1 @3quái thú@0 trên Field không?,,@3%s@0 đã vào @2Mộ@0. @3Trang bị@0 lá đó cho @3quái thú@0 trên Sân?,112,67,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|67|0,It is the @2End Phase@0.,Đây là @2End Phase@0.,,Đây là @2GĐ Kết thúc@0.,27,23,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|68|0,Select an opponent's @3monster@0 that you wish to transfer the @3ATK/DEF@0 factors.,Chọn 1 @3quái thú@0 của Opponent để chuyển chỉ số @3ATK/DEF@0.,,Chọn @3quái thú@0 của đối thủ để chuyển chỉ số @3ATK/DEF@0.,92,59,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|69|0,"Select a @3monster@0 that you wish to @3equip@0 with ""@3%s@0"".","Chọn 1 @3quái thú@0 để @3trang bị@0 ""@3%s@0"".",,"Chọn @3quái thú@0 để @3trang bị@0 ""@3%s@0"".",69,43,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|70|0,Designate @3monster(s)@0 that you wish to @3remove from play@0.,Chọn @3quái thú@0 mà bạn muốn @3loại bỏ@0.,,Chọn @3quái thú@0 muốn @3loại khỏi trận@0.,70,42,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|71|0,"Do you wish to place ""@3%s@0"" at the top of the @2Deck@0?","Bạn có muốn đặt ""@3%s@0"" lên đầu @2Deck@0 không?",,"Đặt ""@3%s@0"" lên đầu @2Bộ bài@0?",63,32,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|72|0,"Do you wish to pay @31000LP@0 to @3Special Summon@0 ""@3%s@0"" in your next @2Standby Phase@0?","Trả @31000LP@0 để @3Special Summon@0 ""@3%s@0"" vào @2Standby Phase@0 kế tiếp?",,"Trả @31000LP@0 để @3Triệu hồi Đặc biệt@0 ""@3%s@0"" ở @2Giai đoạn Chờ@0 kế tiếp?",102,78,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|73|0,Select a @3Monster Card@0 from your @2hand@0.,Chọn 1 @3Monster Card@0 từ @2bài trên Hand@0.,,Chọn @3lá Quái thú@0 trên @2tay@0.,50,34,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|74|0,Select @21 @3Spell or Trap Card@0 from your @2hand@0.,Chọn @21 @3Spell hoặc Trap Card@0 từ @2bài trên Hand@0.,,Chọn @21 @3lá Phép/Bẫy@0 trên @2tay@0.,61,38,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|75|0,Select @2%d@0 @3Spell and/or Trap Cards@0 from your @2hand@0.,Chọn @2%d@0 @3Spell và/hoặc Trap Card@0 từ @2bài trên Hand@0.,,Chọn @2%d@0 @3lá Phép và/hoặc Bẫy@0 trên @2tay@0.,68,49,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|76|0,Select a @3monster@0 to be returned to the owner's @2Deck@0.,Chọn 1 @3quái thú@0 để trả về @2Deck@0 của Owner.,,Chọn @3quái thú@0 để trả về @2Bộ bài@0 của chủ bài.,67,51,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|77|0,Select a @3monster@0 to be returned to the owner's @2hand@0.,Chọn 1 @3quái thú@0 để trả về @2tay@0 Owner.,,Chọn @3quái thú@0 để trả về @2tay@0 của chủ bài.,67,48,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|78|0,Select a @3card@0 to be returned the owner's @2Deck@0.,Chọn 1 @3lá bài@0 để trả về @2Deck@0 của Owner.,,Chọn @3lá bài@0 để trả về @2Bộ bài@0 của chủ bài.,60,49,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|79|0,Do you wish to @3remove from play@0 a @3monster@0 from your opponent's @2Graveyard@0?,Bạn có muốn @3loại bỏ@0 1 @3quái thú@0 trong @2Graveyard@0 của Opponent không?,,@3Loại khỏi trận@0 @3quái thú@0 trong @2Mộ@0 đối thủ?,94,53,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|80|0,Select a @3monster@0 to @3remove@0 from your field.,Chọn 1 @3quái thú@0 trên Field của bạn để @3loại bỏ@0.,,Chọn @3quái thú@0 trên Sân của bạn để @3loại bỏ@0.,60,50,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|81|0,Select the @3monster@0 in your opponent's @2Graveyard@0 that you wish to @3remove from play@0.,Chọn @3quái thú@0 trong @2Graveyard@0 của Opponent mà bạn muốn @3loại bỏ@0.,,Chọn @3quái thú@0 trong @2Mộ@0 đối thủ để @3loại khỏi trận@0.,104,61,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|82|0,You may @3surrender@0 starting from the @210th@0 turn.,Bạn có thể @3đầu hàng@0 từ lượt thứ @210@0 trở đi.,,Bạn có thể @3đầu hàng@0 từ lượt @210th@0.,60,41,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|83|0,Do you wish to send another @3card@0 to the @2Graveyard@0?,Bạn có muốn đưa thêm 1 @3lá bài@0 vào @2Graveyard@0 không?,,Đưa thêm @3lá bài@0 vào @2Mộ@0?,64,31,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|84|0,Do you wish to @3remove@0 another @3card@0 from the @2Graveyard@0?,Bạn có muốn @3loại bỏ@0 thêm 1 @3lá bài@0 khỏi @2Graveyard@0 không?,,@3loại bỏ@0 thêm @3lá bài@0 khỏi @2Mộ@0?,74,40,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|85|0,Do you wish to @3remove@0 a @3card@0 from the @2Graveyard@0?,Bạn có muốn @3loại bỏ@0 1 @3lá bài@0 khỏi @2Graveyard@0 không?,,@3loại bỏ@0 @3lá bài@0 khỏi @2Mộ@0?,69,35,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|86|0,Select a @3card@0 from the list that you wish to @3remove@0 from the @2Graveyard@0.,Chọn 1 @3lá bài@0 trong danh sách để @3loại bỏ@0 khỏi @2Graveyard@0.,,Chọn @3lá bài@0 trong danh sách để @3loại bỏ@0 khỏi @2Mộ@0.,92,59,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|87|0,Select one of your opponent's @3face-up Monster Cards@0 that you wish to change position.,Chọn 1 @3Monster Card face-up@0 của Opponent mà bạn muốn đổi vị trí.,,Chọn @3lá Quái thú ngửa@0 của đối thủ để đổi tư thế.,98,52,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|88|0,Select a @3card@0 that you wish to add to your @2hand@0.,Chọn 1 @3lá bài@0 mà bạn muốn thêm lên @2tay@0.,,Chọn @3lá bài@0 để thêm lên @2tay@0.,62,36,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|89|0,Do you wish to @3Special Summon@0 a @3Fusion-Material Monster@0 to the Field?,Bạn có muốn @3Special Summon@0 1 @3Fusion-Material Monster@0 lên Field không?,,@3Triệu hồi Đặc biệt@0 @3quái thú Nguyên liệu Dung hợp@0 lên Sân?,85,65,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|90|0,Select from the list @3removed@0 @3card(s)@0 that you wish to return to the @2Graveyard@0.,Chọn @3lá bài@0 đã @3bị Banish@0 trong danh sách để trả về @2Graveyard@0.,,Chọn @3lá bài@0 đã @3loại khỏi trận@0 để trả về @2Mộ@0.,100,55,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|91|0,Select from the list a @3Fusion Monster@0 that you wish to @3Special Summon@0.,Chọn 1 @3Fusion Monster@0 trong danh sách để @3Special Summon@0.,,Chọn @3quái thú Dung hợp@0 muốn @3Triệu hồi Đặc biệt@0.,86,55,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|92|0,Select @3monsters@0 that you wish to use as @3Fusion Material@0.,Chọn @3quái thú@0 để làm @3Fusion Material@0.,,Chọn @3quái thú@0 làm @3Nguyên liệu Dung hợp@0.,71,47,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|93|0,Select another @3card@0?,Chọn thêm 1 @3lá bài@0 nữa?,,Chọn thêm @3lá bài@0?,30,21,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|94|0,Select a @3card@0 from the list that you wish to designate as a target.,Chọn 1 @3lá bài@0 trong danh sách làm Target.,,Chọn @3lá bài@0 trong danh sách làm mục tiêu.,79,45,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|95|0,Designate the @3Trap Card@0 that you wish to @3destroy@0.,Chọn @3Trap Card@0 mà bạn muốn @3Destroy@0.,,Chọn @3lá Bẫy@0 muốn @3phá hủy@0.,63,33,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|96|0,"Select ""@3%s@0"" in your @2hand@0.","Chọn ""@3%s@0"" trên @2tay@0 bạn.",,"Chọn ""@3%s@0"" trên @2tay@0.",37,27,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|97|0,Designate the opponent's @3Monster Card@0 that you want returned to the opponent's @2hand@0.,Chọn @3Monster Card@0 của Opponent mà bạn muốn trả về @2tay@0 Opponent.,,Chọn @3lá Quái thú@0 đối thủ để trả về @2tay@0 của họ.,102,54,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|98|0,Designate the opponent's @3Monster Card@0 that you wish to @3destroy@0.,Chọn @3Monster Card@0 của Opponent mà bạn muốn @3Destroy@0.,,Chọn @3lá Quái thú@0 đối thủ muốn @3phá hủy@0.,79,46,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|99|0,Designate the opponent's @3monster@0 that you wish to absorb.,Chọn @3quái thú@0 của Opponent mà bạn muốn hấp thụ.,,Chọn @3quái thú@0 đối thủ muốn hấp thụ.,68,39,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|100|0,Designate the opponent's @3monster@0 that you wish to designate as a target.,Chọn @3quái thú@0 của Opponent làm Target.,,Chọn @3quái thú@0 đối thủ làm mục tiêu.,84,39,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|101|0,Designate the @3monster@0 that you wish to @3equip@0.,Chọn @3quái thú@0 mà bạn muốn @3trang bị@0.,,Chọn @3quái thú@0 muốn @3trang bị@0.,59,36,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|102|0,Designate the opponent's @3monster@0 that you want in @3attack position@0.,Chọn @3quái thú@0 của Opponent mà bạn muốn chuyển sang @3Attack Position@0.,,Chọn @3quái thú@0 đối thủ để chuyển sang @3Tư thế Công@0.,83,57,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|103|0,Whose Life Points do you wish to @3recover@0?,Bạn muốn @3hồi phục@0 Life Points của ai?,,Bạn muốn @3hồi@0 LP cho ai?,50,27,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|104|0,Do you wish to @3destroy@0 a @3monster@0?,Bạn có muốn @3Destroy@0 1 @3quái thú@0 không?,,@3phá hủy@0 @3quái thú@0?,50,25,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|105|0,Designate a @3monster@0 with an @3ATK@0 of @21000@0 or below to @3destroy@0.,Chọn 1 @3quái thú@0 có @3ATK@0 từ @21000@0 trở xuống để @3Destroy@0.,,Chọn @3quái thú@0 có @3ATK@0 tối đa @21000@0 để @3phá hủy@0.,84,60,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|106|0,Select @21@0 more @3monster@0 to @3destroy@0.,Chọn thêm @21@0 @3quái thú@0 để @3Destroy@0.,,Chọn thêm @21@0 @3quái thú@0 để @3phá hủy@0.,50,44,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|107|0,Designate the @3Spell Card@0 that you wish to @3destroy@0.,Chọn @3Spell Card@0 mà bạn muốn @3Destroy@0.,,Chọn @3lá Phép@0 muốn @3phá hủy@0.,64,34,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|108|0,Designate the @3%s-Type monster@0 that you wish to @3destroy@0.,Chọn @3quái thú %s-Type@0 mà bạn muốn @3Destroy@0.,,Chọn @3quái thú Tộc %s@0 để @3phá hủy@0.,70,40,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|109|0,Designate a @3monster@0 that you wish to @3destroy@0.,Chọn 1 @3quái thú@0 mà bạn muốn @3Destroy@0.,,Chọn @3quái thú@0 muốn @3phá hủy@0.,59,35,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|110|0,Designate the @3monster@0 that you wish to have returned to the owner's @2hand@0.,Chọn @3quái thú@0 mà bạn muốn trả về @2tay@0 Owner.,,Chọn @3quái thú@0 để trả về @2tay@0 của chủ bài.,90,48,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|111|0,Designate @21 @3monster@0.,Chọn @21 @3quái thú@0.,,Chọn @21 @3quái thú@0.,29,22,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|112|0,Designate @21@0 of your opponent's face-down @3cards@0 that you wish to target.,Chọn @21@0 @3lá bài@0 Face-down của Opponent làm Target.,,Chọn @21@0 @3lá bài@0 úp của đối thủ làm mục tiêu.,87,50,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|113|0,Select @2%d @3Spell and/or Trap Cards@0 to @3destroy@0.,Chọn @2%d @3Spell và/hoặc Trap Card@0 để @3Destroy@0.,,Chọn @2%d @3lá Phép và/hoặc Bẫy@0 để @3phá hủy@0.,61,49,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|114|0,"@3Summon@0 ""@3%s@0"" without an offering?","@3Summon@0 ""@3%s@0"" mà không cần Tribute?",,"@3Triệu hồi@0 ""@3%s@0"" mà không Hiến tế?",46,40,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|115|0,Do you wish to return the @3monster@0 to the owner's @2hand@0?,Trả @3quái thú@0 về @2tay@0 Owner?,,Trả @3quái thú@0 về @2tay@0 của chủ bài?,69,40,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|116|0,Offer as many @3monsters@0 as you wish.,Tribute bao nhiêu @3quái thú@0 tùy ý.,,Hiến tế bao nhiêu @3quái thú@0 tùy ý.,43,37,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|117|0,Do you wish to return another @3monster@0 to the owner's @2hand@0?,Trả thêm 1 @3quái thú@0 về @2tay@0 Owner?,,Trả thêm @3quái thú@0 về @2tay@0 của chủ bài?,73,45,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|118|0,Designate one of your opponent's @3monsters@0 that you wish to switch @3controls@0 with.,Chọn 1 @3quái thú@0 của Opponent để đổi @3quyền Control@0.,,Chọn @3quái thú@0 đối thủ để đổi @3quyền điều khiển@0.,97,54,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|119|0,Designate one of your opponent's @3monsters@0 that you wish to @3control@0.,Chọn 1 @3quái thú@0 của Opponent mà bạn muốn @3điều khiển@0.,,Chọn @3quái thú@0 đối thủ muốn @3điều khiển@0.,83,46,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|120|0,Designate one of your opponent's @3face-up monsters@0 that you wish to @3control@0.,Chọn 1 @3quái thú face-up@0 của Opponent mà bạn muốn @3điều khiển@0.,,Chọn @3quái thú ngửa@0 đối thủ muốn @3điều khiển@0.,92,51,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|121|0,Designate one of your own @3monsters@0 that you wish to @3equip@0.,Chọn 1 @3quái thú@0 của bạn mà bạn muốn @3trang bị@0.,,Chọn @3quái thú@0 của bạn để @3trang bị@0.,73,42,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|122|0,Designate one @3face-down Defense Position monster@0 that you wish to @3destroy@0.,Chọn 1 @3quái thú face-down Defense Position@0 mà bạn muốn @3Destroy@0.,,Chọn @3quái thú Thủ úp@0 muốn @3phá hủy@0.,91,42,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|123|0,Designate one of your own @3monsters@0 that you wish to @3destroy@0.,Chọn 1 @3quái thú@0 của bạn mà bạn muốn @3Destroy@0.,,Chọn @3quái thú@0 của bạn muốn @3phá hủy@0.,75,43,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|124|0,Designate one of your @3monsters@0.,Chọn 1 @3quái thú@0 của bạn.,,Chọn @3quái thú@0 của bạn.,39,26,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|125|0,Designate one of your @3monsters@0 that you wish to recall.,Chọn 1 @3quái thú@0 của bạn mà bạn muốn thu hồi.,,Chọn @3quái thú@0 của bạn muốn thu hồi.,65,39,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|126|0,Designate one of your @3monsters@0 that you wish to @3remove from play@0.,Chọn 1 @3quái thú@0 của bạn mà bạn muốn @3loại bỏ@0.,,Chọn @3quái thú@0 của bạn để @3loại khỏi trận@0.,81,48,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|127|0,Which do you wish to increase?,Bạn muốn tăng chỉ số nào?,,Bạn muốn tăng chỉ số nào?,34,25,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|128|0,Select an opponent's @3monster@0 that you wish to replace as target for the @3attack@0.,Chọn @3quái thú@0 của Opponent thay thế làm Target của @3đòn Attack@0.,,Chọn @3quái thú@0 đối thủ làm mục tiêu @3tấn công@0 mới.,96,56,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|129|0,Select a parameter.,Chọn 1 chỉ số.,,Chọn một chỉ số.,21,16,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|130|0,Designate the @21st@0 of your @3monsters@0.,Chọn @3quái thú@0 thứ @21@0 của bạn.,,Chọn @3quái thú@0 thứ @21@0 của bạn.,48,36,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|131|0,Designate the @22nd@0 of your @3monsters@0.,Chọn @3quái thú@0 thứ @22@0 của bạn.,,Chọn @3quái thú@0 thứ @22@0 của bạn.,48,36,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|132|0,Designate the opponent's @3monster@0 that you wish to @3destroy@0.,Chọn @3quái thú@0 của Opponent mà bạn muốn @3Destroy@0.,,Chọn @3quái thú@0 đối thủ muốn @3phá hủy@0.,73,43,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|133|0,Designate the @3monster@0 that you wish to increase @3ATK@0.,Chọn @3quái thú@0 mà bạn muốn tăng @3ATK@0.,,Chọn @3quái thú@0 muốn tăng @3ATK@0.,67,36,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|134|0,Designate the @3monster@0 that you wish to increase @3DEF@0.,Chọn @3quái thú@0 mà bạn muốn tăng @3DEF@0.,,Chọn @3quái thú@0 muốn tăng @3DEF@0.,67,36,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|135|0,Designate the @3monster@0 that you wish to decrease @3DEF@0.,Chọn @3quái thú@0 mà bạn muốn giảm @3DEF@0.,,Chọn @3quái thú@0 muốn giảm @3DEF@0.,67,36,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|136|0,Designate one of your opponent's @3monsters@0 that you wish to place in @3Defense Position@0.,Chọn 1 @3quái thú@0 của Opponent mà bạn muốn chuyển sang @3Defense Position@0.,,Chọn @3quái thú@0 đối thủ để chuyển sang @3Tư thế Thủ@0.,103,56,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|137|0,Designate a @3monster@0 that you wish to position @3face-down@0.,Chọn 1 @3quái thú@0 mà bạn muốn Face-down xuống (@3face-down@0).,,Chọn @3quái thú@0 muốn đặt @3úp@0.,71,34,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|138|0,"Designate a @3card@0 to switch places as target for ""@3%s@0"".","Chọn 1 @3lá bài@0 để đổi vị trí làm Target của ""@3%s@0"".",,"Chọn @3lá bài@0 làm mục tiêu chuyển vị trí cho ""@3%s@0"".",68,56,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|139|0,Designate the @3Equip Card@0 that you wish to switch over.,Chọn @3Equip Card@0 mà bạn muốn chuyển sang quái khác.,,Chọn @3lá Trang bị@0 muốn chuyển sang lá khác.,64,46,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|140|0,"Designate the @3monster@0 that you wish to switch over ""@3%s@0"".","Chọn @3quái thú@0 mà bạn muốn chuyển ""@3%s@0"" sang.",,"Chọn @3quái thú@0 để chuyển ""@3%s@0"" sang.",71,42,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|141|0,Designate a @3Spell or Trap Card@0 that you wish to @3destroy@0.,Chọn 1 @3Spell hoặc Trap Card@0 mà bạn muốn @3Destroy@0.,,Chọn @3lá Phép/Bẫy@0 muốn @3phá hủy@0.,71,38,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|142|0,Designate an opponent's @3Spell or Trap Card@0 that you wish to @3destroy@0.,Chọn 1 @3Spell hoặc Trap Card@0 của Opponent mà bạn muốn @3Destroy@0.,,Chọn @3lá Phép/Bẫy@0 của đối thủ để @3phá hủy@0.,84,48,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|143|0,Designate a @3face-down monster@0 that you wish to @3remove from play@0.,Chọn 1 @3quái thú face-down@0 mà bạn muốn @3loại bỏ@0.,,Chọn @3quái thú úp@0 muốn @3loại khỏi trận@0.,80,45,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|144|0,Designate a @3face-down Spell or Trap Card@0 that you wish to @3remove from play@0.,Chọn 1 @3Spell hoặc Trap Card face-down@0 mà bạn muốn @3loại bỏ@0.,,Chọn @3lá Phép/Bẫy úp@0 muốn @3loại khỏi trận@0.,92,48,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|145|0,Declare @21@0 @3card@0 name.,Hãy đoán tên của @21@0 @3lá bài@0.,,Đoán tên @21@0 @3lá bài@0.,38,26,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|146|0,Designate the @3monster@0 that you wish to reduce @3ATK@0 by half.,Chọn @3quái thú@0 mà bạn muốn giảm một nửa @3ATK@0.,,Chọn @3quái thú@0 để giảm nửa @3ATK@0.,73,38,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|147|0,Designate the @3monster@0 that you wish to increase @3ATK@0.,Chọn @3quái thú@0 mà bạn muốn tăng @3ATK@0.,,Chọn @3quái thú@0 muốn tăng @3ATK@0.,67,36,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|148|0,Designate the opponent's @3monster@0 that you wish to @3destroy@0.,Chọn @3quái thú@0 của Opponent mà bạn muốn @3Destroy@0.,,Chọn @3quái thú@0 của đối thủ để @3phá hủy@0.,73,45,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|149|0,Designate which one of your @3monsters@0 that you wish to surrender @3control@0 to your opponent.,Chọn 1 @3quái thú@0 của bạn để nhường @3quyền Control@0 cho Opponent.,,Chọn @3quái thú@0 của bạn để nhường @3quyền điều khiển@0 cho đối thủ.,107,69,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|150|0,Designate which one of your opponent's @3monsters@0 that you wish to offer as @3Tribute@0.,Chọn 1 @3quái thú@0 của Opponent để dùng làm @3Tribute@0.,,Chọn @3quái thú@0 đối thủ làm @3Hiến tế@0.,100,42,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|151|0,"Designate one @3face-up@0 ""@3%s@0"" or @3%s-Type monster@0 on your Field.","Chọn 1 ""@3%s@0"" @3face-up@0 hoặc @3quái thú %s-Type@0 trên Field của bạn.",,"Chọn ""@3%s@0"" @3ngửa@0 hoặc @3quái thú Tộc %s@0 trên Sân.",81,57,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|152|0,Select an opponent's @3%s-Type monster@0 that you wish to @3control@0.,Chọn 1 @3quái thú %s-Type@0 của Opponent mà bạn muốn @3điều khiển@0.,,Chọn @3quái thú Tộc %s@0 của đối thủ để @3điều khiển@0.,78,55,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|153|0,"Select the ""@3%s@0"" that you wish to designate as an @3attack@0 target.","Chọn ""@3%s@0"" làm Target @3tấn công@0.",,"Chọn ""@3%s@0"" làm mục tiêu @3tấn công@0.",79,40,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|154|0,An @3attack@0 target was selected.,Đã chọn xong Target @3tấn công@0.,,Đã chọn mục tiêu @3tấn công@0.,38,30,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|155|0,Select @2Monster Card Zones@0 to render unusable.,Chọn @2Monster Zone@0 để khóa lại.,,Chọn @2Ô Quái thú@0 muốn khóa.,54,30,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|156|0,"If the conditions are met, you may @3activate@0 it from the @2Graveyard@0.","Nếu đủ Condition, bạn có thể @3Activate@0 nó từ @2Graveyard@0.",,"Nếu đủ điều kiện, có thể @3kích hoạt@0 nó từ @2Mộ@0.",82,52,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|157|0,Designate one of your opponent's @3Monster Cards@0 that you wish to flip @3face-up@0.,Chọn 1 @3Monster Card@0 của Opponent mà bạn muốn lật @3face-up@0.,,Chọn @3lá Quái thú@0 của đối thủ muốn lật @3ngửa@0.,94,51,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|158|0,Designate the @3Spell Card@0 that you wish to place the Mask on.,Chọn @3Spell Card@0 mà bạn muốn đặt Mask lên.,,Chọn @3lá Phép@0 muốn đặt mặt nạ lên.,71,37,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|159|0,You @3Set@0 a @3Spell or Trap Card@0.,Bạn đã @3Set@0 1 @3Spell hoặc Trap Card@0.,,Bạn đã @3Đặt úp@0 một @3lá Phép/Bẫy@0.,47,38,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|160|0,Your opponent @3Set@0 a @3Spell or Trap Card@0.,Opponent đã @3Set@0 1 @3Spell hoặc Trap Card@0.,,Đối thủ đã @3Đặt úp@0 một @3lá Phép/Bẫy@0.,52,42,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|161|0,Select @2%d @3Spell and/or Trap Card(s)@0 to return to the owner's @2hand@0.,Chọn @2%d @3Spell và/hoặc Trap Card@0 để trả về @2tay@0 Owner.,,Chọn @2%d @3lá Phép và/hoặc Bẫy@0 để trả về @2tay@0 chủ bài.,84,60,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|162|0,"If the conditions are met, you may @3activate@0 it from the @2Deck@0.","Nếu đủ Condition, bạn có thể @3Activate@0 nó từ @2Deck@0.",,"Nếu đủ điều kiện, có thể @3kích hoạt@0 nó từ @2Bộ bài@0.",76,56,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|163|0,Select one of your opponent's @3monsters@0 that you wish to have @3attack@0 in place of the current attacker.,Chọn 1 @3quái thú@0 của Opponent để @3tấn công@0 thay cho quái đang Attack.,,Chọn @3quái thú@0 đối thủ để @3tấn công@0 thay quái đang tấn công.,120,66,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|164|0,Select the number of @3monsters@0 to @3remove@0 from the @2Graveyard@0.,Chọn số @3quái thú@0 cần @3loại bỏ@0 khỏi @2Graveyard@0.,,Chọn số @3quái thú@0 muốn @3loại bỏ@0 khỏi @2Mộ@0.,79,50,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|165|0,@2%d@0 remaining.,Còn lại @2%d@0.,,Còn @2%d@0.,19,11,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|166|0,Designate your opponent's @3Spell or Trap Card@0 that you wish returned to the owner's @2hand@0.,Chọn @3Spell hoặc Trap Card@0 của Opponent mà bạn muốn trả về @2tay@0 Owner.,,Chọn @3lá Phép/Bẫy@0 đối thủ để trả về @2tay@0 chủ bài.,106,55,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|167|0,Select the @3Trap Card@0 that you wish to @3activate by force@0.,Chọn @3Trap Card@0 mà bạn muốn @3buộc Activate@0.,,Chọn @3lá Bẫy@0 muốn @3buộc kích hoạt@0.,71,40,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|168|0,Designate the @3Fusion Monster@0 that you wish to have returned to the owner's @2Deck@0.,Chọn @3Fusion Monster@0 mà bạn muốn trả về @2Deck@0 Owner.,,Chọn @3quái thú Dung hợp@0 để trả về @2Bộ bài@0 chủ bài.,97,56,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|169|0,You @3Summoned@0 a @3monster@0.,Bạn đã @3Summon@0 1 @3quái thú@0.,,Bạn đã @3Triệu hồi@0 @3quái thú@0.,37,34,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|170|0,Your opponent @3Summoned@0 a @3monster@0.,Opponent đã @3Summon@0 1 @3quái thú@0.,,Đối thủ đã @3Triệu hồi@0 @3quái thú@0.,46,38,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|171|0,You @3Flip Summoned@0 a @3monster@0.,Bạn đã @3Flip Summon@0 1 @3quái thú@0.,,Bạn đã @3Triệu hồi Lật@0 @3quái thú@0.,42,38,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|172|0,Your opponent @3Flip Summoned@0 a @3monster@0.,Opponent đã @3Flip Summon@0 1 @3quái thú@0.,,Đối thủ đã @3Triệu hồi Lật@0 @3quái thú@0.,51,42,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|173|0,You @3Special Summoned@0 a @3monster@0.,Bạn đã @3Special Summon@0 1 @3quái thú@0.,,Bạn đã @3Triệu hồi Đặc biệt@0 @3quái thú@0.,46,43,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|174|0,Your opponent @3Special Summoned@0 a @3monster@0.,Opponent đã @3Special Summon@0 1 @3quái thú@0.,,Đối thủ đã @3Triệu hồi Đặc biệt@0 @3quái thú@0.,54,47,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|175|0,You @3Set@0 a @3monster@0.,Bạn đã @3Set@0 1 @3quái thú@0.,,Bạn đã @3Đặt úp@0 @3quái thú@0.,34,31,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|176|0,Your opponent @3Set@0 a @3monster@0.,Opponent đã @3Set@0 1 @3quái thú@0.,,Đối thủ đã @3Đặt úp@0 @3quái thú@0.,40,35,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|177|0,Entered @2Damage Step@0.,Vào @2Damage Step@0.,,Đã vào @2Bước Sát thương@0.,27,27,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|178|0,@3Monster@0's positioning has been changed.,Đã đổi vị trí của @3quái thú@0.,,Đã đổi tư thế @3quái thú@0.,48,27,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|179|0,A @3monster@0 has been flipped @3face-up@0.,Một @3quái thú@0 đã được lật @3face-up@0.,,@3Quái thú@0 đã được lật @3ngửa@0.,48,34,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|180|0,A @3monster@0's @3control@0 has been switched over.,@3Quyền Control@0 một @3quái thú@0 đã bị đổi.,,@3Quyền điều khiển@0 @3quái thú@0 đã đổi.,57,41,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|181|0,It is the @2Battle Step@0.,Đây là @2Battle Step@0.,,Đang ở @2Bước Chiến đấu@0.,29,26,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|182|0,You have declared @3battle@0.,Bạn đã tuyên bố @3chiến đấu@0.,,Bạn đã tuyên bố @3chiến đấu@0.,34,30,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|183|0,Your opponent has declared @3battle@0.,Opponent đã tuyên bố @3chiến đấu@0.,,Đối thủ đã tuyên bố @3chiến đấu@0.,42,34,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|184|0,@3Monster destroyed@0 as a result of battle.,@3Quái thú bị Destroy@0 do chiến đấu.,,@3Quái thú bị phá hủy@0 trong chiến đấu.,49,40,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|185|0,You have suffered @3damage@0 as a result of battle.,Bạn đã nhận @3sát thương@0 từ chiến đấu.,,Bạn chịu @3sát thương@0 chiến đấu.,57,34,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|186|0,You have delivered @3damage@0 to your opponent as a result of battle.,Bạn đã gây @3sát thương@0 lên Opponent qua chiến đấu.,,Bạn gây @3sát thương@0 chiến đấu lên đối thủ.,76,45,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|187|0,You have received @3deflected damage@0 as a result of battle.,Bạn nhận @3sát thương phản hồi@0 từ chiến đấu.,,Bạn chịu @3sát thương phản hồi@0 trong chiến đấu.,68,49,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|188|0,Your opponent has received @3deflected damage@0 as a result of battle.,Opponent nhận @3sát thương phản hồi@0 từ chiến đấu.,,Đối thủ chịu @3sát thương phản hồi@0 trong chiến đấu.,78,53,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|189|0,You have received @3damage@0.,Bạn đã nhận @3sát thương@0.,,Bạn chịu @3sát thương@0.,32,24,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|190|0,You have @3damaged@0 your opponent.,Bạn đã gây @3sát thương@0 cho Opponent.,,Bạn gây @3sát thương@0 cho đối thủ.,43,35,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|191|0,@3Spell Card destroyed@0.,@3Spell Card bị Destroy@0.,,@3Lá Phép bị phá hủy@0.,29,23,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|192|0,@3Trap Card destroyed@0.,@3Trap Card bị Destroy@0.,,@3Lá Bẫy bị phá hủy@0.,28,22,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|193|0,A @3Continuous Trap Card@0 has been @3played@0.,Một @3Continuous Trap Card@0 đã được @3sử dụng@0.,,@3lá Bẫy Liên tục@0 đã được @3sử dụng@0.,54,40,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|194|0,A @3Continuous Spell Card@0 has been @3played@0.,Một @3Continuous Spell Card@0 đã được @3sử dụng@0.,,@3lá Phép Liên tục@0 đã được @3sử dụng@0.,56,41,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|195|0,A @3Field Spell Card@0 has been @3played@0.,Một @3Field Spell Card@0 đã được @3sử dụng@0.,,@3Phép Môi trường@0 đã được @3sử dụng@0.,50,40,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|196|0,A @3monster@0 has been @3equipped@0 with an @3Equip Card@0.,Một @3quái thú@0 đã được @3trang bị@0 @3Equip Card@0.,,@3Quái thú@0 được @3trang bị@0 @3lá Trang bị@0.,65,47,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|197|0,You @3drew@0 @3card(s)@0.,Bạn đã @3rút@0 @3bài@0.,,Bạn đã @3rút@0 @3lá bài@0.,28,26,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|198|0,Your opponent @3drew@0 @3card(s)@0.,Opponent đã @3rút@0 @3bài@0.,,Đối thủ đã @3rút@0 @3lá bài@0.,39,30,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|199|0,A @3card@0 on the Field has been returned to the @2hand@0.,Một @3lá bài@0 trên Field đã trả về @2tay@0.,,@3Lá bài@0 trên Sân đã trả về @2tay@0.,64,38,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|200|0,The @3card(s)@0 has been sent from the @2Deck@0 to the @2Graveyard@0.,@3Lá bài@0 đã được đưa từ @2Deck@0 vào @2Graveyard@0.,,@3Lá bài@0 từ @2Bộ bài@0 đã vào @2Mộ@0.,76,39,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|201|0,You have discarded from your @2hand@0.,Bạn đã bỏ bài trên @2tay@0.,,Bạn đã bỏ bài từ @2tay@0.,42,25,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|202|0,Your opponent has discarded his/her @2hand@0.,Opponent đã bỏ bài trên @2tay@0.,,Đối thủ đã bỏ bài từ @2tay@0.,50,29,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|203|0,The @3card(s)@0 has/have been sent to the @2Graveyard@0.,@3Lá bài@0 đã được đưa vào @2Graveyard@0.,,@3Lá bài@0 đã được đưa vào @2Mộ@0.,62,34,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|204|0,There is no @3card@0 that can be @3activated@0 during this time.,Không có @3lá bài@0 nào có thể @3Activate@0 lúc này.,,Không có @3lá bài@0 nào @3kích hoạt@0 được lúc này.,71,51,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|205|0,There is no @3card@0 that can be @3activated@0 by a @3chain@0.,Không có @3lá bài@0 nào có thể @3Activate@0 bằng @3chain@0.,,Không có @3lá bài@0 nào @3kích hoạt@0 để nối @3Chuỗi@0.,69,55,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|206|0,Will you check the Field?,Bạn có muốn kiểm tra Field đầu không?,,Bạn muốn xem Sân?,41,17,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|207|0,Please offer the necessary @3monsters@0 to match the required number of stars.,Hãy Tribute đủ @3quái thú@0 để đáp ứng số sao cần thiết.,,Hiến tế đủ @3quái thú@0 theo số sao yêu cầu.,86,44,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|208|0,"Do you wish to return ""@3%s@0"" from the @2Graveyard@0 to your @2hand@0?","Trả ""@3%s@0"" từ @2Graveyard@0 về @2tay@0?",,"Trả ""@3%s@0"" từ @2Mộ@0 lên @2tay@0?",79,35,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|209|0,"To @3Special Summon@0 ""@3%s@0"", select ""@3%s@0"" as @3Tribute@0.","Để @3Special Summon@0 ""@3%s@0"", hãy chọn ""@3%s@0"" làm @3Tribute@0.",,"Để @3Triệu hồi Đặc biệt@0 ""@3%s@0"", chọn ""@3%s@0"" làm @3Hiến tế@0.",73,66,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|210|0,"@3Tribute@0 ""@3%s@0"" from the Field.","@3Tribute@0 ""@3%s@0"" từ Field đầu.",,"@3Hiến tế@0 ""@3%s@0"" trên Sân.",40,30,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|211|0,"@3Tribute@0 ""@3%s@0"" from either the Field or your @2hand@0.","@3Tribute@0 ""@3%s@0"" từ Field đầu hoặc @2tay@0.",,"@3Hiến tế@0 ""@3%s@0"" trên Sân hoặc từ @2tay@0.",67,46,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|212|0,"@3Tribute@0 ""@3%s@0"" from your @2hand@0.","@3Tribute@0 ""@3%s@0"" từ @2tay@0.",,"@3Hiến tế@0 ""@3%s@0"" từ @2tay@0.",45,32,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|213|0,"@3Tribute@0 ""@3%s@0"" from the Field.","@3Tribute@0 ""@3%s@0"" từ Field đầu.",,"@3Hiến tế@0 ""@3%s@0"" trên Sân.",40,30,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|214|0,Select from @2Graveyard@0 @2%d@0 @3%s-Type monster(s)@0 for @3removal from play@0.,Chọn @2%d@0 @3quái thú %s-Type@0 từ @2Graveyard@0 để @3loại bỏ@0.,,Chọn @2%d@0 @3quái thú Tộc %s@0 trong @2Mộ@0 để @3loại khỏi trận@0.,91,67,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|215|0,Select from @2Graveyard@0 @2%d@0 @3%s monster(s)@0 for @3removal from play@0.,Chọn @2%d@0 @3quái thú %s@0 từ @2Graveyard@0 để @3loại bỏ@0.,,Chọn @2%d@0 @3quái thú thuộc %s@0 trong @2Mộ@0 để @3loại khỏi trận@0.,85,69,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|216|0,Select from @2Graveyard@0 @3%s-Type monster(s)@0 for @3removal from play@0.,Chọn @3quái thú %s-Type@0 từ @2Graveyard@0 để @3loại bỏ@0.,,Chọn @3quái thú Tộc %s@0 trong @2Mộ@0 để @3loại khỏi trận@0.,83,60,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|217|0,Select from @2Graveyard@0 @3%s monster@0 for @3removal from play@0.,Chọn @3quái thú %s@0 từ @2Graveyard@0 để @3loại bỏ@0.,,Chọn @3quái thú thuộc %s@0 trong @2Mộ@0 để @3loại khỏi trận@0.,74,62,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|218|0,"Select from Field either ""@3%s@0"" or ""@3%s@0"" as @3Tribute@0.","Chọn ""@3%s@0"" hoặc ""@3%s@0"" trên Field làm @3Tribute@0.",,"Chọn ""@3%s@0"" hoặc ""@3%s@0"" trên Sân làm @3Hiến tế@0.",68,53,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|219|0,"Pay a @3Spell Counter@0 to keep ""@3%s@0"" on the Field?","Trả 1 @3Spell Counter@0 để giữ ""@3%s@0"" trên Field?",,"Dùng @3Bộ đếm Phép@0 để giữ ""@3%s@0"" trên Sân?",60,46,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|220|0,End your @2Battle Phase@0?,Kết thúc @2Battle Phase@0?,,Kết thúc @2GĐ Chiến đấu@0?,29,26,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|221|0,Will you start the 2nd @2Battle Phase@0?,Bắt đầu @2Battle Phase@0 thứ 2?,,Bắt đầu @2Giai đoạn Chiến đấu@0 thứ hai?,45,40,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|222|0,Select @3monster@0 as target for @3attack@0.,Chọn @3quái thú@0 làm Target @3tấn công@0.,,Chọn @3quái thú@0 làm mục tiêu @3tấn công@0.,49,44,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|223|0,Replay battle.\r\nContinue to @3attack@0?,Đánh lại trận đấu.\r\nTiếp tục @3tấn công@0?,,Đánh lại trận.\r\nTiếp tục @3tấn công@0?,47,40,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|224|0,Offer a card in order to @3attack@0 with this @3monster@0.,Tribute 1 lá bài để @3tấn công@0 bằng @3quái thú@0 này.,,Dùng lá bài để @3tấn công@0 bằng @3quái thú@0 này.,64,50,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|225|0,Will you @3directly attack@0 the player?,Bạn có muốn @3Direct Attack@0 người chơi không?,,@3tấn công trực tiếp@0 người chơi?,52,34,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|226|0,Do you wish to @3activate@0 this card's effect and select your opponent's @3monster@0 to substitute as the target?,Bạn có muốn @3Activate@0 Effect này và chọn @3quái thú@0 của Opponent làm Target thay thế không?,,@3kích hoạt@0 hiệu ứng để chọn @3quái thú@0 của đối thủ làm mục tiêu mới?,126,73,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|227|0,"You've suffered @3damage@0 from battle. Do you wish to reduce the @3damage@0 to @20@0 by discarding ""@3%s@0""?","Bạn đã nhận @3sát thương@0 từ chiến đấu. Bỏ ""@3%s@0"" để giảm @3sát thương@0 xuống @20@0?",,"Bạn chịu @3sát thương@0 chiến đấu. Bỏ ""@3%s@0"" để giảm @3sát thương@0 còn @20@0?",120,80,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|228|0,"Do you wish to pay @3500LP@0 and transfer @3control@0 of ""@3%s@0"" to your opponent?","Trả @3500LP@0 và chuyển @3quyền Control@0 ""@3%s@0"" cho Opponent?",,"Trả @3500LP@0 để chuyển @3quyền điều khiển@0 ""@3%s@0"" cho đối thủ?",92,66,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|230|0,You do not need to pay the cost for @3%s@0.\r\nPay the cost anyway?,Bạn không cần Pay Cost cho @3%s@0.\r\nVẫn Pay Cost chứ?,,Không cần trả phí cho @3%s@0.\r\nVẫn trả phí?,72,45,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|231|0,Select @2phase@0 to enter.,Chọn @2phase@0 để vào.,,Chọn @2giai đoạn@0 muốn vào.,29,28,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|232|0,"To maintain ""@3%s@0"" on the Field requires @3%dLP@0. Do you wish to pay the cost?","Để giữ ""@3%s@0"" trên Field cần @3%dLP@0. Bạn có muốn Pay Cost không?",,"Giữ ""@3%s@0"" trên Sân cần @3%dLP@0. Bạn muốn trả?",90,49,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|233|0,"To maintain ""@3%s@0"" on the Field requires @21 @3monster@0 as @3Tribute@0. Do you wish to offer a @3monster@0?","Để giữ ""@3%s@0"" trên Field cần @21 @3quái thú@0 làm @3Tribute@0. Bạn có muốn Tribute 1 @3quái thú@0 không?",,"Giữ ""@3%s@0"" cần @21 @3quái thú@0 làm @3Hiến tế@0. Hiến tế một @3quái thú@0?",122,76,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|234|0,"@2%d@0 turn(s) remaining before ""@3%s@0"" is @3destroyed@0.","Còn @2%d@0 lượt nữa trước khi ""@3%s@0"" bị @3Destroy@0.",,"Còn @2%d@0 lượt trước khi ""@3%s@0"" bị @3phá hủy@0.",64,50,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|235|0,Discard from your @2hand@0.,Bỏ bài trên @2tay@0.,,Bỏ bài từ @2tay@0.,30,18,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|236|0,"Level up ""@3%s@0""?","Lên cấp ""@3%s@0""?",,"Nâng Cấp ""@3%s@0""?",20,18,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|237|0,Select @3monster of Level 4 or below@0 to @3Set@0 on the Field.,Chọn @3quái thú Level 4 trở xuống@0 để @3Set@0 lên Field.,,Chọn @3quái thú Cấp 4 trở xuống@0 để @3Đặt úp@0.,70,48,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|238|0,"Will you discard @21@0 card from your @2hand@0 to maintain ""@3%s@0"" on the Field?","Bỏ @21@0 lá bài trên @2tay@0 để giữ ""@3%s@0"" trên Field?",,"Bỏ @21@0 lá từ @2tay@0 để giữ ""@3%s@0"" trên Sân?",90,48,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|239|0,Select a @3monster@0 from the list that you wish to @3Set@0 on the Field from the @2Graveyard@0.,Chọn 1 @3quái thú@0 trong danh sách để @3Set@0 lên Field từ @2Graveyard@0.,,Chọn @3quái thú@0 từ @2Mộ@0 để @3Đặt úp@0 lên Sân.,106,50,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|240|0,Select a @3monster@0 from the list that you wish to @3Special Summon@0 from the @2Graveyard@0.,Chọn 1 @3quái thú@0 trong danh sách để @3Special Summon@0 từ @2Graveyard@0.,,Chọn @3quái thú@0 từ @2Mộ@0 để @3Triệu hồi Đặc biệt@0.,104,54,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|241|0,Select @3Type@0.,Chọn @3Type@0.,,Chọn @3Tộc@0.,18,13,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|242|0,Select @3Attribute@0.,Chọn @3Attribute@0.,,Chọn @3Thuộc tính@0.,24,20,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|243|0,Select @21@0 @3card@0 from your @2hand@0.,Chọn @21@0 @3lá bài@0 từ @2tay@0 bạn.,,Chọn @21@0 @3lá bài@0 trên @2tay@0.,46,35,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|244|0,Select @21@0 @3card@0 from your opponent's @2hand@0.,Chọn @21@0 @3lá bài@0 từ @2tay@0 Opponent.,,Chọn @21@0 @3lá bài@0 trên @2tay@0 đối thủ.,58,43,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|245|0,Switch the order of your @3cards@0.,Opponent từ các @3lá bài@0.,,Sắp xếp lại thứ tự @3lá bài@0 của bạn.,39,38,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|246|0,Select one @3card@0 from the list.,Chọn 1 @3lá bài@0 trong danh sách.,,Chọn @3lá bài@0 trong danh sách.,38,32,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|247|0,Select position of card.,Chọn vị trí của lá bài.,,Chọn vị trí lá bài.,27,19,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|248|0,@3%s@0's effect was not @3activated@0.,Effect của @3%s@0 đã không được @3Activate@0.,,Hiệu ứng @3%s@0 không @3kích hoạt@0.,50,36,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|249|0,You can look through your opponent's @2Deck@0.,Bạn có thể xem @2Deck@0 của Opponent.,,Bạn có thể xem @2Bộ bài@0 đối thủ.,51,34,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|250|0,"@3Activate@0 the effect of ""@3%s@0""?","@3Activate@0 Effect của ""@3%s@0""?",,"@3Kích hoạt@0 hiệu ứng của ""@3%s@0""?",40,36,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|251|0,Your opponent is about to end his/her @2turn@0.,Opponent sắp kết thúc @2lượt@0.,,Đối thủ sắp kết thúc @2lượt@0.,52,30,SUA
+G_HOI_THOAI_DUEL_DLG_01.csv,dlg|252|0,You succeeded in @3Summoning@0 a @3monster@0.,Bạn đã @3Summon@0 thành công 1 @3quái thú@0.,,Bạn đã @3Triệu hồi@0 thành công @3quái thú@0.,50,45,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|253|0,Your opponent succeeded in @3Summoning@0 a @3monster@0.,Opponent đã @3Summon@0 thành công 1 @3quái thú@0.,,Đối thủ đã @3Triệu hồi@0 thành công @3quái thú@0.,61,49,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|254|0,You succeeded in @3Flip Summoning@0 a @3monster@0.,Bạn đã @3Flip Summon@0 thành công 1 @3quái thú@0.,,Bạn đã @3Triệu hồi Lật@0 thành công @3quái thú@0.,56,49,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|255|0,Your opponent succeeded in @3Flip Summoning@0 a @3monster@0.,Opponent đã @3Flip Summon@0 thành công 1 @3quái thú@0.,,Đối thủ đã @3Triệu hồi Lật@0 thành công @3quái thú@0.,67,53,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|256|0,You succeeded in @3Special Summoning@0 a @3monster@0.,Bạn đã @3Special Summon@0 thành công 1 @3quái thú@0.,,Bạn đã @3Triệu hồi Đặc biệt@0 thành công @3quái thú@0.,59,54,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|257|0,Your opponent succeeded in @3Special Summoning@0 a @3monster@0.,Opponent đã @3Special Summon@0 thành công 1 @3quái thú@0.,,Đối thủ đã @3Triệu hồi Đặc biệt@0 thành công @3quái thú@0.,70,58,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|258|0,It is your opponent's @2turn@0.,Đây là @2lượt@0 của Opponent.,,Đang là @2lượt@0 của đối thủ.,35,29,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|259|0,@3Activate@0 which effect?,@3Activate@0 Effect nào?,,@3Kích hoạt@0 hiệu ứng nào?,29,27,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|260|0,Select @3card@0 type.,Chọn loại @3lá bài@0.,,Chọn loại @3lá bài@0.,24,21,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|261|0,It is before @3damage application@0.,Trước khi @3tính sát thương@0.,,Trước khi @3tính sát thương@0.,40,30,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|262|0,You can look through your opponent's @2hand@0.,Bạn có thể xem @2bài trên Hand@0 của Opponent.,,Bạn có thể xem @2tay@0 đối thủ.,51,31,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|263|0,Missed your chance! Cannot @3activate@0 effect.,Lỡ mất cơ hội! Không thể @3Activate@0 Effect.,,Đã lỡ thời điểm! Không thể @3kích hoạt@0 hiệu ứng.,52,50,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|264|0,@3%s@0 was selected.,Đã chọn @3%s@0.,,Đã chọn @3%s@0.,23,15,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|265|0,Change the target of @3attack@0?,Đổi Target @3tấn công@0?,,Đổi mục tiêu @3tấn công@0?,36,26,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|266|0,It is before @3damage calculation@0.,Trước khi @3tính toán sát thương@0.,,Trước khi @3tính toán sát thương@0.,40,35,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|267|0,The @3card(s)@0 on the Field has/have been @3destroyed@0.,@3Lá bài@0 trên Field đã bị @3Destroy@0.,,@3Lá bài@0 trên Sân đã bị @3phá hủy@0.,63,38,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|268|0,The @3card(s)@0 has/have been sent to the @2Graveyard@0.,@3Lá bài@0 đã được đưa vào @2Graveyard@0.,,@3Lá bài@0 đã được đưa vào @2Mộ@0.,62,34,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|269|0,@3Activate@0 the effect of a @3card@0?,@3Activate@0 Effect của 1 @3lá bài@0?,,@3Kích hoạt@0 hiệu ứng @3lá bài@0?,42,34,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|270|0,Use the effect now?,Dùng Effect ngay bây giờ?,,Dùng hiệu ứng ngay?,28,19,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|271|0,A number of @3cards@0 can be selected as the target of the effect. Select one @3card@0.,Có nhiều @3lá bài@0 có thể làm Target. Hãy chọn 1 @3lá bài@0.,,Có nhiều @3lá bài@0 có thể làm mục tiêu. Chọn một @3lá bài@0.,96,61,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|272|0,Your opponent's @2Battle Phase@0 will soon end.,@2Battle Phase@0 của Opponent sắp kết thúc.,,@2Giai đoạn Chiến đấu@0 đối thủ sắp kết thúc.,52,45,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|273|0,Select a @3monster@0 in @3face-down@0 Position.,Chọn 1 @3quái thú@0 ở vị trí @3face-down@0.,,Chọn @3quái thú@0 ở tư thế @3úp@0.,52,34,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|274|0,Select a target @3card@0 from the Field.,Chọn 1 @3lá bài@0 Target trên Field.,,Chọn @3lá bài@0 làm mục tiêu trên Sân.,45,38,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|275|0,Select a @3face-up %s monster@0 to return to the owner's @2hand@0 from the Field.,Chọn 1 @3quái thú %s face-up@0 trên Field để trả về @2tay@0 Owner.,,Chọn @3quái thú ngửa thuộc %s@0 trên Sân để trả về @2tay@0 chủ bài.,90,67,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|276|0,Select effect to @3activate@0.,Chọn Effect để @3Activate@0.,,Chọn hiệu ứng muốn @3kích hoạt@0.,34,33,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|277|0,"To keep ""@3%s@0"" on the field, you must send one @3card@0 from your @2hand@0 to the @2Graveyard@0. Ok?","Để giữ ""@3%s@0"" trên Field, bạn phải đưa 1 @3lá bài@0 từ @2tay@0 vào @2Graveyard@0. Đồng ý?",,"Để giữ ""@3%s@0"" trên Sân, đưa một @3lá bài@0 từ @2tay@0 vào @2Mộ@0. Đồng ý?",113,75,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|278|0,Select @2%d@0 @3card(s)@0 as target(s).,Chọn @2%d@0 @3lá bài@0 làm Target.,,Chọn @2%d@0 @3lá bài@0 làm mục tiêu.,43,36,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|279|0,Select @2Deck@0 to shuffle.,Chọn @2Deck@0 để Shuffle trộn.,,Chọn @2Bộ bài@0 để xáo.,34,23,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|280|0,Declare @3monster@0 level.,Hãy chọn level của @3quái thú@0.,,Chọn Cấp của @3quái thú@0.,36,26,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|281|0,Designate @3card@0 to @3destroy@0.,Chọn @3lá bài@0 để @3Destroy@0.,,Chọn @3lá bài@0 để @3phá hủy@0.,38,31,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|282|0,Designate @3monster@0 to switch to @3face-down Defense Position@0.,Chọn @3quái thú@0 để chuyển sang @3face-down Defense Position@0.,,Chọn @3quái thú@0 chuyển sang @3Tư thế Thủ úp@0.,73,48,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|284|0,Remove @2%d@0 @3Spell Counter(s)@0 from your Field.,Gỡ @2%d@0 @3Spell Counter@0 khỏi Field của bạn.,,Bỏ @2%d@0 @3Bộ đếm Phép@0 trên Sân của bạn.,57,43,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|285|0,Select @3monster(s)@0 from the list to @3Special Summon@0.,Chọn @3quái thú@0 trong danh sách để @3Special Summon@0.,,Chọn @3quái thú@0 từ danh sách để @3Triệu hồi Đặc biệt@0.,64,57,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|286|0,Select @3monster(s)@0 from the @2hand@0 to @3Special Summon@0.,Chọn @3quái thú@0 từ @2tay@0 để @3Special Summon@0.,,Chọn @3quái thú@0 trên @2tay@0 để @3Triệu hồi Đặc biệt@0.,69,57,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|287|0,Perform coin toss again?,Tung đồng xu lại?,,Tung lại đồng xu?,27,17,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|288|0,Will you re-roll?,Bạn có muốn tung lại không?,,Tung xúc xắc lại?,30,17,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|289|0,"From the list, select @3card(s)@0 in your @2Deck@0 that you will send to the @2Graveyard@0.","Từ danh sách, chọn @3lá bài@0 trong @2Deck@0 để đưa vào @2Graveyard@0.",,Chọn @3lá bài@0 từ @2Bộ bài@0 để đưa vào @2Mộ@0.,101,48,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|290|0,There is no @3monster@0 that you can @3Special Summon@0.,Không có @3quái thú@0 nào bạn có thể @3Special Summon@0.,,Không có @3quái thú@0 nào có thể @3Triệu hồi Đặc biệt@0.,62,56,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|291|0,Will you @3Summon@0 this @3monster@0 by offering @23 @3monsters@0?,@3Summon@0 @3quái thú@0 này bằng cách Tribute @23 @3quái thú@0?,,@3Triệu hồi@0 @3quái thú@0 này bằng @23 @3quái thú@0?,73,53,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|292|0,Will you offer this @3monster@0 and count it as @22 @3monsters@0 offered?,Tribute @3quái thú@0 này và tính là @22 @3quái thú@0 đã Tribute?,,Hiến tế @3quái thú@0 này và tính như @22 @3quái thú@0?,81,54,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|293|0,Designate one @3monster@0 to @3remove from play@0.,Chọn 1 @3quái thú@0 để @3loại bỏ@0.,,Chọn @3quái thú@0 để @3loại khỏi trận@0.,56,40,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|294|0,Where will you return the @3card@0?,Bạn sẽ trả @3lá bài@0 về đâu?,,Trả @3lá bài@0 về đâu?,39,22,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|295|0,"Select ""@3%s@0"" on the Field.","Chọn ""@3%s@0"" trên Field.",,"Chọn ""@3%s@0"" trên Sân.",32,23,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|296|0,Choose two numbers ranging from @21-6@0.,Chọn hai số từ @21-6@0.,,Chọn hai số từ @21-6@0.,45,23,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|297|0,Your opponent has selected @2%d@0 and @2%d@0.,Opponent đã chọn @2%d@0 và @2%d@0.,,Đối thủ chọn @2%d@0 và @2%d@0.,50,30,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|298|0,Will you shake hands with your opponent?,Bạn có muốn bắt Hand với Opponent không?,,Bắt tay với đối thủ?,45,20,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|299|0,"Will you show ""@3%s@0"" to coerce your opponent to shake hands?","Bạn có muốn chiếu ""@3%s@0"" để buộc Opponent bắt Hand không?",,"Cho đối thủ xem ""@3%s@0"" để buộc họ bắt tay?",69,44,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|300|0,Handshake with opponent declined.,Opponent từ chối bắt Hand.,,Đối thủ đã từ chối bắt tay.,37,27,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|301|0,Decide how much Life Points to pay as a cost.,Chọn số Life Points cần trả làm Cost.,,Chọn số LP cần trả làm phí.,50,27,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|305|0,Will you add the designated @3card@0 to your @2hand@0?,Thêm @3lá bài@0 đã chọn lên @2tay@0?,,Lấy @3lá bài@0 đã chọn lên @2tay@0?,60,35,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|306|0,"Due to the card's effect, @2turn@0 is skipped.","Do Effect của lá bài, @2lượt@0 bị bỏ qua.",,"Do hiệu ứng lá bài, bỏ qua @2lượt@0.",51,36,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|307|0,"Due to the card's effect, @2Draw Phase@0 is skipped.","Do Effect của lá bài, @2Draw Phase@0 bị bỏ qua.",,"Do hiệu ứng lá bài, bỏ qua @2Giai đoạn Rút@0.",58,45,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|308|0,"Due to the card's effect, @2Standby Phase@0 is skipped.","Do Effect của lá bài, @2Standby Phase@0 bị bỏ qua.",,"Do hiệu ứng lá bài, bỏ qua @2Giai đoạn Chờ@0.",61,45,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|309|0,"Due to the card's effect, @2Main Phase 1@0 is skipped.","Do Effect của lá bài, @2Main Phase 1@0 bị bỏ qua.",,"Do hiệu ứng lá bài, bỏ qua @2Giai đoạn Chính 1@0.",60,49,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|310|0,"Due to the card's effect, @2Battle Phase@0 is skipped.","Do Effect của lá bài, @2Battle Phase@0 bị bỏ qua.",,"Do hiệu ứng lá bài, bỏ qua @2Giai đoạn Chiến đấu@0.",60,51,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|311|0,Place the @3monster@0 to be @3destroyed@0 on the top of your opponent's @2Deck@0?,Đặt @3quái thú@0 bị @3Destroy@0 lên đầu @2Deck@0 của Opponent?,,Đặt @3quái thú@0 sắp @3phá hủy@0 lên đầu @2Bộ bài@0 đối thủ?,90,60,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|312|0,Offer a @3monster@0 in @3Tribute@0?,Dùng 1 @3quái thú@0 làm @3Tribute@0?,,Dùng @3quái thú@0 làm @3Hiến tế@0?,40,34,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|313|0,Select the @3card@0 to be @3equipped@0.,Chọn @3lá bài@0 để @3trang bị@0.,,Chọn @3lá bài@0 để @3trang bị@0.,43,32,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|314|0,@3Destroy@0 your opponent's @3card@0?,@3Destroy@0 @3lá bài@0 của Opponent?,,@3phá hủy@0 @3lá bài@0 đối thủ?,41,31,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|315|0,@3Destroy@0 another of your opponent's @3cards@0?,@3Destroy@0 thêm 1 @3lá bài@0 nữa của Opponent?,,@3phá hủy@0 thêm @3lá bài@0 đối thủ?,54,36,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|316|0,Select the @3monster@0 to return to the owner's @2Deck@0.,Chọn @3quái thú@0 để trả về @2Deck@0 Owner.,,Chọn @3quái thú@0 trả về @2Bộ bài@0 chủ bài.,63,44,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|317|0,Decide the number of @3Spell Counters@0 to be removed.,Chọn số @3Spell Counter@0 cần gỡ bỏ.,,Chọn số @3Bộ đếm Phép@0 cần bỏ.,60,31,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|318|0,%d counters,%d counter,,%d bộ đếm,13,9,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|319|0,@3Normal Summon@0 offering @21 @3monster@0 as a @3Tribute@0?,@3Normal Summon@0 bằng cách dùng @21 @3quái thú@0 làm @3Tribute@0?,,@3Triệu hồi Thường@0 bằng cách dùng @21 @3quái thú@0 làm @3Hiến tế@0?,73,69,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|320|0,Select a face of the dice.,Chọn mặt xúc xắc.,,Chọn mặt xúc xắc.,29,17,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|321|0,There aren't enough @2Monster Card Zones@0 available.,Không đủ @2Monster Zone@0 trống.,,Không đủ @2Ô Quái thú@0 trống.,59,30,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|322|0,"Send ""@3%s@0"" to the @2Graveyard@0?","Đưa ""@3%s@0"" vào @2Graveyard@0?",,"Đưa ""@3%s@0"" vào @2Mộ@0?",39,24,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|323|0,"Select a ""@3%s@0"" to send to the @2Graveyard@0.","Chọn 1 ""@3%s@0"" để đưa vào @2Graveyard@0.",,"Chọn ""@3%s@0"" để đưa vào @2Mộ@0.",52,32,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|324|0,Select a @2Spell & Trap Card Zone@0 to make unusable.,Chọn 1 @2Spell & Trap Zone@0 để khóa lại.,,Chọn @2Ô Phép/Bẫy@0 muốn khóa.,59,30,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|325|0,Select @2Monster Card Zone@0 location to move to.,Chọn @2Monster Zone@0 để di chuyển đến.,,Chọn @2Ô Quái thú@0 để chuyển đến.,54,34,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|326|0,Select @3card@0 position.,Chọn vị trí @3lá bài@0.,,Chọn tư thế @3lá bài@0.,28,23,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|327|0,"Select position for ""@3%s@0"".","Chọn vị trí cho ""@3%s@0"".",,"Chọn tư thế cho ""@3%s@0"".",32,25,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|328|0,"@3Activate@0 the effect of ""@3%s@0"" in your @2hand@0?","@3Activate@0 Effect của ""@3%s@0"" trên @2tay@0?",,"@3Kích hoạt@0 hiệu ứng ""@3%s@0"" trên @2tay@0?",59,45,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|329|0,"@3Activate@0 the effect of ""@3%s@0"" in your @2Graveyard@0?","@3Activate@0 Effect của ""@3%s@0"" trong @2Graveyard@0?",,"@3Kích hoạt@0 hiệu ứng ""@3%s@0"" trong @2Mộ@0?",64,45,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|330|0,Decide how many @3cards@0 to send to the @2Graveyard@0.,Chọn số @3lá bài@0 cần đưa vào @2Graveyard@0.,,Chọn số @3lá bài@0 để đưa vào @2Mộ@0.,61,37,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|331|0,%d card(s),%d lá,,%d lá bài,12,9,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|332|0,Declare which @3Monster@0 is on the bottom of your @2opponent's@0 @2Graveyard@0.,Đoán xem @3Monster@0 nào nằm dưới cùng @2Graveyard@0 của @2đối thủ@0.,,Đoán @3Quái thú@0 ở đáy @2Mộ@0 của @2đối thủ@0.,89,47,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|333|0,"@3Destroy@0 another @3card@0 instead of ""@3%s@0""?","@3Destroy@0 1 @3lá bài@0 khác thay cho ""@3%s@0""?",,"@3phá hủy@0 @3lá bài@0 khác thay ""@3%s@0""?",54,42,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|334|0,Select a @3card@0 to @3destroy@0 instead.,Chọn 1 @3lá bài@0 để @3Destroy@0 thay thế.,,Chọn @3lá bài@0 khác để @3phá hủy@0.,47,36,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|335|0,You must @3Tribute@0 @21@0 monster in order to @3Normal Summon or Set@0 this @3monster@0. @3Normal Summon or Set@0?,Bạn phải @3Tribute@0 @21@0 Monster để @3Normal Summon hoặc Set@0 @3quái thú@0 này. @3Normal Summon hoặc Set@0?,,Cần @3Hiến tế@0 @21@0 quái thú để @3Triệu hồi/Đặt úp@0 @3quái thú@0 này. @3Triệu hồi/Đặt úp@0?,127,94,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|336|0,You must @3Tribute@0 @2%d@0 monsters in order to @3Normal Summon or Set@0 this @3monster@0. @3Normal Summon or Set@0?,Bạn phải @3Tribute@0 @2%d@0 Monster để @3Normal Summon hoặc Set@0 @3quái thú@0 này. @3Normal Summon hoặc Set@0?,,Cần @3Hiến tế@0 @2%d@0 @3quái thú@0 để @3Triệu hồi/Đặt úp@0 quái này. @3Triệu hồi/Đặt úp@0?,129,91,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|337|0,You must @3Tribute@0 @21@0 monster in order to @3Special Summon@0 this @3monster@0. @3Special Summon@0?,Bạn phải @3Tribute@0 @21@0 Monster để @3Special Summon@0 @3quái thú@0 này. @3Special Summon@0?,,Cần @3Hiến tế@0 @21@0 quái thú để @3Triệu hồi Đặc biệt@0 @3quái thú@0 này. @3Triệu hồi Đặc biệt@0?,114,98,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|338|0,You must @3Tribute@0 @2%d@0 monsters in order to @3Special Summon@0 this @3monster@0. @3Special Summon@0?,Bạn phải @3Tribute@0 @2%d@0 Monster để @3Special Summon@0 @3quái thú@0 này. @3Special Summon@0?,,Cần @3Hiến tế@0 @2%d@0 @3quái thú@0 để @3Triệu hồi Đặc biệt@0. @3Triệu hồi Đặc biệt@0?,116,86,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|339|0,There is no target @3card@0 in your @2hand@0.,Không có @3lá bài@0 Target nào trên @2tay@0 bạn.,,Không có @3lá bài@0 phù hợp trên @2tay@0.,53,41,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|340|0,@3Draw@0 a @3card@0 from your @2Deck@0?,@3Rút@0 1 @3lá bài@0 từ @2Deck@0?,,@3Rút@0 @3lá bài@0 từ @2Bộ bài@0?,43,33,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|341|0,Select a @3card@0 to show your @2opponent@0.,Chọn 1 @3lá bài@0 để cho @2đối thủ@0 xem.,,Chọn @3lá bài@0 cho @2đối thủ@0 xem.,49,36,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|342|0,Choose a @3card@0 to place a counter on.,Chọn 1 @3lá bài@0 để đặt counter lên.,,Chọn @3lá bài@0 để đặt bộ đếm.,45,30,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|343|0,@3Tribute Summon@0 @0%s@0 using a choosen number of @3tributes@0?,@3Tribute Summon@0 @0%s@0 với số @3tribute@0 tùy chọn?,,@3Triệu hồi Hiến tế@0 @0%s@0 với số @3hiến tế@0 tùy chọn?,72,57,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|344|0,Select a @3card@0 to remove a counter from.,Chọn 1 @3lá bài@0 để gỡ counter.,,Chọn @3lá bài@0 để bỏ bộ đếm.,48,29,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|400|0,Heads,Mặt Face-up,,Mặt ngửa,13,8,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|401|0,Tails,Mặt sấp,,Mặt sấp,8,7,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|402|0,Hands,Hand bài,,Trên tay,9,8,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|404|0,Correct!,Đúng rồi!,,Đúng rồi!,10,9,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|405|0,Miss!,Sai rồi!,,Trượt!,9,6,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|406|0,Recover your Life Points.,Hồi phục Life Points.,,Hồi LP.,28,7,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|407|0,Opponent recovers Life Points.,Opponent hồi phục Life Points.,,Đối thủ hồi LP.,34,15,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|410|0,Enter @2Battle Phase@0.,Vào @2Battle Phase@0.,,Vào @2GĐ Chiến đấu@0.,26,21,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|411|0,End @2Battle Phase@0 at once.,Kết thúc @2Battle Phase@0 ngay.,,Kết thúc ngay @2GĐ Chiến đấu@0.,35,31,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|412|0,Continue @2Battle Phase@0.,Tiếp tục @2Battle Phase@0.,,Tiếp tục @2GĐ Chiến đấu@0.,29,26,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|413|0,Continue @2Main Phase@0.,Tiếp tục @2Main Phase@0.,,Tiếp tục @2GĐ Chính@0.,27,22,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|414|0,Proceed to @2Main Phase 2@0.,Chuyển sang @2Main Phase 2@0.,,Chuyển sang @2GĐ Chính 2@0.,32,27,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|415|0,End your @2turn@0.,Kết thúc @2lượt@0.,,Kết thúc @2lượt@0.,20,18,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|416|0,Effect: Place @21 @3monster@0 in @3Defense Position@0,Effect: Đặt @21 @3quái thú@0 ở @3Defense Position@0,,Hiệu ứng: Đặt @21 @3quái thú@0 ở @3Tư thế Thủ@0.,59,48,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|417|0,@3Equip@0 effect: Increase @3ATK@0,Effect @3Equip@0: Tăng @3ATK@0,,Hiệu ứng @3Trang bị@0: Tăng @3ATK@0.,38,36,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|418|0,Both effects,Cả hai Effect,,Cả hai hiệu ứng,15,15,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|420|0,Deal @3damage@0 to opponent.,Gây @3sát thương@0 cho Opponent.,,Gây @3sát thương@0 cho đối thủ.,36,31,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|421|0,Randomly discard @22@0 cards from your opponent's @2hand@0.,Bỏ ngẫu nhiên @22@0 lá từ @2tay@0 Opponent.,,Bỏ ngẫu nhiên @22@0 lá trên @2tay@0 đối thủ.,65,44,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|422|0,Randomly discard @21@0 card from your opponent's @2hand@0.,Bỏ ngẫu nhiên @21@0 lá từ @2tay@0 Opponent.,,Bỏ ngẫu nhiên @21@0 lá trên @2tay@0 đối thủ.,64,44,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|423|0,Send two cards from the top of your opponent's @2Deck@0 to the @2Graveyard@0.,Đưa 2 lá trên cùng @2Deck@0 Opponent vào @2Graveyard@0.,,Đưa hai lá đầu @2Bộ bài@0 đối thủ vào @2Mộ@0.,85,45,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|424|0,My Deck,Deck của tôi,,Bộ bài của tôi,14,14,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|425|0,Opponent's Deck,Deck của Opponent,,Bộ bài đối thủ,19,14,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|426|0,Discard one card at random from your @2hand@0.,Bỏ ngẫu nhiên 1 lá từ @2tay@0 bạn.,,Bỏ ngẫu nhiên một lá trên @2tay@0.,51,34,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|427|0,@3Destroy@0 @21@0 your @3monster@0.,@3Destroy@0 @21@0 @3quái thú@0 của bạn.,,@3Phá hủy@0 @21@0 @3quái thú@0 của bạn.,43,39,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|428|0,Do not @3activate@0 effect.,Không @3Activate@0 Effect.,,Không @3kích hoạt@0 hiệu ứng.,30,29,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|429|0,@3Destroy@0 @21 @3monster@0.,@3Destroy@0 @21 @3quái thú@0.,,@3Phá hủy@0 @21 @3quái thú@0.,32,29,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|430|0,Convert Life Points to @3ATK/DEF@0.,Đổi Life Points thành @3ATK/DEF@0.,,Đổi LP thành @3ATK/DEF@0.,39,25,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|431|0,@3Destroy@0 @21 @3Spell or Trap Card@0 on the Field.,@3Destroy@0 @21 @3Spell hoặc Trap Card@0 trên Field.,,@3Phá hủy@0 @21 @3lá Phép/Bẫy@0 trên Sân.,58,41,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|432|0,Return @21@0 @3card@0 on the Field to owner's @2hand@0.,Trả @21@0 @3lá bài@0 trên Field về @2tay@0 Owner.,,Trả @21@0 @3lá bài@0 trên Sân về @2tay@0 chủ bài.,61,49,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|433|0,Look at top @3card@0 of opponent's @2Deck@0 and place it either at the top or at the bottom of the @2Deck@0.,Xem @3lá bài@0 trên cùng @2Deck@0 Opponent và đặt lên trên hoặc xuống dưới @2Deck@0.,,Xem @3lá bài@0 đầu @2Bộ bài@0 đối thủ; đặt lên đầu hoặc dưới đáy @2Bộ bài@0.,119,76,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|434|0,Return @21@0 opponent's @3monster@0 to the top of the owner's @2Deck@0.,Trả @21@0 @3quái thú@0 của Opponent lên đầu @2Deck@0 Owner.,,Trả @21@0 @3quái thú@0 đối thủ lên đầu @2Bộ bài@0 chủ bài.,79,58,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|435|0,Send the top @3card@0 on your opponent's @2Deck@0 to the @2Graveyard@0.,Đưa @3lá bài@0 trên cùng @2Deck@0 Opponent vào @2Graveyard@0.,,Đưa @3lá bài@0 đầu @2Bộ bài@0 đối thủ vào @2Mộ@0.,79,49,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|436|0,Add @21@0 designated @3card@0 to your @2hand@0 from your @2Deck@0.,Thêm @21@0 @3lá bài@0 chỉ định từ @2Deck@0 lên @2tay@0.,,Lấy @21@0 @3lá bài@0 chỉ định từ @2Bộ bài@0 lên @2tay@0.,73,56,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|437|0,Add @21@0 designated @3card@0 to your @2hand@0 from your @2Graveyard@0.,Thêm @21@0 @3lá bài@0 chỉ định từ @2Graveyard@0 lên @2tay@0.,,Lấy @21@0 @3lá bài@0 chỉ định từ @2Mộ@0 lên @2tay@0.,79,52,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|438|0,Top of the Deck,Đầu Deck,,Đầu Bộ bài,17,10,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|439|0,Bottom of the Deck,Đáy Deck,,Đáy Bộ bài,20,10,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|446|0,Change the position of your opponent's @3monster@0.,Đổi vị trí @3quái thú@0 của Opponent.,,Đổi tư thế @3quái thú@0 đối thủ.,57,32,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|447|0,Gain @3control@0 of your opponent's @3monster@0.,Giành @3quyền Control@0 @3quái thú@0 của Opponent.,,Giành @3quyền điều khiển@0 @3quái thú@0 đối thủ.,56,48,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|448|0,@3Draw@0 @21@0 @3card@0.,@3Rút@0 @21@0 @3lá bài@0.,,@3Rút@0 @21@0 @3lá bài@0.,28,25,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|449|0,@3Draw@0 @22@0 @3cards@0.,@3Rút@0 @22@0 @3lá bài@0.,,@3Rút@0 @22@0 @3lá bài@0.,28,25,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|450|0,Counter @3Spell@0 that targets @21 @3monster@0.,Negate @3Spell@0 nhắm vào @21 @3quái thú@0.,,Vô hiệu @3Phép@0 nhắm vào @21 @3quái thú@0.,52,43,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|451|0,Send @21 @3Spell Card@0 to the @2Graveyard@0 to counter @3Spell@0.,Đưa @21 @3Spell Card@0 vào @2Graveyard@0 để Negate @3Spell@0.,,Đưa @21 @3lá Phép@0 vào @2Mộ@0 để vô hiệu @3Phép@0.,73,51,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|452|0,@3Equip Union Monster@0.,@3Trang bị Union Monster@0.,,@3Trang bị Liên hợp@0.,30,22,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|453|0,@3Un-equip@0 @3Union Monster@0 that is currently @3equipped@0.,@3Tháo@0 @3Union Monster@0 đang @3trang bị@0.,,@3Tháo trang bị@0 @3quái thú Liên hợp@0 đang @3trang bị@0.,69,58,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|454|0,@3Destroy@0 @21 @3Equip Card@0 on the Field.,@3Destroy@0 @21 @3Equip Card@0 trên Field.,,@3Phá hủy@0 @21 @3lá Trang bị@0 trên Sân.,49,41,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|455|0,@3Equip@0  @21 @3Equip Card@0 on the Field to this @3card@0.,@3Trang bị@0 @21 @3Equip Card@0 trên Field cho @3lá bài@0 này.,,@3Trang bị@0 @21 @3lá Trang bị@0 trên Sân cho @3lá bài@0 này.,69,61,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|456|0,Negate @3monster@0.,Negate @3quái thú@0.,,Vô hiệu @3quái thú@0.,23,21,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|458|0,@3Destroy@0 all @3monsters@0 on your opponent's side of the field.,@3Destroy@0 tất cả @3quái thú@0 bên Field của Opponent.,,@3Phá hủy@0 mọi @3quái thú@0 đối thủ trên Sân.,73,46,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|459|0,@3Destroy@0 all @3Spell and Trap Cards@0 on your opponent's side of the field.,@3Destroy@0 tất cả @3Spell và Trap Card@0 bên Field của Opponent.,,@3Phá hủy@0 mọi @3lá Phép và Bẫy@0 của đối thủ.,86,47,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|460|0,Change the position of the @3equipped monster@0.,Đổi vị trí của @3quái thú được Equip@0.,,Đổi tư thế @3quái thú được trang bị@0.,53,38,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|461|0,Allow the @3equipped monster@0 to @3attack@0 players directly.,Cho phép @3quái thú được Equip@0 @3Direct Attack@0 người chơi.,,Cho @3quái thú được trang bị@0 @3tấn công@0 trực tiếp.,69,54,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|462|0,Increases a @3monster@0's @3ATK@0 by @21000@0.,Tăng @3ATK@0 của @3quái thú@0 thêm @21000@0.,,Tăng @3ATK@0 @3quái thú@0 thêm @21000@0.,51,40,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|463|0,@3Attack@0 once more after @3destroying@0 a @3monster@0.,@3Tấn công@0 thêm 1 lần sau khi @3Destroy@0 1 @3quái thú@0.,,@3Tấn công@0 thêm lần nữa sau khi @3phá hủy@0 @3quái thú@0.,65,59,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|464|0,Cause @3damage@0 equal to the @3ATK@0 of the @3monster@0 @3destroyed@0 in battle.,Gây @3sát thương@0 bằng @3ATK@0 của @3quái thú@0 bị @3Destroy@0 trong chiến đấu.,,Gây @3sát thương@0 bằng @3ATK@0 @3quái thú@0 bị @3phá hủy@0 trong trận.,90,71,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|465|0,Your opponent cannot @3draw@0 during their next @2Draw Phase@0.,Opponent không thể @3rút bài@0 trong @2Draw Phase@0 kế tiếp.,,Đối thủ không được @3rút@0 ở @2Giai đoạn Rút@0 kế tiếp.,70,55,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|466|0,Your opponent cannot @3activate@0 a @3Spell or Trap Card@0 during this @2turn@0.,Opponent không thể @3Activate@0 @3Spell hoặc Trap Card@0 trong @2lượt@0 này.,,Đối thủ không thể @3kích hoạt@0 @3lá Phép/Bẫy@0 trong @2lượt@0 này.,89,67,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|467|0,Increases a @3monster@0's @3ATK@0 by @2400@0.,Tăng @3ATK@0 của @3quái thú@0 thêm @2400@0.,,Tăng @3ATK@0 @3quái thú@0 thêm @2400@0.,50,39,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|468|0,@3Destroy@0 @21 @3face-up Spell or Trap Card@0.,@3Destroy@0 @21 @3Spell hoặc Trap Card face-up@0.,,@3Phá hủy@0 @21 @3lá Phép/Bẫy ngửa@0.,54,37,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|470|0,@3Destroy@0 @3Spell or Trap Card(s)@0 on the field.,@3Destroy@0 @3Spell hoặc Trap Card@0 trên Field.,,@3Phá hủy@0 @3lá Phép/Bẫy@0 trên Sân.,57,37,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|471|0,Add @21@0 designated @3card@0 to your @2hand@0 from your @2Deck@0.,Thêm @21@0 @3lá bài@0 chỉ định từ @2Deck@0 lên @2tay@0.,,Lấy @21@0 @3lá bài@0 chỉ định từ @2Bộ bài@0 lên @2tay@0.,73,56,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|472|0,Move this @3card@0 to an adjacent unoccupied @2Monster Card Zone@0.,Di chuyển @3lá bài@0 này sang @2Monster Zone@0 trống kế bên.,,Chuyển @3lá bài@0 này sang @2Ô Quái thú@0 trống cạnh bên.,74,57,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|473|0,Place a counter on a @3monster@0.,Đặt counter lên 1 @3quái thú@0.,,Đặt bộ đếm lên @3quái thú@0.,37,28,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|474|0,@3Destroy@0 the @3monster@0 with the counter on it.,@3Destroy@0 @3quái thú@0 có counter.,,@3Phá hủy@0 @3quái thú@0 có bộ đếm.,57,35,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|475|0,"Send all ""@3Crystal Beast@0"" monsters you control to the @2Graveyard@0 and increase the @3ATK@0 of this @3card@0.","Đưa tất cả quái ""@3Crystal Beast@0"" của bạn vào @2Graveyard@0 và tăng @3ATK@0 của @3lá bài@0 này.",,"Đưa mọi ""@3Crystal Beast@0"" bạn điều khiển vào @2Mộ@0 để tăng @3ATK@0 @3lá bài@0 này.",125,85,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|476|0,"@3Remove from play@0 all ""@3Crystal Beast@0"" Cards in your @3Graveyard@0 to return all cards on the field to their owner's @2Decks@0.","@3Loại bỏ@0 tất cả lá ""@3Crystal Beast@0"" trong @3Graveyard@0 để trả mọi lá bài trên Field về @2Deck@0 Owner.",,"@3Loại khỏi trận@0 mọi ""@3Crystal Beast@0"" trong @3Mộ@0 để trả mọi lá trên Sân về @2Bộ bài@0 chủ bài.",147,101,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|477|0,@3Equip@0 this @3Equip Card@0 to another @3card@0.,@3Trang bị@0 @3Equip Card@0 này cho @3lá bài@0 khác.,,@3Trang bị@0 @3lá Trang bị@0 này cho @3lá bài@0 khác.,58,53,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|478|0,@3Special Summon@0 @21@0 specific @3card@0.,@3Special Summon@0 @21@0 @3lá bài@0 cụ thể.,,@3Triệu hồi ĐB@0 @21@0 @3lá bài@0 chỉ định.,48,43,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|479|0,@3Destroy@0 @21@0 @3Spell or Trap Card@0 on your @2opponent's@0 side of the field.,@3Destroy@0 @21@0 @3Spell hoặc Trap Card@0 bên Field @2đối thủ@0.,,@3Phá hủy@0 @21@0 @3lá Phép/Bẫy@0 trên Sân @2đối thủ@0.,91,55,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|480|0,@3Destroy@0 @22@0 @3cards@0 on your @2opponent's@0 side of the field.,@3Destroy@0 @22@0 @3lá bài@0 bên Field @2đối thủ@0.,,@3Phá hủy@0 @22@0 @3lá bài@0 trên Sân @2đối thủ@0.,76,50,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|524|0,Ticket,Vé,,Vé,7,2,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|582|0,Your Fusion Deck,Fusion Deck của bạn,,Bộ Dung hợp của bạn,21,19,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|583|0,Opponent's Fusion Deck,Fusion Deck của Opponent,,Bộ Dung hợp đối thủ,27,19,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|584|0,Your Deck,Deck của bạn,,Bộ bài của bạn,14,14,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|585|0,Opponent's Deck,Deck của Opponent,,Bộ bài đối thủ,19,14,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|586|0,Your Graveyard,Graveyard của bạn,,Mộ của bạn,19,10,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|587|0,Opponent's Graveyard,Graveyard của Opponent,,Mộ đối thủ,25,10,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|588|0,Your Removed Cards,Lá bài bị Banish của bạn,,Bài bị loại của bạn,27,19,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|589|0,Opponent's Removed Cards,Lá bài bị Banish của Opponent,,Bài bị loại đối thủ,32,19,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|590|0,Confirm,Xác nhận,,Xác nhận,9,8,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|591|0,Select a card.,Chọn 1 lá bài.,,Chọn lá bài.,16,12,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|592|0,Select %d card(s).,Chọn %d lá bài.,,Chọn %d lá bài.,20,15,GIU_NGUYEN
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|593|0,You may select up to %d cards.,Bạn có thể chọn tối đa %d lá bài.,,Được chọn tối đa %d lá bài.,37,27,SUA
+G_HOI_THOAI_DUEL_DLG_02.csv,dlg|594|0,Select amount,Chọn số lượng,,Chọn số lượng,15,13,GIU_NGUYEN

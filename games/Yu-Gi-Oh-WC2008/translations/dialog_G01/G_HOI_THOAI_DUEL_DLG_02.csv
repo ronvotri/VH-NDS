@@ -1,0 +1,172 @@
+﻿key,ten_la_bai_EN,tieng_Anh,tieng_Viet_hien_tai,toi_da_ky_tu,tieng_Viet_MOI
+dlg|253|0,,Your opponent succeeded in @3Summoning@0 a @3monster@0.,Opponent đã @3Summon@0 thành công 1 @3quái thú@0.,61,Đối thủ đã @3Triệu hồi@0 thành công @3quái thú@0.
+dlg|254|0,,You succeeded in @3Flip Summoning@0 a @3monster@0.,Bạn đã @3Flip Summon@0 thành công 1 @3quái thú@0.,56,Bạn đã @3Triệu hồi Lật@0 thành công @3quái thú@0.
+dlg|255|0,,Your opponent succeeded in @3Flip Summoning@0 a @3monster@0.,Opponent đã @3Flip Summon@0 thành công 1 @3quái thú@0.,67,Đối thủ đã @3Triệu hồi Lật@0 thành công @3quái thú@0.
+dlg|256|0,,You succeeded in @3Special Summoning@0 a @3monster@0.,Bạn đã @3Special Summon@0 thành công 1 @3quái thú@0.,59,Bạn đã @3Triệu hồi Đặc biệt@0 thành công @3quái thú@0.
+dlg|257|0,,Your opponent succeeded in @3Special Summoning@0 a @3monster@0.,Opponent đã @3Special Summon@0 thành công 1 @3quái thú@0.,70,Đối thủ đã @3Triệu hồi Đặc biệt@0 thành công @3quái thú@0.
+dlg|258|0,,It is your opponent's @2turn@0.,Đây là @2lượt@0 của Opponent.,35,Đang là @2lượt@0 của đối thủ.
+dlg|259|0,,@3Activate@0 which effect?,@3Activate@0 Effect nào?,29,@3Kích hoạt@0 hiệu ứng nào?
+dlg|260|0,,Select @3card@0 type.,Chọn loại @3lá bài@0.,24,Chọn loại @3lá bài@0.
+dlg|261|0,,It is before @3damage application@0.,Trước khi @3tính sát thương@0.,40,Trước khi @3tính sát thương@0.
+dlg|262|0,,You can look through your opponent's @2hand@0.,Bạn có thể xem @2bài trên Hand@0 của Opponent.,51,Bạn có thể xem @2tay@0 đối thủ.
+dlg|263|0,,Missed your chance! Cannot @3activate@0 effect.,Lỡ mất cơ hội! Không thể @3Activate@0 Effect.,52,Đã lỡ thời điểm! Không thể @3kích hoạt@0 hiệu ứng.
+dlg|264|0,,@3%s@0 was selected.,Đã chọn @3%s@0.,23,Đã chọn @3%s@0.
+dlg|265|0,,Change the target of @3attack@0?,Đổi Target @3tấn công@0?,36,Đổi mục tiêu @3tấn công@0?
+dlg|266|0,,It is before @3damage calculation@0.,Trước khi @3tính toán sát thương@0.,40,Trước khi @3tính toán sát thương@0.
+dlg|267|0,,The @3card(s)@0 on the Field has/have been @3destroyed@0.,@3Lá bài@0 trên Field đã bị @3Destroy@0.,63,@3Lá bài@0 trên Sân đã bị @3phá hủy@0.
+dlg|268|0,,The @3card(s)@0 has/have been sent to the @2Graveyard@0.,@3Lá bài@0 đã được đưa vào @2Graveyard@0.,62,@3Lá bài@0 đã được đưa vào @2Mộ@0.
+dlg|269|0,,@3Activate@0 the effect of a @3card@0?,@3Activate@0 Effect của 1 @3lá bài@0?,42,@3Kích hoạt@0 hiệu ứng @3lá bài@0?
+dlg|270|0,,Use the effect now?,Dùng Effect ngay bây giờ?,28,Dùng hiệu ứng ngay?
+dlg|271|0,,A number of @3cards@0 can be selected as the target of the effect. Select one @3card@0.,Có nhiều @3lá bài@0 có thể làm Target. Hãy chọn 1 @3lá bài@0.,96,Có nhiều @3lá bài@0 có thể làm mục tiêu. Chọn một @3lá bài@0.
+dlg|272|0,,Your opponent's @2Battle Phase@0 will soon end.,@2Battle Phase@0 của Opponent sắp kết thúc.,52,@2Giai đoạn Chiến đấu@0 đối thủ sắp kết thúc.
+dlg|273|0,,Select a @3monster@0 in @3face-down@0 Position.,Chọn 1 @3quái thú@0 ở vị trí @3face-down@0.,52,Chọn @3quái thú@0 ở tư thế @3úp@0.
+dlg|274|0,,Select a target @3card@0 from the Field.,Chọn 1 @3lá bài@0 Target trên Field.,45,Chọn @3lá bài@0 làm mục tiêu trên Sân.
+dlg|275|0,,Select a @3face-up %s monster@0 to return to the owner's @2hand@0 from the Field.,Chọn 1 @3quái thú %s face-up@0 trên Field để trả về @2tay@0 Owner.,90,Chọn @3quái thú ngửa thuộc %s@0 trên Sân để trả về @2tay@0 chủ bài.
+dlg|276|0,,Select effect to @3activate@0.,Chọn Effect để @3Activate@0.,34,Chọn hiệu ứng muốn @3kích hoạt@0.
+dlg|277|0,,"To keep ""@3%s@0"" on the field, you must send one @3card@0 from your @2hand@0 to the @2Graveyard@0. Ok?","Để giữ ""@3%s@0"" trên Field, bạn phải đưa 1 @3lá bài@0 từ @2tay@0 vào @2Graveyard@0. Đồng ý?",113,"Để giữ ""@3%s@0"" trên Sân, đưa một @3lá bài@0 từ @2tay@0 vào @2Mộ@0. Đồng ý?"
+dlg|278|0,,Select @2%d@0 @3card(s)@0 as target(s).,Chọn @2%d@0 @3lá bài@0 làm Target.,43,Chọn @2%d@0 @3lá bài@0 làm mục tiêu.
+dlg|279|0,,Select @2Deck@0 to shuffle.,Chọn @2Deck@0 để Shuffle trộn.,34,Chọn @2Bộ bài@0 để xáo.
+dlg|280|0,,Declare @3monster@0 level.,Hãy chọn level của @3quái thú@0.,36,Chọn Cấp của @3quái thú@0.
+dlg|281|0,,Designate @3card@0 to @3destroy@0.,Chọn @3lá bài@0 để @3Destroy@0.,38,Chọn @3lá bài@0 để @3phá hủy@0.
+dlg|282|0,,Designate @3monster@0 to switch to @3face-down Defense Position@0.,Chọn @3quái thú@0 để chuyển sang @3face-down Defense Position@0.,73,Chọn @3quái thú@0 chuyển sang @3Tư thế Thủ úp@0.
+dlg|284|0,,Remove @2%d@0 @3Spell Counter(s)@0 from your Field.,Gỡ @2%d@0 @3Spell Counter@0 khỏi Field của bạn.,57,Bỏ @2%d@0 @3Bộ đếm Phép@0 trên Sân của bạn.
+dlg|285|0,,Select @3monster(s)@0 from the list to @3Special Summon@0.,Chọn @3quái thú@0 trong danh sách để @3Special Summon@0.,64,Chọn @3quái thú@0 từ danh sách để @3Triệu hồi Đặc biệt@0.
+dlg|286|0,,Select @3monster(s)@0 from the @2hand@0 to @3Special Summon@0.,Chọn @3quái thú@0 từ @2tay@0 để @3Special Summon@0.,69,Chọn @3quái thú@0 trên @2tay@0 để @3Triệu hồi Đặc biệt@0.
+dlg|287|0,,Perform coin toss again?,Tung đồng xu lại?,27,Tung lại đồng xu?
+dlg|288|0,,Will you re-roll?,Bạn có muốn tung lại không?,30,Tung xúc xắc lại?
+dlg|289|0,,"From the list, select @3card(s)@0 in your @2Deck@0 that you will send to the @2Graveyard@0.","Từ danh sách, chọn @3lá bài@0 trong @2Deck@0 để đưa vào @2Graveyard@0.",101,Chọn @3lá bài@0 từ @2Bộ bài@0 để đưa vào @2Mộ@0.
+dlg|290|0,,There is no @3monster@0 that you can @3Special Summon@0.,Không có @3quái thú@0 nào bạn có thể @3Special Summon@0.,62,Không có @3quái thú@0 nào có thể @3Triệu hồi Đặc biệt@0.
+dlg|291|0,,Will you @3Summon@0 this @3monster@0 by offering @23 @3monsters@0?,@3Summon@0 @3quái thú@0 này bằng cách Tribute @23 @3quái thú@0?,73,@3Triệu hồi@0 @3quái thú@0 này bằng @23 @3quái thú@0?
+dlg|292|0,,Will you offer this @3monster@0 and count it as @22 @3monsters@0 offered?,Tribute @3quái thú@0 này và tính là @22 @3quái thú@0 đã Tribute?,81,Hiến tế @3quái thú@0 này và tính như @22 @3quái thú@0?
+dlg|293|0,,Designate one @3monster@0 to @3remove from play@0.,Chọn 1 @3quái thú@0 để @3loại bỏ@0.,56,Chọn @3quái thú@0 để @3loại khỏi trận@0.
+dlg|294|0,,Where will you return the @3card@0?,Bạn sẽ trả @3lá bài@0 về đâu?,39,Trả @3lá bài@0 về đâu?
+dlg|295|0,,"Select ""@3%s@0"" on the Field.","Chọn ""@3%s@0"" trên Field.",32,"Chọn ""@3%s@0"" trên Sân."
+dlg|296|0,,Choose two numbers ranging from @21-6@0.,Chọn hai số từ @21-6@0.,45,Chọn hai số từ @21-6@0.
+dlg|297|0,,Your opponent has selected @2%d@0 and @2%d@0.,Opponent đã chọn @2%d@0 và @2%d@0.,50,Đối thủ chọn @2%d@0 và @2%d@0.
+dlg|298|0,,Will you shake hands with your opponent?,Bạn có muốn bắt Hand với Opponent không?,45,Bắt tay với đối thủ?
+dlg|299|0,,"Will you show ""@3%s@0"" to coerce your opponent to shake hands?","Bạn có muốn chiếu ""@3%s@0"" để buộc Opponent bắt Hand không?",69,"Cho đối thủ xem ""@3%s@0"" để buộc họ bắt tay?"
+dlg|300|0,,Handshake with opponent declined.,Opponent từ chối bắt Hand.,37,Đối thủ đã từ chối bắt tay.
+dlg|301|0,,Decide how much Life Points to pay as a cost.,Chọn số Life Points cần trả làm Cost.,50,Chọn số LP cần trả làm phí.
+dlg|305|0,,Will you add the designated @3card@0 to your @2hand@0?,Thêm @3lá bài@0 đã chọn lên @2tay@0?,60,Lấy @3lá bài@0 đã chọn lên @2tay@0?
+dlg|306|0,,"Due to the card's effect, @2turn@0 is skipped.","Do Effect của lá bài, @2lượt@0 bị bỏ qua.",51,"Do hiệu ứng lá bài, bỏ qua @2lượt@0."
+dlg|307|0,,"Due to the card's effect, @2Draw Phase@0 is skipped.","Do Effect của lá bài, @2Draw Phase@0 bị bỏ qua.",58,"Do hiệu ứng lá bài, bỏ qua @2Giai đoạn Rút@0."
+dlg|308|0,,"Due to the card's effect, @2Standby Phase@0 is skipped.","Do Effect của lá bài, @2Standby Phase@0 bị bỏ qua.",61,"Do hiệu ứng lá bài, bỏ qua @2Giai đoạn Chờ@0."
+dlg|309|0,,"Due to the card's effect, @2Main Phase 1@0 is skipped.","Do Effect của lá bài, @2Main Phase 1@0 bị bỏ qua.",60,"Do hiệu ứng lá bài, bỏ qua @2Giai đoạn Chính 1@0."
+dlg|310|0,,"Due to the card's effect, @2Battle Phase@0 is skipped.","Do Effect của lá bài, @2Battle Phase@0 bị bỏ qua.",60,"Do hiệu ứng lá bài, bỏ qua @2Giai đoạn Chiến đấu@0."
+dlg|311|0,,Place the @3monster@0 to be @3destroyed@0 on the top of your opponent's @2Deck@0?,Đặt @3quái thú@0 bị @3Destroy@0 lên đầu @2Deck@0 của Opponent?,90,Đặt @3quái thú@0 sắp @3phá hủy@0 lên đầu @2Bộ bài@0 đối thủ?
+dlg|312|0,,Offer a @3monster@0 in @3Tribute@0?,Dùng 1 @3quái thú@0 làm @3Tribute@0?,40,Dùng @3quái thú@0 làm @3Hiến tế@0?
+dlg|313|0,,Select the @3card@0 to be @3equipped@0.,Chọn @3lá bài@0 để @3trang bị@0.,43,Chọn @3lá bài@0 để @3trang bị@0.
+dlg|314|0,,@3Destroy@0 your opponent's @3card@0?,@3Destroy@0 @3lá bài@0 của Opponent?,41,@3phá hủy@0 @3lá bài@0 đối thủ?
+dlg|315|0,,@3Destroy@0 another of your opponent's @3cards@0?,@3Destroy@0 thêm 1 @3lá bài@0 nữa của Opponent?,54,@3phá hủy@0 thêm @3lá bài@0 đối thủ?
+dlg|316|0,,Select the @3monster@0 to return to the owner's @2Deck@0.,Chọn @3quái thú@0 để trả về @2Deck@0 Owner.,63,Chọn @3quái thú@0 trả về @2Bộ bài@0 chủ bài.
+dlg|317|0,,Decide the number of @3Spell Counters@0 to be removed.,Chọn số @3Spell Counter@0 cần gỡ bỏ.,60,Chọn số @3Bộ đếm Phép@0 cần bỏ.
+dlg|318|0,,%d counters,%d counter,13,%d bộ đếm
+dlg|319|0,,@3Normal Summon@0 offering @21 @3monster@0 as a @3Tribute@0?,@3Normal Summon@0 bằng cách dùng @21 @3quái thú@0 làm @3Tribute@0?,73,@3Triệu hồi Thường@0 bằng cách dùng @21 @3quái thú@0 làm @3Hiến tế@0?
+dlg|320|0,,Select a face of the dice.,Chọn mặt xúc xắc.,29,Chọn mặt xúc xắc.
+dlg|321|0,,There aren't enough @2Monster Card Zones@0 available.,Không đủ @2Monster Zone@0 trống.,59,Không đủ @2Ô Quái thú@0 trống.
+dlg|322|0,,"Send ""@3%s@0"" to the @2Graveyard@0?","Đưa ""@3%s@0"" vào @2Graveyard@0?",39,"Đưa ""@3%s@0"" vào @2Mộ@0?"
+dlg|323|0,,"Select a ""@3%s@0"" to send to the @2Graveyard@0.","Chọn 1 ""@3%s@0"" để đưa vào @2Graveyard@0.",52,"Chọn ""@3%s@0"" để đưa vào @2Mộ@0."
+dlg|324|0,,Select a @2Spell & Trap Card Zone@0 to make unusable.,Chọn 1 @2Spell & Trap Zone@0 để khóa lại.,59,Chọn @2Ô Phép/Bẫy@0 muốn khóa.
+dlg|325|0,,Select @2Monster Card Zone@0 location to move to.,Chọn @2Monster Zone@0 để di chuyển đến.,54,Chọn @2Ô Quái thú@0 để chuyển đến.
+dlg|326|0,,Select @3card@0 position.,Chọn vị trí @3lá bài@0.,28,Chọn tư thế @3lá bài@0.
+dlg|327|0,,"Select position for ""@3%s@0"".","Chọn vị trí cho ""@3%s@0"".",32,"Chọn tư thế cho ""@3%s@0""."
+dlg|328|0,,"@3Activate@0 the effect of ""@3%s@0"" in your @2hand@0?","@3Activate@0 Effect của ""@3%s@0"" trên @2tay@0?",59,"@3Kích hoạt@0 hiệu ứng ""@3%s@0"" trên @2tay@0?"
+dlg|329|0,,"@3Activate@0 the effect of ""@3%s@0"" in your @2Graveyard@0?","@3Activate@0 Effect của ""@3%s@0"" trong @2Graveyard@0?",64,"@3Kích hoạt@0 hiệu ứng ""@3%s@0"" trong @2Mộ@0?"
+dlg|330|0,,Decide how many @3cards@0 to send to the @2Graveyard@0.,Chọn số @3lá bài@0 cần đưa vào @2Graveyard@0.,61,Chọn số @3lá bài@0 để đưa vào @2Mộ@0.
+dlg|331|0,,%d card(s),%d lá,12,%d lá bài
+dlg|332|0,,Declare which @3Monster@0 is on the bottom of your @2opponent's@0 @2Graveyard@0.,Đoán xem @3Monster@0 nào nằm dưới cùng @2Graveyard@0 của @2đối thủ@0.,89,Đoán @3Quái thú@0 ở đáy @2Mộ@0 của @2đối thủ@0.
+dlg|333|0,,"@3Destroy@0 another @3card@0 instead of ""@3%s@0""?","@3Destroy@0 1 @3lá bài@0 khác thay cho ""@3%s@0""?",54,"@3phá hủy@0 @3lá bài@0 khác thay ""@3%s@0""?"
+dlg|334|0,,Select a @3card@0 to @3destroy@0 instead.,Chọn 1 @3lá bài@0 để @3Destroy@0 thay thế.,47,Chọn @3lá bài@0 khác để @3phá hủy@0.
+dlg|335|0,,You must @3Tribute@0 @21@0 monster in order to @3Normal Summon or Set@0 this @3monster@0. @3Normal Summon or Set@0?,Bạn phải @3Tribute@0 @21@0 Monster để @3Normal Summon hoặc Set@0 @3quái thú@0 này. @3Normal Summon hoặc Set@0?,127,Cần @3Hiến tế@0 @21@0 quái thú để @3Triệu hồi/Đặt úp@0 @3quái thú@0 này. @3Triệu hồi/Đặt úp@0?
+dlg|336|0,,You must @3Tribute@0 @2%d@0 monsters in order to @3Normal Summon or Set@0 this @3monster@0. @3Normal Summon or Set@0?,Bạn phải @3Tribute@0 @2%d@0 Monster để @3Normal Summon hoặc Set@0 @3quái thú@0 này. @3Normal Summon hoặc Set@0?,129,Cần @3Hiến tế@0 @2%d@0 @3quái thú@0 để @3Triệu hồi/Đặt úp@0 quái này. @3Triệu hồi/Đặt úp@0?
+dlg|337|0,,You must @3Tribute@0 @21@0 monster in order to @3Special Summon@0 this @3monster@0. @3Special Summon@0?,Bạn phải @3Tribute@0 @21@0 Monster để @3Special Summon@0 @3quái thú@0 này. @3Special Summon@0?,114,Cần @3Hiến tế@0 @21@0 quái thú để @3Triệu hồi Đặc biệt@0 @3quái thú@0 này. @3Triệu hồi Đặc biệt@0?
+dlg|338|0,,You must @3Tribute@0 @2%d@0 monsters in order to @3Special Summon@0 this @3monster@0. @3Special Summon@0?,Bạn phải @3Tribute@0 @2%d@0 Monster để @3Special Summon@0 @3quái thú@0 này. @3Special Summon@0?,116,Cần @3Hiến tế@0 @2%d@0 @3quái thú@0 để @3Triệu hồi Đặc biệt@0. @3Triệu hồi Đặc biệt@0?
+dlg|339|0,,There is no target @3card@0 in your @2hand@0.,Không có @3lá bài@0 Target nào trên @2tay@0 bạn.,53,Không có @3lá bài@0 phù hợp trên @2tay@0.
+dlg|340|0,,@3Draw@0 a @3card@0 from your @2Deck@0?,@3Rút@0 1 @3lá bài@0 từ @2Deck@0?,43,@3Rút@0 @3lá bài@0 từ @2Bộ bài@0?
+dlg|341|0,,Select a @3card@0 to show your @2opponent@0.,Chọn 1 @3lá bài@0 để cho @2đối thủ@0 xem.,49,Chọn @3lá bài@0 cho @2đối thủ@0 xem.
+dlg|342|0,,Choose a @3card@0 to place a counter on.,Chọn 1 @3lá bài@0 để đặt counter lên.,45,Chọn @3lá bài@0 để đặt bộ đếm.
+dlg|343|0,,@3Tribute Summon@0 @0%s@0 using a choosen number of @3tributes@0?,@3Tribute Summon@0 @0%s@0 với số @3tribute@0 tùy chọn?,72,@3Triệu hồi Hiến tế@0 @0%s@0 với số @3hiến tế@0 tùy chọn?
+dlg|344|0,,Select a @3card@0 to remove a counter from.,Chọn 1 @3lá bài@0 để gỡ counter.,48,Chọn @3lá bài@0 để bỏ bộ đếm.
+dlg|400|0,,Heads,Mặt Face-up,13,Mặt ngửa
+dlg|401|0,,Tails,Mặt sấp,8,Mặt sấp
+dlg|402|0,,Hands,Hand bài,9,Trên tay
+dlg|404|0,,Correct!,Đúng rồi!,10,Đúng rồi!
+dlg|405|0,,Miss!,Sai rồi!,9,Trượt!
+dlg|406|0,,Recover your Life Points.,Hồi phục Life Points.,28,Hồi LP.
+dlg|407|0,,Opponent recovers Life Points.,Opponent hồi phục Life Points.,34,Đối thủ hồi LP.
+dlg|410|0,,Enter @2Battle Phase@0.,Vào @2Battle Phase@0.,26,Vào @2GĐ Chiến đấu@0.
+dlg|411|0,,End @2Battle Phase@0 at once.,Kết thúc @2Battle Phase@0 ngay.,35,Kết thúc ngay @2GĐ Chiến đấu@0.
+dlg|412|0,,Continue @2Battle Phase@0.,Tiếp tục @2Battle Phase@0.,29,Tiếp tục @2GĐ Chiến đấu@0.
+dlg|413|0,,Continue @2Main Phase@0.,Tiếp tục @2Main Phase@0.,27,Tiếp tục @2GĐ Chính@0.
+dlg|414|0,,Proceed to @2Main Phase 2@0.,Chuyển sang @2Main Phase 2@0.,32,Chuyển sang @2GĐ Chính 2@0.
+dlg|415|0,,End your @2turn@0.,Kết thúc @2lượt@0.,20,Kết thúc @2lượt@0.
+dlg|416|0,,Effect: Place @21 @3monster@0 in @3Defense Position@0,Effect: Đặt @21 @3quái thú@0 ở @3Defense Position@0,59,Hiệu ứng: Đặt @21 @3quái thú@0 ở @3Tư thế Thủ@0.
+dlg|417|0,,@3Equip@0 effect: Increase @3ATK@0,Effect @3Equip@0: Tăng @3ATK@0,38,Hiệu ứng @3Trang bị@0: Tăng @3ATK@0.
+dlg|418|0,,Both effects,Cả hai Effect,15,Cả hai hiệu ứng
+dlg|420|0,,Deal @3damage@0 to opponent.,Gây @3sát thương@0 cho Opponent.,36,Gây @3sát thương@0 cho đối thủ.
+dlg|421|0,,Randomly discard @22@0 cards from your opponent's @2hand@0.,Bỏ ngẫu nhiên @22@0 lá từ @2tay@0 Opponent.,65,Bỏ ngẫu nhiên @22@0 lá trên @2tay@0 đối thủ.
+dlg|422|0,,Randomly discard @21@0 card from your opponent's @2hand@0.,Bỏ ngẫu nhiên @21@0 lá từ @2tay@0 Opponent.,64,Bỏ ngẫu nhiên @21@0 lá trên @2tay@0 đối thủ.
+dlg|423|0,,Send two cards from the top of your opponent's @2Deck@0 to the @2Graveyard@0.,Đưa 2 lá trên cùng @2Deck@0 Opponent vào @2Graveyard@0.,85,Đưa hai lá đầu @2Bộ bài@0 đối thủ vào @2Mộ@0.
+dlg|424|0,,My Deck,Deck của tôi,14,Bộ bài của tôi
+dlg|425|0,,Opponent's Deck,Deck của Opponent,19,Bộ bài đối thủ
+dlg|426|0,,Discard one card at random from your @2hand@0.,Bỏ ngẫu nhiên 1 lá từ @2tay@0 bạn.,51,Bỏ ngẫu nhiên một lá trên @2tay@0.
+dlg|427|0,,@3Destroy@0 @21@0 your @3monster@0.,@3Destroy@0 @21@0 @3quái thú@0 của bạn.,43,@3Phá hủy@0 @21@0 @3quái thú@0 của bạn.
+dlg|428|0,,Do not @3activate@0 effect.,Không @3Activate@0 Effect.,30,Không @3kích hoạt@0 hiệu ứng.
+dlg|429|0,,@3Destroy@0 @21 @3monster@0.,@3Destroy@0 @21 @3quái thú@0.,32,@3Phá hủy@0 @21 @3quái thú@0.
+dlg|430|0,,Convert Life Points to @3ATK/DEF@0.,Đổi Life Points thành @3ATK/DEF@0.,39,Đổi LP thành @3ATK/DEF@0.
+dlg|431|0,,@3Destroy@0 @21 @3Spell or Trap Card@0 on the Field.,@3Destroy@0 @21 @3Spell hoặc Trap Card@0 trên Field.,58,@3Phá hủy@0 @21 @3lá Phép/Bẫy@0 trên Sân.
+dlg|432|0,,Return @21@0 @3card@0 on the Field to owner's @2hand@0.,Trả @21@0 @3lá bài@0 trên Field về @2tay@0 Owner.,61,Trả @21@0 @3lá bài@0 trên Sân về @2tay@0 chủ bài.
+dlg|433|0,,Look at top @3card@0 of opponent's @2Deck@0 and place it either at the top or at the bottom of the @2Deck@0.,Xem @3lá bài@0 trên cùng @2Deck@0 Opponent và đặt lên trên hoặc xuống dưới @2Deck@0.,119,Xem @3lá bài@0 đầu @2Bộ bài@0 đối thủ; đặt lên đầu hoặc dưới đáy @2Bộ bài@0.
+dlg|434|0,,Return @21@0 opponent's @3monster@0 to the top of the owner's @2Deck@0.,Trả @21@0 @3quái thú@0 của Opponent lên đầu @2Deck@0 Owner.,79,Trả @21@0 @3quái thú@0 đối thủ lên đầu @2Bộ bài@0 chủ bài.
+dlg|435|0,,Send the top @3card@0 on your opponent's @2Deck@0 to the @2Graveyard@0.,Đưa @3lá bài@0 trên cùng @2Deck@0 Opponent vào @2Graveyard@0.,79,Đưa @3lá bài@0 đầu @2Bộ bài@0 đối thủ vào @2Mộ@0.
+dlg|436|0,,Add @21@0 designated @3card@0 to your @2hand@0 from your @2Deck@0.,Thêm @21@0 @3lá bài@0 chỉ định từ @2Deck@0 lên @2tay@0.,73,Lấy @21@0 @3lá bài@0 chỉ định từ @2Bộ bài@0 lên @2tay@0.
+dlg|437|0,,Add @21@0 designated @3card@0 to your @2hand@0 from your @2Graveyard@0.,Thêm @21@0 @3lá bài@0 chỉ định từ @2Graveyard@0 lên @2tay@0.,79,Lấy @21@0 @3lá bài@0 chỉ định từ @2Mộ@0 lên @2tay@0.
+dlg|438|0,,Top of the Deck,Đầu Deck,17,Đầu Bộ bài
+dlg|439|0,,Bottom of the Deck,Đáy Deck,20,Đáy Bộ bài
+dlg|446|0,,Change the position of your opponent's @3monster@0.,Đổi vị trí @3quái thú@0 của Opponent.,57,Đổi tư thế @3quái thú@0 đối thủ.
+dlg|447|0,,Gain @3control@0 of your opponent's @3monster@0.,Giành @3quyền Control@0 @3quái thú@0 của Opponent.,56,Giành @3quyền điều khiển@0 @3quái thú@0 đối thủ.
+dlg|448|0,,@3Draw@0 @21@0 @3card@0.,@3Rút@0 @21@0 @3lá bài@0.,28,@3Rút@0 @21@0 @3lá bài@0.
+dlg|449|0,,@3Draw@0 @22@0 @3cards@0.,@3Rút@0 @22@0 @3lá bài@0.,28,@3Rút@0 @22@0 @3lá bài@0.
+dlg|450|0,,Counter @3Spell@0 that targets @21 @3monster@0.,Negate @3Spell@0 nhắm vào @21 @3quái thú@0.,52,Vô hiệu @3Phép@0 nhắm vào @21 @3quái thú@0.
+dlg|451|0,,Send @21 @3Spell Card@0 to the @2Graveyard@0 to counter @3Spell@0.,Đưa @21 @3Spell Card@0 vào @2Graveyard@0 để Negate @3Spell@0.,73,Đưa @21 @3lá Phép@0 vào @2Mộ@0 để vô hiệu @3Phép@0.
+dlg|452|0,,@3Equip Union Monster@0.,@3Trang bị Union Monster@0.,30,@3Trang bị Liên hợp@0.
+dlg|453|0,,@3Un-equip@0 @3Union Monster@0 that is currently @3equipped@0.,@3Tháo@0 @3Union Monster@0 đang @3trang bị@0.,69,@3Tháo trang bị@0 @3quái thú Liên hợp@0 đang @3trang bị@0.
+dlg|454|0,,@3Destroy@0 @21 @3Equip Card@0 on the Field.,@3Destroy@0 @21 @3Equip Card@0 trên Field.,49,@3Phá hủy@0 @21 @3lá Trang bị@0 trên Sân.
+dlg|455|0,,@3Equip@0  @21 @3Equip Card@0 on the Field to this @3card@0.,@3Trang bị@0 @21 @3Equip Card@0 trên Field cho @3lá bài@0 này.,69,@3Trang bị@0 @21 @3lá Trang bị@0 trên Sân cho @3lá bài@0 này.
+dlg|456|0,,Negate @3monster@0.,Negate @3quái thú@0.,23,Vô hiệu @3quái thú@0.
+dlg|458|0,,@3Destroy@0 all @3monsters@0 on your opponent's side of the field.,@3Destroy@0 tất cả @3quái thú@0 bên Field của Opponent.,73,@3Phá hủy@0 mọi @3quái thú@0 đối thủ trên Sân.
+dlg|459|0,,@3Destroy@0 all @3Spell and Trap Cards@0 on your opponent's side of the field.,@3Destroy@0 tất cả @3Spell và Trap Card@0 bên Field của Opponent.,86,@3Phá hủy@0 mọi @3lá Phép và Bẫy@0 của đối thủ.
+dlg|460|0,,Change the position of the @3equipped monster@0.,Đổi vị trí của @3quái thú được Equip@0.,53,Đổi tư thế @3quái thú được trang bị@0.
+dlg|461|0,,Allow the @3equipped monster@0 to @3attack@0 players directly.,Cho phép @3quái thú được Equip@0 @3Direct Attack@0 người chơi.,69,Cho @3quái thú được trang bị@0 @3tấn công@0 trực tiếp.
+dlg|462|0,,Increases a @3monster@0's @3ATK@0 by @21000@0.,Tăng @3ATK@0 của @3quái thú@0 thêm @21000@0.,51,Tăng @3ATK@0 @3quái thú@0 thêm @21000@0.
+dlg|463|0,,@3Attack@0 once more after @3destroying@0 a @3monster@0.,@3Tấn công@0 thêm 1 lần sau khi @3Destroy@0 1 @3quái thú@0.,65,@3Tấn công@0 thêm lần nữa sau khi @3phá hủy@0 @3quái thú@0.
+dlg|464|0,,Cause @3damage@0 equal to the @3ATK@0 of the @3monster@0 @3destroyed@0 in battle.,Gây @3sát thương@0 bằng @3ATK@0 của @3quái thú@0 bị @3Destroy@0 trong chiến đấu.,90,Gây @3sát thương@0 bằng @3ATK@0 @3quái thú@0 bị @3phá hủy@0 trong trận.
+dlg|465|0,,Your opponent cannot @3draw@0 during their next @2Draw Phase@0.,Opponent không thể @3rút bài@0 trong @2Draw Phase@0 kế tiếp.,70,Đối thủ không được @3rút@0 ở @2Giai đoạn Rút@0 kế tiếp.
+dlg|466|0,,Your opponent cannot @3activate@0 a @3Spell or Trap Card@0 during this @2turn@0.,Opponent không thể @3Activate@0 @3Spell hoặc Trap Card@0 trong @2lượt@0 này.,89,Đối thủ không thể @3kích hoạt@0 @3lá Phép/Bẫy@0 trong @2lượt@0 này.
+dlg|467|0,,Increases a @3monster@0's @3ATK@0 by @2400@0.,Tăng @3ATK@0 của @3quái thú@0 thêm @2400@0.,50,Tăng @3ATK@0 @3quái thú@0 thêm @2400@0.
+dlg|468|0,,@3Destroy@0 @21 @3face-up Spell or Trap Card@0.,@3Destroy@0 @21 @3Spell hoặc Trap Card face-up@0.,54,@3Phá hủy@0 @21 @3lá Phép/Bẫy ngửa@0.
+dlg|470|0,,@3Destroy@0 @3Spell or Trap Card(s)@0 on the field.,@3Destroy@0 @3Spell hoặc Trap Card@0 trên Field.,57,@3Phá hủy@0 @3lá Phép/Bẫy@0 trên Sân.
+dlg|471|0,,Add @21@0 designated @3card@0 to your @2hand@0 from your @2Deck@0.,Thêm @21@0 @3lá bài@0 chỉ định từ @2Deck@0 lên @2tay@0.,73,Lấy @21@0 @3lá bài@0 chỉ định từ @2Bộ bài@0 lên @2tay@0.
+dlg|472|0,,Move this @3card@0 to an adjacent unoccupied @2Monster Card Zone@0.,Di chuyển @3lá bài@0 này sang @2Monster Zone@0 trống kế bên.,74,Chuyển @3lá bài@0 này sang @2Ô Quái thú@0 trống cạnh bên.
+dlg|473|0,,Place a counter on a @3monster@0.,Đặt counter lên 1 @3quái thú@0.,37,Đặt bộ đếm lên @3quái thú@0.
+dlg|474|0,,@3Destroy@0 the @3monster@0 with the counter on it.,@3Destroy@0 @3quái thú@0 có counter.,57,@3Phá hủy@0 @3quái thú@0 có bộ đếm.
+dlg|475|0,,"Send all ""@3Crystal Beast@0"" monsters you control to the @2Graveyard@0 and increase the @3ATK@0 of this @3card@0.","Đưa tất cả quái ""@3Crystal Beast@0"" của bạn vào @2Graveyard@0 và tăng @3ATK@0 của @3lá bài@0 này.",125,"Đưa mọi ""@3Crystal Beast@0"" bạn điều khiển vào @2Mộ@0 để tăng @3ATK@0 @3lá bài@0 này."
+dlg|476|0,,"@3Remove from play@0 all ""@3Crystal Beast@0"" Cards in your @3Graveyard@0 to return all cards on the field to their owner's @2Decks@0.","@3Loại bỏ@0 tất cả lá ""@3Crystal Beast@0"" trong @3Graveyard@0 để trả mọi lá bài trên Field về @2Deck@0 Owner.",147,"@3Loại khỏi trận@0 mọi ""@3Crystal Beast@0"" trong @3Mộ@0 để trả mọi lá trên Sân về @2Bộ bài@0 chủ bài."
+dlg|477|0,,@3Equip@0 this @3Equip Card@0 to another @3card@0.,@3Trang bị@0 @3Equip Card@0 này cho @3lá bài@0 khác.,58,@3Trang bị@0 @3lá Trang bị@0 này cho @3lá bài@0 khác.
+dlg|478|0,,@3Special Summon@0 @21@0 specific @3card@0.,@3Special Summon@0 @21@0 @3lá bài@0 cụ thể.,48,@3Triệu hồi ĐB@0 @21@0 @3lá bài@0 chỉ định.
+dlg|479|0,,@3Destroy@0 @21@0 @3Spell or Trap Card@0 on your @2opponent's@0 side of the field.,@3Destroy@0 @21@0 @3Spell hoặc Trap Card@0 bên Field @2đối thủ@0.,91,@3Phá hủy@0 @21@0 @3lá Phép/Bẫy@0 trên Sân @2đối thủ@0.
+dlg|480|0,,@3Destroy@0 @22@0 @3cards@0 on your @2opponent's@0 side of the field.,@3Destroy@0 @22@0 @3lá bài@0 bên Field @2đối thủ@0.,76,@3Phá hủy@0 @22@0 @3lá bài@0 trên Sân @2đối thủ@0.
+dlg|524|0,,Ticket,Vé,7,Vé
+dlg|582|0,,Your Fusion Deck,Fusion Deck của bạn,21,Bộ Dung hợp của bạn
+dlg|583|0,,Opponent's Fusion Deck,Fusion Deck của Opponent,27,Bộ Dung hợp đối thủ
+dlg|584|0,,Your Deck,Deck của bạn,14,Bộ bài của bạn
+dlg|585|0,,Opponent's Deck,Deck của Opponent,19,Bộ bài đối thủ
+dlg|586|0,,Your Graveyard,Graveyard của bạn,19,Mộ của bạn
+dlg|587|0,,Opponent's Graveyard,Graveyard của Opponent,25,Mộ đối thủ
+dlg|588|0,,Your Removed Cards,Lá bài bị Banish của bạn,27,Bài bị loại của bạn
+dlg|589|0,,Opponent's Removed Cards,Lá bài bị Banish của Opponent,32,Bài bị loại đối thủ
+dlg|590|0,,Confirm,Xác nhận,9,Xác nhận
+dlg|591|0,,Select a card.,Chọn 1 lá bài.,16,Chọn lá bài.
+dlg|592|0,,Select %d card(s).,Chọn %d lá bài.,20,Chọn %d lá bài.
+dlg|593|0,,You may select up to %d cards.,Bạn có thể chọn tối đa %d lá bài.,37,Được chọn tối đa %d lá bài.
+dlg|594|0,,Select amount,Chọn số lượng,15,Chọn số lượng

@@ -1,0 +1,36 @@
+{
+  "checkpoint": "G01",
+  "project": "Yu-Gi-Oh! World Championship 2008 (NDS)",
+  "source_checkpoint": "YGO_WC2008_CHECKPOINT_F03_MENU_1257.zip",
+  "source_checkpoint_sha256": "c79072402e645f6662e58a8d87c7822389ff78ac09fe4366d2c1fd3d2f52d3ca",
+  "translated_count": 8156,
+  "total_source_count": 8156,
+  "new_in_batch": 421,
+  "changed_vs_machine_translation": 399,
+  "retained_from_reference": 22,
+  "group_stats": {
+    "A": 2009,
+    "B": 1618,
+    "C": 1962,
+    "D": 649,
+    "E": 240,
+    "F": 1257,
+    "G": 421
+  },
+  "import_check": {
+    "valid": 8156,
+    "length_warnings": 1,
+    "errors": 0,
+    "warning_key": "story|1486|0"
+  },
+  "changed_csv_files": [
+    "G_HOI_THOAI_DUEL_DLG_01.csv",
+    "G_HOI_THOAI_DUEL_DLG_02.csv"
+  ],
+  "output_json": "ket_qua_dich.json",
+  "rom_tested": false,
+  "csv_sha256": {
+    "G_HOI_THOAI_DUEL_DLG_01.csv": "6ada01357e2f041f0dc9ca9255ae97dda26aeaa50d2d9c7da2cdda4341aadbb3",
+    "G_HOI_THOAI_DUEL_DLG_02.csv": "2ea2a49cfaa40141a0811dc88f2aed103333ffb2007142bda8e61014548126f0"
+  }
+}
