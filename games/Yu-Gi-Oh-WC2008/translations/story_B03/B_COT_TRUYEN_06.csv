@@ -1,0 +1,151 @@
+key,ten_la_bai_EN,tieng_Anh,tieng_Viet_hien_tai,toi_da_ky_tu,tieng_Viet_MOI
+story|947|0,,My name is Shell Guardian - Savan.,Ta là Shell Guardian - Savan.,38,Ta là Shell Guardian - Savan.
+story|948|0,,"If you pass my test, you'll be allowed to pass.","Nếu ngươi vượt qua thử thách của ta, ngươi sẽ được phép đi qua.",70,"Vượt qua thử thách của ta, ngươi sẽ được đi tiếp."
+story|949|0,,My test is a duel with certain conditions,Thử thách của ta là một trận Duel với một số điều kiện,60,Thử thách là các trận đấu có điều kiện riêng
+story|950|0,,"that affect your Deck, Life Points, and so on.","ảnh hưởng đến Deck, Life Points của ngươi, và nhiều thứ khác.",68,"về Bộ bài, LP và những yếu tố khác."
+story|951|0,,"If you can claim 3 wins out of these 5 duels, ","Nếu ngươi có thể giành 3 chiến thắng trong 5 trận Duel này, ",67,"Nếu thắng 3 trong 5 trận đấu,"
+story|952|0,,through this gate to another world.,ngươi sẽ được qua cánh cổng này đến thế giới khác.,56,ngươi được qua cổng sang thế giới khác.
+story|953|0,,Of course you can try to beat all 5 if you like.,Tất nhiên ngươi có thể thử thắng cả 5 trận nếu muốn.,58,"Tất nhiên, ngươi cũng có thể thắng cả 5 trận."
+story|955|0,,"Well, then. Will you try my test?","Vậy thì, ngươi sẽ thử thử thách của ta chứ?",48,"Vậy, ngươi muốn nhận thử thách của ta chứ?"
+story|957|0,,Make your selection,Hãy chọn,21,Hãy lựa chọn.
+story|958|0,,Take the test\nDon't take the test,Làm bài kiểm tra\nKhông làm bài kiểm tra,43,Nhận thử thách\nKhông thử
+story|959|0,,"Now, choose the condition.",Giờ hãy chọn điều kiện.,29,Giờ hãy chọn điều kiện.
+story|960|0,,40 card Deck\n2000LP\nOnly Monster cards\nSpells forbidden\n3 of each card,Deck 40 lá\n2000LP\nChỉ dùng Monster\nCấm Spell\n3 lá mỗi loại,78,Bộ bài 40 lá\n2000 LP\nChỉ quái thú\nCấm Phép\nMỗi lá 3 bản
+story|961|0,,*Duel with exactly 40 cards in your Deck.,*Duel với đúng 40 lá trong Deck.,46,*Đấu với đúng 40 lá trong Bộ bài.
+story|963|0,,*Start with 2000 Life Points.,*Bắt đầu với 2000 Life Points.,34,*Bắt đầu với 2000 LP.
+story|965|0,,*You cannot include Spell or Trap cards in your Deck.,*Deck không được có Spell hoặc Trap Card.,59,*Bộ bài không được có lá Phép hay Bẫy.
+story|967|0,,*You cannot include Spell cards in your Deck.,*Deck không được có Spell Card.,50,*Bộ bài không được có lá Phép.
+story|969|0,,*You must include 3 copies of each card in your Deck.,*Deck phải có đúng 3 lá mỗi loại.,59,*Bộ bài phải có đúng 3 bản của mỗi lá.
+story|971|0,,That's OK. There is no need to rush. Come back once you are ready to try again.,Không sao. Không cần vội. Quay lại khi ngươi sẵn sàng thử lại.,87,"Không sao, chẳng việc gì phải vội. Hãy quay lại khi ngươi sẵn sàng."
+story|972|0,,"Traveler, I believed you could do it.","Người lữ hành, ta đã tin là ngươi làm được.",48,"Lữ khách, ta đã tin ngươi làm được."
+story|973|0,,Will you continue the challenge?,Ngươi có tiếp tục thử thách không?,38,Ngươi muốn tiếp tục thử thách chứ?
+story|975|0,,"Traveler, you failed this time, but don't give up.","Người lữ hành, lần này ngươi thất bại, nhưng đừng bỏ cuộc.",64,"Lữ khách, lần này ngươi thua, nhưng đừng bỏ cuộc."
+story|976|0,,"Traveler, I believed you could do it.","Người lữ hành, ta đã tin là ngươi làm được.",48,"Lữ khách, ta đã tin ngươi làm được."
+story|977|0,,Will you continue the challenge?,Ngươi có tiếp tục thử thách không?,38,Ngươi muốn tiếp tục thử thách chứ?
+story|980|0,,Your Deck doesn't meet certain conditions.,Deck của bạn không đáp ứng đủ điều kiện.,47,Bộ bài của bạn chưa đủ điều kiện.
+story|982|0,,"Traveler, I believed you could do it.","Người lữ hành, ta đã tin là ngươi làm được.",48,"Lữ khách, ta đã tin ngươi làm được."
+story|983|0,,"Now, advance to the next world!",Giờ hãy tiến đến thế giới tiếp theo!,40,Giờ hãy đến thế giới tiếp theo!
+story|984|0,,There's a treasure chest before you.,Có một rương kho báu trước mắt bạn.,40,Trước mặt bạn có một rương báu.
+story|985|0,,Open it?,Mở nó ra?,10,Mở ra chứ?
+story|986|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|987|0,,There's a card in the chest!,Có một lá bài trong rương!,31,Có một lá bài trong rương!
+story|988|0,,"You received ""@5YOURCARD()@0""!","Bạn đã nhận ""@5YOURCARD()@0""!",34,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|989|0,,There's DP in the chest!,Có DP trong rương!,27,Trong rương có DP!
+story|990|0,,You obtained 100DP.,Bạn đã nhận được 100 DP.,27,Bạn nhận được 100 DP.
+story|991|0,,The chest is empty!,Rương trống không!,21,Rương trống rỗng!
+story|992|0,,The chest was a Mimic!,Rương hóa ra là Mimic!,25,Đó là quái Mimic!
+story|993|0,,You left the area.,Bạn đã rời khỏi khu vực.,27,Bạn đã rời khu vực.
+story|994|0,,"You received ""@5YOURCARD()@0""!","Bạn đã nhận ""@5YOURCARD()@0""!",34,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|995|0,,The monster stole 100DP!,Quái thú đã cướp mất 100 DP!,31,Quái thú đã cướp mất 100 DP!
+story|996|0,,"There is a fishing site. Next to it is a fishing pole, bait, and a bill.","Có một điểm câu cá. Bên cạnh là cần câu, mồi, và một tờ hóa đơn.",80,"Có chỗ câu cá. Bên cạnh là cần câu, mồi và một tờ giấy."
+story|997|0,,On the paper is written:,Trên tờ giấy ghi:,27,Trên tờ giấy viết:
+story|998|0,,It costs 200 DP to fish.,Câu cá tốn 200 DP.,27,Câu cá tốn 200 DP.
+story|999|0,,Will you pay the DP to fish?,Bạn có trả DP để câu cá không?,34,Bạn muốn trả DP để câu cá không?
+story|1000|0,,Make your selection,Hãy chọn,21,Hãy lựa chọn.
+story|1001|0,,Pay\nDon't pay\nLeave,Trả tiền\nKhông trả\nRời đi,28,Trả DP\nKhông trả\nRời đi
+story|1002|0,,Select the spot to fish.,Chọn vị trí để câu.,27,Hãy chọn chỗ câu.
+story|1003|0,,Left\nMiddle Front\nMiddle Rear\nRight,Trái\nGiữa Trước\nGiữa Sau\nPhải,39,Trái\nGiữa trước\nGiữa sau\nPhải
+story|1004|0,,Insufficient DP.,Không đủ DP.,18,Không đủ DP.
+story|1006|0,,What!? Fish without paying the DP!?,Cái gì!? Câu cá mà không trả DP!?,39,Dám câu cá mà không trả DP à!?
+story|1007|0,,The Legendary Fisherman appears!,Legendary Fisherman xuất hiện!,36,Legendary Fisherman xuất hiện!
+story|1008|0,,You left the area.,Bạn đã rời khỏi khu vực.,27,Bạn đã rời khu vực.
+story|1009|0,,An opponent appears!,Một đối thủ xuất hiện!,25,Một đối thủ xuất hiện!
+story|1011|0,,You caught... nothing!,Bạn câu được... không có gì cả!,35,Bạn câu được... chẳng có gì!
+story|1012|0,,"You received ""@5YOURCARD()@0""!","Bạn đã nhận ""@5YOURCARD()@0""!",34,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|1013|0,,"You received ""@5YOURCARD()@0""!","Bạn đã nhận ""@5YOURCARD()@0""!",34,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|1016|0,,Not bad for a thief!,Không tệ đối với một tên trộm!,34,Đồ trộm! Khá lắm đấy!
+story|1017|0,,"Next time, pay the DP!",Lần sau nhớ trả DP!,25,Lần sau phải trả DP!
+story|1018|0,,"How do you like that, thief!","Thích không, đồ trộm!",31,"Thấy thế nào hả, đồ trộm!"
+story|1019|0,,Now pay up!,Giờ thì trả tiền đi!,23,Giờ thì trả tiền đi!
+story|1020|0,,"If you learned your lesson, you'll pay next time!","Nếu bạn rút được bài học, lần sau bạn sẽ trả tiền!",56,Nếu đã chừa thì lần sau nhớ trả tiền đấy!
+story|1021|0,,There is a stone monument in front of you.,Có một bia đá phía trước bạn.,47,Trước mặt bạn là một tấm bia đá.
+story|1022|0,,Sealed inside of it is a powerful monster.,Bên trong nó niêm phong một quái thú hùng mạnh.,52,Một quái thú hùng mạnh bị phong ấn bên trong.
+story|1024|0,,"If you look closely, ""@5Ocean Dragon Lord - Neo-Daedalus@0"" is engraved in the stone.","Nhìn kỹ, bạn thấy ""@5Ocean Dragon Lord - Neo-Daedalus@0"" được khắc trên đá.",94,"Nhìn kỹ, dòng chữ ""@5Ocean Dragon Lord - Neo-Daedalus@0"" được khắc trên bia."
+story|1025|0,,Do you challenge the seal opening?,Bạn có muốn thử thách mở niêm phong không?,47,Bạn muốn thử phá phong ấn không?
+story|1026|0,,What will you do?,Bạn sẽ làm gì?,19,Bạn muốn làm gì?
+story|1027|0,,Yes\nNo\nHow to open the seal,Có\nKhông\nCách mở niêm phong,30,Có\nKhông\nCách phá phong ấn
+story|1028|0,,Your Deck doesn't meet certain conditions.,Deck của bạn không đáp ứng đủ điều kiện.,47,Bộ bài của bạn chưa đủ điều kiện.
+story|1029|0,,You left the area.,Bạn đã rời khỏi khu vực.,27,Bạn đã rời khu vực.
+story|1030|0,,The challenge is a duel against the sealed monster.,Thử thách là một trận Duel với quái thú bị niêm phong.,60,Bạn phải đấu với quái thú bị phong ấn.
+story|1031|0,,You must summon the same monster,Bạn phải Summon đúng quái thú,36,Bạn phải Triệu hồi một quái thú
+story|1032|0,,"as the one engraved in the stone monument,","giống với quái thú được khắc trên bia đá,",47,"giống hệt hình khắc trên bia đá,"
+story|1033|0,,and win the duel.,và thắng trận Duel.,21,rồi thắng trận đấu.
+story|1035|0,,The seal has been successfully opened!,Niêm phong đã được mở thành công!,42,Phong ấn đã được giải!
+story|1036|0,,You failed in opening the seal.,Bạn đã thất bại khi mở niêm phong.,38,Bạn không phá được phong ấn.
+story|1037|0,,There is a stone monument in front of you.,Có một bia đá phía trước bạn.,47,Trước mặt bạn là một tấm bia đá.
+story|1038|0,,Sealed inside of it is a powerful monster.,Bên trong nó niêm phong một quái thú hùng mạnh.,52,Một quái thú hùng mạnh bị phong ấn bên trong.
+story|1040|0,,"If you look closely, ""@5Exxod, Master of The Guard@0"" is engraved in the stone.","Nhìn kỹ, bạn thấy ""@5Exxod, Master of The Guard@0"" được khắc trên đá.",87,"Nhìn kỹ, dòng chữ ""@5Exxod, Master of The Guard@0"" được khắc trên bia."
+story|1041|0,,Do you challenge the seal opening?,Bạn có muốn thử thách mở niêm phong không?,47,Bạn muốn thử phá phong ấn không?
+story|1042|0,,What will you do?,Bạn sẽ làm gì?,19,Bạn muốn làm gì?
+story|1043|0,,Yes\nNo\nHow to open the seal,Có\nKhông\nCách mở niêm phong,30,Có\nKhông\nCách phá phong ấn
+story|1044|0,,Your Deck doesn't meet certain conditions.,Deck của bạn không đáp ứng đủ điều kiện.,47,Bộ bài của bạn chưa đủ điều kiện.
+story|1045|0,,You left the area.,Bạn đã rời khỏi khu vực.,27,Bạn đã rời khu vực.
+story|1046|0,,The challenge is a duel against the sealed monster.,Thử thách là một trận Duel với quái thú bị niêm phong.,60,Bạn phải đấu với quái thú bị phong ấn.
+story|1047|0,,You must summon the same monster,Bạn phải Summon đúng quái thú,36,Bạn phải Triệu hồi một quái thú
+story|1048|0,,"as the one engraved in the stone monument,","giống với quái thú được khắc trên bia đá,",47,"giống hệt hình khắc trên bia đá,"
+story|1049|0,,and win the duel.,và thắng trận Duel.,21,rồi thắng trận đấu.
+story|1051|0,,The seal has been successfully opened!,Niêm phong đã được mở thành công!,42,Phong ấn đã được giải!
+story|1052|0,,You failed in opening the seal.,Bạn đã thất bại khi mở niêm phong.,38,Bạn không phá được phong ấn.
+story|1053|0,,I heard about you from Ojama Black! He said you were fishy!,Tôi nghe Ojama Black kể về bạn! Hắn nói bạn đáng ngờ lắm!,65,Ojama Black kể về ngươi rồi! Hắn bảo ngươi đáng ngờ lắm!
+story|1054|0,,I'll duel ya'!,Tôi sẽ Duel với bạn!,23,Ta phải đấu với ngươi!
+story|1055|0,,Argh... You're strong. But I don't trust you!,Hự... Bạn mạnh thật. Nhưng tôi vẫn không tin bạn!,54,Hừ... Ngươi mạnh đấy. Nhưng ta chưa tin ngươi đâu!
+story|1056|0,,*cough* E-Excuse me...,*ho* X-xin lỗi...,25,*khụ* X-xin lỗi...
+story|1057|0,,"I'm sorry, I don't feel well... Maybe it's this town...","Xin lỗi, tôi thấy không khỏe... Có lẽ tại thị trấn này...",63,"Xin lỗi, tôi không khỏe... Có lẽ vì thị trấn này..."
+story|1058|0,,Do you have anything that will recover LP?,Bạn có gì giúp hồi phục LP không?,47,Bạn có lá nào giúp hồi LP không?
+story|1059|0,,Make your selection,Hãy chọn,21,Hãy lựa chọn.
+story|1060|0,,Give a card\nLeave,Đưa một lá bài\nRời đi,24,Đưa một lá bài\nRời đi
+story|1061|0,,"Hey, don't go...","Này, đừng đi...",18,"Này, đừng đi mà..."
+story|1062|0,,(You left the area.),(Bạn đã rời khỏi khu vực này.),34,(Bạn đã rời khu vực.)
+story|1063|0,,"Handed over ""@5OWNCARD()@0"".","Đã đưa ""@5OWNCARD()@0"".",31,"Đã trao ""@5OWNCARD()@0""."
+story|1064|0,,*cough* Th-Thank you. I feel a bit better.,*ho* C-cảm ơn. Tôi thấy khá hơn một chút.,47,*khụ* C-cảm ơn... Tôi thấy đỡ hơn chút rồi.
+story|1065|0,,"Handed over ""@5OWNCARD()@0"".","Đã đưa ""@5OWNCARD()@0"".",31,"Đã trao ""@5OWNCARD()@0""."
+story|1066|0,,"Thanks to you, I feel better.","Nhờ bạn, tôi thấy khỏe hơn.",32,Nhờ bạn mà tôi khỏe hơn rồi.
+story|1067|0,,Take this card as a symbol of my appreciation. Bye...,Hãy nhận lá bài này như một lời cảm ơn. Tạm biệt...,59,Xin nhận lá này thay lời cảm ơn. Tạm biệt...
+story|1068|0,,"You received ""@5YOURCARD()@0""!","Bạn đã nhận ""@5YOURCARD()@0""!",34,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|1069|0,,"Handed over ""@5OWNCARD()@0"".","Đã đưa ""@5OWNCARD()@0"".",31,"Đã trao ""@5OWNCARD()@0""."
+story|1070|0,,*cough* *cough*,*ho* *ho*,17,*khụ* *khụ*
+story|1071|0,,*cough* *cough*,*ho* *ho*,17,*khụ* *khụ*
+story|1073|0,,Aw... but I don't feel any better. Thanks anyway though.,Hu... nhưng tôi vẫn chưa thấy khỏe hơn. Dù sao cũng cảm ơn bạn.,70,Ôi... Tôi vẫn chưa thấy khỏe hơn. Dù sao cũng cảm ơn.
+story|1074|0,,"Hey, don't go...","Này, đừng đi...",18,"Này, đừng đi mà..."
+story|1075|0,,(You left the area.),(Bạn đã rời khỏi khu vực này.),34,(Bạn đã rời khu vực.)
+story|1076|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|1077|0,,Help! A big bad monster's on the rampage!,Cứu với! Có con quái vật to xác đang tung hoành!,53,Cứu! Một con quái thú hung dữ đang nổi điên!
+story|1078|0,,It's coming after me!,Nó đang đuổi theo tôi!,25,Nó đang đuổi theo tôi!
+story|1081|0,,"Oh, somebody... please help!","Ơi, ai đó... làm ơn cứu với!",31,Có ai không... cứu tôi với!
+story|1082|0,,Make your selection,Hãy chọn,21,Hãy lựa chọn.
+story|1083|0,,Help\nDon't help,Giúp\nKhông giúp,17,Giúp\nKhông giúp
+story|1084|0,,"That's not cool! But, come on, aren't you tough enough?","Không hay chút nào! Nhưng mà, cậu mạnh thế kia, giúp một tay đi?",71,"Sao cậu nỡ thế! Cậu mạnh mà, giúp tôi đi chứ?"
+story|1085|0,,Thanks a bunch! I owe you one!,Cảm ơn nhiều lắm! Tôi nhớ ơn cậu!,37,Cảm ơn nhiều nhé! Tôi nợ cậu một lần!
+story|1087|0,,"Yip! Master, you sure are strong!",Yip! Chủ nhân mạnh quá!,37,Í! Chủ nhân mạnh thật đấy!
+story|1088|0,,Maybe Ojama Black or Ojama Green were also saying the same thing about you.,Chắc Ojama Black hay Ojama Green cũng đang nói y chang về chủ nhân.,83,Chắc Ojama Black hay Ojama Green cũng khen chủ nhân như vậy.
+story|1089|0,,I'll be sure to tell them all about you. Keep jamming...,Em sẽ kể hết cho các anh chị về chủ nhân. Tiếp tục jam nhé...,68,Em sẽ kể cho họ nghe hết! Cứ quậy tiếp nhé...
+story|1090|0,,"Well, well, I've been watching you. You're pretty good, eh?","Ha ha, ta đã xem cậu nãy giờ. Cũng giỏi đấy chứ nhỉ?",65,"Chà chà, ta theo dõi ngươi nãy giờ. Khá lắm!"
+story|1091|0,,Blowback Dragon wants to get really strong. But I powered it up way too much.,Blowback Dragon muốn thành siêu mạnh. Nhưng ta đã tăng sức cho nó quá tay.,85,"Blowback Dragon muốn mạnh hơn, nhưng ta tăng sức cho nó quá tay."
+story|1092|0,,It's been running riot downtown. I was wondering what could be done.,Nó đang quậy phá khắp trung tâm thành phố. Ta đang nghĩ xem nên làm gì.,79,Giờ nó quậy tung khu trung tâm. Ta chưa biết phải làm sao.
+story|1093|0,,"But you've really helped us out by quieting him down for a while. Yee, yee, yee!","Nhưng nhờ cậu, nó đã yên được một thời gian. Hí, hí, hí!",89,Nhờ cậu mà nó chịu yên một lúc rồi. Hí hí hí!
+story|1094|0,,"Oh, where are my manners? The name is Kozaky. I'm a duel researcher.","À, ta thật vô lễ! Ta tên Kozaky, nhà nghiên cứu Duel.",75,"À, ta quên giới thiệu. Ta là Kozaky, nhà nghiên cứu đấu bài."
+story|1095|0,,"Well, if you're interested, why not stop by my lab sometime?","Nếu cậu có hứng thú, ghé phòng thí nghiệm của ta lúc nào cũng được nhé?",79,Nếu thích thì ghé phòng thí nghiệm của ta chơi nhé?
+story|1096|0,,"You look like a really good subject for my research. Yee, yee, yee!","Cậu trông đúng là đối tượng nghiên cứu lý tưởng của ta. Hí, hí, hí!",74,Cậu đúng là mẫu vật nghiên cứu lý tưởng! Hí hí hí!
+story|1098|0,,Aw... you almost had it...,À... cậu suýt nữa thì thắng rồi...,38,Ôi... Cậu suýt thắng rồi...
+story|1099|0,,It looks like you weakened him though. This'll hold it for a while.,Nhưng có vẻ cậu đã làm nó yếu đi. Tạm thời cũng giữ được một lúc.,74,Nhưng cậu cũng làm nó yếu đi. Tạm thời thế là ổn.
+story|1100|0,,"But you gotta really knock him out! You'll be practicing somewhere, right?",Nhưng phải hạ gục nó hẳn hoi mới được! Cậu sẽ luyện tập ở đâu đó chứ?,82,Phải đánh gục hẳn nó mới được! Đi luyện tập thêm nhé?
+story|1101|0,,"Ooh, thanks for dropping by.","Ồ, cảm ơn cậu đã ghé chơi.",31,"Ồ, cảm ơn cậu đã ghé chơi."
+story|1102|0,,One of the monsters I powered up is here too. ,Có một con quái thú ta đã tăng sức cũng ở đây nữa.,56,Một quái thú ta từng cường hóa cũng đang ở đây.
+story|1103|0,,What do you say? You up for a duel?,Thế nào? Cậu có muốn Duel không?,39,Sao nào? Cậu muốn đấu một trận không?
+story|1104|0,,Make your selection,Hãy chọn,21,Hãy lựa chọn.
+story|1105|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1106|0,,I knew you'd be raring to go!,Ta biết ngay là cậu sẽ hăng hái mà!,39,Ta biết ngay là cậu đang nóng lòng mà!
+story|1107|0,,Come in to the heart of my lab.,Vào trung tâm phòng thí nghiệm của ta đi.,46,Vào sâu trong phòng thí nghiệm của ta đi.
+story|1109|0,,"Oh really? That's too bad. If you change your mind, then come on by.",Vậy à? Tiếc thật. Nếu đổi ý thì cứ ghé lại nhé.,75,Thế à? Tiếc thật. Đổi ý thì cứ ghé lại nhé.
+story|1110|0,,"Ooh, is that so? I imagined you'd have more ability than this.","Ồ, vậy à? Ta tưởng cậu phải giỏi hơn thế này chứ.",69,"Ồ, vậy sao? Ta tưởng cậu phải khá hơn thế này chứ."
+story|1111|0,,You're going to have to get a little better.,Cậu phải cải thiện thêm chút nữa đấy.,49,Cậu còn phải tiến bộ nhiều đấy.
+story|1112|0,,How about you wait a little and come back here again?,Hãy đợi một lúc rồi quay lại đây xem sao?,59,Hay cậu đợi một chút rồi quay lại đây?
+story|1113|0,,"Yee, yee, yee! You got a lot of skill!","Hí, hí, hí! Cậu có nhiều kỹ năng quá!",42,Hí hí hí! Cậu đấu giỏi thật!
+story|1114|0,,OK then. Hold on while I strengthen up a bit.,Được rồi. Đợi ta tăng sức thêm chút nhé.,50,Được rồi. Đợi ta cường hóa thêm một chút.
+story|1115|0,,"OK, I'm ready.","Xong rồi, ta sẵn sàng.",25,"Xong rồi, ta sẵn sàng."
+story|1117|0,,You feel like dueling again?,Cậu có muốn Duel nữa không?,31,Cậu muốn đấu tiếp không?
+story|1118|0,,Make your selection,Hãy chọn,21,Hãy lựa chọn.
+story|1119|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1120|0,,Good stuff! I knew you'd be up for it!,Tuyệt! Ta biết ngay là cậu sẽ đồng ý!,42,Hay lắm! Ta biết cậu sẽ đồng ý mà!
+story|1121|0,,"Then, step in to the lab's interior.",Vậy thì vào bên trong phòng thí nghiệm đi.,47,Vậy thì vào sâu trong phòng thí nghiệm đi.
+story|1123|0,,"Yee, yee, yee! You got a lot of skill!","Hí, hí, hí! Cậu có nhiều kỹ năng quá!",42,Hí hí hí! Cậu đấu giỏi thật!

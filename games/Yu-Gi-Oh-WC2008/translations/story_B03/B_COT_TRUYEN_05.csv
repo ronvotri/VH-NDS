@@ -1,0 +1,151 @@
+key,ten_la_bai_EN,tieng_Anh,tieng_Viet_hien_tai,toi_da_ky_tu,tieng_Viet_MOI
+story|780|0,,The spring spirit was just an illusion.,Linh hồn con suối chỉ là ảo ảnh.,43,Linh hồn suối nước chỉ là ảo ảnh.
+story|781|0,,Your DP is lost in the water.,DP của bạn đã mất xuống nước.,32,DP của bạn đã chìm xuống nước.
+story|782|0,,Insufficient DP.,Không đủ DP.,18,Không đủ DP.
+story|784|0,,You left the area.,Bạn đã rời khỏi khu vực.,27,Bạn đã rời khu vực.
+story|785|0,,There is a stone monument in front of you.,Có một bia đá phía trước bạn.,47,Trước mặt bạn là một tấm bia đá.
+story|786|0,,Sealed inside of it is a powerful monster.,Bên trong nó niêm phong một quái thú hùng mạnh.,52,Một quái thú hùng mạnh bị phong ấn bên trong.
+story|788|0,,"If you look closely, ""@5Master of Oz@0"" is engraved in the stone.","Nhìn kỹ, bạn thấy ""@5Master of Oz@0"" được khắc trên đá.",72,"Nhìn kỹ, dòng chữ ""@5Master of Oz@0"" được khắc trên bia."
+story|789|0,,Do you challenge the seal opening?,Bạn có muốn thử thách mở niêm phong không?,47,Bạn muốn thử phá phong ấn không?
+story|790|0,,What will you do?,Bạn sẽ làm gì?,19,Bạn muốn làm gì?
+story|791|0,,Yes\nNo\nHow to open the seal,Có\nKhông\nCách mở niêm phong,30,Có\nKhông\nCách phá phong ấn
+story|792|0,,Your Deck doesn't meet certain conditions.,Deck của bạn không đáp ứng đủ điều kiện.,47,Bộ bài của bạn chưa đủ điều kiện.
+story|793|0,,You left the area.,Bạn đã rời khỏi khu vực.,27,Bạn đã rời khu vực.
+story|794|0,,The challenge is a duel against the sealed monster.,Thử thách là một trận Duel với quái thú bị niêm phong.,60,Bạn phải đấu với quái thú bị phong ấn.
+story|795|0,,You must summon the same monster,Bạn phải Summon đúng quái thú,36,Bạn phải Triệu hồi một quái thú
+story|796|0,,"as the one engraved in the stone monument,","giống với quái thú được khắc trên bia đá,",47,"giống hệt hình khắc trên bia đá,"
+story|797|0,,and win the duel.,và thắng trận Duel.,21,rồi thắng trận đấu.
+story|799|0,,The seal has been successfully opened!,Niêm phong đã được mở thành công!,42,Phong ấn đã được giải!
+story|800|0,,You failed in opening the seal.,Bạn đã thất bại khi mở niêm phong.,38,Bạn không phá được phong ấn.
+story|801|0,,"He, he! Would you give me a cute monster?",Hề hề! Bạn có thể cho tôi một quái thú dễ thương không?,61,Hì hì! Cho tớ một quái thú dễ thương nhé?
+story|802|0,,What will you do?,Bạn sẽ làm gì?,19,Bạn muốn làm gì?
+story|803|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|805|0,,"Oh, that's OK.","Ồ, không sao đâu.",19,"Ồ, vậy cũng được."
+story|806|0,,Come see me again sometime!,Lần sau ghé thăm tôi nhé!,30,Nhớ ghé chơi với tớ nữa nhé!
+story|807|0,,Really!?,Thật sao!?,12,Thật sao!?
+story|808|0,,Can I really have it!? Really!?,Tôi thật sự được lấy nó sao!? Thật không!?,47,Cậu cho tớ thật à!? Thật hả!?
+story|809|0,,Yeah! I'm so happy! Thank you so much!,Đúng rồi! Tôi vui quá! Cảm ơn bạn rất nhiều!,49,Yay! Tớ vui quá! Cảm ơn cậu nhiều lắm!
+story|810|0,,"Ah, it's the card I wanted!","À, đúng là lá bài tôi muốn!",30,A! Đúng lá bài tớ mong muốn!
+story|811|0,,Thank you! I'll take good care of it!,Cảm ơn bạn! Tôi sẽ giữ gìn nó thật kỹ!,42,Cảm ơn! Tớ sẽ giữ gìn thật cẩn thận!
+story|812|0,,Thank you so much!,Cảm ơn bạn rất nhiều!,24,Cảm ơn cậu nhiều lắm!
+story|813|0,,"Um... Thanks, but no thanks...","Ừm... Cảm ơn, nhưng thôi không cần đâu...",46,"Ừm... Cảm ơn, nhưng thôi nhé..."
+story|814|0,,Ack! I hate this card!,Ối! Tôi ghét lá bài này!,27,Á! Tớ ghét lá bài này!
+story|815|0,,You're so mean! Don't come near me!,Bạn ác quá! Đừng lại gần tôi!,39,Cậu xấu tính quá! Đừng đến gần tớ!
+story|816|0,,Thank you so much!,Cảm ơn bạn rất nhiều!,24,Cảm ơn cậu nhiều lắm!
+story|817|0,,"Hey, you! It's your lucky day!","Này, bạn! Hôm nay là ngày may mắn của bạn đấy!",51,"Ê, nhóc! Hôm nay ngươi gặp may đấy!"
+story|818|0,,I'm going to let a weak duelist like you duel me!,Tôi sẽ cho một Duelist yếu như bạn Duel với tôi!,54,Ta cho một tay đấu yếu như ngươi đấu với ta!
+story|819|0,,Argh! You'll pay for this! I'll get you next time!,Ui! Bạn sẽ phải trả giá! Lần sau tôi sẽ tính sổ với bạn!,62,Hừ! Ngươi sẽ phải trả giá! Lần sau xem!
+story|820|0,,You better be prepared!,Chuẩn bị tinh thần đi nhé!,29,Liệu mà chuẩn bị cho kỹ!
+story|821|0,,"He, he, he! See? I knew I was stronger than you!",Hề hề hề! Thấy chưa? Tôi biết tôi mạnh hơn bạn mà!,56,Hê hê! Thấy chưa? Ta biết mình mạnh hơn mà!
+story|822|0,,"Come and duel me anytime, I don't mind!","Cứ quay lại Duel với tôi bất cứ lúc nào, tôi không phiền đâu!",68,"Cứ muốn đấu lúc nào thì tìm ta, ta chiều hết!"
+story|823|0,,Lost duelist... Have you come to have your fortune told?,Duelist lạc lối... Ngươi đến để xem bói sao?,62,Hỡi kẻ đấu bài lạc lối... Ngươi muốn xem bói sao?
+story|824|0,,It costs 50DP for a reading.,Xem bói một lần hết 50 DP.,31,Xem một quẻ mất 50 DP.
+story|825|0,,What will you do?,Bạn sẽ làm gì?,19,Bạn muốn làm gì?
+story|826|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|827|0,,Insufficient DP.,Không đủ DP.,18,Không đủ DP.
+story|829|0,,"Let's see, then...",Để xem nào...,20,Để ta xem nào...
+story|831|0,,Hm... I can't see anything. Come back a little later.,Hm... Ta không thấy gì cả. Quay lại sau một chút nhé.,59,Hừm... Ta chẳng thấy gì. Lát nữa quay lại nhé.
+story|832|0,,The spirited ones on the field are seeking for a duel.,Những linh hồn trên cánh đồng đang tìm kiếm một trận Duel.,64,Những linh hồn ngoài đồng đang mong được đấu bài.
+story|833|0,,Satisfy their wishes and your path shall be revealed.,"Hãy thỏa mãn ước nguyện của họ, con đường của ngươi sẽ được hiện ra.",75,"Hãy đáp ứng nguyện vọng của họ, lối đi sẽ hiện ra."
+story|834|0,,Listen to the plea of the weak. Lend your strength.,Hãy lắng nghe lời cầu xin của kẻ yếu. Hãy cho họ mượn sức mạnh của ngươi.,81,Hãy nghe lời cầu cứu của kẻ yếu và giúp họ.
+story|835|0,,Your path to follow is already in front of you.,Con đường ngươi cần đi đã ở ngay trước mặt.,52,Con đường ngươi cần đi đã ở ngay trước mặt.
+story|836|0,,Go through the great gate that has been revealed!!,Hãy bước qua cánh cổng vĩ đại vừa hiện ra!!,56,Hãy băng qua cánh cổng lớn vừa hiện ra!
+story|837|0,,Go inside the ancient structure and your path shall be open.,"Hãy vào trong công trình cổ xưa, con đường của ngươi sẽ mở ra.",69,"Hãy vào công trình cổ, lối đi sẽ mở ra."
+story|838|0,,Search the pyramid! Duel many opponents! Then the great one shall appear!,Hãy tìm kiếm trong kim tự tháp! Duel với nhiều đối thủ! Rồi điều vĩ đại sẽ xuất hiện!,94,Hãy khám phá kim tự tháp! Đấu với nhiều người! Rồi kẻ vĩ đại sẽ xuất hiện!
+story|839|0,,There is a troubled one in the desert - lend your hand.,Có một người đang gặp khó khăn trong sa mạc - hãy giúp đỡ họ.,68,Trong sa mạc có người gặp nạn. Hãy ra tay giúp.
+story|840|0,,Venture to the depths of the sea! Make contact with other duelists!,Hãy mạo hiểm xuống đáy biển sâu! Hãy tiếp xúc với những Duelist khác!,76,Xuống tận đáy biển sâu! Gặp gỡ các tay đấu bài!
+story|841|0,,Your path has already been revealed. Make your way!,Con đường của ngươi đã được hiện ra. Hãy tiến bước!,57,Lối đi đã mở rồi. Mau lên đường!
+story|842|0,,There is a troubled girl in the city - help her.,Có một cô gái đang gặp khó khăn trong thành phố - hãy giúp đỡ cô ấy.,75,Một cô gái trong thành phố đang gặp nạn. Hãy giúp cô ấy.
+story|843|0,,A strange black creature lands on the field of woods and grasslands.,Một sinh vật đen bí ẩn hạ cánh xuống cánh đồng rừng và cỏ.,75,Một sinh vật đen kỳ lạ đáp xuống vùng rừng cỏ.
+story|844|0,,"Inside the great ruin, a strange green creature appears.","Bên trong phế tích vĩ đại, một sinh vật xanh bí ẩn xuất hiện.",68,Một sinh vật xanh lạ xuất hiện trong phế tích lớn.
+story|845|0,,A yellow force strikes in the mechanical town.,Một thế lực màu vàng tấn công thị trấn cơ khí.,51,Một thế lực màu vàng tấn công thị trấn máy móc.
+story|846|0,,A blood-seeking feast shall commence at the house of seekers.,Một bữa tiệc khát máu sẽ bắt đầu tại ngôi nhà của những kẻ tìm kiếm.,75,Bữa tiệc khát máu sẽ mở màn tại ngôi nhà của những kẻ kiếm tìm.
+story|847|0,,Supreme power lies deep within a cave. ,Sức mạnh tối thượng ẩn mình sâu trong hang động.,53,Sức mạnh tối thượng nằm sâu trong hang động.
+story|848|0,,Its strength is like that of a double-edged sword.,Sức mạnh ấy giống như lưỡi kiếm hai lưỡi.,56,Sức mạnh đó như con dao hai lưỡi.
+story|849|0,,He who seeks wisdom will occasionally fail.,Kẻ tìm kiếm trí tuệ đôi khi sẽ thất bại.,48,Kẻ cầu tri thức đôi khi vẫn phải nếm thất bại.
+story|850|0,,But the road of failure does not lie far from the road of truth.,Nhưng con đường thất bại không cách xa con đường sự thật.,71,Nhưng thất bại chẳng cách chân lý bao xa.
+story|851|0,,A mechanical door appears before you. Open the sealed door!,Một cánh cửa cơ khí hiện ra trước mặt ngươi. Hãy mở cánh cửa bị niêm phong!,83,Một cánh cửa máy móc hiện ra. Hãy phá phong ấn!
+story|852|0,,Duel! Combine your strength with the envoy from darkness!,Duel đi! Hãy hợp sức với sứ giả từ bóng tối!,63,Hãy đấu! Hợp sức với sứ giả bóng tối!
+story|853|0,,The visitor from darkness shall come to the world.,Vì khách từ bóng tối sẽ đến với thế giới này.,56,Vị khách từ bóng tối sẽ đến thế giới này.
+story|854|0,,Spring his trap and face the ordeal.,Hãy kích hoạt cái bẫy của hắn và đối mặt với thử thách.,61,Hãy sa vào bẫy của hắn và vượt qua thử thách.
+story|855|0,,The envoy of darkness returns. Accept the ordeal and win!,Sứ giả bóng tối quay trở lại. Hãy chấp nhận thử thách và chiến thắng!,76,Sứ giả bóng tối đã trở lại. Hãy nhận thử thách và chiến thắng!
+story|856|0,,The clash between the Union of Darkness and the Union of Courage is now about to happen.,Cuộc đụng độ giữa Liên Minh Bóng Tối và Liên Minh Dũng Cảm sắp xảy ra.,97,Liên minh Bóng tối và Liên minh Dũng cảm sắp giao chiến.
+story|857|0,,Recognize the unity!,Hãy nhận ra sự đoàn kết!,27,Hãy đoàn kết!
+story|858|0,,Save the Dark World! You are our last hope!,Hãy cứu lấy Dark World! Ngươi là hy vọng cuối cùng của chúng ta!,71,Hãy cứu Dark World! Ngươi là hy vọng cuối cùng!
+story|859|0,,Go to the castle and face the powerful evil!,Hãy đến lâu đài và đối mặt với thế lực tà ác hùng mạnh!,61,Hãy đến lâu đài và đối mặt với thế lực tà ác!
+story|860|0,,Don't let the surprise in front of you deceive you!,Đừng để điều bất ngờ trước mặt đánh lừa ngươi!,57,Đừng để cảnh tượng trước mắt đánh lừa!
+story|861|0,,Countless creatures exist in the universe.,Vô số sinh vật tồn tại trong vũ trụ.,47,Vũ trụ có vô vàn sinh vật.
+story|862|0,,Make contact with the unkowns.,Hãy tiếp xúc với những điều chưa biết.,42,Hãy tìm đến những kẻ chưa từng biết.
+story|863|0,,The gate to a new world emerges in space. Test your strength!,Cánh cổng đến thế giới mới xuất hiện trong không gian. Hãy thử thách sức mạnh của ngươi!,97,Cánh cổng dẫn sang thế giới mới hiện ra giữa không gian. Hãy thử sức!
+story|864|0,,Open the gate that diverges the clouds. Proceed through the gate!,Hãy mở cánh cổng rẽ mây. Hãy bước qua cánh cổng!,72,Hãy mở cánh cổng xé mây và bước qua!
+story|865|0,,Save the ones in trouble. Continue your quest through the World!,Hãy cứu những người gặp nạn. Hãy tiếp tục cuộc hành trình qua Thế Giới!,79,Hãy cứu những người gặp nạn rồi tiếp tục hành trình khắp Thế giới!
+story|866|0,,The World shall respond to your wishes. Seek and speak to those of the World.,Thế Giới sẽ đáp lại mong muốn của ngươi. Hãy tìm kiếm và nói chuyện với những ai trong Thế Giới.,106,Thế giới sẽ đáp lại mong ước. Hãy tìm gặp và chuyện trò với cư dân nơi đây.
+story|867|0,,"In the clouds, you shall not find what you are looking for.","Trong tầng mây, ngươi sẽ không tìm thấy điều mình đang kiếm.",67,Trên tầng mây không có thứ ngươi đang tìm.
+story|868|0,,Trust your strength and proceed.,Hãy tin vào sức mạnh của mình và tiến bước.,48,Hãy tin vào sức mạnh của mình và tiến lên.
+story|869|0,,Break through the gate that appears before you!,Hãy phá vỡ cánh cổng hiện ra trước mặt ngươi!,52,Hãy phá cánh cổng đang chắn trước mặt!
+story|870|0,,Trust in your abilities.,Hãy tin vào khả năng của mình.,34,Hãy tin vào khả năng của mình.
+story|871|0,,"Trust your sense of justice, and deliver what has been wanted!","Hãy tin vào cảm nhận công lý của mình, và mang đến điều mọi người mong đợi!",83,Hãy tin vào công lý và mang đến thứ mọi người mong chờ!
+story|872|0,,Never lose to the courts!,Đừng bao giờ thua trước pháp đình!,38,Đừng chịu thua trước tòa án!
+story|873|0,,A symbol of knowledge appears in the land protected by order and discipline.,Một biểu tượng của tri thức xuất hiện tại vùng đất được bảo vệ bởi trật tự và kỷ luật.,95,Biểu tượng tri thức xuất hiện ở vùng đất của trật tự và kỷ luật.
+story|874|0,,Now it awaits your challenge.,Giờ đây nó đang chờ thử thách của ngươi.,45,Giờ đây nó đang chờ ngươi đến thử sức.
+story|875|0,,Go up the magnificent tower in front of you.,Hãy leo lên tòa tháp huy hoàng trước mặt ngươi.,52,Hãy leo lên tòa tháp tráng lệ phía trước.
+story|876|0,,The tower leads to your final challenge.,Tòa tháp dẫn đến thử thách cuối cùng của ngươi.,52,Tòa tháp sẽ dẫn ngươi đến thử thách cuối cùng.
+story|877|0,,You have made it this far.,Ngươi đã đi được đến đây.,29,Ngươi đã đến được đây.
+story|878|0,,Now you shall head for the highest level on your own.,Giờ đây ngươi sẽ tự mình hướng đến tầng cao nhất.,59,Giờ hãy tự mình lên đến tầng cao nhất.
+story|879|0,,There's nothing more to say.,Không còn gì để nói thêm nữa.,32,Chẳng còn gì để nói nữa.
+story|880|0,,"Throw every bit of your strength at the gate, and hope for the best.","Hãy dồn hết sức lực vào cánh cổng, và hy vọng vào điều tốt đẹp nhất.",75,Hãy dồn toàn bộ sức mạnh vào cánh cổng và mong điều tốt đẹp nhất.
+story|881|0,,You have now become a great duelist.,Giờ đây ngươi đã trở thành một Duelist vĩ đại.,51,Giờ ngươi đã là một tay đấu bài xuất sắc.
+story|882|0,,You shall seek and determine your own path.,Ngươi sẽ tự tìm kiếm và quyết định con đường của riêng mình.,67,Hãy tự tìm và chọn lấy con đường của mình.
+story|883|0,,"Hm. Well, come back if you get lost.","Hm. Thôi, quay lại nếu ngươi bị lạc nhé.",45,Hừm... Nếu lạc đường thì cứ trở lại đây.
+story|884|0,,I always appreciate your visit.,Ta luôn trân trọng mỗi lần ngươi ghé thăm.,47,Ta luôn vui khi ngươi ghé thăm.
+story|885|0,,I have something for you. Please accept my present.,Ta có thứ này cho ngươi. Hãy nhận lấy món quà của ta.,59,Ta có món quà cho ngươi. Hãy nhận lấy.
+story|886|0,,"You received ""@5YOURCARD()@0""!","Bạn đã nhận ""@5YOURCARD()@0""!",34,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|888|0,,Huh? Who are you!?,Hả? Ngươi là ai!?,20,Hả? Ngươi là ai!?
+story|889|0,,Never seen you before and I don't like strangers!,Chưa từng thấy ngươi bao giờ và tôi không thích người lạ!,63,Ta chưa gặp ngươi bao giờ! Ta ghét người lạ!
+story|890|0,,Get outta here!,Cút khỏi đây!,17,Biến khỏi đây!
+story|891|0,,"Welcome, lost traveler who seeks answers.","Chào mừng, lữ khách lạc lối đang tìm kiếm câu trả lời.",60,Chào mừng lữ khách lạc lối đang đi tìm lời giải.
+story|892|0,,"Prove your worthiness, and I'll let you enter the pyramid.","Hãy chứng minh giá trị của ngươi, ta sẽ cho ngươi vào kim tự tháp.",73,"Hãy chứng tỏ bản lĩnh, ta sẽ cho vào kim tự tháp."
+story|894|0,,Do you want to see if you are worthy enough to enter?,Ngươi có muốn kiểm tra xem mình có đủ xứng đáng để vào không?,68,Ngươi muốn thử xem mình có đủ tư cách vào không?
+story|895|0,,Make your selection,Hãy chọn,21,Hãy lựa chọn.
+story|896|0,,Take the test\nDon't take the test,Làm bài kiểm tra\nKhông làm bài kiểm tra,43,Nhận thử thách\nKhông thử
+story|898|0,,You left the area.,Bạn đã rời khỏi khu vực.,27,Bạn đã rời khu vực.
+story|899|0,,Impressive! You have solved the puzzle!,Ấn tượng đấy! Ngươi đã giải được câu đố!,45,Tuyệt! Ngươi đã giải được câu đố!
+story|901|0,,Select a trial.,Hãy chọn một thử thách.,26,Hãy chọn thử thách.
+story|902|0,,Make your selection,Hãy chọn,21,Hãy lựa chọn.
+story|903|0,,Puzzle 1\nPuzzle 2\nPuzzle 3\nPuzzle 4\nPuzzle 5,Câu Đố 1\nCâu Đố 2\nCâu Đố 3\nCâu Đố 4\nCâu Đố 5,49,Câu đố 1\nCâu đố 2\nCâu đố 3\nCâu đố 4\nCâu đố 5
+story|904|0,,Impressive! You have solved the puzzle!,Ấn tượng đấy! Ngươi đã giải được câu đố!,45,Tuyệt! Ngươi đã giải được câu đố!
+story|905|0,,"Traveler, you have proven your worthiness.","Người lữ hành, ngươi đã chứng minh được giá trị của mình.",63,"Lữ khách, ngươi đã chứng tỏ mình xứng đáng."
+story|906|0,,You may pass.,Ngươi có thể đi qua.,23,Ngươi được phép đi qua.
+story|909|0,,Traveler! Take your time and try again!,Người lữ hành! Cứ từ từ rồi thử lại nhé!,45,Lữ khách! Cứ bình tĩnh rồi thử lại!
+story|911|0,,"Traveler, will you enter the pyramid? Will you take my challenge?","Người lữ hành, ngươi sẽ vào kim tự tháp chứ? Ngươi sẽ nhận thử thách của ta chứ?",89,"Lữ khách, ngươi muốn vào kim tự tháp hay nhận thử thách của ta?"
+story|912|0,,Make your selection,Hãy chọn,21,Hãy lựa chọn.
+story|913|0,,Enter the pyramid\nTake the test,Vào kim tự tháp\nLàm bài kiểm tra,36,Vào kim tự tháp\nNhận thử thách
+story|916|0,,Who dares disturb my slumber!?,Kẻ nào dám quấy rầy giấc ngủ của ta!?,41,Kẻ nào dám phá giấc ngủ của ta!?
+story|917|0,,"I have lost... My, you are strong!","Ta đã thua... Chao ôi, ngươi mạnh thật đấy!",48,"Ta thua rồi... Chà, ngươi mạnh thật!"
+story|918|0,,"Go, duel in this pyramid as you wish.","Đi đi, Duel trong kim tự tháp này tùy thích.",49,"Đi đi, cứ đấu tùy thích trong kim tự tháp."
+story|919|0,,I will go back to sleep.,Ta sẽ trở lại giấc ngủ.,27,Ta ngủ tiếp đây.
+story|920|0,,Grave robber! Watch yourself!,Kẻ đào mộ! Liệu hồn đi!,32,Đồ trộm mộ! Liệu hồn đấy!
+story|921|0,,...Duel me again if you wish.,...Duel với ta lần nữa nếu ngươi muốn.,42,...Nếu muốn thì cứ đến đấu với ta lần nữa.
+story|922|0,,"Hey, stop kicking sand at me!","Này, đừng hất cát vào tôi nữa!",34,"Này, đừng hất cát vào tôi nữa!"
+story|923|0,,"Wshoooo, wshoooo.","Vù hư, vù hư.",19,"Vùuuu, vùuuu."
+story|924|0,,The Sand Moth appears to be bullying the Pyramid Turtle.,Sand Moth có vẻ đang bắt nạt Pyramid Turtle.,62,Sand Moth dường như đang bắt nạt Pyramid Turtle.
+story|925|0,,What will you do?,Bạn sẽ làm gì?,19,Bạn muốn làm gì?
+story|926|0,,Step in to help\nLeave,Vào giúp\nRời đi,24,Ra tay giúp\nBỏ đi
+story|927|0,,"Wshoooo, wshoooo!","Vù hư, vù hư!",19,"Vùuuu, vùuuu!"
+story|928|0,,"Ah! Help me, please!",A! Làm ơn cứu tôi với!,25,Á! Cứu tôi với!
+story|930|0,,"You leave, despite your worries.","Bạn rời đi, mặc dù vẫn lo lắng.",36,Bạn rời đi dù vẫn thấy lo.
+story|931|0,,Thank you for helping me!,Cảm ơn bạn đã giúp tôi!,28,Cảm ơn cậu đã cứu tôi!
+story|932|0,,I'll show you to a nice place to thank you.,Tôi sẽ đưa bạn đến một nơi tốt để cảm ơn bạn.,50,"Để cảm ơn, tớ sẽ dẫn cậu đến một chỗ hay lắm!"
+story|934|0,,Wshoooo! Wshoooo!,Vù hư! Vù hư!,19,Vùuuu! Vùuuu!
+story|935|0,,(The Sand Moth pushes you away.),(Sand Moth đẩy bạn ra xa.),36,(Sand Moth xô bạn ra.)
+story|936|0,,"First, I would like to thank you for helping the Pyramid Turtle.","Trước tiên, tôi muốn cảm ơn bạn vì đã giúp Pyramid Turtle.",71,"Trước hết, xin cảm ơn bạn đã cứu Pyramid Turtle."
+story|937|0,,May I ask a favor of you?,Tôi có thể nhờ bạn một việc không?,38,Tôi có thể nhờ bạn một việc không?
+story|938|0,,I heard you are a great duelist. Would you duel me?,Tôi nghe nói bạn là một Duelist cừ khôi. Bạn Duel với tôi nhé?,69,Nghe nói bạn đấu rất giỏi. Đấu với tôi một trận nhé?
+story|939|0,,You certainly are strong.,Quả thật bạn rất mạnh.,28,Bạn quả là mạnh thật.
+story|940|0,,Allow me to show you a path that you should travel on.,Để tôi chỉ cho bạn con đường bạn nên đi.,60,Cho phép tôi chỉ đường mà bạn nên đi.
+story|941|0,,Is that all?,Chỉ có vậy thôi sao?,23,Chỉ có thế thôi à?
+story|942|0,,"Certainly, you are stronger than this.",Chắc chắn bạn mạnh hơn thế này.,42,Chắc chắn bạn còn mạnh hơn thế mà.
+story|943|0,,"If you beat me, I'll show you a path you should travel on.","Nếu bạn thắng tôi, tôi sẽ chỉ cho bạn con đường bạn nên đi.",65,"Nếu thắng tôi, bạn sẽ được chỉ đường."
+story|944|0,,"Traveler, you have made the gate appear.","Người lữ hành, ngươi đã làm cánh cổng hiện ra.",51,"Lữ khách, ngươi đã khiến cánh cổng xuất hiện."
+story|945|0,,This is the gate of trials.,Đây là cánh cổng thử thách.,30,Đây là Cổng Thử thách.
+story|946|0,,This is where the dueling strength of those who travel Duel World is tested.,Đây là nơi sức mạnh Duel của những ai du hành qua Duel World được thử thách.,84,Nơi đây thử sức những tay đấu bài du hành khắp Duel World.
