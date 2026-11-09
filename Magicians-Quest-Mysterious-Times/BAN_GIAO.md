@@ -1,3 +1,10 @@
+## Checkpoint 077 — 09/11/2026
+
+- +240 trang thoại từ `0042.007`, `0042.008`; tổng **20,418/55.976 (36.48%)**, thoại NPC **17,293/52.608**.
+- 25 mẫu viết mới + 52 mẫu tái sử dụng. QA 501 JSONL / 55.976 bản ghi PASS; 499 JSONL khác nguyên byte.
+- ZIP `MagiciansQuest-VietHoa-Checkpoint-077.zip` là checkpoint đầy đủ, gồm mã tái tạo, bảng EN–VI, delta, QA.
+- Chưa thử trong ROM NDS. Tiếp `0042.009` và `0042.010` (240 trang nguồn chưa dịch).
+
 ## Checkpoint 076 — 09/11/2026
 
 - +240 trang thoại từ `0042.005`, `0042.006`; tổng **20,178/55.976 (36.05%)**, thoại NPC **17.053/52.608**.
