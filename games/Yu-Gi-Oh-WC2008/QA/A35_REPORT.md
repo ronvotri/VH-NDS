@@ -1,10 +1,17 @@
-# QA checkpoint A35
+# QA — Checkpoint A35
 
-- Nguồn: ZIP checkpoint A34, 120 dòng ưu tiên.
-- Viết lại 47 dòng theo tiếng Anh gốc; đối chiếu và giữ nguyên 73 dòng.
-- `check_import.py`: **2.009/2.009 hợp lệ**; 0 lỗi.
-- Kiểm tra riêng: không có mô tả mới nào vượt `toi_da_ky_tu`.
-- Giữ nguyên `key`, câu tiếng Anh, tên lá, giới hạn và mã trò chơi.
-- Các file nhóm B–G trong ZIP đầu ra A35 giống từng byte với bản A34.
-- Chưa kiểm thử hiển thị/nhập ROM thực tế. Chưa duyệt nghĩa thủ công toàn bộ 2.009 dòng.
-- ZIP A35 hoàn chỉnh nằm trong cuộc trò chuyện ChatGPT; nội dung repo hiện gồm nhật ký và delta 47 dòng (không phải toàn bộ CSV nền).
+Nguồn: **26 CSV A34** và danh sách **120 mục ưu tiên A35**.
+
+| Hạng mục | Kết quả |
+|---|---:|
+| Mô tả nhóm A có bản Việt | 2.009 |
+| Mô tả đối chiếu A35 | 120 |
+| Dòng sửa theo tiếng Anh | 47 |
+| Dòng đối chiếu giữ nguyên | 73 |
+| Lỗi `check_import.py` | 0 |
+| Dòng vượt `toi_da_ky_tu` | 0 |
+| Mã `@/%, \\n/\\r` bị mất | 0 |
+
+Bản A35 có thể tái tạo **toàn bộ 26 CSV** trực tiếp từ các file trong repo bằng `checkpoints/apply_a35.py`. Các dòng không phải A35 vẫn giữ nội dung tương ứng A34.
+
+**Chưa duyệt ngữ nghĩa cuối toàn bộ 2.009 dòng.** Nhóm B–G giữ nguyên ở ZIP bàn giao, chưa được đẩy sang repo trong commit này. Chưa kiểm thử ROM.
