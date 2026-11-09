@@ -1,3 +1,10 @@
+## Checkpoint 075 — 09/11/2026
+
+- Đã dịch `0042.003` và `0042.004`: +240 trang; **19.938 / 55.976 (35,62%)**; hội thoại NPC **16.813 / 52.608**.
+- 81 mẫu mới, 10 mẫu tái sử dụng; QA 501 JSONL / 55.976 bản ghi, 499 tệp giữ byte-identical, không thay 19.698 bản dịch trước.
+- ZIP đầy đủ `MagiciansQuest-VietHoa-Checkpoint-075.zip` lưu tại Thư viện `/Dịch giả lập`; chưa thử hiển thị trên ROM.
+- Tiếp `0042.005` và `0042.006` (120 trang/tệp) đã có nguồn.
+
 ## Checkpoint 074 — 09/11/2026
 
 - **19.698/55.976 (35,19%)**, thoại NPC **16.573/52.608**, tăng 240 trang từ 073.

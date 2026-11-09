@@ -1,0 +1,91 @@
+001|Không biết quanh đây▼có rơi đồng nào không...$079;
+002|Học hành rất quan trọng đấy.
+003|Không làm bài tập thì▼đừng mong được thầy cô▼quý mến nhé.$079;
+004|Ồ, $500; đấy à!▼Cậu khỏe chứ?
+005|Tớ đang nghĩ xem▼nên làm gì đây...$079;
+006|Xin lỗi. Giờ tớ chỉ muốn▼ở một mình thôi.$079;
+007|Có chuyện gì thế, $500;?▼Cậu cần gì ở tớ à?$079;
+008|Ối! $500;! Chạy mau!▼Chạy khỏi đây ngay!
+009|REUSE
+010|REUSE
+011|REUSE
+012|REUSE
+013|REUSE
+014|REUSE
+015|REUSE
+016|$515; hay đi chơi▼với bạn cùng lớp, còn bắt▼chuyện với cả người lạ.
+017|Tớ nghĩ làm thế mãi▼cũng mệt đấy chứ.
+018|Nghe đồn cả thị trấn▼đều biết $515; hay bắt nạt.
+019|Bắt nạt rồi gây phiền▼cho người khác đâu phải▼cách kết bạn hay ho...
+020|Theo ý kiến của tớ,▼cứ thế này thì $515;▼chẳng bao giờ lớn nổi.
+021|Tớ với $515; là bạn.▼Cậu biết chuyện đó chứ?
+022|Không phải bạn THÂN nhất,▼nhưng cũng đâu phải▼người dưng.
+023|Có thể nói là trên mức▼quen biết xã giao, nhưng▼chưa đến nỗi quá thân.
+024|Tớ hiểu $515; lắm.▼Bọn tớ thân nhau cực kỳ!
+025|Ở cạnh $515;, tớ▼cứ là chính mình.▼Chuyện gì cũng tâm sự được.
+026|Vả lại, $515;▼rất kính trọng tớ.▼Chuyện thường thôi mà!
+027|Cậu biết tớ và $515;▼đang hẹn hò không?
+028|$515; dễ thương lắm!▼Tớ chẳng thể mong có▼người yêu tuyệt hơn!
+029|Chắc giờ này $515;▼cũng đang khoe về TỚ▼cho mọi người nghe đấy!
+030|Tớ và $515; thường▼ngồi tán gẫu với nhau.
+031|Tớ hào phóng chia sẻ▼kho kiến thức khổng lồ▼cho $515; đấy.
+032|Chắc $515; vui lắm.▼Ừ thì... tớ cũng vui▼một chút thôi.
+033|Có lần tớ câu cá cùng▼$515;, vui tuyệt luôn!
+034|Tớ vốn là cao thủ câu cá.▼Khỏi hỏi ai là người▼chỉ dẫn nhé!
+035|Ai câu được nhiều hơn á?▼Hôm nay cậu tò mò▼hơi quá rồi đấy...!
+036|Đi bắt côn trùng cùng▼$515; vui ra trò!
+037|$515; lo bắt bọ,▼còn tớ nghiên cứu rồi▼ghi chép quan sát.
+038|Nói trước nhé, không phải▼vì tớ sợ chạm vào bọ▼đâu đấy!
+039|Cưỡi chổi cùng $515;▼đúng là một trải nghiệm!
+040|Có lúc bọn tớ bay đến▼những nơi thật xa,▼vui ơi là vui!
+041|Và tớ CHƯA HỀ khóc▼vì sợ rơi khỏi chổi▼đâu nhé?!
+042|Tớ và $515; thường▼đi mua sắm cùng nhau.
+043|Tớ chỉ cho $515;▼chỗ bán đồ tốt▼mà giá lại phải chăng.
+044|Hả? Cậu cũng muốn biết?▼Đâu có chuyện được▼chỉ miễn phí chứ!
+045|Tớ với $515;▼đã học nhóm cùng nhau▼không biết bao lần.
+046|Tất nhiên lần nào▼người giúp $515;▼cũng là tớ rồi.
+047|Biết rồi, biết rồi.▼Tớ cứ cho đi mãi,▼chẳng giữ gì cho mình...
+048|Tớ và $515;▼đã cùng uống trà▼biết bao lần rồi.
+049|Trà ngon nhất là khi▼được thảnh thơi ngồi▼nhâm nhi, chẳng nghĩ ngợi.
+050|Tất nhiên còn phải xem▼mình đang uống trà▼với ai nữa chứ...
+051|Ở đó tớ có cả đống bạn!
+052|Chơi và học cùng họ▼vui lắm luôn!
+053|À, biết rồi! $500;,▼cậu tới chơi cùng nhé?▼Đảm bảo vui hết nấc!
+054|Tết này tớ sẽ được▼ăn một bữa thật thịnh soạn!
+055|Cậu ghen tị lắm nhỉ,▼$500;?
+056|Tớ mong Tết đến quá!▼Chắc chắn sẽ vui lắm!
+057|Cậu có thích những▼buổi tiệc trà mùa xuân không?
+058|Có chứ, nhưng xảy ra▼một chuyện tớ chẳng hiểu nổi...
+059|Tớ cho vài vị khách▼ở bàn bánh ít Ritch.▼Giúp người nghèo cũng tốt mà!
+060|Dù sao họ cảm ơn tớ,▼trông ai cũng vui vẻ...
+061|Thế mà cô Strawe xuất hiện▼rồi nổi giận đùng đùng.
+062|Lạ nhỉ? Tớ chỉ khiến▼khách khứa vui vẻ thôi mà.
+063|Cậu thích lễ hội▼thử lòng can đảm hằng năm chứ?
+064|Nói thật nhé, tớ▼chẳng thích thú gì cả.
+065|Tớ chẳng ưa mấy thứ▼đáng sợ một chút nào.
+066|Tớ muốn bảo mấy hồn ma▼đừng quấy rầy mình,▼nhưng chắc chúng chẳng nghe.
+067|Này $500;,▼cậu làm giúp tớ được không?
+068|Nếu cậu làm được,▼tớ sẽ thưởng thật hậu hĩnh...
+069|Cậu thích tiệc nấm▼thường niên không?
+070|Dạo này tớ hái được▼cả đống nấm rồi đấy.
+071|REUSE
+072|Ha ha! Nhìn mặt cậu▼là biết chưa chuẩn bị▼gì rồi!
+073|Đừng có táy máy▼đụng vào kho nấm của tớ nhé!
+074|Ai cũng phải góp nấm▼cho bữa tiệc, rõ chưa?
+075|Cậu thích lễ hội▼tuyết cầu vồng không?
+076|Tớ nhặt bông tuyết▼siêu giỏi, được cả đống rồi!
+077|Nhặt được một bông▼cứ như nhặt được Ritch▼ngoài đường. Lời to!
+078|Xin lỗi vì bức điện tín▼kỳ quặc đó nhé.
+079|À... Ừm... Ý tớ là...▼đâu phải tớ gửi nó.
+080|Nên cậu cứ quên▼chuyện đó đi nhé?$079;$073'702'1;
+081|Tớ chẳng hiểu tiết học▼ngoại khóa này là sao.
+082|Ý tớ là... tớ HIỂU chứ!▼Cậu cũng hiểu mà,▼đúng không, $500;?$079;
+083|Cuối cùng tớ cũng làm xong▼bài ngoại khóa rồi...
+084|Nhưng chẳng biết▼$000'3;thầy Graves$000'1; sẽ▼nghĩ gì về nó nữa...
+085|Này, về lời hứa▼làm bạn thân của chúng ta...
+086|E rằng nó chưa được▼chứng nhận chính thức.
+087|Nói cách khác, bọn mình▼nên trở lại làm bạn thường.▼Có lẽ cứ thế là tốt nhất.
+088|Tiếc thật đấy.▼Nhưng đừng lo, tớ đâu▼có ghét cậu...$079;$073'702'1;
+089|REUSE
+090|REUSE
+091|Này, về lời hứa▼hẹn hò của chúng ta...

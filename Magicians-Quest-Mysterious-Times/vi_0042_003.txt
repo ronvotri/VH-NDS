@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0042#14.76#page:2	Không biết quanh đây▼có rơi đồng nào không...$079;
+talkfigs/0eng/data/0042#14.77#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Học hành rất quan trọng đấy.
+talkfigs/0eng/data/0042#14.77#page:2	Không làm bài tập thì▼đừng mong được thầy cô▼quý mến nhé.$079;
+talkfigs/0eng/data/0042#14.78#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Ồ, $500; đấy à!▼Cậu khỏe chứ?
+talkfigs/0eng/data/0042#14.78#page:2	Tớ đang nghĩ xem▼nên làm gì đây...$079;
+talkfigs/0eng/data/0042#14.80#page:1	Xin lỗi. Giờ tớ chỉ muốn▼ở một mình thôi.$079;
+talkfigs/0eng/data/0042#14.90#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Có chuyện gì thế, $500;?▼Cậu cần gì ở tớ à?$079;
+talkfigs/0eng/data/0042#15.0#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Ối! $500;! Chạy mau!▼Chạy khỏi đây ngay!
+talkfigs/0eng/data/0042#15.1#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Ối! $500;! Chạy mau!▼Chạy khỏi đây ngay!
+talkfigs/0eng/data/0042#15.2#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Ối! $500;! Chạy mau!▼Chạy khỏi đây ngay!
+talkfigs/0eng/data/0042#15.3#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Ối! $500;! Chạy mau!▼Chạy khỏi đây ngay!
+talkfigs/0eng/data/0042#15.4#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Ối! $500;! Chạy mau!▼Chạy khỏi đây ngay!
+talkfigs/0eng/data/0042#15.5#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Ối! $500;! Chạy mau!▼Chạy khỏi đây ngay!
+talkfigs/0eng/data/0042#15.6#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Ối! $500;! Chạy mau!▼Chạy khỏi đây ngay!
+talkfigs/0eng/data/0042#15.7#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Ối! $500;! Chạy mau!▼Chạy khỏi đây ngay!
+talkfigs/0eng/data/0042#15.8#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Ối! $500;! Chạy mau!▼Chạy khỏi đây ngay!
+talkfigs/0eng/data/0042#15.9#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Ối! $500;! Chạy mau!▼Chạy khỏi đây ngay!
+talkfigs/0eng/data/0042#15.30#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Nghe đồn $515; nói chuyện▼ngọt như mía lùi.
+talkfigs/0eng/data/0042#15.30#page:2	Công nhận, nói chuyện với ai▼cũng tự nhiên thế kể cũng tài.
+talkfigs/0eng/data/0042#15.30#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;Nhưng về kiến thức và đề tài▼tán gẫu thì tớ vẫn ăn đứt!
+talkfigs/0eng/data/0042#15.31#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Nghe đồn $515; nổi tiếng▼thông minh xuất chúng.
+talkfigs/0eng/data/0042#15.31#page:2	Thầy cô còn bảo $515;▼hỏi gì cũng trả lời được.
+talkfigs/0eng/data/0042#15.31#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;$515; có khi là người thông minh▼nhất thị trấn... sau tớ!
+talkfigs/0eng/data/0042#15.32#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;$515; có nhiều bạn bè.▼Đâu chỉ mình tớ nhận ra!
+talkfigs/0eng/data/0042#15.32#page:2	$515; hay đi chơi▼với bạn cùng lớp, còn bắt▼chuyện với cả người lạ.
+talkfigs/0eng/data/0042#15.32#page:3	Tớ nghĩ làm thế mãi▼cũng mệt đấy chứ.
+talkfigs/0eng/data/0042#15.33#page:1	Nghe đồn cả thị trấn▼đều biết $515; hay bắt nạt.
+talkfigs/0eng/data/0042#15.33#page:2	Bắt nạt rồi gây phiền▼cho người khác đâu phải▼cách kết bạn hay ho...
+talkfigs/0eng/data/0042#15.33#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;Theo ý kiến của tớ,▼cứ thế này thì $515;▼chẳng bao giờ lớn nổi.
+talkfigs/0eng/data/0042#15.34#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ với $515; là bạn.▼Cậu biết chuyện đó chứ?
+talkfigs/0eng/data/0042#15.34#page:2	Không phải bạn THÂN nhất,▼nhưng cũng đâu phải▼người dưng.
+talkfigs/0eng/data/0042#15.34#page:3	Có thể nói là trên mức▼quen biết xã giao, nhưng▼chưa đến nỗi quá thân.
+talkfigs/0eng/data/0042#15.35#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ hiểu $515; lắm.▼Bọn tớ thân nhau cực kỳ!
+talkfigs/0eng/data/0042#15.35#page:2	Ở cạnh $515;, tớ▼cứ là chính mình.▼Chuyện gì cũng tâm sự được.
+talkfigs/0eng/data/0042#15.35#page:3	Vả lại, $515;▼rất kính trọng tớ.▼Chuyện thường thôi mà!
+talkfigs/0eng/data/0042#15.36#page:1	$024'327'7;$023'327'177'10'1;Cậu biết tớ và $515;▼đang hẹn hò không?
+talkfigs/0eng/data/0042#15.36#page:2	$515; dễ thương lắm!▼Tớ chẳng thể mong có▼người yêu tuyệt hơn!
+talkfigs/0eng/data/0042#15.36#page:3	Chắc giờ này $515;▼cũng đang khoe về TỚ▼cho mọi người nghe đấy!
+talkfigs/0eng/data/0042#15.38#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ và $515; thường▼ngồi tán gẫu với nhau.
+talkfigs/0eng/data/0042#15.38#page:2	Tớ hào phóng chia sẻ▼kho kiến thức khổng lồ▼cho $515; đấy.
+talkfigs/0eng/data/0042#15.38#page:3	Chắc $515; vui lắm.▼Ừ thì... tớ cũng vui▼một chút thôi.
+talkfigs/0eng/data/0042#15.39#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Có lần tớ câu cá cùng▼$515;, vui tuyệt luôn!
+talkfigs/0eng/data/0042#15.39#page:2	Tớ vốn là cao thủ câu cá.▼Khỏi hỏi ai là người▼chỉ dẫn nhé!
+talkfigs/0eng/data/0042#15.39#page:3	Ai câu được nhiều hơn á?▼Hôm nay cậu tò mò▼hơi quá rồi đấy...!
+talkfigs/0eng/data/0042#15.40#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Đi bắt côn trùng cùng▼$515; vui ra trò!
+talkfigs/0eng/data/0042#15.40#page:2	$515; lo bắt bọ,▼còn tớ nghiên cứu rồi▼ghi chép quan sát.
+talkfigs/0eng/data/0042#15.40#page:3	Nói trước nhé, không phải▼vì tớ sợ chạm vào bọ▼đâu đấy!
+talkfigs/0eng/data/0042#15.41#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Cưỡi chổi cùng $515;▼đúng là một trải nghiệm!
+talkfigs/0eng/data/0042#15.41#page:2	Có lúc bọn tớ bay đến▼những nơi thật xa,▼vui ơi là vui!
+talkfigs/0eng/data/0042#15.41#page:3	$024'327'5;$023'327'170'10'1;$022'327'301;Và tớ CHƯA HỀ khóc▼vì sợ rơi khỏi chổi▼đâu nhé?!
+talkfigs/0eng/data/0042#15.42#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ và $515; thường▼đi mua sắm cùng nhau.
+talkfigs/0eng/data/0042#15.42#page:2	Tớ chỉ cho $515;▼chỗ bán đồ tốt▼mà giá lại phải chăng.
+talkfigs/0eng/data/0042#15.42#page:3	Hả? Cậu cũng muốn biết?▼Đâu có chuyện được▼chỉ miễn phí chứ!
+talkfigs/0eng/data/0042#15.43#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ với $515;▼đã học nhóm cùng nhau▼không biết bao lần.
+talkfigs/0eng/data/0042#15.43#page:2	Tất nhiên lần nào▼người giúp $515;▼cũng là tớ rồi.
+talkfigs/0eng/data/0042#15.43#page:3	Biết rồi, biết rồi.▼Tớ cứ cho đi mãi,▼chẳng giữ gì cho mình...
+talkfigs/0eng/data/0042#15.44#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ và $515;▼đã cùng uống trà▼biết bao lần rồi.
+talkfigs/0eng/data/0042#15.44#page:2	Trà ngon nhất là khi▼được thảnh thơi ngồi▼nhâm nhi, chẳng nghĩ ngợi.
+talkfigs/0eng/data/0042#15.44#page:3	Tất nhiên còn phải xem▼mình đang uống trà▼với ai nữa chứ...
+talkfigs/0eng/data/0042#15.45#page:1	Ở đó tớ có cả đống bạn!
+talkfigs/0eng/data/0042#15.45#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;Chơi và học cùng họ▼vui lắm luôn!
+talkfigs/0eng/data/0042#15.45#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;À, biết rồi! $500;,▼cậu tới chơi cùng nhé?▼Đảm bảo vui hết nấc!
+talkfigs/0eng/data/0042#15.46#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tết này tớ sẽ được▼ăn một bữa thật thịnh soạn!
+talkfigs/0eng/data/0042#15.46#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Cậu ghen tị lắm nhỉ,▼$500;?
+talkfigs/0eng/data/0042#15.46#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ mong Tết đến quá!▼Chắc chắn sẽ vui lắm!
+talkfigs/0eng/data/0042#15.47#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tết này tớ sẽ được▼ăn một bữa thật thịnh soạn!
+talkfigs/0eng/data/0042#15.47#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Cậu ghen tị lắm nhỉ,▼$500;?
+talkfigs/0eng/data/0042#15.47#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ mong Tết đến quá!▼Chắc chắn sẽ vui lắm!
+talkfigs/0eng/data/0042#15.48#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tết này tớ sẽ được▼ăn một bữa thật thịnh soạn!
+talkfigs/0eng/data/0042#15.48#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Cậu ghen tị lắm nhỉ,▼$500;?
+talkfigs/0eng/data/0042#15.48#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ mong Tết đến quá!▼Chắc chắn sẽ vui lắm!
+talkfigs/0eng/data/0042#15.49#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tết này tớ sẽ được▼ăn một bữa thật thịnh soạn!
+talkfigs/0eng/data/0042#15.49#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Cậu ghen tị lắm nhỉ,▼$500;?
+talkfigs/0eng/data/0042#15.49#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ mong Tết đến quá!▼Chắc chắn sẽ vui lắm!
+talkfigs/0eng/data/0042#15.50#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu có thích những▼buổi tiệc trà mùa xuân không?
+talkfigs/0eng/data/0042#15.50#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Có chứ, nhưng xảy ra▼một chuyện tớ chẳng hiểu nổi...
+talkfigs/0eng/data/0042#15.50#page:3	Tớ cho vài vị khách▼ở bàn bánh ít Ritch.▼Giúp người nghèo cũng tốt mà!
+talkfigs/0eng/data/0042#15.50#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Dù sao họ cảm ơn tớ,▼trông ai cũng vui vẻ...
+talkfigs/0eng/data/0042#15.50#page:5	$024'327'4;$023'327'171'10'1;$022'327'383;Thế mà cô Strawe xuất hiện▼rồi nổi giận đùng đùng.
+talkfigs/0eng/data/0042#15.50#page:6	$024'327'2;$023'327'28'8'4;$022'327'381;Lạ nhỉ? Tớ chỉ khiến▼khách khứa vui vẻ thôi mà.
+talkfigs/0eng/data/0042#15.52#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu thích lễ hội▼thử lòng can đảm hằng năm chứ?
+talkfigs/0eng/data/0042#15.52#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Nói thật nhé, tớ▼chẳng thích thú gì cả.
+talkfigs/0eng/data/0042#15.52#page:3	$024'327'4;$023'327'171'10'1;$022'327'383;Tớ chẳng ưa mấy thứ▼đáng sợ một chút nào.
+talkfigs/0eng/data/0042#15.52#page:4	$024'327'7;$023'327'177'10'1;Tớ muốn bảo mấy hồn ma▼đừng quấy rầy mình,▼nhưng chắc chúng chẳng nghe.
+talkfigs/0eng/data/0042#15.52#page:5	$024'327'1;$023'327'173'6'2;$022'327'341;Này $500;,▼cậu làm giúp tớ được không?
+talkfigs/0eng/data/0042#15.52#page:6	$024'327'6;$023'327'8'10'1;$022'327'382;Nếu cậu làm được,▼tớ sẽ thưởng thật hậu hĩnh...
+talkfigs/0eng/data/0042#15.54#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu thích tiệc nấm▼thường niên không?
+talkfigs/0eng/data/0042#15.54#page:2	Dạo này tớ hái được▼cả đống nấm rồi đấy.
+talkfigs/0eng/data/0042#15.54#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Còn cậu, $500;?
+talkfigs/0eng/data/0042#15.54#page:4	Ha ha! Nhìn mặt cậu▼là biết chưa chuẩn bị▼gì rồi!
+talkfigs/0eng/data/0042#15.54#page:5	Đừng có táy máy▼đụng vào kho nấm của tớ nhé!
+talkfigs/0eng/data/0042#15.54#page:6	$024'327'6;$023'327'8'10'1;$022'327'382;Ai cũng phải góp nấm▼cho bữa tiệc, rõ chưa?
+talkfigs/0eng/data/0042#15.56#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu thích lễ hội▼tuyết cầu vồng không?
+talkfigs/0eng/data/0042#15.56#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nhặt bông tuyết▼siêu giỏi, được cả đống rồi!
+talkfigs/0eng/data/0042#15.56#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;Nhặt được một bông▼cứ như nhặt được Ritch▼ngoài đường. Lời to!
+talkfigs/0eng/data/0042#15.70#page:1	$024'327'7;$023'327'177'10'1;Xin lỗi vì bức điện tín▼kỳ quặc đó nhé.
+talkfigs/0eng/data/0042#15.70#page:2	$024'327'5;$023'327'175'8'2;$022'327'345;À... Ừm... Ý tớ là...▼đâu phải tớ gửi nó.
+talkfigs/0eng/data/0042#15.70#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nên cậu cứ quên▼chuyện đó đi nhé?$079;$073'702'1;
+talkfigs/0eng/data/0042#15.71#page:1	$024'327'7;$023'327'177'10'1;Xin lỗi vì bức điện tín▼kỳ quặc đó nhé.
+talkfigs/0eng/data/0042#15.71#page:2	$024'327'5;$023'327'175'8'2;$022'327'345;À... Ừm... Ý tớ là...▼đâu phải tớ gửi nó.
+talkfigs/0eng/data/0042#15.71#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nên cậu cứ quên▼chuyện đó đi nhé?$079;$073'702'1;
+talkfigs/0eng/data/0042#15.72#page:1	$024'327'7;$023'327'177'10'1;Xin lỗi vì bức điện tín▼kỳ quặc đó nhé.
+talkfigs/0eng/data/0042#15.72#page:2	$024'327'5;$023'327'175'8'2;$022'327'345;À... Ừm... Ý tớ là...▼đâu phải tớ gửi nó.
+talkfigs/0eng/data/0042#15.72#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nên cậu cứ quên▼chuyện đó đi nhé?$079;$073'702'1;
+talkfigs/0eng/data/0042#15.73#page:1	$024'327'7;$023'327'177'10'1;Xin lỗi vì bức điện tín▼kỳ quặc đó nhé.
+talkfigs/0eng/data/0042#15.73#page:2	$024'327'5;$023'327'175'8'2;$022'327'345;À... Ừm... Ý tớ là...▼đâu phải tớ gửi nó.
+talkfigs/0eng/data/0042#15.73#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nên cậu cứ quên▼chuyện đó đi nhé?$079;$073'702'1;
+talkfigs/0eng/data/0042#15.74#page:1	$024'327'7;$023'327'177'10'1;Xin lỗi vì bức điện tín▼kỳ quặc đó nhé.
+talkfigs/0eng/data/0042#15.74#page:2	$024'327'5;$023'327'175'8'2;$022'327'345;À... Ừm... Ý tớ là...▼đâu phải tớ gửi nó.
+talkfigs/0eng/data/0042#15.74#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nên cậu cứ quên▼chuyện đó đi nhé?$079;$073'702'1;
+talkfigs/0eng/data/0042#15.75#page:1	$024'327'7;$023'327'177'10'1;Xin lỗi vì bức điện tín▼kỳ quặc đó nhé.
+talkfigs/0eng/data/0042#15.75#page:2	$024'327'5;$023'327'175'8'2;$022'327'345;À... Ừm... Ý tớ là...▼đâu phải tớ gửi nó.
+talkfigs/0eng/data/0042#15.75#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nên cậu cứ quên▼chuyện đó đi nhé?$079;$073'702'1;
+talkfigs/0eng/data/0042#15.76#page:1	$024'327'7;$023'327'177'10'1;Xin lỗi vì bức điện tín▼kỳ quặc đó nhé.
+talkfigs/0eng/data/0042#15.76#page:2	$024'327'5;$023'327'175'8'2;$022'327'345;À... Ừm... Ý tớ là...▼đâu phải tớ gửi nó.
+talkfigs/0eng/data/0042#15.76#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nên cậu cứ quên▼chuyện đó đi nhé?$079;$073'702'1;
+talkfigs/0eng/data/0042#15.77#page:1	$024'327'7;$023'327'177'10'1;Xin lỗi vì bức điện tín▼kỳ quặc đó nhé.
+talkfigs/0eng/data/0042#15.77#page:2	$024'327'5;$023'327'175'8'2;$022'327'345;À... Ừm... Ý tớ là...▼đâu phải tớ gửi nó.
+talkfigs/0eng/data/0042#15.77#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nên cậu cứ quên▼chuyện đó đi nhé?$079;$073'702'1;
+talkfigs/0eng/data/0042#15.78#page:1	$024'327'7;$023'327'177'10'1;Xin lỗi vì bức điện tín▼kỳ quặc đó nhé.
