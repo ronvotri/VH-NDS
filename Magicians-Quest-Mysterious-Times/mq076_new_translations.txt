@@ -1,0 +1,49 @@
+005|Cậu muốn gì?▼Tìm tớ có việc gì à?$085;$019'1674;
+006|Giờ tớ chẳng có tin gì▼thú vị để kể đâu...$079;
+012|Gì đây? Cậu định▼tặng tớ thứ gì à?$079;$073'705'1'1;
+013|Xin lỗi, giờ tớ không rảnh...
+014|Tớ còn bao nhiêu việc▼quan trọng phải lo!
+015|Để dịp khác nhé!$079;
+016|Ừm...$079;$073'010'1'1;
+017|Ồ... vậy à? Có chuyện gì▼thì cứ bảo tớ nhé.$079;
+018|Sao thế? Cậu cần▼tớ giúp gì à?$085;$019'1684;
+020|Kể gì đi...$019'1685;
+025|Gì thế? Cậu tặng▼quà cho tớ à?$079;$073'705'1'1;
+026|Muốn chơi cùng tớ à?▼Thế thì đi thôi!!$079;$073'705'3'1;
+027|Ừm... Để xem...$079;$073'010'1'1;
+028|Cậu chắc chứ? Được thôi.▼Khi nào cần thì cứ▼gọi tớ nhé?$079;
+029|Gì thế? Cậu cần▼tớ giúp à?$085;$019'1691;
+030|Kể gì đi...$019'1695;
+034|Này...! Chờ đã!$079;$073'010'1'1;
+036|Mà này, đoán xem▼tớ vừa thấy gì!
+038|Hai người đó còn tán tỉnh▼nhau giữa chốn đông người.▼Đúng là thiếu ý tứ!
+039|Thật tình... Ngay cả tớ▼cũng hết hứng trêu▼hai người đó luôn.
+040|Tớ đâu có quan tâm đến▼kiểu câu cá kém cỏi ấy...
+041|Tớ chẳng thèm quan tâm▼kiểu bắt côn trùng▼vụng về như thế đâu.
+042|Không biết họ niệm chú gì▼mà khiến tớ cảm thấy▼hơi...
+043|Giá mà có người cùng tớ▼làm phép... À, thôi bỏ đi.
+044|Đôi khi tớ cũng muốn▼có ai đó bên cạnh...▼À, thôi.
+046|Trông vui thật. Giá mà▼một ngày tớ cũng có bạn gái...
+048|Chẳng biết có chuyện gì...▼Khoan! Tớ nghĩ ra rồi!
+049|Biết đâu tớ kiếm được▼kha khá tiền nhờ▼giữ kín chuyện này...
+050|Sao chẳng ai rủ tớ chơi?
+051|Dù có rủ, tớ cũng▼từ chối thôi...
+052|Dĩ nhiên, tớ chẳng muốn▼dính vào kiểu câu cá▼kém cỏi như thế.
+053|Dĩ nhiên, tớ chẳng muốn▼dính vào kiểu bắt bọ▼kém cỏi như thế.
+054|Ái chà! Tớ mê thi thố lắm!▼Nghĩ cách gian lận▼mới là phần vui nhất!
+056|Trông lẻ loi thật.
+057|Lần tới có lẽ tớ sẽ▼đề nghị kết bạn...▼Tất nhiên là có thu phí.
+058|Không biết đó là▼loài cá gì nhỉ...
+059|Lẽ ra tớ phải tới đó▼chế giễu mới phải.
+060|Không biết ở đó có▼loại côn trùng gì nhỉ...
+062|Không biết $530'0;▼đang niệm chú gì...
+063|Không biết $530'0;▼đang dùng phép gì...
+065|Trông thì chỉ như▼đang thẫn thờ nhìn▼vào khoảng không...
+066|$530'0; hẳn đang▼nghĩ xem tiếp theo▼sẽ bày trò quậy gì.
+067|Rốt cuộc để làm gì nhỉ?▼Ừm... Tò mò quá đi mất.
+068|Trông có vẻ vui thật.
+069|Nhưng mà trình độ ấy▼còn lâu mới bằng tớ.
+071|Hẳn phải có lý do.▼Để niệm chú? Hay là▼kiếm lời gì đó nhỉ...?
+072|Nếu là trò nghịch ngợm,▼tớ cũng muốn tham gia...
+073|Mà này, biết tớ▼nghe được gì không?
+074|Nghe mà tớ cũng hơi ghen,▼nhưng chắc quà chẳng▼ra gì đâu.

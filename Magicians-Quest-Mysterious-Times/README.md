@@ -1,3 +1,5 @@
+**Checkpoint mới nhất: 076 (09/11/2026) — 20,178/55.976 (36.05%).** +240 trang thoại (`0042.005`, `0042.006`). Xem `CHECKPOINT-2026-11-09-DOT-76.md`, `QA-076.md`. Đợt tiếp: `0042.007` + `0042.008`.
+
 **Checkpoint mới nhất: 075 (09/11/2026) — 19.938 / 55.976 (35,62%).** +240 trang thoại NPC (`0042.003`, `0042.004`). Xem `CHECKPOINT-2026-11-09-DOT-75.md` và `QA-075.md`. Đợt tiếp: `0042.005` + `0042.006` (240 trang nguồn đã có).
 
 **Checkpoint mới nhất: 074 (09/11/2026) — 19.698 / 55.976 (35,19%).** +240 trang thoại NPC (`0042.001`, `0042.002`). Có 235 mẫu EN riêng, 220 mẫu mới; QA 501 JSONL PASS. Xem `CHECKPOINT-2026-11-09-DOT-74.md`, `QA-074.md`, `DELTA-074.jsonl`. Đợt 075: `0042.003` + `0042.004`.
