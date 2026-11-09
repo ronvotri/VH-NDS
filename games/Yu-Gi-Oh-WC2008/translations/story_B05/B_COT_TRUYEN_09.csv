@@ -1,0 +1,155 @@
+key,ten_la_bai_EN,tieng_Anh,tieng_Viet_hien_tai,toi_da_ky_tu,tieng_Viet_MOI
+story|1456|0,,The seal has been successfully opened!,Phong ấn đã được phá thành công!,42,Phong ấn đã được mở thành công!
+story|1457|0,,You failed in opening the seal.,Bạn đã thất bại trong việc phá phong ấn.,45,Bạn chưa phá được phong ấn.
+story|1458|0,,There's a treasure chest before you.,Trước mắt bạn có một rương kho báu.,40,Một chiếc rương báu nằm ngay trước mặt.
+story|1459|0,,Open it?,Mở ra chứ?,12,Mở chứ?
+story|1460|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1461|0,,There's a card in the chest!,Trong rương có 1 lá bài!,31,Trong rương có một lá bài!
+story|1462|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|1463|0,,There's DP in the chest!,Trong rương có DP!,27,Trong rương có DP!
+story|1464|0,,You obtained 500DP.,Bạn nhận được 500DP.,23,Bạn nhận được 500DP.
+story|1465|0,,The chest is empty!,Rương trống không!,21,Rương trống trơn!
+story|1466|0,,The chest was a Mimic!,Cái rương là Mimic!,25,Rương hóa ra là Mimic!
+story|1467|0,,You left the area.,Bạn đã rời khỏi khu vực này.,31,Bạn rời khỏi khu vực.
+story|1468|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|1469|0,,The monster stole 500DP!,Quái thú đã cướp mất 500DP!,30,Quái thú đã cướp 500DP!
+story|1470|0,,"Uh, hiya, would ya like to have a little makeover?","À, chào, cậu có muốn làm mới diện mạo một chút không?",59,"Ê, chào nha! Muốn đổi diện mạo một chút không?"
+story|1471|0,,I'm sure it will help ya become more attractive.,Chắc chắn sẽ giúp cậu hấp dẫn hơn đấy.,53,Đảm bảo cậu sẽ trông cuốn hút hơn nhiều!
+story|1472|0,,You just need to pay me 500DP for the procedure.,Cậu chỉ cần trả tôi 500DP cho thủ thuật này.,53,Chỉ cần trả tôi 500DP để làm đẹp thôi.
+story|1473|0,,"Once your face is changed, you can't change it back, even if you don't like the new one. So be careful.","Một khi đã đổi mặt rồi thì không thể đổi lại, dù cậu không thích khuôn mặt mới. Nên hãy cẩn thận nhé.",114,"Đã đổi mặt là không đổi lại được đâu, dù cậu chẳng thích gương mặt mới. Nghĩ kỹ nhé!"
+story|1474|0,,"Well, what do ya say?\nWant to give it a try?",Thế nào?\nCậu muốn thử không?,49,Thế nào?\nMuốn thử một lần không?
+story|1475|0,,Please Select Answer.,Hãy chọn.,24,Hãy chọn câu trả lời.
+story|1476|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1477|0,,"Oh, you're pretty brave there. Well, it's time to put my skills to the test.","À, cậu gan thật. Nào, đến lúc để tôi thi thố tay nghề của mình.",84,"Chà, cậu gan đấy! Để tôi trổ tài cho cậu xem!"
+story|1478|0,,Insufficient DP.,Không đủ DP.,18,Không đủ DP.
+story|1480|0,,"Oh, that's really too bad. If ya have a change of heart, just let me know.","À, tiếc thật. Nếu cậu đổi ý, cứ bảo tôi nhé.",82,"Ôi, tiếc ghê! Khi nào đổi ý cứ tìm tôi nhé."
+story|1481|0,,What do ya think? I bet you love it. I personally think it went really well. I'll see you around then!,Cậu thấy sao? Chắc cậu thích lắm. Riêng tôi thấy nó thành công lắm. Hẹn gặp lại nhé!,113,Thấy sao? Đẹp quá chứ gì? Tôi cũng ưng lắm! Hẹn gặp lại!
+story|1482|0,,"Aw, I goofed it up! But, sorry, there's no complaint desk here!","Ui, tôi nhầm rồi! Mà, xin lỗi, ở đây không có quầy khiếu nại đâu nhé!",76,"Ối, tôi làm hỏng rồi! Nhưng ở đây không nhận khiếu nại nha!"
+story|1483|0,,UFOroid has come here to make contact with you.,UFOroid đã đến đây để liên lạc với bạn.,52,UFOroid đến đây để liên lạc với bạn.
+story|1484|0,,Try to choose the symbol that it's thinking of.,Hãy chọn biểu tượng mà nó đang nghĩ đến.,52,Thử chọn biểu tượng UFOroid đang nghĩ xem.
+story|1485|0,,The figure UFOroid has in mind is:,Hình UFOroid đang nghĩ là:,38,UFOroid đang nghĩ tới hình:
+story|1486|0,,«\n¢\n*\n%,-\n-\n*\n%,8,-\n-\n*\n%
+story|1487|0,,UFOroid looks thrilled!,UFOroid trông rất vui!,26,UFOroid mừng ra mặt!
+story|1488|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|1489|0,,UFOroid seems pleased.,UFOroid có vẻ hài lòng.,26,UFOroid có vẻ vui lắm.
+story|1490|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|1491|0,,UFOroid looks pretty down.,UFOroid trông khá ủ rũ.,29,UFOroid trông buồn thiu.
+story|1492|0,,There is a gate in front of you.,Trước mắt bạn có một cái cổng.,36,Có một cánh cổng trước mặt bạn.
+story|1493|0,,Welcome to Celestial World. This is a place protected by order and discipline.,Chào mừng đến Celestial World. Đây là nơi được bảo vệ bởi trật tự và kỷ luật.,86,"Chào mừng đến Celestial World, vùng đất của trật tự và kỷ cương."
+story|1494|0,,"My name is ""Layard the Liberator"".","Ta là ""Layard the Liberator"".",38,"Ta là ""Layard the Liberator""."
+story|1495|0,,You must be a traveler from Duel World.,Chắc ngươi là lữ khách đến từ Duel World.,46,Hẳn ngươi là lữ khách từ Duel World tới.
+story|1496|0,,"To come closer to the highest level of Celestial World, you must pass my test.","Muốn tiến gần đến tầng cao nhất của Celestial World, ngươi phải vượt qua thử thách của ta.",100,"Muốn lên những tầng cao nhất của Celestial World, ngươi phải vượt thử thách của ta."
+story|1498|0,,"For this trial, you must duel with a Deck limited to Fairy-Type monsters.","Trong thử thách này, ngươi phải Duel bằng Deck chỉ gồm quái thú hệ Fairy.",81,"Ở thử thách này, Bộ bài của ngươi chỉ được có quái thú tộc Tiên."
+story|1499|0,,"If you win using your Fairy Deck, you may pass through this gate.","Nếu thắng bằng Deck Fairy của ngươi, ngươi có thể đi qua cổng này.",73,"Thắng bằng Bộ bài tộc Tiên, ngươi sẽ được qua cổng."
+story|1500|0,,"So then, will you take my test?","Vậy thì, ngươi có muốn thử thách của ta không?",51,Vậy ngươi có dám nhận thử thách không?
+story|1501|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1502|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1503|0,,"Alright, I hope you do well. Believe in your abilities and duel with great passion!","Tốt lắm, ta mong ngươi làm tốt. Hãy tin vào khả năng của mình và Duel hết mình!",92,Tốt lắm! Hãy tin vào bản thân và dốc hết sức trong trận đấu!
+story|1504|0,,Your Deck does not meet the conditions for this duel!,Deck của ngươi không đáp ứng điều kiện của trận Duel này!,63,Bộ bài của ngươi không đáp ứng điều kiện trận đấu!
+story|1505|0,,Reconstruct your Deck and then come back here.,Hãy xây dựng lại Deck rồi quay lại đây.,51,Hãy chỉnh lại Bộ bài rồi quay lại đây.
+story|1506|0,,"Oh, that is fine.","À, không sao.",19,"Ồ, cũng được thôi."
+story|1507|0,,"Though, one day, you will surely need to enter this gate.","Nhưng một ngày nào đó, ngươi chắc chắn sẽ phải vào cổng này.",67,Nhưng sớm muộn ngươi cũng phải bước qua cánh cổng này.
+story|1508|0,,You would be wise to remember that.,Ngươi nên nhớ điều đó.,39,Ngươi nên nhớ kỹ điều đó.
+story|1509|0,,You really showed your stuff!,Ngươi đã thể hiện rất xuất sắc!,35,Ngươi đã thể hiện bản lĩnh rất tốt!
+story|1510|0,,You have proven you are worthy enough to pass through this gate.,Ngươi đã chứng tỏ xứng đáng đi qua cổng này.,71,Ngươi đã chứng minh mình xứng đáng qua cổng này.
+story|1511|0,,"Now, you may advance.",Giờ ngươi có thể tiến lên.,29,Giờ ngươi được đi tiếp.
+story|1512|0,,You have not shown you are worthy enough to pass through this gate.,Ngươi chưa chứng tỏ đủ xứng đáng để đi qua cổng này.,74,Ngươi vẫn chưa đủ tư cách vượt qua cổng này.
+story|1513|0,,I shall wait for you to take up this challenge again.,Ta sẽ chờ ngươi quay lại thử thách này.,59,Ta sẽ đợi ngươi quay lại thử sức.
+story|1514|0,,"Oh, no!",Ôi không!,10,"Ôi, không!"
+story|1515|0,,This is terrible!,Tệ quá!,19,Hỏng hết rồi!
+story|1516|0,,We dropped it! This is just awful!,Chúng tôi làm rơi mất rồi! Tệ thật!,39,Chúng tôi đánh rơi nó rồi! Chết dở!
+story|1517|0,,We lost it! This is big trouble!,Chúng tôi làm mất rồi! Rắc rối to rồi!,42,Chúng tôi làm mất nó rồi! Gay to!
+story|1518|0,,We were supposed to deliver something really important to Lord Parshath.,Chúng tôi được giao đưa một thứ thật quan trọng cho ngài Parshath.,80,Chúng tôi phải giao một món cực kỳ quan trọng cho ngài Parshath.
+story|1519|0,,It's a really special card! But we dropped it!,Là một lá bài thật đặc biệt! Vậy mà chúng tôi làm rơi rồi!,64,Đó là lá bài vô cùng đặc biệt! Vậy mà lại làm rơi!
+story|1520|0,,"Traveler, can you help us?","Lữ khách, người giúp chúng tôi được không?",47,"Lữ khách ơi, giúp chúng tôi được không?"
+story|1521|0,,"If you find it, please let us know.","Nếu tìm thấy, xin hãy báo cho chúng tôi biết.",50,"Nếu tìm thấy, làm ơn báo cho chúng tôi nhé."
+story|1522|0,,"The name of the card is ""@5Nova Summoner@0"".","Tên lá bài là ""@5Nova Summoner@0"".",49,"Lá bài đó tên là ""@5Nova Summoner@0""."
+story|1523|0,,It's really important we deliver it!,Phải giao nó cho bằng được!,40,Nhất định phải giao được lá bài ấy!
+story|1524|0,,Please help!,Xin hãy giúp chúng tôi!,26,Làm ơn giúp với!
+story|1525|0,,We'd be so grateful.,Chúng tôi sẽ biết ơn lắm.,28,Chúng tôi biết ơn người lắm!
+story|1526|0,,You... must duel......,Người... phải Duel......,27,Ngươi... phải đấu bài......
+story|1527|0,,I just saw some clouds with a strange color over there.,Tôi vừa thấy mấy đám mây màu lạ ở phía kia.,61,Tôi vừa thấy vài đám mây màu lạ ở đằng kia.
+story|1528|0,,The clouds looked kind of weird. Nyan!,Những đám mây trông kỳ kỳ. Nyan!,42,Mấy đám mây trông kỳ lắm. Nyan!
+story|1529|0,,Aw...I'm really hungry.,Ui...đói bụng quá.,26,Ôi... đói bụng quá đi.
+story|1530|0,,That colored clouds I've just seen...they must taste sweet and nice.,Mấy đám mây có màu tôi vừa thấy...chắc chắn ngọt ngon lắm.,75,Mấy đám mây màu mè tôi vừa thấy... chắc ngọt lịm luôn!
+story|1531|0,,"Heya, let's play
+\nWanna duel with us?\nYou will, won't you?","Này, chơi đi nào\nDuel với tui không?\nChắc là có chứ, đúng không?",71,"Ê, chơi đi nào!\nĐấu với tụi này nhé?\nCậu chơi chứ, đúng không?"
+story|1532|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1533|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1534|0,,"We don't have many Life Points. So, in this duel, we'll both start with just 1000 Life Points.","Tui không có nhiều Life Points. Nên ở trận Duel này, hai bên đều chỉ bắt đầu với 1000 Life Points thôi.",114,Tụi này không có nhiều LP. Trận này cả hai bên bắt đầu với đúng 1000 LP thôi nhé!
+story|1535|0,,"Sounds good, right?\nIt'll be fun!\nWell, get your game on!","Ổn chứ?\nSẽ vui lắm đó!\nNào, chơi hết mình thôi!",63,"Nghe hay không?\nVui lắm cho xem!\nNào, đấu thôi!"
+story|1536|0,,"You're no fun
+\nHow boring
+\nC'mon, you really wanna duel, right?","Chán ghê\nNhàm chán\nThôi mà, cậu muốn Duel thật mà, đúng không?",70,"Cậu chán quá!\nBuồn ghê!\nThôi mà, cậu cũng muốn đấu chứ?"
+story|1537|0,,"Hey, come back!","Này, quay lại đi!",19,"Ê, quay lại đã!"
+story|1538|0,,"Aw, it's very upsetting!\nWe were so close too!\nWe almost had you!","Ui, tức quá!\nSuýt nữa là tui thắng rồi!\nChỉ còn chút xíu nữa thôi!",73,"Ôi, tức ghê!\nSuýt nữa là thắng rồi!\nChỉ còn chút xíu thôi!"
+story|1539|0,,"Yay, we did it!\nWe really pulled it off!\nDancers are super strong!","Yay, tui làm được rồi!\nTui thắng thật rồi!\nDancer mạnh khủng khiếp!",74,"Hoan hô, thắng rồi!\nTụi mình làm được!\nDancer mạnh ghê!"
+story|1540|0,,"Oh, a human has come to this place. Been a while since that happened.","À, có con người đến đây. Lâu lắm rồi mới có chuyện này.",76,"Ồ, có người đến tận đây sao? Lâu lắm mới thấy đấy."
+story|1541|0,,"Hey, you wanna party? How 'bout a duel?","Này, muốn quẩy không? Duel một trận nhé?",45,"Này, muốn vui một trận không? Đấu bài nhé?"
+story|1542|0,,A regular duel ain't too interesting. So let's play with a really funky rule.,Duel bình thường thì chán lắm. Nên chơi với luật thật ngầu đi.,85,Đấu thường thì chán chết! Chơi theo luật quái chiêu chút đi!
+story|1544|0,,"We each play with 80 cards in our Deck.\nCool, right?",Mỗi người chơi với 80 lá trong Deck.\nNgầu chưa?,58,Mỗi bên phải dùng Bộ bài đúng 80 lá.\nNgầu chưa?
+story|1545|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1546|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1547|0,,"Good stuff! Thanks for playing this way! Alright, get your game on!","Tuyệt! Cảm ơn đã chơi kiểu này! Nào, chơi hết mình nào!",74,"Tuyệt! Cảm ơn cậu đã chịu chơi! Nào, đấu thôi!"
+story|1548|0,,"Hey, you ain't got enough cards in your Deck! Make sure you have 80 exactly, man!","Này, Deck của cậu không đủ lá! Phải đủ 80 lá đấy nhé!",90,"Này, Bộ bài cậu chưa đủ đâu! Phải đúng 80 lá nhé!"
+story|1549|0,,"Huh? That so?\nMan, don't be so square
+","Hử? Vậy à?\nTrời, đừng cũ kỹ thế chứ",42,"Hả, thế à?\nĐừng khô khan thế chứ!"
+story|1550|0,,Aw... I lost!\nYou got skills! It was fun though!,Ui... Tui thua rồi!\nCậu giỏi thật! Mà vui lắm!,53,"Ôi, thua mất rồi!\nCậu giỏi thật! Mà vui ghê!"
+story|1551|0,,"Yeah, baby! I did it! I'm stoked!\nLet's duel again sometime.",Yeah! Tui làm được rồi! Phê quá!\nLần nào Duel tiếp nhé.,67,"Yeah, thắng rồi! Phấn khích quá!\nBữa nào đấu tiếp nha!"
+story|1552|0,,"Oh, we don't really get humans in these parts.","À, ở vùng này ít khi có con người lắm.",51,"Ồ, vùng này hiếm khi có người ghé lắm."
+story|1553|0,,This is the second out of the ordinary thing to just happen. I also picked something interesting up a couple of minutes ago. Should I give it to you?,Đây là chuyện lạ thứ hai vừa xảy ra. Vài phút trước tôi cũng nhặt được thứ hay ho. Có muốn tôi cho cậu không?,164,Lại thêm một chuyện lạ! Vài phút trước tôi cũng nhặt được món hay ho. Cậu có muốn lấy không?
+story|1554|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1555|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1556|0,,"Oh, you want it, eh? OK, but just giving it you for free would be pretty dull, right?","À, cậu muốn sao? Được thôi, nhưng cho không thì nhàm lắm, đúng không?",94,"Ồ, cậu thích nó à? Được thôi, nhưng cho không thì chán lắm nhỉ?"
+story|1557|0,,So how about you duel for it? You have to beat me within 5 turns!,Vậy Duel để lấy đi! Cậu phải thắng tôi trong vòng 5 lượt!,72,Đấu một trận để lấy nhé? Phải thắng tôi trong tối đa 5 lượt đấy!
+story|1558|0,,"If you can do that, I'll give you a really nice reward!","Nếu làm được, tôi sẽ cho cậu phần thưởng thật xứng đáng!",62,Làm được thì tôi tặng cậu phần thưởng xịn luôn!
+story|1559|0,,"What! Well, don't even think of asking for it later!",Cái gì! Vậy thì sau này đừng có xin nhé!,58,Cái gì! Thế sau này đừng có xin nhé!
+story|1560|0,,Ooh! Amazing! You really are good! No one has ever beaten me that quickly before!,Ồ! Tuyệt vời! Cậu giỏi thật! Chưa ai đánh bại tôi nhanh đến vậy!,90,"Ồ, đỉnh thật! Cậu giỏi quá! Chưa ai hạ tôi nhanh thế!"
+story|1561|0,,"Well then, this is the really nice reward I promised you! Here you go!","Nào, đây là phần thưởng xứng đáng tôi đã hứa! Cầm lấy!",78,Đây là phần thưởng tôi đã hứa. Cầm lấy nào!
+story|1562|0,,"You received ""@5YOURCARD()@0""!","Bạn nhận được ""@5YOURCARD()@0""!",35,"Bạn nhận được ""@5YOURCARD()@0""!"
+story|1563|0,,I had a great time dueling with you!,Duel với cậu vui lắm!,40,Đấu với cậu vui hết sức!
+story|1564|0,,"Oh, you almost did it. But, unfortunately, I can't give you your reward!","À, cậu suýt nữa thì được. Nhưng tiếc là tôi không thể cho phần thưởng!",80,"Ôi, suýt được rồi! Tiếc là tôi chưa thể trao thưởng!"
+story|1565|0,,"You can try as much as you like though. Once again, try to win in 5 turns!",Cậu có thể thử bao nhiêu lần cũng được. Lại thử thắng trong 5 lượt nhé!,82,Cậu thử bao lần cũng được! Nhớ thắng trong 5 lượt nhé!
+story|1566|0,,Aw! That's how it goes! Maybe you need to practice more! You better work on your game and then come back!,Ui! Vậy đó! Có lẽ cậu cần luyện thêm! Cậu nên rèn tay rồi quay lại nhé!,116,"Ôi, thua rồi! Cậu cần tập thêm đấy. Luyện cho chắc rồi quay lại!"
+story|1567|0,,There is a gate in front of you.,Trước mắt bạn có một cái cổng.,36,Có một cánh cổng trước mặt bạn.
+story|1568|0,,This land and all that is before you is protected by order and discipline.,Vùng đất này và mọi thứ trước mặt đều được bảo vệ bởi trật tự và kỷ luật.,82,Vùng đất này và tất cả những gì trước mắt đều được gìn giữ bằng kỷ cương.
+story|1569|0,,"My name is ""Radiant Jeral""!","Ta là ""Radiant Jeral""!",30,"Ta là ""Radiant Jeral""!"
+story|1570|0,,You must be a traveler from Duel World.,Chắc ngươi là lữ khách đến từ Duel World.,46,Ngươi hẳn là lữ khách từ Duel World tới.
+story|1571|0,,"To come closer to the highest level of Celestial World, you must pass my test.","Muốn tiến gần đến tầng cao nhất của Celestial World, ngươi phải vượt qua thử thách của ta.",100,"Muốn lên những tầng cao nhất của Celestial World, ngươi phải vượt thử thách của ta."
+story|1573|0,,"For this trial, you must find a way to make me run out of cards.","Trong thử thách này, ngươi phải tìm cách làm ta hết bài.",71,"Lần này, ngươi phải khiến Bộ bài của ta cạn sạch."
+story|1574|0,,"If you win by forcing me to run out of cards, you may pass through this gate.","Nếu thắng bằng cách ép ta hết bài trong Deck, ngươi có thể đi qua cổng này.",85,"Thắng bằng cách làm ta hết bài trong Bộ bài, ngươi sẽ được qua cổng."
+story|1575|0,,"So then, will you take my test?","Vậy thì, ngươi có muốn thử thách của ta không?",51,Ngươi có muốn nhận thử thách của ta không?
+story|1576|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1577|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1578|0,,"Alright, I hope you do well. Rely on your courage and give it your all!","Tốt lắm, ta mong ngươi làm tốt. Hãy dựa vào dũng cảm và dùng hết sức!",79,Tốt! Hãy lấy can đảm và chiến đấu hết mình!
+story|1579|0,,You cannot achieve anything if you do not challenge yourself!,Không thử thách bản thân thì chẳng đạt được gì đâu!,68,Không dám thử thì chẳng thể làm nên chuyện!
+story|1580|0,,You showed great courage!,Ngươi đã thể hiện lòng dũng cảm tuyệt vời!,47,Ngươi đã cho ta thấy lòng can đảm!
+story|1581|0,,You have proven you are worthy enough to pass through this gate.,Ngươi đã chứng tỏ xứng đáng đi qua cổng này.,71,Ngươi đã chứng minh mình xứng đáng qua cổng này.
+story|1582|0,,"Now, you may advance.",Giờ ngươi có thể tiến lên.,29,Giờ ngươi được đi tiếp.
+story|1583|0,,You failed to show true courage!,Ngươi đã không thể hiện được lòng dũng cảm thật sự!,57,Ngươi vẫn chưa cho thấy lòng can đảm thật sự!
+story|1584|0,,You have not shown you are worthy enough to pass through this gate.,Ngươi chưa chứng tỏ đủ xứng đáng để đi qua cổng này.,74,Ngươi vẫn chưa đủ tư cách vượt qua cổng này.
+story|1585|0,,I shall wait for you to take up this challenge again.,Ta sẽ cho ngươi quay lại thử thách này.,59,Ta sẽ chờ ngươi quay lại thử sức.
+story|1586|0,,"Traveler, have you come across Gellenduo, two small creatures who always stay together?","Lữ khách, ngươi đã gặp Gellenduo chưa, hai sinh vật nhỏ lúc nào cũng ở bên nhau?",96,"Lữ khách, ngươi từng gặp Gellenduo, hai sinh vật bé nhỏ luôn đi cùng nhau chưa?"
+story|1587|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1588|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1589|0,,"Is that so? You have seen them? I have been searching, but there has been no trace of them. It has caused me to worry.",Vậy sao? Ngươi đã thấy chúng? Ta đã tìm kiếm mà không thấy dấu vết. Ta rất lo lắng.,130,"Thật sao? Ngươi thấy họ rồi à? Ta tìm khắp nơi chẳng có dấu vết, lo lắm."
+story|1590|0,,I had requested that they deliver to me a card of great importance.,Ta đã nhờ chúng giao cho ta một lá bài cực kỳ quan trọng.,74,Ta đã nhờ họ chuyển cho ta một lá bài rất quan trọng.
+story|1591|0,,"The name of this card is ""@5Nova Summoner@0"". Do you know of it?","Tên lá bài này là ""@5Nova Summoner@0"". Ngươi có biết không?",71,"Lá bài ấy tên là ""@5Nova Summoner@0"". Ngươi biết chứ?"
+story|1592|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1593|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1595|0,,"Oh, you haven't seen them? Well, if you see them later, please tell me.","À, ngươi chưa thấy chúng sao? Nếu sau này gặp, xin báo cho ta biết.",79,"Ồ, chưa thấy họ à? Nếu gặp sau này, nhớ báo ta nhé."
+story|1596|0,,Perhaps those two are just fooling around somewhere.,Biết đâu hai đứa đó đang nghịch ở đâu đó.,58,Có khi hai đứa đang mải chơi đâu đó.
+story|1597|0,,"Well, if you happen to see them, please let me know.","Nếu tình cờ gặp chúng, xin cho ta biết.",58,"Nếu tình cờ gặp họ, báo cho ta với nhé."
+story|1598|0,,"Handed over ""@5OWNCARD()@0"".","Đã đưa ""@5OWNCARD()@0"".",31,"Đã giao ""@5OWNCARD()@0""."
+story|1599|0,,This is it!,Chính nó đây!,15,Là lá này đây!
+story|1600|0,,You must have stolen it!,Chắc chắn ngươi đã ăn trộm nó!,34,Chắc chắn ngươi đã trộm nó!
+story|1601|0,,Everyone come here! Catch this thief!,Mọi người đến đây! Bắt tên trộm này!,41,Mọi người đâu! Bắt tên trộm này lại!
+story|1602|0,,"Now, it is time to conduct the ""@5Nova Summoner@0"" Robbery Trial.","Giờ là lúc tiến hành phiên xét xử vụ cướp ""@5Nova Summoner@0"".",72,"Giờ mở phiên xử vụ trộm ""@5Nova Summoner@0""."
+story|1603|0,,"Defendant, come before me!","Bị cáo, hãy tiến lên trước ta!",34,"Bị cáo, bước lên phía trước!"
+story|1604|0,,"Once again, I will ask the defendant. Did you steal this card?","Một lần nữa, ta sẽ hỏi bị cáo. Ngươi có ăn trộm lá bài này không?",72,Ta hỏi lại lần nữa: ngươi có trộm lá bài này không?
+story|1605|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1606|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
+story|1607|0,,"Hmm, just as I thought! This trial will end with the truth clearly exposed.","Hmm, đúng như ta nghĩ! Phiên xét xử này sẽ kết thúc khi sự thật được phơi bày rõ ràng.",95,"Hừm, đúng như ta nghĩ! Phiên xử sẽ làm sáng tỏ mọi chuyện."
+story|1608|0,,"Hmm, what nerve! Still claiming you are innocent? But there can only be one outcome - you stole this card, didn't you?","Hmm, gan thật! Vẫn còn khẳng định mình vô tội sao? Nhưng chỉ có một kết cục - ngươi đã ăn trộm lá bài này, đúng không?",130,"Hừm, gan thật! Vẫn chối tội sao? Nhưng kết luận chỉ có một: chính ngươi đã trộm nó, đúng chứ?"
+story|1609|0,,What will you do?,Bạn muốn làm gì?,19,Bạn sẽ làm gì?
+story|1610|0,,Yes\nNo,Có\nKhông,9,Có\nKhông
