@@ -1,0 +1,251 @@
+﻿key,ten_la_bai_EN,tieng_Anh,tieng_Viet_hien_tai,toi_da_ky_tu,tieng_Viet_MOI
+talk|0|0,,Duel Start,Bắt Đầu Duel,14,Bắt đầu trận
+talk|2|0,,Monster Summon,Summon Quái Thú,17,Triệu hồi quái
+talk|3|0,,Monster Attack,Quái Thú Tấn Công,19,Quái thú tấn công
+talk|5|0,,Final Attack,Đòn Tấn Công Cuối Cùng,25,Đòn tấn công kết liễu
+talk|6|0,,Spell Card Activation,Kích Hoạt Spell Card,24,Kích hoạt lá Phép
+talk|7|0,,Trap Card Activation,Kích Hoạt Trap Card,23,Kích hoạt lá Bẫy
+talk|8|0,,Turn End,Kết Thúc Lượt,15,Kết thúc lượt
+talk|9|0,,Damage (little),Sát Thương (ít),17,Sát thương nhẹ
+talk|10|0,,Damage (medium),Sát Thương (vừa),18,Sát thương vừa
+talk|11|0,,Damage (large),Sát Thương (nhiều),20,Sát thương nặng
+talk|12|0,,Duel Victory,Thắng Duel,14,Chiến thắng
+talk|14|0,,Duel Draw,Hòa Duel,10,Hòa trận
+talk|15|0,,Using Key Card,Dùng Lá Bài Chủ Lực,21,Sử dụng lá chủ lực
+talk|16|0,,Key Card Disappearing,Lá Bài Chủ Lực Biến Mất,26,Lá chủ lực biến mất
+talk|18|0,,When Ahead,Khi Đang Dẫn Trước,20,Khi đang dẫn trước
+talk|19|0,,When Behind,Khi Đang Bị Dẫn Sau,21,Khi đang bị dẫn trước
+talk|20|0,,When Idle,Khi Đối Thủ Không Hành Động,30,Khi đối thủ không hành động
+talk|21|0,,Tag Duel Start,Bắt Đầu Tag Duel,18,Bắt đầu đấu đôi
+talk|22|0,,Activation by Partner,Đối Tác Kích Hoạt,24,Đồng đội kích hoạt
+talk|23|0,,Tag Partner Takes Damage,Đối Tác Nhận Sát Thương,27,Đồng đội chịu sát thương
+talk|24|0,,Tag Partner Takes Damage,Đối Tác Nhận Sát Thương,27,Đồng đội chịu sát thương
+talk|25|0,,Tag Duel Victory,Thắng Tag Duel,18,Thắng đấu đôi
+talk|27|0,,Tag Duel Draw,Hòa Tag Duel,15,Hòa đấu đôi
+talk|28|0,,Dialogue at the start of a duel.,Lời thoại khi bắt đầu trận Duel.,36,Lời thoại lúc bắt đầu trận đấu.
+talk|29|0,,When it becomes your turn and you draw a card.,Khi đến lượt bạn và bạn rút bài.,51,Khi đến lượt và rút bài.
+talk|30|0,,When Summoning a monster.,Khi Summon 1 quái thú.,28,Khi Triệu hồi một quái thú.
+talk|31|0,,When Attacking with a Monster.,Khi tấn công bằng 1 quái thú.,34,Khi cho quái thú tấn công.
+talk|32|0,,When Direct Attacking your opponent.,Khi tấn công trực tiếp đối thủ.,40,Khi tấn công trực tiếp đối thủ.
+talk|33|0,,When it seems like the opponents Life Points will go to 0.,Khi Life Points đối thủ sắp về 0.,64,Khi LP của đối thủ sắp về 0.
+talk|34|0,,When activating a Spell Card.,Khi kích hoạt 1 Spell Card.,32,Khi kích hoạt một lá Phép.
+talk|35|0,,When Activating a Trap Card.,Khi kích hoạt 1 Trap Card.,31,Khi kích hoạt một lá Bẫy.
+talk|36|0,,When ending a turn.,Khi kết thúc lượt.,21,Khi kết thúc lượt.
+talk|37|0,,When receiving 999 or less damage.,Khi nhận sát thương từ 999 trở xuống.,41,Khi chịu sát thương từ 999 trở xuống.
+talk|38|0,,When receiving 1999 or less damage.,Khi nhận sát thương từ 1999 trở xuống.,42,Khi chịu sát thương từ 1999 trở xuống.
+talk|39|0,,When receiving 2000 or more damage.,Khi nhận sát thương từ 2000 trở lên.,40,Khi chịu sát thương từ 2000 trở lên.
+talk|40|0,,After winning a duel.,Sau khi thắng Duel.,24,Sau khi thắng trận.
+talk|42|0,,After a duel results in a draw.,Sau khi Duel hòa.,35,Sau khi trận đấu kết thúc hòa.
+talk|43|0,,When activating/summoning the card set as the Key Card.,Khi kích hoạt/Summon lá bài được đặt làm Lá Bài Chủ Lực.,62,Khi kích hoạt/Triệu hồi lá bài chủ lực đã chọn.
+talk|44|0,,"When the card set as the Key Card is negated, destroyed, or removed.","Khi Lá Bài Chủ Lực bị vô hiệu hóa, phá hủy, hoặc loại bỏ.",75,"Khi lá chủ lực bị vô hiệu, phá hủy hoặc loại bỏ."
+talk|45|0,,When activating a card in a chain.,Khi kích hoạt 1 lá bài trong Chain.,39,Khi kích hoạt lá bài nối vào Chuỗi.
+talk|46|0,,"When Life Points is 6000 or less, and has 3000 or more Life Points than the opponent.","Khi Life Points từ 6000 trở xuống, và cao hơn đối thủ từ 3000 điểm trở lên.",94,Khi LP còn tối đa 6000 và nhiều hơn đối thủ ít nhất 3000.
+talk|47|0,,"When Life Points is 6000 or less, and the opponent has 3000 or more Life Points than you do.","Khi Life Points từ 6000 trở xuống, và đối thủ cao hơn bạn từ 3000 điểm trở lên.",102,Khi LP còn tối đa 6000 và ít hơn đối thủ ít nhất 3000.
+talk|48|0,,When the opponent has not moved for a while.,Khi đối thủ không hành động trong một lúc.,49,Khi đối thủ không hành động một lúc.
+talk|49|0,,When starting a Tag Duel.,Khi bắt đầu 1 Tag Duel.,28,Khi bắt đầu trận đấu đôi.
+talk|50|0,,When tag partner activates a card in a chain.,Khi đối tác kích hoạt 1 lá bài trong Chain.,50,Khi đồng đội kích hoạt lá bài nối vào Chuỗi.
+talk|51|0,,When tag partner takes 1000 to 1999 points of damage during their turn.,Khi đối tác nhận từ 1000 đến 1999 điểm sát thương trong lượt của họ.,79,Khi đồng đội chịu 1000-1999 sát thương trong lượt của họ.
+talk|52|0,,When tag partner takes large damage of 2000 points or more during their turn.,Khi đối tác nhận sát thương lớn từ 2000 điểm trở lên trong lượt của họ.,85,Khi đồng đội chịu ít nhất 2000 sát thương trong lượt của họ.
+talk|53|0,,After winning a Tag Duel.,Sau khi thắng Tag Duel.,28,Sau khi thắng trận đấu đôi.
+talk|55|0,,After drawing in a Tag Duel.,Sau khi hòa trong Tag Duel.,31,Sau khi hòa trong trận đấu đôi.
+talk|56|0,,Let's do this!\nGet your game on!,Làm thôi nào!\nVào game thôi!,36,Chiến thôi!\nBắt đầu trận nào!
+talk|57|0,,My turn!\nDraw!,Lượt của tôi!\nRút bài!,25,Lượt của tớ!\nRút bài!
+talk|58|0,,Check out my friends!,Xem bạn bè của tôi này!,26,Xem hội bạn của tớ đây!
+talk|59|0,,My monster attacks!,Quái thú của tôi tấn công!,29,Quái thú của tớ tấn công!
+talk|60|0,,Take a direct attack from my monster!,Ăn trọn đòn tấn công trực tiếp từ quái thú của ta!,56,Hứng đòn trực tiếp từ quái thú của tớ đi!
+talk|61|0,,I got it!,Tôi hiểu rồi!,15,Tớ hiểu rồi!
+talk|62|0,,I activate my Spell Card!,Tôi kích hoạt Spell Card!,28,Tớ kích hoạt lá Phép!
+talk|63|0,,My Trap activates!,Trap của tôi kích hoạt!,26,Bẫy của tớ kích hoạt!
+talk|64|0,,That ends my turn!,Tôi kết thúc lượt!,20,Tớ kết thúc lượt!
+talk|65|0,,You didn't finish me off yet!,Ngươi vẫn chưa hạ được ta đâu!,34,Cậu vẫn chưa hạ được tớ đâu!
+talk|66|0,,Argh! I can't take much more of those!,Ui! Tôi không chịu nổi nhiều đòn như thế này nữa đâu!,59,Ái! Tớ không chịu nổi thêm mấy đòn thế nữa!
+talk|68|0,,"Yeah!\nGreat duel, huh?","Tuyệt!\nTrận đấu hay thật, nhỉ?",34,Tuyệt!\nTrận đấu hay quá nhỉ?
+talk|69|0,,Looks like you got me. You're pretty hot stuff!,Xem ra người thắng tôi rồi. Người giỏi đấy!,52,Xem ra cậu hạ được tớ rồi. Giỏi ghê!
+talk|70|0,,A draw? Where's the closure?,Hòa à? Thế thì chưa xong chuyện nhỉ?,40,Hòa sao? Thế chưa ngã ngũ rồi!
+talk|71|0,,Time for some action!,Đến lúc hành động thôi!,26,Đến lúc ra tay rồi!
+talk|72|0,,What!?,Cái gì!?,9,Gì cơ!?
+talk|73|0,,Wait a sec!,Khoan đã!,13,Khoan đã!
+talk|74|0,,Yeah!,Tuyệt!,7,Tuyệt!
+talk|76|0,,"OK, bring it on!","Được, xông lên nào!",21,"Được, xông lên nào!"
+talk|77|0,,Let's show them how sweet our tag team is!,Cho họ thấy đội Tag của tụi mình ngầu thế nào!,51,Cho họ thấy đội đấu đôi của mình đỉnh cỡ nào!
+talk|78|0,,"Nice work, partner!","Làm tốt lắm, đối tác!",24,"Giỏi lắm, đồng đội!"
+talk|79|0,,"Ouch, that looked like it hurt!","Ôi, nhìn đau vậy!",35,"Ôi, nhìn đau vậy!"
+talk|80|0,,You got hit big time! They've got it coming to them now!,Người ăn đòn nặng rồi! Giờ đến lượt họ lãnh đủ!,62,Cậu ăn đòn đau quá! Giờ cho họ biết tay!
+talk|81|0,,"Boy, that was a sweet duel! We rocked!","Chao ơi, trận đấu tuyệt quá! Tụi mình ngầu thật!",53,"Chao ơi, trận đấu tuyệt quá! Tụi mình ngầu thật!"
+talk|82|0,,"Darn, we lost! The bitter taste of defeat!","Chết thật, tụi mình thua rồi! Vị đắng của thất bại!",57,"Tiếc quá, tụi mình thua rồi! Đắng thật!"
+talk|83|0,,A draw? Sweet! Does this mean we can duel again!?,Hòa à? Tuyệt! Vậy là tụi mình được Duel lại nữa phải không!?,67,Hòa à? Hay! Vậy được đấu lại nữa hả!?
+talk|84|0,,Let's see who's tougher!,Xem ai mạnh hơn nào!,27,Xem ai mạnh hơn nào!
+talk|85|0,,My turn!\nDraw!,Lượt của ta!\nRút bài!,24,Lượt của ta!\nRút bài!
+talk|86|0,,Lend me your strength!,Hãy cho ta mượn sức mạnh của ngươi!,39,Hãy cho ta mượn sức mạnh của ngươi!
+talk|87|0,,I attack with my monster!,Ta tấn công bằng quái thú của mình!,39,Ta tấn công bằng quái thú của mình!
+talk|88|0,,My monster attacks you directly!,Quái thú của ta tấn công trực tiếp ngươi!,46,Quái thú của ta tấn công trực tiếp ngươi!
+talk|89|0,,This is the final dance!,Đây là điệu nhảy cuối cùng!,30,Đây là điệu nhảy cuối cùng!
+talk|90|0,,I'll activate my Spell!,Ta sẽ kích hoạt Spell của mình!,35,Ta kích hoạt lá Phép!
+talk|91|0,,Activate Trap!,Kích hoạt Trap!,17,Kích hoạt Bẫy!
+talk|92|0,,I'll end my turn!,Ta kết thúc lượt!,19,Ta kết thúc lượt!
+talk|93|0,,I-I can still go!,T-ta vẫn còn tiếp tục được!,30,T-ta vẫn còn tiếp tục được!
+talk|94|0,,Ergh... How dare you!,Hự... Ngươi dám thế sao!,27,Hự... Ngươi dám thế sao!
+talk|96|0,,I win!,Ta thắng!,10,Ta thắng!
+talk|97|0,,You beat me this time. I'll definitely win the next one.,Lần này ngươi thắng ta. Lần sau ta chắc chắn sẽ thắng.,62,Lần này ngươi thắng. Lần sau nhất định ta sẽ thắng!
+talk|98|0,,"So, you are pretty good, huh?",Vậy là ngươi cũng khá giỏi đấy nhỉ?,39,"Ngươi cũng khá lắm đấy, nhỉ?"
+talk|99|0,,"Don't hate me, okay?",Đừng ghét ta nhé?,23,Đừng ghét ta nhé?
+talk|100|0,,What!?,Cái gì!?,9,Cái gì!?
+talk|101|0,,How's this!,Thế này thì sao!,18,Thế này thì sao!
+talk|102|0,,I'm not holding anything back.,Ta sẽ không giữ lại gì cả.,34,Ta sẽ không giữ lại gì cả.
+talk|104|0,,Are you going to keep me waiting long?,Ngươi định bắt ta chờ lâu thế sao?,42,Ngươi định bắt ta chờ lâu thế sao?
+talk|105|0,,Let's join forces to defeat them.,Hãy hợp sức để đánh bại họ.,37,Hãy hợp sức để đánh bại họ.
+talk|106|0,,Nice!,Tuyệt!,7,Tuyệt!
+talk|107|0,,Keep trying! Don't give up!,Cố gắng lên! Đừng bỏ cuộc!,30,Cố gắng lên! Đừng bỏ cuộc!
+talk|108|0,,(Boy this team is seriou.s..),"(Trời ơi, đội này nghiêm túc thật...)",41,"(Trời, đội này căng thẳng thật...)"
+talk|109|0,,So do you get how we feel about dueling now?,Vậy giờ ngươi hiểu cảm giác Duel của tụi ta chưa?,54,Giờ ngươi hiểu tụi ta yêu đấu bài đến mức nào chưa?
+talk|110|0,,It's not possible... We can't lose... ,Không thể nào... Tụi ta không thể thua...,46,Không thể nào... Tụi ta không thể thua...
+talk|111|0,,I can't believe this was a draw... ,Không thể tin được lại hòa...,39,Không thể tin được lại hòa...
+talk|112|0,,You were destined to lose... Let's do this!,Số mệnh của ngươi là thua cuộc... Bắt đầu thôi!,52,Số mệnh của ngươi là thua cuộc... Bắt đầu thôi!
+talk|113|0,,My turn!\nDraw!,Lượt của ta!\nRút bài!,24,Lượt của ta!\nRút bài!
+talk|114|0,,C'mon!,Nào!,7,Nào!
+talk|115|0,,My monster attacks!,Quái thú của ta tấn công!,28,Quái thú của ta tấn công!
+talk|116|0,,Heh... You can't fight destiny!,Hề... Ngươi không thể chống lại số mệnh đâu!,49,Ngươi không đấu lại định mệnh được đâu!
+talk|117|0,,You're going down!,Ngươi tiêu rồi!,20,Ngươi thua chắc rồi!
+talk|118|0,,I activate a Spell!,Ta kích hoạt 1 Spell!,24,Ta kích hoạt lá Phép!
+talk|119|0,,I activate a Trap!,Ta kích hoạt 1 Trap!,23,Ta kích hoạt lá Bẫy!
+talk|120|0,,I end my turn!,Ta kết thúc lượt!,19,Ta kết thúc lượt!
+talk|124|0,,You gotta a lot to learn about destiny...,Ngươi còn phải học nhiều về số mệnh lắm...,47,Ngươi còn non lắm về định mệnh...
+talk|125|0,,Hmph... Don't think you're better than me.,Hm... Đừng nghĩ ngươi giỏi hơn ta.,47,Hm... Đừng nghĩ ngươi giỏi hơn ta.
+talk|126|0,,A draw...\nYou're lucky this time.,Hòa à...\nLần này ngươi may mắn đấy.,39,Hòa à...\nLần này ngươi may mắn đấy.
+talk|127|0,,With every passing second I come closer to victory!,"Mỗi giây trôi qua, ta lại gần chiến thắng hơn!",57,"Mỗi giây trôi qua, ta lại gần chiến thắng hơn!"
+talk|128|0,,You are only delaying the inevitable!,Ngươi chỉ đang trì hoãn điều không thể tránh khỏi!,56,Ngươi chỉ đang kéo dài điều không tránh khỏi!
+talk|129|0,,I can read you like a book!,Ta đọc vị ngươi như đọc sách vậy!,37,Ta đọc vị ngươi như đọc sách vậy!
+talk|130|0,,"Haha, you can't change destiny.","Ha ha, ngươi không thể thay đổi số mệnh đâu.",49,"Ha ha, ngươi không thể thay đổi số mệnh đâu."
+talk|131|0,,Has fate lost its path!?,Chẳng lẽ số phận đã lạc lối!?,32,Chẳng lẽ số phận đã lạc lối!?
+talk|132|0,,Isn't it about time you end your turn?,Đã đến lúc ngươi kết thúc lượt chưa nhỉ?,45,Đã đến lúc ngươi kết thúc lượt chưa nhỉ?
+talk|133|0,,We were destined to be partners.,Tụi ta được định sẵn để trở thành đối tác.,47,Tụi ta được định sẵn để trở thành đối tác.
+talk|134|0,,This was all meant to happen...,Tất cả những điều này vốn đã được định sẵn...,50,Tất cả những điều này vốn đã được định sẵn...
+talk|135|0,,(That's nothing!),(Có gì đâu!),19,(Có gì đâu!)
+talk|136|0,,I trust in our destiny!,Ta tin vào số mệnh của tụi ta!,34,Ta tin vào số mệnh của tụi ta!
+talk|137|0,,We were destined to win this duel!,Tụi ta được định sẵn để thắng trận Duel này!,49,Tụi ta được định sẵn để thắng trận đấu này!
+talk|138|0,,Has destiny turned its back on us?,Chẳng lẽ số mệnh đã quay lưng với tụi ta?,46,Chẳng lẽ số mệnh đã quay lưng với tụi ta?
+talk|139|0,,There must be a wrench in the gears of destiny!,Chắc chắn có gì đó sai trong bánh răng số mệnh!,52,Hẳn bánh răng định mệnh có gì đó trục trặc!
+talk|140|0,,I'm gonna Chazz you up!,Ta sẽ cho ngươi nếm mùi Chazz!,34,Chazz sẽ cho ngươi biết tay!
+talk|141|0,,My turn!\nDraw!,Lượt của ta!\nRút bài!,24,Lượt của ta!\nRút bài!
+talk|142|0,,"Alright, I'll use this!","Được, ta sẽ dùng cái này!",28,"Được, ta sẽ dùng cái này!"
+talk|143|0,,My monster attacks!,Quái thú của ta tấn công!,28,Quái thú của ta tấn công!
+talk|144|0,,My monster's gonna take you out!,Quái thú của ta sẽ hạ gục ngươi!,36,Quái thú của ta sẽ hạ gục ngươi!
+talk|145|0,,"Vanish, loser!","Biến mất đi, kẻ thua cuộc!",29,"Biến đi, đồ thua cuộc!"
+talk|146|0,,I activate my Spell!,Ta kích hoạt Spell của mình!,31,Ta kích hoạt lá Phép!
+talk|147|0,,I activate my Trap!,Ta kích hoạt Trap của mình!,30,Ta kích hoạt lá Bẫy!
+talk|148|0,,I end my turn!,Ta kết thúc lượt!,19,Ta kết thúc lượt!
+talk|149|0,,Humph! Like that's going to hurt me!,Hm! Tưởng cái đó làm ta đau sao!,40,Hm! Tưởng cái đó làm ta đau sao!
+talk|150|0,,Argh! How dare you!,Ui! Ngươi dám thế sao!,25,Ui! Ngươi dám thế sao!
+talk|152|0,,"Let's see you crawl your way out of that one, loser!",Xem kẻ thua cuộc như ngươi bò ra khỏi tình cảnh này thế nào!,67,Xem kẻ thua cuộc như ngươi bò ra khỏi tình cảnh này thế nào!
+talk|153|0,,You fool! That was just a fluke!,Đồ ngốc! Đó chỉ là ăn may thôi!,36,Đồ ngốc! Chỉ là ngươi ăn may thôi!
+talk|154|0,,Hmph! I'll let you off easy this time!,Hm! Lần này ta tha cho ngươi đó!,42,Hm! Lần này ta tha cho ngươi đó!
+talk|155|0,,"If you're not scared yet, you will be!","Nếu ngươi chưa sợ, rồi ngươi sẽ phải sợ!",45,Chưa sợ à? Rồi ngươi sẽ sợ thôi!
+talk|156|0,,What!?,Cái gì!?,9,Cái gì!?
+talk|157|0,,Lame!,Nhàm chán!,12,Nhàm chán!
+talk|158|0,,Like taking candy from a baby!,Dễ như lấy kẹo từ tay em bé!,34,Dễ như lấy kẹo của trẻ con!
+talk|160|0,,"Lost the will to fight, huh?",Mất hết ý chí chiến đấu rồi hả?,35,Mất hết ý chí chiến đấu rồi hả?
+talk|161|0,,Dont worry! The Chazz will take care of you!,Đừng lo! Chazz sẽ lo cho ngươi!,50,Đừng lo! Có Chazz lo liệu!
+talk|162|0,,Nice one! That did it!,Tuyệt! Đòn đó là xong!,25,Tuyệt! Đòn đó là xong!
+talk|163|0,,Y-You fool! You OK?,D-Đồ ngốc! Ngươi ổn không?,29,Đ-Đồ ngốc! Không sao chứ?
+talk|164|0,,Gee you got thrashed there...!,Trời ơi ngươi bị đánh cho te tua kia...!,45,"Trời, ngươi bị đánh tơi tả rồi...!"
+talk|165|0,,Alright! We totally Chazzed them up!,Được rồi! Tụi ta cho họ nếm đủ vị Chazz!,45,Được! Tụi ta cho chúng nếm mùi Chazz rồi!
+talk|166|0,,We lost!? Were we in too much of a rush to win?,Tụi ta thua sao!? Có phải tụi ta quá vội vàng muốn thắng không?,70,Tụi ta thua sao!? Có phải tụi ta quá vội vàng muốn thắng không?
+talk|167|0,,"You didnt think it would end like that, did you? ","Ngươi không nghĩ nó sẽ kết thúc như vậy, đúng không?",58,"Ngươi không nghĩ nó sẽ kết thúc như vậy, đúng không?"
+talk|168|0,,I will accept nothing short of victory!,"Ta chỉ chấp nhận chiến thắng, không gì khác!",49,"Ta chỉ chấp nhận chiến thắng, không gì khác!"
+talk|169|0,,My turn!\nDraw!!,Lượt của ta!\nRút bài!!,25,Lượt của ta!\nRút bài!!
+talk|170|0,,You won't beat this!,Ngươi sẽ không thắng được đòn này!,38,Ngươi sẽ không thắng được đòn này!
+talk|171|0,,You are nothing but fuel for my victory!,Ngươi chỉ là nhiên liệu cho chiến thắng của ta!,52,Ngươi chỉ là nhiên liệu cho chiến thắng của ta!
+talk|172|0,,My monster attacks you directly!,Quái thú của ta tấn công trực tiếp ngươi!,46,Quái thú của ta tấn công trực tiếp ngươi!
+talk|173|0,,This turn will end it! Victory!,Lượt này sẽ kết thúc tất cả! Chiến thắng!,46,Lượt này là kết thúc! Ta thắng!
+talk|174|0,,I activate a Spell!,Ta kích hoạt 1 Spell!,24,Ta kích hoạt lá Phép!
+talk|175|0,,I activate a Trap!,Ta kích hoạt 1 Trap!,23,Ta kích hoạt lá Bẫy!
+talk|176|0,,My turn's over.,Lượt của ta kết thúc.,24,Lượt của ta kết thúc.
+talk|177|0,,Heh...,Hệ...,7,Hê...
+talk|180|0,,"Is that all you've got?\nBe gone, loser!","Chỉ có thế thôi sao?\nBiến đi, kẻ thua cuộc!",48,"Chỉ có thế thôi sao?\nBiến đi, kẻ thua cuộc!"
+talk|181|0,,No... No!\nI don't want to lose!!,Không... Không!\nTa không muốn thua!!,40,Không... Không!\nTa không muốn thua!!
+talk|182|0,,I'm dying of thirst... for my victory... ,Ta khát khao... chiến thắng đến chết đi được...,52,Ta khát... khát chiến thắng đến cháy họng!
+talk|183|0,,I'll show you.\nThis is my key to victory!,Để ta cho ngươi thấy.\nĐây chính là chìa khóa chiến thắng của ta!,71,Để ta cho ngươi thấy.\nĐây chính là chìa khóa chiến thắng của ta!
+talk|184|0,,What!?,Cái gì!?,9,Cái gì!?
+talk|185|0,,Not yet!,Chưa đâu!,10,Chưa đâu!
+talk|186|0,,Boring...\nWhy don't you try harder?,Chán quá...\nSao ngươi không cố gắng hơn đi?,48,Chán quá...\nSao ngươi không cố gắng hơn đi?
+talk|188|0,,What are ya confused about?,Ngươi đang bối rối chuyện gì vậy?,37,Ngươi đang phân vân gì thế?
+talk|189|0,,"Tag Duel or not, I will have victory!","Tag Duel hay không, ta vẫn sẽ giành chiến thắng!",53,"Đấu đôi hay không, ta vẫn giành chiến thắng!"
+talk|190|0,,"Hmm, well done!","Hmm, làm tốt lắm!",19,"Hmm, làm tốt lắm!"
+talk|191|0,,Stay strong!,Giữ vững tinh thần!,21,Giữ vững tinh thần!
+talk|192|0,,"Darn, enough of that!","Chết thật, đủ rồi đó!",24,"Thôi đi, đủ rồi!"
+talk|193|0,,A perfect victory! It's the only thing I respect!,Một chiến thắng hoàn hảo! Đó là điều duy nhất ta tôn trọng!,65,Một chiến thắng hoàn hảo! Đó là điều duy nhất ta tôn trọng!
+talk|194|0,,"Without victory, it's all for nothing... ","Không có chiến thắng, tất cả đều vô nghĩa...",49,Không thắng thì tất cả đều vô nghĩa...
+talk|195|0,,It's meaningless without victory.,Không có chiến thắng thì chẳng có ý nghĩa gì cả.,53,Không có chiến thắng thì chẳng có ý nghĩa gì cả.
+talk|196|0,,I won't quit no matter what!,Dù thế nào ta cũng không bỏ cuộc!,37,Dù thế nào ta cũng không bỏ cuộc!
+talk|197|0,,My turn!\nDraw!,Lượt của ta!\nRút bài!,24,Lượt của ta!\nRút bài!
+talk|198|0,,I'll use this!,Ta sẽ dùng cái này!,21,Ta sẽ dùng cái này!
+talk|199|0,,My monster attacks!,Quái thú của ta tấn công!,28,Quái thú của ta tấn công!
+talk|200|0,,I will tear away your darkness!,Ta sẽ xé toạc bóng tối của ngươi!,37,Ta sẽ xé toạc bóng tối của ngươi!
+talk|201|0,,I win!,Ta thắng!,10,Ta thắng!
+talk|202|0,,I activate a Spell!,Ta kích hoạt 1 Spell!,24,Ta kích hoạt lá Phép!
+talk|203|0,,I activate a Trap!,Ta kích hoạt 1 Trap!,23,Ta kích hoạt lá Bẫy!
+talk|204|0,,I end my turn.,Ta kết thúc lượt.,19,Ta kết thúc lượt.
+talk|208|0,,I win!,Ta thắng rồi!,15,Ta thắng rồi!
+talk|210|0,,You don't see a draw very often.,Hòa à? Ít khi thấy lắm đấy.,36,Hòa à? Ít khi thấy lắm đấy.
+talk|211|0,,I've been waiting for this very moment.,Ta đã chờ khoảnh khắc này từ lâu rồi.,43,Ta đã chờ giây phút này từ lâu.
+talk|212|0,,Eh!?,Hư!?,5,Hả!?
+talk|213|0,,What about this!,Còn cái này thì sao!,23,Còn cái này thì sao!
+talk|214|0,,Heh...,Hệ...,7,Hê...
+talk|216|0,,Picked your next move yet?,Ngươi nghĩ ra nước kế tiếp chưa?,36,Ngươi nghĩ ra nước kế tiếp chưa?
+talk|217|0,,Together no one can beat us! Come on!,Hợp sức lại thì không ai đánh bại nổi chúng ta! Nào!,58,Hợp sức lại thì không ai đánh bại nổi chúng ta! Nào!
+talk|218|0,,Good!,Tốt lắm!,9,Tốt lắm!
+talk|219|0,,You OK?,Ổn không?,10,Ổn không?
+talk|220|0,,Hang in there!,Cố lên!,16,Cố lên!
+talk|221|0,,That's the power of unity!,Đây chính là sức mạnh của đoàn kết!,39,Đây chính là sức mạnh của đoàn kết!
+talk|222|0,,We... lost!?,Chúng ta... thua sao!?,25,Chúng ta... thua sao!?
+talk|223|0,,Huh! What good is a draw!,Hử! Hòa thì có ích gì chứ!,29,Hử! Hòa thì có ích gì chứ!
+talk|224|0,,Trust in your cards!,Hãy tin vào lá bài của mình!,31,Hãy tin vào lá bài của mình!
+talk|225|0,,My turn!\nDraw!,Lượt của tôi!\nRút bài!,25,Lượt của tôi!\nRút bài!
+talk|226|0,,I choose this card!,Tôi chọn lá này!,21,Tôi chọn lá này!
+talk|227|0,,My monster attacks!,Quái thú của tôi tấn công!,29,Quái thú của tôi tấn công!
+talk|228|0,,My monster will attack you directly!,Quái thú của tôi sẽ tấn công trục tiếp!,43,Quái thú của tôi tấn công trực tiếp!
+talk|229|0,,I cannot lose!,Tôi không thể thua!,21,Tôi không thể thua!
+talk|230|0,,I activate a Spell!,Tôi kích hoạt 1 Spell!,25,Tôi kích hoạt lá Phép!
+talk|231|0,,I activate a Trap!,Tôi kích hoạt 1 Trap!,24,Tôi kích hoạt lá Bẫy!
+talk|232|0,,I end my turn.,Tôi kết thúc lượt.,20,Tôi kết thúc lượt.
+talk|233|0,,Ah...,À...,6,À...
+talk|236|0,,"Hooray, I won!","Hoan hô, tôi thắng rồi!",26,"Hoan hô, tôi thắng rồi!"
+talk|237|0,,"No, I lost!","Không, tôi thua rồi!",23,"Không, tôi thua rồi!"
+talk|238|0,,It's a draw. I was sooo close.,Hòa rồi. Chỉ thiếu chút xíu nữa thôi!,41,Hòa rồi. Chỉ thiếu chút xíu nữa thôi!
+talk|239|0,,Now!!,Ngay bây giờ!!,16,Ra tay ngay!!
+talk|240|0,,Huh!,Hả!,5,Hả!
+talk|241|0,,Not if I have something to say about it!,Có tôi ở đây thì đừng hòng!,45,Có tôi ở đây thì đừng hòng!
+talk|242|0,,Watch your step!,Coi chừng đấy!,18,Coi chừng đấy!
+talk|243|0,,I'll never give up!,Tôi sẽ không bao giờ bỏ cuộc!,32,Tôi sẽ không bao giờ bỏ cuộc!
+talk|244|0,,"Hey, you planning something?","Này, cậu định bày trò gì à?",31,"Này, cậu định bày trò gì à?"
+talk|245|0,,Let's give it our best!,Cùng hết sức nào!,26,Cùng hết sức nào!
+talk|246|0,,Go!!,Tiến lên!!,12,Tiến lên!!
+talk|247|0,,It's not over yet!,Chưa hết đâu!,20,Chưa hết đâu!
+talk|248|0,,Please! Hang in there!,Làm ơn! Cố lên!,25,Làm ơn! Cố lên!
+talk|249|0,,Alright! We won this thing!,Tuyệt với! Chúng ta thắng rồi!,34,Tuyệt! Chúng ta thắng rồi!
+talk|250|0,,We'll win next time!,Lần sau chúng ta sẽ thắng!,29,Lần sau chúng ta sẽ thắng!
+talk|251|0,,Huh? A draw!?,Hử? Hòa sao!?,15,Hử? Hòa sao!?
+talk|252|0,,Solitaire would be more of a challenge!,Chơi Solitaire còn thách thức hơn ngươi!,45,Chơi một mình còn khó hơn đấu với ngươi!
+talk|253|0,,My turn!\nDraw!,Lượt của ta!\nRút bài!,24,Lượt của ta!\nRút bài!
+talk|254|0,,Come!,Ra đây!,8,Ra đây!
+talk|255|0,,My monster will attack!\nGo!,Quái thú của ta sẽ tấn công!\nĐi!,36,Quái thú của ta tấn công!\nTiến lên!
+talk|256|0,,I'll drop you where you stand!!!,Ta sẽ hạ gục ngươi ngay tại chỗ!!!,38,Ta hạ ngươi ngay tại đây!!!
+talk|257|0,,"Ah ha ha, that's game over for you, loser!","Ha ha ha, trận này hết rồi, kẻ thua cuộc!",47,"Ha ha ha, trận này hết rồi, kẻ thua cuộc!"
+talk|258|0,,I activate a Spell!,Ta kích hoạt 1 Spell!,24,Ta kích hoạt lá Phép!
+talk|259|0,,I activate a Trap!,Ta kích hoạt 1 Trap!,23,Ta kích hoạt lá Bẫy!
+talk|260|0,,I end my turn.,Ta kết thúc lượt.,19,Ta kết thúc lượt.
+talk|261|0,,Urg...,Hư...,7,Hự...
+talk|264|0,,"Huh, nothing but an amateur.","Hmph, chỉ là tay mơ.",31,"Hmph, chỉ là tay mơ."
+talk|265|0,,This victory is entrusted to you. ,Chiến thắng này giao cho ngươi đấy.,39,Chiến thắng này trông cậy vào ngươi.
+talk|266|0,,"Humph, a draw. You lucked out.","Hmph, hòa. Ngươi may mắn đấy.",34,"Hmph, hòa. Ngươi may mắn đấy."
+talk|267|0,,Time to lose!\nAh ha ha.,Đến lúc thua rồi!\nHa ha.,27,Đến lúc thua rồi!\nHa ha.
+talk|268|0,,What!!,Cái gì!!,9,Cái gì!!
+talk|269|0,,Ah ha ha ha.,Ha ha ha ha.,14,Ha ha ha ha.
+talk|271|0,,You...,Ngươi...,9,Ngươi...
+talk|272|0,,Don't just sit there thinking. Do something!,Đừng ngồi đó suy nghĩ nữa. Hành động đi!,49,Đừng ngồi nghĩ mãi. Ra tay đi!
+talk|273|0,,Don't slow me down!,Đừng làm ta chậm trễ!,24,Đừng làm ta chậm trễ!
+talk|274|0,,Ah ha ha ha.,Ha ha ha ha.,14,Ha ha ha ha.
+talk|275|0,,Don't give up!,Đừng bỏ cuộc!,16,Đừng bỏ cuộc!
+talk|276|0,,Don't let them get away with this!!,Đừng để chúng thoát thế này!!,39,Đừng để chúng làm thế mà thoát được!!
+talk|277|0,,I-Is this the power of unity!?,D-Đây là sức mạnh của đoàn kết sao!?,40,D-Đây là sức mạnh của đoàn kết sao!?
+talk|278|0,,W-Where did we go wrong!?,C-Chúng ta sai ở đâu chứ!?,29,C-Chúng ta sai ở đâu chứ!?
