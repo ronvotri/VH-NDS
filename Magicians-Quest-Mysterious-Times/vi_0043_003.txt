@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0043#14.71#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Cá ngon cậu câu được▼thì nhớ đưa tớ nhé!▼Đồng ý chứ?$079;
+talkfigs/0eng/data/0043#14.72#page:1	$024'327'5;$023'327'170'10'1;$022'327'301;Ối...! $500;!▼Cậu làm gì ở đây?!
+talkfigs/0eng/data/0043#14.72#page:2	Tớ đang bận!▼Đi chỗ khác đi!$079;
+talkfigs/0eng/data/0043#14.73#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Ồ, $500; à.▼Cậu có tâm sự gì sao?
+talkfigs/0eng/data/0043#14.73#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Tớ đang tính xem▼hôm nay làm gì tiếp...$079;
+talkfigs/0eng/data/0043#14.74#page:1	Tớ chẳng đọc▼sách nghiêm túc đâu...
+talkfigs/0eng/data/0043#14.74#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;trừ khi nó hài▼một cách nghiêm túc!$079;
+talkfigs/0eng/data/0043#14.75#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Biển rộng thật!▼Nhìn biển thấy mình bé tẹo.▼Tớ lại thấy tiếc...
+talkfigs/0eng/data/0043#14.75#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Tiếc vì chưa bắt nạt▼nhiều nhóc hơn nữa!$079;
+talkfigs/0eng/data/0043#14.76#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Ở Lovers Point,▼cảnh đẹp, gió còn mát hơn.
+talkfigs/0eng/data/0043#14.76#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Ước gì lúc nào tớ▼cũng được bắt nạt▼người khác ở đây...$079;
+talkfigs/0eng/data/0043#14.77#page:1	$024'327'2;$023'327'28'8'4;$022'327'381;Tớ ghét học hành!
+talkfigs/0eng/data/0043#14.77#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Nắm đấm đưa tớ▼đến tận đây rồi,▼học thêm làm gì?$079;
+talkfigs/0eng/data/0043#14.78#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Ồ, $500; à.▼Có chuyện gì sao?
+talkfigs/0eng/data/0043#14.78#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Tớ đang nghĩ cách▼giết thời gian hôm nay...$079;
+talkfigs/0eng/data/0043#14.80#page:1	$024'327'2;$023'327'28'8'4;$022'327'381;Đừng lại gần!▼Giờ tớ muốn yên thân.$079;
+talkfigs/0eng/data/0043#14.90#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Sao... sao thế,▼$500;? Cậu có▼gì muốn nói à?$079;
+talkfigs/0eng/data/0043#15.0#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Trời ơi, nguy rồi!▼Mau chạy khỏi đây!
+talkfigs/0eng/data/0043#15.1#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Trời ơi, nguy rồi!▼Mau chạy khỏi đây!
+talkfigs/0eng/data/0043#15.2#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Trời ơi, nguy rồi!▼Mau chạy khỏi đây!
+talkfigs/0eng/data/0043#15.3#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Trời ơi, nguy rồi!▼Mau chạy khỏi đây!
+talkfigs/0eng/data/0043#15.4#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Trời ơi, nguy rồi!▼Mau chạy khỏi đây!
+talkfigs/0eng/data/0043#15.5#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Trời ơi, nguy rồi!▼Mau chạy khỏi đây!
+talkfigs/0eng/data/0043#15.6#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Trời ơi, nguy rồi!▼Mau chạy khỏi đây!
+talkfigs/0eng/data/0043#15.7#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Trời ơi, nguy rồi!▼Mau chạy khỏi đây!
+talkfigs/0eng/data/0043#15.8#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Trời ơi, nguy rồi!▼Mau chạy khỏi đây!
+talkfigs/0eng/data/0043#15.9#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Trời ơi, nguy rồi!▼Mau chạy khỏi đây!
+talkfigs/0eng/data/0043#15.30#page:1	Ai cũng bảo $515;▼khéo ăn nói, mà còn...
+talkfigs/0eng/data/0043#15.30#page:2	$515; bắt chuyện▼với bất kỳ ai,▼chẳng ngại ngần gì.
+talkfigs/0eng/data/0043#15.30#page:3	$515; còn dám▼bắt chuyện với TỚ▼mà chẳng sợ. Nể thật!
+talkfigs/0eng/data/0043#15.31#page:1	Nghe đồn $515;▼thuộc dạng thông minh...
+talkfigs/0eng/data/0043#15.31#page:2	đến giáo viên▼còn trầm trồ vì▼đáp án của $515;.
+talkfigs/0eng/data/0043#15.31#page:3	Nói nhỏ nhé,▼không chỉ giáo viên▼ngạc nhiên đâu...
+talkfigs/0eng/data/0043#15.32#page:1	Ai cũng ngưỡng mộ▼$515; vì kết bạn▼với bao nhiêu người.
+talkfigs/0eng/data/0043#15.32#page:2	Cậu thấy thế▼chẳng có gì ghê gớm à?
+talkfigs/0eng/data/0043#15.32#page:3	$024'327'2;$023'327'28'8'4;$022'327'381;Tớ ít bạn đấy.▼Cậu có ý kiến gì hả?!
+talkfigs/0eng/data/0043#15.33#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Nghe đồn $515;▼cũng quậy phá dữ lắm.
+talkfigs/0eng/data/0043#15.33#page:2	Thậm chí tớ nghĩ▼mình còn bị vượt mặt!
+talkfigs/0eng/data/0043#15.33#page:3	Khoan... Sao lúc nào▼TỚ cũng bị phạt vậy hả?!
+talkfigs/0eng/data/0043#15.34#page:1	$515; là bạn của tớ.
+talkfigs/0eng/data/0043#15.34#page:2	Bọn tớ từng▼đi chơi, đùa nghịch...
+talkfigs/0eng/data/0043#15.34#page:3	Nếu không chuyển đi,▼chắc đã thân hơn.▼Và nếu tớ bớt hung hăng...
+talkfigs/0eng/data/0043#15.35#page:1	$515; là bạn tốt.▼Bọn tớ rất thân▼khi còn ở bên nhau.
+talkfigs/0eng/data/0043#15.35#page:2	Cần gì là▼hai đứa giúp nhau.▼Có qua có lại mà...
+talkfigs/0eng/data/0043#15.35#page:3	Ừ thì cậu ấy cho,▼còn tớ chỉ nhận thôi...
+talkfigs/0eng/data/0043#15.36#page:1	$024'327'7;$023'327'177'10'1;Nghe tin tớ và $515;▼đang hẹn hò chưa?
+talkfigs/0eng/data/0043#15.36#page:2	$024'327'2;$023'327'28'8'4;$022'327'381;Tớ là người bảo vệ▼tình yêu này đấy.▼Cấm ai động vào $515;!
+talkfigs/0eng/data/0043#15.36#page:3	Trừ tớ ra...
+talkfigs/0eng/data/0043#15.38#page:1	Tớ và $515; đã▼ngồi tán gẫu bao lần.
+talkfigs/0eng/data/0043#15.38#page:2	Tin nổi không?▼Bọn tớ chỉ ngồi nói chuyện!
+talkfigs/0eng/data/0043#15.38#page:3	Trước giờ tớ tưởng▼chỉ nắm đấm của mình▼mới biết trò chuyện!
+talkfigs/0eng/data/0043#15.39#page:1	Có lần tớ đi câu cá▼cùng $515;, vui lắm!
+talkfigs/0eng/data/0043#15.39#page:2	Bọn tớ hợp sức▼bắt mấy con cá thật to!
+talkfigs/0eng/data/0043#15.39#page:3	Ừ, $515; thì▼hợp tác, còn tớ▼lo phần sức mạnh!
+talkfigs/0eng/data/0043#15.40#page:1	Tớ và $515; là▼cao thủ bắt côn trùng!
+talkfigs/0eng/data/0043#15.40#page:2	Một lần bắt được▼con bọ trông dữ lắm,▼nhưng mừng quá để sổng.
+talkfigs/0eng/data/0043#15.40#page:3	Đến giờ tớ vẫn▼bực chuyện con bọ đó...
+talkfigs/0eng/data/0043#15.41#page:1	Tớ và $515; đã▼cưỡi chổi bay khắp nơi.
+talkfigs/0eng/data/0043#15.41#page:2	$515; nhanh nhẹn▼đến nỗi khó theo kịp.
+talkfigs/0eng/data/0043#15.41#page:3	$024'327'5;$023'327'99'10'2;$022'327'303;Nhưng không sao.▼Tớ quen đuổi bắt▼người khác rồi!
+talkfigs/0eng/data/0043#15.42#page:1	Có lần $515; muốn▼mua sắm, tớ liền đi cùng.
+talkfigs/0eng/data/0043#15.42#page:2	Nhìn $515; lúc▼mua đồ mà xem!▼Hào hứng lắm luôn!
+talkfigs/0eng/data/0043#15.42#page:3	$024'327'7;$023'327'177'10'1;Còn tớ thích đập đồ▼hơn là mua đồ.
+talkfigs/0eng/data/0043#15.43#page:1	$515; giúp tớ▼học hành nhiều lắm.
+talkfigs/0eng/data/0043#15.43#page:2	Không có $515;,▼tớ còn học lại▼năm nhất dài dài.
+talkfigs/0eng/data/0043#15.43#page:3	$024'327'7;$023'327'177'10'1;Có lẽ đôi khi▼tớ cũng nên dùng đầu óc...
+talkfigs/0eng/data/0043#15.44#page:1	Tớ với $515; đã▼uống trà, trò chuyện nhiều.
+talkfigs/0eng/data/0043#15.44#page:2	Tớ chẳng mê ngồi▼nhâm nhi trà,▼nhưng $515; lại thích.
+talkfigs/0eng/data/0043#15.44#page:3	Cậu biết không?▼Uống cùng ai thì▼vị trà cũng khác đấy.
+talkfigs/0eng/data/0043#15.45#page:1	Ở thị trấn tớ▼có nhiều bạn lắm.
+talkfigs/0eng/data/0043#15.45#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;Bọn tớ hay đi chơi▼và học cùng nhau.▼Vui lắm!
+talkfigs/0eng/data/0043#15.45#page:3	Hôm nào cậu đến▼chơi với bọn tớ nhé!
+talkfigs/0eng/data/0043#15.46#page:1	$024'327'2;$023'327'28'8'4;$022'327'381;Phiền chết đi được!
+talkfigs/0eng/data/0043#15.46#page:2	Tớ định dọn dẹp▼trước màn đếm ngược lớn...
+talkfigs/0eng/data/0043#15.46#page:3	mà giờ vẫn chưa▼làm được gì cả!
+talkfigs/0eng/data/0043#15.46#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;$500;, có gì▼mà cậu cười tươi thế?
+talkfigs/0eng/data/0043#15.46#page:6	$024'327'6;$023'327'8'10'1;$022'327'382;Cậu biết sắp tới gì rồi!▼Mau dọn dẹp đi!
+talkfigs/0eng/data/0043#15.47#page:1	$024'327'2;$023'327'28'8'4;$022'327'381;Phiền chết đi được!
+talkfigs/0eng/data/0043#15.47#page:2	Tớ định dọn dẹp▼trước màn đếm ngược lớn...
+talkfigs/0eng/data/0043#15.47#page:3	mà giờ vẫn chưa▼làm được gì cả!
+talkfigs/0eng/data/0043#15.47#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;$500;, có gì▼mà cậu cười tươi thế?
+talkfigs/0eng/data/0043#15.47#page:6	$024'327'6;$023'327'8'10'1;$022'327'382;Cậu biết sắp tới gì rồi!▼Mau dọn dẹp đi!
+talkfigs/0eng/data/0043#15.48#page:1	$024'327'2;$023'327'28'8'4;$022'327'381;Phiền chết đi được!
+talkfigs/0eng/data/0043#15.48#page:2	Tớ định dọn dẹp▼trước màn đếm ngược lớn...
+talkfigs/0eng/data/0043#15.48#page:3	mà giờ vẫn chưa▼làm được gì cả!
+talkfigs/0eng/data/0043#15.48#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;$500;, có gì▼mà cậu cười tươi thế?
+talkfigs/0eng/data/0043#15.48#page:6	$024'327'6;$023'327'8'10'1;$022'327'382;Cậu biết sắp tới gì rồi!▼Mau dọn dẹp đi!
+talkfigs/0eng/data/0043#15.49#page:1	$024'327'2;$023'327'28'8'4;$022'327'381;Phiền chết đi được!
+talkfigs/0eng/data/0043#15.49#page:2	Tớ định dọn dẹp▼trước màn đếm ngược lớn...
+talkfigs/0eng/data/0043#15.49#page:3	mà giờ vẫn chưa▼làm được gì cả!
+talkfigs/0eng/data/0043#15.49#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;$500;, có gì▼mà cậu cười tươi thế?
+talkfigs/0eng/data/0043#15.49#page:6	$024'327'6;$023'327'8'10'1;$022'327'382;Cậu biết sắp tới gì rồi!▼Mau dọn dẹp đi!
+talkfigs/0eng/data/0043#15.50#page:1	Suốt mùa xuân▼tiệc trà diễn ra liên tục...
+talkfigs/0eng/data/0043#15.50#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;và vui ơi là vui!
+talkfigs/0eng/data/0043#15.50#page:3	Tiếp khách kiểu đó▼đúng là hết sảy!
+talkfigs/0eng/data/0043#15.50#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;$500;, học hỏi đi!▼Làm tớ vui là▼trách nhiệm của cậu!
+talkfigs/0eng/data/0043#15.52#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Đi lễ hội ma quái▼vui không?
+talkfigs/0eng/data/0043#15.52#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Toàn chuyện nhảm nhí!
+talkfigs/0eng/data/0043#15.52#page:3	Sợ ma thì sao▼thành pháp sư giỏi được!
+talkfigs/0eng/data/0043#15.52#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Cứ cho ma biết▼ai là đại ca,▼rồi xử đẹp chúng!
+talkfigs/0eng/data/0043#15.52#page:5	$024'327'7;$023'327'177'10'1;Ý tớ là dùng▼$000'4;phép Xì Hơi$000'1;▼đuổi chúng đi ấy mà.
+talkfigs/0eng/data/0043#15.54#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu chuẩn bị cho▼cuộc thi lẩu nấm chưa?
+talkfigs/0eng/data/0043#15.54#page:2	Trước giờ tớ đâu biết▼nấm đủ hình dạng,▼kích thước lẫn màu sắc.
+talkfigs/0eng/data/0043#15.54#page:3	Thú vị thật đấy!
+talkfigs/0eng/data/0043#15.54#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;À này, $500;,▼chắc khỏi cần nhắc, nhưng...
+talkfigs/0eng/data/0043#15.54#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;nhớ hái đủ nấm▼cho cả phần tớ nữa nhé!
+talkfigs/0eng/data/0043#15.56#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu vui ở▼lễ hội tuyết cầu vồng chứ?
+talkfigs/0eng/data/0043#15.56#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Tớ chẳng khoái▼mấy trò ấy lắm... Kệ vậy.
+talkfigs/0eng/data/0043#15.56#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;À này, $500;,▼chắc khỏi cần nhắc, nhưng...
+talkfigs/0eng/data/0043#15.56#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;nhớ lấy đủ▼bông tuyết cho tớ nữa đấy!
+talkfigs/0eng/data/0043#15.70#page:1	$024'327'7;$023'327'177'10'1;Xin lỗi vì▼bức điện kỳ quặc kia.
+talkfigs/0eng/data/0043#15.70#page:2	$024'327'5;$023'327'175'8'2;$022'327'345;À... không phải▼tớ biết gì về nó đâu...
+talkfigs/0eng/data/0043#15.70#page:3	$024'327'2;$023'327'28'8'4;$022'327'381;Thật đấy! Cậu có▼ý kiến gì không...?▼Biết ngay là không mà!
+talkfigs/0eng/data/0043#15.70#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;Quên sạch chuyện▼này đi nhé. Rõ chưa?$079;$073'702'1;
+talkfigs/0eng/data/0043#15.71#page:1	$024'327'7;$023'327'177'10'1;Xin lỗi vì▼bức điện kỳ quặc kia.
+talkfigs/0eng/data/0043#15.71#page:2	$024'327'5;$023'327'175'8'2;$022'327'345;À... không phải▼tớ biết gì về nó đâu...
+talkfigs/0eng/data/0043#15.71#page:3	$024'327'2;$023'327'28'8'4;$022'327'381;Thật đấy! Cậu có▼ý kiến gì không...?▼Biết ngay là không mà!
+talkfigs/0eng/data/0043#15.71#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;Quên sạch chuyện▼này đi nhé. Rõ chưa?$079;$073'702'1;
+talkfigs/0eng/data/0043#15.72#page:1	$024'327'7;$023'327'177'10'1;Xin lỗi vì▼bức điện kỳ quặc kia.
+talkfigs/0eng/data/0043#15.72#page:2	$024'327'5;$023'327'175'8'2;$022'327'345;À... không phải▼tớ biết gì về nó đâu...

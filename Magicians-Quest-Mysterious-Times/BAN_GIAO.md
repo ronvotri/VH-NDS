@@ -1,3 +1,10 @@
+## Checkpoint 086 — 10/11/2026
+
+- +240 trang thoại (`0043.002` và `0043.003`); tổng 22.569/55.976 (40,32%), NPC 19.444/52.608.
+- QA 501 JSONL PASS; giữ 22.329 bản dịch trước; 499 JSONL ngoài đợt không đổi byte.
+- ZIP đầy đủ, bản EN–VI, báo cáo QA, script tái tạo. Chưa thử trong ROM.
+- Đợt 087: `0043.004` và `0043.005` (240 trang).
+
 ## Checkpoint 085 — 10/11/2026
 
 - +231 NPC (0042.023: 111; 0043.001: 120); total 22,329 / 55,976 (39.89%), NPC 19,204 / 52,608.
