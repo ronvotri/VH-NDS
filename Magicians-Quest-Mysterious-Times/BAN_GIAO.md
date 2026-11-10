@@ -1,3 +1,12 @@
+## Checkpoint 104 — 10/11/2026
+
+- +240 trang NPC `0044.015` và `0044.016`, tổng 26,855/55.976 (47.98%).
+- 96 mẫu thoại EN: 85 tái sử dụng, 11 biên dịch mới.
+- Chủ đề tình bạn, tin đồn trường học, tình cảm và nghiên cứu ma thuật.
+- 501 JSONL QA PASS; giữ nguyên 26.615 bản dịch cũ và 499 JSONL ngoài đợt.
+- ZIP chứa EN–VI, delta, báo cáo QA, script dựng; chưa kiểm thử ROM NDS.
+- Đợt 105: `0044.017` và `0044.018` (240 trang).
+
 ## Checkpoint 103 — 10/11/2026
 
 - +240 trang NPC `0044.013` và `0044.014`, tổng 26,615/55.976 (47.55%).

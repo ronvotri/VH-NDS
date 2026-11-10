@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0044#43.23#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0044#43.23#page:3	$024'327'7;$023'327'177'10'1;Không biết hai cậu ấy▼đang tập phép gì nhỉ?
+talkfigs/0eng/data/0044#43.23#page:4	Tớ cũng muốn có người▼cùng làm thí nghiệm.
+talkfigs/0eng/data/0044#43.24#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Vừa hay, $500;!▼Bọn tớ đang có chuyện▼muốn kể cậu nghe.
+talkfigs/0eng/data/0044#43.24#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0044#43.24#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Tớ toàn đọc sách một mình...
+talkfigs/0eng/data/0044#43.24#page:4	nhưng thỉnh thoảng có ai đó▼cùng thư giãn cũng hay...
+talkfigs/0eng/data/0044#43.25#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Vừa hay, $500;!▼Bọn tớ đang có chuyện▼muốn kể cậu nghe.
+talkfigs/0eng/data/0044#43.25#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0044#43.25#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Tớ toàn tự làm thí nghiệm...
+talkfigs/0eng/data/0044#43.25#page:4	nhưng thỉnh thoảng có ai đó▼cùng thư giãn cũng hay...
+talkfigs/0eng/data/0044#43.27#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Vừa hay, $500;!▼Bọn tớ đang có chuyện▼muốn kể cậu nghe.
+talkfigs/0eng/data/0044#43.27#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0044#43.27#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Họ nói chuyện nhiều đến mức▼tớ không hiểu sao vẫn còn▼chuyện để nói.
+talkfigs/0eng/data/0044#43.28#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Vừa hay, $500;!▼Bọn tớ đang có chuyện▼muốn kể cậu nghe.
+talkfigs/0eng/data/0044#43.28#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0044#43.28#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Họ nói chuyện nhiều đến mức▼tớ không hiểu sao vẫn còn▼chuyện để nói.
+talkfigs/0eng/data/0044#43.29#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Vừa hay, $500;!▼Bọn tớ đang có chuyện▼muốn kể cậu nghe.
+talkfigs/0eng/data/0044#43.29#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0044#43.29#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nếu thi đấu, tớ sẽ chọn▼thi làm bài kiểm tra!
+talkfigs/0eng/data/0044#43.34#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Vừa hay, $500;!▼Bọn tớ đang có chuyện▼muốn kể cậu nghe.
+talkfigs/0eng/data/0044#43.34#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0044#43.34#page:3	$024'327'7;$023'327'177'10'1;Tớ tò mò không biết▼rốt cuộc có chuyện gì.
+talkfigs/0eng/data/0044#43.35#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Vừa hay, $500;!▼Bọn tớ đang có chuyện▼muốn kể cậu nghe.
+talkfigs/0eng/data/0044#43.35#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0044#43.35#page:3	$024'327'7;$023'327'177'10'1;Không biết $530'0;▼định câu loại cá gì...
+talkfigs/0eng/data/0044#43.36#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Vừa hay, $500;!▼Bọn tớ đang có chuyện▼muốn kể cậu nghe.
+talkfigs/0eng/data/0044#43.36#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0044#43.36#page:3	$024'327'7;$023'327'177'10'1;Không biết $530'0;▼định bắt loài côn trùng nào...
+talkfigs/0eng/data/0044#43.37#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Vừa hay, $500;!▼Bọn tớ đang có chuyện▼muốn kể cậu nghe.
+talkfigs/0eng/data/0044#43.37#page:2	$530'0; đang mải mê▼$532;▼$531;.
+talkfigs/0eng/data/0044#43.37#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Không biết $530'0;▼đang niệm chú gì...
+talkfigs/0eng/data/0044#43.38#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Vừa hay, $500;!▼Bọn tớ đang có chuyện▼muốn kể cậu nghe.
+talkfigs/0eng/data/0044#43.38#page:2	$530'0; đang mải mê▼$532;▼$531;.
+talkfigs/0eng/data/0044#43.38#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Không biết $530'0;▼đang dùng phép gì...
+talkfigs/0eng/data/0044#43.39#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Vừa hay, $500;!▼Bọn tớ đang có chuyện▼muốn kể cậu nghe.
+talkfigs/0eng/data/0044#43.39#page:2	$530'0; đang▼$532; một mình▼$531;.
+talkfigs/0eng/data/0044#43.39#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;Nhìn thì cứ như▼đang mơ màng...
+talkfigs/0eng/data/0044#43.39#page:4	nhưng tớ nghĩ $530'0;▼đang suy ngẫm rất sâu xa.
+talkfigs/0eng/data/0044#43.40#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Vừa hay, $500;!▼Bọn tớ đang có chuyện▼muốn kể cậu nghe.
+talkfigs/0eng/data/0044#43.40#page:2	$530'0; đang mải mê▼$532;▼$531;.
+talkfigs/0eng/data/0044#43.40#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Rốt cuộc ở đó▼đang có chuyện gì vậy?
+talkfigs/0eng/data/0044#43.41#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Vừa hay, $500;!▼Bọn tớ đang có chuyện▼muốn kể cậu nghe.
+talkfigs/0eng/data/0044#43.41#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0044#43.41#page:3	Âm nhạc phải xuất phát▼từ trái tim. Thế mới đúng!
+talkfigs/0eng/data/0044#43.42#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Vừa hay, $500;!▼Bọn tớ đang có chuyện▼muốn kể cậu nghe.
+talkfigs/0eng/data/0044#43.42#page:2	$530'0; đang thong thả▼$532;▼$531;.
+talkfigs/0eng/data/0044#43.42#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Chắc $530'0;▼còn ghi chuyện này vào nhật ký.
+talkfigs/0eng/data/0044#43.43#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Vừa hay, $500;!▼Bọn tớ đang có chuyện▼muốn kể cậu nghe.
+talkfigs/0eng/data/0044#43.43#page:2	$530'0; đang mải mê▼$532;▼$531;.
+talkfigs/0eng/data/0044#43.43#page:3	$024'327'7;$023'327'177'10'1;Tớ thấy hay đấy.▼Lần sau bắt gặp,▼tớ sẽ giúp một tay.
+talkfigs/0eng/data/0044#43.44#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Vừa hay, $500;!▼Bọn tớ đang có chuyện▼muốn kể cậu nghe.
+talkfigs/0eng/data/0044#43.44#page:2	$530'0; đang mải mê▼$532;▼$531;.
+talkfigs/0eng/data/0044#43.44#page:3	$024'327'7;$023'327'177'10'1;Không biết có chuyện gì nhỉ...
+talkfigs/0eng/data/0044#43.45#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Vừa hay, $500;!▼Bọn tớ đang có chuyện▼muốn kể cậu nghe.
+talkfigs/0eng/data/0044#43.45#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0044#43.45#page:3	$024'327'7;$023'327'177'10'1;Lẽ ra tớ phải nhắc $530'0;▼đừng bày trò chọc phá.
+talkfigs/0eng/data/0044#43.45#page:4	Thôi kệ. Cũng chẳng sao.▼Đằng nào đâu ai nghe tớ.
+talkfigs/0eng/data/0044#43.46#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Vừa hay, $500;!▼Bọn tớ đang có chuyện▼muốn kể cậu nghe.
+talkfigs/0eng/data/0044#43.46#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0044#43.46#page:3	$024'327'7;$023'327'177'10'1;Lẽ ra tớ phải nhắc $530'0;▼đừng bày trò chọc phá.
+talkfigs/0eng/data/0044#43.46#page:4	Thôi kệ. Cũng chẳng sao.▼Đằng nào đâu ai nghe tớ.
+talkfigs/0eng/data/0044#43.50#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang bàn▼một tin đồn vừa nghe được.
+talkfigs/0eng/data/0044#43.50#page:2	$530'0; và $530'1;▼$533;!
+talkfigs/0eng/data/0044#43.50#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Biết đâu họ đã▼hẹn hò từ trước...
+talkfigs/0eng/data/0044#43.50#page:4	Vừa yêu vừa lo học▼đâu có dễ gì.
+talkfigs/0eng/data/0044#43.51#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang bàn▼một tin đồn vừa nghe được.
+talkfigs/0eng/data/0044#43.51#page:2	$530'0; và $530'1;▼$533;!
+talkfigs/0eng/data/0044#43.51#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Biết đâu họ đã▼hẹn hò từ trước...
+talkfigs/0eng/data/0044#43.51#page:4	Vừa yêu vừa lo học▼đâu có dễ gì.
+talkfigs/0eng/data/0044#43.52#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang bàn▼một tin đồn vừa nghe được.
+talkfigs/0eng/data/0044#43.52#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Biết đâu họ đã▼hẹn hò từ trước...
+talkfigs/0eng/data/0044#43.52#page:4	Vừa yêu vừa lo học▼đâu có dễ gì.
+talkfigs/0eng/data/0044#43.53#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang bàn▼một tin đồn vừa nghe được.
+talkfigs/0eng/data/0044#43.53#page:2	$530'0; và $530'1;▼đã $533;!
+talkfigs/0eng/data/0044#43.53#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;Ừm... Biết đâu họ vừa▼khám phá điều gì đó lớn lao.
+talkfigs/0eng/data/0044#43.54#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang bàn▼một tin đồn vừa nghe được.
+talkfigs/0eng/data/0044#43.54#page:2	$530'0; và $530'1;▼đã $533;!
+talkfigs/0eng/data/0044#43.54#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;Ừm... Biết đâu họ vừa▼khám phá điều gì đó lớn lao.
+talkfigs/0eng/data/0044#43.65#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang bàn▼một tin đồn vừa nghe được.
+talkfigs/0eng/data/0044#43.65#page:2	$530'0; và $530'1;▼đã $533;!
+talkfigs/0eng/data/0044#43.65#page:3	$024'327'7;$023'327'177'10'1;Hay nghiên cứu của họ▼không suôn sẻ nhỉ...
+talkfigs/0eng/data/0044#43.66#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang bàn▼một tin đồn vừa nghe được.
+talkfigs/0eng/data/0044#43.66#page:2	$530'0; và $530'1;▼bên nhau hạnh phúc lắm,▼$533;!
+talkfigs/0eng/data/0044#43.66#page:3	$024'327'7;$023'327'177'10'1;Chẳng ai biết rõ cả.
+talkfigs/0eng/data/0044#43.67#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang bàn▼một tin đồn vừa nghe được.
+talkfigs/0eng/data/0044#43.67#page:2	$530'0; và $530'1;▼$533; tới mức▼nghe như chuyện bịa.
+talkfigs/0eng/data/0044#43.67#page:3	$024'327'7;$023'327'177'10'1;Ừm... Đây đúng là▼dịp hay để tìm hiểu▼cách mọi người ứng xử!
+talkfigs/0eng/data/0044#43.68#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang bàn▼một tin đồn vừa nghe được.
+talkfigs/0eng/data/0044#43.68#page:2	$530'0; và $530'1;▼lúc nào cũng dính lấy nhau.▼Tớ nghĩ $533;!
+talkfigs/0eng/data/0044#43.68#page:3	$024'327'7;$023'327'177'10'1;Không biết nghiên cứu chung▼có thuận lợi không nhỉ...
+talkfigs/0eng/data/0044#43.80#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang bàn▼một tin đồn vừa nghe được.
+talkfigs/0eng/data/0044#43.80#page:2	Nghe nói $530'0;▼đã $531; và trông▼rất $533;.
+talkfigs/0eng/data/0044#43.80#page:3	$024'327'7;$023'327'177'10'1;Tâm trạng của đa số người▼đều hiện rõ trên mặt.
+talkfigs/0eng/data/0044#43.81#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang bàn▼một tin đồn vừa nghe được.
+talkfigs/0eng/data/0044#43.81#page:2	Nghe nói $530'0;▼đã $531; và dùng▼$533; kỳ lạ.
+talkfigs/0eng/data/0044#43.81#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;Ừm... Không biết▼$530'0; đang làm gì nhỉ...
+talkfigs/0eng/data/0044#43.82#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang bàn▼một tin đồn vừa nghe được.
+talkfigs/0eng/data/0044#43.82#page:2	$530'0; bị bắt gặp▼$531; khi đang▼$533; rất kỳ lạ.
+talkfigs/0eng/data/0044#43.82#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;Ừm... Không biết▼$530'0; đang làm gì nhỉ...
+talkfigs/0eng/data/0044#43.83#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang bàn▼một tin đồn vừa nghe được.
+talkfigs/0eng/data/0044#43.83#page:2	Nghe nói $530'0;▼đã $531; rồi▼$533; rất cẩn thận.
+talkfigs/0eng/data/0044#43.83#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;Ừm... Không biết▼$530'0; đang làm gì nhỉ...
+talkfigs/0eng/data/0044#43.90#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang bàn▼một tin đồn vừa nghe được.
+talkfigs/0eng/data/0044#43.90#page:2	$530'0; siêu ngầu,▼theo lời $533;.
+talkfigs/0eng/data/0044#43.90#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu nghĩ họ đang nói▼về ngoại hình à?
+talkfigs/0eng/data/0044#43.91#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang bàn▼một tin đồn vừa nghe được.
+talkfigs/0eng/data/0044#43.91#page:2	$530'0;▼$533;▼vì biết quan tâm.
+talkfigs/0eng/data/0044#43.91#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Lời đồn dễ thương ghê.▼Ước gì cũng có ai đó▼khen tớ như vậy.
+talkfigs/0eng/data/0044#43.92#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang bàn▼một tin đồn vừa nghe được.
+talkfigs/0eng/data/0044#43.92#page:2	$530'0;▼$533;▼vì hay bày trò.
+talkfigs/0eng/data/0044#43.92#page:3	$024'327'7;$023'327'177'10'1;Ước gì tớ dám hét▼"Đừng quậy nữa!" với họ.▼Nhưng tớ đâu có gan.
+talkfigs/0eng/data/0044#44.0#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang bàn▼một tin đồn vừa nghe được.
+talkfigs/0eng/data/0044#44.0#page:2	$530'0; và $530'1;▼lúc nào cũng $533;▼cùng nhau!
+talkfigs/0eng/data/0044#44.0#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Nghe vui ghê.▼Tớ cũng hơi ghen tị...
+talkfigs/0eng/data/0044#44.0#page:4	Nếu là tớ, chắc tớ▼chẳng tập trung làm gì nổi.
+talkfigs/0eng/data/0044#44.1#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang bàn▼một tin đồn vừa nghe được.
+talkfigs/0eng/data/0044#44.1#page:2	$530'0; và $530'1;▼công khai $533; rồi!
+talkfigs/0eng/data/0044#44.1#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Nghe vui ghê.▼Tớ cũng hơi ghen tị...
+talkfigs/0eng/data/0044#44.1#page:4	Nếu là tớ, chắc tớ▼chẳng tập trung làm gì nổi.
