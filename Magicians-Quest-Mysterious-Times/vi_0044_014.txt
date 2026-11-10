@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0044#39.42#page:2	Chuyện gì cũng thế.▼Cân bằng mới là quan trọng.
+talkfigs/0eng/data/0044#39.45#page:1	$024'327'7;$023'327'177'10'1;Tớ đã thấy chuyện đó▼đáng ngờ từ lâu rồi...
+talkfigs/0eng/data/0044#39.46#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Hai cậu chia tay▼vì cãi vã chuyện yêu đương à?
+talkfigs/0eng/data/0044#39.47#page:1	$024'327'7;$023'327'177'10'1;Dù cả thị trấn▼có quay lưng với cậu,▼tớ vẫn đứng về phía cậu.
+talkfigs/0eng/data/0044#39.50#page:1	$024'327'7;$023'327'177'10'1;Tớ đã thấy chuyện đó▼đáng ngờ từ lâu rồi...
+talkfigs/0eng/data/0044#39.51#page:1	Nghe đồn chia tay xong,▼cậu sẽ đi xa một chuyến▼để khuây khỏa...
+talkfigs/0eng/data/0044#39.52#page:1	$024'327'7;$023'327'177'10'1;Ừm... Nếu muốn tâm sự,▼tớ luôn sẵn lòng nghe.
+talkfigs/0eng/data/0044#39.52#page:2	Nhớ xem cả lịch trình nữa nhé.
+talkfigs/0eng/data/0044#39.55#page:1	$024'327'7;$023'327'177'10'1;Tớ đã thấy chuyện đó▼đáng ngờ từ lâu rồi...
+talkfigs/0eng/data/0044#39.56#page:1	Nghe đồn cậu sắp▼chuyển trường...
+talkfigs/0eng/data/0044#39.57#page:1	$024'327'4;$023'327'171'10'1;$022'327'383;Mất một người bạn tốt▼như cậu, tớ buồn lắm.
+talkfigs/0eng/data/0044#39.57#page:2	Cậu thật sự phải đi sao?
+talkfigs/0eng/data/0044#39.60#page:1	$024'327'7;$023'327'177'10'1;Tớ đã thấy chuyện đó▼đáng ngờ từ lâu rồi...
+talkfigs/0eng/data/0044#39.61#page:1	Nghe đồn cậu đang học▼thần chú thống trị▼cả thế giới...
+talkfigs/0eng/data/0044#39.62#page:1	$024'327'7;$023'327'177'10'1;Cậu nên nghĩ kỹ▼trước đã.
+talkfigs/0eng/data/0044#39.65#page:1	$024'327'7;$023'327'177'10'1;Tớ đã thấy chuyện đó▼đáng ngờ từ lâu rồi...
+talkfigs/0eng/data/0044#39.66#page:1	$024'327'7;$023'327'177'10'1;Nghe đồn cậu▼là người ngoài hành tinh...
+talkfigs/0eng/data/0044#39.67#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tuyệt! Dịp tốt để▼nghiên cứu hành tinh của cậu!▼Kể tớ nghe hết đi!
+talkfigs/0eng/data/0044#39.70#page:1	$024'327'7;$023'327'177'10'1;Tớ đã thấy chuyện đó▼đáng ngờ từ lâu rồi...
+talkfigs/0eng/data/0044#39.71#page:1	Nghe đồn cậu▼bị hồn ma nhập rồi...
+talkfigs/0eng/data/0044#39.72#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Hay quá! Kể tớ nghe▼về thế giới linh hồn đi.
+talkfigs/0eng/data/0044#39.75#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu... ừm...▼đang giấu chuyện gì à?
+talkfigs/0eng/data/0044#39.76#page:1	Nghe đồn cậu thật ra▼là siêu anh hùng...
+talkfigs/0eng/data/0044#39.77#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tuyệt vời! Kể tớ nghe▼siêu năng lực bí mật của cậu đi!
+talkfigs/0eng/data/0044#39.80#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu... ừm...▼đang giấu chuyện gì à?
+talkfigs/0eng/data/0044#39.81#page:1	Nghe đồn cậu đang▼thầm thương ai đó...
+talkfigs/0eng/data/0044#39.82#page:1	$024'327'7;$023'327'177'10'1;Thích thầm cũng hay,▼nhưng thích người khiến mình▼học hỏi được còn hay hơn.
+talkfigs/0eng/data/0044#39.85#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu... ừm...▼đang giấu chuyện gì à?
+talkfigs/0eng/data/0044#39.86#page:1	Nghe đồn cậu▼thật ra là côn trùng...
+talkfigs/0eng/data/0044#39.87#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Hay quá! Cho tớ▼nghiên cứu cậu nhé.
+talkfigs/0eng/data/0044#39.90#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu... ừm...▼đang giấu chuyện gì à?
+talkfigs/0eng/data/0044#39.91#page:1	$024'327'7;$023'327'177'10'1;Nghe đồn cậu mộng du▼rồi đi xuống sông...
+talkfigs/0eng/data/0044#39.92#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Hay quá! Cho tớ▼nghiên cứu cậu nhé.
+talkfigs/0eng/data/0044#39.95#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu... ừm...▼đang giấu chuyện gì à?
+talkfigs/0eng/data/0044#39.96#page:1	Người ta bảo cậu▼mê hẹn hò lắm đấy...
+talkfigs/0eng/data/0044#39.97#page:1	$024'327'7;$023'327'177'10'1;Dù người ta nói gì,▼dù có chuyện gì xảy ra,▼tớ vẫn luôn tin cậu.
+talkfigs/0eng/data/0044#40.0#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu... ừm...▼đang giấu chuyện gì à?
+talkfigs/0eng/data/0044#40.1#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu nhột lắm hả?
+talkfigs/0eng/data/0044#40.2#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Hay quá! Cho tớ▼nghiên cứu cậu nhé.
+talkfigs/0eng/data/0044#40.5#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu... ừm...▼đang giấu chuyện gì à?
+talkfigs/0eng/data/0044#40.6#page:1	Nghe nói cậu giàu sụ,▼tối nào cũng ngồi▼đếm tiền mỏi tay...
+talkfigs/0eng/data/0044#40.7#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Nếu cậu giàu ĐẾN THẾ,▼tài trợ tớ ít tiền▼nghiên cứu đi chứ!
+talkfigs/0eng/data/0044#40.10#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu... ừm...▼đang giấu chuyện gì à?
+talkfigs/0eng/data/0044#40.11#page:1	Nghe đồn cậu thành▼cướp biển, đang đi▼săn kho báu...
+talkfigs/0eng/data/0044#40.12#page:1	$024'327'7;$023'327'177'10'1;Cậu nên nghĩ kỹ▼trước đã.
+talkfigs/0eng/data/0044#40.15#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu... ừm...▼đang giấu chuyện gì à?
+talkfigs/0eng/data/0044#40.16#page:1	Nghe đồn cậu vừa khóc▼vừa đào hố...
+talkfigs/0eng/data/0044#40.17#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Có chuyện gì thế?
+talkfigs/0eng/data/0044#40.20#page:1	$024'327'7;$023'327'177'10'1;Ơ... Tớ nghe▼mấy chuyện về cậu...
+talkfigs/0eng/data/0044#40.21#page:1	Cậu lại giải được▼bí ẩn nào nữa à?
+talkfigs/0eng/data/0044#40.22#page:1	$024'327'7;$023'327'177'10'1;Tớ phục cậu thật.▼Có cậu ở đây, thị trấn▼được yên bình rồi.
+talkfigs/0eng/data/0044#40.25#page:1	$024'327'7;$023'327'177'10'1;Ơ... Tớ nghe▼mấy chuyện về cậu...
+talkfigs/0eng/data/0044#40.26#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Dạo này cậu▼chăm học lắm hả?
+talkfigs/0eng/data/0044#40.27#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ không thể cứ▼ngồi không thế này.
+talkfigs/0eng/data/0044#40.30#page:1	$024'327'7;$023'327'177'10'1;Ơ... Tớ nghe▼mấy chuyện về cậu...
+talkfigs/0eng/data/0044#40.31#page:1	Cậu đúng là người tốt nhỉ?
+talkfigs/0eng/data/0044#40.32#page:1	$024'327'7;$023'327'177'10'1;Có người bạn được▼ai cũng quý như cậu,▼tớ vui lắm!
+talkfigs/0eng/data/0044#40.35#page:1	$024'327'7;$023'327'177'10'1;Ơ... Tớ nghe▼mấy chuyện về cậu...
+talkfigs/0eng/data/0044#40.36#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu thành học sinh cá biệt rồi à?
+talkfigs/0eng/data/0044#40.37#page:1	$024'327'4;$023'327'171'10'1;$022'327'383;Rốt cuộc đã xảy ra chuyện gì?
+talkfigs/0eng/data/0044#42.1#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.1#page:2	$024'327'7;$023'327'177'10'1;$022'327'400;Vừa yêu vừa lo học▼đâu có dễ gì.
+talkfigs/0eng/data/0044#42.1#page:3	Cậu vẫn ổn chứ?
+talkfigs/0eng/data/0044#42.2#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.2#page:2	$024'327'7;$023'327'177'10'1;$022'327'400;Vừa yêu vừa lo học▼đâu có dễ gì.
+talkfigs/0eng/data/0044#42.2#page:3	Cậu vẫn ổn chứ?
+talkfigs/0eng/data/0044#42.3#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.3#page:2	$024'327'7;$023'327'177'10'1;$022'327'400;Vừa yêu vừa lo học▼đâu có dễ gì.
+talkfigs/0eng/data/0044#42.3#page:3	Cậu vẫn ổn chứ?
+talkfigs/0eng/data/0044#42.4#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.4#page:2	$024'327'7;$023'327'177'10'1;$022'327'400;Vừa yêu vừa lo học▼đâu có dễ gì.
+talkfigs/0eng/data/0044#42.4#page:3	Mà còn phải chú ý▼cân bằng dinh dưỡng nữa.
+talkfigs/0eng/data/0044#42.5#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.5#page:2	$024'327'7;$023'327'177'10'1;$022'327'400;Vừa yêu vừa lo học▼đâu có dễ gì.
+talkfigs/0eng/data/0044#42.5#page:3	Cậu vẫn ổn chứ?
+talkfigs/0eng/data/0044#42.6#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.6#page:2	$024'327'7;$023'327'177'10'1;$022'327'400;Vừa yêu vừa lo học▼đâu có dễ gì.
+talkfigs/0eng/data/0044#42.6#page:3	Viết sai chính tả thì quê lắm,▼để tớ xem lại giúp nhé.
+talkfigs/0eng/data/0044#42.7#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.7#page:2	$024'327'7;$023'327'177'10'1;$022'327'400;Vừa yêu vừa lo học▼đâu có dễ gì.
+talkfigs/0eng/data/0044#42.7#page:3	Cậu vẫn ổn chứ?
+talkfigs/0eng/data/0044#42.8#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.8#page:2	$024'327'7;$023'327'177'10'1;$022'327'400;Vừa yêu vừa lo học▼đâu có dễ gì.
+talkfigs/0eng/data/0044#42.8#page:3	Nhớ xem cả lịch trình nữa nhé.
+talkfigs/0eng/data/0044#42.9#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.9#page:2	$024'327'7;$023'327'177'10'1;$022'327'400;Vừa yêu vừa lo học▼đâu có dễ gì.
+talkfigs/0eng/data/0044#42.9#page:3	Cậu vẫn ổn chứ?
+talkfigs/0eng/data/0044#42.10#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.10#page:2	$024'327'7;$023'327'177'10'1;$022'327'400;Vừa yêu vừa lo học▼đâu có dễ gì.
+talkfigs/0eng/data/0044#42.10#page:3	Nhưng ở bên nhau lâu thế▼chắc hai cậu cũng học được▼khối thứ nhỉ...
+talkfigs/0eng/data/0044#42.11#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.11#page:2	Yêu nhau rồi thì▼sớm muộn cũng gặp chuyện ấy.
+talkfigs/0eng/data/0044#42.11#page:3	Ừm... Nếu muốn tâm sự,▼tớ luôn sẵn lòng nghe.
+talkfigs/0eng/data/0044#42.12#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.12#page:2	$024'327'7;$023'327'177'10'1;$022'327'400;Vừa yêu vừa lo học▼đâu có dễ gì.
+talkfigs/0eng/data/0044#42.12#page:3	Cậu vẫn ổn chứ?
+talkfigs/0eng/data/0044#42.13#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.13#page:2	$024'327'7;$023'327'177'10'1;Nghe cũng thú vị đấy chứ.
+talkfigs/0eng/data/0044#42.13#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Thế hai cậu đang▼thí nghiệm gì vậy?
+talkfigs/0eng/data/0044#42.14#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.14#page:2	$024'327'7;$023'327'177'10'1;$022'327'400;Vừa yêu vừa lo học▼đâu có dễ gì.
+talkfigs/0eng/data/0044#42.14#page:3	Cậu vẫn ổn chứ?
+talkfigs/0eng/data/0044#42.15#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.15#page:2	$024'327'7;$023'327'177'10'1;$022'327'400;Vừa yêu vừa lo học▼đâu có dễ gì.
+talkfigs/0eng/data/0044#42.15#page:3	Cậu vẫn ổn chứ?
+talkfigs/0eng/data/0044#42.16#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.16#page:2	$024'327'4;$023'327'171'10'1;$022'327'383;Tớ không hỏi chi tiết đâu,▼nhưng nghe buồn thật.
+talkfigs/0eng/data/0044#42.16#page:3	Ừm... Nếu muốn tâm sự,▼tớ luôn sẵn lòng nghe.
+talkfigs/0eng/data/0044#42.17#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.17#page:2	Ừm... Nếu muốn tâm sự,▼tớ luôn sẵn lòng nghe.
+talkfigs/0eng/data/0044#42.18#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.18#page:2	Ừm... Nếu muốn tâm sự,▼tớ luôn sẵn lòng nghe.
+talkfigs/0eng/data/0044#42.19#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.19#page:2	Ừm... Nếu muốn tâm sự,▼tớ luôn sẵn lòng nghe.
+talkfigs/0eng/data/0044#42.19#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Mà này, tình cảm 'nguội'▼thì ăn có ngon không nhỉ?
+talkfigs/0eng/data/0044#42.20#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.20#page:2	Ơ... Hai cậu là bạn mà,▼làm hòa đi chứ.
+talkfigs/0eng/data/0044#42.20#page:3	Nếu cần, tớ sẽ giúp▼hết sức mình.
+talkfigs/0eng/data/0044#42.21#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghe tin đồn này▼ở trường đấy!
+talkfigs/0eng/data/0044#42.21#page:2	Hai người cùng giành▼một người nghe cũng ngầu.▼Tớ muốn thử ghê!
