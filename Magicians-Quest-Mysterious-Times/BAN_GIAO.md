@@ -1,3 +1,11 @@
+## Checkpoint 099 — 10/11/2026
+
+- +240 trang NPC `0044.005` và `0044.006`, tổng **25.655/55.976 (45,83%)**, NPC 22.530/52.608.
+- 75 mẫu EN riêng, 17 tái dùng, 58 dịch mới; thoại học sinh ham nghiên cứu, quà tặng, lời đồn và tình bạn.
+- QA 501 JSONL PASS; giữ 25.415 bản dịch cũ; 499 JSONL ngoài đợt không đổi byte.
+- Bàn giao ZIP đầy đủ, EN–VI, delta, QA và script; chưa kiểm thử trực tiếp ROM NDS.
+- Đợt 100: `0044.007` và `0044.008`, 120 trang mỗi tệp.
+
 ## Checkpoint 098 — 10/11/2026
 
 - +240 trang NPC `0044.003` và `0044.004`, tổng **25.415/55.976 (45,40%)**, NPC 22.290/52.608.

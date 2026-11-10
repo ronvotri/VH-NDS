@@ -1,3 +1,5 @@
+**Checkpoint mới nhất: 099 (10/11/2026) — 25.655/55.976 (45,83%).** +240 trang thoại NPC (`0044.005` + `0044.006`); 58 mẫu mới, 17 mẫu tái sử dụng; QA 501 JSONL PASS. Đợt 100: `0044.007` và `0044.008` (240 trang). Xem `CHECKPOINT-2026-11-10-DOT-99.md`, `QA-099.md`.
+
 **Checkpoint mới nhất: 098 (10/11/2026) — 25.415/55.976 (45,40%).** +240 trang thoại NPC (`0044.003` + `0044.004`); 45 mẫu mới, 46 mẫu tái sử dụng; QA 501 JSONL PASS. Đợt 099: `0044.005` và `0044.006` (240 trang). Xem `CHECKPOINT-2026-11-10-DOT-98.md`, `QA-098.md`.
 
 **Checkpoint mới nhất: 097 (10/11/2026) — 25.175/55.976 (44,97%).** +240 trang thoại NPC (`0044.001`: 120; `0044.002`: 120); 220 mẫu mới, 14 mẫu tái sử dụng; QA 501 JSONL PASS. Tiếp `0044.003` và `0044.004` (240 trang). Xem `CHECKPOINT-2026-11-10-DOT-97.md`, `QA-097.md`.
