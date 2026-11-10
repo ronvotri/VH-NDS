@@ -1,3 +1,11 @@
+## Checkpoint 098 — 10/11/2026
+
+- +240 trang NPC `0044.003` và `0044.004`, tổng **25.415/55.976 (45,40%)**, NPC 22.290/52.608.
+- 91 mẫu EN riêng, 46 tái dùng, 45 dịch mới; thoại học đường, tiệc trà, lễ hội, học ngoại khóa.
+- QA 501 JSONL PASS, giữ nguyên 25.175 bản dịch cũ và 499 JSONL ngoài đợt.
+- Bàn giao ZIP, bảng EN–VI, DELTA-098, QA-098, script; chưa test trên ROM.
+- Đợt 099: `0044.005` và `0044.006` (240 trang).
+
 ## Checkpoint 097 — 10/11/2026
 
 - +240 trang NPC `0044.001` (120) và `0044.002` (120); tổng **25.175/55.976 (44,97%)**, NPC 22.050/52.608.

@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0044#15.78#page:3	Mình làm lại từ đầu nhé?$079;$073'702'1;
+talkfigs/0eng/data/0044#15.79#page:1	$024'327'7;$023'327'177'10'1;Xin lỗi vì đã gửi cậu▼bức điện tín kỳ quặc...
+talkfigs/0eng/data/0044#15.79#page:2	Nếu cậu chịu quên đi,▼tớ vẫn muốn▼làm bạn với cậu.
+talkfigs/0eng/data/0044#15.79#page:3	Mình làm lại từ đầu nhé?$079;$073'702'1;
+talkfigs/0eng/data/0044#15.90#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Lớp ngoại khóa▼vui thật đấy!
+talkfigs/0eng/data/0044#15.90#page:2	Cậu có gặp khó khăn▼với dự án đang làm▼không, $500;?$079;
+talkfigs/0eng/data/0044#15.91#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Lớp ngoại khóa▼vui thật đấy!
+talkfigs/0eng/data/0044#15.91#page:2	Cậu có gặp khó khăn▼với dự án đang làm▼không, $500;?$079;
+talkfigs/0eng/data/0044#15.92#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Lớp ngoại khóa▼vui thật đấy!
+talkfigs/0eng/data/0044#15.92#page:2	Cậu có gặp khó khăn▼với dự án đang làm▼không, $500;?$079;
+talkfigs/0eng/data/0044#15.93#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Lớp ngoại khóa▼vui thật đấy!
+talkfigs/0eng/data/0044#15.93#page:2	Cậu có gặp khó khăn▼với dự án đang làm▼không, $500;?$079;
+talkfigs/0eng/data/0044#15.94#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Lớp ngoại khóa▼vui thật đấy!
+talkfigs/0eng/data/0044#15.94#page:2	Cậu có gặp khó khăn▼với dự án đang làm▼không, $500;?$079;
+talkfigs/0eng/data/0044#15.95#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Lớp ngoại khóa▼vui thật đấy!
+talkfigs/0eng/data/0044#15.95#page:2	Cậu có gặp khó khăn▼với dự án đang làm▼không, $500;?$079;
+talkfigs/0eng/data/0044#15.96#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Lớp ngoại khóa▼vui thật đấy!
+talkfigs/0eng/data/0044#15.96#page:2	Cậu có gặp khó khăn▼với dự án đang làm▼không, $500;?$079;
+talkfigs/0eng/data/0044#15.97#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Lớp ngoại khóa▼vui thật đấy!
+talkfigs/0eng/data/0044#15.97#page:2	Cậu có gặp khó khăn▼với dự án đang làm▼không, $500;?$079;
+talkfigs/0eng/data/0044#15.98#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Lớp ngoại khóa▼vui thật đấy!
+talkfigs/0eng/data/0044#15.98#page:2	Cậu có gặp khó khăn▼với dự án đang làm▼không, $500;?$079;
+talkfigs/0eng/data/0044#15.99#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Lớp ngoại khóa▼vui thật đấy!
+talkfigs/0eng/data/0044#15.99#page:2	Cậu có gặp khó khăn▼với dự án đang làm▼không, $500;?$079;
+talkfigs/0eng/data/0044#16.0#page:1	Lớp ngoại khóa kết thúc rồi.▼Tiếc quá, tớ thích lắm!
+talkfigs/0eng/data/0044#16.1#page:1	Lớp ngoại khóa kết thúc rồi.▼Tiếc quá, tớ thích lắm!
+talkfigs/0eng/data/0044#16.2#page:1	Lớp ngoại khóa kết thúc rồi.▼Tiếc quá, tớ thích lắm!
+talkfigs/0eng/data/0044#16.3#page:1	Lớp ngoại khóa kết thúc rồi.▼Tiếc quá, tớ thích lắm!
+talkfigs/0eng/data/0044#16.4#page:1	Lớp ngoại khóa kết thúc rồi.▼Tiếc quá, tớ thích lắm!
+talkfigs/0eng/data/0044#16.5#page:1	Lớp ngoại khóa kết thúc rồi.▼Tiếc quá, tớ thích lắm!
+talkfigs/0eng/data/0044#16.6#page:1	Lớp ngoại khóa kết thúc rồi.▼Tiếc quá, tớ thích lắm!
+talkfigs/0eng/data/0044#16.7#page:1	Lớp ngoại khóa kết thúc rồi.▼Tiếc quá, tớ thích lắm!
+talkfigs/0eng/data/0044#16.8#page:1	Lớp ngoại khóa kết thúc rồi.▼Tiếc quá, tớ thích lắm!
+talkfigs/0eng/data/0044#16.9#page:1	Lớp ngoại khóa kết thúc rồi.▼Tiếc quá, tớ thích lắm!
+talkfigs/0eng/data/0044#16.20#page:1	Bọn mình đã rất vui,▼nhưng chắc cần xa nhau▼một thời gian.
+talkfigs/0eng/data/0044#16.20#page:2	Tớ sợ cứ thế này,▼chúng ta sẽ sớm▼chán nhau mất.
+talkfigs/0eng/data/0044#16.20#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nếu cậu tin bọn mình sẽ ổn,▼hãy nói nhé. Mình lại▼làm bạn thân!$079;$073'702'1;
+talkfigs/0eng/data/0044#16.21#page:1	Bọn mình đã rất vui,▼nhưng chắc cần xa nhau▼một thời gian.
+talkfigs/0eng/data/0044#16.21#page:2	Tớ sợ cứ thế này,▼chúng ta sẽ sớm▼chán nhau mất.
+talkfigs/0eng/data/0044#16.21#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nếu cậu tin bọn mình sẽ ổn,▼hãy nói nhé. Mình lại▼làm bạn thân!$079;$073'702'1;
+talkfigs/0eng/data/0044#16.22#page:1	Bọn mình đã rất vui,▼nhưng chắc cần xa nhau▼một thời gian.
+talkfigs/0eng/data/0044#16.22#page:2	Tớ sợ cứ thế này,▼chúng ta sẽ sớm▼chán nhau mất.
+talkfigs/0eng/data/0044#16.22#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nếu cậu tin bọn mình sẽ ổn,▼hãy nói nhé. Mình lại▼làm bạn thân!$079;$073'702'1;
+talkfigs/0eng/data/0044#16.23#page:1	Bọn mình đã rất vui,▼nhưng chắc cần xa nhau▼một thời gian.
+talkfigs/0eng/data/0044#16.23#page:2	Tớ sợ cứ thế này,▼chúng ta sẽ sớm▼chán nhau mất.
+talkfigs/0eng/data/0044#16.23#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nếu cậu tin bọn mình sẽ ổn,▼hãy nói nhé. Mình lại▼làm bạn thân!$079;$073'702'1;
+talkfigs/0eng/data/0044#16.24#page:1	Bọn mình đã rất vui,▼nhưng chắc cần xa nhau▼một thời gian.
+talkfigs/0eng/data/0044#16.24#page:2	Tớ sợ cứ thế này,▼chúng ta sẽ sớm▼chán nhau mất.
+talkfigs/0eng/data/0044#16.24#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nếu cậu tin bọn mình sẽ ổn,▼hãy nói nhé. Mình lại▼làm bạn thân!$079;$073'702'1;
+talkfigs/0eng/data/0044#16.25#page:1	Bọn mình đã rất vui,▼nhưng chắc cần xa nhau▼một thời gian.
+talkfigs/0eng/data/0044#16.25#page:2	Tớ sợ cứ thế này,▼chúng ta sẽ sớm▼chán nhau mất.
+talkfigs/0eng/data/0044#16.25#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nếu cậu tin bọn mình sẽ ổn,▼hãy nói nhé. Mình lại▼làm bạn thân!$079;$073'702'1;
+talkfigs/0eng/data/0044#16.26#page:1	Bọn mình đã rất vui,▼nhưng chắc cần xa nhau▼một thời gian.
+talkfigs/0eng/data/0044#16.26#page:2	Tớ sợ cứ thế này,▼chúng ta sẽ sớm▼chán nhau mất.
+talkfigs/0eng/data/0044#16.26#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nếu cậu tin bọn mình sẽ ổn,▼hãy nói nhé. Mình lại▼làm bạn thân!$079;$073'702'1;
+talkfigs/0eng/data/0044#16.27#page:1	Bọn mình đã rất vui,▼nhưng chắc cần xa nhau▼một thời gian.
+talkfigs/0eng/data/0044#16.27#page:2	Tớ sợ cứ thế này,▼chúng ta sẽ sớm▼chán nhau mất.
+talkfigs/0eng/data/0044#16.27#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nếu cậu tin bọn mình sẽ ổn,▼hãy nói nhé. Mình lại▼làm bạn thân!$079;$073'702'1;
+talkfigs/0eng/data/0044#16.28#page:1	Bọn mình đã rất vui,▼nhưng chắc cần xa nhau▼một thời gian.
+talkfigs/0eng/data/0044#16.28#page:2	Tớ sợ cứ thế này,▼chúng ta sẽ sớm▼chán nhau mất.
+talkfigs/0eng/data/0044#16.28#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nếu cậu tin bọn mình sẽ ổn,▼hãy nói nhé. Mình lại▼làm bạn thân!$079;$073'702'1;
+talkfigs/0eng/data/0044#16.29#page:1	Bọn mình đã rất vui,▼nhưng chắc cần xa nhau▼một thời gian.
+talkfigs/0eng/data/0044#16.29#page:2	Tớ sợ cứ thế này,▼chúng ta sẽ sớm▼chán nhau mất.
+talkfigs/0eng/data/0044#16.29#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nếu cậu tin bọn mình sẽ ổn,▼hãy nói nhé. Mình lại▼làm bạn thân!$079;$073'702'1;
+talkfigs/0eng/data/0044#16.30#page:1	Ừm...$079;$073'700'2'1;
+talkfigs/0eng/data/0044#16.31#page:1	Ừm...$079;$073'700'2'1;
+talkfigs/0eng/data/0044#16.32#page:1	Ừm...$079;$073'700'2'1;
+talkfigs/0eng/data/0044#16.33#page:1	Ừm...$079;$073'700'2'1;
+talkfigs/0eng/data/0044#16.34#page:1	Ừm...$079;$073'700'2'1;
+talkfigs/0eng/data/0044#16.35#page:1	Ừm...$079;$073'700'2'1;
+talkfigs/0eng/data/0044#16.36#page:1	Ừm...$079;$073'700'2'1;
+talkfigs/0eng/data/0044#16.37#page:1	Ừm...$079;$073'700'2'1;
+talkfigs/0eng/data/0044#16.38#page:1	Ừm...$079;$073'700'2'1;
+talkfigs/0eng/data/0044#16.39#page:1	Ừm...$079;$073'700'2'1;
+talkfigs/0eng/data/0044#16.40#page:1	Ừm...$079;$073'700'3'1;
+talkfigs/0eng/data/0044#16.41#page:1	Ừm...$079;$073'700'3'1;
+talkfigs/0eng/data/0044#16.42#page:1	Ừm...$079;$073'700'3'1;
+talkfigs/0eng/data/0044#16.43#page:1	Ừm...$079;$073'700'3'1;
+talkfigs/0eng/data/0044#16.44#page:1	Ừm...$079;$073'700'3'1;
+talkfigs/0eng/data/0044#16.45#page:1	Ừm...$079;$073'700'3'1;
+talkfigs/0eng/data/0044#16.46#page:1	Ừm...$079;$073'700'3'1;
+talkfigs/0eng/data/0044#16.47#page:1	Ừm...$079;$073'700'3'1;
+talkfigs/0eng/data/0044#16.48#page:1	Ừm...$079;$073'700'3'1;
+talkfigs/0eng/data/0044#16.49#page:1	Ừm...$079;$073'700'3'1;
+talkfigs/0eng/data/0044#16.60#page:1	Bọn mình đã rất vui,▼nhưng chắc cần xa nhau▼một thời gian.
+talkfigs/0eng/data/0044#16.60#page:2	Tớ sợ cứ thế này,▼chúng ta sẽ sớm▼chán nhau mất.
+talkfigs/0eng/data/0044#16.60#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Khi cậu thấy ổn,▼nói tớ biết nhé.▼Mình hẹn hò lại!$079;$073'702'1;
+talkfigs/0eng/data/0044#16.61#page:1	Bọn mình đã rất vui,▼nhưng chắc cần xa nhau▼một thời gian.
+talkfigs/0eng/data/0044#16.61#page:2	Tớ sợ cứ thế này,▼chúng ta sẽ sớm▼chán nhau mất.
+talkfigs/0eng/data/0044#16.61#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Khi cậu thấy ổn,▼nói tớ biết nhé.▼Mình hẹn hò lại!$079;$073'702'1;
+talkfigs/0eng/data/0044#16.62#page:1	Bọn mình đã rất vui,▼nhưng chắc cần xa nhau▼một thời gian.
+talkfigs/0eng/data/0044#16.62#page:2	Tớ sợ cứ thế này,▼chúng ta sẽ sớm▼chán nhau mất.
+talkfigs/0eng/data/0044#16.62#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Khi cậu thấy ổn,▼nói tớ biết nhé.▼Mình hẹn hò lại!$079;$073'702'1;
+talkfigs/0eng/data/0044#16.63#page:1	Bọn mình đã rất vui,▼nhưng chắc cần xa nhau▼một thời gian.
+talkfigs/0eng/data/0044#16.63#page:2	Tớ sợ cứ thế này,▼chúng ta sẽ sớm▼chán nhau mất.
+talkfigs/0eng/data/0044#16.63#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Khi cậu thấy ổn,▼nói tớ biết nhé.▼Mình hẹn hò lại!$079;$073'702'1;
+talkfigs/0eng/data/0044#16.64#page:1	Bọn mình đã rất vui,▼nhưng chắc cần xa nhau▼một thời gian.
+talkfigs/0eng/data/0044#16.64#page:2	Tớ sợ cứ thế này,▼chúng ta sẽ sớm▼chán nhau mất.
+talkfigs/0eng/data/0044#16.64#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Khi cậu thấy ổn,▼nói tớ biết nhé.▼Mình hẹn hò lại!$079;$073'702'1;
+talkfigs/0eng/data/0044#16.65#page:1	Bọn mình đã rất vui,▼nhưng chắc cần xa nhau▼một thời gian.
+talkfigs/0eng/data/0044#16.65#page:2	Tớ sợ cứ thế này,▼chúng ta sẽ sớm▼chán nhau mất.
+talkfigs/0eng/data/0044#16.65#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Khi cậu thấy ổn,▼nói tớ biết nhé.▼Mình hẹn hò lại!$079;$073'702'1;
+talkfigs/0eng/data/0044#16.66#page:1	Bọn mình đã rất vui,▼nhưng chắc cần xa nhau▼một thời gian.
+talkfigs/0eng/data/0044#16.66#page:2	Tớ sợ cứ thế này,▼chúng ta sẽ sớm▼chán nhau mất.
+talkfigs/0eng/data/0044#16.66#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Khi cậu thấy ổn,▼nói tớ biết nhé.▼Mình hẹn hò lại!$079;$073'702'1;
+talkfigs/0eng/data/0044#16.67#page:1	Bọn mình đã rất vui,▼nhưng chắc cần xa nhau▼một thời gian.
+talkfigs/0eng/data/0044#16.67#page:2	Tớ sợ cứ thế này,▼chúng ta sẽ sớm▼chán nhau mất.
+talkfigs/0eng/data/0044#16.67#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Khi cậu thấy ổn,▼nói tớ biết nhé.▼Mình hẹn hò lại!$079;$073'702'1;
+talkfigs/0eng/data/0044#16.68#page:1	Bọn mình đã rất vui,▼nhưng chắc cần xa nhau▼một thời gian.
+talkfigs/0eng/data/0044#16.68#page:2	Tớ sợ cứ thế này,▼chúng ta sẽ sớm▼chán nhau mất.
+talkfigs/0eng/data/0044#16.68#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Khi cậu thấy ổn,▼nói tớ biết nhé.▼Mình hẹn hò lại!$079;$073'702'1;
+talkfigs/0eng/data/0044#16.69#page:1	Bọn mình đã rất vui,▼nhưng chắc cần xa nhau▼một thời gian.
+talkfigs/0eng/data/0044#16.69#page:2	Tớ sợ cứ thế này,▼chúng ta sẽ sớm▼chán nhau mất.
+talkfigs/0eng/data/0044#16.69#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Khi cậu thấy ổn,▼nói tớ biết nhé.▼Mình hẹn hò lại!$079;$073'702'1;
+talkfigs/0eng/data/0044#16.70#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu muốn gì nào?▼Có chuyện muốn hỏi sao?$085;$019'1674;
+talkfigs/0eng/data/0044#16.73#page:1	Xin lỗi, giờ tớ▼chẳng nghĩ ra chuyện gì▼thú vị để kể cả.$079;
+talkfigs/0eng/data/0044#16.74#page:2	Trò chuyện$019'1675;
+talkfigs/0eng/data/0044#16.74#page:3	Tặng đồ$019'1676;
+talkfigs/0eng/data/0044#16.74#page:4	Đi chơi$019'1677;
+talkfigs/0eng/data/0044#16.74#page:5	Đến trường$019'1678;
