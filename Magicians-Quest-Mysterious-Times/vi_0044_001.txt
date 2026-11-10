@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0044#0.1#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Này! Đừng đẩy nữa!▼Đau đấy...$079;
+talkfigs/0eng/data/0044#0.2#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Cậu cố tình à?▼Định bắt nạt tớ sao?$079;
+talkfigs/0eng/data/0044#0.3#page:1	$024'327'2;$023'327'28'8'4;$022'327'381;Chọc phá bạn bè▼vui đến thế sao?!$079;
+talkfigs/0eng/data/0044#0.11#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Hả? Ô! Có phải thứ▼tớ đang nghĩ không nhỉ?
+talkfigs/0eng/data/0044#0.11#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ mê mấy thứ này lắm!
+talkfigs/0eng/data/0044#0.11#page:3	$024'327'5;$023'327'175'8'1;$022'327'342;Cậu tặng cho tớ thật à?!▼Thật không đấy?
+talkfigs/0eng/data/0044#0.11#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;Không ngờ tớ lại được tặng!▼Cảm ơn cậu nhiều lắm!▼Tớ vui quá đi!
+talkfigs/0eng/data/0044#0.12#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Cái này để làm gì thế?
+talkfigs/0eng/data/0044#0.12#page:2	$024'327'5;$023'327'175'8'1;$022'327'342;Hả? Cậu cho tớ à?▼Ồ...
+talkfigs/0eng/data/0044#0.12#page:3	$024'327'5;$023'327'170'10'1;$022'327'301;Cảm ơn... Tớ sẽ... ừm...▼cất nó đi vậy...
+talkfigs/0eng/data/0044#0.13#page:1	$024'327'0;$023'327'1'4'0;Hả? Tặng tớ thật sao?▼Oa! Cảm ơn! Tớ vui quá!
+talkfigs/0eng/data/0044#0.14#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu muốn làm gì vậy?
+talkfigs/0eng/data/0044#0.50#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Ơ? Cậu còn mất công▼mang thuốc đến cho tớ sao?
+talkfigs/0eng/data/0044#0.50#page:2	$024'327'0;$023'327'1'4'0;Tớ đâu định khiến cậu▼phải lo lắng thế này.
+talkfigs/0eng/data/0044#0.50#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nhưng cảm ơn nhé.▼Lát nữa tớ sẽ uống.
+talkfigs/0eng/data/0044#0.51#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Cảm ơn cậu!▼Cậu mang thuốc đến rồi!
+talkfigs/0eng/data/0044#0.51#page:2	Cứu tinh của tớ đây rồi!▼Tớ mệt đến mức chẳng▼đi mua nổi nữa.
+talkfigs/0eng/data/0044#0.52#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Lại thuốc nữa à?▼Lần trước cậu cho▼tớ đủ rồi mà.
+talkfigs/0eng/data/0044#0.52#page:2	$024'327'0;$023'327'1'4'0;Cậu không biết uống▼quá nhiều thuốc▼còn mệt hơn sao?
+talkfigs/0eng/data/0044#0.52#page:3	Dù sao tớ cũng▼cảm ơn lòng tốt của cậu.
+talkfigs/0eng/data/0044#0.53#page:1	Ôi, tớ thấy khó chịu quá...
+talkfigs/0eng/data/0044#0.54#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Hả? Quà à?
+talkfigs/0eng/data/0044#0.54#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Nhưng tớ ốm thế này,▼cảm ơn cũng chẳng▼ra hơi nữa...
+talkfigs/0eng/data/0044#0.54#page:3	$024'327'0;$023'327'1'4'0;Tớ rất cảm kích,▼nhưng giờ chưa nhận được.▼Xin lỗi nhé.
+talkfigs/0eng/data/0044#1.0#page:1	Tớ đang làm giấy tờ▼chuyển trường đây.
+talkfigs/0eng/data/0044#1.1#page:1	Cậu quyết định ở lại à,▼$500;?
+talkfigs/0eng/data/0044#1.1#page:2	Tớ cũng quyết định▼không đi nữa.
+talkfigs/0eng/data/0044#1.2#page:1	Cho tớ chuyển trường▼cùng cậu nhé.$019'103;
+talkfigs/0eng/data/0044#1.3#page:2	Có$019'104;
+talkfigs/0eng/data/0044#1.3#page:3	Không$019'105;
+talkfigs/0eng/data/0044#1.4#page:1	Vậy là xong xuôi rồi,▼chúng mình đi thôi.
+talkfigs/0eng/data/0044#1.5#page:1	Tiếc thật đấy.▼Lần sau cho tớ▼đi cùng nhé.
+talkfigs/0eng/data/0044#4.0#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Ừm... chúc mừng▼sinh nhật nhé, $500;!
+talkfigs/0eng/data/0044#4.0#page:2	$024'327'7;$023'327'177'10'1;Tớ có món này cho cậu.▼Thấy nó là tớ nhớ đến cậu.▼Mong cậu thích nhé!
+talkfigs/0eng/data/0044#4.0#page:3	Có người bạn như cậu▼thật là may mắn!▼Chúc cậu một ngày tuyệt vời!
+talkfigs/0eng/data/0044#4.1#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Chà, tớ không ngờ đấy!
+talkfigs/0eng/data/0044#4.1#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;Cậu còn nhớ sinh nhật tớ!▼Chuyện này đáng▼ăn mừng đấy chứ!
+talkfigs/0eng/data/0044#4.1#page:3	Cảm ơn nhé, $500;!
+talkfigs/0eng/data/0044#4.2#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Ừm... chúc mừng▼sinh nhật nhé, $500;!
+talkfigs/0eng/data/0044#4.2#page:2	$024'327'7;$023'327'177'10'1;Tớ có món này cho cậu.▼Thấy nó là tớ nhớ đến cậu.▼Mong cậu thích nhé!
+talkfigs/0eng/data/0044#4.2#page:3	Có người bạn như cậu▼thật là may mắn!▼Chúc cậu một ngày tuyệt vời!
+talkfigs/0eng/data/0044#4.20#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Cảm ơn cậu đã mời tớ.
+talkfigs/0eng/data/0044#4.20#page:2	Tớ háo hức xem▼phòng cậu lắm đấy.
+talkfigs/0eng/data/0044#4.21#page:1	$024'327'7;$023'327'177'10'1;Không muốn chê đâu,▼nhưng mà... ừm...▼phòng bừa bộn quá.
+talkfigs/0eng/data/0044#4.22#page:1	Đơn giản thì tốt,▼nhưng cũng phải▼có giới hạn chứ...
+talkfigs/0eng/data/0044#4.23#page:1	Ừ, căn phòng khá bình thường.▼Nhưng tớ thấy cũng thư thái.
+talkfigs/0eng/data/0044#4.24#page:1	$024'327'7;$023'327'177'10'1;Oa, phòng đẹp ghê!▼Tớ chịu, chẳng trang trí▼được như cậu đâu!
+talkfigs/0eng/data/0044#4.25#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Căn phòng tuyệt thật!▼Cả đời tớ chưa từng▼thấy phòng nào như thế!
+talkfigs/0eng/data/0044#4.26#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Không ngờ cậu thích▼màu này, $500;.▼Nó... khá táo bạo đấy.
+talkfigs/0eng/data/0044#4.27#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Thú vị thật, cậu có▼nguyên bộ nội thất▼cùng một phong cách!
+talkfigs/0eng/data/0044#4.28#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Đồ đạc đồng bộ thế này▼tạo ra bầu không khí▼rất riêng đấy.
+talkfigs/0eng/data/0044#4.29#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Cậu có nhiều món giống nhau.▼Ít đa dạng mà lại▼thú vị thật.
+talkfigs/0eng/data/0044#4.30#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ cũng muốn thử▼tạo ra một nơi▼như thế này.
+talkfigs/0eng/data/0044#4.30#page:2	Cảm ơn vì đã cho tớ▼một tấm gương hay nhé.
+talkfigs/0eng/data/0044#4.31#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Cảm ơn nhiều! Thú vị lắm.▼Khi nào muốn, cứ mời▼tớ sang chơi nhé!
+talkfigs/0eng/data/0044#4.40#page:1	Đã đến đây rồi,▼uống trà một chút nhé.
+talkfigs/0eng/data/0044#4.41#page:1	$024'327'3;$023'327'171'10'1;$022'327'304;Không muốn chê đâu,▼nhưng tớ thích uống trà▼ở nơi hợp hơn cơ.
+talkfigs/0eng/data/0044#4.42#page:1	Vẫn thiếu gì đó...▼Không khí này▼chưa đủ tuyệt...
+talkfigs/0eng/data/0044#4.43#page:1	Trà ngon thật đấy!▼Có vẻ cậu đang▼thư giãn rồi.
+talkfigs/0eng/data/0044#4.44#page:1	$024'327'7;$023'327'177'10'1;Thư giãn như thế này▼thật dễ chịu.▼Miễn trà ngon là được!
+talkfigs/0eng/data/0044#4.45#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tách trà thơm, lòng thư thái...▼Tiệc trà đúng là▼dễ chịu thật.
+talkfigs/0eng/data/0044#4.46#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Ăn chút gì cùng trà▼khiến hương vị ngon hơn.▼Tớ thích lắm!
+talkfigs/0eng/data/0044#4.47#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Lần sau mở tiệc trà,▼nhớ mời tớ nhé.▼Tớ mong lắm đấy!
+talkfigs/0eng/data/0044#4.48#page:1	Cuối cùng cũng tới nơi.
+talkfigs/0eng/data/0044#4.80#page:1	Cậu có thích món này▼không, $500;?
+talkfigs/0eng/data/0044#4.81#page:1	$024'327'0;$023'327'1'4'0;Người quen vừa cho tớ▼món này. Cậu lấy đi.
+talkfigs/0eng/data/0044#4.81#page:2	$024'327'5;$023'327'99'10'2;$022'327'303;Tớ chẳng còn chỗ▼để cất nó nữa.
+talkfigs/0eng/data/0044#4.81#page:3	$024'327'5;$023'327'170'10'1;$022'327'301;Nếu cậu chịu nhận,▼tớ sẽ đỡ khổ lắm!
+talkfigs/0eng/data/0044#4.86#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Dạo này cậu sao rồi, $500;?▼Lâu quá không gặp.
+talkfigs/0eng/data/0044#4.86#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Tớ cứ lo cậu▼gặp chuyện gì.▼Mãi chẳng thấy đâu.
+talkfigs/0eng/data/0044#4.86#page:3	$024'327'5;$023'327'170'10'1;$022'327'301;Cậu không quên tớ đấy chứ?▼Tớ hay bị người ta▼quên mất lắm...
+talkfigs/0eng/data/0044#4.86#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;Thấy cậu khỏe là tớ yên tâm!▼Giữ gìn sức khỏe nhé.▼Hẹn gặp lại!
+talkfigs/0eng/data/0044#4.91#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;$500;! Giờ cậu rảnh không?
+talkfigs/0eng/data/0044#4.91#page:2	$024'327'0;$023'327'1'4'0;Tớ đang định ra ngoài chơi.▼Cậu đi cùng nhé?
+talkfigs/0eng/data/0044#4.92#page:2	Được đấy!$019'-1;
+talkfigs/0eng/data/0044#4.92#page:3	Xin lỗi, lúc khác nhé.$019'-1;
+talkfigs/0eng/data/0044#4.93#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Hay quá! Đi đâu nhỉ?▼Cậu chọn chỗ đi!
+talkfigs/0eng/data/0044#4.94#page:1	$024'327'3;$023'327'171'10'1;$022'327'304;Ừ, tớ hiểu mà.▼Tớ rủ hơi đột ngột.▼Để lần khác nhé!
+talkfigs/0eng/data/0044#4.95#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Tớ muốn hỏi cậu một chuyện...
+talkfigs/0eng/data/0044#4.96#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;$000'4;$507'663;$000'1; dùng để▼niệm $000'4;phép Hoa Bí Ẩn$000'1;,▼đúng không?
+talkfigs/0eng/data/0044#4.97#page:2	Đúng rồi.$019'-1;
+talkfigs/0eng/data/0044#4.97#page:3	Không đúng đâu.$019'-1;
+talkfigs/0eng/data/0044#4.98#page:1	$024'327'3;$023'327'171'10'1;$022'327'304;Đúng như tớ nghĩ.
+talkfigs/0eng/data/0044#4.98#page:2	$024'327'7;$023'327'177'10'1;Thần chú thú vị thật,▼nhưng tớ niệm mãi▼chẳng ra hồn...
+talkfigs/0eng/data/0044#4.98#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Thôi, cảm ơn cậu nhé.▼Gặp lại sau!
+talkfigs/0eng/data/0044#4.99#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Tớ nhầm à?▼Giờ càng rối hơn rồi.
+talkfigs/0eng/data/0044#4.99#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Hay là tớ tạm▼nghỉ học một chút nhỉ...
+talkfigs/0eng/data/0044#5.20#page:1	$024'327'7;$023'327'177'10'1;Sao nào? Tớ không chắc▼cậu có thích không,▼nhưng mong là có!
+talkfigs/0eng/data/0044#5.21#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;$500; đấy à?▼Tớ giúp gì được cho cậu?
+talkfigs/0eng/data/0044#5.21#page:2	$024'327'7;$023'327'177'10'1;Cậu nghe tớ huýt sáo à?▼Xin lỗi nhé.
+talkfigs/0eng/data/0044#5.21#page:3	$024'327'0;$023'327'1'4'0;Tự dưng tớ nổi hứng thôi.
+talkfigs/0eng/data/0044#5.21#page:4	$024'327'7;$023'327'177'10'1;Biết có người nghe,▼tớ thấy ngượng quá...
+talkfigs/0eng/data/0044#5.21#page:5	$024'327'0;$023'327'178'10'1;$022'327'361;Nếu biết giai điệu ấy,▼cậu cũng muốn huýt sáo thôi.▼Muốn tớ dạy không?
+talkfigs/0eng/data/0044#5.22#page:2	Ừ, dạy tớ nhé.$019'-1;
+talkfigs/0eng/data/0044#5.22#page:3	Cảm ơn, nhưng thôi.$018'2;
+talkfigs/0eng/data/0044#5.23#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Tốt! Giờ nghe cho kỹ nhé.
+talkfigs/0eng/data/0044#5.24#page:1	$024'327'4;$023'327'171'10'1;$022'327'383;Tiếc quá. Nếu đổi ý,▼cứ bảo tớ nhé.▼Vui lắm đấy!
+talkfigs/0eng/data/0044#5.25#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Ồ, chào $500;.▼Tớ giúp gì được cho cậu?
+talkfigs/0eng/data/0044#5.25#page:2	$024'327'0;$023'327'1'4'0;Rung lắc ấy hả?▼Tớ niệm thần chú▼sai mất rồi.
+talkfigs/0eng/data/0044#5.25#page:3	$024'327'5;$023'327'170'10'1;$022'327'301;Tớ không chắc, nhưng▼hình như sai ngay▼từ khâu chuẩn bị...
+talkfigs/0eng/data/0044#5.26#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;$000'4;Phép Sét$000'1; phải▼dùng những thứ▼sau đây, đúng không...?
+talkfigs/0eng/data/0044#5.27#page:2	Đúng rồi.$019'-1;
+talkfigs/0eng/data/0044#5.27#page:3	Không đúng đâu.$019'-1;
+talkfigs/0eng/data/0044#5.28#page:1	$024'327'7;$023'327'177'10'1;Ra thế... Vậy thì▼tớ chẳng hiểu mình▼sai ở đâu nữa.
+talkfigs/0eng/data/0044#5.28#page:2	Xin lỗi vì đã làm phiền▼cậu nhé, $500;.
+talkfigs/0eng/data/0044#5.29#page:1	$024'327'7;$023'327'177'10'1;À... Nếu thế thì▼không ra kết quả▼như ý cũng phải thôi.
+talkfigs/0eng/data/0044#5.29#page:2	$024'327'0;$023'327'1'4'0;Có lẽ lần sau tớ nên▼nhờ thầy cô đứng xem.
+talkfigs/0eng/data/0044#5.35#page:2	Á á...!
+talkfigs/0eng/data/0044#5.36#page:1	$024'327'7;$023'327'177'10'1;$500;...? Cậu...▼cậu đến thật rồi.
+talkfigs/0eng/data/0044#5.36#page:2	$024'327'5;$023'327'170'10'1;$022'327'301;Tớ gặp ác mộng,▼giờ chẳng ngủ được.
+talkfigs/0eng/data/0044#5.37#page:2	Cậu mơ thấy gì?$019'-1;
+talkfigs/0eng/data/0044#5.37#page:3	Tớ hiểu rồi.$019'-1;
+talkfigs/0eng/data/0044#5.38#page:1	$024'327'0;$023'327'1'4'0;...Và giấc mơ là thế đấy.
+talkfigs/0eng/data/0044#5.38#page:2	$024'327'7;$023'327'177'10'1;Hừm... Sao tớ lại sợ▼một thứ vô hại thế nhỉ?
+talkfigs/0eng/data/0044#5.38#page:3	$024'327'5;$023'327'170'10'1;$022'327'301;Nghĩ lại thì▼đâu có đáng sợ lắm.
+talkfigs/0eng/data/0044#5.38#page:4	$024'327'7;$023'327'177'10'1;Xin lỗi đã để cậu▼thấy tớ thế này.▼Ngượng thật... Cảm ơn nhé.
+talkfigs/0eng/data/0044#5.39#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Dù sao tớ cũng muốn học,▼đêm nay thức luôn vậy.
+talkfigs/0eng/data/0044#5.41#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Sao thế, $500;?
+talkfigs/0eng/data/0044#5.41#page:2	$024'327'5;$023'327'99'10'2;$022'327'303;Tớ định làm bài,▼nhưng phòng bừa quá nên▼đành dọn trước.
+talkfigs/0eng/data/0044#5.41#page:3	$024'327'5;$023'327'170'10'1;$022'327'301;Dọn mãi chẳng xong.▼Sao mà lắm việc thế nhỉ...

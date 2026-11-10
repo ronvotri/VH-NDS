@@ -1,3 +1,11 @@
+## Checkpoint 097 — 10/11/2026
+
+- +240 trang NPC `0044.001` (120) và `0044.002` (120); tổng **25.175/55.976 (44,97%)**, NPC 22.050/52.608.
+- 234 mẫu EN riêng: 14 mẫu tái dùng, 220 mẫu dịch mới.
+- QA 501 JSONL PASS, không sửa 24.935 bản dịch cũ và 499 JSONL ngoài đợt.
+- ZIP đầy đủ, EN–VI TSV, delta, QA, script; chưa test ROM.
+- Tiếp đợt 098: `0044.003`, `0044.004` (240 trang).
+
 ## Checkpoint 096 — 10/11/2026
 
 - +206 trang NPC `0043.022` (120) và `0043.023` (86); tổng **24.935/55.976 (44,55%)**, NPC 21.810/52.608.
