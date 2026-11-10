@@ -1,3 +1,11 @@
+## Checkpoint 094 — 10/11/2026
+
+- +240 trang NPC `0043.018` và `0043.019`; tổng 24.489/55.976 (43,75%), NPC 21.364/52.608.
+- 239 mẫu thoại EN riêng đều có bản Việt từ checkpoint trước, không có mẫu mới.
+- QA 501 JSONL PASS; giữ nguyên 24.249 bản dịch cũ và 499 tệp ngoài đợt.
+- ZIP đầy đủ, bảng EN–VI, delta, báo cáo QA, script dựng lại; chưa thử ROM.
+- Đợt 095: `0043.020` và `0043.021` (120 trang mỗi tệp).
+
 ## Checkpoint 093 — 10/11/2026
 
 - +240 trang NPC `0043.016` và `0043.017`; tổng 24.249/55.976 (43,32%), NPC 21.124/52.608.
