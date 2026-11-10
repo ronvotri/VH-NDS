@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0044#54.21#page:4	Bảy sắc màu thì khó quá...
+talkfigs/0eng/data/0044#54.21#page:5	Một màu thì tớ▼còn làm được, chứ...
+talkfigs/0eng/data/0044#54.21#page:6	$024'327'0;$023'327'178'10'1;$022'327'361;Phép thuật bảy sắc à...?▼Có phép đó thật sao?$079;
+talkfigs/0eng/data/0044#54.22#page:1	$000'3;Nhân Sư$000'1; dạy cậu▼$000'4;phép Sao Băng$000'1; á?
+talkfigs/0eng/data/0044#54.22#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;Ôi, ghê thật đấy!
+talkfigs/0eng/data/0044#54.22#page:4	Nếu biết giải câu đố▼là được học phép thuật...
+talkfigs/0eng/data/0044#54.22#page:5	tớ đã vắt óc suy nghĩ▼để giành giải trước rồi.$079;
+talkfigs/0eng/data/0044#54.40#page:1	Hôm nay trước $000'5;nhà$000'1;▼có một lời nhắn.
+talkfigs/0eng/data/0044#54.40#page:2	Ghi là "Kho báu▼được chôn dưới đất."
+talkfigs/0eng/data/0044#54.40#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Có phải cứ đào đâu đó▼là tìm thấy kho báu không?
+talkfigs/0eng/data/0044#54.40#page:5	$024'327'0;$023'327'178'10'1;$022'327'361;Hay dùng $000'4;phép Săn Kho Báu$000'1;▼để tìm nhỉ?$079;
+talkfigs/0eng/data/0044#54.41#page:1	Lại có lời nhắn▼trước $000'5;nhà$000'1; nữa.
+talkfigs/0eng/data/0044#54.41#page:2	Lần này ghi: "Hãy đi bộ▼để tìm kho báu."
+talkfigs/0eng/data/0044#54.41#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Tớ cũng đâu định▼bay chổi đi tìm đâu, nhưng...
+talkfigs/0eng/data/0044#54.41#page:5	$024'327'0;$023'327'178'10'1;$022'327'361;Không biết câu ấy▼có ẩn ý gì không...$079;
+talkfigs/0eng/data/0044#54.42#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Chẳng tìm thấy kho báu,▼nhưng cùng mọi người▼giải đố cũng vui ghê.
+talkfigs/0eng/data/0044#54.42#page:3	Giá mà giờ học▼cũng vui như thế nhỉ!
+talkfigs/0eng/data/0044#54.42#page:4	$024'327'5;$023'327'170'10'1;$022'327'301;À... không phải tớ▼ghét học đâu nhé.$079;
+talkfigs/0eng/data/0044#54.60#page:1	Nghe này! Nãy có cái bóng▼khổng lồ bay ngang trời!
+talkfigs/0eng/data/0044#54.60#page:2	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu thấy không, $500;?
+talkfigs/0eng/data/0044#54.60#page:4	Nó hạ xuống đâu đó▼trong $000'5;thị trấn$000'1;.
+talkfigs/0eng/data/0044#54.60#page:5	Tớ nghĩ nó bay vào▼$000'5;hang động$000'1;...
+talkfigs/0eng/data/0044#54.60#page:6	$024'327'6;$023'327'8'10'1;$022'327'382;Biết đâu là phát hiện lớn!▼Cậu tới xem thử đi,▼$500;!$079;
+talkfigs/0eng/data/0044#54.61#page:1	$000'4;Nghe bảo uống▼$000'4;$507'447;$000'1; sẽ▼có nhiều năng lượng lắm.
+talkfigs/0eng/data/0044#54.61#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Không biết vị thế nào...▼Chắc đắng nghét...
+talkfigs/0eng/data/0044#54.61#page:4	Thôi cứ giữ sức khỏe▼để khỏi phải uống...$079;
+talkfigs/0eng/data/0044#54.62#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Cái bóng khổng lồ▼trên trời là $000'3;rồng$000'1; đấy!
+talkfigs/0eng/data/0044#54.62#page:2	Rồng hiếm khi lộ diện,▼tớ bất ngờ hết sức.
+talkfigs/0eng/data/0044#54.62#page:3	$024'327'5;$023'327'175'8'1;$022'327'342;Không ngờ tớ được▼tận mắt thấy rồng!
+talkfigs/0eng/data/0044#54.62#page:5	$024'327'3;$023'327'171'10'1;$022'327'304;Nhưng... ước gì▼được nhìn gần hơn...$079;
+talkfigs/0eng/data/0044#54.80#page:1	Tớ cứ nghĩ về▼sinh vật khả nghi▼gần $000'5;thị trấn$000'1;...
+talkfigs/0eng/data/0044#54.80#page:2	Đầu với thân nó▼bị đảo ngược nhau.
+talkfigs/0eng/data/0044#54.80#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Có phải vì thế▼mà ta chẳng hiểu▼nó nói gì không?$079;
+talkfigs/0eng/data/0044#54.81#page:1	Ở $000'5;trường$000'1; giờ đang▼dạy các câu thần chú.
+talkfigs/0eng/data/0044#54.81#page:3	Tiết tới học▼$000'4;phép Hoa Bí Ẩn$000'1; đấy!
+talkfigs/0eng/data/0044#54.81#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;Phải tập trung nghe▼và học thuộc hết!$079;
+talkfigs/0eng/data/0044#54.82#page:1	Sinh vật kỳ lạ ấy▼đang tìm hoa có thể mọc▼ở quê nhà nó.
+talkfigs/0eng/data/0044#54.82#page:2	Chắc quê nó không có hoa▼nên nó mới đi xa▼đến tận đây tìm.
+talkfigs/0eng/data/0044#54.82#page:4	$024'327'0;$023'327'1'4'0;Hẳn là nơi đó▼buồn tẻ lắm.
+talkfigs/0eng/data/0044#54.82#page:5	$024'327'0;$023'327'178'10'1;$022'327'361;Bông hoa ấy có giúp▼quê nó tươi sáng hơn▼chút nào không nhỉ?$079;
+talkfigs/0eng/data/0044#55.0#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Không được vứt rác▼lung tung, đúng không?
+talkfigs/0eng/data/0044#55.0#page:2	Cậu cũng đồng ý chứ,▼$500;?
+talkfigs/0eng/data/0044#55.0#page:3	$024'327'5;$023'327'170'10'1;$022'327'301;Tốt quá... Ừm...
+talkfigs/0eng/data/0044#55.0#page:5	$024'327'3;$023'327'171'10'1;$022'327'304;À thôi, chẳng có gì...$079;
+talkfigs/0eng/data/0044#55.1#page:1	Lạ thật đấy...
+talkfigs/0eng/data/0044#55.1#page:2	$024'327'0;$023'327'178'10'1;$022'327'361;Đống rác này▼từ đâu ra vậy?
+talkfigs/0eng/data/0044#55.1#page:3	Hẳn ai đó mang chúng▼từ nơi khác tới đây,▼đúng không?
+talkfigs/0eng/data/0044#55.1#page:4	$024'327'5;$023'327'170'10'1;$022'327'301;Dốc hết thùng rác▼trong $000'5;thị trấn$000'1; cũng▼chẳng nhiều thế này.
+talkfigs/0eng/data/0044#55.1#page:5	Chắc do phép thuật rồi.
+talkfigs/0eng/data/0044#55.1#page:7	$024'327'0;$023'327'178'10'1;$022'327'361;Nhưng có phép nào▼làm ra chuyện này sao?$079;
+talkfigs/0eng/data/0044#55.2#page:1	Tớ nghĩ kẻ xả rác▼khắp $000'5;thị trấn$000'1; ấy...
+talkfigs/0eng/data/0044#55.2#page:2	kẻ giống hệt cậu,▼có lẽ đến từ▼thế giới trong gương.
+talkfigs/0eng/data/0044#55.2#page:3	Hóa ra tớ đoán đúng.
+talkfigs/0eng/data/0044#55.2#page:5	$024'327'7;$023'327'177'10'1;Nếu người ấy tốt bụng,▼tớ muốn nghe kể hết▼về thế giới kia...
+talkfigs/0eng/data/0044#55.2#page:6	$024'327'3;$023'327'171'10'1;$022'327'304;nhưng kẻ xảo quyệt thế▼thì tớ chẳng kết bạn đâu.$079;
+talkfigs/0eng/data/0044#55.20#page:1	Hôm nọ đi dạo,▼tớ thấy một cái bóng▼đáng sợ kinh khủng.
+talkfigs/0eng/data/0044#55.20#page:2	$024'327'4;$023'327'171'10'1;$022'327'383;Nó như con quái thú▼khổng lồ, to hơn bọn mình!▼Rợn người luôn!
+talkfigs/0eng/data/0044#55.20#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Tớ thấy ở đâu ấy nhỉ?▼Sợ quá nên quên mất.$079;
+talkfigs/0eng/data/0044#55.21#page:1	Đáng sợ quá,▼$000'3;người sói$000'1; đang lộng hành...
+talkfigs/0eng/data/0044#55.21#page:2	nhưng nghe bảo chỉ cần▼một món đồ bằng bạc...
+talkfigs/0eng/data/0044#55.21#page:3	...là đánh bại được hắn.
+talkfigs/0eng/data/0044#55.21#page:4	Mà tớ chẳng nhớ▼đó là món gì...
+talkfigs/0eng/data/0044#55.21#page:6	Không tin nổi tớ quên▼ngay đoạn quan trọng nhất!
+talkfigs/0eng/data/0044#55.21#page:7	$024'327'4;$023'327'171'10'1;$022'327'383;Ááá! Tớ ngốc quá!$079;
+talkfigs/0eng/data/0044#55.22#page:1	$000'3;George$000'1; đã xin lỗi▼vì làm tớ sợ.
+talkfigs/0eng/data/0044#55.22#page:2	$024'327'0;$023'327'178'10'1;$022'327'361;Vậy $000'3;người sói$000'1; đó▼chính là $000'3;George$000'1; nhỉ?
+talkfigs/0eng/data/0044#55.22#page:3	Dạo này chẳng nghe▼tiếng tru hay thấy▼bóng đáng sợ nào nữa...
+talkfigs/0eng/data/0044#55.22#page:5	$024'327'1;$023'327'173'6'2;$022'327'341;Cuối cùng tớ cũng▼được ngủ ngon rồi.$079;
+talkfigs/0eng/data/0044#55.40#page:1	Tớ thấy tội▼cho $000'3;Thom$000'1; quá...
+talkfigs/0eng/data/0044#55.40#page:2	Tớ xin $000'3;Thần Chết$000'1;▼đừng lấy linh hồn ông ấy...
+talkfigs/0eng/data/0044#55.40#page:3	nhưng ông ta bảo▼phiền phức quá...
+talkfigs/0eng/data/0044#55.40#page:4	Tớ chẳng hiểu nổi...▼Cứ như ông ta không▼nghe tớ nói vậy...
+talkfigs/0eng/data/0044#55.40#page:6	$024'327'4;$023'327'171'10'1;$022'327'383;Như người ở▼thế giới khác ấy.$079;
+talkfigs/0eng/data/0044#55.41#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Cậu biết nhạc soul▼rồi chứ?
+talkfigs/0eng/data/0044#55.41#page:2	Đó là thứ âm nhạc▼dành cho tâm hồn!
+talkfigs/0eng/data/0044#55.41#page:3	Đúng như tên gọi,▼giai điệu ngân vang▼tận trong tâm hồn.
+talkfigs/0eng/data/0044#55.41#page:5	Đời người phải nghe thử▼ít nhất một lần nhé!$079;
+talkfigs/0eng/data/0044#55.42#page:1	Nhạc soul là âm nhạc▼chạm tới tâm hồn.
+talkfigs/0eng/data/0044#55.42#page:2	Người ta nói thế, nhưng...
+talkfigs/0eng/data/0044#55.42#page:3	Tớ chẳng ngờ nó▼còn chạm tới tâm hồn▼$000'3;Thần Chết$000'1;!
+talkfigs/0eng/data/0044#55.42#page:5	$024'327'1;$023'327'173'6'2;$022'327'341;Đúng là khiến tớ▼nhìn đời khác hẳn.$079;
+talkfigs/0eng/data/0044#55.60#page:1	Ai cũng đang bàn▼chuyện $000'3;tượng đá$000'1;▼biến mất ở sảnh.
+talkfigs/0eng/data/0044#55.60#page:2	Nhưng nó chỉ là▼đồ trang trí thôi mà...
+talkfigs/0eng/data/0044#55.60#page:3	Chắc thầy cô đã▼chuyển nó đi đâu đó.
+talkfigs/0eng/data/0044#55.60#page:5	$024'327'0;$023'327'178'10'1;$022'327'361;Tớ chẳng hiểu sao▼ai cũng làm ầm lên...$079;
+talkfigs/0eng/data/0044#55.61#page:1	$000'3;Tượng đá$000'1; vẫn▼chưa được mang về.
+talkfigs/0eng/data/0044#55.61#page:2	Nghe đồn thầy cô▼không hề chuyển nó,▼mà nó tự dưng biến mất.
+talkfigs/0eng/data/0044#55.61#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Nó đi đâu được nhỉ?
+talkfigs/0eng/data/0044#55.61#page:5	Tớ cũng chẳng▼bận tâm lắm, nhưng...
+talkfigs/0eng/data/0044#55.61#page:6	một thứ vẫn luôn▼ở đó bỗng dưng biến mất...
+talkfigs/0eng/data/0044#55.61#page:7	lại khiến tớ buồn▼hơn tưởng tượng...$079;
+talkfigs/0eng/data/0044#55.62#page:1	Chẳng hiểu sao,▼$000'3;tượng đá$000'1; hình như▼đã được trả lại.
+talkfigs/0eng/data/0044#55.62#page:2	Tớ tưởng có hay không▼cũng chẳng quan trọng...
+talkfigs/0eng/data/0044#55.62#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;nhưng thấy nó ở đó,▼tớ lại yên tâm như mọi thứ▼đã về bình thường...
+talkfigs/0eng/data/0044#55.62#page:5	Xem ra chúng ta phải▼biết trân trọng những thứ▼vẫn luôn ở bên mình.$079;
+talkfigs/0eng/data/0044#55.80#page:1	Nghe nói $000'3;Krampus$000'1;▼phân xử ai ngoan, ai hư.
+talkfigs/0eng/data/0044#55.80#page:2	$024'327'0;$023'327'178'10'1;$022'327'361;Nhưng vừa gặp đã biết▼ai ngoan hay hư sao?
+talkfigs/0eng/data/0044#55.80#page:3	Hay hắn luôn nấp đâu đó▼để rình bọn mình?
+talkfigs/0eng/data/0044#55.80#page:5	$024'327'0;$023'327'178'10'1;$022'327'361;Vậy... có phải lúc nào▼cũng phải giữ ý tứ không?$079;
+talkfigs/0eng/data/0044#55.81#page:1	Tốt nhất đừng gây chuyện▼để $000'3;Krampus$000'1; khỏi▼chê bọn mình hư.
+talkfigs/0eng/data/0044#55.81#page:2	Chẳng hạn không dùng▼phép thuật để trêu chọc...
+talkfigs/0eng/data/0044#55.81#page:3	Trẻ ngoan chắc chẳng▼làm mấy trò ấy đâu.
+talkfigs/0eng/data/0044#55.81#page:5	Nhưng lỡ đã làm▼nhiều chuyện xấu thì sao?
+talkfigs/0eng/data/0044#55.81#page:6	$024'327'6;$023'327'8'10'1;$022'327'382;Chắc phải làm thật nhiều▼việc tốt để chuộc lỗi thôi.$079;
+talkfigs/0eng/data/0044#55.82#page:1	Có vẻ ai cũng▼được $000'3;Krampus$000'1; đánh giá rồi.
+talkfigs/0eng/data/0044#55.82#page:3	Chẳng lạ gì...▼Người chịu khó học...
+talkfigs/0eng/data/0044#55.82#page:4	và có nhiều bạn bè▼được xem là ngoan.
+talkfigs/0eng/data/0044#55.82#page:5	Còn ai hay bày trò▼và xả rác thì hư.
+talkfigs/0eng/data/0044#55.82#page:6	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu nghĩ sao, $500;?$079;
+talkfigs/0eng/data/0044#56.0#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Lúc tập luyện,▼đến chào hỏi bình thường▼cũng thấy vui.
+talkfigs/0eng/data/0044#56.0#page:3	$024'327'7;$023'327'177'10'1;Ban đầu tớ chẳng thích,▼nhưng vận động hóa ra▼cũng vui ghê.$079;
+talkfigs/0eng/data/0044#56.1#page:1	$024'327'3;$023'327'171'10'1;$022'327'304;Lên cấp tập luyện▼thì mệt thật đấy.
+talkfigs/0eng/data/0044#56.1#page:2	Tớ cứ chóng mặt▼mà chẳng thấy giỏi hơn...
+talkfigs/0eng/data/0044#56.1#page:4	$024'327'5;$023'327'99'10'2;$022'327'303;Chắc $000'3;Minotaur$000'1; khỏe vậy▼vì tập suốt ngày.$079;
+talkfigs/0eng/data/0044#56.2#page:1	$024'327'3;$023'327'171'10'1;$022'327'304;Tay chân tớ▼rã rời hết rồi.
+talkfigs/0eng/data/0044#56.2#page:2	$024'327'7;$023'327'177'10'1;Dù sao cũng vui.▼Có dịp, tớ sẽ tập lại.
+talkfigs/0eng/data/0044#56.2#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Lần sau thi với tớ▼nhé, $500;?$079;
+talkfigs/0eng/data/0044#56.20#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Dạo này tiếng chuông▼trường nghe lạ nhỉ?
+talkfigs/0eng/data/0044#56.20#page:2	$024'327'0;$023'327'1'4'0;Chắc có chuyện gì▼ở $000'5;gác mái$000'1; rồi.
+talkfigs/0eng/data/0044#56.20#page:4	$024'327'0;$023'327'1'4'0;Chẳng còn cách giải thích▼nào khác đâu.$079;

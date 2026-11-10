@@ -1,3 +1,12 @@
+## Checkpoint 105 — 11/11/2026
+
+- +240 trang NPC `0044.017` và `0044.018`, tổng 27,095/55.976 (48.40%).
+- 220 mẫu thoại EN: 20 tái sử dụng, 200 biên dịch mới.
+- Nội dung Nessie, Ông Kẹo, Nhà Ma, Nhân Sư, rồng, người sói, Thần Chết, Krampus và bí ẩn trường học.
+- QA 501 JSONL PASS; giữ 26.855 bản dịch cũ và 499 tệp JSONL ngoài đợt.
+- ZIP chứa EN–VI, delta, báo cáo QA, script dựng; chưa kiểm thử ROM NDS.
+- Đợt 106: `0044.019` và `0044.020` (240 trang).
+
 ## Checkpoint 104 — 10/11/2026
 
 - +240 trang NPC `0044.015` và `0044.016`, tổng 26,855/55.976 (47.98%).
