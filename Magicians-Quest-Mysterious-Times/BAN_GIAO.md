@@ -1,3 +1,9 @@
+## Checkpoint 101 — 10/11/2026
+
+- +240 thoại NPC `0044.009`, `0044.010` (120 mỗi tệp); tiến độ 26.135/55.976 (46,69%).
+- 26 mẫu dịch tay, 34 mẫu tái sử dụng. Chuyện trường lớp, tin đồn, tình bạn và tình yêu.
+- QA 501 JSONL PASS, bảo toàn 25.895 câu đã dịch. Chưa test ROM NDS.
+
 ## Checkpoint 100 — 10/11/2026
 
 - +240 trang NPC `0044.007` và `0044.008` (mỗi tệp 120), tổng 25.895/55.976 (46,26%), NPC 22.770/52.608.
