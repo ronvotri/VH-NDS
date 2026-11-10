@@ -1,8 +1,18 @@
+## Checkpoint 102 — 10/11/2026
+
+- +240 trang NPC `0044.011` và `0044.012`, tổng 26.375/55.976 (47.12%).
+- 46 mẫu thoại EN: 35 tái sử dụng, 11 biên dịch mới, gồm một biến thể khoảng trắng.
+- Chủ đề trường học, chuyện tình cảm, tin đồn và lắng nghe tâm sự.
+- 501 JSONL QA PASS; giữ nguyên 26.135 bản dịch cũ và 499 JSONL ngoài đợt.
+- ZIP chứa EN–VI, delta, báo cáo QA, script dựng; chưa kiểm thử ROM NDS.
+- Đợt 103: `0044.013` và `0044.014` (240 trang).
+
 ## Checkpoint 101 — 10/11/2026
 
-- +240 thoại NPC `0044.009`, `0044.010` (120 mỗi tệp); tiến độ 26.135/55.976 (46,69%).
-- 26 mẫu dịch tay, 34 mẫu tái sử dụng. Chuyện trường lớp, tin đồn, tình bạn và tình yêu.
-- QA 501 JSONL PASS, bảo toàn 25.895 câu đã dịch. Chưa test ROM NDS.
+- +240 trang NPC `0044.009` và `0044.010` (mỗi tệp 120), tổng 26.135/55.976 (46,69%), NPC 23.010/52.608.
+- 60 mẫu thoại EN riêng, 34 tái sử dụng, 26 dịch mới. Nội dung: tin đồn, tình bạn, chuyện yêu đương, ghen tuông và lời khuyên.
+- QA 501 JSONL PASS; bảo toàn 25.895 câu trước và 499 JSONL không đổi byte.
+- ZIP đầy đủ, bảng EN-VI, delta, QA, script dựng lại; chưa thử hiển thị trong ROM NDS.
 
 ## Checkpoint 100 — 10/11/2026
 
@@ -461,4 +471,3 @@ Kiểm thử ở nhánh **tiếng Anh**. Dùng New Game cho đoạn mở đầu,
 ## Lệnh giao cho phiên cloud
 
 > Đọc BAN_GIAO.md và translation/INDEX.tsv. Bắt đầu từ 00-mo-dau và 01-he-thong. Chỉ sửa trường vi trong các JSONL được giao, giữ mã điều khiển và ID, kiểm tra giới hạn byte. Dịch từng lô để dễ kiểm tra và tái dùng câu trùng đã duyệt khi ngữ cảnh phù hợp. Sau khi xong văn bản, dùng audit/graphics.tsv để rà phần chữ nằm trong ảnh. Dựng ROM từ bản USA sạch bằng mqhandoff.py và liệt kê các màn cần test.
-
