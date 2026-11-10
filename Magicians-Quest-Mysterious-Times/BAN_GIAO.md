@@ -1,3 +1,12 @@
+## Checkpoint 106 — 11/11/2026
+
+- +436 trang NPC, gom cả 4 tệp `0044.019` đến `0044.022`, hoàn tất cụm 0044.
+- Tổng 27,531/55.976 (49.18%), 432 mẫu dịch tay, 4 mẫu tái dùng.
+- Hội thoại học đường, yêu đương, ma quái, sinh vật huyền bí, phép thuật, câu đố, âm nhạc.
+- QA 501 JSONL PASS; bảo toàn 27.095 bản dịch cũ, 497 JSONL ngoài đợt nguyên byte.
+- ZIP chứa bảng EN–VI, delta, QA, script dựng; chưa thử hiển thị trên ROM thực tế.
+- Đợt 107 sẽ tiếp cụm `0045`.
+
 ## Checkpoint 105 — 11/11/2026
 
 - +240 trang NPC `0044.017` và `0044.018`, tổng 27,095/55.976 (48.40%).

@@ -1,0 +1,76 @@
+talkfigs/0eng/data/0044#62.61#page:1	$024'327'0;$023'327'1'4'0;Nghe nói $000'3;Thuyền trưởng Dot$000'1; vừa▼tìm thấy kho báu cực lớn.
+talkfigs/0eng/data/0044#62.61#page:2	$024'327'0;$023'327'178'10'1;$022'327'361;Nhưng không có tàu thì ông ấy▼tìm kiểu gì?
+talkfigs/0eng/data/0044#62.61#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Giữa $000'5;thị trấn$000'1; làm gì có kho▼báu nằm sẵn...$079;
+talkfigs/0eng/data/0044#62.62#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu thắng $000'3;Thuyền trưởng Dot$000'1;▼khi đấu tay đôi, thật à?
+talkfigs/0eng/data/0044#62.62#page:2	$024'327'5;$023'327'175'8'1;$022'327'342;Nghe bảo ông ấy siêu mạnh. Cậu▼đỉnh thật, $500;!
+talkfigs/0eng/data/0044#62.62#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Chắc tớ cũng phải rèn sức khỏe▼phòng ngày gặp ông ấy.$079;
+talkfigs/0eng/data/0044#62.80#page:1	Này $500;, $000'3;Hiệu trưởng Sol$000'1; đang▼tìm cậu.
+talkfigs/0eng/data/0044#62.80#page:2	$024'327'5;$023'327'170'10'1;$022'327'301;Trông thầy cau có lắm. Lạ▼thật...
+talkfigs/0eng/data/0044#62.80#page:4	Cậu nên tới gặp thầy ngay đi,▼nhỉ?$079;
+talkfigs/0eng/data/0044#62.81#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu cũng giúp tạo $000'3;golem$000'1;, phải▼không, $500;?
+talkfigs/0eng/data/0044#62.81#page:2	Cậu nhận phần nào, $500;? À,▼cái đầu.
+talkfigs/0eng/data/0044#62.81#page:3	$024'327'0;$023'327'1'4'0;Tớ nhận phần chân.
+talkfigs/0eng/data/0044#62.81#page:5	$024'327'1;$023'327'173'6'2;$022'327'341;Chân phải chắc lắm mới đỡ nổi▼cả thân, nhỉ?$079;
+talkfigs/0eng/data/0044#62.82#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;$000'3;Golem$000'1; cuối cùng cũng khá ổn.
+talkfigs/0eng/data/0044#62.82#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Lời khuyên của tớ hữu ích▼thật, đúng không?
+talkfigs/0eng/data/0044#62.82#page:4	$024'327'5;$023'327'175'8'1;$022'327'342;Tớ nghĩ $000'3;Hiệu trưởng Sol$000'1; biết▼tớ sẽ chỉ dẫn cậu...
+talkfigs/0eng/data/0044#62.82#page:5	Nên thầy mới giao cậu nhặt đá,▼chứ không phải tớ.
+talkfigs/0eng/data/0044#62.82#page:6	$024'327'6;$023'327'8'10'1;$022'327'382;Ừ, chắc chắn là thế rồi.$079;
+talkfigs/0eng/data/0044#63.0#page:1	Dạo này có $000'3;sinh vật xanh kỳ lạ$000'1;▼xuất hiện gần sông.
+talkfigs/0eng/data/0044#63.0#page:2	Tớ chưa tận mắt thấy nó.
+talkfigs/0eng/data/0044#63.0#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu không thấy đáng sợ sao?
+talkfigs/0eng/data/0044#63.0#page:5	Hay ai đó đang giở trò? Hoặc▼là...$079;
+talkfigs/0eng/data/0044#63.1#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu muốn đến $000'5;trường$000'1; mà không▼ai nhìn thấy à?
+talkfigs/0eng/data/0044#63.1#page:2	Hay ru ngủ cả thị trấn đi?
+talkfigs/0eng/data/0044#63.1#page:3	$024'327'2;$023'327'28'8'4;$022'327'381;À, nhưng làm thế thì gây phiền▼toái lớn.
+talkfigs/0eng/data/0044#63.1#page:5	$024'327'5;$023'327'170'10'1;$022'327'301;Thôi đừng làm vậy nhé, $500;?$079;
+talkfigs/0eng/data/0044#63.2#page:1	Tớ thấy $000'3;sinh vật xanh$000'1; đi dạo▼ban đêm!
+talkfigs/0eng/data/0044#63.2#page:2	Tớ theo nó đến gần sông, nhưng▼khi bước vào...
+talkfigs/0eng/data/0044#63.2#page:3	Nó biến mất đâu đó gần $000'5;ao$000'1;.
+talkfigs/0eng/data/0044#63.2#page:5	$024'327'0;$023'327'178'10'1;$022'327'361;Ở đấy chẳng có chỗ trốn. Nó đi▼đâu được nhỉ?$079;
+talkfigs/0eng/data/0044#63.20#page:1	$024'327'0;$023'327'1'4'0;Hình như chưa ai giải được câu▼đố của ông chú râu ria ấy.
+talkfigs/0eng/data/0044#63.20#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;Thi xem ai giải ra trước nhé?
+talkfigs/0eng/data/0044#63.20#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nhất định thắng!$079;
+talkfigs/0eng/data/0044#63.21#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Đây là câu đố mẹo đấy.
+talkfigs/0eng/data/0044#63.21#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Cứ bình tĩnh nghĩ từng phần là▼giải được.
+talkfigs/0eng/data/0044#63.21#page:3	$024'327'0;$023'327'1'4'0;Có hai người chẳng bao giờ nói▼thật...
+talkfigs/0eng/data/0044#63.21#page:5	$024'327'5;$023'327'170'10'1;$022'327'301;Aaa! Tớ cảm giác sắp nghĩ ra▼rồi...$079;
+talkfigs/0eng/data/0044#63.22#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Câu đố làm tớ đau đầu, nhưng▼cuối cùng tớ giải được.
+talkfigs/0eng/data/0044#63.22#page:2	$024'327'5;$023'327'175'8'2;$022'327'345;Mà khi đi báo đáp án, ông râu▼ria lại chẳng ở đó...
+talkfigs/0eng/data/0044#63.22#page:4	$024'327'3;$023'327'171'10'1;$022'327'304;Có vẻ cậu nhanh hơn tớ rồi,▼$500;.
+talkfigs/0eng/data/0044#63.22#page:5	$024'327'7;$023'327'177'10'1;Ván này tớ thua vậy...$079;
+talkfigs/0eng/data/0044#65.0#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Có cậu bên cạnh, nghiên cứu▼của tớ tiến triển nhanh lắm,▼$500;.
+talkfigs/0eng/data/0044#65.0#page:2	Tớ đang nghiên cứu gì ư? Chính▼cậu đấy, $500;!
+talkfigs/0eng/data/0044#65.0#page:3	Tớ muốn hiểu mọi thứ về cậu...
+talkfigs/0eng/data/0044#65.0#page:4	$024'327'1;$023'327'1'4'1;$022'327'321;Từ đỉnh đầu đến tận ngón chân!
+talkfigs/0eng/data/0044#65.4#page:1	Khi yêu, não tiết ra một chất▼hóa học đặc biệt.
+talkfigs/0eng/data/0044#65.4#page:2	$024'327'7;$023'327'177'10'1;$022'327'400;Hình như gọi là▼beta-endorphin... Hay▼pheromone nhỉ?
+talkfigs/0eng/data/0044#65.4#page:3	$024'327'1;$023'327'1'4'1;$022'327'321;Dù là chất gì thì nó cũng▼khiến ta vui!
+talkfigs/0eng/data/0044#65.8#page:1	Vì bọn mình đang yêu nhau...
+talkfigs/0eng/data/0044#65.8#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;Phải làm những điều mà các cặp▼đôi hay làm.
+talkfigs/0eng/data/0044#65.8#page:3	$024'327'1;$023'327'1'4'1;$022'327'321;Ví dụ như cùng học, cùng đọc▼sách...
+talkfigs/0eng/data/0044#65.8#page:4	$024'327'7;$023'327'177'10'1;$022'327'400;Ơ... Cặp đôi vẫn làm mấy việc▼đó chứ nhỉ?
+talkfigs/0eng/data/0044#65.12#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Cậu biết không, tớ thấy cậu▼tuyệt lắm.
+talkfigs/0eng/data/0044#65.12#page:2	$024'327'7;$023'327'177'10'1;$022'327'400;Ừm... Tớ định nói gì thật▼ngầu, mà chỉ nghĩ ra được vậy.
+talkfigs/0eng/data/0044#65.12#page:3	Chắc tớ cần học thêm văn hóa▼đại chúng...
+talkfigs/0eng/data/0044#65.16#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Bọn mình hợp nhau thật đấy.
+talkfigs/0eng/data/0044#65.16#page:2	Nếu cùng nghiên cứu nghiêm▼túc, chắc sẽ thành công lớn.
+talkfigs/0eng/data/0044#65.16#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Và đó là vì bọn mình là bạn▼thân nhất!
+talkfigs/0eng/data/0044#65.20#page:1	$000'3;Piquard$000'1; bảo tớ phải trân trọng▼bạn bè.
+talkfigs/0eng/data/0044#65.20#page:3	$024'327'7;$023'327'177'10'1;Vì bạn tốt thật sự khó kiếm▼lắm.
+talkfigs/0eng/data/0044#65.24#page:1	Cậu biết bọn mình giống ai▼không, $500;...?
+talkfigs/0eng/data/0044#65.24#page:2	Gilgamesh với Enkidu, Arthur▼với Lancelot, Robin Hood với▼Little John...
+talkfigs/0eng/data/0044#65.24#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Đấy mới đúng là bạn tốt!
+talkfigs/0eng/data/0044#65.28#page:1	Chẳng gì bằng có bạn thân!
+talkfigs/0eng/data/0044#65.28#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;Chỉ cần họ ở bên là tớ thấy▼yên lòng.
+talkfigs/0eng/data/0044#65.28#page:3	$024'327'7;$023'327'177'10'1;Mong cậu cũng nghĩ vậy, $500;.
+talkfigs/0eng/data/0044#67.0#page:1	$024'327'5;$023'327'175'8'2;$022'327'345;Ối! Muộn thế này rồi à?!
+talkfigs/0eng/data/0044#67.0#page:2	Mình nên về nhà thôi, cậu thấy▼sao?$019'6701;
+talkfigs/0eng/data/0044#67.1#page:2	Chưa mà!$019'6702;
+talkfigs/0eng/data/0044#67.1#page:3	Được! Tạm biệt nhé!$019'6703;
+talkfigs/0eng/data/0044#67.2#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Nếu cậu thật lòng muốn thế thì▼tớ rất vui được chơi tiếp.$074;
+talkfigs/0eng/data/0044#67.2#page:2	Thật ra tớ cũng muốn ở lại▼chơi thêm!
+talkfigs/0eng/data/0044#67.3#page:1	Hôm nay vui thật đấy!
+talkfigs/0eng/data/0044#67.3#page:2	Hôm nào lại chơi nhé! Hẹn gặp!
+talkfigs/0eng/data/0044#67.4#page:1	Này $500;! Tớ vừa nhớ ra chuyện▼quan trọng phải làm!
+talkfigs/0eng/data/0044#67.4#page:2	Tớ phải chạy đây.$023'328'104'10; Hẹn hôm khác▼nhé!
