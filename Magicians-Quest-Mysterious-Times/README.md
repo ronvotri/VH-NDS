@@ -1,3 +1,5 @@
+**Checkpoint mới nhất: 107 (11/11/2026) — 28,491/55.976 (50.90%).** +960 NPC (`0045.001`–`0045.008`), 341 mẫu dịch mới và 104 mẫu tái sử dụng, QA 501 JSONL PASS. Tiếp `0045.009` trở đi. Xem `CHECKPOINT-2026-11-11-DOT-107.md`, `QA-107.md`.
+
 **Checkpoint mới nhất: 106 (11/11/2026) — 27,531/55.976 (49.18%).** +436 thoại NPC (bốn tệp `0044.019`–`0044.022`); 432 mẫu dịch mới, 4 tái sử dụng; QA 501 JSONL PASS. Hoàn thành cụm `0044`, tiếp `0045.001` trở đi. Xem `CHECKPOINT-2026-11-11-DOT-106.md`, `QA-106.md`.
 
 **Checkpoint mới nhất: 105 (11/11/2026) — 27,095/55.976 (48.40%).** +240 thoại NPC (`0044.017`, `0044.018`); 200 mẫu mới, 20 tái sử dụng; QA 501 JSONL PASS. Tiếp `0044.019`, `0044.020`. Xem `CHECKPOINT-2026-11-11-DOT-105.md`, `QA-105.md`.

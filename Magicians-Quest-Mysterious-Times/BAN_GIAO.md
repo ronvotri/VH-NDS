@@ -1,3 +1,11 @@
+## Checkpoint 107 — 11/11/2026
+
+- Gom 8 tệp `0045.001`–`0045.008`, +960 trang thoại NPC. Tổng 28,491/55.976 (50.90%).
+- Dịch thủ công 341 mẫu riêng, tái dùng 104 mẫu có sẵn. Nội dung học đường, bạn bè, ẩm thực, sinh nhật, chuyển trường, phép thuật và tin đồn.
+- QA 501 JSONL PASS, giữ nguyên 27.531 bản cũ, 493 JSONL ngoài đợt bất biến.
+- ZIP chứa bảng EN–VI, delta, QA, script dựng lại; chưa thử hiển thị trực tiếp trong ROM NDS.
+- Đợt 108: tiếp `0045.009`–`0045.014` (nguồn tiếng Anh đã chuẩn bị trong ZIP).
+
 ## Checkpoint 106 — 11/11/2026
 
 - +436 trang NPC, gom cả 4 tệp `0044.019` đến `0044.022`, hoàn tất cụm 0044.

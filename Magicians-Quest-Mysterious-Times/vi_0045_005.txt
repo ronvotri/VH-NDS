@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0045#16.90#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Hả? Cậu muốn nói chuyện à?$085;$019'1691;
+talkfigs/0eng/data/0045#16.91#page:2	Kể tớ nghe chuyện đi.$019'1695;
+talkfigs/0eng/data/0045#16.91#page:3	Tớ có quà cho cậu này.$019'1692;
+talkfigs/0eng/data/0045#16.91#page:4	Mình đến trường nhé.$019'1693;
+talkfigs/0eng/data/0045#16.91#page:5	Thôi, không có gì.$019'1694;
+talkfigs/0eng/data/0045#16.92#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Cậu tặng tớ thứ gì sao? Có đùa▼không đấy?$079;$073'705'1'1;
+talkfigs/0eng/data/0045#16.93#page:1	Ừm...$079;$073'010'1'1;
+talkfigs/0eng/data/0045#16.94#page:1	$024'327'3;$023'327'171'10'1;$022'327'304;Tiếc ghê. Nhưng cậu biết tìm▼tớ ở đâu rồi đấy!$079;
+talkfigs/0eng/data/0045#22.0#page:1	$024'327'7;$023'327'177'10'1;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.0#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0045#22.0#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Hừm, thấy họ tình tứ làm tớ▼hơi ghen...
+talkfigs/0eng/data/0045#22.0#page:4	nhưng nhìn họ xong tớ lại đói.
+talkfigs/0eng/data/0045#22.1#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.1#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0045#22.1#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Trông vui thật đấy...
+talkfigs/0eng/data/0045#22.1#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;nhưng chắc vui nhất là lúc▼nướng cá!
+talkfigs/0eng/data/0045#22.2#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.2#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0045#22.2#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Trông vui thật đấy...
+talkfigs/0eng/data/0045#22.2#page:4	nhưng nhìn họ xong tớ lại đói.
+talkfigs/0eng/data/0045#22.3#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.3#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0045#22.3#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Không biết họ cùng niệm thần▼chú gì nhỉ...
+talkfigs/0eng/data/0045#22.3#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Liệu có thần chú tạo ra đồ ăn▼không ta?
+talkfigs/0eng/data/0045#22.4#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.4#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0045#22.4#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Hừm, thấy họ tình tứ làm tớ▼hơi ghen...
+talkfigs/0eng/data/0045#22.4#page:4	nhưng nhìn họ xong tớ lại đói.
+talkfigs/0eng/data/0045#22.5#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.5#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0045#22.5#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Thường tớ thích thư giãn một▼mình...
+talkfigs/0eng/data/0045#22.5#page:4	nhưng đôi lúc có bạn cũng vui.▼Trừ khi phải chia đồ ăn!
+talkfigs/0eng/data/0045#22.6#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.6#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0045#22.6#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Thường tớ thích thư giãn một▼mình...
+talkfigs/0eng/data/0045#22.6#page:4	nhưng đôi lúc có bạn cũng vui.▼Trừ khi phải chia đồ ăn!
+talkfigs/0eng/data/0045#22.8#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.8#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0045#22.8#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Nói nhiều thế họ không đói▼bụng à?
+talkfigs/0eng/data/0045#22.9#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.9#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0045#22.9#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Nói nhiều thế họ không đói▼bụng à?
+talkfigs/0eng/data/0045#22.11#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.11#page:2	$530'0; đang▼$532; $530'1;▼$531;.
+talkfigs/0eng/data/0045#22.11#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Không biết có món gì ngon▼không... Ưm...
+talkfigs/0eng/data/0045#22.12#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.12#page:2	$530'0; đang▼$532; $530'1;▼$531;.
+talkfigs/0eng/data/0045#22.12#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Trông họ vui thật. Mong họ đã▼chuẩn bị một bữa thật to!
+talkfigs/0eng/data/0045#22.13#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.13#page:2	$530'0; đang $532;▼$530'1;▼$531;.
+talkfigs/0eng/data/0045#22.13#page:3	$024'327'7;$023'327'177'10'1;Không biết chuyện gì đã xảy▼ra. Buồn ghê. Mong họ vẫn ăn▼ngon.
+talkfigs/0eng/data/0045#22.19#page:1	$024'327'7;$023'327'177'10'1;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.19#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0045#22.19#page:3	$024'327'7;$023'327'177'10'1;Hừm, tớ hơi ghen tị...
+talkfigs/0eng/data/0045#22.19#page:4	nhưng nhìn họ xong tớ lại đói.
+talkfigs/0eng/data/0045#22.20#page:1	$024'327'7;$023'327'177'10'1;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.20#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0045#22.20#page:3	$024'327'7;$023'327'177'10'1;Trông vui thật đấy...
+talkfigs/0eng/data/0045#22.20#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;nhưng chắc vui nhất là lúc▼nướng cá!
+talkfigs/0eng/data/0045#22.21#page:1	$024'327'7;$023'327'177'10'1;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.21#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0045#22.21#page:3	$024'327'7;$023'327'177'10'1;Trông vui thật đấy...
+talkfigs/0eng/data/0045#22.21#page:4	nhưng nhìn họ xong tớ lại đói.
+talkfigs/0eng/data/0045#22.22#page:1	$024'327'7;$023'327'177'10'1;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.22#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0045#22.22#page:3	$024'327'7;$023'327'177'10'1;Không biết họ cùng niệm thần▼chú gì nhỉ...
+talkfigs/0eng/data/0045#22.22#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Liệu có thần chú tạo ra đồ ăn▼không ta?
+talkfigs/0eng/data/0045#22.23#page:1	$024'327'7;$023'327'177'10'1;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.23#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0045#22.23#page:3	$024'327'7;$023'327'177'10'1;Không biết họ cùng luyện phép▼gì.
+talkfigs/0eng/data/0045#22.23#page:4	Tớ hơi ghen... và hơi đói▼nữa...
+talkfigs/0eng/data/0045#22.24#page:1	$024'327'7;$023'327'177'10'1;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.24#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0045#22.24#page:3	$024'327'7;$023'327'177'10'1;Thường tớ thích thư giãn một▼mình...
+talkfigs/0eng/data/0045#22.24#page:4	nhưng đôi lúc có bạn cũng vui.▼Trừ khi phải chia đồ ăn!
+talkfigs/0eng/data/0045#22.25#page:1	$024'327'7;$023'327'177'10'1;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.25#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0045#22.25#page:3	$024'327'7;$023'327'177'10'1;Thường tớ thích thư giãn một▼mình...
+talkfigs/0eng/data/0045#22.25#page:4	nhưng đôi lúc có bạn cũng vui.▼Trừ khi phải chia đồ ăn!
+talkfigs/0eng/data/0045#22.27#page:1	$024'327'7;$023'327'177'10'1;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.27#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0045#22.27#page:3	$024'327'7;$023'327'177'10'1;Nói nhiều thế họ không đói▼bụng à?
+talkfigs/0eng/data/0045#22.28#page:1	$024'327'7;$023'327'177'10'1;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.28#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0045#22.28#page:3	$024'327'7;$023'327'177'10'1;Nói nhiều thế họ không đói▼bụng à?
+talkfigs/0eng/data/0045#22.29#page:1	$024'327'7;$023'327'177'10'1;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.29#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0045#22.29#page:3	$024'327'7;$023'327'177'10'1;Tớ thích nghỉ ngơi hơn. Nhưng▼thi đấu cũng khiến tớ đói▼ngấu!
+talkfigs/0eng/data/0045#22.34#page:1	$024'327'7;$023'327'177'10'1;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.34#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0045#22.34#page:3	$024'327'7;$023'327'177'10'1;Tớ cứ hy vọng họ rủ mình▼chơi...
+talkfigs/0eng/data/0045#22.35#page:1	$024'327'7;$023'327'177'10'1;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.35#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0045#22.35#page:3	$024'327'7;$023'327'177'10'1;Trông vui thật đấy...
+talkfigs/0eng/data/0045#22.35#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;nhưng chắc vui nhất là lúc▼nướng cá!
+talkfigs/0eng/data/0045#22.36#page:1	$024'327'7;$023'327'177'10'1;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.36#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0045#22.36#page:3	$024'327'7;$023'327'177'10'1;Trông vui thật đấy...
+talkfigs/0eng/data/0045#22.36#page:4	nhưng nhìn họ xong tớ lại đói.
+talkfigs/0eng/data/0045#22.37#page:1	$024'327'7;$023'327'177'10'1;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.37#page:2	$530'0; mê tít▼$532;▼$531;.
+talkfigs/0eng/data/0045#22.37#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu đoán $530'0; đã đọc thần chú gì?
+talkfigs/0eng/data/0045#22.37#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;Mong là phép tạo đồ ăn vặt!
+talkfigs/0eng/data/0045#22.38#page:1	$024'327'7;$023'327'177'10'1;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.38#page:2	$530'0; mê tít▼$532;▼$531;.
+talkfigs/0eng/data/0045#22.38#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu nghĩ $530'0; đã dùng phép gì?
+talkfigs/0eng/data/0045#22.38#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;Mong là phép tạo đồ ăn vặt!
+talkfigs/0eng/data/0045#22.39#page:1	$024'327'7;$023'327'177'10'1;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.39#page:2	$530'0; đang▼$532; một mình▼$531;.
+talkfigs/0eng/data/0045#22.39#page:3	$024'327'7;$023'327'177'10'1;Tớ cũng hay mơ màng. Hay là...▼đầu óc quay cuồng nhỉ?
+talkfigs/0eng/data/0045#22.40#page:1	$024'327'7;$023'327'177'10'1;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.40#page:2	$530'0; mê tít▼$532;▼$531;.
+talkfigs/0eng/data/0045#22.40#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Không biết chuyện gì... Không▼lẽ dưới đó chôn đồ ăn?
+talkfigs/0eng/data/0045#22.41#page:1	$024'327'7;$023'327'177'10'1;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.41#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0045#22.41#page:3	$024'327'7;$023'327'177'10'1;Trông thú vị thật.
+talkfigs/0eng/data/0045#22.41#page:4	Tớ cũng muốn giỏi như thế.
+talkfigs/0eng/data/0045#22.42#page:1	$024'327'7;$023'327'177'10'1;Này, cậu không đoán nổi tớ vừa▼thấy gì đâu!
+talkfigs/0eng/data/0045#22.42#page:2	$530'0; đang thong thả▼$532;▼$531;.
+talkfigs/0eng/data/0045#22.42#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Chắc hoa sẽ đẹp lắm. Liệu có▼ra quả không ta?

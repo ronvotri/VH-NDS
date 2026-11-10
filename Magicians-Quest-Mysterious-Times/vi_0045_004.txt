@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0045#15.98#page:1	$024'327'7;$023'327'177'10'1;Không biết lớp ngoại khóa có▼dạy về đồ ăn vặt không nhỉ...
+talkfigs/0eng/data/0045#15.98#page:2	$500;, cậu biết gì về lớp đó▼không?$079;
+talkfigs/0eng/data/0045#15.99#page:1	$024'327'7;$023'327'177'10'1;Không biết lớp ngoại khóa có▼dạy về đồ ăn vặt không nhỉ...
+talkfigs/0eng/data/0045#15.99#page:2	$500;, cậu biết gì về lớp đó▼không?$079;
+talkfigs/0eng/data/0045#16.0#page:1	$024'327'7;$023'327'177'10'1;Cuối cùng lớp ngoại khóa cũng▼xong. Tớ đói lả rồi.
+talkfigs/0eng/data/0045#16.1#page:1	$024'327'7;$023'327'177'10'1;Cuối cùng lớp ngoại khóa cũng▼xong. Tớ đói lả rồi.
+talkfigs/0eng/data/0045#16.2#page:1	$024'327'7;$023'327'177'10'1;Cuối cùng lớp ngoại khóa cũng▼xong. Tớ đói lả rồi.
+talkfigs/0eng/data/0045#16.3#page:1	$024'327'7;$023'327'177'10'1;Cuối cùng lớp ngoại khóa cũng▼xong. Tớ đói lả rồi.
+talkfigs/0eng/data/0045#16.4#page:1	$024'327'7;$023'327'177'10'1;Cuối cùng lớp ngoại khóa cũng▼xong. Tớ đói lả rồi.
+talkfigs/0eng/data/0045#16.5#page:1	$024'327'7;$023'327'177'10'1;Cuối cùng lớp ngoại khóa cũng▼xong. Tớ đói lả rồi.
+talkfigs/0eng/data/0045#16.6#page:1	$024'327'7;$023'327'177'10'1;Cuối cùng lớp ngoại khóa cũng▼xong. Tớ đói lả rồi.
+talkfigs/0eng/data/0045#16.7#page:1	$024'327'7;$023'327'177'10'1;Cuối cùng lớp ngoại khóa cũng▼xong. Tớ đói lả rồi.
+talkfigs/0eng/data/0045#16.8#page:1	$024'327'7;$023'327'177'10'1;Cuối cùng lớp ngoại khóa cũng▼xong. Tớ đói lả rồi.
+talkfigs/0eng/data/0045#16.9#page:1	$024'327'7;$023'327'177'10'1;Cuối cùng lớp ngoại khóa cũng▼xong. Tớ đói lả rồi.
+talkfigs/0eng/data/0045#16.20#page:1	Tớ thật lòng muốn chúng ta▼luôn là bạn tốt, nhưng...
+talkfigs/0eng/data/0045#16.20#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Sẽ không công bằng với người▼khác nếu tớ chỉ chơi cùng cậu.
+talkfigs/0eng/data/0045#16.20#page:3	$024'327'7;$023'327'177'10'1;Với lại no quá, tớ chẳng nghĩ▼nổi. Tạm nghỉ nhé.$079;$073'702'1;
+talkfigs/0eng/data/0045#16.21#page:1	Tớ thật lòng muốn chúng ta▼luôn là bạn tốt, nhưng...
+talkfigs/0eng/data/0045#16.21#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Sẽ không công bằng với người▼khác nếu tớ chỉ chơi cùng cậu.
+talkfigs/0eng/data/0045#16.21#page:3	$024'327'7;$023'327'177'10'1;Với lại no quá, tớ chẳng nghĩ▼nổi. Tạm nghỉ nhé.$079;$073'702'1;
+talkfigs/0eng/data/0045#16.22#page:1	Tớ thật lòng muốn chúng ta▼luôn là bạn tốt, nhưng...
+talkfigs/0eng/data/0045#16.22#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Sẽ không công bằng với người▼khác nếu tớ chỉ chơi cùng cậu.
+talkfigs/0eng/data/0045#16.22#page:3	$024'327'7;$023'327'177'10'1;Với lại no quá, tớ chẳng nghĩ▼nổi. Tạm nghỉ nhé.$079;$073'702'1;
+talkfigs/0eng/data/0045#16.23#page:1	Tớ thật lòng muốn chúng ta▼luôn là bạn tốt, nhưng...
+talkfigs/0eng/data/0045#16.23#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Sẽ không công bằng với người▼khác nếu tớ chỉ chơi cùng cậu.
+talkfigs/0eng/data/0045#16.23#page:3	$024'327'7;$023'327'177'10'1;Với lại no quá, tớ chẳng nghĩ▼nổi. Tạm nghỉ nhé.$079;$073'702'1;
+talkfigs/0eng/data/0045#16.24#page:1	Tớ thật lòng muốn chúng ta▼luôn là bạn tốt, nhưng...
+talkfigs/0eng/data/0045#16.24#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Sẽ không công bằng với người▼khác nếu tớ chỉ chơi cùng cậu.
+talkfigs/0eng/data/0045#16.24#page:3	$024'327'7;$023'327'177'10'1;Với lại no quá, tớ chẳng nghĩ▼nổi. Tạm nghỉ nhé.$079;$073'702'1;
+talkfigs/0eng/data/0045#16.25#page:1	Tớ thật lòng muốn chúng ta▼luôn là bạn tốt, nhưng...
+talkfigs/0eng/data/0045#16.25#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Sẽ không công bằng với người▼khác nếu tớ chỉ chơi cùng cậu.
+talkfigs/0eng/data/0045#16.25#page:3	$024'327'7;$023'327'177'10'1;Với lại no quá, tớ chẳng nghĩ▼nổi. Tạm nghỉ nhé.$079;$073'702'1;
+talkfigs/0eng/data/0045#16.26#page:1	Tớ thật lòng muốn chúng ta▼luôn là bạn tốt, nhưng...
+talkfigs/0eng/data/0045#16.26#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Sẽ không công bằng với người▼khác nếu tớ chỉ chơi cùng cậu.
+talkfigs/0eng/data/0045#16.26#page:3	$024'327'7;$023'327'177'10'1;Với lại no quá, tớ chẳng nghĩ▼nổi. Tạm nghỉ nhé.$079;$073'702'1;
+talkfigs/0eng/data/0045#16.27#page:1	Tớ thật lòng muốn chúng ta▼luôn là bạn tốt, nhưng...
+talkfigs/0eng/data/0045#16.27#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Sẽ không công bằng với người▼khác nếu tớ chỉ chơi cùng cậu.
+talkfigs/0eng/data/0045#16.27#page:3	$024'327'7;$023'327'177'10'1;Với lại no quá, tớ chẳng nghĩ▼nổi. Tạm nghỉ nhé.$079;$073'702'1;
+talkfigs/0eng/data/0045#16.28#page:1	Tớ thật lòng muốn chúng ta▼luôn là bạn tốt, nhưng...
+talkfigs/0eng/data/0045#16.28#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Sẽ không công bằng với người▼khác nếu tớ chỉ chơi cùng cậu.
+talkfigs/0eng/data/0045#16.28#page:3	$024'327'7;$023'327'177'10'1;Với lại no quá, tớ chẳng nghĩ▼nổi. Tạm nghỉ nhé.$079;$073'702'1;
+talkfigs/0eng/data/0045#16.29#page:1	Tớ thật lòng muốn chúng ta▼luôn là bạn tốt, nhưng...
+talkfigs/0eng/data/0045#16.29#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Sẽ không công bằng với người▼khác nếu tớ chỉ chơi cùng cậu.
+talkfigs/0eng/data/0045#16.29#page:3	$024'327'7;$023'327'177'10'1;Với lại no quá, tớ chẳng nghĩ▼nổi. Tạm nghỉ nhé.$079;$073'702'1;
+talkfigs/0eng/data/0045#16.30#page:1	Chào chào.$079;$073'700'2'1;
+talkfigs/0eng/data/0045#16.31#page:1	Chào chào.$079;$073'700'2'1;
+talkfigs/0eng/data/0045#16.32#page:1	Chào chào.$079;$073'700'2'1;
+talkfigs/0eng/data/0045#16.33#page:1	Chào chào.$079;$073'700'2'1;
+talkfigs/0eng/data/0045#16.34#page:1	Chào chào.$079;$073'700'2'1;
+talkfigs/0eng/data/0045#16.35#page:1	Chào chào.$079;$073'700'2'1;
+talkfigs/0eng/data/0045#16.36#page:1	Chào chào.$079;$073'700'2'1;
+talkfigs/0eng/data/0045#16.37#page:1	Chào chào.$079;$073'700'2'1;
+talkfigs/0eng/data/0045#16.38#page:1	Chào chào.$079;$073'700'2'1;
+talkfigs/0eng/data/0045#16.39#page:1	Chào chào.$079;$073'700'2'1;
+talkfigs/0eng/data/0045#16.40#page:1	Chào chào.$079;$073'700'3'1;
+talkfigs/0eng/data/0045#16.41#page:1	Chào chào.$079;$073'700'3'1;
+talkfigs/0eng/data/0045#16.42#page:1	Chào chào.$079;$073'700'3'1;
+talkfigs/0eng/data/0045#16.43#page:1	Chào chào.$079;$073'700'3'1;
+talkfigs/0eng/data/0045#16.44#page:1	Chào chào.$079;$073'700'3'1;
+talkfigs/0eng/data/0045#16.45#page:1	Chào chào.$079;$073'700'3'1;
+talkfigs/0eng/data/0045#16.46#page:1	Chào chào.$079;$073'700'3'1;
+talkfigs/0eng/data/0045#16.47#page:1	Chào chào.$079;$073'700'3'1;
+talkfigs/0eng/data/0045#16.48#page:1	Chào chào.$079;$073'700'3'1;
+talkfigs/0eng/data/0045#16.49#page:1	Chào chào.$079;$073'700'3'1;
+talkfigs/0eng/data/0045#16.60#page:1	Chúng ta rất hợp nhau, cậu▼cũng là bạn gái tuyệt vời,▼nhưng...
+talkfigs/0eng/data/0045#16.60#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Sẽ không công bằng với người▼khác nếu tớ chỉ chơi cùng cậu.
+talkfigs/0eng/data/0045#16.60#page:4	$024'327'7;$023'327'177'10'1;Với lại no quá, tớ chẳng nghĩ▼nổi. Tạm nghỉ nhé.$079;$073'702'1;
+talkfigs/0eng/data/0045#16.61#page:1	Chúng ta rất hợp nhau, cậu▼cũng là bạn gái tuyệt vời,▼nhưng...
+talkfigs/0eng/data/0045#16.61#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Sẽ không công bằng với người▼khác nếu tớ chỉ chơi cùng cậu.
+talkfigs/0eng/data/0045#16.61#page:4	$024'327'7;$023'327'177'10'1;Với lại no quá, tớ chẳng nghĩ▼nổi. Tạm nghỉ nhé.$079;$073'702'1;
+talkfigs/0eng/data/0045#16.62#page:1	Chúng ta rất hợp nhau, cậu▼cũng là bạn gái tuyệt vời,▼nhưng...
+talkfigs/0eng/data/0045#16.62#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Sẽ không công bằng với người▼khác nếu tớ chỉ chơi cùng cậu.
+talkfigs/0eng/data/0045#16.62#page:4	$024'327'7;$023'327'177'10'1;Với lại no quá, tớ chẳng nghĩ▼nổi. Tạm nghỉ nhé.$079;$073'702'1;
+talkfigs/0eng/data/0045#16.63#page:1	Chúng ta rất hợp nhau, cậu▼cũng là bạn gái tuyệt vời,▼nhưng...
+talkfigs/0eng/data/0045#16.63#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Sẽ không công bằng với người▼khác nếu tớ chỉ chơi cùng cậu.
+talkfigs/0eng/data/0045#16.63#page:4	$024'327'7;$023'327'177'10'1;Với lại no quá, tớ chẳng nghĩ▼nổi. Tạm nghỉ nhé.$079;$073'702'1;
+talkfigs/0eng/data/0045#16.64#page:1	Chúng ta rất hợp nhau, cậu▼cũng là bạn gái tuyệt vời,▼nhưng...
+talkfigs/0eng/data/0045#16.64#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Sẽ không công bằng với người▼khác nếu tớ chỉ chơi cùng cậu.
+talkfigs/0eng/data/0045#16.64#page:4	$024'327'7;$023'327'177'10'1;Với lại no quá, tớ chẳng nghĩ▼nổi. Tạm nghỉ nhé.$079;$073'702'1;
+talkfigs/0eng/data/0045#16.65#page:1	Chúng ta rất hợp nhau, cậu▼cũng là bạn gái tuyệt vời,▼nhưng...
+talkfigs/0eng/data/0045#16.65#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Sẽ không công bằng với người▼khác nếu tớ chỉ chơi cùng cậu.
+talkfigs/0eng/data/0045#16.65#page:4	$024'327'7;$023'327'177'10'1;Với lại no quá, tớ chẳng nghĩ▼nổi. Tạm nghỉ nhé.$079;$073'702'1;
+talkfigs/0eng/data/0045#16.66#page:1	Chúng ta rất hợp nhau, cậu▼cũng là bạn gái tuyệt vời,▼nhưng...
+talkfigs/0eng/data/0045#16.66#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Sẽ không công bằng với người▼khác nếu tớ chỉ chơi cùng cậu.
+talkfigs/0eng/data/0045#16.66#page:4	$024'327'7;$023'327'177'10'1;Với lại no quá, tớ chẳng nghĩ▼nổi. Tạm nghỉ nhé.$079;$073'702'1;
+talkfigs/0eng/data/0045#16.67#page:1	Chúng ta rất hợp nhau, cậu▼cũng là bạn gái tuyệt vời,▼nhưng...
+talkfigs/0eng/data/0045#16.67#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Sẽ không công bằng với người▼khác nếu tớ chỉ chơi cùng cậu.
+talkfigs/0eng/data/0045#16.67#page:4	$024'327'7;$023'327'177'10'1;Với lại no quá, tớ chẳng nghĩ▼nổi. Tạm nghỉ nhé.$079;$073'702'1;
+talkfigs/0eng/data/0045#16.68#page:1	Chúng ta rất hợp nhau, cậu▼cũng là bạn gái tuyệt vời,▼nhưng...
+talkfigs/0eng/data/0045#16.68#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Sẽ không công bằng với người▼khác nếu tớ chỉ chơi cùng cậu.
+talkfigs/0eng/data/0045#16.68#page:4	$024'327'7;$023'327'177'10'1;Với lại no quá, tớ chẳng nghĩ▼nổi. Tạm nghỉ nhé.$079;$073'702'1;
+talkfigs/0eng/data/0045#16.69#page:1	Chúng ta rất hợp nhau, cậu▼cũng là bạn gái tuyệt vời,▼nhưng...
+talkfigs/0eng/data/0045#16.69#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Sẽ không công bằng với người▼khác nếu tớ chỉ chơi cùng cậu.
+talkfigs/0eng/data/0045#16.69#page:4	$024'327'7;$023'327'177'10'1;Với lại no quá, tớ chẳng nghĩ▼nổi. Tạm nghỉ nhé.$079;$073'702'1;
+talkfigs/0eng/data/0045#16.70#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Sao thế? Cậu có chuyện muốn▼nói với tớ à?$085;$019'1674;
+talkfigs/0eng/data/0045#16.73#page:1	Giờ tớ chẳng có chuyện gì vui▼để kể...$079;
+talkfigs/0eng/data/0045#16.74#page:2	Trò chuyện$019'1675;
+talkfigs/0eng/data/0045#16.74#page:3	Tặng đồ$019'1676;
+talkfigs/0eng/data/0045#16.74#page:4	Đi chơi$019'1677;
+talkfigs/0eng/data/0045#16.74#page:5	Đến trường$019'1678;
+talkfigs/0eng/data/0045#16.74#page:6	Không có gì$019'1679;
+talkfigs/0eng/data/0045#16.76#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Cậu định cho tớ thứ gì à? Thật▼sao?! Không đùa chứ?!$079;$073'705'1'1;
+talkfigs/0eng/data/0045#16.77#page:1	$024'327'7;$023'327'177'10'1;Hả? Xin lỗi, không phải lúc▼này... Tớ có việc quan trọng!
+talkfigs/0eng/data/0045#16.77#page:2	Việc gì á? Cái bụng tớ chứ gì!▼Nó vừa réo ầm lên!
+talkfigs/0eng/data/0045#16.77#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Thôi hẹn lần sau nhé? Tạm▼biệt!$079;
+talkfigs/0eng/data/0045#16.78#page:1	Ừm...$079;$073'010'1'1;
+talkfigs/0eng/data/0045#16.79#page:1	$024'327'3;$023'327'171'10'1;$022'327'304;À... Khi nào rảnh nhớ ghé chào▼tớ nữa nhé!$079;
+talkfigs/0eng/data/0045#16.80#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Hả? Cậu muốn nói chuyện à?$085;$019'1684;
+talkfigs/0eng/data/0045#16.83#page:1	Giờ tớ chẳng biết nói gì hay▼cả.$079;
+talkfigs/0eng/data/0045#16.84#page:2	Kể tớ nghe chuyện đi.$019'1685;
+talkfigs/0eng/data/0045#16.84#page:3	Tớ có quà cho cậu này.$019'1686;
+talkfigs/0eng/data/0045#16.84#page:4	Đi chơi gì đó nhé!$019'1687;
+talkfigs/0eng/data/0045#16.84#page:5	Mình đến trường nhé.$019'1688;
+talkfigs/0eng/data/0045#16.84#page:6	Thôi bỏ đi.$019'1689;
+talkfigs/0eng/data/0045#16.86#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Cậu cho tớ quà á? Không đùa▼đấy chứ?$079;$073'705'1'1;
+talkfigs/0eng/data/0045#16.87#page:1	$034'2;Ừm... Nghe kỳ lạ thật, nhưng▼tớ đang rất vui.
+talkfigs/0eng/data/0045#16.87#page:2	Vì giờ tớ không còn một mình▼nữa.
+talkfigs/0eng/data/0045#16.87#page:3	$500; đi đâu, tớ cũng muốn▼theo!$079;$073'705'3'1;
+talkfigs/0eng/data/0045#16.88#page:1	Ừm...$079;$073'010'1'1;
+talkfigs/0eng/data/0045#16.89#page:1	$024'327'3;$023'327'171'10'1;$022'327'304;Tiếc ghê. Nhưng tớ luôn ở đây▼vì cậu!$079;
