@@ -1,3 +1,10 @@
+## Checkpoint 100 — 10/11/2026
+
+- +240 trang NPC `0044.007` và `0044.008` (mỗi tệp 120), tổng 25.895/55.976 (46,26%), NPC 22.770/52.608.
+- 91 mẫu EN riêng, 47 tái sử dụng, 44 dịch mới. Nội dung: lời đồn trong trường, tình bạn, chuyện hẹn hò, nghiên cứu và nghịch ngợm.
+- QA 501 JSONL PASS; bảo toàn 25.655 câu trước và 499 JSONL khác không đổi byte.
+- Bàn giao ZIP đầy đủ, bảng EN–VI, delta, QA, script dựng lại; chưa kiểm thử trên ROM NDS.
+
 ## Checkpoint 099 — 10/11/2026
 
 - +240 trang NPC `0044.005` và `0044.006`, tổng **25.655/55.976 (45,83%)**, NPC 22.530/52.608.
@@ -90,24 +97,23 @@
 
 ## Checkpoint 087 — 10/11/2026
 
-- +240 trang thoại `0043.004` và `0043.005`; 22.809/55.976 (40,75%), NPC 19.684/52.608.
-- 55 mẫu EN riêng: 35 dịch mới, 20 tái dùng. QA 501 JSONL PASS, giữ nguyên 22.569 bản dịch trước.
+- +240 trang thoại `0043.004` và `0043.005`; 22,809/55.976 (40.75%), NPC 19,684/52.608.
+- 55 mẫu EN riêng: 35 dịch mới, 20 tái dùng. QA 501 JSONL PASS, giữ nguyên 22,569 bản dịch trước.
 - Bàn giao ZIP đầy đủ, bản EN–VI, delta, script, QA. Chưa thử trong ROM NDS.
 - Tiếp `0043.006` và `0043.007` (120 trang mỗi tệp).
 
 ## Checkpoint 086 — 10/11/2026
 
-- +240 trang thoại (`0043.002` và `0043.003`); tổng 22.569/55.976 (40,32%), NPC 19.444/52.608.
+- +240 trang thoại (`0043.002` và `0043.003`); tổng 22569/55.976 (40.32%), NPC 19444/52.608.
 - QA 501 JSONL PASS; giữ 22.329 bản dịch trước; 499 JSONL ngoài đợt không đổi byte.
 - ZIP đầy đủ, bản EN–VI, báo cáo QA, script tái tạo. Chưa thử trong ROM.
 - Đợt 087: `0043.004` và `0043.005` (240 trang).
 
 ## Checkpoint 085 — 10/11/2026
 
-- +231 NPC (0042.023: 111; 0043.001: 120); total 22,329 / 55,976 (39.89%), NPC 19,204 / 52,608.
-- QA 501 JSONL PASS from full checkpoint 084 ZIP; 499 unrelated JSONL preserved byte-for-byte; 22,098 earlier translations untouched.
-- Complete ZIP stored in Library /Dịch giả lập; delta and EN–VI TSV checked into GitHub.
-- Next 0043.002 and 0043.003 (120 pages each); real-ROM testing still pending.
+- +231 NPC pages `0042.023`, `0043.001`; total 22,329/55,976 (39.89%), NPC 19,204/52,608.
+- QA complete on full 501-JSONL ZIP; 499 non-target translations byte-identical. No ROM test yet.
+- Next `0043.002` and `0043.003` (120 each).
 
 ## Checkpoint 084 — 09/11/2026
 
@@ -449,3 +455,4 @@ Kiểm thử ở nhánh **tiếng Anh**. Dùng New Game cho đoạn mở đầu,
 ## Lệnh giao cho phiên cloud
 
 > Đọc BAN_GIAO.md và translation/INDEX.tsv. Bắt đầu từ 00-mo-dau và 01-he-thong. Chỉ sửa trường vi trong các JSONL được giao, giữ mã điều khiển và ID, kiểm tra giới hạn byte. Dịch từng lô để dễ kiểm tra và tái dùng câu trùng đã duyệt khi ngữ cảnh phù hợp. Sau khi xong văn bản, dùng audit/graphics.tsv để rà phần chữ nằm trong ảnh. Dựng ROM từ bản USA sạch bằng mqhandoff.py và liệt kê các màn cần test.
+

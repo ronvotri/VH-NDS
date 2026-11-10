@@ -1,3 +1,5 @@
+**Checkpoint mới nhất: 100 (10/11/2026) — 25.895/55.976 (46,26%).** +240 thoại NPC (`0044.007` + `0044.008`), 44 mẫu mới và 47 mẫu tái sử dụng. QA 501 JSONL PASS. Xem `CHECKPOINT-2026-11-10-DOT-100.md`, `QA-100.md`.
+
 **Checkpoint mới nhất: 099 (10/11/2026) — 25.655/55.976 (45,83%).** +240 trang thoại NPC (`0044.005` + `0044.006`); 58 mẫu mới, 17 mẫu tái sử dụng; QA 501 JSONL PASS. Đợt 100: `0044.007` và `0044.008` (240 trang). Xem `CHECKPOINT-2026-11-10-DOT-99.md`, `QA-099.md`.
 
 **Checkpoint mới nhất: 098 (10/11/2026) — 25.415/55.976 (45,40%).** +240 trang thoại NPC (`0044.003` + `0044.004`); 45 mẫu mới, 46 mẫu tái sử dụng; QA 501 JSONL PASS. Đợt 099: `0044.005` và `0044.006` (240 trang). Xem `CHECKPOINT-2026-11-10-DOT-98.md`, `QA-098.md`.
@@ -22,11 +24,11 @@
 
 **Checkpoint mới nhất: 088 (10/11/2026) — 23,049/55.976 (41.18%).** +240 NPC (`0043.006`, `0043.007`); 26 mẫu mới và 23 mẫu tái dùng; QA 501 JSONL PASS. Tiếp `0043.008`, `0043.009` (240 trang). Xem `CHECKPOINT-2026-11-10-DOT-88.md` và `QA-088.md`.
 
-**Checkpoint mới nhất: 087 (10/11/2026) — 22.809/55.976 (40,75%).** +240 NPC (`0043.004`, `0043.005`); 35 mẫu thoại mới, 20 mẫu tái dùng; QA 501 JSONL PASS. Xem `CHECKPOINT-2026-11-10-DOT-87.md` và `QA-087.md`. Tiếp `0043.006`, `0043.007` (240 trang).
+**Checkpoint mới nhất: 087 (10/11/2026) — 22,809/55.976 (40.75%).** +240 NPC (`0043.004`, `0043.005`); 35 mẫu thoại mới, 20 mẫu tái dùng; QA 501 JSONL PASS. Xem `CHECKPOINT-2026-11-10-DOT-87.md` và `QA-087.md`. Tiếp `0043.006`, `0043.007` (240 trang).
 
-**Checkpoint mới nhất: 086 (10/11/2026) — 22.569/55.976 (40,32%).** +240 NPC (`0043.002`, `0043.003`); QA 501 JSONL PASS. Xem `CHECKPOINT-2026-11-10-DOT-86.md`, `QA-086.md`. Tiếp `0043.004`, `0043.005` (240 trang).
+**Checkpoint mới nhất: 086 (10/11/2026) — 22569/55.976 (40.32%).** +240 NPC (`0043.002`, `0043.003`); QA 501 JSONL PASS. Xem `CHECKPOINT-2026-11-10-DOT-86.md`, `QA-086.md`. Tiếp `0043.004`, `0043.005` (240 trang).
 
-**Checkpoint mới nhất: 085 (10/11/2026) — 22.329/55.976 (39,89%).** +231 NPC (0042.023, 0043.001); QA 501 JSONL từ checkpoint 084. Xem CHECKPOINT-2026-11-10-DOT-85.md và QA-085.md. Tiếp 0043.002 và 0043.003 (240 trang).
+**Latest checkpoint: 085 (10/11/2026) — 22,329/55,976 (39.89%).** +231 NPC (`0042.023`, `0043.001`); QA complete. See `CHECKPOINT-2026-11-10-DOT-85.md`, `QA-085.md`; next `0043.002`, `0043.003` (240 pages).
 
 **Checkpoint mới nhất: 084 (09/11/2026) — 22,098/55.976 (39.48%).** +240 NPC (`0042.021`, `0042.022`); 231 mẫu thoại biên tập mới. Xem `CHECKPOINT-2026-11-09-DOT-84.md`, `QA-084.md`. Tiếp `0042.023` và `0043.001` (231 trang).
 
