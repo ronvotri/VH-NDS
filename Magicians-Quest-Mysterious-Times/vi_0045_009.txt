@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0045#29.63#page:1	Vậy là cậu chưa biết à?
+talkfigs/0eng/data/0045#29.63#page:2	Chắc cũng chỉ là tin đồn thôi, ai▼mà biết được...$033;
+talkfigs/0eng/data/0045#29.64#page:1	$024'327'7;$023'327'177'10'1;Cậu nghe chưa? Mọi người đang▼đồn rằng...
+talkfigs/0eng/data/0045#29.64#page:2	$530'0;▼$533;▼vì biết quan tâm.
+talkfigs/0eng/data/0045#29.64#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu nghe tin đó chưa?$018'1;
+talkfigs/0eng/data/0045#29.65#page:2	Nghe rồi.$018'1;
+talkfigs/0eng/data/0045#29.65#page:3	Chưa nghe.$018'2;
+talkfigs/0eng/data/0045#29.66#page:1	Ồ, cậu biết rồi à. Không ngờ▼chuyện này lại thành tin đồn.
+talkfigs/0eng/data/0045#29.67#page:1	Vậy là cậu chưa biết à?
+talkfigs/0eng/data/0045#29.67#page:2	Chắc cũng chỉ là tin đồn thôi, ai▼mà biết được...$033;
+talkfigs/0eng/data/0045#29.68#page:1	$024'327'7;$023'327'177'10'1;Cậu nghe chưa? Mọi người đang▼đồn rằng...
+talkfigs/0eng/data/0045#29.68#page:2	"$530'0;▼$533;▼vì hay bày trò."
+talkfigs/0eng/data/0045#29.68#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu nghe tin đó chưa?$018'1;
+talkfigs/0eng/data/0045#29.69#page:2	Nghe rồi.$018'1;
+talkfigs/0eng/data/0045#29.69#page:3	Chưa nghe.$018'2;
+talkfigs/0eng/data/0045#29.70#page:1	Ồ? Cậu biết rồi hả?
+talkfigs/0eng/data/0045#29.70#page:2	Tớ nghĩ cậu bớt nghịch dại đi thì▼hơn...
+talkfigs/0eng/data/0045#29.71#page:1	Vậy là cậu chưa biết à?
+talkfigs/0eng/data/0045#29.71#page:2	Nếu thấy giống chuyện của mình,▼cậu nên bớt bày trò đi...$033;
+talkfigs/0eng/data/0045#30.0#page:1	$024'327'7;$023'327'177'10'1;Cậu nghe tin đồn về mình chưa? Ai▼cũng đang nói rằng...
+talkfigs/0eng/data/0045#30.0#page:2	"$530'0; và $530'1;▼lúc nào cũng $533;▼cùng nhau."
+talkfigs/0eng/data/0045#30.0#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Tin đó thật à?$018'1;
+talkfigs/0eng/data/0045#30.1#page:2	Đúng vậy.$018'1;
+talkfigs/0eng/data/0045#30.1#page:3	Không, tớ không nghĩ vậy.$018'2;
+talkfigs/0eng/data/0045#30.2#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Tớ cứ tưởng là tin▼đồn bịa.
+talkfigs/0eng/data/0045#30.2#page:2	Nếu đi ăn chung thì nhớ rủ tớ▼với nhé!
+talkfigs/0eng/data/0045#30.3#page:1	Ồ, vậy không phải thật à?
+talkfigs/0eng/data/0045#30.3#page:2	Nghe xong tớ bất ngờ lắm.$033;
+talkfigs/0eng/data/0045#30.4#page:1	$024'327'7;$023'327'177'10'1;Cậu nghe tin đồn về mình chưa? Ai▼cũng đang nói rằng...
+talkfigs/0eng/data/0045#30.4#page:2	"$530'0; và $530'1;▼đã công khai $533;."
+talkfigs/0eng/data/0045#30.4#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Tin đó thật à?$018'1;
+talkfigs/0eng/data/0045#30.5#page:2	Đúng vậy.$018'1;
+talkfigs/0eng/data/0045#30.5#page:3	Không, tớ không nghĩ vậy.$018'2;
+talkfigs/0eng/data/0045#30.6#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Tớ cứ tưởng là tin▼đồn bịa.
+talkfigs/0eng/data/0045#30.6#page:2	Nếu đi ăn chung thì nhớ rủ tớ▼với nhé!
+talkfigs/0eng/data/0045#30.7#page:1	Ồ, vậy không phải thật à?
+talkfigs/0eng/data/0045#30.7#page:2	Nghe xong tớ bất ngờ lắm.$033;
+talkfigs/0eng/data/0045#30.8#page:1	$024'327'7;$023'327'177'10'1;Cậu nghe tin đồn về mình chưa? Ai▼cũng đang nói rằng...
+talkfigs/0eng/data/0045#30.8#page:2	"$530'0; và $530'1;▼$533;."
+talkfigs/0eng/data/0045#30.8#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Tin đó thật à?$018'1;
+talkfigs/0eng/data/0045#30.9#page:2	Đúng vậy.$018'1;
+talkfigs/0eng/data/0045#30.9#page:3	Không, tớ không nghĩ vậy.$018'2;
+talkfigs/0eng/data/0045#30.10#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Tớ cứ tưởng là tin▼đồn bịa.
+talkfigs/0eng/data/0045#30.10#page:2	$024'327'0;$023'327'178'10'1;$022'327'361;Chỗ bắn pháo hoa có nhiều quầy đồ▼ăn không?
+talkfigs/0eng/data/0045#30.11#page:1	Ồ, vậy không phải thật à?
+talkfigs/0eng/data/0045#30.11#page:2	Nghe xong tớ bất ngờ lắm.$033;
+talkfigs/0eng/data/0045#30.12#page:1	$024'327'7;$023'327'177'10'1;Cậu nghe tin đồn về mình chưa? Ai▼cũng đang nói rằng...
+talkfigs/0eng/data/0045#30.12#page:2	"$530'0; và $530'1;▼đang bí mật $533;."
+talkfigs/0eng/data/0045#30.12#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Tin đó thật à?$018'1;
+talkfigs/0eng/data/0045#30.13#page:2	Đúng vậy.$018'1;
+talkfigs/0eng/data/0045#30.13#page:3	Không, tớ không nghĩ vậy.$018'2;
+talkfigs/0eng/data/0045#30.14#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Tớ cứ tưởng là tin▼đồn bịa.
+talkfigs/0eng/data/0045#30.14#page:2	Nếu đi ăn chung thì nhớ rủ tớ▼với nhé!
+talkfigs/0eng/data/0045#30.15#page:1	Ồ, vậy không phải thật à?
+talkfigs/0eng/data/0045#30.15#page:2	Nghe xong tớ bất ngờ lắm.$033;
+talkfigs/0eng/data/0045#30.16#page:1	$024'327'7;$023'327'177'10'1;Cậu nghe tin đồn về mình chưa? Ai▼cũng đang nói rằng...
+talkfigs/0eng/data/0045#30.16#page:2	"$530'0; khiến $530'1;▼$533;."
+talkfigs/0eng/data/0045#30.16#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Tin đó thật à?$018'1;
+talkfigs/0eng/data/0045#30.17#page:2	Đúng vậy.$018'1;
+talkfigs/0eng/data/0045#30.17#page:3	Không, tớ không nghĩ vậy.$018'2;
+talkfigs/0eng/data/0045#30.18#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Tớ cứ tưởng là tin▼đồn bịa.
+talkfigs/0eng/data/0045#30.18#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;Nếu muốn tâm sự lúc ăn trưa▼hay tối, tớ sẵn lòng nghe!
+talkfigs/0eng/data/0045#30.19#page:1	Ồ, vậy không phải thật à?
+talkfigs/0eng/data/0045#30.19#page:2	Nghe xong tớ bất ngờ lắm.$033;
+talkfigs/0eng/data/0045#30.20#page:1	$024'327'7;$023'327'177'10'1;Cậu nghe tin đồn về mình chưa? Ai▼cũng đang nói rằng...
+talkfigs/0eng/data/0045#30.20#page:2	"$530'0; và $530'1;▼$533;."
+talkfigs/0eng/data/0045#30.20#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Tin đó thật à?$018'1;
+talkfigs/0eng/data/0045#30.21#page:2	Đúng vậy.$018'1;
+talkfigs/0eng/data/0045#30.21#page:3	Không, tớ không nghĩ vậy.$018'2;
+talkfigs/0eng/data/0045#30.22#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Tớ cứ tưởng là tin▼đồn bịa.
+talkfigs/0eng/data/0045#30.22#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;Nếu muốn tâm sự lúc ăn trưa▼hay tối, tớ sẵn lòng nghe!
+talkfigs/0eng/data/0045#30.23#page:1	Ồ, vậy không phải thật à?
+talkfigs/0eng/data/0045#30.23#page:2	Nghe xong tớ bất ngờ lắm.$033;
+talkfigs/0eng/data/0045#30.24#page:1	$024'327'7;$023'327'177'10'1;Cậu nghe tin đồn về mình chưa? Ai▼cũng đang nói rằng...
+talkfigs/0eng/data/0045#30.24#page:2	"$530'0; và $530'1;▼$533;."
+talkfigs/0eng/data/0045#30.24#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Tin đó thật à?$018'1;
+talkfigs/0eng/data/0045#30.25#page:2	Đúng vậy.$018'1;
+talkfigs/0eng/data/0045#30.25#page:3	Không, tớ không nghĩ vậy.$018'2;
+talkfigs/0eng/data/0045#30.26#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Tớ cứ tưởng là tin▼đồn bịa.
+talkfigs/0eng/data/0045#30.26#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;Nếu muốn tâm sự lúc ăn trưa▼hay tối, tớ sẵn lòng nghe!
+talkfigs/0eng/data/0045#30.27#page:1	Ồ, vậy không phải thật à?
+talkfigs/0eng/data/0045#30.27#page:2	Nghe xong tớ bất ngờ lắm.$033;
+talkfigs/0eng/data/0045#30.28#page:1	$024'327'7;$023'327'177'10'1;Cậu nghe tin đồn về mình chưa? Ai▼cũng đang nói rằng...
+talkfigs/0eng/data/0045#30.28#page:2	"$533;▼tình bạn thân thiết giữa▼$530'0; và $530'1;."
+talkfigs/0eng/data/0045#30.28#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Tin đó thật à?$018'1;
+talkfigs/0eng/data/0045#30.29#page:2	Đúng vậy.$018'1;
+talkfigs/0eng/data/0045#30.29#page:3	Không, tớ không nghĩ vậy.$018'2;
+talkfigs/0eng/data/0045#30.30#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Tớ cứ tưởng là tin▼đồn bịa.
+talkfigs/0eng/data/0045#30.30#page:2	Nếu đi ăn chung thì nhớ rủ tớ▼với nhé!
+talkfigs/0eng/data/0045#30.31#page:1	Ồ, vậy không phải thật à?
+talkfigs/0eng/data/0045#30.31#page:2	Nghe xong tớ bất ngờ lắm.$033;
+talkfigs/0eng/data/0045#30.32#page:1	$024'327'7;$023'327'177'10'1;Cậu nghe tin đồn về mình chưa? Ai▼cũng đang nói rằng...
+talkfigs/0eng/data/0045#30.32#page:2	"$530'0; và $530'1;▼$533; nhờ▼mối gắn kết bền chặt."
+talkfigs/0eng/data/0045#30.32#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Tin đó thật à?$018'1;
+talkfigs/0eng/data/0045#30.33#page:2	Đúng vậy.$018'1;
+talkfigs/0eng/data/0045#30.33#page:3	Không, tớ không nghĩ vậy.$018'2;
+talkfigs/0eng/data/0045#30.34#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Tớ cứ tưởng là tin▼đồn bịa.
+talkfigs/0eng/data/0045#30.34#page:2	Nếu đi ăn chung thì nhớ rủ tớ▼với nhé!
+talkfigs/0eng/data/0045#30.35#page:1	Ồ, vậy không phải thật à?
+talkfigs/0eng/data/0045#30.35#page:2	Nghe xong tớ bất ngờ lắm.$033;
+talkfigs/0eng/data/0045#31.0#page:1	$024'327'7;$023'327'177'10'1;Cậu nghe tin đồn về mình chưa? Ai▼cũng đang nói rằng...
+talkfigs/0eng/data/0045#31.0#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Tin đó thật à?$018'1;
+talkfigs/0eng/data/0045#31.1#page:2	Đúng vậy.$018'1;
+talkfigs/0eng/data/0045#31.1#page:3	Không, tớ không nghĩ vậy.$018'2;
+talkfigs/0eng/data/0045#31.2#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật sao?! Vậy không chỉ là▼lời đồn vu vơ rồi...
+talkfigs/0eng/data/0045#31.2#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;Nếu muốn tâm sự lúc ăn trưa▼hay tối, tớ sẵn lòng nghe!
+talkfigs/0eng/data/0045#31.3#page:1	Ồ, vậy không phải thật à?
+talkfigs/0eng/data/0045#31.3#page:2	Nghe xong tớ bất ngờ lắm.$033;
+talkfigs/0eng/data/0045#31.4#page:1	$024'327'7;$023'327'177'10'1;Cậu nghe tin đồn về mình chưa? Ai▼cũng đang nói rằng...
+talkfigs/0eng/data/0045#31.4#page:2	"Hành động đáng ngờ của▼$530'0;▼$533;."
+talkfigs/0eng/data/0045#31.4#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Tin đó thật à?$018'1;
+talkfigs/0eng/data/0045#31.5#page:2	Đúng vậy.$018'1;
+talkfigs/0eng/data/0045#31.5#page:3	Không, tớ không nghĩ vậy.$018'2;
+talkfigs/0eng/data/0045#31.6#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Tớ cứ tưởng là tin▼đồn bịa.
+talkfigs/0eng/data/0045#31.6#page:2	Nếu đi ăn chung thì nhớ rủ tớ▼với nhé!
+talkfigs/0eng/data/0045#31.7#page:1	Ồ, vậy không phải thật à?
+talkfigs/0eng/data/0045#31.7#page:2	Nghe xong tớ bất ngờ lắm.$033;
+talkfigs/0eng/data/0045#31.8#page:1	$024'327'7;$023'327'177'10'1;Cậu nghe tin đồn về mình chưa? Ai▼cũng đang nói rằng...
+talkfigs/0eng/data/0045#31.8#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Tin đó thật à?$018'1;
+talkfigs/0eng/data/0045#31.9#page:2	Đúng vậy.$018'1;

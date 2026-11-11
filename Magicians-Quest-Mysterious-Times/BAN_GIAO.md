@@ -1,3 +1,10 @@
+## Checkpoint 108 — 11/11/2026
+
+- +720 NPC pages (`0045.009`–`0045.014`), 29,211/55,976 (52.18%).
+- 129 original Vietnamese dialogue translations / 417 page uses; 303 exact-source reuses.
+- QA 501 JSONL PASS; all preceding 28,491 translations preserved; not ROM tested.
+- Next: `0045.015`–`0045.020` (720 pages).
+
 ## Checkpoint 107 — 11/11/2026
 
 - Gom 8 tệp `0045.001`–`0045.008`, +960 trang thoại NPC. Tổng 28,491/55.976 (50.90%).
