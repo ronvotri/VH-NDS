@@ -1,3 +1,7 @@
+## Cập nhật 114 — 12/11/2026
+
++758 trang NPC `0046.023`–`0046.024` và `0047.001`–`0047.005`; 444 mẫu dịch mới, 80 tái dùng. Tổng 33.533 / 55.976 (59,91%). QA dữ liệu PASS; chưa test ROM NDS. Xem `CHECKPOINT-2026-11-12-DOT-114.md`, `QA-114.md`.
+
 ## Cập nhật 113 — 11/11/2026
 
 +720 trang `0046.017`–`0046.022` (538 mẫu dịch mới, 42 tái sử dụng), tổng 32.775/55.976 (58.55%). QA dữ liệu đạt; chưa test trực tiếp trên ROM. Xem `CHECKPOINT-2026-11-11-DOT-113.md` và `QA-113.md`.
