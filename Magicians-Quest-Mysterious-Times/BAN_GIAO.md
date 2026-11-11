@@ -1,3 +1,7 @@
+## Cập nhật 113 — 11/11/2026
+
++720 trang `0046.017`–`0046.022` (538 mẫu dịch mới, 42 tái sử dụng), tổng 32.775/55.976 (58.55%). QA dữ liệu đạt; chưa test trực tiếp trên ROM. Xem `CHECKPOINT-2026-11-11-DOT-113.md` và `QA-113.md`.
+
 ## Checkpoint 112 — 11/11/2026
 
 - Dịch 720 trang `0046.011`–`0046.016`, tăng 31.335 lên 32.055 trên tổng 55.976 (57.27%).

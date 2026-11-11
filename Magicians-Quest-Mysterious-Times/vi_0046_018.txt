@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0046#43.91#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#43.91#page:2	$530'0;▼$533;▼vì rất tốt bụng.
+talkfigs/0eng/data/0046#43.91#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#43.91#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#43.92#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#43.92#page:2	$530'0;▼$533;▼vì hay bày trò.
+talkfigs/0eng/data/0046#43.92#page:3	$024'327'2;$023'327'28'8'4;$022'327'381;Không thể tin nổi!▼Tớ nhất định sẽ▼mách thầy cô!
+talkfigs/0eng/data/0046#44.0#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#44.0#page:2	$530'0; và $530'1;▼lúc nào cũng▼$533;...
+talkfigs/0eng/data/0046#44.0#page:3	cùng nhau.
+talkfigs/0eng/data/0046#44.0#page:4	$024'327'7;$023'327'177'10'1;$022'327'400;Tớ ghen tị vì họ▼lúc nào cũng bên nhau.
+talkfigs/0eng/data/0046#44.0#page:5	Nhưng chắc họ chẳng còn▼tâm trí làm chuyện khác.
+talkfigs/0eng/data/0046#44.1#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#44.1#page:2	$530'0; và $530'1;▼đã công khai $533;.
+talkfigs/0eng/data/0046#44.1#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Tớ ghen tị vì họ▼lúc nào cũng bên nhau.
+talkfigs/0eng/data/0046#44.1#page:4	Nhưng chắc họ chẳng còn▼tâm trí làm chuyện khác.
+talkfigs/0eng/data/0046#44.2#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#44.2#page:2	$530'0; và $530'1;▼$533;.
+talkfigs/0eng/data/0046#44.2#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#44.2#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#44.3#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#44.3#page:2	$530'0; và $530'1;▼đang bí mật $533;.
+talkfigs/0eng/data/0046#44.3#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Tớ ghen tị vì họ▼lúc nào cũng bên nhau.
+talkfigs/0eng/data/0046#44.3#page:4	Nhưng chắc họ chẳng còn▼tâm trí làm chuyện khác.
+talkfigs/0eng/data/0046#44.4#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#44.4#page:2	$530'0; đã khiến $530'1;▼$533;.
+talkfigs/0eng/data/0046#44.4#page:3	$024'327'2;$023'327'28'8'4;$022'327'381;Không thể tin nổi!▼Tớ nhất định sẽ▼mách thầy cô!
+talkfigs/0eng/data/0046#44.5#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#44.5#page:2	$530'0; và $530'1;▼$533;.
+talkfigs/0eng/data/0046#44.5#page:3	$024'327'2;$023'327'28'8'4;$022'327'381;Không thể tin nổi!▼Tớ nhất định sẽ▼mách thầy cô!
+talkfigs/0eng/data/0046#44.6#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#44.6#page:2	$530'0; và $530'1;▼$533;.
+talkfigs/0eng/data/0046#44.6#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#44.6#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#44.7#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Cậu đến đúng lúc bọn tớ▼đang buôn chuyện về▼việc...
+talkfigs/0eng/data/0046#44.7#page:2	$533;▼tình bạn thân thiết của▼$530'0; và $530'1;.
+talkfigs/0eng/data/0046#44.7#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#44.7#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#44.8#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Cậu đến đúng lúc bọn tớ▼đang buôn chuyện về▼việc...
+talkfigs/0eng/data/0046#44.8#page:2	$530'0; và $530'1;▼$533; nhờ tình cảm▼gắn bó bền chặt.
+talkfigs/0eng/data/0046#44.8#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#44.8#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#44.25#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#44.25#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#44.25#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#44.26#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#44.26#page:2	Hành động kỳ lạ▼của $530'0;▼$533;.
+talkfigs/0eng/data/0046#44.26#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#44.26#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#44.27#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#44.27#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#44.27#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#44.28#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#44.28#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#44.28#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#44.29#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#44.29#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#44.29#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#44.30#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#44.30#page:2	$530'0;▼định chăm chỉ học hành...
+talkfigs/0eng/data/0046#44.30#page:3	rồi trở thành▼$533;.
+talkfigs/0eng/data/0046#44.30#page:4	$024'327'5;$023'327'175'8'1;$022'327'342;Thật vậy à? Nếu thế thì▼tớ cũng thử xem sao!
+talkfigs/0eng/data/0046#44.31#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#44.31#page:3	$024'327'2;$023'327'28'8'4;$022'327'381;Không thể tin nổi!▼Tớ nhất định sẽ▼mách thầy cô!
+talkfigs/0eng/data/0046#44.50#page:1	Xin lỗi $500;, nhưng giờ▼tớ chưa kể được đâu!
+talkfigs/0eng/data/0046#44.50#page:2	Đừng giận nhé, nhưng có▼chuyện con gái cũng▼không nên đem ra tám!
+talkfigs/0eng/data/0046#53.0#page:1	Nghe gì chưa? Có khủng long▼xuất hiện ở $000'5;thị trấn$000'1; đấy!
+talkfigs/0eng/data/0046#53.0#page:2	$024'327'6;$023'327'8'10'1;$022'327'382;Tớ thấy khó tin lắm,▼nhưng nhiều người bảo▼đã tận mắt nhìn thấy.
+talkfigs/0eng/data/0046#53.0#page:4	Nghe nói nó bơi sát▼mặt nước. $024'327'0;$023'327'178'10'1;$022'327'361;Cậu có tin▼chuyện đó không?$079;
+talkfigs/0eng/data/0046#53.1#page:1	Vậy là vùng nước gần$000'5;thị trấn$000'1; có▼khủng long thật.
+talkfigs/0eng/data/0046#53.1#page:3	Là tớ thì sẽ cẩn thận▼khi đi gần bờ nước.
+talkfigs/0eng/data/0046#53.1#page:4	$024'327'5;$023'327'170'10'1;$022'327'301;Đang đi dạo mà quái vật▼bỗng nhảy ra... NGOẠM!▼Thế là cậu bay màu!$079;
+talkfigs/0eng/data/0046#53.2#page:1	Dạo này chẳng còn ai▼đồn về con khủng long ấy.
+talkfigs/0eng/data/0046#53.2#page:2	Ủa, không phải khủng long?▼Chỉ là $000'3;Nessie$000'1; con thôi à?
+talkfigs/0eng/data/0046#53.2#page:3	$024'327'7;$023'327'170'10'2;$022'327'301;Nó khóc vì đói bụng sao?
+talkfigs/0eng/data/0046#53.2#page:4	Sao không nói với tớ?▼Tớ đã bắt cá cho nó▼ăn rồi mà...
+talkfigs/0eng/data/0046#53.2#page:6	Cần giúp thì cứ nói,▼đừng ngại thế chứ, $500;.$079;
+talkfigs/0eng/data/0046#53.20#page:1	Tớ thấy quái vật xanh,▼nhỏ mà bẩn ở gần $000'5;sông$000'1;.
+talkfigs/0eng/data/0046#53.20#page:2	$024'327'7;$023'327'170'10'2;$022'327'301;Nó lẩm bẩm cáu kỉnh▼nên tớ tránh thật xa.
+talkfigs/0eng/data/0046#53.20#page:3	Đứng xa thế mà tớ vẫn▼ngửi thấy mùi hôi kinh!
+talkfigs/0eng/data/0046#53.20#page:5	$024'327'0;$023'327'178'10'1;$022'327'361;Có phải nó khiến $000'5;sông$000'1;▼gần đây bẩn như vậy▼không nhỉ?$079;
+talkfigs/0eng/data/0046#53.21#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Sao quái vật xanh ấy▼lại đến đây nhỉ?
+talkfigs/0eng/data/0046#53.21#page:2	Nó vừa bẩn, vừa hôi,▼lại lúc nào cũng cáu...
+talkfigs/0eng/data/0046#53.21#page:3	Nhưng nghĩ kỹ thì hình như▼nó đỡ cáu hơn trước rồi?
+talkfigs/0eng/data/0046#53.21#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Nó tìm được thứ muốn rồi à?$079;
+talkfigs/0eng/data/0046#53.22#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Nó biến trắng tinh rồi▼bỏ đi luôn sao?
+talkfigs/0eng/data/0046#53.22#page:2	À, hóa ra là do $000'5;con sông$000'1; à?
+talkfigs/0eng/data/0046#53.22#page:3	$000'5;Sông$000'1; bị bẩn khiến▼nó cũng dính bẩn theo.
+talkfigs/0eng/data/0046#53.22#page:4	Phải bỏ $000'4;rác$000'1; đúng chỗ▼thì $000'5;sông$000'1; mới sạch được.
+talkfigs/0eng/data/0046#53.22#page:6	$024'327'7;$023'327'170'10'2;$022'327'301;Tội nó lắm nếu lại▼biến xanh lè và bốc mùi!$079;
+talkfigs/0eng/data/0046#53.40#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Cậu biết có những câu chú▼bị cấm đọc không?
+talkfigs/0eng/data/0046#53.40#page:2	Chẳng hạn đọc tên $000'3;người▼đàn ông mê kẹo$000'1; bốn lần...
+talkfigs/0eng/data/0046#53.40#page:3	ông ấy sẽ cho kẹo!▼Nhưng đâu phải lúc nào▼cũng gọi được.
+talkfigs/0eng/data/0046#53.40#page:4	Phải đọc chú ĐÚNG giờ▼thì ông ấy mới xuất hiện.
+talkfigs/0eng/data/0046#53.40#page:6	Tớ muốn thử ghê!
+talkfigs/0eng/data/0046#53.40#page:7	$024'327'5;$023'327'170'10'1;$022'327'301;Nhưng đó là câu chú cấm.
+talkfigs/0eng/data/0046#53.40#page:8	$024'327'0;$023'327'178'10'1;$022'327'361;Thử một lần thôi chắc▼không ai biết đâu nhỉ?$079;
+talkfigs/0eng/data/0046#53.41#page:1	Biết là sai nhưng tớ vẫn▼đọc $000'4;chú gọi Ông Kẹo$000'1;!
+talkfigs/0eng/data/0046#53.41#page:2	Tớ vừa gọi tên lúc đêm▼thì $000'3;Ông Kẹo$000'1; đã hiện▼ra ngay trước mặt!
+talkfigs/0eng/data/0046#53.41#page:3	$024'327'5;$023'327'170'10'1;$022'327'301;Nhưng rồi cả đàn ruồi▼ào tới, bay kín phòng!
+talkfigs/0eng/data/0046#53.41#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Tớ cuống cuồng đuổi ruồi,▼còn $000'3;Ông Kẹo$000'1; lại biến mất!
+talkfigs/0eng/data/0046#53.41#page:6	$024'327'2;$023'327'28'8'4;$022'327'381;Nếu không có lũ ruồi▼đáng ghét, tớ đã được▼$000'3;Ông Kẹo$000'1; cho kẹo rồi!$079;
+talkfigs/0eng/data/0046#53.42#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Tớ nghĩ mãi... Ruồi hay▼bu quanh đồ ngọt, đúng chứ?
+talkfigs/0eng/data/0046#53.42#page:2	Hẳn những $000'4;hoa kẹo$000'1; của▼$000'3;Ông Kẹo$000'1; trông ngon▼tuyệt với lũ ruồi!
+talkfigs/0eng/data/0046#53.42#page:3	Hay vì thế mà ruồi▼cũng kéo tới chỗ cậu?$079;
+talkfigs/0eng/data/0046#53.60#page:1	Chào $500;! Cậu nghe▼chuyện này chưa?
+talkfigs/0eng/data/0046#53.60#page:2	Mấy bạn ở $000'5;trường$000'1;▼nghe thấy tiếng nói lạ.
+talkfigs/0eng/data/0046#53.60#page:3	Tưởng ai nghịch nên tớ▼dẫn thầy tới chỗ có tiếng.
+talkfigs/0eng/data/0046#53.60#page:4	Vậy mà đợi mãi chẳng▼nghe thấy gì cả!
+talkfigs/0eng/data/0046#53.60#page:6	$024'327'2;$023'327'28'8'4;$022'327'381;Xấu hổ ghê! Thầy còn▼nghĩ chính tớ bày trò!
+talkfigs/0eng/data/0046#53.60#page:7	$024'327'2;$023'327'28'8'4;$022'327'381;Để xem ai đứng sau▼những tiếng nói ấy...!$079;
+talkfigs/0eng/data/0046#53.61#page:1	Khi tớ dẫn thầy tới▼thì chẳng nghe gì hết...
+talkfigs/0eng/data/0046#53.61#page:2	nhưng đi một mình,▼chúng lại vang lên!
+talkfigs/0eng/data/0046#53.61#page:3	Tớ đến gần là tiếng▼nói bỗng im bặt.
+talkfigs/0eng/data/0046#53.61#page:4	Thế nên tớ vẫn chưa▼biết thủ phạm là ai.
+talkfigs/0eng/data/0046#53.61#page:6	$024'327'0;$023'327'178'10'1;$022'327'361;Có cách nào lén tới gần▼mà không bị phát hiện nhỉ?
+talkfigs/0eng/data/0046#53.61#page:7	$024'327'2;$023'327'28'8'4;$022'327'381;Lần tới nhất định tớ▼tóm được đám phá phách!$079;
+talkfigs/0eng/data/0046#53.62#page:1	Cậu nghe tin chưa?
+talkfigs/0eng/data/0046#53.62#page:2	Đó là tiếng các $000'5;hiệu trưởng$000'1;▼tiền nhiệm của trường.
+talkfigs/0eng/data/0046#53.62#page:3	Họ luôn dõi theo▼chúng ta bấy lâu nay.

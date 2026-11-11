@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0046#43.25#page:4	$024'327'7;$023'327'177'10'1;Tớ ghen tị vì họ▼lúc nào cũng bên nhau.
+talkfigs/0eng/data/0046#43.25#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng họ nên cư xử▼trưởng thành hơn chứ.
+talkfigs/0eng/data/0046#43.27#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Đúng lúc quá, $500;!▼Cậu phải nghe chuyện này!
+talkfigs/0eng/data/0046#43.27#page:2	$530'7; và▼$530'1;▼$532;...
+talkfigs/0eng/data/0046#43.27#page:3	cùng nhau▼$531;.
+talkfigs/0eng/data/0046#43.27#page:4	$024'327'7;$023'327'177'10'1;Tớ ghen tị vì họ▼lúc nào cũng bên nhau.
+talkfigs/0eng/data/0046#43.27#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#43.28#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Đúng lúc quá, $500;!▼Cậu phải nghe chuyện này!
+talkfigs/0eng/data/0046#43.28#page:2	$530'7; và▼$530'1;▼$532;...
+talkfigs/0eng/data/0046#43.28#page:3	cùng nhau▼$531;.
+talkfigs/0eng/data/0046#43.28#page:4	$024'327'7;$023'327'177'10'1;Tớ ghen tị vì họ▼lúc nào cũng bên nhau.
+talkfigs/0eng/data/0046#43.28#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#43.29#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Đúng lúc quá, $500;!▼Cậu phải nghe chuyện này!
+talkfigs/0eng/data/0046#43.29#page:2	$530'7; và▼$530'1;▼$532;...
+talkfigs/0eng/data/0046#43.29#page:3	cùng nhau▼$531;.
+talkfigs/0eng/data/0046#43.29#page:4	$024'327'7;$023'327'177'10'1;Tớ ghen tị vì họ▼lúc nào cũng bên nhau.
+talkfigs/0eng/data/0046#43.29#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#43.34#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Đúng lúc quá, $500;!▼Cậu phải nghe chuyện này!
+talkfigs/0eng/data/0046#43.34#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0046#43.34#page:3	$024'327'7;$023'327'177'10'1;Ngày nào cũng vui vẻ▼như thế thì cũng tốt.
+talkfigs/0eng/data/0046#43.34#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#43.35#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Đúng lúc quá, $500;!▼Cậu phải nghe chuyện này!
+talkfigs/0eng/data/0046#43.35#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0046#43.35#page:3	$024'327'7;$023'327'177'10'1;Ngày nào cũng vui vẻ▼như thế thì cũng tốt.
+talkfigs/0eng/data/0046#43.35#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#43.36#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Đúng lúc quá, $500;!▼Cậu phải nghe chuyện này!
+talkfigs/0eng/data/0046#43.36#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0046#43.36#page:3	$024'327'7;$023'327'177'10'1;Ngày nào cũng vui vẻ▼như thế thì cũng tốt.
+talkfigs/0eng/data/0046#43.36#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#43.37#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Đúng lúc quá, $500;!▼Cậu phải nghe chuyện này!
+talkfigs/0eng/data/0046#43.37#page:2	$530'0; mê tít▼$532;▼$531;.
+talkfigs/0eng/data/0046#43.37#page:3	$024'327'7;$023'327'177'10'1;Ngày nào cũng vui vẻ▼như thế thì cũng tốt.
+talkfigs/0eng/data/0046#43.37#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#43.38#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Đúng lúc quá, $500;!▼Cậu phải nghe chuyện này!
+talkfigs/0eng/data/0046#43.38#page:2	$530'0; mê tít▼$532;▼$531;.
+talkfigs/0eng/data/0046#43.38#page:3	$024'327'7;$023'327'177'10'1;Ngày nào cũng vui vẻ▼như thế thì cũng tốt.
+talkfigs/0eng/data/0046#43.38#page:4	Nhưng không chịu học▼cách làm cho đúng thì▼chỉ phí thời gian thôi.
+talkfigs/0eng/data/0046#43.39#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Đúng lúc quá, $500;!▼Cậu phải nghe chuyện này!
+talkfigs/0eng/data/0046#43.39#page:2	$530'0; đang▼$532;▼một mình $531;.
+talkfigs/0eng/data/0046#43.39#page:3	$024'327'7;$023'327'177'10'1;Ngày nào cũng vui vẻ▼như thế thì cũng tốt.
+talkfigs/0eng/data/0046#43.39#page:4	Nhưng không chịu học▼cách làm cho đúng thì▼chỉ phí thời gian thôi.
+talkfigs/0eng/data/0046#43.40#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Đúng lúc quá, $500;!▼Cậu phải nghe chuyện này!
+talkfigs/0eng/data/0046#43.40#page:2	$530'0; mê tít▼$532;▼$531;.
+talkfigs/0eng/data/0046#43.40#page:3	$024'327'7;$023'327'177'10'1;Ngày nào cũng vui vẻ▼như thế thì cũng tốt.
+talkfigs/0eng/data/0046#43.40#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#43.41#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Đúng lúc quá, $500;!▼Cậu phải nghe chuyện này!
+talkfigs/0eng/data/0046#43.41#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0046#43.41#page:3	$024'327'7;$023'327'177'10'1;Ngày nào cũng vui vẻ▼như thế thì cũng tốt.
+talkfigs/0eng/data/0046#43.41#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#43.42#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Đúng lúc quá, $500;!▼Cậu phải nghe chuyện này!
+talkfigs/0eng/data/0046#43.42#page:2	$530'0; đã bình thản▼$532;▼$531;.
+talkfigs/0eng/data/0046#43.42#page:3	$024'327'7;$023'327'177'10'1;Ngày nào cũng vui vẻ▼như thế thì cũng tốt.
+talkfigs/0eng/data/0046#43.42#page:4	Nhưng không chịu học▼cách làm cho đúng thì▼chỉ phí thời gian thôi.
+talkfigs/0eng/data/0046#43.43#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Đúng lúc quá, $500;!▼Cậu phải nghe chuyện này!
+talkfigs/0eng/data/0046#43.43#page:2	$530'0; mê tít▼$532;▼$531;.
+talkfigs/0eng/data/0046#43.43#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ khá ấn tượng đấy.▼Hay là kể cho▼thầy cô nghe nhỉ?
+talkfigs/0eng/data/0046#43.44#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Đúng lúc quá, $500;!▼Cậu phải nghe chuyện này!
+talkfigs/0eng/data/0046#43.44#page:2	$530'0; mê tít▼$532;▼$531;.
+talkfigs/0eng/data/0046#43.44#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ khá ấn tượng đấy.▼Hay là kể cho▼thầy cô nghe nhỉ?
+talkfigs/0eng/data/0046#43.45#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Đúng lúc quá, $500;!▼Cậu phải nghe chuyện này!
+talkfigs/0eng/data/0046#43.45#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0046#43.45#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ khá ấn tượng đấy.▼Hay là kể cho▼thầy cô nghe nhỉ?
+talkfigs/0eng/data/0046#43.46#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Đúng lúc quá, $500;!▼Cậu phải nghe chuyện này!
+talkfigs/0eng/data/0046#43.46#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0046#43.46#page:3	$024'327'2;$023'327'28'8'4;$022'327'381;Không thể tin nổi!▼Tớ nhất định sẽ▼mách thầy cô!
+talkfigs/0eng/data/0046#43.50#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#43.50#page:2	$530'0; và $530'1;▼$533;.
+talkfigs/0eng/data/0046#43.50#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Không biết họ đã▼hẹn hò chưa nhỉ...
+talkfigs/0eng/data/0046#43.50#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#43.51#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#43.51#page:2	$530'0; và $530'1;▼$533;.
+talkfigs/0eng/data/0046#43.51#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Không biết họ đã▼hẹn hò chưa nhỉ...
+talkfigs/0eng/data/0046#43.51#page:4	Tớ thấy yêu đương▼với học hành khó mà▼đi đôi được.
+talkfigs/0eng/data/0046#43.52#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#43.52#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Không biết họ đã▼hẹn hò chưa nhỉ...
+talkfigs/0eng/data/0046#43.52#page:4	Tớ thấy yêu đương▼với học hành khó mà▼đi đôi được.
+talkfigs/0eng/data/0046#43.53#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#43.53#page:2	$530'0; và $530'1;▼đã $533;.
+talkfigs/0eng/data/0046#43.53#page:3	$024'327'7;$023'327'177'10'1;Họ vui vẻ thế▼cũng tốt mà.
+talkfigs/0eng/data/0046#43.53#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#43.54#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#43.54#page:2	$530'0; và $530'1;▼đã $533;.
+talkfigs/0eng/data/0046#43.54#page:3	$024'327'7;$023'327'177'10'1;Họ vui vẻ thế▼cũng tốt mà.
+talkfigs/0eng/data/0046#43.54#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng họ nên cư xử▼trưởng thành hơn chứ.
+talkfigs/0eng/data/0046#43.65#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#43.65#page:2	$530'0; và $530'1;▼đã $533;.
+talkfigs/0eng/data/0046#43.65#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#43.65#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#43.66#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#43.66#page:2	$530'0; và $530'1;▼trông vui vẻ bên nhau,▼$533;.
+talkfigs/0eng/data/0046#43.66#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#43.66#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng họ nên cư xử▼trưởng thành hơn chứ.
+talkfigs/0eng/data/0046#43.67#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#43.67#page:2	$530'0; và $530'1;▼$533; đến mức▼trông cứ như giả ấy.
+talkfigs/0eng/data/0046#43.67#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#43.67#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#43.68#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#43.68#page:2	$530'0; và $530'1;▼lúc nào cũng quấn quýt▼bên nhau. $533;.
+talkfigs/0eng/data/0046#43.68#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#43.68#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng họ nên cư xử▼trưởng thành hơn chứ.
+talkfigs/0eng/data/0046#43.80#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#43.80#page:2	Người ta thấy $530'0;▼$531;, trông có vẻ▼rất...
+talkfigs/0eng/data/0046#43.80#page:4	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#43.80#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#43.81#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#43.81#page:2	Người ta thấy $530'0;▼$531;, rồi dùng▼thứ rất kỳ lạ...
+talkfigs/0eng/data/0046#43.81#page:4	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#43.81#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng họ nên cư xử▼trưởng thành hơn chứ.
+talkfigs/0eng/data/0046#43.82#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#43.82#page:2	Người ta thấy $530'0;▼$531;, rồi làm▼chuyện rất kỳ lạ...
+talkfigs/0eng/data/0046#43.82#page:4	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#43.82#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng họ nên cư xử▼trưởng thành hơn chứ.
+talkfigs/0eng/data/0046#43.83#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#43.83#page:2	Người ta thấy $530'0;▼$531;, rồi cẩn thận▼làm...
+talkfigs/0eng/data/0046#43.83#page:4	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#43.83#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
+talkfigs/0eng/data/0046#43.90#page:1	$024'327'6;$023'327'8'10'1;$022'327'382;Bọn tớ đang tám chuyện▼hay ho thì cậu tới đấy!
+talkfigs/0eng/data/0046#43.90#page:2	$530'0; ngầu cực kỳ,▼ít nhất là theo lời▼$533;.
+talkfigs/0eng/data/0046#43.90#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#43.90#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng học hành▼cũng phải lo chứ.
