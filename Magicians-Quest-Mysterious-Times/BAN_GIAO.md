@@ -1,3 +1,13 @@
+## Checkpoint 112 — 11/11/2026
+
+- Dịch 720 trang `0046.011`–`0046.016`, tăng 31.335 lên 32.055 trên tổng 55.976 (57.27%).
+- 100 mẫu thiếu bản Việt nguyên văn; 99 mẫu viết mới, một mẫu tái sử dụng theo phần thân câu; 195 trang dùng lại bản dịch trùng nguyên văn.
+- Chủ đề: tình bạn, tin đồn, hẹn hò, bí mật, học hành, những câu thoại châm chọc ngộ nghĩnh.
+- QA 501 JSONL / 55.976 bản ghi PASS, giữ nguyên 31.335 mục trước đó, 495 JSONL ngoài đợt byte-identical.
+- Giữ nguyên token NDS, kiểm tra độ dài tĩnh <=34 ký tự/đoạn, NFC, không quá 3 ngắt dòng.
+- Chưa test giao diện ROM NDS; các token biến động chiều rộng có thể làm tràn khung.
+- Đợt 113: `0046.017`–`0046.022`.
+
 ## Đợt 111 — 11/11/2026
 
 - +720 trang NPC `0046.005`–`0046.010`. Tổng 31.335/55.976 (55,98%).
