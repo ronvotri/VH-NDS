@@ -1,0 +1,135 @@
+pattern_number	occurrences	source	en	vi
+1	7	REUSED	$024'327'3;$023'327'171'10'1;$022'327'302;I don't know if I can take it▼when you find a new girlfriend,▼but I'll deal with it.	$024'327'3;$023'327'171'10'1;$022'327'302;Thấy cậu có bạn gái mới chắc tớ▼đau lòng, nhưng tớ sẽ vượt qua.
+2	7	REUSED	We could always date again▼sometime if you'd like.▼See you later.$079;$073'702'1;	Nếu cậu muốn, sau này ta lại hẹn▼hò nhé. Tạm biệt.$079;$073'702'1;
+3	6	REUSED	$500;, I think we're▼basically stuck in a rut.	$500;, tớ thấy hai đứa cứ giậm chân tại▼chỗ.
+4	6	REUSED	It's about time we went▼separate ways.	Đến lúc hai đứa đi đường riêng▼rồi.
+5	1	NEW	$024'327'0;$023'327'178'10'1;$022'327'361;What is it? Is there something▼you wanted to talk about?$085;$019'1674;	$024'327'0;$023'327'178'10'1;$022'327'361;Có chuyện gì à? Cậu muốn▼nói với tớ điều gì sao?$085;$019'1674;
+6	1	NEW	I've not really got anything to▼say of much worth at the moment.$079;	Giờ tớ cũng chẳng có▼chuyện gì đáng kể để nói.$079;
+7	1	REUSED	Talk$019'1675;	Trò chuyện$019'1675;
+8	1	REUSED	Give item$019'1676;	Tặng đồ$019'1676;
+9	1	REUSED	Hang out$019'1677;	Đi chơi$019'1677;
+10	1	REUSED	Go to school$019'1678;	Đến trường$019'1678;
+11	1	REUSED	Nothing$019'1679;	Không có gì$019'1679;
+12	1	NEW	$024'327'1;$023'327'173'6'2;$022'327'341;For me? You have something▼to give me?!$079;$073'705'1'1;	$024'327'1;$023'327'173'6'2;$022'327'341;Cho tớ á? Cậu có quà▼tặng tớ thật sao?!$079;$073'705'1'1;
+13	1	NEW	$024'327'7;$023'327'177'10'1;Ohhh... Now isn't a good time.▼I have to go soon...	$024'327'7;$023'327'177'10'1;Ồ... Giờ không tiện lắm.▼Tớ sắp phải đi rồi...
+14	1	NEW	I really wish we could have▼spent some time together,▼$500;...	Ước gì chúng mình được▼chơi cùng nhau thêm chút,▼$500; à...
+15	1	NEW	So please ask me again some▼other time.$079;	Lần khác cậu lại rủ▼tớ nhé.$079;
+16	1	REUSED	Ummm...$079;$073'010'1'1;	Ừm...$079;$073'010'1'1;
+17	1	NEW	$024'327'0;$023'327'178'10'1;$022'327'361;You're just saying hello?▼Please remember that I'm▼an incredibly busy person!$079;	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu chỉ ghé chào thôi á?▼Nhớ là tớ bận tối mắt▼tối mũi đấy nhé!$079;
+18	1	NEW	$024'327'0;$023'327'178'10'1;$022'327'361;Oh, what is it? Is there▼something you want from me?$085;$019'1684;	$024'327'0;$023'327'178'10'1;$022'327'361;Ồ, có chuyện gì vậy?▼Cậu muốn nhờ tớ gì à?$085;$019'1684;
+19	1	NEW	Oh, there's really nothing▼interesting to talk about at▼the moment.$079;	Giờ cũng chẳng có▼chuyện gì hay để kể.$079;
+20	1	NEW	Listen to her story$019'1685;	Nghe cô ấy kể chuyện$019'1685;
+21	1	NEW	Give her a nice present$019'1686;	Tặng cô ấy một món quà$019'1686;
+22	1	NEW	Play together$019'1687;	Chơi cùng nhau$019'1687;
+23	1	NEW	Go to school together$019'1688;	Cùng đến trường$019'1688;
+24	1	NEW	Say it's nothing at all$019'1689;	Bảo là không có gì$019'1689;
+25	2	NEW	$024'327'1;$023'327'173'6'2;$022'327'341;Oh, for me? You brought me a▼present?$079;$073'705'1'1;	$024'327'1;$023'327'173'6'2;$022'327'341;Ơ, cho tớ à? Cậu mang▼quà đến tặng tớ sao?$079;$073'705'1'1;
+26	1	NEW	$034'2;$024'327'7;$023'327'177'10'1;Okay, I'll play with you. So,▼where will you take me?	$034'2;$024'327'7;$023'327'177'10'1;Được, tớ đi chơi với cậu.▼Thế cậu định dẫn tớ đi đâu?
+27	1	NEW	$024'327'1;$023'327'173'6'2;$022'327'341;Since I'm agreeing to go out▼with you, I hope you can show me▼a good time.$079;$073'705'3'1;	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ đã đồng ý đi chơi rồi,▼nhớ cho tớ một buổi▼thật vui nhé!$079;$073'705'3'1;
+28	2	NEW	Um...$079;$073'010'1'1;	Ừm...$079;$073'010'1'1;
+29	1	NEW	$024'327'0;$023'327'178'10'1;$022'327'361;So, you called over to me for no▼reason? Geez! I'm busy here, you▼know?!$079;	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu gọi tớ chỉ để chơi à?▼Trời ơi! Tớ đang bận▼lắm đấy nhé!$079;
+30	1	NEW	$024'327'0;$023'327'178'10'1;$022'327'361;Oh, what is it? Is there▼something you want from me?$085;$019'1691;	$024'327'0;$023'327'178'10'1;$022'327'361;Ồ, có chuyện gì vậy?▼Cậu muốn nhờ tớ gì à?$085;$019'1691;
+31	1	NEW	Listen to her story$019'1695;	Nghe cô ấy kể chuyện$019'1695;
+32	1	NEW	Give her a nice present$019'1692;	Tặng cô ấy một món quà$019'1692;
+33	1	NEW	Go to school together$019'1693;	Cùng đến trường$019'1693;
+34	1	NEW	Say it's nothing at all$019'1694;	Bảo là không có gì$019'1694;
+35	1	NEW	$024'327'0;$023'327'178'10'1;$022'327'361;So, you called over to me for no▼reason? Geez! Well, I guess you▼can't help it!$079;	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu gọi tớ chẳng vì gì à?▼Thiệt tình! Thôi,▼biết sao được!$079;
+36	4	NEW	Oh, your timing is perfect!$073'700'1'1;	Ôi, cậu đến đúng lúc ghê!$073'700'1'1;
+37	23	NEW	$024'327'7;$023'327'177'10'1;By the way, guess what I saw?	$024'327'7;$023'327'177'10'1;Mà này, đoán xem▼tớ vừa thấy gì?
+38	9	REUSED	$530'0; and $530'1;▼$532;▼$531;.	$530'0; với $530'1;▼$532;▼$531;.
+39	10	NEW	$024'327'7;$023'327'177'10'1;$022'327'400;It's nice that they look happy▼and all.	$024'327'7;$023'327'177'10'1;$022'327'400;Trông họ vui vẻ▼thật đấy nhỉ.
+40	4	NEW	$024'327'2;$023'327'28'8'4;$022'327'381;But they should try acting more▼grown-up.	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng họ nên cư xử▼trưởng thành hơn chứ.
+41	11	NEW	$024'327'7;$023'327'177'10'1;$022'327'400;By the way, guess what I saw?	$024'327'7;$023'327'177'10'1;$022'327'400;Mà này, đoán xem▼tớ vừa thấy gì?
+42	2	NEW	$024'327'2;$023'327'28'8'4;$022'327'381;But this is no time to be out▼fishing and acting all▼lovey-dovey.	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng giờ đâu phải lúc▼vừa câu cá vừa▼tình tứ như thế.
+43	2	NEW	$024'327'2;$023'327'28'8'4;$022'327'381;But this is no time to be out▼catching insects and acting▼all lovey-dovey.	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng giờ đâu phải lúc▼vừa bắt côn trùng vừa▼tình tứ như thế.
+44	16	NEW	But they're just wasting their▼time if they don't learn to▼do it right.	Nhưng không chịu học▼cách làm cho đúng thì▼chỉ phí thời gian thôi.
+45	23	NEW	$024'327'2;$023'327'28'8'4;$022'327'381;But they'll regret idling their▼youth away like this one day.	$024'327'2;$023'327'28'8'4;$022'327'381;Cứ lãng phí tuổi trẻ▼như thế, có ngày▼họ sẽ hối hận.
+46	1	NEW	$024'327'7;$023'327'177'10'1;$022'327'400;It's nice that they're having▼fun.	$024'327'7;$023'327'177'10'1;$022'327'400;Họ vui vẻ với nhau▼thì cũng tốt thôi.
+47	9	NEW	$024'327'2;$023'327'28'8'4;$022'327'381;I couldn't believe it! I'm▼definitely going to tell▼the teacher.	$024'327'2;$023'327'28'8'4;$022'327'381;Không thể tin nổi!▼Tớ nhất định sẽ▼mách thầy cô!
+48	10	NEW	$530'0; and▼$530'1;▼$532;...	$530'0; và▼$530'1;▼$532;...
+49	10	NEW	together▼$531;.	cùng nhau▼$531;.
+50	11	NEW	$024'327'7;$023'327'177'10'1;It's nice that they're having▼fun.	$024'327'7;$023'327'177'10'1;Họ vui vẻ thế▼cũng tốt mà.
+51	4	NEW	$024'327'2;$023'327'28'8'4;$022'327'381;But this is no time to be out▼fishing without a care in the▼world.	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng giờ đâu phải lúc▼vô tư đi câu cá▼như thế chứ.
+52	3	NEW	$024'327'2;$023'327'28'8'4;$022'327'381;But this is no time to be out▼catching insects without a care▼in the world.	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng giờ đâu phải lúc▼vô tư đi bắt côn trùng▼như thế chứ.
+53	2	NEW	$024'327'7;$023'327'177'10'1;It's nice that they're having▼fun, but they're just wasting▼their time if no one wins.	$024'327'7;$023'327'177'10'1;Vui thì vui, nhưng▼không ai thắng cả thì▼phí thời gian lắm.
+54	6	REUSED	$530'0; having fun▼$532;▼$531;.	$530'0; đang vui vẻ▼$532;▼$531;.
+55	17	NEW	$024'327'7;$023'327'177'10'1;Having fun like that every day▼is fine and all.	$024'327'7;$023'327'177'10'1;Ngày nào cũng vui vẻ▼như thế thì cũng tốt.
+56	5	NEW	$024'327'2;$023'327'28'8'4;$022'327'381;But I'm a little worried that▼$530'0; might do▼something stupid.	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng tớ hơi lo $530'0;▼sẽ làm chuyện gì▼ngốc nghếch mất.
+57	1	NEW	$024'327'2;$023'327'28'8'4;$022'327'381;But this is no time to be out▼catching insects without▼a care in the world.	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng giờ đâu phải lúc▼vô tư đi bắt côn trùng▼như thế chứ.
+58	5	REUSED	$530'0; totally▼$532;▼$531;.	$530'0; đang mải mê▼$532;▼$531;.
+59	1	NEW	$530'0; having fun▼$532; all ▼alone $531;.	$530'0; vui vẻ▼$532; một mình▼$531;.
+60	1	REUSED	$530'0; calmly▼$532;▼$531;.	$530'0; đang thong thả▼$532;▼$531;.
+61	7	NEW	$024'327'1;$023'327'173'6'2;$022'327'341;I was rather impressed. Maybe I▼should tell the teacher.	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ khá ấn tượng đấy.▼Hay là kể cho▼thầy cô nghe nhỉ?
+62	2	NEW	$024'327'2;$023'327'28'8'4;$022'327'381;By the way, guess what I saw?	$024'327'2;$023'327'28'8'4;$022'327'381;Mà này, đoán xem▼tớ vừa thấy gì?
+63	1	NEW	$024'327'2;$023'327'28'8'4;$022'327'381;Pranks like that are▼unacceptable! I'm definitely▼going to tell the teacher.	$024'327'2;$023'327'28'8'4;$022'327'381;Trò nghịch đó quá đáng!▼Tớ nhất định sẽ▼mách thầy cô.
+64	12	NEW	$024'327'7;$023'327'177'10'1;$022'327'400;By the way, did you hear?	$024'327'7;$023'327'177'10'1;$022'327'400;Mà này, cậu nghe tin gì chưa?
+65	19	REUSED	$530'0; and $530'1;▼were $532;▼$531;.	$530'0; và $530'1;▼đang $532;▼$531;.
+66	24	NEW	$024'327'7;$023'327'177'10'1;$022'327'400;It's nice they're always▼together and all.	$024'327'7;$023'327'177'10'1;$022'327'400;Họ cứ quấn quýt▼bên nhau cũng dễ thương.
+67	3	NEW	$530'0; was▼$532;▼$530'1;...	$530'0; đã▼$532;▼$530'1;...
+68	21	NEW	$024'327'7;$023'327'177'10'1;By the way, did you hear?	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+69	6	REUSED	$530'0; was having fun▼$532;▼$531;.	$530'0; đang vui vẻ▼$532;▼$531;.
+70	5	REUSED	$530'0; was like totally▼$532;▼$531;.	$530'0; mê tít▼$532;▼$531;.
+71	1	REUSED	$530'0; was▼$532;▼alone $531;.	$530'0; đang▼$532;▼một mình $531;.
+72	1	NEW	$530'0; was calmly▼$532;▼$531;.	$530'0; đã bình thản▼$532;▼$531;.
+73	1	NEW	$024'327'2;$023'327'28'8'4;$022'327'381;By the way, did you hear?	$024'327'2;$023'327'28'8'4;$022'327'381;Mà này, cậu nghe tin gì chưa?
+74	8	NEW	$024'327'7;$023'327'177'10'1;You won't believe what I heard!	$024'327'7;$023'327'177'10'1;Cậu không tin nổi▼chuyện tớ vừa nghe đâu!
+75	10	REUSED	$530'0; and $530'1;▼$533;.	$530'0; và $530'1;▼$533;.
+76	3	NEW	$024'327'7;$023'327'177'10'1;$022'327'400;I wonder if they're already▼dating..	$024'327'7;$023'327'177'10'1;$022'327'400;Không biết họ đã▼hẹn hò chưa nhỉ...
+77	5	NEW	I really don't think love and▼schoolwork mix.	Tớ thấy yêu đương▼với học hành khó mà▼đi đôi được.
+78	4	REUSED	$530'0; and $530'1;▼were $533;.	$530'0; và $530'1;▼đã $533;.
+79	7	NEW	$024'327'2;$023'327'28'8'4;$022'327'381;But they shouldn't do anything▼that will cause others to start▼worrying.	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng họ đừng làm gì▼khiến mọi người▼phải lo lắng chứ.
+80	8	NEW	$024'327'7;$023'327'177'10'1;You know what I heard?	$024'327'7;$023'327'177'10'1;Cậu biết tớ nghe▼được chuyện gì không?
+81	15	NEW	$024'327'7;$023'327'177'10'1;I really don't get it.	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+82	7	NEW	$024'327'2;$023'327'28'8'4;$022'327'381;I mean, they could always come▼talk to me if they have some▼sort of problem.	$024'327'2;$023'327'28'8'4;$022'327'381;Có chuyện gì thì▼họ cứ đến tâm sự▼với tớ cơ mà.
+83	2	REUSED	$530'0; and $530'1;▼look really happy together,▼$533;.	$530'0; và $530'1;▼trông vui vẻ bên nhau,▼$533;.
+84	2	NEW	$530'0; and $530'1;▼$533; to the▼point that it seems fake.	$530'0; và $530'1;▼$533; đến mức▼trông cứ như giả ấy.
+85	1	NEW	$530'0; and $530'1;▼are with each other all the▼time. I think...	$530'0; và $530'1;▼lúc nào cũng dính lấy nhau.▼Tớ nghĩ...
+86	2	NEW	$530'0; was seen▼$531; and▼looked really...	Người ta thấy $530'0;▼$531;, trông có vẻ▼rất...
+87	3	NEW	$530'0; was seen▼$531; and▼was using weird...	Người ta thấy $530'0;▼$531;, rồi dùng▼thứ rất kỳ lạ...
+88	1	NEW	$530'0; was seen▼$531; and▼was doing really weird...	Người ta thấy $530'0;▼$531;, rồi làm▼chuyện rất kỳ lạ...
+89	2	NEW	$530'0; was seen▼$531; and▼was carefully...	Người ta thấy $530'0;▼$531;, rồi cẩn thận▼làm...
+90	2	NEW	$530'0; is really cool▼according to▼$533;.	$530'0; ngầu cực kỳ,▼ít nhất là theo lời▼$533;.
+91	2	NEW	$530'0;▼$533;▼for being warm-hearted.	$530'0;▼$533;▼vì rất tốt bụng.
+92	2	REUSED	$530'0;▼$533;▼always pulling pranks.	$530'0;▼$533;▼vì hay bày trò.
+93	15	NEW	$024'327'7;$023'327'177'10'1;Hey, did you hear that big rumor▼that's been going around?	$024'327'7;$023'327'177'10'1;Nè, cậu nghe lời đồn▼đình đám dạo này chưa?
+94	2	NEW	$530'0; and $530'1;▼are always▼$533;...	$530'0; và $530'1;▼lúc nào cũng▼$533;...
+95	2	NEW	together.	cùng nhau.
+96	2	NEW	$530'0; and $530'1;▼have publicly been▼$533;.	$530'0; và $530'1;▼đã công khai $533;.
+97	1	NEW	$024'327'0;$023'327'178'10'1;$022'327'361;But where on earth did they▼actually go?	$024'327'0;$023'327'178'10'1;$022'327'361;Nhưng rốt cuộc họ▼đã đi đâu cơ chứ?
+98	2	NEW	$530'0; and $530'1;▼are secretly▼$533;.	$530'0; và $530'1;▼đang bí mật $533;.
+99	2	NEW	$530'0; made $530'1;▼$533;.	$530'0; đã khiến $530'1;▼$533;.
+100	1	NEW	$024'327'6;$023'327'8'10'1;$022'327'382;I mean, they're just wasting▼their time if no one wins.	$024'327'6;$023'327'8'10'1;$022'327'382;Không ai thắng thì▼họ chỉ phí thời gian thôi.
+101	1	NEW	$024'327'7;$023'327'177'10'1;Hey, did you hear that big rumor▼that's been going around?▼That...	$024'327'7;$023'327'177'10'1;Nè, cậu nghe lời đồn▼đình đám dạo này chưa?▼Chuyện là...
+102	2	NEW	$533;▼$530'0; and▼$530'1;'s close friendship.	$533;▼tình bạn thân thiết của▼$530'0; và $530'1;.
+103	1	NEW	$530'0; and $530'1;▼$533;▼by a strong bond.	$530'0; và $530'1;▼$533; nhờ tình cảm▼gắn bó bền chặt.
+104	1	NEW	$024'327'1;$023'327'173'6'2;$022'327'341;I really don't get it, but I▼guess it's a good thing.	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ chẳng hiểu lắm,▼nhưng chắc là chuyện tốt.
+105	2	NEW	$530'0;'s strange behavior▼$533;.	Hành động kỳ lạ▼của $530'0;▼$533;.
+106	1	NEW	$530'0; wants to become▼$533;.	$530'0; muốn trở thành▼$533;.
+107	1	NEW	$024'327'5;$023'327'175'8'1;$022'327'342;And believe or not, I have▼every intention of doing the▼same!	$024'327'5;$023'327'175'8'1;$022'327'342;Tin hay không tùy cậu,▼tớ cũng định làm▼y như vậy đấy!
+108	16	NEW	$024'327'7;$023'327'177'10'1;I heard a rumor about you,▼$500;. It goes something▼like this...	$024'327'7;$023'327'177'10'1;Tớ nghe lời đồn về cậu,▼$500; à. Chuyện▼đại khái là thế này...
+109	28	REUSED	$024'327'0;$023'327'178'10'1;$022'327'361;I know it's just a rumor,▼but is it true?$018'1;	$024'327'0;$023'327'178'10'1;$022'327'361;Biết là tin đồn thôi,▼nhưng có thật không?$018'1;
+110	28	REUSED	Yes, it's true.$018'1;	Ừ, đúng đấy.$018'1;
+111	27	REUSED	No, it's not true.$018'2;	Không, tin đồn thôi.$018'2;
+112	27	NEW	$024'327'5;$023'327'175'8'1;$022'327'342;Really?! So it wasn't just a▼bunch of baloney?!	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Vậy không phải▼chuyện bịa sao?!
+113	19	NEW	Well, don't go and do anything▼that will cause others to start▼worrying.	Đừng làm gì khiến▼người khác phải lo nhé.
+114	12	NEW	$024'327'7;$023'327'177'10'1;Oh, so it really is just a▼rumor?	$024'327'7;$023'327'177'10'1;Ồ, vậy chỉ là▼tin đồn thôi à?
+115	11	NEW	I'm actually a bit disappointed▼to hear that.$033;	Nghe thế tớ hơi▼thất vọng đấy.$033;
+116	2	NEW	$530'0; and▼$530'1; were▼$533;.	$530'0; và▼$530'1; đã▼$533;.
+117	7	NEW	Well, don't go overboard.▼I'm always here for you if▼you need to talk.	Đừng làm quá nhé.▼Có chuyện gì thì▼cứ tâm sự với tớ.
+118	1	NEW	$530'0; and $530'1;▼are with each other all▼the time. I think...	$530'0; và $530'1;▼lúc nào cũng bên nhau.▼Tớ nghĩ...
+119	1	NEW	Is there some reason behind▼that? I'm always here for you▼if you need to talk.	Có lý do gì sao?▼Cần tâm sự thì▼tớ luôn ở đây nhé.
+120	15	NEW	Oh, so it really is just a▼rumor?	Ồ, vậy chỉ là▼tin đồn thôi à?
+121	16	NEW	I was shocked when I first heard▼that.$033;	Lúc mới nghe tin,▼tớ sốc luôn đấy.$033;
+122	3	NEW	$024'327'0;$023'327'178'10'1;$022'327'361;Have you heard that one?$018'1;	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu đã nghe lời đồn đó chưa?$018'1;
+123	3	NEW	Sure have.$018'1;	Nghe rồi chứ.$018'1;
+124	3	NEW	Nope.$018'2;	Chưa nghe.$018'2;
+125	1	NEW	Oh, so you did hear? I envy you▼for having a rumor like that▼about you.	À, cậu biết rồi sao?▼Được đồn như thế▼đúng là đáng ghen tị.
+126	3	NEW	Oh, so you haven't heard?	Ồ, vậy cậu chưa nghe à?
+127	2	NEW	Well, it's just a rumor anyway.$033;	Dù sao cũng chỉ là tin đồn.$033;
+128	1	NEW	Oh, so you did hear? That's a▼great rumor to have people▼spread about you.	À, cậu nghe rồi sao?▼Được đồn như thế▼thích thật đấy nhỉ.
+129	1	NEW	Oh, so you did hear? Well,▼then I have a suggestion.	À, cậu nghe rồi sao?▼Vậy tớ có lời khuyên này.
+130	1	NEW	Don't do it again!	Đừng làm thế nữa!
+131	1	NEW	Well, let me give you a▼suggestion. Don't do it again!$033;	Để tớ khuyên một câu:▼đừng làm thế nữa!$033;
+132	15	NEW	$024'327'7;$023'327'177'10'1;$500;, I heard▼an incredible rumor about you.▼It goes something like this...	$024'327'7;$023'327'177'10'1;$500; ơi, tớ nghe▼lời đồn ghê gớm về cậu.▼Chuyện là thế này...
+133	1	NEW	$530'0; and $530'1;▼$533;▼by a strong attachment.	$530'0; và $530'1;▼$533; nhờ tình cảm▼gắn bó sâu sắc.
+134	1	REUSED	$530'0; plans to study hard▼and become▼$533;.	$530'0; định học chăm▼để trở thành▼$533;.

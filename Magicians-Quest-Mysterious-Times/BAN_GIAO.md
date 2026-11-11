@@ -1,3 +1,9 @@
+## Đợt 111 — 11/11/2026
+
+- +720 trang NPC `0046.005`–`0046.010`. Tổng 31.335/55.976 (55,98%).
+- 108 mẫu dịch mới trên 534 trang; 26 mẫu tái sử dụng trên 186 trang.
+- Giữ 30.615 câu Việt cũ; QA token, giới hạn và toàn bộ 501 JSONL PASS. Chưa thử hiển thị trong ROM NDS.
+
 ## Checkpoint 110 — 11/11/2026
 
 - +684 NPC pages (`0045.021`–`0045.022`, `0046.001`–`0046.004`).

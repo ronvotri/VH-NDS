@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0046#28.12#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Biết là tin đồn thôi,▼nhưng có thật không?$018'1;
+talkfigs/0eng/data/0046#28.13#page:2	Ừ, đúng đấy.$018'1;
+talkfigs/0eng/data/0046#28.13#page:3	Không, tin đồn thôi.$018'2;
+talkfigs/0eng/data/0046#28.14#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Vậy không phải▼chuyện bịa sao?!
+talkfigs/0eng/data/0046#28.14#page:2	Đừng làm gì khiến▼người khác phải lo nhé.
+talkfigs/0eng/data/0046#28.15#page:1	$024'327'7;$023'327'177'10'1;Ồ, vậy chỉ là▼tin đồn thôi à?
+talkfigs/0eng/data/0046#28.15#page:2	Nghe thế tớ hơi▼thất vọng đấy.$033;
+talkfigs/0eng/data/0046#28.16#page:1	$024'327'7;$023'327'177'10'1;Tớ nghe lời đồn về cậu,▼$500; à. Chuyện▼đại khái là thế này...
+talkfigs/0eng/data/0046#28.16#page:2	$530'0; và▼$530'1; đã▼$533;.
+talkfigs/0eng/data/0046#28.16#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Biết là tin đồn thôi,▼nhưng có thật không?$018'1;
+talkfigs/0eng/data/0046#28.17#page:2	Ừ, đúng đấy.$018'1;
+talkfigs/0eng/data/0046#28.17#page:3	Không, tin đồn thôi.$018'2;
+talkfigs/0eng/data/0046#28.18#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Vậy không phải▼chuyện bịa sao?!
+talkfigs/0eng/data/0046#28.18#page:2	Đừng làm gì khiến▼người khác phải lo nhé.
+talkfigs/0eng/data/0046#28.19#page:1	$024'327'7;$023'327'177'10'1;Ồ, vậy chỉ là▼tin đồn thôi à?
+talkfigs/0eng/data/0046#28.19#page:2	Nghe thế tớ hơi▼thất vọng đấy.$033;
+talkfigs/0eng/data/0046#28.60#page:1	$024'327'7;$023'327'177'10'1;Tớ nghe lời đồn về cậu,▼$500; à. Chuyện▼đại khái là thế này...
+talkfigs/0eng/data/0046#28.60#page:2	$530'0; và $530'1;▼đã $533;.
+talkfigs/0eng/data/0046#28.60#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Biết là tin đồn thôi,▼nhưng có thật không?$018'1;
+talkfigs/0eng/data/0046#28.61#page:2	Ừ, đúng đấy.$018'1;
+talkfigs/0eng/data/0046#28.61#page:3	Không, tin đồn thôi.$018'2;
+talkfigs/0eng/data/0046#28.62#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Vậy không phải▼chuyện bịa sao?!
+talkfigs/0eng/data/0046#28.62#page:2	Đừng làm quá nhé.▼Có chuyện gì thì▼cứ tâm sự với tớ.
+talkfigs/0eng/data/0046#28.63#page:1	$024'327'7;$023'327'177'10'1;Ồ, vậy chỉ là▼tin đồn thôi à?
+talkfigs/0eng/data/0046#28.63#page:2	Nghe thế tớ hơi▼thất vọng đấy.$033;
+talkfigs/0eng/data/0046#28.64#page:1	$024'327'7;$023'327'177'10'1;Tớ nghe lời đồn về cậu,▼$500; à. Chuyện▼đại khái là thế này...
+talkfigs/0eng/data/0046#28.64#page:2	$530'0; và $530'1;▼trông vui vẻ bên nhau,▼$533;.
+talkfigs/0eng/data/0046#28.64#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Biết là tin đồn thôi,▼nhưng có thật không?$018'1;
+talkfigs/0eng/data/0046#28.65#page:2	Ừ, đúng đấy.$018'1;
+talkfigs/0eng/data/0046#28.65#page:3	Không, tin đồn thôi.$018'2;
+talkfigs/0eng/data/0046#28.66#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Vậy không phải▼chuyện bịa sao?!
+talkfigs/0eng/data/0046#28.66#page:2	Đừng làm quá nhé.▼Có chuyện gì thì▼cứ tâm sự với tớ.
+talkfigs/0eng/data/0046#28.67#page:1	$024'327'7;$023'327'177'10'1;Ồ, vậy chỉ là▼tin đồn thôi à?
+talkfigs/0eng/data/0046#28.67#page:2	Nghe thế tớ hơi▼thất vọng đấy.$033;
+talkfigs/0eng/data/0046#28.68#page:1	$024'327'7;$023'327'177'10'1;Tớ nghe lời đồn về cậu,▼$500; à. Chuyện▼đại khái là thế này...
+talkfigs/0eng/data/0046#28.68#page:2	$530'0; và $530'1;▼$533; đến mức▼trông cứ như giả ấy.
+talkfigs/0eng/data/0046#28.68#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Biết là tin đồn thôi,▼nhưng có thật không?$018'1;
+talkfigs/0eng/data/0046#28.69#page:2	Ừ, đúng đấy.$018'1;
+talkfigs/0eng/data/0046#28.69#page:3	Không, tin đồn thôi.$018'2;
+talkfigs/0eng/data/0046#28.70#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Vậy không phải▼chuyện bịa sao?!
+talkfigs/0eng/data/0046#28.70#page:2	Đừng làm gì khiến▼người khác phải lo nhé.
+talkfigs/0eng/data/0046#28.71#page:1	$024'327'7;$023'327'177'10'1;Ồ, vậy chỉ là▼tin đồn thôi à?
+talkfigs/0eng/data/0046#28.71#page:2	Nghe thế tớ hơi▼thất vọng đấy.$033;
+talkfigs/0eng/data/0046#28.72#page:1	$024'327'7;$023'327'177'10'1;Tớ nghe lời đồn về cậu,▼$500; à. Chuyện▼đại khái là thế này...
+talkfigs/0eng/data/0046#28.72#page:2	$530'0; và $530'1;▼lúc nào cũng bên nhau.▼Tớ nghĩ...
+talkfigs/0eng/data/0046#28.72#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Biết là tin đồn thôi,▼nhưng có thật không?$018'1;
+talkfigs/0eng/data/0046#28.73#page:2	Ừ, đúng đấy.$018'1;
+talkfigs/0eng/data/0046#28.73#page:3	Không, tin đồn thôi.$018'2;
+talkfigs/0eng/data/0046#28.74#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Vậy không phải▼chuyện bịa sao?!
+talkfigs/0eng/data/0046#28.74#page:2	Có lý do gì sao?▼Cần tâm sự thì▼tớ luôn ở đây nhé.
+talkfigs/0eng/data/0046#28.75#page:1	Ồ, vậy chỉ là▼tin đồn thôi à?
+talkfigs/0eng/data/0046#28.75#page:2	Lúc mới nghe tin,▼tớ sốc luôn đấy.$033;
+talkfigs/0eng/data/0046#29.20#page:1	$024'327'7;$023'327'177'10'1;Tớ nghe lời đồn về cậu,▼$500; à. Chuyện▼đại khái là thế này...
+talkfigs/0eng/data/0046#29.20#page:2	Người ta thấy $530'0;▼$531;, trông có vẻ▼rất...
+talkfigs/0eng/data/0046#29.20#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Biết là tin đồn thôi,▼nhưng có thật không?$018'1;
+talkfigs/0eng/data/0046#29.21#page:2	Ừ, đúng đấy.$018'1;
+talkfigs/0eng/data/0046#29.21#page:3	Không, tin đồn thôi.$018'2;
+talkfigs/0eng/data/0046#29.22#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Vậy không phải▼chuyện bịa sao?!
+talkfigs/0eng/data/0046#29.22#page:2	Đừng làm quá nhé.▼Có chuyện gì thì▼cứ tâm sự với tớ.
+talkfigs/0eng/data/0046#29.23#page:1	$024'327'7;$023'327'177'10'1;Ồ, vậy chỉ là▼tin đồn thôi à?
+talkfigs/0eng/data/0046#29.23#page:2	Lúc mới nghe tin,▼tớ sốc luôn đấy.$033;
+talkfigs/0eng/data/0046#29.24#page:1	$024'327'7;$023'327'177'10'1;Tớ nghe lời đồn về cậu,▼$500; à. Chuyện▼đại khái là thế này...
+talkfigs/0eng/data/0046#29.24#page:2	Người ta thấy $530'0;▼$531;, rồi dùng▼thứ rất kỳ lạ...
+talkfigs/0eng/data/0046#29.24#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Biết là tin đồn thôi,▼nhưng có thật không?$018'1;
+talkfigs/0eng/data/0046#29.25#page:2	Ừ, đúng đấy.$018'1;
+talkfigs/0eng/data/0046#29.25#page:3	Không, tin đồn thôi.$018'2;
+talkfigs/0eng/data/0046#29.26#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Vậy không phải▼chuyện bịa sao?!
+talkfigs/0eng/data/0046#29.26#page:2	Đừng làm gì khiến▼người khác phải lo nhé.
+talkfigs/0eng/data/0046#29.27#page:1	$024'327'7;$023'327'177'10'1;Ồ, vậy chỉ là▼tin đồn thôi à?
+talkfigs/0eng/data/0046#29.27#page:2	Nghe thế tớ hơi▼thất vọng đấy.$033;
+talkfigs/0eng/data/0046#29.28#page:1	$024'327'7;$023'327'177'10'1;Tớ nghe lời đồn về cậu,▼$500; à. Chuyện▼đại khái là thế này...
+talkfigs/0eng/data/0046#29.28#page:2	Người ta thấy $530'0;▼$531;, rồi dùng▼thứ rất kỳ lạ...
+talkfigs/0eng/data/0046#29.28#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Biết là tin đồn thôi,▼nhưng có thật không?$018'1;
+talkfigs/0eng/data/0046#29.29#page:2	Ừ, đúng đấy.$018'1;
+talkfigs/0eng/data/0046#29.29#page:3	Không, tin đồn thôi.$018'2;
+talkfigs/0eng/data/0046#29.30#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Vậy không phải▼chuyện bịa sao?!
+talkfigs/0eng/data/0046#29.30#page:2	Đừng làm gì khiến▼người khác phải lo nhé.
+talkfigs/0eng/data/0046#29.31#page:1	$024'327'7;$023'327'177'10'1;Ồ, vậy chỉ là▼tin đồn thôi à?
+talkfigs/0eng/data/0046#29.31#page:2	Nghe thế tớ hơi▼thất vọng đấy.$033;
+talkfigs/0eng/data/0046#29.32#page:1	$024'327'7;$023'327'177'10'1;Tớ nghe lời đồn về cậu,▼$500; à. Chuyện▼đại khái là thế này...
+talkfigs/0eng/data/0046#29.32#page:2	Người ta thấy $530'0;▼$531;, rồi cẩn thận▼làm...
+talkfigs/0eng/data/0046#29.32#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Biết là tin đồn thôi,▼nhưng có thật không?$018'1;
+talkfigs/0eng/data/0046#29.33#page:2	Ừ, đúng đấy.$018'1;
+talkfigs/0eng/data/0046#29.33#page:3	Không, tin đồn thôi.$018'2;
+talkfigs/0eng/data/0046#29.34#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Vậy không phải▼chuyện bịa sao?!
+talkfigs/0eng/data/0046#29.34#page:2	Đừng làm gì khiến▼người khác phải lo nhé.
+talkfigs/0eng/data/0046#29.35#page:1	$024'327'7;$023'327'177'10'1;Ồ, vậy chỉ là▼tin đồn thôi à?
+talkfigs/0eng/data/0046#29.35#page:2	Nghe thế tớ hơi▼thất vọng đấy.$033;
+talkfigs/0eng/data/0046#29.60#page:1	$024'327'7;$023'327'177'10'1;Tớ nghe lời đồn về cậu,▼$500; à. Chuyện▼đại khái là thế này...
+talkfigs/0eng/data/0046#29.60#page:2	$530'0; ngầu cực kỳ,▼ít nhất là theo lời▼$533;.
+talkfigs/0eng/data/0046#29.60#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu đã nghe lời đồn đó chưa?$018'1;
+talkfigs/0eng/data/0046#29.61#page:2	Nghe rồi chứ.$018'1;
+talkfigs/0eng/data/0046#29.61#page:3	Chưa nghe.$018'2;
+talkfigs/0eng/data/0046#29.62#page:1	À, cậu biết rồi sao?▼Được đồn như thế▼đúng là đáng ghen tị.
+talkfigs/0eng/data/0046#29.63#page:1	Ồ, vậy cậu chưa nghe à?
+talkfigs/0eng/data/0046#29.63#page:2	Dù sao cũng chỉ là tin đồn.$033;
+talkfigs/0eng/data/0046#29.64#page:1	$024'327'7;$023'327'177'10'1;Tớ nghe lời đồn về cậu,▼$500; à. Chuyện▼đại khái là thế này...
+talkfigs/0eng/data/0046#29.64#page:2	$530'0;▼$533;▼vì rất tốt bụng.
+talkfigs/0eng/data/0046#29.64#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu đã nghe lời đồn đó chưa?$018'1;
+talkfigs/0eng/data/0046#29.65#page:2	Nghe rồi chứ.$018'1;
+talkfigs/0eng/data/0046#29.65#page:3	Chưa nghe.$018'2;
+talkfigs/0eng/data/0046#29.66#page:1	À, cậu nghe rồi sao?▼Được đồn như thế▼thích thật đấy nhỉ.
+talkfigs/0eng/data/0046#29.67#page:1	Ồ, vậy cậu chưa nghe à?
+talkfigs/0eng/data/0046#29.67#page:2	Dù sao cũng chỉ là tin đồn.$033;
+talkfigs/0eng/data/0046#29.68#page:1	$024'327'7;$023'327'177'10'1;Tớ nghe lời đồn về cậu,▼$500; à. Chuyện▼đại khái là thế này...
+talkfigs/0eng/data/0046#29.68#page:2	$530'0;▼$533;▼vì hay bày trò.
+talkfigs/0eng/data/0046#29.68#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu đã nghe lời đồn đó chưa?$018'1;
+talkfigs/0eng/data/0046#29.69#page:2	Nghe rồi chứ.$018'1;
+talkfigs/0eng/data/0046#29.69#page:3	Chưa nghe.$018'2;
+talkfigs/0eng/data/0046#29.70#page:1	À, cậu nghe rồi sao?▼Vậy tớ có lời khuyên này.
+talkfigs/0eng/data/0046#29.70#page:2	Đừng làm thế nữa!
+talkfigs/0eng/data/0046#29.71#page:1	Ồ, vậy cậu chưa nghe à?
+talkfigs/0eng/data/0046#29.71#page:2	Để tớ khuyên một câu:▼đừng làm thế nữa!$033;
+talkfigs/0eng/data/0046#30.0#page:1	$024'327'7;$023'327'177'10'1;$500; ơi, tớ nghe▼lời đồn ghê gớm về cậu.▼Chuyện là thế này...
+talkfigs/0eng/data/0046#30.0#page:2	$530'0; và $530'1;▼lúc nào cũng▼$533;...
+talkfigs/0eng/data/0046#30.0#page:3	cùng nhau.
+talkfigs/0eng/data/0046#30.0#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Biết là tin đồn thôi,▼nhưng có thật không?$018'1;
+talkfigs/0eng/data/0046#30.1#page:2	Ừ, đúng đấy.$018'1;
+talkfigs/0eng/data/0046#30.1#page:3	Không, tin đồn thôi.$018'2;
+talkfigs/0eng/data/0046#30.2#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Vậy không phải▼chuyện bịa sao?!

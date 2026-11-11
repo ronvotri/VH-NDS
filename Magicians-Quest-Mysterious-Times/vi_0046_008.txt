@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0046#24.66#page:1	$024'327'7;$023'327'177'10'1;Cậu biết tớ nghe▼được chuyện gì không?
+talkfigs/0eng/data/0046#24.66#page:2	$530'0; và $530'1;▼trông vui vẻ bên nhau,▼$533;.
+talkfigs/0eng/data/0046#24.66#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#24.66#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Có chuyện gì thì▼họ cứ đến tâm sự▼với tớ cơ mà.
+talkfigs/0eng/data/0046#24.67#page:1	$024'327'7;$023'327'177'10'1;Cậu biết tớ nghe▼được chuyện gì không?
+talkfigs/0eng/data/0046#24.67#page:2	$530'0; và $530'1;▼$533; đến mức▼trông cứ như giả ấy.
+talkfigs/0eng/data/0046#24.67#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#24.67#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Cứ lãng phí tuổi trẻ▼như thế, có ngày▼họ sẽ hối hận.
+talkfigs/0eng/data/0046#24.68#page:1	$024'327'7;$023'327'177'10'1;Cậu biết tớ nghe▼được chuyện gì không?
+talkfigs/0eng/data/0046#24.68#page:2	$530'0; và $530'1;▼lúc nào cũng dính lấy nhau.▼Tớ nghĩ...
+talkfigs/0eng/data/0046#24.68#page:4	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#24.68#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng họ nên cư xử▼trưởng thành hơn chứ.
+talkfigs/0eng/data/0046#24.80#page:1	$024'327'7;$023'327'177'10'1;Cậu biết tớ nghe▼được chuyện gì không?
+talkfigs/0eng/data/0046#24.80#page:2	Người ta thấy $530'0;▼$531;, trông có vẻ▼rất...
+talkfigs/0eng/data/0046#24.80#page:4	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#24.80#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;Có chuyện gì thì▼họ cứ đến tâm sự▼với tớ cơ mà.
+talkfigs/0eng/data/0046#24.81#page:1	$024'327'7;$023'327'177'10'1;Cậu biết tớ nghe▼được chuyện gì không?
+talkfigs/0eng/data/0046#24.81#page:2	Người ta thấy $530'0;▼$531;, rồi dùng▼thứ rất kỳ lạ...
+talkfigs/0eng/data/0046#24.81#page:4	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#24.81#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng họ đừng làm gì▼khiến mọi người▼phải lo lắng chứ.
+talkfigs/0eng/data/0046#24.82#page:1	$024'327'7;$023'327'177'10'1;Cậu biết tớ nghe▼được chuyện gì không?
+talkfigs/0eng/data/0046#24.82#page:2	Người ta thấy $530'0;▼$531;, rồi làm▼chuyện rất kỳ lạ...
+talkfigs/0eng/data/0046#24.82#page:4	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#24.82#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng họ đừng làm gì▼khiến mọi người▼phải lo lắng chứ.
+talkfigs/0eng/data/0046#24.83#page:1	$024'327'7;$023'327'177'10'1;Cậu biết tớ nghe▼được chuyện gì không?
+talkfigs/0eng/data/0046#24.83#page:2	Người ta thấy $530'0;▼$531;, rồi cẩn thận▼làm...
+talkfigs/0eng/data/0046#24.83#page:4	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#24.83#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng họ đừng làm gì▼khiến mọi người▼phải lo lắng chứ.
+talkfigs/0eng/data/0046#24.90#page:1	$024'327'7;$023'327'177'10'1;Cậu không tin nổi▼chuyện tớ vừa nghe đâu!
+talkfigs/0eng/data/0046#24.90#page:2	$530'0; ngầu cực kỳ,▼ít nhất là theo lời▼$533;.
+talkfigs/0eng/data/0046#24.90#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#24.90#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Cứ lãng phí tuổi trẻ▼như thế, có ngày▼họ sẽ hối hận.
+talkfigs/0eng/data/0046#24.91#page:1	$024'327'7;$023'327'177'10'1;Cậu không tin nổi▼chuyện tớ vừa nghe đâu!
+talkfigs/0eng/data/0046#24.91#page:2	$530'0;▼$533;▼vì rất tốt bụng.
+talkfigs/0eng/data/0046#24.91#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ khá ấn tượng đấy.▼Hay là kể cho▼thầy cô nghe nhỉ?
+talkfigs/0eng/data/0046#24.92#page:1	$024'327'7;$023'327'177'10'1;Cậu không tin nổi▼chuyện tớ vừa nghe đâu!
+talkfigs/0eng/data/0046#24.92#page:2	$530'0;▼$533;▼vì hay bày trò.
+talkfigs/0eng/data/0046#24.92#page:3	$024'327'2;$023'327'28'8'4;$022'327'381;Không thể tin nổi!▼Tớ nhất định sẽ▼mách thầy cô!
+talkfigs/0eng/data/0046#25.0#page:1	$024'327'7;$023'327'177'10'1;Nè, cậu nghe lời đồn▼đình đám dạo này chưa?
+talkfigs/0eng/data/0046#25.0#page:2	$530'0; và $530'1;▼lúc nào cũng▼$533;...
+talkfigs/0eng/data/0046#25.0#page:3	cùng nhau.
+talkfigs/0eng/data/0046#25.0#page:4	$024'327'7;$023'327'177'10'1;$022'327'400;Họ cứ quấn quýt▼bên nhau cũng dễ thương.
+talkfigs/0eng/data/0046#25.0#page:5	Tớ thấy yêu đương▼với học hành khó mà▼đi đôi được.
+talkfigs/0eng/data/0046#25.1#page:1	$024'327'7;$023'327'177'10'1;Nè, cậu nghe lời đồn▼đình đám dạo này chưa?
+talkfigs/0eng/data/0046#25.1#page:2	$530'0; và $530'1;▼đã công khai $533;.
+talkfigs/0eng/data/0046#25.1#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Họ cứ quấn quýt▼bên nhau cũng dễ thương.
+talkfigs/0eng/data/0046#25.1#page:4	Tớ thấy yêu đương▼với học hành khó mà▼đi đôi được.
+talkfigs/0eng/data/0046#25.2#page:1	$024'327'7;$023'327'177'10'1;Nè, cậu nghe lời đồn▼đình đám dạo này chưa?
+talkfigs/0eng/data/0046#25.2#page:2	$530'0; và $530'1;▼$533;.
+talkfigs/0eng/data/0046#25.2#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Họ cứ quấn quýt▼bên nhau cũng dễ thương.
+talkfigs/0eng/data/0046#25.2#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Nhưng rốt cuộc họ▼đã đi đâu cơ chứ?
+talkfigs/0eng/data/0046#25.3#page:1	$024'327'7;$023'327'177'10'1;Nè, cậu nghe lời đồn▼đình đám dạo này chưa?
+talkfigs/0eng/data/0046#25.3#page:2	$530'0; và $530'1;▼đang bí mật $533;.
+talkfigs/0eng/data/0046#25.3#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Họ cứ quấn quýt▼bên nhau cũng dễ thương.
+talkfigs/0eng/data/0046#25.3#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng họ đừng làm gì▼khiến mọi người▼phải lo lắng chứ.
+talkfigs/0eng/data/0046#25.4#page:1	$024'327'7;$023'327'177'10'1;Nè, cậu nghe lời đồn▼đình đám dạo này chưa?
+talkfigs/0eng/data/0046#25.4#page:2	$530'0; đã khiến $530'1;▼$533;.
+talkfigs/0eng/data/0046#25.4#page:3	$024'327'2;$023'327'28'8'4;$022'327'381;Không thể tin nổi!▼Tớ nhất định sẽ▼mách thầy cô!
+talkfigs/0eng/data/0046#25.5#page:1	$024'327'7;$023'327'177'10'1;Nè, cậu nghe lời đồn▼đình đám dạo này chưa?
+talkfigs/0eng/data/0046#25.5#page:2	$530'0; và $530'1;▼$533;.
+talkfigs/0eng/data/0046#25.5#page:3	$024'327'2;$023'327'28'8'4;$022'327'381;Không thể tin nổi!▼Tớ nhất định sẽ▼mách thầy cô!
+talkfigs/0eng/data/0046#25.6#page:1	$024'327'7;$023'327'177'10'1;Nè, cậu nghe lời đồn▼đình đám dạo này chưa?
+talkfigs/0eng/data/0046#25.6#page:2	$530'0; và $530'1;▼$533;.
+talkfigs/0eng/data/0046#25.6#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#25.6#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Không ai thắng thì▼họ chỉ phí thời gian thôi.
+talkfigs/0eng/data/0046#25.7#page:1	$024'327'7;$023'327'177'10'1;Nè, cậu nghe lời đồn▼đình đám dạo này chưa?▼Chuyện là...
+talkfigs/0eng/data/0046#25.7#page:2	$533;▼tình bạn thân thiết của▼$530'0; và $530'1;.
+talkfigs/0eng/data/0046#25.7#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#25.7#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng họ đừng làm gì▼khiến mọi người▼phải lo lắng chứ.
+talkfigs/0eng/data/0046#25.8#page:1	$024'327'7;$023'327'177'10'1;Nè, cậu nghe lời đồn▼đình đám dạo này chưa?
+talkfigs/0eng/data/0046#25.8#page:2	$530'0; và $530'1;▼$533; nhờ tình cảm▼gắn bó bền chặt.
+talkfigs/0eng/data/0046#25.8#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ chẳng hiểu lắm,▼nhưng chắc là chuyện tốt.
+talkfigs/0eng/data/0046#25.25#page:1	$024'327'7;$023'327'177'10'1;Nè, cậu nghe lời đồn▼đình đám dạo này chưa?
+talkfigs/0eng/data/0046#25.25#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#25.25#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Có chuyện gì thì▼họ cứ đến tâm sự▼với tớ cơ mà.
+talkfigs/0eng/data/0046#25.26#page:1	$024'327'7;$023'327'177'10'1;Nè, cậu nghe lời đồn▼đình đám dạo này chưa?
+talkfigs/0eng/data/0046#25.26#page:2	Hành động kỳ lạ▼của $530'0;▼$533;.
+talkfigs/0eng/data/0046#25.26#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#25.26#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Có chuyện gì thì▼họ cứ đến tâm sự▼với tớ cơ mà.
+talkfigs/0eng/data/0046#25.27#page:1	$024'327'7;$023'327'177'10'1;Nè, cậu nghe lời đồn▼đình đám dạo này chưa?
+talkfigs/0eng/data/0046#25.27#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#25.27#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Có chuyện gì thì▼họ cứ đến tâm sự▼với tớ cơ mà.
+talkfigs/0eng/data/0046#25.28#page:1	$024'327'7;$023'327'177'10'1;Nè, cậu nghe lời đồn▼đình đám dạo này chưa?
+talkfigs/0eng/data/0046#25.28#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#25.28#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Có chuyện gì thì▼họ cứ đến tâm sự▼với tớ cơ mà.
+talkfigs/0eng/data/0046#25.29#page:1	$024'327'7;$023'327'177'10'1;Nè, cậu nghe lời đồn▼đình đám dạo này chưa?
+talkfigs/0eng/data/0046#25.29#page:3	$024'327'2;$023'327'28'8'4;$022'327'381;Không thể tin nổi!▼Tớ nhất định sẽ▼mách thầy cô!
+talkfigs/0eng/data/0046#25.30#page:1	$024'327'7;$023'327'177'10'1;Nè, cậu nghe lời đồn▼đình đám dạo này chưa?
+talkfigs/0eng/data/0046#25.30#page:2	$530'0; muốn trở thành▼$533;.
+talkfigs/0eng/data/0046#25.30#page:3	$024'327'5;$023'327'175'8'1;$022'327'342;Tin hay không tùy cậu,▼tớ cũng định làm▼y như vậy đấy!
+talkfigs/0eng/data/0046#25.31#page:1	$024'327'7;$023'327'177'10'1;Nè, cậu nghe lời đồn▼đình đám dạo này chưa?
+talkfigs/0eng/data/0046#25.31#page:3	$024'327'2;$023'327'28'8'4;$022'327'381;Không thể tin nổi!▼Tớ nhất định sẽ▼mách thầy cô!
+talkfigs/0eng/data/0046#28.0#page:1	$024'327'7;$023'327'177'10'1;Tớ nghe lời đồn về cậu,▼$500; à. Chuyện▼đại khái là thế này...
+talkfigs/0eng/data/0046#28.0#page:2	$530'0; và $530'1;▼$533;.
+talkfigs/0eng/data/0046#28.0#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Biết là tin đồn thôi,▼nhưng có thật không?$018'1;
+talkfigs/0eng/data/0046#28.1#page:2	Ừ, đúng đấy.$018'1;
+talkfigs/0eng/data/0046#28.1#page:3	Không, tin đồn thôi.$018'2;
+talkfigs/0eng/data/0046#28.2#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Vậy không phải▼chuyện bịa sao?!
+talkfigs/0eng/data/0046#28.2#page:2	Đừng làm gì khiến▼người khác phải lo nhé.
+talkfigs/0eng/data/0046#28.3#page:1	$024'327'7;$023'327'177'10'1;Ồ, vậy chỉ là▼tin đồn thôi à?
+talkfigs/0eng/data/0046#28.3#page:2	Nghe thế tớ hơi▼thất vọng đấy.$033;
+talkfigs/0eng/data/0046#28.4#page:1	$024'327'7;$023'327'177'10'1;Tớ nghe lời đồn về cậu,▼$500; à. Chuyện▼đại khái là thế này...
+talkfigs/0eng/data/0046#28.4#page:2	$530'0; và $530'1;▼$533;.
+talkfigs/0eng/data/0046#28.4#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Biết là tin đồn thôi,▼nhưng có thật không?$018'1;
+talkfigs/0eng/data/0046#28.5#page:2	Ừ, đúng đấy.$018'1;
+talkfigs/0eng/data/0046#28.5#page:3	Không, tin đồn thôi.$018'2;
+talkfigs/0eng/data/0046#28.6#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Vậy không phải▼chuyện bịa sao?!
+talkfigs/0eng/data/0046#28.6#page:2	Đừng làm gì khiến▼người khác phải lo nhé.
+talkfigs/0eng/data/0046#28.7#page:1	$024'327'7;$023'327'177'10'1;Ồ, vậy chỉ là▼tin đồn thôi à?
+talkfigs/0eng/data/0046#28.7#page:2	Nghe thế tớ hơi▼thất vọng đấy.$033;
+talkfigs/0eng/data/0046#28.8#page:1	$024'327'7;$023'327'177'10'1;Tớ nghe lời đồn về cậu,▼$500; à. Chuyện▼đại khái là thế này...
+talkfigs/0eng/data/0046#28.8#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Biết là tin đồn thôi,▼nhưng có thật không?$018'1;
+talkfigs/0eng/data/0046#28.9#page:2	Ừ, đúng đấy.$018'1;
+talkfigs/0eng/data/0046#28.9#page:3	Không, tin đồn thôi.$018'2;
+talkfigs/0eng/data/0046#28.10#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;Thật á?! Vậy không phải▼chuyện bịa sao?!
+talkfigs/0eng/data/0046#28.10#page:2	Đừng làm gì khiến▼người khác phải lo nhé.
+talkfigs/0eng/data/0046#28.11#page:1	$024'327'7;$023'327'177'10'1;Ồ, vậy chỉ là▼tin đồn thôi à?
+talkfigs/0eng/data/0046#28.11#page:2	Nghe thế tớ hơi▼thất vọng đấy.$033;
+talkfigs/0eng/data/0046#28.12#page:1	$024'327'7;$023'327'177'10'1;Tớ nghe lời đồn về cậu,▼$500; à. Chuyện▼đại khái là thế này...
+talkfigs/0eng/data/0046#28.12#page:2	$530'0; và▼$530'1; đã▼$533;.

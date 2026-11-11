@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0046#16.63#page:4	$024'327'3;$023'327'171'10'1;$022'327'302;Thấy cậu có bạn gái mới chắc tớ▼đau lòng, nhưng tớ sẽ vượt qua.
+talkfigs/0eng/data/0046#16.63#page:5	Nếu cậu muốn, sau này ta lại hẹn▼hò nhé. Tạm biệt.$079;$073'702'1;
+talkfigs/0eng/data/0046#16.64#page:1	$500;, tớ thấy hai đứa cứ giậm chân tại▼chỗ.
+talkfigs/0eng/data/0046#16.64#page:2	Đến lúc hai đứa đi đường riêng▼rồi.
+talkfigs/0eng/data/0046#16.64#page:4	$024'327'3;$023'327'171'10'1;$022'327'302;Thấy cậu có bạn gái mới chắc tớ▼đau lòng, nhưng tớ sẽ vượt qua.
+talkfigs/0eng/data/0046#16.64#page:5	Nếu cậu muốn, sau này ta lại hẹn▼hò nhé. Tạm biệt.$079;$073'702'1;
+talkfigs/0eng/data/0046#16.65#page:1	$500;, tớ thấy hai đứa cứ giậm chân tại▼chỗ.
+talkfigs/0eng/data/0046#16.65#page:2	Đến lúc hai đứa đi đường riêng▼rồi.
+talkfigs/0eng/data/0046#16.65#page:4	$024'327'3;$023'327'171'10'1;$022'327'302;Thấy cậu có bạn gái mới chắc tớ▼đau lòng, nhưng tớ sẽ vượt qua.
+talkfigs/0eng/data/0046#16.65#page:5	Nếu cậu muốn, sau này ta lại hẹn▼hò nhé. Tạm biệt.$079;$073'702'1;
+talkfigs/0eng/data/0046#16.66#page:1	$500;, tớ thấy hai đứa cứ giậm chân tại▼chỗ.
+talkfigs/0eng/data/0046#16.66#page:2	Đến lúc hai đứa đi đường riêng▼rồi.
+talkfigs/0eng/data/0046#16.66#page:4	$024'327'3;$023'327'171'10'1;$022'327'302;Thấy cậu có bạn gái mới chắc tớ▼đau lòng, nhưng tớ sẽ vượt qua.
+talkfigs/0eng/data/0046#16.66#page:5	Nếu cậu muốn, sau này ta lại hẹn▼hò nhé. Tạm biệt.$079;$073'702'1;
+talkfigs/0eng/data/0046#16.67#page:1	$500;, tớ thấy hai đứa cứ giậm chân tại▼chỗ.
+talkfigs/0eng/data/0046#16.67#page:2	Đến lúc hai đứa đi đường riêng▼rồi.
+talkfigs/0eng/data/0046#16.67#page:4	$024'327'3;$023'327'171'10'1;$022'327'302;Thấy cậu có bạn gái mới chắc tớ▼đau lòng, nhưng tớ sẽ vượt qua.
+talkfigs/0eng/data/0046#16.67#page:5	Nếu cậu muốn, sau này ta lại hẹn▼hò nhé. Tạm biệt.$079;$073'702'1;
+talkfigs/0eng/data/0046#16.68#page:1	$500;, tớ thấy hai đứa cứ giậm chân tại▼chỗ.
+talkfigs/0eng/data/0046#16.68#page:2	Đến lúc hai đứa đi đường riêng▼rồi.
+talkfigs/0eng/data/0046#16.68#page:4	$024'327'3;$023'327'171'10'1;$022'327'302;Thấy cậu có bạn gái mới chắc tớ▼đau lòng, nhưng tớ sẽ vượt qua.
+talkfigs/0eng/data/0046#16.68#page:5	Nếu cậu muốn, sau này ta lại hẹn▼hò nhé. Tạm biệt.$079;$073'702'1;
+talkfigs/0eng/data/0046#16.69#page:1	$500;, tớ thấy hai đứa cứ giậm chân tại▼chỗ.
+talkfigs/0eng/data/0046#16.69#page:2	Đến lúc hai đứa đi đường riêng▼rồi.
+talkfigs/0eng/data/0046#16.69#page:4	$024'327'3;$023'327'171'10'1;$022'327'302;Thấy cậu có bạn gái mới chắc tớ▼đau lòng, nhưng tớ sẽ vượt qua.
+talkfigs/0eng/data/0046#16.69#page:5	Nếu cậu muốn, sau này ta lại hẹn▼hò nhé. Tạm biệt.$079;$073'702'1;
+talkfigs/0eng/data/0046#16.70#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Có chuyện gì à? Cậu muốn▼nói với tớ điều gì sao?$085;$019'1674;
+talkfigs/0eng/data/0046#16.73#page:1	Giờ tớ cũng chẳng có▼chuyện gì đáng kể để nói.$079;
+talkfigs/0eng/data/0046#16.74#page:2	Trò chuyện$019'1675;
+talkfigs/0eng/data/0046#16.74#page:3	Tặng đồ$019'1676;
+talkfigs/0eng/data/0046#16.74#page:4	Đi chơi$019'1677;
+talkfigs/0eng/data/0046#16.74#page:5	Đến trường$019'1678;
+talkfigs/0eng/data/0046#16.74#page:6	Không có gì$019'1679;
+talkfigs/0eng/data/0046#16.76#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Cho tớ á? Cậu có quà▼tặng tớ thật sao?!$079;$073'705'1'1;
+talkfigs/0eng/data/0046#16.77#page:1	$024'327'7;$023'327'177'10'1;Ồ... Giờ không tiện lắm.▼Tớ sắp phải đi rồi...
+talkfigs/0eng/data/0046#16.77#page:3	Ước gì chúng mình được▼chơi cùng nhau thêm chút,▼$500; à...
+talkfigs/0eng/data/0046#16.77#page:4	Lần khác cậu lại rủ▼tớ nhé.$079;
+talkfigs/0eng/data/0046#16.78#page:1	Ừm...$079;$073'010'1'1;
+talkfigs/0eng/data/0046#16.79#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu chỉ ghé chào thôi á?▼Nhớ là tớ bận tối mắt▼tối mũi đấy nhé!$079;
+talkfigs/0eng/data/0046#16.80#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Ồ, có chuyện gì vậy?▼Cậu muốn nhờ tớ gì à?$085;$019'1684;
+talkfigs/0eng/data/0046#16.83#page:1	Giờ cũng chẳng có▼chuyện gì hay để kể.$079;
+talkfigs/0eng/data/0046#16.84#page:2	Nghe cô ấy kể chuyện$019'1685;
+talkfigs/0eng/data/0046#16.84#page:3	Tặng cô ấy một món quà$019'1686;
+talkfigs/0eng/data/0046#16.84#page:4	Chơi cùng nhau$019'1687;
+talkfigs/0eng/data/0046#16.84#page:5	Cùng đến trường$019'1688;
+talkfigs/0eng/data/0046#16.84#page:6	Bảo là không có gì$019'1689;
+talkfigs/0eng/data/0046#16.86#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Ơ, cho tớ à? Cậu mang▼quà đến tặng tớ sao?$079;$073'705'1'1;
+talkfigs/0eng/data/0046#16.87#page:1	$034'2;$024'327'7;$023'327'177'10'1;Được, tớ đi chơi với cậu.▼Thế cậu định dẫn tớ đi đâu?
+talkfigs/0eng/data/0046#16.87#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ đã đồng ý đi chơi rồi,▼nhớ cho tớ một buổi▼thật vui nhé!$079;$073'705'3'1;
+talkfigs/0eng/data/0046#16.88#page:1	Ừm...$079;$073'010'1'1;
+talkfigs/0eng/data/0046#16.89#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu gọi tớ chỉ để chơi à?▼Trời ơi! Tớ đang bận▼lắm đấy nhé!$079;
+talkfigs/0eng/data/0046#16.90#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Ồ, có chuyện gì vậy?▼Cậu muốn nhờ tớ gì à?$085;$019'1691;
+talkfigs/0eng/data/0046#16.91#page:2	Nghe cô ấy kể chuyện$019'1695;
+talkfigs/0eng/data/0046#16.91#page:3	Tặng cô ấy một món quà$019'1692;
+talkfigs/0eng/data/0046#16.91#page:4	Cùng đến trường$019'1693;
+talkfigs/0eng/data/0046#16.91#page:5	Bảo là không có gì$019'1694;
+talkfigs/0eng/data/0046#16.92#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Ơ, cho tớ à? Cậu mang▼quà đến tặng tớ sao?$079;$073'705'1'1;
+talkfigs/0eng/data/0046#16.93#page:1	Ừm...$079;$073'010'1'1;
+talkfigs/0eng/data/0046#16.94#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu gọi tớ chẳng vì gì à?▼Thiệt tình! Thôi,▼biết sao được!$079;
+talkfigs/0eng/data/0046#16.96#page:1	Ôi, cậu đến đúng lúc ghê!$073'700'1'1;
+talkfigs/0eng/data/0046#16.97#page:1	Ôi, cậu đến đúng lúc ghê!$073'700'1'1;
+talkfigs/0eng/data/0046#16.98#page:1	Ôi, cậu đến đúng lúc ghê!$073'700'1'1;
+talkfigs/0eng/data/0046#16.99#page:1	Ôi, cậu đến đúng lúc ghê!$073'700'1'1;
+talkfigs/0eng/data/0046#22.0#page:1	$024'327'7;$023'327'177'10'1;Mà này, đoán xem▼tớ vừa thấy gì?
+talkfigs/0eng/data/0046#22.0#page:2	$530'0; với $530'1;▼$532;▼$531;.
+talkfigs/0eng/data/0046#22.0#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Trông họ vui vẻ▼thật đấy nhỉ.
+talkfigs/0eng/data/0046#22.0#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng họ nên cư xử▼trưởng thành hơn chứ.
+talkfigs/0eng/data/0046#22.1#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Mà này, đoán xem▼tớ vừa thấy gì?
+talkfigs/0eng/data/0046#22.1#page:2	$530'0; với $530'1;▼$532;▼$531;.
+talkfigs/0eng/data/0046#22.1#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Trông họ vui vẻ▼thật đấy nhỉ.
+talkfigs/0eng/data/0046#22.1#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng giờ đâu phải lúc▼vừa câu cá vừa▼tình tứ như thế.
+talkfigs/0eng/data/0046#22.2#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Mà này, đoán xem▼tớ vừa thấy gì?
+talkfigs/0eng/data/0046#22.2#page:2	$530'0; với $530'1;▼$532;▼$531;.
+talkfigs/0eng/data/0046#22.2#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Trông họ vui vẻ▼thật đấy nhỉ.
+talkfigs/0eng/data/0046#22.2#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng giờ đâu phải lúc▼vừa bắt côn trùng vừa▼tình tứ như thế.
+talkfigs/0eng/data/0046#22.3#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Mà này, đoán xem▼tớ vừa thấy gì?
+talkfigs/0eng/data/0046#22.3#page:2	$530'0; với $530'1;▼$532;▼$531;.
+talkfigs/0eng/data/0046#22.3#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Trông họ vui vẻ▼thật đấy nhỉ.
+talkfigs/0eng/data/0046#22.3#page:4	Nhưng không chịu học▼cách làm cho đúng thì▼chỉ phí thời gian thôi.
+talkfigs/0eng/data/0046#22.4#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Mà này, đoán xem▼tớ vừa thấy gì?
+talkfigs/0eng/data/0046#22.4#page:2	$530'0; với $530'1;▼$532;▼$531;.
+talkfigs/0eng/data/0046#22.4#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Trông họ vui vẻ▼thật đấy nhỉ.
+talkfigs/0eng/data/0046#22.4#page:4	Nhưng không chịu học▼cách làm cho đúng thì▼chỉ phí thời gian thôi.
+talkfigs/0eng/data/0046#22.5#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Mà này, đoán xem▼tớ vừa thấy gì?
+talkfigs/0eng/data/0046#22.5#page:2	$530'0; với $530'1;▼$532;▼$531;.
+talkfigs/0eng/data/0046#22.5#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Trông họ vui vẻ▼thật đấy nhỉ.
+talkfigs/0eng/data/0046#22.5#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Cứ lãng phí tuổi trẻ▼như thế, có ngày▼họ sẽ hối hận.
+talkfigs/0eng/data/0046#22.6#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Mà này, đoán xem▼tớ vừa thấy gì?
+talkfigs/0eng/data/0046#22.6#page:2	$530'0; với $530'1;▼$532;▼$531;.
+talkfigs/0eng/data/0046#22.6#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Trông họ vui vẻ▼thật đấy nhỉ.
+talkfigs/0eng/data/0046#22.6#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Cứ lãng phí tuổi trẻ▼như thế, có ngày▼họ sẽ hối hận.
+talkfigs/0eng/data/0046#22.8#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Mà này, đoán xem▼tớ vừa thấy gì?
+talkfigs/0eng/data/0046#22.8#page:2	$530'0; với $530'1;▼$532;▼$531;.
+talkfigs/0eng/data/0046#22.8#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Trông họ vui vẻ▼thật đấy nhỉ.
+talkfigs/0eng/data/0046#22.8#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Cứ lãng phí tuổi trẻ▼như thế, có ngày▼họ sẽ hối hận.
+talkfigs/0eng/data/0046#22.9#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Mà này, đoán xem▼tớ vừa thấy gì?
+talkfigs/0eng/data/0046#22.9#page:2	$530'0; với $530'1;▼$532;▼$531;.
+talkfigs/0eng/data/0046#22.9#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Họ vui vẻ với nhau▼thì cũng tốt thôi.
+talkfigs/0eng/data/0046#22.9#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Cứ lãng phí tuổi trẻ▼như thế, có ngày▼họ sẽ hối hận.
+talkfigs/0eng/data/0046#22.11#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Mà này, đoán xem▼tớ vừa thấy gì?
+talkfigs/0eng/data/0046#22.11#page:4	$024'327'7;$023'327'177'10'1;$022'327'400;Trông họ vui vẻ▼thật đấy nhỉ.
+talkfigs/0eng/data/0046#22.11#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;Cứ lãng phí tuổi trẻ▼như thế, có ngày▼họ sẽ hối hận.
+talkfigs/0eng/data/0046#22.12#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Mà này, đoán xem▼tớ vừa thấy gì?
+talkfigs/0eng/data/0046#22.12#page:4	$024'327'7;$023'327'177'10'1;$022'327'400;Trông họ vui vẻ▼thật đấy nhỉ.
+talkfigs/0eng/data/0046#22.12#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;Cứ lãng phí tuổi trẻ▼như thế, có ngày▼họ sẽ hối hận.
+talkfigs/0eng/data/0046#22.13#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Mà này, đoán xem▼tớ vừa thấy gì?
+talkfigs/0eng/data/0046#22.13#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Không thể tin nổi!▼Tớ nhất định sẽ▼mách thầy cô!
+talkfigs/0eng/data/0046#22.19#page:1	$024'327'7;$023'327'177'10'1;Mà này, đoán xem▼tớ vừa thấy gì?
+talkfigs/0eng/data/0046#22.19#page:2	$530'0; và▼$530'1;▼$532;...
+talkfigs/0eng/data/0046#22.19#page:3	cùng nhau▼$531;.
+talkfigs/0eng/data/0046#22.19#page:4	$024'327'7;$023'327'177'10'1;Họ vui vẻ thế▼cũng tốt mà.
+talkfigs/0eng/data/0046#22.19#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng họ nên cư xử▼trưởng thành hơn chứ.
+talkfigs/0eng/data/0046#22.20#page:1	$024'327'7;$023'327'177'10'1;Mà này, đoán xem▼tớ vừa thấy gì?
+talkfigs/0eng/data/0046#22.20#page:2	$530'0; và▼$530'1;▼$532;...
+talkfigs/0eng/data/0046#22.20#page:3	cùng nhau▼$531;.
+talkfigs/0eng/data/0046#22.20#page:4	$024'327'7;$023'327'177'10'1;Họ vui vẻ thế▼cũng tốt mà.
+talkfigs/0eng/data/0046#22.20#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng giờ đâu phải lúc▼vô tư đi câu cá▼như thế chứ.
+talkfigs/0eng/data/0046#22.21#page:1	$024'327'7;$023'327'177'10'1;Mà này, đoán xem▼tớ vừa thấy gì?
+talkfigs/0eng/data/0046#22.21#page:2	$530'0; và▼$530'1;▼$532;...
+talkfigs/0eng/data/0046#22.21#page:3	cùng nhau▼$531;.

@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0046#24.11#page:2	$530'0; đã▼$532;▼$530'1;...
+talkfigs/0eng/data/0046#24.11#page:4	$024'327'7;$023'327'177'10'1;$022'327'400;Họ cứ quấn quýt▼bên nhau cũng dễ thương.
+talkfigs/0eng/data/0046#24.11#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;Cứ lãng phí tuổi trẻ▼như thế, có ngày▼họ sẽ hối hận.
+talkfigs/0eng/data/0046#24.12#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.12#page:2	$530'0; đã▼$532;▼$530'1;...
+talkfigs/0eng/data/0046#24.12#page:4	$024'327'7;$023'327'177'10'1;$022'327'400;Họ cứ quấn quýt▼bên nhau cũng dễ thương.
+talkfigs/0eng/data/0046#24.12#page:5	$024'327'2;$023'327'28'8'4;$022'327'381;Cứ lãng phí tuổi trẻ▼như thế, có ngày▼họ sẽ hối hận.
+talkfigs/0eng/data/0046#24.13#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.13#page:2	$530'0; đã▼$532;▼$530'1;...
+talkfigs/0eng/data/0046#24.13#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Không thể tin nổi!▼Tớ nhất định sẽ▼mách thầy cô!
+talkfigs/0eng/data/0046#24.19#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.19#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0046#24.19#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Họ cứ quấn quýt▼bên nhau cũng dễ thương.
+talkfigs/0eng/data/0046#24.19#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng tớ hơi lo $530'0;▼sẽ làm chuyện gì▼ngốc nghếch mất.
+talkfigs/0eng/data/0046#24.20#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.20#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0046#24.20#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Họ cứ quấn quýt▼bên nhau cũng dễ thương.
+talkfigs/0eng/data/0046#24.20#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng giờ đâu phải lúc▼vô tư đi câu cá▼như thế chứ.
+talkfigs/0eng/data/0046#24.21#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.21#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0046#24.21#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Họ cứ quấn quýt▼bên nhau cũng dễ thương.
+talkfigs/0eng/data/0046#24.21#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng giờ đâu phải lúc▼vô tư đi bắt côn trùng▼như thế chứ.
+talkfigs/0eng/data/0046#24.22#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.22#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0046#24.22#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Họ cứ quấn quýt▼bên nhau cũng dễ thương.
+talkfigs/0eng/data/0046#24.22#page:4	Nhưng không chịu học▼cách làm cho đúng thì▼chỉ phí thời gian thôi.
+talkfigs/0eng/data/0046#24.23#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.23#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0046#24.23#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Họ cứ quấn quýt▼bên nhau cũng dễ thương.
+talkfigs/0eng/data/0046#24.23#page:4	Nhưng không chịu học▼cách làm cho đúng thì▼chỉ phí thời gian thôi.
+talkfigs/0eng/data/0046#24.24#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.24#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0046#24.24#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Họ cứ quấn quýt▼bên nhau cũng dễ thương.
+talkfigs/0eng/data/0046#24.24#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Cứ lãng phí tuổi trẻ▼như thế, có ngày▼họ sẽ hối hận.
+talkfigs/0eng/data/0046#24.25#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.25#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0046#24.25#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Họ cứ quấn quýt▼bên nhau cũng dễ thương.
+talkfigs/0eng/data/0046#24.25#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Cứ lãng phí tuổi trẻ▼như thế, có ngày▼họ sẽ hối hận.
+talkfigs/0eng/data/0046#24.27#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.27#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0046#24.27#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Họ cứ quấn quýt▼bên nhau cũng dễ thương.
+talkfigs/0eng/data/0046#24.27#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Cứ lãng phí tuổi trẻ▼như thế, có ngày▼họ sẽ hối hận.
+talkfigs/0eng/data/0046#24.28#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.28#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0046#24.28#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Họ cứ quấn quýt▼bên nhau cũng dễ thương.
+talkfigs/0eng/data/0046#24.28#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Cứ lãng phí tuổi trẻ▼như thế, có ngày▼họ sẽ hối hận.
+talkfigs/0eng/data/0046#24.29#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.29#page:2	$530'0; và $530'1;▼đang $532;▼$531;.
+talkfigs/0eng/data/0046#24.29#page:3	$024'327'7;$023'327'177'10'1;Vui thì vui, nhưng▼không ai thắng cả thì▼phí thời gian lắm.
+talkfigs/0eng/data/0046#24.34#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.34#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0046#24.34#page:3	$024'327'7;$023'327'177'10'1;Ngày nào cũng vui vẻ▼như thế thì cũng tốt.
+talkfigs/0eng/data/0046#24.34#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng tớ hơi lo $530'0;▼sẽ làm chuyện gì▼ngốc nghếch mất.
+talkfigs/0eng/data/0046#24.35#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.35#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0046#24.35#page:3	$024'327'7;$023'327'177'10'1;Ngày nào cũng vui vẻ▼như thế thì cũng tốt.
+talkfigs/0eng/data/0046#24.35#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng giờ đâu phải lúc▼vô tư đi câu cá▼như thế chứ.
+talkfigs/0eng/data/0046#24.36#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.36#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0046#24.36#page:3	$024'327'7;$023'327'177'10'1;Ngày nào cũng vui vẻ▼như thế thì cũng tốt.
+talkfigs/0eng/data/0046#24.36#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng giờ đâu phải lúc▼vô tư đi bắt côn trùng▼như thế chứ.
+talkfigs/0eng/data/0046#24.37#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.37#page:2	$530'0; mê tít▼$532;▼$531;.
+talkfigs/0eng/data/0046#24.37#page:3	$024'327'7;$023'327'177'10'1;Ngày nào cũng vui vẻ▼như thế thì cũng tốt.
+talkfigs/0eng/data/0046#24.37#page:4	Nhưng không chịu học▼cách làm cho đúng thì▼chỉ phí thời gian thôi.
+talkfigs/0eng/data/0046#24.38#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.38#page:2	$530'0; mê tít▼$532;▼$531;.
+talkfigs/0eng/data/0046#24.38#page:3	$024'327'7;$023'327'177'10'1;Ngày nào cũng vui vẻ▼như thế thì cũng tốt.
+talkfigs/0eng/data/0046#24.38#page:4	Nhưng không chịu học▼cách làm cho đúng thì▼chỉ phí thời gian thôi.
+talkfigs/0eng/data/0046#24.39#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.39#page:2	$530'0; đang▼$532;▼một mình $531;.
+talkfigs/0eng/data/0046#24.39#page:3	$024'327'7;$023'327'177'10'1;Ngày nào cũng vui vẻ▼như thế thì cũng tốt.
+talkfigs/0eng/data/0046#24.39#page:4	Nhưng không chịu học▼cách làm cho đúng thì▼chỉ phí thời gian thôi.
+talkfigs/0eng/data/0046#24.40#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.40#page:2	$530'0; mê tít▼$532;▼$531;.
+talkfigs/0eng/data/0046#24.40#page:3	$024'327'7;$023'327'177'10'1;Ngày nào cũng vui vẻ▼như thế thì cũng tốt.
+talkfigs/0eng/data/0046#24.40#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng tớ hơi lo $530'0;▼sẽ làm chuyện gì▼ngốc nghếch mất.
+talkfigs/0eng/data/0046#24.41#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.41#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0046#24.41#page:3	$024'327'7;$023'327'177'10'1;Ngày nào cũng vui vẻ▼như thế thì cũng tốt.
+talkfigs/0eng/data/0046#24.41#page:4	Nhưng không chịu học▼cách làm cho đúng thì▼chỉ phí thời gian thôi.
+talkfigs/0eng/data/0046#24.42#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.42#page:2	$530'0; đã bình thản▼$532;▼$531;.
+talkfigs/0eng/data/0046#24.42#page:3	$024'327'7;$023'327'177'10'1;Ngày nào cũng vui vẻ▼như thế thì cũng tốt.
+talkfigs/0eng/data/0046#24.42#page:4	Nhưng không chịu học▼cách làm cho đúng thì▼chỉ phí thời gian thôi.
+talkfigs/0eng/data/0046#24.43#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.43#page:2	$530'0; mê tít▼$532;▼$531;.
+talkfigs/0eng/data/0046#24.43#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ khá ấn tượng đấy.▼Hay là kể cho▼thầy cô nghe nhỉ?
+talkfigs/0eng/data/0046#24.44#page:1	$024'327'7;$023'327'177'10'1;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.44#page:2	$530'0; mê tít▼$532;▼$531;.
+talkfigs/0eng/data/0046#24.44#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ khá ấn tượng đấy.▼Hay là kể cho▼thầy cô nghe nhỉ?
+talkfigs/0eng/data/0046#24.45#page:1	$024'327'7;$023'327'177'10'1;Mà này, đoán xem▼tớ vừa thấy gì?
+talkfigs/0eng/data/0046#24.45#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0046#24.45#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ khá ấn tượng đấy.▼Hay là kể cho▼thầy cô nghe nhỉ?
+talkfigs/0eng/data/0046#24.46#page:1	$024'327'2;$023'327'28'8'4;$022'327'381;Mà này, cậu nghe tin gì chưa?
+talkfigs/0eng/data/0046#24.46#page:2	$530'0; đang vui vẻ▼$532;▼$531;.
+talkfigs/0eng/data/0046#24.46#page:3	$024'327'2;$023'327'28'8'4;$022'327'381;Không thể tin nổi!▼Tớ nhất định sẽ▼mách thầy cô!
+talkfigs/0eng/data/0046#24.50#page:1	$024'327'7;$023'327'177'10'1;Cậu không tin nổi▼chuyện tớ vừa nghe đâu!
+talkfigs/0eng/data/0046#24.50#page:2	$530'0; và $530'1;▼$533;.
+talkfigs/0eng/data/0046#24.50#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Không biết họ đã▼hẹn hò chưa nhỉ...
+talkfigs/0eng/data/0046#24.50#page:4	Tớ thấy yêu đương▼với học hành khó mà▼đi đôi được.
+talkfigs/0eng/data/0046#24.51#page:1	$024'327'7;$023'327'177'10'1;Cậu không tin nổi▼chuyện tớ vừa nghe đâu!
+talkfigs/0eng/data/0046#24.51#page:2	$530'0; và $530'1;▼$533;.
+talkfigs/0eng/data/0046#24.51#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Không biết họ đã▼hẹn hò chưa nhỉ...
+talkfigs/0eng/data/0046#24.51#page:4	Tớ thấy yêu đương▼với học hành khó mà▼đi đôi được.
+talkfigs/0eng/data/0046#24.52#page:1	$024'327'7;$023'327'177'10'1;Cậu không tin nổi▼chuyện tớ vừa nghe đâu!
+talkfigs/0eng/data/0046#24.52#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Không biết họ đã▼hẹn hò chưa nhỉ...
+talkfigs/0eng/data/0046#24.52#page:4	Tớ thấy yêu đương▼với học hành khó mà▼đi đôi được.
+talkfigs/0eng/data/0046#24.53#page:1	$024'327'7;$023'327'177'10'1;Cậu không tin nổi▼chuyện tớ vừa nghe đâu!
+talkfigs/0eng/data/0046#24.53#page:2	$530'0; và $530'1;▼đã $533;.
+talkfigs/0eng/data/0046#24.53#page:3	$024'327'7;$023'327'177'10'1;Họ vui vẻ thế▼cũng tốt mà.
+talkfigs/0eng/data/0046#24.53#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng họ đừng làm gì▼khiến mọi người▼phải lo lắng chứ.
+talkfigs/0eng/data/0046#24.54#page:1	$024'327'7;$023'327'177'10'1;Cậu không tin nổi▼chuyện tớ vừa nghe đâu!
+talkfigs/0eng/data/0046#24.54#page:2	$530'0; và $530'1;▼đã $533;.
+talkfigs/0eng/data/0046#24.54#page:3	$024'327'7;$023'327'177'10'1;Họ vui vẻ thế▼cũng tốt mà.
+talkfigs/0eng/data/0046#24.54#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Nhưng họ đừng làm gì▼khiến mọi người▼phải lo lắng chứ.
+talkfigs/0eng/data/0046#24.65#page:1	$024'327'7;$023'327'177'10'1;Cậu biết tớ nghe▼được chuyện gì không?
+talkfigs/0eng/data/0046#24.65#page:2	$530'0; và $530'1;▼đã $533;.
+talkfigs/0eng/data/0046#24.65#page:3	$024'327'7;$023'327'177'10'1;Tớ thật chẳng hiểu nổi.
+talkfigs/0eng/data/0046#24.65#page:4	$024'327'2;$023'327'28'8'4;$022'327'381;Có chuyện gì thì▼họ cứ đến tâm sự▼với tớ cơ mà.
