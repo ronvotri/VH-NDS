@@ -1,3 +1,10 @@
+## Checkpoint 109 — 11/11/2026
+
+- +720 NPC pages, `0045.015`–`0045.020`; **29,931/55,976 (53.47%)**.
+- 492 newly localized distinct English dialogue patterns, applied to 572 pages; 148 source-exact reuses.
+- 501 JSONL QA PASS; existing translations preserved; NDS layout untested.
+- Next 110: `0045.021`, `0045.022`, `0046.001`–`0046.004` — 684 pages.
+
 ## Checkpoint 108 — 11/11/2026
 
 - +720 NPC pages (`0045.009`–`0045.014`), 29,211/55,976 (52.18%).

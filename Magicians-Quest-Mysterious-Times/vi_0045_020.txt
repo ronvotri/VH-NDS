@@ -1,0 +1,120 @@
+talkfigs/0eng/data/0045#58.42#page:3	$024'327'3;$023'327'171'10'1;$022'327'304;Hầy, tớ còn muốn bắt chuyện với▼nó.
+talkfigs/0eng/data/0045#58.42#page:5	$024'327'0;$023'327'1'4'0;Thôi, chậm chân thì chịu vậy.$079;
+talkfigs/0eng/data/0045#58.60#page:1	Nghe nói có âm thanh lạ vọng ra từ▼$000'5;hang động$000'1;.
+talkfigs/0eng/data/0045#58.60#page:2	$024'327'4;$023'327'171'10'1;$022'327'383;Chắc có quái vật đáng sợ ở đó...▼Nhưng tớ không vào xem đâu!
+talkfigs/0eng/data/0045#58.60#page:4	Tiếc ghê. $000'5;Hang động$000'1; đầy đá đẹp, tớ▼thường thích nhặt chúng.$079;
+talkfigs/0eng/data/0045#58.61#page:1	Thế giới dưới lòng đất chẳng bao▼giờ có nắng.
+talkfigs/0eng/data/0045#58.61#page:2	Sống dưới đó chắc không thể ngủ▼trưa được nhỉ.
+talkfigs/0eng/data/0045#58.61#page:3	$024'327'4;$023'327'171'10'1;$022'327'383;Bảo sao $000'3;người lòng đất$000'1; ghen với▼chúng ta!$079;
+talkfigs/0eng/data/0045#58.62#page:1	$000'3;Người lòng đất$000'1; trông lạ nhưng▼không đáng sợ.
+talkfigs/0eng/data/0045#58.62#page:2	Họ bắt tay rồi vẫy chào tớ...
+talkfigs/0eng/data/0045#58.62#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;Thân thiện như vậy thì lúc nào tới▼chơi cũng được!$079;
+talkfigs/0eng/data/0045#58.80#page:1	Hôm nọ trong $000'5;tháp$000'1;, tớ nghe $000'3;Hiệu▼trưởng Sol$000'1; thì thầm.
+talkfigs/0eng/data/0045#58.80#page:2	$024'327'5;$023'327'170'10'1;$022'327'301;Nhưng nhìn quanh thì chẳng thấy ai▼bên cạnh ông ấy!
+talkfigs/0eng/data/0045#58.80#page:4	$024'327'7;$023'327'170'10'2;$022'327'301;$000'3;Hiệu trưởng Sol$000'1; vẫn ổn chứ? Đừng▼bảo ông ấy phát điên!
+talkfigs/0eng/data/0045#58.81#page:1	Cậu có thấy dạo này quả mọng rụng▼nhiều không?
+talkfigs/0eng/data/0045#58.81#page:2	$024'327'5;$023'327'170'10'1;$022'327'301;Trông ngon quá, tớ nhặt vài quả,▼nhưng khi về nhà...
+talkfigs/0eng/data/0045#58.81#page:3	$024'327'5;$023'327'175'8'1;$022'327'342;chúng biến mất! Mười lần liên tiếp▼luôn đấy!
+talkfigs/0eng/data/0045#58.81#page:5	Chắc mấy quả đó nhất quyết không▼muốn bị tớ ăn.
+talkfigs/0eng/data/0045#58.81#page:6	$024'327'3;$023'327'171'10'1;$022'327'304;Hầy... Đến quả mọng cũng từ chối▼tớ. Còn gì tệ hơn?$079;
+talkfigs/0eng/data/0045#58.82#page:1	Nghe nói $000'3;Cấm Thư$000'1; bị mất mấy trang▼phải không?
+talkfigs/0eng/data/0045#58.82#page:2	Sách giáo khoa tớ mà mất trang là▼toi luôn!
+talkfigs/0eng/data/0045#58.82#page:3	Vì trong đó đầy hình vẽ nguệch▼ngoạc, truyện tranh và cả vết dãi.
+talkfigs/0eng/data/0045#58.82#page:5	Tớ phải chăm sách hơn, kẻo chúng▼bỏ trốn hết!$079;
+talkfigs/0eng/data/0045#59.0#page:1	Ai cũng đang nhặt $000'4;$507'393;$000'1;.
+talkfigs/0eng/data/0045#59.0#page:3	Tớ cũng cố hết sức rồi đó.
+talkfigs/0eng/data/0045#59.0#page:4	$024'327'7;$023'327'170'10'2;$022'327'301;Nhưng nhặt được cái gì là tớ lại▼ăn sạch!
+talkfigs/0eng/data/0045#59.0#page:5	$024'327'5;$023'327'170'10'1;$022'327'301;Cứ thế này thì chẳng bao giờ gom▼đủ!
+talkfigs/0eng/data/0045#59.0#page:6	$024'327'7;$023'327'170'10'2;$022'327'301;Giờ phải làm sao đây?$079;
+talkfigs/0eng/data/0045#59.1#page:1	$024'327'7;$023'327'170'10'2;$022'327'301;Xin lỗi!
+talkfigs/0eng/data/0045#59.1#page:2	$024'327'7;$023'327'170'10'2;$022'327'301;Tớ từng có $000'4;$507'393;$000'1;, nhưng lại ăn sạch mất▼rồi!
+talkfigs/0eng/data/0045#59.1#page:3	$024'327'7;$023'327'170'10'2;$022'327'301;Đừng giận! Tớ CÓ nhặt được thật▼mà!
+talkfigs/0eng/data/0045#59.1#page:5	$024'327'1;$023'327'173'6'2;$022'327'341;Hả? Cậu không giận sao? Phù, may▼quá...$073'101'4;
+talkfigs/0eng/data/0045#59.20#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu nghe về Cổng Khởi Đầu và Kết▼Thúc ở tầng hai $000'5;ký túc xá$000'1; chưa?
+talkfigs/0eng/data/0045#59.20#page:2	$024'327'5;$023'327'170'10'1;$022'327'301;Nghe nói nó dẫn tới bao nhiêu thế▼giới khác nhau.
+talkfigs/0eng/data/0045#59.20#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ nghĩ biết đâu một nơi trong đó▼toàn kẹo bánh...
+talkfigs/0eng/data/0045#59.20#page:4	$024'327'4;$023'327'171'10'1;$022'327'383;Nên tớ thử ngó vào, ai dè bị▼$000'3;Reginald$000'1; bắt gặp mắng cho!
+talkfigs/0eng/data/0045#59.20#page:6	$024'327'0;$023'327'178'10'1;$022'327'361;Sao ông ấy giận dữ thế nhỉ?
+talkfigs/0eng/data/0045#59.20#page:7	$024'327'5;$023'327'175'8'1;$022'327'342;Tớ nghĩ ông ấy muốn giữ hết kẹo▼cho riêng mình!$079;
+talkfigs/0eng/data/0045#59.21#page:1	Nghe nói cấm bọn mình đi qua Cổng▼Khởi Đầu và Kết Thúc.
+talkfigs/0eng/data/0045#59.21#page:2	$024'327'0;$023'327'178'10'1;$022'327'361;Vì phía bên kia có nhiều nơi nguy▼hiểm.
+talkfigs/0eng/data/0045#59.21#page:3	"Nguy hiểm" là sao? Người lớn thì▼được đi à?
+talkfigs/0eng/data/0045#59.21#page:5	$024'327'5;$023'327'175'8'1;$022'327'342;Tớ biết rồi! Những thế giới đó đầy▼ắp kẹo bánh...
+talkfigs/0eng/data/0045#59.21#page:6	Trẻ con như ta ăn mãi rồi phát▼bệnh mất!
+talkfigs/0eng/data/0045#59.21#page:7	$024'327'1;$023'327'1'4'1;$022'327'321;Mong sớm thành người lớn để tự▼mình tới xem quá!$079;
+talkfigs/0eng/data/0045#59.22#page:1	$000'3;Reginald$000'1; có một kho báu tuyệt lắm.
+talkfigs/0eng/data/0045#59.22#page:2	Nó cổ xưa, cực kỳ cổ xưa luôn.
+talkfigs/0eng/data/0045#59.22#page:4	$024'327'5;$023'327'99'10'2;$022'327'303;Nhưng ông ấy chẳng cho ai xem.
+talkfigs/0eng/data/0045#59.22#page:5	$024'327'3;$023'327'171'10'1;$022'327'304;Ai cũng tò mò không biết đó là▼gì...
+talkfigs/0eng/data/0045#59.22#page:6	$024'327'3;$023'327'171'10'1;$022'327'304;Ước gì một ngày ông ấy cho TỚ xem!$079;
+talkfigs/0eng/data/0045#59.40#page:1	$024'327'0;$023'327'1'4'0;Tớ mang bánh cho mọi người, nhưng▼cuối cùng dư một cái.
+talkfigs/0eng/data/0045#59.40#page:2	$024'327'5;$023'327'170'10'1;$022'327'301;Tớ chắc chắn đã đếm đúng số người▼cơ mà!
+talkfigs/0eng/data/0045#59.40#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Chẳng hiểu nổi luôn.
+talkfigs/0eng/data/0045#59.40#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;Thôi, dư vẫn hơn thiếu, đúng▼không?
+talkfigs/0eng/data/0045#59.40#page:6	$024'327'1;$023'327'173'6'2;$022'327'341;Nhắc mới nhớ... Tớ ăn nốt cái bánh▼dư đây!$079;
+talkfigs/0eng/data/0045#59.41#page:1	$024'327'0;$023'327'1'4'0;$000'3;Hiệu trưởng Sol$000'1; kể tớ nghe về▼chuyện $000'3;linh hồn bắt đi$000'1;.
+talkfigs/0eng/data/0045#59.41#page:2	$024'327'0;$023'327'1'4'0;Ông bảo ai $000'3;linh hồn bắt đi$000'1; sẽ tới▼thế giới khác.
+talkfigs/0eng/data/0045#59.41#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Nhưng thế giới khác ở đâu? Sao nó▼tồn tại?
+talkfigs/0eng/data/0045#59.41#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Và vì sao người ta bị đưa tới đó?
+talkfigs/0eng/data/0045#59.41#page:6	$024'327'3;$023'327'171'10'1;$022'327'304;Nghĩ mấy cũng chẳng hiểu nổi!$079;
+talkfigs/0eng/data/0045#59.60#page:1	$024'327'5;$023'327'170'10'1;$022'327'301;Hồi nãy tớ ngủ gật trong lớp và mơ▼ác mộng.
+talkfigs/0eng/data/0045#59.60#page:2	$024'327'5;$023'327'175'8'1;$022'327'342;Tớ hét "Á Á!" rồi bật dậy! Thầy▼giận lắm...
+talkfigs/0eng/data/0045#59.60#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Mong giấc mơ đáng sợ đó đừng quay▼lại...
+talkfigs/0eng/data/0045#59.60#page:5	$024'327'3;$023'327'171'10'1;$022'327'304;không thì tớ chẳng ngủ trưa trong▼lớp được nữa!$079;
+talkfigs/0eng/data/0045#59.61#page:1	Tớ sợ quá nên ôm gấu bông lông đỏ▼ngủ đấy.
+talkfigs/0eng/data/0045#59.61#page:2	Khi thứ trong ác mộng thấy chú▼gấu, nó ngạc nhiên lắm.
+talkfigs/0eng/data/0045#59.61#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Hay là nó sợ gấu nhỉ?$079;
+talkfigs/0eng/data/0045#59.62#page:1	Này $500;, nghe nói cậu đã giải quyết▼vụ ác mộng rồi!
+talkfigs/0eng/data/0045#59.62#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;Cảm ơn cậu nhiều! Giờ tớ lại được▼ngủ trưa.
+talkfigs/0eng/data/0045#59.62#page:4	$024'327'5;$023'327'175'8'2;$022'327'345;Tớ biết, BIẾT RỒI! Ngủ trong lớp▼là không tốt.
+talkfigs/0eng/data/0045#59.62#page:5	$024'327'5;$023'327'99'10'2;$022'327'303;Nhưng làm sao được? Cứ ăn trưa▼xong là tớ buồn ngủ!$079;
+talkfigs/0eng/data/0045#59.80#page:1	$024'327'7;$023'327'170'10'2;$022'327'301;Khổ quá đi mất...
+talkfigs/0eng/data/0045#59.80#page:2	Bình thường giờ này tớ đã buồn▼ngủ, nhưng dạo này không mơ nữa...
+talkfigs/0eng/data/0045#59.80#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;nên chẳng thấy buồn ngủ. Nhưng tớ▼vẫn muốn ngủ...
+talkfigs/0eng/data/0045#59.80#page:4	$024'327'0;$023'327'1'4'0;Ước gì ai đánh ngất tớ ngay, dùng▼phép cũng được!
+talkfigs/0eng/data/0045#59.81#page:1	$024'327'7;$023'327'170'10'2;$022'327'301;Lúc ngủ, tớ nghe một giọng đau khổ▼vang lên.
+talkfigs/0eng/data/0045#59.81#page:2	Nó cứ lặp mãi: "Không được, không▼được".
+talkfigs/0eng/data/0045#59.81#page:3	$024'327'0;$023'327'1'4'0;Cậu nghĩ nó muốn nói điều gì?
+talkfigs/0eng/data/0045#59.81#page:5	$024'327'0;$023'327'178'10'1;$022'327'361;Có phải tớ làm gì sai không?$079;
+talkfigs/0eng/data/0045#59.82#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Không biết giấc mơ của tớ có vị dở▼lắm không?
+talkfigs/0eng/data/0045#59.82#page:2	$024'327'0;$023'327'1'4'0;Vì $000'3;lợn vòi$000'1; ăn giấc mơ tớ xong lại▼đau bụng.
+talkfigs/0eng/data/0045#59.82#page:4	$024'327'7;$023'327'170'10'2;$022'327'301;Giấc mơ nào mới ngon nhỉ? Mong▼không phải ác mộng.
+talkfigs/0eng/data/0045#59.82#page:5	$024'327'4;$023'327'171'10'1;$022'327'383;Tớ GHÉT gặp ác mộng lắm!$079;
+talkfigs/0eng/data/0045#60.0#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu nghe về $000'5;Thế Giới Khác$000'1; chưa?
+talkfigs/0eng/data/0045#60.0#page:2	Nó khác hẳn thế giới này, đáng sợ▼lắm.
+talkfigs/0eng/data/0045#60.0#page:3	$024'327'5;$023'327'99'10'2;$022'327'303;Nghe nói ai tới đó cũng chẳng trở▼về.
+talkfigs/0eng/data/0045#60.0#page:5	$024'327'0;$023'327'178'10'1;$022'327'361;Nhưng nếu không ai về, sao ta biết▼nơi đó đáng sợ?$079;
+talkfigs/0eng/data/0045#60.1#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Không thể nào! Cậu đã tới $000'5;Thế Giới▼Khác$000'1; rồi về sao?
+talkfigs/0eng/data/0045#60.1#page:3	Vậy tin đồn KHÔNG AI trở về từ $000'5;Thế▼Giới Khác$000'1; là sai rồi.
+talkfigs/0eng/data/0045#60.1#page:4	$024'327'6;$023'327'8'10'1;$022'327'382;Nếu chuyện ấy sai, chắc vụ đáng sợ▼cũng sai nốt.
+talkfigs/0eng/data/0045#60.1#page:5	$024'327'6;$023'327'8'10'1;$022'327'382;Ừ, chắc cậu đã chơi ở đó vui lắm▼nhỉ!$079;
+talkfigs/0eng/data/0045#60.20#page:1	$024'327'5;$023'327'170'10'1;$022'327'301;Tớ GHÉT thử thách gan dạ! Không▼muốn đâu!
+talkfigs/0eng/data/0045#60.20#page:2	$024'327'5;$023'327'99'10'2;$022'327'303;Ai chẳng biết tớ nhát như cáy rồi!
+talkfigs/0eng/data/0045#60.20#page:3	$024'327'7;$023'327'170'10'2;$022'327'301;Việc gì phải chứng minh điều ai▼cũng biết chứ!
+talkfigs/0eng/data/0045#60.20#page:5	$024'327'4;$023'327'171'10'1;$022'327'383;Ối ôi... Bụng tớ đau quá...$079;
+talkfigs/0eng/data/0045#60.21#page:1	$024'327'5;$023'327'170'10'1;$022'327'301;Đừng nói chuyện với tớ nhé!
+talkfigs/0eng/data/0045#60.21#page:2	$024'327'5;$023'327'99'10'2;$022'327'303;Tớ đang nghĩ cách lẻn qua $000'3;con ma$000'1;▼mà nó không thấy.
+talkfigs/0eng/data/0045#60.21#page:4	$024'327'5;$023'327'170'10'1;$022'327'301;$000'3;Ma$000'1; đáng sợ lắm.
+talkfigs/0eng/data/0045#60.21#page:5	$024'327'5;$023'327'99'10'2;$022'327'303;Nhưng tớ không thể nhịn đi vệ sinh▼cả ĐÊM!
+talkfigs/0eng/data/0045#60.21#page:6	$024'327'7;$023'327'170'10'2;$022'327'301;V-vậy nên tớ phải tìm ra cách.
+talkfigs/0eng/data/0045#60.21#page:7	$024'327'4;$023'327'171'10'1;$022'327'383;Á á! Cứu tớ với, NĂN NỈ ĐẤY!$079;
+talkfigs/0eng/data/0045#60.22#page:1	$024'327'4;$023'327'171'10'1;$022'327'383;Tớ ghét lén lút thế này! Mong thử▼thách kết thúc mau.
+talkfigs/0eng/data/0045#60.22#page:2	$024'327'5;$023'327'175'8'1;$022'327'342;Kết thúc rồi sao? May quá!
+talkfigs/0eng/data/0045#60.22#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Nhưng năm sau có phải làm lại▼không?
+talkfigs/0eng/data/0045#60.22#page:5	$024'327'5;$023'327'99'10'2;$022'327'303;Vậy tớ còn mười hai tháng để tìm▼cách trốn!$079;
+talkfigs/0eng/data/0045#60.40#page:1	$024'327'5;$023'327'170'10'1;$022'327'301;Muốn biểu diễn nhạc thì phải thuộc▼bài thật kỹ.
+talkfigs/0eng/data/0045#60.40#page:2	$024'327'0;$023'327'1'4'0;Khổ là tớ nhớ giai điệu dở lắm.
+talkfigs/0eng/data/0045#60.40#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Nhạc hay cứ khiến tớ thư giãn rồi▼ngủ mất tiêu.
+talkfigs/0eng/data/0045#60.40#page:5	$024'327'0;$023'327'178'10'1;$022'327'361;Chắc cố mở mắt thật lâu thì tớ sẽ▼học được thôi.$079;
+talkfigs/0eng/data/0045#60.41#page:1	$024'327'0;$023'327'1'4'0;Cậu biết $000'3;thần rừng$000'1; ở $000'5;tàn tích$000'1;▼không? Ông ấy sưu tầm nhạc khắp▼nơi.
+talkfigs/0eng/data/0045#60.41#page:2	$024'327'0;$023'327'1'4'0;Ông ấy đang tìm một bài hát của▼$000'5;thị trấn$000'1; ta.
+talkfigs/0eng/data/0045#60.41#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Nhưng liệu ta có bài nào đủ hay▼cho bộ sưu tập của ông ấy?$079;
+talkfigs/0eng/data/0045#60.42#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;Chơi nhạc cùng $000'3;thần rừng$000'1; vui ghê!
+talkfigs/0eng/data/0045#60.42#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ đã luyện bài ấy rất lâu, khó▼thật đấy.
+talkfigs/0eng/data/0045#60.42#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Tớ muốn chơi lại, nhưng chẳng ai▼rủ vào ban nhạc.
+talkfigs/0eng/data/0045#60.42#page:5	$024'327'0;$023'327'178'10'1;$022'327'361;Hay tớ lấy can đảm rủ mọi người▼chơi cùng nhỉ?$079;
+talkfigs/0eng/data/0045#60.60#page:1	Cậu nghe tin đồn có quái vật lạ▼trong $000'5;Rừng Nấm$000'1; chưa?
+talkfigs/0eng/data/0045#60.60#page:2	$024'327'5;$023'327'99'10'2;$022'327'303;Lần đầu nghe tớ sợ lắm.
+talkfigs/0eng/data/0045#60.60#page:3	Nhưng rồi tớ biết nó thật ra bé▼xíu.
+talkfigs/0eng/data/0045#60.60#page:4	$024'327'0;$023'327'178'10'1;$022'327'361;Chắc nó không nguy hiểm lắm, kể cả▼với tớ...?
+talkfigs/0eng/data/0045#60.60#page:6	$024'327'0;$023'327'1'4'0;Hừm, nhưng thú nhỏ cắn vẫn đau lắm▼mà, nhỉ?
