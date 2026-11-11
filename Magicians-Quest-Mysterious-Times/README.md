@@ -1,3 +1,5 @@
+**Checkpoint mới nhất: 110 (11/11/2026) — 30.615/55.976 (54.69%).** +684 NPC pages; QA 501 JSONL PASS. Xem `CHECKPOINT-2026-11-11-DOT-110.md`, `QA-110.md`.
+
 **Checkpoint mới nhất: 109 (11/11/2026) — 29.931/55.976 (53.47%).** +720 NPC pages `0045.015`–`0045.020`; QA 501 JSONL PASS. Xem `CHECKPOINT-2026-11-11-DOT-109.md` và `QA-109.md`.
 
 **Checkpoint mới nhất: 108 (11/11/2026) — 29.211/55.976 (52,18%).** +720 thoại NPC (6 tệp `0045.009`–`0045.014`); QA 501 JSONL PASS. Xem `CHECKPOINT-2026-11-11-DOT-108.md` và `QA-108.md`.

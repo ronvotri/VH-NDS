@@ -1,3 +1,10 @@
+## Checkpoint 110 — 11/11/2026
+
+- +684 NPC pages (`0045.021`–`0045.022`, `0046.001`–`0046.004`).
+- **30,615/55,976 (54.69%)**, +475 manually localized EN patterns covering 633 pages; 51 reused.
+- 501 JSONL QA PASS; all old translations preserved, ROM layout still untested.
+- Next 111: `0046.005`–`0046.010` (720 pages).
+
 ## Checkpoint 109 — 11/11/2026
 
 - +720 NPC pages, `0045.015`–`0045.020`; **29,931/55,976 (53.47%)**.

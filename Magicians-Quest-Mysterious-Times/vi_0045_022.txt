@@ -1,0 +1,84 @@
+talkfigs/0eng/data/0045#62.61#page:1	$024'327'5;$023'327'175'8'1;$022'327'342;$000'3;Thuyền trưởng Dot$000'1; nắm chặt tay tớ,▼không chịu buông.
+talkfigs/0eng/data/0045#62.61#page:2	$024'327'5;$023'327'175'8'2;$022'327'345;Ông ta khoe vừa tìm thấy kho báu▼tuyệt vời, hớn hở lắm.
+talkfigs/0eng/data/0045#62.61#page:3	$024'327'3;$023'327'171'10'1;$022'327'304;Ông ấy cứ kể mãi, tớ chẳng tài nào▼chuồn được.
+talkfigs/0eng/data/0045#62.61#page:5	$024'327'4;$023'327'171'10'1;$022'327'383;Tớ thật sự không ưa ông ta.$079;
+talkfigs/0eng/data/0045#62.62#page:1	$024'327'1;$023'327'173'6'2;$022'327'341;$000'3;Thuyền trưởng Dot$000'1; đi rồi à? Phù,▼nhẹ cả người.
+talkfigs/0eng/data/0045#62.62#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;Mừng quá! Không còn bị ông ta túm▼vai nữa.
+talkfigs/0eng/data/0045#62.62#page:4	$024'327'3;$023'327'171'10'1;$022'327'304;Thật lòng, ông ta đừng bao giờ▼quay lại $000'5;thị trấn$000'1; thì tốt!$079;
+talkfigs/0eng/data/0045#62.80#page:1	$024'327'5;$023'327'170'10'1;$022'327'301;À, $500;. Tớ định nói cậu chuyện gì ấy▼nhỉ...?
+talkfigs/0eng/data/0045#62.80#page:3	$024'327'5;$023'327'175'8'1;$022'327'342;À đúng rồi, nhớ ra rồi!
+talkfigs/0eng/data/0045#62.80#page:4	$000'3;Hiệu trưởng Sol$000'1; đang tìm cậu đấy.
+talkfigs/0eng/data/0045#62.80#page:5	Thầy nhờ tớ nhắn, vậy mà tớ quên▼béng. Xin lỗi!
+talkfigs/0eng/data/0045#62.80#page:6	$024'327'5;$023'327'170'10'1;$022'327'301;Dù sao cậu mau tới $000'5;ngọn tháp$000'1; đi▼nhé.$079;
+talkfigs/0eng/data/0045#62.81#page:1	Này $500;, cậu cũng đang nhặt quặng à?
+talkfigs/0eng/data/0045#62.81#page:2	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu tìm phần đầu hả?
+talkfigs/0eng/data/0045#62.81#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Oa, thế thì quan trọng lắm!
+talkfigs/0eng/data/0045#62.81#page:5	Tớ chỉ cần vật liệu làm chân. Đá▼nào cũng được chắc vậy.
+talkfigs/0eng/data/0045#62.81#page:6	$024'327'0;$023'327'178'10'1;$022'327'361;Nhưng kiếm được đá lấp lánh, nhiều▼màu thì tuyệt.
+talkfigs/0eng/data/0045#62.81#page:7	$024'327'1;$023'327'173'6'2;$022'327'341;Thi làm đồ mà! Càng nổi bật càng▼tốt, đúng không?$079;
+talkfigs/0eng/data/0045#62.82#page:1	$024'327'3;$023'327'171'10'1;$022'327'304;Tớ mải tìm đá, giờ tay dính đầy▼bùn.
+talkfigs/0eng/data/0045#62.82#page:2	$024'327'1;$023'327'173'6'2;$022'327'341;Kệ thôi! Làm được $000'3;Golem$000'1; tuyệt thế▼này cũng đáng!
+talkfigs/0eng/data/0045#62.82#page:4	$024'327'7;$023'327'177'10'1;Thôi, tớ đi rửa tay đây.$079;
+talkfigs/0eng/data/0045#63.0#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Thật à? Nghe nói có sinh vật xanh▼kỳ dị lảng vảng gần $000'5;dòng sông$000'1;.
+talkfigs/0eng/data/0045#63.0#page:2	Chưa ai từng thấy thứ gì giống nó▼cả.
+talkfigs/0eng/data/0045#63.0#page:3	Miệng to đùng, lưng có mai như▼rùa.
+talkfigs/0eng/data/0045#63.0#page:4	Nghe thôi đã thấy dữ dằn rồi.
+talkfigs/0eng/data/0045#63.0#page:5	Chắc tớ chẳng dám tới $000'5;dòng sông$000'1;▼sớm đâu.
+talkfigs/0eng/data/0045#63.0#page:7	$024'327'4;$023'327'171'10'1;$022'327'383;Nó không lẻn lên đây chứ nhỉ?$079;
+talkfigs/0eng/data/0045#63.1#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;Cậu muốn từ $000'5;ao$000'1; đến $000'5;trường học$000'1; mà▼không ai thấy à?
+talkfigs/0eng/data/0045#63.1#page:2	Chắc chỉ có thể đi vào ban đêm.
+talkfigs/0eng/data/0045#63.1#page:3	$024'327'4;$023'327'171'10'1;$022'327'383;Nhưng đêm tối đáng sợ lắm. Lỡ gặp▼ma thì sao!
+talkfigs/0eng/data/0045#63.1#page:4	Cậu vẫn dám đi á? Gan thật đấy!
+talkfigs/0eng/data/0045#63.1#page:5	Tớ thì chịu, chẳng dám đâu!
+talkfigs/0eng/data/0045#63.1#page:7	$024'327'1;$023'327'173'6'2;$022'327'341;Tất nhiên trời sáng rồi thì đi▼thoải mái thôi.$079;
+talkfigs/0eng/data/0045#63.2#page:1	Một đêm đi dạo, tớ thấy sinh vật▼xanh rình rập ngoài đường!
+talkfigs/0eng/data/0045#63.2#page:2	$024'327'4;$023'327'171'10'1;$022'327'383;Sợ quá, tớ chạy về giường, trùm▼chăn đến sáng.
+talkfigs/0eng/data/0045#63.2#page:3	Có thứ đó ngoài kia, tớ đời nào▼dám ra ngoài ban đêm!
+talkfigs/0eng/data/0045#63.2#page:5	Nhưng mọi người bảo sinh vật xanh▼đã đi rồi.
+talkfigs/0eng/data/0045#63.2#page:6	$024'327'0;$023'327'178'10'1;$022'327'361;Liệu tối nay lại ra đường an toàn▼chưa nhỉ...?$079;
+talkfigs/0eng/data/0045#63.20#page:1	$024'327'5;$023'327'170'10'1;$022'327'301;Chưa ai giải được câu đố của ông▼lão ở $000'5;tàn tích$000'1; cả.
+talkfigs/0eng/data/0045#63.20#page:2	$024'327'3;$023'327'171'10'1;$022'327'304;Tớ cũng thử rồi, nhưng thất bại.
+talkfigs/0eng/data/0045#63.20#page:4	$024'327'5;$023'327'175'8'2;$022'327'345;Ông ấy cứ bảo tớ quay lại... dưới▼hình dạng người khác!
+talkfigs/0eng/data/0045#63.20#page:5	$024'327'7;$023'327'170'10'2;$022'327'301;Ông ta vô duyên quá, tức muốn xì▼khói!$079;
+talkfigs/0eng/data/0045#63.21#page:1	$024'327'5;$023'327'99'10'2;$022'327'303;Giờ tớ chẳng biết ai nói dối, ai▼nói thật nữa.
+talkfigs/0eng/data/0045#63.21#page:3	$024'327'6;$023'327'8'10'1;$022'327'382;Lần sau tớ cứ đáp "Xanh dương!"▼cho mọi câu.
+talkfigs/0eng/data/0045#63.21#page:4	$024'327'1;$023'327'173'6'2;$022'327'341;Cứ trả lời thế mãi, kiểu gì chẳng▼trúng một lần. Nhỉ?$079;
+talkfigs/0eng/data/0045#63.22#page:1	$024'327'0;$023'327'178'10'1;$022'327'361;$500;, cậu giải được câu đố của ông lão▼chưa?
+talkfigs/0eng/data/0045#63.22#page:3	$024'327'0;$023'327'178'10'1;$022'327'361;Tớ á?
+talkfigs/0eng/data/0045#63.22#page:4	$024'327'7;$023'327'177'10'1;Thẻ thất bại tớ gom nhiều tới mức▼chẳng đếm nổi.
+talkfigs/0eng/data/0045#63.22#page:5	$024'327'1;$023'327'173'6'2;$022'327'341;Không biết đem bán có ai mua không▼nhỉ?$079;
+talkfigs/0eng/data/0045#65.0#page:1	$024'327'1;$023'327'1'4'1;$022'327'321;Tớ cứ tò mò không biết cậu đang▼làm gì...
+talkfigs/0eng/data/0045#65.0#page:2	$024'327'7;$023'327'177'10'1;$022'327'400;dù ngày nào chúng ta cũng gặp▼nhau.
+talkfigs/0eng/data/0045#65.0#page:3	Có khi tớ còn nghĩ về cậu nhiều▼hơn...
+talkfigs/0eng/data/0045#65.0#page:4	cả nghĩ tới đồ ăn nữa.
+talkfigs/0eng/data/0045#65.4#page:1	$024'327'7;$023'327'177'10'1;$022'327'400;Mỗi lần tớ khoe hai đứa đang hẹn▼hò, ai cũng cười.
+talkfigs/0eng/data/0045#65.4#page:2	Họ bảo đứa ngốc ham ăn như tớ sao▼hẹn hò được với cậu.
+talkfigs/0eng/data/0045#65.4#page:3	Cậu thật sự muốn yêu một đứa ngốc▼ham ăn như tớ chứ?
+talkfigs/0eng/data/0045#65.8#page:1	Nếu nấu ngon nhờ tình yêu thì tớ▼thành siêu đầu bếp rồi.
+talkfigs/0eng/data/0045#65.8#page:2	$024'327'1;$023'327'1'4'1;$022'327'321;$500;, tớ yêu cậu nhiều hơn cậu tưởng▼đấy.
+talkfigs/0eng/data/0045#65.8#page:3	$024'327'7;$023'327'177'10'1;$022'327'400;Ôi trời, lỡ nói nhiều quá. Ngượng▼chết đi được...
+talkfigs/0eng/data/0045#65.12#page:1	No cỡ nào tớ cũng chừa bụng cho▼món tráng miệng.
+talkfigs/0eng/data/0045#65.12#page:2	$024'327'7;$023'327'177'10'1;Thấy bánh ngọt ngon là tớ ăn ngay,▼chẳng nghĩ ngợi.
+talkfigs/0eng/data/0045#65.12#page:3	$024'327'1;$023'327'1'4'1;$022'327'321;Nhưng vì cậu, $500;, tớ sẽ thử thay đổi▼thói quen!
+talkfigs/0eng/data/0045#65.16#page:1	Trưa nay tớ ăn burger kẹp trứng ốp▼la.
+talkfigs/0eng/data/0045#65.16#page:2	Tớ lấy tương cà vẽ mặt cười lên▼trứng...
+talkfigs/0eng/data/0045#65.16#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;thế mà lại nhớ tới cậu, $500;.
+talkfigs/0eng/data/0045#65.20#page:1	Bập bênh trông vui ghê, cứ lên rồi▼xuống, lên rồi xuống...
+talkfigs/0eng/data/0045#65.20#page:2	$024'327'7;$023'327'177'10'1;Nhưng trước giờ tớ toàn một mình,▼chẳng chơi được.
+talkfigs/0eng/data/0045#65.20#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Ước gì có hôm được chơi bập bênh▼cùng cậu.
+talkfigs/0eng/data/0045#65.24#page:1	Đời có lúc căng thẳng thật. Cậu▼giải tỏa bằng cách nào?
+talkfigs/0eng/data/0045#65.24#page:2	$024'327'7;$023'327'177'10'1;Tớ hay đi ăn buffet. Nhưng biết là▼chẳng lành mạnh...
+talkfigs/0eng/data/0045#65.24#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Có lẽ từ nay lúc áp lực, tớ tâm sự▼với cậu thay vì ăn nhé!
+talkfigs/0eng/data/0045#65.28#page:1	Tớ đâu có nhiều điểm tốt...
+talkfigs/0eng/data/0045#65.28#page:2	$024'327'0;$023'327'178'10'1;$022'327'361;nên cứ thắc mắc sao cậu lại muốn▼kết bạn với tớ.
+talkfigs/0eng/data/0045#65.28#page:3	$024'327'1;$023'327'173'6'2;$022'327'341;Tớ sẽ cố thành người tốt hơn. Mãi▼là bạn nhé?
+talkfigs/0eng/data/0045#67.0#page:1	$024'327'5;$023'327'175'8'2;$022'327'345;Ối! Muộn thế này rồi à!
+talkfigs/0eng/data/0045#67.0#page:2	Hôm nay mình dừng ở đây nhé?$019'6701;
+talkfigs/0eng/data/0045#67.1#page:2	Chơi thêm chút nữa...$019'6702;
+talkfigs/0eng/data/0045#67.1#page:3	Ừ, hẹn gặp lại.$019'6703;
+talkfigs/0eng/data/0045#67.2#page:1	$024'327'2;$023'327'28'8'4;$022'327'381;Nếu cậu muốn thế, tớ ở chơi thêm▼chút nữa!$074;
+talkfigs/0eng/data/0045#67.2#page:2	Dù sao tớ cũng muốn ở bên cậu lâu▼hơn.
+talkfigs/0eng/data/0045#67.3#page:1	Được rồi! Hôm nay vui lắm!
+talkfigs/0eng/data/0045#67.3#page:2	Hôm nào mình lại đi chơi nhé!
+talkfigs/0eng/data/0045#67.4#page:1	Này $500;! Tớ chợt nhớ còn việc phải▼làm.
+talkfigs/0eng/data/0045#67.4#page:2	Hôm nay mình đành dừng ở đây $023'328'104'10;nhé.
