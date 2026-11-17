@@ -41,3 +41,12 @@
 - Dòng **496–608**: nhóm giọng hướng dẫn **điềm tĩnh, hơi sắc sảo**, thường không xưng tôi hoặc dùng “tôi – cậu”; một số chuỗi dùng lại giữa các file `info/` nên **speaker_unverified**.
 - `04-koma-chieu-thuc-001`, dòng **137–329**: tên và chiêu của Dragon Ball giữ bản tiếng Anh thông dụng. Đoạn trích thoại từ manga **không tự khóa speaker** khi thiếu nhãn người nói, kể cả khi nhân vật nằm gần dòng thoại.
 - Những tên kỹ năng chưa đối chiếu tên tiếng Anh canonical có `status=provisional_literal_jp_qa` trong bảng thuật ngữ.
+
+## Checkpoint 004 — quy tắc giọng nói bổ sung
+
+- `02-thoai-tro-giup-001`, dòng **609–717**, chủ yếu `info/ct.bin`: hướng dẫn tự tin, ngắn gọn, xưng “tôi – cậu” hoặc bỏ ngôi cho câu menu. Nhóm có những dòng tái sử dụng giữa các tệp Info; không suy tự động nhân vật từ mã `ct`.
+- Dòng **718–796**, `info/db.bin`: giọng nữ tự tin, hơi đá xoáy; câu hướng dẫn dùng “cậu” và không thêm tên nhân vật khi chưa được xác minh.
+- Dòng **797–888**, `info/dg.bin`: giọng thân thiện, hơi nhí nhảnh, dùng “tớ – cậu” khi rõ ngôi trong nguyên tác.
+- Dòng **889–980**, `info/dn.bin`: có câu tự xưng **Misa** và nhắc **Light**; giữ tên tiếng Anh và sắc thái nói hơi làm nũng, không biến lời của nhân vật thành lời thuyết minh chung. Nhiều câu có `uses` lớn hơn 1 dùng chung giữa các `info` khác: tránh đổi ngôi quá đặc thù ở những dòng ấy.
+- `04-koma-chieu-thuc-001`, dòng **330–561**: phân biệt **tên nhân vật / tên Skill / furigana / mô tả cơ chế / lời trích manga**. Tên người, Skill, Item giữ tiếng Anh (đặt tên chưa chắc vào bảng `provisional_literal_jp_qa`); lời trích được dịch đúng sắc thái, chưa tự gán nguồn speaker nếu không có metadata xác minh.
+- Tuyệt đối không đọc cặp dòng văn bản tách ra như hai câu độc lập nếu chúng ghép thành một câu dài. Mỗi ID giữ đúng mảnh ý để màn hình nối lại tự nhiên.
