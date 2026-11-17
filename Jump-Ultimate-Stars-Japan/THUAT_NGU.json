@@ -723,228 +723,528 @@
     "ja": "孫悟空",
     "vi": "Son Goku",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "超サイヤ人孫悟空",
     "vi": "Super Saiyan Son Goku",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "ベジータ",
     "vi": "Vegeta",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "超サイヤ人ベジータ",
     "vi": "Super Saiyan Vegeta",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "超サイヤ人孫悟飯",
     "vi": "Super Saiyan Son Gohan",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "超サイヤ人２孫悟飯",
     "vi": "Super Saiyan 2 Son Gohan",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "ゴテンクス",
     "vi": "Gotenks",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "超サイヤ人ゴテンクス",
     "vi": "Super Saiyan Gotenks",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "ピッコロ",
     "vi": "Piccolo",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "フリーザ",
     "vi": "Frieza",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "魔人ブウ",
     "vi": "Majin Buu",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "かめはめ波",
     "vi": "Kamehameha",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "超かめはめ波",
     "vi": "Super Kamehameha",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "２０倍かめはめ波",
     "vi": "20x Kamehameha",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "界王拳",
     "vi": "Kaio-ken",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "元気玉",
     "vi": "Spirit Bomb",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "超元気玉",
     "vi": "Super Spirit Bomb",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "ギャリック砲",
     "vi": "Galick Gun",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "ファイナルフラッシュ",
     "vi": "Final Flash",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "ビッグ・バン・アタック",
     "vi": "Big Bang Attack",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "魔閃光",
     "vi": "Masenko",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "魔貫光殺砲",
     "vi": "Special Beam Cannon",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "魔空集中弾",
     "vi": "Hellzone Grenade",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "スーパーゴーストカミカゼアタック",
     "vi": "Super Ghost Kamikaze Attack",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "フレンドコード",
     "vi": "Friend Code",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "インフォキャラ",
     "vi": "Info Character",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "ジャンプクイズ",
     "vi": "Jump Quiz",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "Ｊクイズバトル",
     "vi": "J-Quiz Battle",
     "status": "common_en_name",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "連続気功弾",
     "vi": "Rapid Ki Blasts",
     "status": "provisional_literal_jp_qa",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "自己再生",
     "vi": "Regeneration",
     "status": "provisional_literal_jp_qa",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "連続スーパードーナツ",
     "vi": "Consecutive Super Donuts",
     "status": "provisional_literal_jp_qa",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "スーパー必殺技フルコース",
     "vi": "Super Special Attack Full Course",
     "status": "provisional_literal_jp_qa",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "かんっぜんにおこったビーム",
     "vi": "Totally Furious Beam",
     "status": "provisional_literal_jp_qa",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "怒り爆発",
     "vi": "Rage Explosion",
     "status": "provisional_literal_jp_qa",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "自爆",
     "vi": "Self-Destruct",
     "status": "provisional_literal_jp_qa",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "１００<PERCENT_FULL>フルパワー",
     "vi": "100<PERCENT_FULL> Full Power",
     "status": "provisional_literal_jp_qa",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "デススパーク",
     "vi": "Death Spark",
     "status": "provisional_literal_jp_qa",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
   },
   {
     "ja": "お菓子光線",
     "vi": "Candy Beam",
     "status": "provisional_literal_jp_qa",
-    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+    "note": "Đối chiếu tên quốc tế khi QA gameplay; không suy người nói từ tên nhân vật."
+  },
+  {
+    "ja": "ベジット",
+    "vi": "Vegito",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ルフィ",
+    "vi": "Luffy",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ゾロ",
+    "vi": "Zoro",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "サンジ",
+    "vi": "Sanji",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ナミ",
+    "vi": "Nami",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ロビン",
+    "vi": "Robin",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "フランキー",
+    "vi": "Franky",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ナミ（完璧天候棒）",
+    "vi": "Nami (Perfect Clima-Tact)",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ルフィ（ギア２）",
+    "vi": "Luffy (Gear 2)",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ゴムゴムの実",
+    "vi": "Gum-Gum Fruit",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ハナハナの実",
+    "vi": "Flower-Flower Fruit",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ゴムゴムの銃乱射",
+    "vi": "Gum-Gum Gatling",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ゴムゴムの暴風雨",
+    "vi": "Gum-Gum Storm",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ゴムゴムの黄金回転弾",
+    "vi": "Gum-Gum Golden Rifle",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ゴムゴムの花火黄金牡丹",
+    "vi": "Gum-Gum Golden Fireworks",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ゴムゴムの巨人の銃乱打",
+    "vi": "Gum-Gum Gigant Gatling",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ゴムゴムの巨人の斧",
+    "vi": "Gum-Gum Gigant Axe",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "風来砲",
+    "vi": "Coup de Vent",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "アルティメットハンマー",
+    "vi": "Ultimate Hammer",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "雷光槍＝テンポ",
+    "vi": "Thunder Lance Tempo",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "サンダーボルト＝テンポ",
+    "vi": "Thunderbolt Tempo",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ワイヤレス通信",
+    "vi": "Wireless Communication",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ＫＯ",
+    "vi": "KO",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ＳＴＡＲＴ",
+    "vi": "START",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "Ｗｉ－Ｆｉ",
+    "vi": "Wi-Fi",
+    "status": "common_en_name",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ベジットソード",
+    "vi": "Vegito Sword",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "合体おとうさん",
+    "vi": "Fusion Dad",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ゴムラッシュ",
+    "vi": "Gum-Gum Rush",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ゴムゴムの連接鎚矛",
+    "vi": "Gum-Gum Flail",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ゴムゴムの火山",
+    "vi": "Gum-Gum Volcano",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "二刀流 七十二煩悩鳳",
+    "vi": "Two-Sword Style 72 Pound Phoenix",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "一刀流居合 獅子歌歌",
+    "vi": "One-Sword Style Iai Lion's Song",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "三刀流 牛鬼勇爪",
+    "vi": "Three-Sword Style Bull Demon Brave Claws",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "二刀流居合 羅生門",
+    "vi": "Two-Sword Style Iai Rashomon",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "三刀流 百八煩悩鳳",
+    "vi": "Three-Sword Style 108 Pound Phoenix",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "三刀流奥義 三千世界",
+    "vi": "Three-Sword Secret Art Three Thousand Worlds",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "整形ショット～切分",
+    "vi": "Parage Shot Découpage",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "串焼き",
+    "vi": "Brochette",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "羊肉ショット",
+    "vi": "Mouton Shot",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "仔牛肉ショット",
+    "vi": "Veau Shot",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "ラブストーム",
+    "vi": "Love Storm",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "蜃気楼",
+    "vi": "Mirage",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "トルネード＝テンポ",
+    "vi": "Tornado Tempo",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "六輪咲き クラッチ",
+    "vi": "Seis Fleur Clutch",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "十六輪咲き",
+    "vi": "Dieciséis Fleur",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "百花繚乱 大飛燕草",
+    "vi": "Cien Fleur Delphinium",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "二十輪咲き 金盞花",
+    "vi": "Veinte Fleur Candula",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "三十輪咲き ストラングル",
+    "vi": "Treinta Fleur Strangle",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "フランキーデストロイ砲",
+    "vi": "Franky Destroy Cannon",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "完璧天候棒 サンダーボルト＝テンポ",
+    "vi": "Perfect Clima-Tact Thunderbolt Tempo",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
   }
 ]
