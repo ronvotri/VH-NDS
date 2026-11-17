@@ -33,3 +33,15 @@
 - Không tự đổi dấu dòng thật; giữ nguyên nhịp tách mã và cấu trúc UI.
 - Trước mỗi đợt bổ sung xưng hô, cập nhật tình trạng `pending-context / pilot / confirmed`.
 - Font NDS chưa có đủ glyph tiếng Việt, nên chưa thể khẳng định chữ vừa khung.
+
+
+## Đợt 002: cặp xưng hô đã rà theo nguồn
+
+| Cảnh / cặp quan hệ | Xưng hô | Ghi chú |
+|---|---|---|
+| Nhân vật chính ↔ cô bé chưa rõ danh tính (Yusidra Caves) | tôi/cậu | Không tự đặt tên; vẫn giữ <CFFFB> và <CFFFA> trong dữ liệu |
+| Nhân vật chính ↔ mẹ (ký ức) | con/mẹ | Nhắc cha là “bố”; cảnh nghiêm túc, không thêm meme |
+| Nhân viên Kafra → người chơi | bạn | Giọng hướng dẫn lịch sự; đây là vai trò NPC chung, không mặc định một cá nhân |
+| Cô bé → nhân vật chính | tôi/cậu, đôi lúc “dạ/vâng” | Nhân vật chưa hiểu nhiều khái niệm, diễn đạt ngập ngừng |
+
+**Chưa xác minh:** Viselc/Lisir/Lucifi và các quan hệ chưa xuất hiện trong mạch này. Không suy luận từ tên nhân vật.
