@@ -1,0 +1,833 @@
+{"file":"01-huong-dan-001.jsonl","row_index":0,"id":"JUS-8e06f8b24da42620c49a","ja":"うむ！熱い心を感じるぞ！<B0A>キミこそがこの世界の危機を救える<B0A>唯一の人物だな！！","vi":"Ừm! Ta cảm nhận được nhiệt huyết của cậu!<B0A>Chỉ có cậu mới cứu nổi thế giới này<B0A>khỏi cơn nguy biến thôi!!"}
+{"file":"01-huong-dan-001.jsonl","row_index":1,"id":"JUS-d9bd60dda6ee3c134bdb","ja":"私はＪＵＭＰの守護者<B0A>ジャンプパイレーツだ！","vi":"Ta là JUMP Pirates,<B0A>người bảo vệ JUMP đây!"}
+{"file":"01-huong-dan-001.jsonl","row_index":2,"id":"JUS-980671edde77934d9df9","ja":"キミに助けを求めたのは<B0A>ほかでもない！","vi":"Ta tìm đến cậu nhờ giúp đỡ<B0A>không phải chuyện gì khác đâu!"}
+{"file":"01-huong-dan-001.jsonl","row_index":3,"id":"JUS-fcca550e70434b628e6d","ja":"今この宇宙は、とてつもない<B0A>危機に直面している！！<B0A>そこでキミに","vi":"Cả vũ trụ đang đối mặt<B0A>với một hiểm họa cực lớn!!<B0A>Vì thế, ta muốn cậu..."}
+{"file":"01-huong-dan-001.jsonl","row_index":4,"id":"JUS-4d7a4a56d020e71062da","ja":"何者かの手によりバラバラになった<B0A>プラネットをたどり、コマとして<B0A>封印されたＪヒーローを助けながら","vi":"Đi qua những Planet bị kẻ lạ<B0A>chia cắt, giải cứu các J-Hero<B0A>bị phong ấn thành Koma, rồi..."}
+{"file":"01-huong-dan-001.jsonl","row_index":5,"id":"JUS-7f90c235909ba95ba590","ja":"悪の元凶が待つ<B0A>銀河の中心をめざしてほしい！！","vi":"Tiến tới trung tâm thiên hà,<B0A>nơi đầu sỏ tội ác đang chờ!!"}
+{"file":"01-huong-dan-001.jsonl","row_index":6,"id":"JUS-412e0b1992e6dcff0899","ja":"途中、あやつられたＪヒーローと<B0A>戦うことになるかもしれないが<B0A>キミの熱き心をぶつければ","vi":"Dọc đường, cậu có thể phải đấu<B0A>với những J-Hero bị điều khiển.<B0A>Nhưng chỉ cần truyền nhiệt huyết..."}
+{"file":"01-huong-dan-001.jsonl","row_index":7,"id":"JUS-a6ef3073d5e32bec02b7","ja":"必ず目を覚まし<B0A>力をかしてくれるはずだ！！","vi":"Họ nhất định sẽ tỉnh ngộ<B0A>và sát cánh cùng cậu!!"}
+{"file":"01-huong-dan-001.jsonl","row_index":8,"id":"JUS-b7d8641f630142873854","ja":"みんなで力をあわせて<B0A>この世界を救ってくれ！！<B0A>たのんだぞ！！","vi":"Hãy hợp sức với mọi người<B0A>cứu lấy thế giới này!!<B0A>Trông cậy vào cậu đấy!!"}
+{"file":"01-huong-dan-001.jsonl","row_index":9,"id":"JUS-6d1941282d9cf73e20a3","ja":"ではまず、この地球で基本的な<B0A>戦い方を教えよう！","vi":"Đầu tiên, ngay tại Trái Đất này,<B0A>ta sẽ chỉ cậu cách chiến đấu cơ bản!"}
+{"file":"01-huong-dan-001.jsonl","row_index":10,"id":"JUS-463dc184cc880083027e","ja":"まずは移動の操作からだ！<B0A>はじめに十字ボタンの<B0A>←→を押して移動！","vi":"Bắt đầu với di chuyển nhé!<B0A>Dùng nút điều hướng<B0A>← → để đi lại!"}
+{"file":"01-huong-dan-001.jsonl","row_index":11,"id":"JUS-52ef308a36445ec8b0cc","ja":"２回連続で押すと<B0A>ダッシュができるぞ！","vi":"Nhấn hai lần liên tiếp<B0A>là có thể lao nhanh đấy!"}
+{"file":"01-huong-dan-001.jsonl","row_index":12,"id":"JUS-aaffa4715d026830ed51","ja":"そしてＡボタンでジャンプだ！<B0A>空中でもう一度Ａボタンを押すと<B0A>さらにジャンプできる！","vi":"Nhấn A để nhảy!<B0A>Đang trên không, nhấn A lần nữa<B0A>để nhảy thêm một lần!"}
+{"file":"01-huong-dan-001.jsonl","row_index":13,"id":"JUS-14bd4c0e38084784104c","ja":"そして下へおりたい時は<B0A>十字ボタンの↓とＡボタンだ！","vi":"Muốn xuống tầng dưới?<B0A>Nhấn ↓ cùng nút A!"}
+{"file":"01-huong-dan-001.jsonl","row_index":14,"id":"JUS-43eedac147878ee4ab83","ja":"十字ボタンの↓を２回でも<B0A>できるぞ！","vi":"Hoặc nhấn ↓ hai lần<B0A>cũng được nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":15,"id":"JUS-fb80ac5f9865c9260922","ja":"ではためしに、このステージの中を<B0A>自由に動いてみよう！<B0A>しばらくしたら声をかけるからな！","vi":"Giờ cứ tự do chạy nhảy<B0A>khắp màn đấu này đi!<B0A>Lát nữa ta gọi cậu!"}
+{"file":"01-huong-dan-001.jsonl","row_index":16,"id":"JUS-afd0ccc237d3dd514673","ja":"うまく動かせたかな？","vi":"Điều khiển ổn cả chứ?"}
+{"file":"01-huong-dan-001.jsonl","row_index":17,"id":"JUS-1f958e840deac4561066","ja":"では次に攻撃の操作だ！\\","vi":"Tiếp theo là cách tấn công!\\"}
+{"file":"01-huong-dan-001.jsonl","row_index":18,"id":"JUS-e1ceff7a50c4bedcd490","ja":"Ｂ、Ｙボタンがふつうの攻撃！<B0A>Ｘボタンが必殺技！","vi":"B, Y dùng để đánh thường!<B0A>X dùng Special Attack!"}
+{"file":"01-huong-dan-001.jsonl","row_index":19,"id":"JUS-19846d3897715f427c02","ja":"さらにこれらは<B0A>十字ボタンと組み合わせて<B0A>いろいろな技がだせるのだが…","vi":"Còn nếu kết hợp với<B0A>nút điều hướng, cậu sẽ tung ra<B0A>nhiều đòn khác nữa, nhưng..."}
+{"file":"01-huong-dan-001.jsonl","row_index":20,"id":"JUS-f537e82496be9a68c876","ja":"こまかい説明は後にして、まずは<B0A>そこに立っている『コマレッド』を<B0A>好きなように攻撃してみよう！","vi":"Chi tiết để sau đã! Trước tiên<B0A>hãy tha hồ tấn công Koma Red<B0A>đang đứng ngay kia đi!"}
+{"file":"01-huong-dan-001.jsonl","row_index":21,"id":"JUS-f85842c860305383f1c3","ja":"ＫＯすればクリアだ！<B0A>ちなみに相手が白黒になると<B0A>それは弱っているしるしなのだ！","vi":"Hạ KO hắn là qua màn!<B0A>À, khi đối thủ chuyển đen trắng<B0A>nghĩa là hắn đang kiệt sức đấy!"}
+{"file":"01-huong-dan-001.jsonl","row_index":22,"id":"JUS-3610d485b31de8dcb7ff","ja":"ではやってみよう！！","vi":"Nào, thử luôn đi!!"}
+{"file":"01-huong-dan-001.jsonl","row_index":23,"id":"JUS-79472f7287021f7b8440","ja":"最後に画面の見方について説明しよう！<B0A>画面の上の方に注目するのだ！","vi":"Cuối cùng, ta sẽ chỉ cách đọc<B0A>màn hình. Nhìn lên phía trên nào!"}
+{"file":"01-huong-dan-001.jsonl","row_index":24,"id":"JUS-1321c436770c3afaa25e","ja":"この黄色で太めのゲージが熱き心！<B0A>『Ｊ魂（ジャンプだましい）』だ！","vi":"Thanh vàng to này chính là<B0A>nhiệt huyết của cậu: J-Soul!"}
+{"file":"01-huong-dan-001.jsonl","row_index":25,"id":"JUS-d27c98d1d796a85bf5ad","ja":"攻撃を受けると減っていくぞ！","vi":"Trúng đòn là thanh này giảm đấy!"}
+{"file":"01-huong-dan-001.jsonl","row_index":26,"id":"JUS-9fcadcd3392c9c673ac7","ja":"さっきコマレッドが白黒になったが<B0A>あれはこのＪ魂がなくなっているのだ！","vi":"Lúc nãy Koma Red hóa đen trắng<B0A>là do J-Soul của hắn cạn sạch!"}
+{"file":"01-huong-dan-001.jsonl","row_index":27,"id":"JUS-c809c2f77f2e6f67ab34","ja":"次に、この数字は必殺技を使うための力<B0A>『必殺魂（ひっさつだましい）』だ！","vi":"Con số này là Special Soul,<B0A>năng lượng dùng Special Attack!"}
+{"file":"01-huong-dan-001.jsonl","row_index":28,"id":"JUS-ca8b2e36130f474a811a","ja":"この数字の数だけ<B0A>必殺技が使えるのだ！","vi":"Có bao nhiêu điểm thì cậu dùng<B0A>Special Attack được bấy nhiêu lần!"}
+{"file":"01-huong-dan-001.jsonl","row_index":29,"id":"JUS-273dfcf179191a2810b4","ja":"ここにある数字は制限時間だ！<B0A>カウントが０になると<B0A>バトルは終了となるぞ！","vi":"Đây là đồng hồ giới hạn giờ!<B0A>Khi đếm về 0,<B0A>trận đấu kết thúc!"}
+{"file":"01-huong-dan-001.jsonl","row_index":30,"id":"JUS-0c79ace4f13a04b3c99d","ja":"ちなみに今でているこの記号は<B0A>制限時間無し、というイミだ！","vi":"Biểu tượng đang hiện đây<B0A>có nghĩa là không giới hạn giờ!"}
+{"file":"01-huong-dan-001.jsonl","row_index":31,"id":"JUS-25133a84be60f3bdecc6","ja":"ほかにもルールによって<B0A>いろいろあるのだが<B0A>それは遊びながら覚えてくれ！","vi":"Còn nhiều luật chơi khác nữa,<B0A>tùy từng chế độ,<B0A>cứ chơi rồi sẽ quen thôi!"}
+{"file":"01-huong-dan-001.jsonl","row_index":32,"id":"JUS-e41a629e99ae46df5560","ja":"さあ、これで基本的なことは<B0A>みについただろう！","vi":"Vậy là cậu đã nắm<B0A>các thao tác cơ bản rồi nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":33,"id":"JUS-da249d8e4c592f6e7f85","ja":"次のステージでは<B0A>攻撃についてくわしく教えるぞ！","vi":"Ở màn sau, ta sẽ dạy kỹ hơn<B0A>về cách tấn công!"}
+{"file":"01-huong-dan-001.jsonl","row_index":34,"id":"JUS-5fb7bea5adee8ad66c5c","ja":"では、また会おう！","vi":"Hẹn gặp lại!"}
+{"file":"01-huong-dan-001.jsonl","row_index":35,"id":"JUS-aff0ce9d4d559823af87","ja":"よく来たな！待っていたぞ！<B0A>今回は攻撃について<B0A>くわしく説明していこう！","vi":"Đến rồi à! Ta đợi mãi!<B0A>Hôm nay ta sẽ hướng dẫn<B0A>kỹ hơn về tấn công!"}
+{"file":"01-huong-dan-001.jsonl","row_index":36,"id":"JUS-d8db1ced8397238cb936","ja":"まずＢ、Ｙボタンで出す<B0A>攻撃から説明だ！","vi":"Đầu tiên là các đòn đánh<B0A>bằng nút B và Y!"}
+{"file":"01-huong-dan-001.jsonl","row_index":37,"id":"JUS-19f88094f977e7eb5c02","ja":"Ｂボタンが『弱攻撃』<B0A>Ｙボタンが『強攻撃』といって<B0A>それぞれに…","vi":"Nút B là Weak Attack,<B0A>nút Y là Strong Attack.<B0A>Mỗi loại đều có..."}
+{"file":"01-huong-dan-001.jsonl","row_index":38,"id":"JUS-ccadbb1e5cef5af84393","ja":"弱攻撃はスキが少ない<B0A>強攻撃はいりょくが強い<B0A>といった特ちょうがあるのだ！","vi":"Weak Attack ít sơ hở;<B0A>Strong Attack gây sát thương lớn.<B0A>Đó là điểm khác biệt!"}
+{"file":"01-huong-dan-001.jsonl","row_index":39,"id":"JUS-f7578b7bd034a22ca9c3","ja":"そして十字ボタンと組み合わせると<B0A>さらにいろいろな攻撃が<B0A>くりだせるぞ！","vi":"Kết hợp thêm nút điều hướng<B0A>là cậu tung được<B0A>nhiều đòn khác nữa!"}
+{"file":"01-huong-dan-001.jsonl","row_index":40,"id":"JUS-998287d3f3691d30468e","ja":"十字ボタンの←→どちらかと<B0A>攻撃ボタンで『前攻撃』<B0A>そして…","vi":"Nhấn ← hoặc → cùng nút đánh<B0A>để tung Forward Attack.<B0A>Tiếp đó..."}
+{"file":"01-huong-dan-001.jsonl","row_index":41,"id":"JUS-266cb1ff01ee39693265","ja":"十字ボタンの↑と攻撃ボタンで<B0A>『上攻撃』がだせるのだ！","vi":"Nhấn ↑ cùng nút đánh<B0A>để tung Up Attack!"}
+{"file":"01-huong-dan-001.jsonl","row_index":42,"id":"JUS-4def6d5be920cbdebd16","ja":"そして空中でＢ、Ｙボタンで<B0A>それぞれ『空中弱攻撃』と<B0A>『空中強攻撃』がだせるぞ！","vi":"Khi trên không, nhấn B hoặc Y<B0A>để dùng Air Weak Attack<B0A>hay Air Strong Attack!"}
+{"file":"01-huong-dan-001.jsonl","row_index":43,"id":"JUS-1ecbe5779c9486300652","ja":"さぁ、忘れないうちに<B0A>今説明した攻撃をためして<B0A>コマレッドをＫＯしてみるのだ！","vi":"Tranh thủ lúc còn nhớ,<B0A>thử các đòn vừa học rồi<B0A>hạ KO Koma Red nào!"}
+{"file":"01-huong-dan-001.jsonl","row_index":44,"id":"JUS-c28c293dc62cfc0fdfa3","ja":"さて、相手のＪ魂を減らすのは<B0A>弱、強攻撃以外にもあったのを<B0A>覚えているか？","vi":"Còn cách nào làm tụt J-Soul<B0A>của địch ngoài Weak Attack<B0A>và Strong Attack, nhớ không?"}
+{"file":"01-huong-dan-001.jsonl","row_index":45,"id":"JUS-7372aba0078c6ef7b8b7","ja":"そう、必殺技だ！","vi":"Đúng rồi, Special Attack!"}
+{"file":"01-huong-dan-001.jsonl","row_index":46,"id":"JUS-b52355c14dca4e5ae895","ja":"必殺技はＸボタンでだすものと<B0A>十字ボタンの↑とＸボタンで<B0A>だすものの…","vi":"Special Attack có hai cách:<B0A>nhấn X, hoặc nhấn ↑<B0A>cùng nút X..."}
+{"file":"01-huong-dan-001.jsonl","row_index":47,"id":"JUS-c979fce0e24e7162a560","ja":"２種類あることを<B0A>覚えておくのだ！","vi":"Nhớ là có<B0A>hai kiểu tung chiêu nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":48,"id":"JUS-b9a01a10d8756938c3ec","ja":"前に説明したように必殺技は<B0A>必殺魂の数だけ出すことができる！","vi":"Như ta vừa nói, Special Attack<B0A>dùng được bao nhiêu tùy Special Soul!"}
+{"file":"01-huong-dan-001.jsonl","row_index":49,"id":"JUS-88e0defcc57984e9d9ec","ja":"今は練習中なので自動で回復するが<B0A>本番では減っていくぞ！","vi":"Đang tập nên năng lượng tự hồi,<B0A>chứ đánh thật thì sẽ hao đấy!"}
+{"file":"01-huong-dan-001.jsonl","row_index":50,"id":"JUS-59914de8586349e9de09","ja":"減った必殺魂は、戦ったり<B0A>『コイン』を取ると<B0A>回復できるのだが…","vi":"Special Soul đã hao có thể hồi<B0A>bằng chiến đấu hoặc nhặt Coin,<B0A>nhưng..."}
+{"file":"01-huong-dan-001.jsonl","row_index":51,"id":"JUS-21f0fe4fb2b4662df079","ja":"それ以外にもいろんな方法が<B0A>あるので自分で探してみよう！","vi":"Còn nhiều cách khác nữa.<B0A>Tự khám phá thử đi!"}
+{"file":"01-huong-dan-001.jsonl","row_index":52,"id":"JUS-c067c7f238fdc296e87e","ja":"それでは<B0A>必殺技を実際に使ってみるのだ！<B0A>コマグリーンをＫＯしよう！","vi":"Giờ hãy dùng thử<B0A>Special Attack xem nào!<B0A>Hạ KO Koma Green đi!"}
+{"file":"01-huong-dan-001.jsonl","row_index":53,"id":"JUS-97065799d93333eece44","ja":"うまく使えたかな？<B0A>これで攻撃の操作の説明は終わりだ！","vi":"Ra đòn ổn chứ?<B0A>Vậy là xong phần hướng dẫn đánh!"}
+{"file":"01-huong-dan-001.jsonl","row_index":54,"id":"JUS-f9746fc0fec9f4b04c0a","ja":"技はキャラクターによって<B0A>特ちょうがあるので<B0A>いろいろためしてみよう！","vi":"Chiêu của mỗi nhân vật<B0A>đều có đặc điểm riêng.<B0A>Cứ thử hết cho biết nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":55,"id":"JUS-76dd000b6f7ff239d899","ja":"ではまた会おう！！","vi":"Hẹn gặp lại!!"}
+{"file":"01-huong-dan-001.jsonl","row_index":56,"id":"JUS-2d876418fa5231f50b20","ja":"次は『ガード』と『マンガデッキ』に<B0A>ついて説明しよう！","vi":"Tiếp theo là Guard<B0A>và Manga Deck nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":57,"id":"JUS-4461c199b8a5d1662951","ja":"まずはガードだ！<B0A>十字ボタンの↓で<B0A>相手の攻撃から身を守るのだ！","vi":"Trước hết là Guard!<B0A>Giữ ↓ trên nút điều hướng<B0A>để đỡ đòn của đối thủ!"}
+{"file":"01-huong-dan-001.jsonl","row_index":58,"id":"JUS-d1e6601696ddebea02fc","ja":"それではさっそく<B0A>コマレッドの攻撃を<B0A>ガードしてみよう！","vi":"Giờ thử<B0A>Guard đòn của<B0A>Koma Red nào!"}
+{"file":"01-huong-dan-001.jsonl","row_index":59,"id":"JUS-4b0fc100758197fb28d8","ja":"そうそう、空中では<B0A>ガードできないぞ！<B0A>覚えておくのだ！","vi":"À mà trên không<B0A>không Guard được đâu!<B0A>Nhớ kỹ nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":60,"id":"JUS-e7397833a1d8d57ce113","ja":"ガードはべんりだが<B0A>万能ではないのだ！","vi":"Guard rất tiện,<B0A>nhưng không phải vô địch!"}
+{"file":"01-huong-dan-001.jsonl","row_index":61,"id":"JUS-4587ebc6d75a1697764c","ja":"ガードではふせげない<B0A>『ガード攻撃』があるうえに…","vi":"Guard Attack xuyên được thế đỡ<B0A>của đối thủ, chưa kể..."}
+{"file":"01-huong-dan-001.jsonl","row_index":62,"id":"JUS-e05c97ad74f6a5eab414","ja":"ずっとガードをしていると<B0A>限界がきて、くずされてしまう<B0A>こともあるのだ！","vi":"Nếu cứ Guard liên tục,<B0A>thế đỡ sẽ chạm giới hạn<B0A>và bị phá vỡ đấy!"}
+{"file":"01-huong-dan-001.jsonl","row_index":63,"id":"JUS-4efa158b3bc1e2dc80e4","ja":"そこでガード中に、相手の攻撃に<B0A>タイミングをあわせて<B0A>Ｘボタンを押すのだ！","vi":"Khi đang Guard, canh đúng lúc<B0A>đối thủ ra đòn<B0A>rồi nhấn X!"}
+{"file":"01-huong-dan-001.jsonl","row_index":64,"id":"JUS-5f4d07dacfc8eb42c403","ja":"成功すれば相手を『押し返し』<B0A>することができるぞ！","vi":"Thành công thì có thể<B0A>dùng Pushback đẩy bật đối thủ!"}
+{"file":"01-huong-dan-001.jsonl","row_index":65,"id":"JUS-f380b15d297315d2ec38","ja":"では今教えた<B0A>ガード攻撃と押し返しを<B0A>実際にやってみよう！","vi":"Giờ thử<B0A>Guard Attack và Pushback<B0A>vừa học nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":66,"id":"JUS-a7d218075b57f4dd1847","ja":"最初にガード攻撃だ！","vi":"Trước tiên là Guard Attack!"}
+{"file":"01-huong-dan-001.jsonl","row_index":67,"id":"JUS-83cf728ff97ddb77477b","ja":"出し方はガードしながら<B0A>Ｙボタンだ！コマレッドに<B0A>ヒットさせるのだ！","vi":"Vừa Guard vừa nhấn Y!<B0A>Nhắm vào Koma Red<B0A>cho trúng đòn nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":68,"id":"JUS-fb92eb8ce7e5647edff1","ja":"次は『押し返し』の練習だ！","vi":"Tiếp theo tập Pushback!"}
+{"file":"01-huong-dan-001.jsonl","row_index":69,"id":"JUS-4f437511062ed15af59d","ja":"ガードしながらＸボタンだ！<B0A>コマレッドの攻撃を<B0A>押し返すのだ！","vi":"Giữ Guard rồi nhấn X!<B0A>Hãy đẩy bật<B0A>đòn Koma Red!"}
+{"file":"01-huong-dan-001.jsonl","row_index":70,"id":"JUS-ae8198aad793fda6645b","ja":"Ｘボタンは連打してもいいぞ！<B0A>","vi":"Nhấn X liên tục cũng được!<B0A>"}
+{"file":"01-huong-dan-001.jsonl","row_index":71,"id":"JUS-79bf705761ad85fdc269","ja":"ついでに<B0A>『キャラチェンジ攻撃』も<B0A>教えておこう！","vi":"Nhân tiện,<B0A>ta còn phải dạy<B0A>Character Switch Attack!"}
+{"file":"01-huong-dan-001.jsonl","row_index":72,"id":"JUS-3e70bf8c270b01ed4ef2","ja":"ガードしながらＢボタンで<B0A>だすことができるぞ！","vi":"Vừa Guard vừa nhấn B<B0A>là dùng được!"}
+{"file":"01-huong-dan-001.jsonl","row_index":73,"id":"JUS-2afbd9d980b788d8576b","ja":"この攻撃は相手の<B0A>バトルキャラをむりやり<B0A>チェンジできるのだ！","vi":"Đòn này ép đối thủ<B0A>đổi Battle Character<B0A>dù họ không muốn!"}
+{"file":"01-huong-dan-001.jsonl","row_index":74,"id":"JUS-e51d677bc1a3108326a6","ja":"デッキについては後で説明するぞ！<B0A>とにかくやってみるのだ！","vi":"Chuyện Deck ta giải thích sau!<B0A>Cứ thử ra đòn trước đi!"}
+{"file":"01-huong-dan-001.jsonl","row_index":75,"id":"JUS-c1af038ae27098edf2a2","ja":"さていよいよ、下の画面を使った<B0A>『マンガデッキ』の操作の練習に<B0A>うつるぞ！","vi":"Giờ đến bài luyện<B0A>điều khiển Manga Deck<B0A>trên màn hình dưới!"}
+{"file":"01-huong-dan-001.jsonl","row_index":76,"id":"JUS-3617888c3114fcfbb15b","ja":"バトル中の下画面は<B0A>マンガデッキになっていて<B0A>タッチでいろんなことができるのだ","vi":"Trong trận, màn hình dưới<B0A>là Manga Deck; chạm vào đó<B0A>để dùng nhiều chức năng!"}
+{"file":"01-huong-dan-001.jsonl","row_index":77,"id":"JUS-34c2b8565f940455240c","ja":"ルフィやナルトのように<B0A>４コマ以上のコマを『バトルコマ』<B0A>と呼ぶのだ！下画面に注目！","vi":"Koma từ 4 ô trở lên như<B0A>Luffy hay Naruto gọi là Battle Koma!<B0A>Nhìn màn hình dưới nào!"}
+{"file":"01-huong-dan-001.jsonl","row_index":78,"id":"JUS-e8b32a9a1e3eb82c52b7","ja":"バトルコマをタッチすると<B0A>上画面で戦っているバトルキャラを<B0A>チェンジすることができるぞ！","vi":"Chạm Battle Koma<B0A>để đổi Battle Character<B0A>đang đánh trên màn hình trên!"}
+{"file":"01-huong-dan-001.jsonl","row_index":79,"id":"JUS-b817509e42b8247f77f1","ja":"では実際に下画面を見ながら<B0A>ナルトをタッチしてバトルキャラを<B0A>チェンジしてみるのだ！","vi":"Giờ nhìn màn hình dưới,<B0A>chạm Naruto để thử<B0A>đổi Battle Character nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":80,"id":"JUS-062dae731429c41df5b7","ja":"マンガデッキにもどっている<B0A>バトルキャラは少しずつ<B0A>Ｊ魂が回復するのだ！","vi":"Battle Character quay lại<B0A>Manga Deck sẽ từ từ<B0A>hồi J-Soul đấy!"}
+{"file":"01-huong-dan-001.jsonl","row_index":81,"id":"JUS-640fcb6b8a805d21f2ef","ja":"Ｊ魂が少なくなったらどんどん<B0A>チェンジしよう！","vi":"J-Soul yếu rồi thì<B0A>mau đổi nhân vật nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":82,"id":"JUS-4884899bc14a15f36b70","ja":"次は『サポートコマ』を<B0A>タッチしてみよう！","vi":"Giờ thử chạm<B0A>Support Koma nào!"}
+{"file":"01-huong-dan-001.jsonl","row_index":83,"id":"JUS-e194de119929aa05e904","ja":"悟空のように２～３コマのコマを<B0A>サポートコマと呼ぶのだ！<B0A>下画面に注目！","vi":"Koma gồm 2–3 ô như Goku<B0A>được gọi là Support Koma!<B0A>Nhìn màn hình dưới nào!"}
+{"file":"01-huong-dan-001.jsonl","row_index":84,"id":"JUS-893190dd1127e7c61f2e","ja":"サポートコマをタッチすると<B0A>バトルキャラの近くに登場し<B0A>いろんな技で助けてくれるのだ！","vi":"Chạm Support Koma,<B0A>nhân vật hỗ trợ sẽ xuất hiện gần<B0A>Battle Character và giúp bằng Skill!"}
+{"file":"01-huong-dan-001.jsonl","row_index":85,"id":"JUS-ad1d882dd0c9b0df700f","ja":"では実際に下画面を見ながら<B0A>悟空をタッチしてサポートキャラを<B0A>呼んでみよう！","vi":"Giờ nhìn màn hình dưới,<B0A>chạm Goku để gọi<B0A>Support Character nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":86,"id":"JUS-aab9450770a247038ba7","ja":"サポートキャラのほとんどは<B0A>相手を攻撃して助けてくれるが…","vi":"Phần lớn Support Character<B0A>sẽ đánh đối thủ giúp cậu, nhưng..."}
+{"file":"01-huong-dan-001.jsonl","row_index":87,"id":"JUS-7dc8a00211f22d5ebd7f","ja":"他にもＪ魂を回復してくれたりなど<B0A>いろんな技で助けてくれるのだ！<B0A>…ただし！！","vi":"Có người còn hồi J-Soul<B0A>và hỗ trợ bằng nhiều Skill khác!<B0A>...Tuy nhiên!!"}
+{"file":"01-huong-dan-001.jsonl","row_index":88,"id":"JUS-6a274bd5e24b72d592e4","ja":"サポートキャラを呼び出すと<B0A>必殺魂が減るので<B0A>使いすぎには注意するのだ！","vi":"Gọi Support Character<B0A>sẽ tiêu hao Special Soul,<B0A>đừng spam quá tay đấy!"}
+{"file":"01-huong-dan-001.jsonl","row_index":89,"id":"JUS-b79c8dfc2148726f151c","ja":"これでバトルについての<B0A>基本的なテクニックは<B0A>ひと通り終了だが…","vi":"Vậy là gần xong<B0A>các kỹ thuật chiến đấu<B0A>cơ bản rồi, nhưng..."}
+{"file":"01-huong-dan-001.jsonl","row_index":90,"id":"JUS-02a5779489d6e4022530","ja":"最後にひとつだけ<B0A>コマと『Ｊパワー』について<B0A>教えよう！","vi":"Cuối cùng,<B0A>ta sẽ nói về Koma<B0A>và J-Power!"}
+{"file":"01-huong-dan-001.jsonl","row_index":91,"id":"JUS-ec158449cbc3c23f08bd","ja":"Ｊパワーとは、戦いに勝つと<B0A>手にすることができる<B0A>熱き心の結晶なのだ！","vi":"J-Power là kết tinh nhiệt huyết<B0A>cậu nhận được<B0A>sau khi chiến thắng!"}
+{"file":"01-huong-dan-001.jsonl","row_index":92,"id":"JUS-c6e7204d8dc5f9d17a11","ja":"さっきバトルが終わったときに<B0A>手に入れた『力』『知』『笑』とは<B0A>これのことなのだ！","vi":"Sau trận vừa rồi, cậu nhận được<B0A>Strength, Knowledge, Laughter,<B0A>đó chính là J-Power!"}
+{"file":"01-huong-dan-001.jsonl","row_index":93,"id":"JUS-a77fbdb547ff0b2684a0","ja":"ほかに『夢』『勇』『Ｊ』という<B0A>珍しいものもあるぞ！","vi":"Còn có ba loại hiếm hơn:<B0A>Dream, Courage và J nữa!"}
+{"file":"01-huong-dan-001.jsonl","row_index":94,"id":"JUS-445020f30a9ba55e4ba4","ja":"このＪパワーを<B0A>手に入れたコマに<B0A>注入することで…","vi":"Nếu rót J-Power<B0A>vào Koma đã thu thập,<B0A>thì..."}
+{"file":"01-huong-dan-001.jsonl","row_index":95,"id":"JUS-677652a0ba7186d5fc4b","ja":"なんと！さらに大きく、強力な<B0A>コマを使えるようになるのだ！","vi":"Ú òa! Cậu sẽ dùng được<B0A>Koma to hơn, mạnh hơn nữa!"}
+{"file":"01-huong-dan-001.jsonl","row_index":96,"id":"JUS-fe164196e751cea33363","ja":"Ｊパワー注入は、もう少し後で<B0A>『Ｊパワー』というメニューから","vi":"Một lát nữa cậu sẽ mở khóa<B0A>menu J-Power để bơm sức mạnh."}
+{"file":"01-huong-dan-001.jsonl","row_index":97,"id":"JUS-801b60b27c0a51a76469","ja":"できるようになるのだが、<B0A>まずは、そのマンガデッキの<B0A>作りかた…","vi":"Nhưng trước tiên,<B0A>hãy học cách<B0A>tạo Manga Deck đã..."}
+{"file":"01-huong-dan-001.jsonl","row_index":98,"id":"JUS-fd1ecffe92d9d730a4fe","ja":"『デッキメイク』を<B0A>次で教えるぞ！","vi":"Bài sau ta dạy<B0A>Deck Make nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":99,"id":"JUS-851e515bc9d853531224","ja":"よくきたな！<B0A>この小惑星では、ちょっとした<B0A>テクニックを紹介するぞ！","vi":"Chào mừng đến tiểu hành tinh này!<B0A>Ta sẽ giới thiệu vài<B0A>mẹo nho nhỏ nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":100,"id":"JUS-4fc91e81fbbbcd7be650","ja":"今回は『属性（ぞくせい）』と<B0A>『ドリームコンボ』の説明だ！","vi":"Hôm nay ta sẽ dạy về<B0A>thuộc tính và Dream Combo!"}
+{"file":"01-huong-dan-001.jsonl","row_index":101,"id":"JUS-d8d7f0340d57b96f184c","ja":"Ｊヒーローやその技は<B0A>『力』『知』『笑』の<B0A>どれかの属性を持っている！","vi":"J-Hero và Skill của họ<B0A>thuộc một trong ba hệ:<B0A>Strength, Knowledge, Laughter!"}
+{"file":"01-huong-dan-001.jsonl","row_index":102,"id":"JUS-b7f366e36a00d064af2e","ja":"そして属性同士には<B0A>次のような相性（あいしょう）が<B0A>あるのだ！よく覚えておこう！","vi":"Ba thuộc tính khắc chế nhau<B0A>theo quy luật sau.<B0A>Nhớ cho kỹ đấy!"}
+{"file":"01-huong-dan-001.jsonl","row_index":103,"id":"JUS-734d82ab8483f274379d","ja":"『力』は『知』に強い！<B0A>計算された知恵も<B0A>力でねじふせるのだ！","vi":"Strength thắng Knowledge!<B0A>Mưu trí đến mấy<B0A>cũng bị sức mạnh đè bẹp!"}
+{"file":"01-huong-dan-001.jsonl","row_index":104,"id":"JUS-19ed065c8551daf0ea09","ja":"『知』は『笑』に強い！<B0A>冷静なツッコミで<B0A>ギャグを粉砕するのだ！","vi":"Knowledge thắng Laughter!<B0A>Một cú bắt bẻ tỉnh bơ<B0A>là đủ dập tắt trò đùa!"}
+{"file":"01-huong-dan-001.jsonl","row_index":105,"id":"JUS-0507ce41cdf70b3968d6","ja":"『笑』は『力』に強い！<B0A>どんなスーパーパワーも、ギャグで<B0A>かえされてはひとたまりも無いのだ！","vi":"Laughter thắng Strength!<B0A>Sức mạnh cỡ nào gặp trò hề<B0A>cũng chịu thua thôi!"}
+{"file":"01-huong-dan-001.jsonl","row_index":106,"id":"JUS-b9643b5009c0905ba8ca","ja":"わかったかな？","vi":"Hiểu rồi chứ?"}
+{"file":"01-huong-dan-001.jsonl","row_index":107,"id":"JUS-a813991661f2cba75499","ja":"つまり！<B0A>『力』のルフィが『知』のムヒョを<B0A>攻撃すると…","vi":"Ví dụ nhé!<B0A>Luffy hệ Strength tấn công<B0A>Muhyo hệ Knowledge thì..."}
+{"file":"01-huong-dan-001.jsonl","row_index":108,"id":"JUS-2343ec8204da96d256b4","ja":"なんと<B0A>いりょくが１．５倍になる！","vi":"Sát thương<B0A>tăng gấp 1,5 lần!"}
+{"file":"01-huong-dan-001.jsonl","row_index":109,"id":"JUS-b8e09274aea63fdab8d0","ja":"これを『属性攻撃』とよんでいるのだ！","vi":"Đó gọi là Attribute Attack!"}
+{"file":"01-huong-dan-001.jsonl","row_index":110,"id":"JUS-109b24bf2c80dfb8251f","ja":"実際にどう有利なのか<B0A>戦って確かめてみよう！","vi":"Thử đấu một trận<B0A>để thấy lợi thế này nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":111,"id":"JUS-ca3e1d08ec058e8ceae9","ja":"『力』のルフィで<B0A>『知』のコマグリーンを攻撃するのだ！","vi":"Dùng Luffy hệ Strength<B0A>đánh Koma Green hệ Knowledge!"}
+{"file":"01-huong-dan-001.jsonl","row_index":112,"id":"JUS-f64a3af38712a66b8476","ja":"攻撃がヒットした時に<B0A>青い光が出ていれば<B0A>属性攻撃が成功しているぞ！","vi":"Khi đánh trúng mà thấy<B0A>tia sáng xanh xuất hiện<B0A>là Attribute Attack thành công!"}
+{"file":"01-huong-dan-001.jsonl","row_index":113,"id":"JUS-0021dcc8c7e587ba12d8","ja":"それではやってみよう！","vi":"Nào, thử đi!"}
+{"file":"01-huong-dan-001.jsonl","row_index":114,"id":"JUS-0abe82b6661acb0e140e","ja":"わかったかな？ただ<B0A>これとは逆に『知』が『力』を<B0A>攻撃しても…","vi":"Hiểu rồi chứ? Nhưng<B0A>nếu Knowledge đánh Strength<B0A>thì lại thế nào...?"}
+{"file":"01-huong-dan-001.jsonl","row_index":115,"id":"JUS-be19414626a9994b7162","ja":"いりょくはかわらないのだ！<B0A>不利なときでも決してあきらめるな！","vi":"Sát thương không thay đổi!<B0A>Có bất lợi cũng đừng bỏ cuộc!"}
+{"file":"01-huong-dan-001.jsonl","row_index":116,"id":"JUS-b07c80278cde67e985af","ja":"次はいろんなバトルキャラで<B0A>連続攻撃をおこなう<B0A>『ドリームコンボ』の練習だ！","vi":"Tiếp theo, ta sẽ luyện<B0A>Dream Combo, chuỗi đòn liên tiếp<B0A>giữa nhiều Battle Character!"}
+{"file":"01-huong-dan-001.jsonl","row_index":117,"id":"JUS-513c86e00a3a5e1814cd","ja":"今ステージにいるバトルキャラの<B0A>コマをタッチすると…","vi":"Chạm Koma của Battle Character<B0A>đang đứng trên sân thì..."}
+{"file":"01-huong-dan-001.jsonl","row_index":118,"id":"JUS-f2b132d167267428e96e","ja":"ドリームコンボのスタートとなる<B0A>技をだすのだ！","vi":"Nhân vật sẽ tung đòn<B0A>mở màn cho Dream Combo!"}
+{"file":"01-huong-dan-001.jsonl","row_index":119,"id":"JUS-3d4cf7ed10ba00ac3fc0","ja":"そしてその技をだしている間に<B0A>すぐ別のバトルキャラの<B0A>コマをタッチするのだ！","vi":"Ngay lúc nhân vật đang ra đòn,<B0A>hãy lập tức chạm Koma<B0A>của Battle Character khác!"}
+{"file":"01-huong-dan-001.jsonl","row_index":120,"id":"JUS-4ee49a2876c0bff5268d","ja":"すると技がおわると同時に<B0A>キャラチェンジして<B0A>連続攻撃をくりだすぞ！","vi":"Khi đòn đầu kết thúc,<B0A>nhân vật lập tức đổi<B0A>và đánh nối chuỗi!"}
+{"file":"01-huong-dan-001.jsonl","row_index":121,"id":"JUS-5855763421c7e1bd82ef","ja":"さらに元のバトルコマを<B0A>タッチすると必殺技をだして<B0A>フィニッシュするのだ！","vi":"Chạm lại Battle Koma ban đầu,<B0A>nhân vật sẽ tung Special Attack<B0A>để kết liễu combo!"}
+{"file":"01-huong-dan-001.jsonl","row_index":122,"id":"JUS-c491c9806f9b44d27eef","ja":"下画面に注目！<B0A>こんな感じでタッチするのだ！","vi":"Nhìn màn hình dưới nhé!<B0A>Hãy chạm theo cách này!"}
+{"file":"01-huong-dan-001.jsonl","row_index":123,"id":"JUS-ef7537b041b0bf4c797d","ja":"では実際に、ナルトがバトルキャラの<B0A>場合はナルト…ルフィ…ナルト<B0A>もしくは…","vi":"Nếu Naruto đang đánh,<B0A>hãy chạm Naruto… Luffy… Naruto.<B0A>Hoặc..."}
+{"file":"01-huong-dan-001.jsonl","row_index":124,"id":"JUS-adc1a3fc2f4d672b4153","ja":"ルフィの場合は<B0A>ルフィ…ナルト…ルフィの順番で<B0A>タッチしてみよう！","vi":"Nếu là Luffy,<B0A>hãy chạm Luffy… Naruto… Luffy<B0A>theo đúng thứ tự đó!"}
+{"file":"01-huong-dan-001.jsonl","row_index":125,"id":"JUS-bab635a54a45938b2ff0","ja":"たくさんバトルコマをセットした<B0A>マンガデッキだと<B0A>コンボも多くつながるのだ！","vi":"Manga Deck càng nhiều<B0A>Battle Koma thì combo<B0A>càng nối được dài!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":0,"id":"JUS-3c111fb7108695497deb","ja":"ジャンプギャラクシーを冒険して","vi":"Khám phá Jump Galaxy và"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":1,"id":"JUS-e022c976347d59a48a8d","ja":"コマを回収していってね","vi":"thu thập các Koma nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":2,"id":"JUS-24d34046fa29d3fa5713","ja":"ランキング戦の勝ち抜きに挑戦だよ！","vi":"Thử thắng liên tiếp ở Ranked Battle nào!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":3,"id":"JUS-ba4321687cc051455689","ja":"宇宙で一番強いデッキマスターを","vi":"Hãy nhắm đến danh hiệu Deck Master"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":4,"id":"JUS-2638c38932fb6e647ebb","ja":"目指してね","vi":"mạnh nhất vũ trụ nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":5,"id":"JUS-2d4314f4fd442168c0b2","ja":"通信機能で対戦できるよ","vi":"Cậu có thể đấu qua kết nối máy đấy!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":6,"id":"JUS-7e7b77ee23ebb61101cf","ja":"データの交換もここだからね","vi":"Muốn trao đổi dữ liệu cũng vào đây!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":7,"id":"JUS-5d34fc0a6df00b1b9a60","ja":"ジャンプクイズに挑戦できるよ","vi":"Đây là nơi thử sức với J-Quiz!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":8,"id":"JUS-465869d0bf3d11feaa4b","ja":"問題は全部４択なんだって","vi":"Toàn câu hỏi chọn 1 trong 4 đáp án!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":9,"id":"JUS-d398a6f92cc24dede02f","ja":"ここはまだ選べないんだって","vi":"Mục này vẫn chưa mở đâu!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":10,"id":"JUS-cabdcda4851b45ff1552","ja":"Ｊパワーをコマに注入してね","vi":"Hãy truyền J-Power vào Koma nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":11,"id":"JUS-232a229612f81a957925","ja":"新しいコマが手に入ったりするよ！","vi":"Biết đâu nhận được Koma mới đấy!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":12,"id":"JUS-c34f8c2c0bf1028ad365","ja":"集めたコマでデッキを作るところだよ","vi":"Đây là nơi ghép Deck từ Koma đã sưu tầm!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":13,"id":"JUS-b5d45e6dade6051750b2","ja":"新しいコマを手に入れたら、","vi":"Có Koma mới rồi thì"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":14,"id":"JUS-cffbf57ad999c44de8e5","ja":"ここでデッキに組み入れてね！","vi":"nhớ đưa vào Deck ở đây nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":15,"id":"JUS-a20aa9fb7b97ce0f2ed9","ja":"いろんなデータを見ることができるよ","vi":"Ở đây xem được đủ loại dữ liệu!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":16,"id":"JUS-9034758da17a15635b70","ja":"コマとかこれまでの戦いの記録なんかが","vi":"Từ Koma đến thành tích chiến đấu"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":17,"id":"JUS-94e7741dfa1048ababbd","ja":"詰まってるんだって","vi":"đều được lưu lại hết!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":18,"id":"JUS-8461219ecb13b765701a","ja":"ゲームのいろいろな設定を","vi":"Chỗ chỉnh các thiết lập"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":19,"id":"JUS-b298eac66b16da63a298","ja":"変更するところだよ","vi":"khác nhau trong game đây!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":20,"id":"JUS-2881b06ee385f4078d1e","ja":"制限時間内にＫＯしたポイントを競う","vi":"Luật so điểm KO đạt được trong"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":21,"id":"JUS-5e79c4ede65193ccc1aa","ja":"ルールだよ","vi":"thời gian giới hạn!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":22,"id":"JUS-372f7a7e12c3c4fee7af","ja":"バトルキャラを全員ＫＯする","vi":"Hạ KO toàn bộ Battle Character!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":23,"id":"JUS-f1255cbd1f37b1bfceb3","ja":"相手をＫＯしてＪシンボルを集める","vi":"Hạ KO đối thủ để gom J-Symbol!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":24,"id":"JUS-bb54ee4b3e0247bf866d","ja":"バトルの制限時間を","vi":"Chọn giới hạn giờ của trận đấu"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":25,"id":"JUS-073152c09f03d6599673","ja":"３つの中から選んでね","vi":"trong ba mức nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":26,"id":"JUS-6f257464eee3b6d3dcc3","ja":"ステージにアイテムボックスが","vi":"Chọn xem Item Box có"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":27,"id":"JUS-3094bd268bd3c107f29e","ja":"出現するかどうかを選んでね","vi":"xuất hiện trên sân không!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":28,"id":"JUS-42ee4c08c3880cd2b788","ja":"ステージのギミックをＯＮかＯＦＦに","vi":"Bật hoặc tắt chướng ngại tương tác"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":29,"id":"JUS-5628ad437b6134eff572","ja":"設定してね","vi":"trên sân đấu nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":30,"id":"JUS-370c03c300862b525337","ja":"対戦に参加するＣＯＭの人数を","vi":"Chọn số lượng COM"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":31,"id":"JUS-55f3ac0cb44c2e3e4847","ja":"ＣＯＭの強さを決めてね","vi":"Chỉnh độ khó của COM nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":32,"id":"JUS-ea5a9362beceecc82687","ja":"ＣＯＭのマンガデッキを選んでね","vi":"Chọn Manga Deck cho COM nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":33,"id":"JUS-a39aa1a14d5de4ad845e","ja":"チーム戦をＯＮにするかＯＦＦにするか","vi":"Chọn bật hay tắt Team Battle"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":34,"id":"JUS-b94838e0eb25bc97a95f","ja":"削除項目","vi":"Mục xóa"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":35,"id":"JUS-2ab7faf218a64f0c10e6","ja":"どういったチームで対戦するか","vi":"Chọn kiểu chia đội để đấu"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":36,"id":"JUS-c94e652c463e489066e3","ja":"決めてね","vi":"theo ý cậu nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":37,"id":"JUS-f8ce8107e3a0451b10ff","ja":"ゲーム中の音を、ステレオかモノラルに","vi":"Chỉnh âm thanh game sang Stereo hay Mono"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":38,"id":"JUS-96101500910540c29889","ja":"設定するところだよ","vi":"ở chỗ này!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":39,"id":"JUS-9f5588cd712a2cd22126","ja":"ゲーム中の音楽の音量を","vi":"Chỉnh âm lượng nhạc trong game"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":40,"id":"JUS-8e48c2c96924d9480efd","ja":"ゲーム中の効果音の音量を","vi":"Chỉnh âm lượng hiệu ứng âm thanh"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":41,"id":"JUS-5cf76df4ebf3b8339707","ja":"ツッコミ役…じゃなくて案内役を","vi":"Đổi người cà khịa... à nhầm, người hướng dẫn"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":42,"id":"JUS-3812ec1c16c15c0d9681","ja":"変更できるところだよ","vi":"ở đây nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":43,"id":"JUS-dadfd991371fda7bd470","ja":"ゲーム内のいろいろなデータを","vi":"Chỗ này dùng để xóa"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":44,"id":"JUS-e45b60ff638891e3c97a","ja":"消去するところだよ","vi":"các loại dữ liệu trong game!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":45,"id":"JUS-524a0d34f1100a7fee10","ja":"Ｊアリーナのランキングデータを","vi":"Xóa dữ liệu xếp hạng J-Arena"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":46,"id":"JUS-41ef4019e516c39c02c3","ja":"消去しちゃうよ","vi":"là bay sạch đấy!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":47,"id":"JUS-32d3beec34e56a6693f1","ja":"Ｊアリーナのミッショントライ","vi":"Xóa dữ liệu Mission Try của J-Arena"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":48,"id":"JUS-c7c176126706528e0a91","ja":"ハイスコアデータを","vi":"và điểm kỷ lục"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":49,"id":"JUS-0ad7f254263c4d0174be","ja":"トレーニングデータを","vi":"Xóa dữ liệu Training"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":50,"id":"JUS-6e9687a52da93d3c707a","ja":"Ｊクイズのハイスコアデータを","vi":"Xóa điểm kỷ lục J-Quiz"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":51,"id":"JUS-a3081eed090319d4cd8f","ja":"ゲームデータをぜんぶ消去しちゃうよ","vi":"Xóa sạch mọi dữ liệu game luôn!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":52,"id":"JUS-c2b5456c4abc00334b49","ja":"後から元に戻そうとしても無理だから","vi":"Đã xóa là không khôi phục được đâu,"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":53,"id":"JUS-01fa9596f8d4bec714d0","ja":"気をつけてね","vi":"cẩn thận nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":54,"id":"JUS-bc57819fa80de0eb0c83","ja":"データを消去するのはやめちゃうよ","vi":"Thôi, không xóa dữ liệu nữa!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":55,"id":"JUS-41f2a23e4dba7d036664","ja":"うまく案内できるかなー？","vi":"Không biết mình hướng dẫn ổn không ta?"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":56,"id":"JUS-e50cddb7fb085420e5f8","ja":"（それよりもツッコミを","vi":"(Hay mọi người đang mong mình"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":57,"id":"JUS-f921f2b41cb74d5e0faa","ja":"<IDEOSP>期待されてたりして…？）","vi":"<IDEOSP>cà khịa nhiều hơn nhỉ...?)"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":58,"id":"JUS-e0b1423aaa31c29ab4a7","ja":"案内役のインフォキャラを","vi":"Chọn Info Character hướng dẫn"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":59,"id":"JUS-d8040cc7fdfec67d3c64","ja":"毎回ランダムに切り替えるよ","vi":"ngẫu nhiên sau mỗi lần nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":60,"id":"JUS-5b86d17c6e62d4ed2120","ja":"インフォキャラの選択をやめちゃうよ","vi":"Thôi, không chọn Info Character nữa!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":61,"id":"JUS-6f43db2abd20e3208130","ja":"表示無し","vi":"Không hiển thị"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":62,"id":"JUS-2dee000856418a787713","ja":"ライバルを倒して","vi":"Đánh bại đối thủ"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":63,"id":"JUS-674959635907861c7a2b","ja":"ランキング１位を目指してね","vi":"để leo lên hạng nhất nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":64,"id":"JUS-622c9b60357c2ac3b31f","ja":"プレイしたことのあるミッションに","vi":"Thử lại các Mission từng chơi"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":65,"id":"JUS-a8d8d81f79788455409a","ja":"挑戦して、記録を残してね","vi":"để lưu kỷ lục mới nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":66,"id":"JUS-5054905ff7da7d4265ab","ja":"ＣＰＵとバトルできるよ！","vi":"Cậu có thể chiến với CPU!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":67,"id":"JUS-b71afa12b977f812a4af","ja":"好きなデッキで特訓しよう！","vi":"Luyện tập bằng Deck mình thích nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":68,"id":"JUS-940955cf83941e9483fc","ja":"ポイントルールでの","vi":"Đây là Ranked Battle theo"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":69,"id":"JUS-0e9108b2c8a28a05f759","ja":"ランキング戦だよ！","vi":"luật tính điểm!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":70,"id":"JUS-f51c1deb7eba757d81c9","ja":"デスマッチルールでの","vi":"Đây là Ranked Battle theo luật Deathmatch!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":71,"id":"JUS-564682783273d8d9e541","ja":"シンボルルールでの","vi":"Đây là Ranked Battle theo luật Symbol!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":72,"id":"JUS-3636941b238d3f4153a9","ja":"バトルごとにルールが変わる","vi":"Luật chơi thay đổi sau mỗi trận!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":73,"id":"JUS-10d9eb7c362a43902c00","ja":"各ランキングの今の順位とか","vi":"Xem thứ hạng hiện tại"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":74,"id":"JUS-77642a8983081baafedb","ja":"ランキング参加者のデータを","vi":"và dữ liệu người tham gia xếp hạng"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":0,"id":"JUS-0009283ea07c418e10e0","ja":"ステージクリアせよ！","vi":"Hoàn thành màn chơi!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":1,"id":"JUS-8b4dbda2bc8df5db77d9","ja":"相手に１ポイント以上取られるな！","vi":"Đừng để đối thủ lấy 1 điểm trở lên!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":2,"id":"JUS-098b8989ed6c3e26cb5d","ja":"相手に２ポイント以上取られるな！","vi":"Đừng để đối thủ lấy 2 điểm trở lên!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":3,"id":"JUS-5e5274e1943073468add","ja":"相手に３ポイント以上取られるな！","vi":"Đừng để đối thủ lấy 3 điểm trở lên!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":4,"id":"JUS-b35b5dfdfdc74b0a91bb","ja":"３ポイント以上でクリアせよ！","vi":"Hoàn thành với ít nhất 3 điểm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":5,"id":"JUS-2921ea2bc0218fd6526e","ja":"４ポイント以上でクリアせよ！","vi":"Hoàn thành với ít nhất 4 điểm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":6,"id":"JUS-f056de40139904b5c312","ja":"５ポイント以上でクリアせよ！","vi":"Hoàn thành với ít nhất 5 điểm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":7,"id":"JUS-90c16972a9de1147fc1e","ja":"１回以上リングアウトでＫＯせよ！","vi":"Hạ KO bằng Ring Out ít nhất 1 lần!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":8,"id":"JUS-da634d2cb47b544455d6","ja":"２回以上リングアウトでＫＯせよ！","vi":"Hạ KO bằng Ring Out ít nhất 2 lần!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":9,"id":"JUS-c03c7b3f35ef916308c2","ja":"３回以上リングアウトでＫＯせよ！","vi":"Hạ KO bằng Ring Out ít nhất 3 lần!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":10,"id":"JUS-e668231a349fd6fb2f68","ja":"２回以上必殺技でＫＯせよ！","vi":"Hạ KO bằng Special Attack ít nhất 2 lần!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":11,"id":"JUS-dbb3e14ed2ce52cd76cb","ja":"３回以上必殺技でＫＯせよ！","vi":"Hạ KO bằng Special Attack ít nhất 3 lần!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":12,"id":"JUS-16f65322b203e56a8fcf","ja":"４回以上必殺技でＫＯせよ！","vi":"Hạ KO bằng Special Attack ít nhất 4 lần!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":13,"id":"JUS-746de5f29a1f17a237b9","ja":"２回以上サポート技でＫＯせよ！","vi":"Hạ KO bằng Support Skill ít nhất 2 lần!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":14,"id":"JUS-3c9e9fffcf64ce9af404","ja":"３回以上サポート技でＫＯせよ！","vi":"Hạ KO bằng Support Skill ít nhất 3 lần!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":15,"id":"JUS-0afe4a65d5cfbcc5a7f3","ja":"４回以上サポート技でＫＯせよ！","vi":"Hạ KO bằng Support Skill ít nhất 4 lần!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":16,"id":"JUS-58db4a96f0ba6497888c","ja":"２回以上属性攻撃でＫＯせよ！","vi":"Hạ KO bằng Attribute Attack ít nhất 2 lần!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":17,"id":"JUS-2f43a0daa2ab7f5f2d9f","ja":"３回以上属性攻撃でＫＯせよ！","vi":"Hạ KO bằng Attribute Attack ít nhất 3 lần!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":18,"id":"JUS-3cec2389833e0a182638","ja":"４回以上属性攻撃でＫＯせよ！","vi":"Hạ KO bằng Attribute Attack ít nhất 4 lần!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":19,"id":"JUS-49a85c1a5ec45275afe0","ja":"１回以上スーパータッグでＫＯせよ！","vi":"Hạ KO bằng Super Tag ít nhất 1 lần!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":20,"id":"JUS-9092273ef399ce15d731","ja":"２回以上スーパータッグでＫＯせよ！","vi":"Hạ KO bằng Super Tag ít nhất 2 lần!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":21,"id":"JUS-7093afb48004f0dcec42","ja":"３回以上スーパータッグでＫＯせよ！","vi":"Hạ KO bằng Super Tag ít nhất 3 lần!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":22,"id":"JUS-80f02ee715c63bf7b322","ja":"２０カウント以内にクリアせよ！","vi":"Hoàn thành trong 20 nhịp đếm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":23,"id":"JUS-9f748fdddeab29709179","ja":"３０カウント以内にクリアせよ！","vi":"Hoàn thành trong 30 nhịp đếm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":24,"id":"JUS-533b0ef8ec36bb973098","ja":"４０カウント以内にクリアせよ！","vi":"Hoàn thành trong 40 nhịp đếm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":25,"id":"JUS-e99d576b983ea1569535","ja":"１回以上必殺技でＫＯせよ！","vi":"Hạ KO bằng Special Attack ít nhất 1 lần!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":26,"id":"JUS-1be2831f81f9e46e73a9","ja":"１回以上サポート技でＫＯせよ！","vi":"Hạ KO bằng Support Skill ít nhất 1 lần!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":27,"id":"JUS-f3c7277d4f42f281b2f1","ja":"１回以上属性攻撃でＫＯせよ！","vi":"Hạ KO bằng Attribute Attack ít nhất 1 lần!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":28,"id":"JUS-a036befd45cadfa77ae3","ja":"シンボルを一度も落とすな！","vi":"Đừng làm rơi Symbol lần nào!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":29,"id":"JUS-7eb801daca0ead8ab119","ja":"シンボルを２個以上持って勝て！","vi":"Chiến thắng khi giữ ít nhất 2 Symbol!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":30,"id":"JUS-16d305b71273662de1e1","ja":"シンボルを３個以上持って勝て！","vi":"Chiến thắng khi giữ ít nhất 3 Symbol!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":31,"id":"JUS-bf81d7503257c30f857c","ja":"シンボルを４個以上持って勝て！","vi":"Chiến thắng khi giữ ít nhất 4 Symbol!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":32,"id":"JUS-18d24a246e706bfaa7c4","ja":"バトルコマを３枚セットして戦え！","vi":"Trang bị 3 Battle Koma rồi chiến đấu!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":33,"id":"JUS-9c69f78f33606882cd42","ja":"サポートコマを５枚セットして戦え！","vi":"Trang bị 5 Support Koma rồi chiến đấu!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":34,"id":"JUS-25ed86b5cf17793a534e","ja":"サポートコマを７枚セットして戦え！","vi":"Trang bị 7 Support Koma rồi chiến đấu!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":35,"id":"JUS-a7cdea5419ccd4e9c73e","ja":"ヘルプコマを１０枚セットして戦え！","vi":"Trang bị 10 Help Koma rồi chiến đấu!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":36,"id":"JUS-618e9c367e8dc72c606e","ja":"ヘルプコマを１４枚セットして戦え！","vi":"Trang bị 14 Help Koma rồi chiến đấu!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":37,"id":"JUS-9eb8bc2ff0e3fab1aea4","ja":"全員のＪ魂を満タンにして勝て！","vi":"Thắng khi J-Soul của cả đội đầy!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":38,"id":"JUS-9641a2d59c8f03520dd7","ja":"必殺魂を満タンにしてクリアせよ！","vi":"Hoàn thành khi Special Soul đầy!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":39,"id":"JUS-52a804967ac8a0e8e545","ja":"一度も必殺技を受けずにクリアせよ！","vi":"Hoàn thành mà không trúng Special Attack nào!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":40,"id":"JUS-61322c30851b80e57363","ja":"必殺技を使わずクリアせよ！","vi":"Hoàn thành mà không dùng Special Attack!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":41,"id":"JUS-acb695546414b8b08617","ja":"デッキをタッチするな！","vi":"Không được chạm vào Deck!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":42,"id":"JUS-effa2e3e7ac436767d68","ja":"リングアウトせずにクリアせよ！","vi":"Hoàn thành mà không bị Ring Out!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":43,"id":"JUS-fd6c43085cbe44b95427","ja":"一度もＫＯされずにクリアせよ！","vi":"Hoàn thành mà không bị KO lần nào!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":44,"id":"JUS-69b5ebc7700007b4d231","ja":"シンボルを全て集めろ！","vi":"Thu thập toàn bộ Symbol!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":45,"id":"JUS-a1af401fac660b65e298","ja":"２０ポイント以上でクリアせよ！","vi":"Hoàn thành với ít nhất 20 điểm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":46,"id":"JUS-048253b6fbe628fd180b","ja":"３０ポイント以上でクリアせよ！","vi":"Hoàn thành với ít nhất 30 điểm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":47,"id":"JUS-71b9e3b49de21a6ccbeb","ja":"４０ポイント以上でクリアせよ！","vi":"Hoàn thành với ít nhất 40 điểm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":48,"id":"JUS-11dfd4f721a06feedcd9","ja":"４５ポイント以上でクリアせよ！","vi":"Hoàn thành với ít nhất 45 điểm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":49,"id":"JUS-4d7847fa7d6f1ba8fc80","ja":"ずっと１位をキープしてクリアせよ！","vi":"Giữ hạng nhất suốt trận rồi hoàn thành!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":50,"id":"JUS-1ef01552882e445c7ce2","ja":"２０秒以内に捕まえろ！","vi":"Bắt được trong 20 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":51,"id":"JUS-b64aea2f7135307da1f4","ja":"１５秒以内に捕まえろ！","vi":"Bắt được trong 15 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":52,"id":"JUS-f2fd7c15e833d61320ea","ja":"１０秒以内に捕まえろ！","vi":"Bắt được trong 10 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":53,"id":"JUS-94afd9cd34df57957a75","ja":"５秒以内に捕まえろ！","vi":"Bắt được trong 5 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":54,"id":"JUS-f4f78cc3be4ac342e2f9","ja":"弱攻撃で捕まえろ！","vi":"Bắt bằng Weak Attack!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":55,"id":"JUS-5ad558efb4695c209b39","ja":"必殺技で捕まえろ！","vi":"Bắt bằng Special Attack!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":56,"id":"JUS-e28cfed696f8445fafab","ja":"サポート技で捕まえろ！","vi":"Bắt bằng Support Skill!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":57,"id":"JUS-9a6797754ba6899d56cb","ja":"強攻撃で捕まえろ！","vi":"Bắt bằng Strong Attack!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":58,"id":"JUS-8e9926d79574e09b63fa","ja":"４０秒以内にクリアせよ！","vi":"Hoàn thành trong 40 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":59,"id":"JUS-858898783b945d1a1aa7","ja":"３０秒以内にクリアせよ！","vi":"Hoàn thành trong 30 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":60,"id":"JUS-d557caa0e56f19a4abce","ja":"２０秒以内にクリアせよ！","vi":"Hoàn thành trong 20 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":61,"id":"JUS-3cf1b9cc3236e67c7d8f","ja":"１０秒以内にクリアせよ！","vi":"Hoàn thành trong 10 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":62,"id":"JUS-c79f0500a802899af871","ja":"１分３０秒以内にクリアせよ！","vi":"Hoàn thành trong 1 phút 30 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":63,"id":"JUS-7da1d4918e42fe182ed4","ja":"１分２０秒以内にクリアせよ！","vi":"Hoàn thành trong 1 phút 20 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":64,"id":"JUS-1f8db9753b47fc320c0b","ja":"１分１０秒以内にクリアせよ！","vi":"Hoàn thành trong 1 phút 10 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":65,"id":"JUS-225024a3ea4251033332","ja":"１分以内にクリアせよ！","vi":"Hoàn thành trong 1 phút!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":66,"id":"JUS-8a58b4b8fda1f82de5c2","ja":"３０秒以上逃げ切れ！","vi":"Trốn thoát ít nhất 30 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":67,"id":"JUS-a59d725c6fb32521d9c4","ja":"１分以上逃げ切れ！","vi":"Trốn thoát ít nhất 1 phút!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":68,"id":"JUS-79185be00dca12aa4914","ja":"２分以上逃げ切れ！","vi":"Trốn thoát ít nhất 2 phút!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":69,"id":"JUS-200d8c1f6918ed343008","ja":"３分以上逃げ切れ！","vi":"Trốn thoát ít nhất 3 phút!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":70,"id":"JUS-f775e5127fffebc30196","ja":"必殺技でとどめをさせ！","vi":"Tung đòn kết liễu bằng Special Attack!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":71,"id":"JUS-8563cdf5ba904214966c","ja":"サポート技でとどめをさせ！","vi":"Tung đòn kết liễu bằng Support Skill!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":72,"id":"JUS-7c0195d7dd91b4d16912","ja":"スーパータッグでとどめをさせ！","vi":"Tung đòn kết liễu bằng Super Tag!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":73,"id":"JUS-847d3cccabd02a522b65","ja":"属性攻撃でとどめをさせ！","vi":"Tung đòn kết liễu bằng Attribute Attack!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":74,"id":"JUS-6f9efcb416c33c94f651","ja":"１２ポイント以上でクリアせよ！","vi":"Hoàn thành với ít nhất 12 điểm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":75,"id":"JUS-53406defb802ff7f3d69","ja":"１５ポイント以上でクリアせよ！","vi":"Hoàn thành với ít nhất 15 điểm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":76,"id":"JUS-bc6deba2e7963e625f2d","ja":"１８ポイント以上でクリアせよ！","vi":"Hoàn thành với ít nhất 18 điểm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":77,"id":"JUS-980675eb9199ca4871d9","ja":"２５ポイント以上でクリアせよ！","vi":"Hoàn thành với ít nhất 25 điểm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":78,"id":"JUS-cbf2254566f668579b2a","ja":"３５ポイント以上でクリアせよ！","vi":"Hoàn thành với ít nhất 35 điểm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":79,"id":"JUS-9b762682bfb82dacad95","ja":"５カウント以内にクリアせよ！","vi":"Hoàn thành trong 5 nhịp đếm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":80,"id":"JUS-f945f6bd82abb1cd3718","ja":"１０カウント以内にクリアせよ！","vi":"Hoàn thành trong 10 nhịp đếm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":81,"id":"JUS-a4b6e55cd16480fc0e10","ja":"１５カウント以内にクリアせよ！","vi":"Hoàn thành trong 15 nhịp đếm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":82,"id":"JUS-12b794878182cb6a0198","ja":"２５カウント以内にクリアせよ！","vi":"Hoàn thành trong 25 nhịp đếm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":83,"id":"JUS-5fe075f1450700639175","ja":"３５カウント以内にクリアせよ！","vi":"Hoàn thành trong 35 nhịp đếm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":84,"id":"JUS-4d2f7a7d18a36a2225ee","ja":"５０カウント以内にクリアせよ！","vi":"Hoàn thành trong 50 nhịp đếm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":85,"id":"JUS-144c05d0c17092b9c5b2","ja":"１５秒以内にクリアせよ！","vi":"Hoàn thành trong 15 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":86,"id":"JUS-ed72b9cd71541a2cd602","ja":"２５秒以内にクリアせよ！","vi":"Hoàn thành trong 25 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":87,"id":"JUS-521eecab478afc103b98","ja":"３５秒以内にクリアせよ！","vi":"Hoàn thành trong 35 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":88,"id":"JUS-b8ac746e1664cfd7bace","ja":"５０秒以内にクリアせよ！","vi":"Hoàn thành trong 50 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":89,"id":"JUS-00d7e2dbdad1a1e23c6d","ja":"１０秒以上守りぬけ！","vi":"Trụ vững ít nhất 10 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":90,"id":"JUS-e4df5a18bde17e3f7a43","ja":"２０秒以上守りぬけ！","vi":"Trụ vững ít nhất 20 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":91,"id":"JUS-db3da1ea26ba7de66e40","ja":"３０秒以上守りぬけ！","vi":"Trụ vững ít nhất 30 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":92,"id":"JUS-75e8f3425b17084b0a0e","ja":"４０秒以上守りぬけ！","vi":"Trụ vững ít nhất 40 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":93,"id":"JUS-ed92457ca04bd4380e1d","ja":"５０秒以上守りぬけ！","vi":"Trụ vững ít nhất 50 giây!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":94,"id":"JUS-c86a1417a713dd9b07de","ja":"１分以上守りぬけ！","vi":"Trụ vững ít nhất 1 phút!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":95,"id":"JUS-2b849a89512aa0af98d5","ja":"必殺技でＫＯせよ！","vi":"Hạ KO bằng Special Attack!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":96,"id":"JUS-4600b9cacbf327123820","ja":"サポート技でＫＯせよ！","vi":"Hạ KO bằng Support Skill!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":97,"id":"JUS-24c6fdf1266adc53ee21","ja":"属性攻撃でＫＯせよ！","vi":"Hạ KO bằng Attribute Attack!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":98,"id":"JUS-8be13ce75394bc5a1452","ja":"リングアウトでＫＯせよ！","vi":"Hạ KO bằng Ring Out!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":99,"id":"JUS-f252d4fe84be8860d9a0","ja":"２ポイント以上でクリアせよ！","vi":"Hoàn thành với ít nhất 2 điểm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":100,"id":"JUS-2e08db968a4b0bc6c60d","ja":"６ポイント以上でクリアせよ！","vi":"Hoàn thành với ít nhất 6 điểm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":101,"id":"JUS-4501ad196df2dcd524d0","ja":"７ポイント以上でクリアせよ！","vi":"Hoàn thành với ít nhất 7 điểm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":102,"id":"JUS-f4a3c3e04706f33c0ae9","ja":"８ポイント以上でクリアせよ！","vi":"Hoàn thành với ít nhất 8 điểm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":103,"id":"JUS-69d2377ab60f09712038","ja":"９ポイント以上でクリアせよ！","vi":"Hoàn thành với ít nhất 9 điểm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":104,"id":"JUS-d7ff27697eae743db7db","ja":"１０ポイント以上でクリアせよ！","vi":"Hoàn thành với ít nhất 10 điểm!"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":0,"id":"JUS-eccde8b390879146caba","ja":"なし","vi":"Không có"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":1,"id":"JUS-667bafa25e08e19c7737","ja":"３段ジャンプ","vi":"Triple Jump"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":2,"id":"JUS-1b2bdb388d870db145f6","ja":"ジャンプが３回できる能力。","vi":"Cho phép nhảy ba lần."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":3,"id":"JUS-95989ee5fae62693b0b4","ja":"三角飛び","vi":"Wall Jump"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":4,"id":"JUS-93c3fdc36d63a86a5257","ja":"壁に向かってＡボタンを押すと、","vi":"Nhấn A khi áp sát tường"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":5,"id":"JUS-ae7f574482cdd4ea02bf","ja":"三角飛びができる能力。","vi":"để thực hiện Wall Jump."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":6,"id":"JUS-5020629a10e71c8d6e34","ja":"空中ダッシュ","vi":"Air Dash"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":7,"id":"JUS-463fa852e65d3e36383d","ja":"空中でのダッシュ操作ができる能力。","vi":"Cho phép lướt khi đang trên không."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":8,"id":"JUS-ecad539d3dbb4fcdeb4e","ja":"オートガード","vi":"Auto Guard"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":9,"id":"JUS-aa087d082c812eb09a82","ja":"ガードができる状態での攻撃を、必殺魂を","vi":"Khi có thể Guard, đòn tấn công sẽ"}
+{"file":"01-huong-dan-001.jsonl","row_index":126,"id":"JUS-755dd242265ceb0ddd42","ja":"上手くタッチできるようになろう！","vi":"Tập chạm màn hình cho thật chuẩn nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":127,"id":"JUS-e40331a9b40badb96c7d","ja":"ここでの説明は以上だ！","vi":"Phần hướng dẫn ở đây hết rồi!"}
+{"file":"01-huong-dan-001.jsonl","row_index":128,"id":"JUS-efd76ad82e142166d432","ja":"さらにウデをみがいて<B0A>強くなってくれ！","vi":"Cứ rèn luyện thêm<B0A>và mạnh lên nữa nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":129,"id":"JUS-a0762e0f926cb4962583","ja":"また会ったな！","vi":"Lại gặp cậu rồi!"}
+{"file":"01-huong-dan-001.jsonl","row_index":130,"id":"JUS-84d874eb4cea160b200f","ja":"今回は画面に表示されている<B0A>ものについて教えるぞ！","vi":"Lần này ta sẽ chỉ cho cậu<B0A>những gì hiện trên màn hình!"}
+{"file":"01-huong-dan-001.jsonl","row_index":131,"id":"JUS-841cccd235bbc9930e9d","ja":"おしゃべりだけで退屈かもしれないが<B0A>許して欲しい！","vi":"Chỉ nghe ta nói chắc hơi chán,<B0A>nhưng cố chịu chút nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":132,"id":"JUS-4e07cf7a5a784c087e09","ja":"その１！<B0A>バトル中、相手がどこにいるのか<B0A>わからなくなったことはないかな？","vi":"Thứ nhất!<B0A>Đang đánh nhau mà chẳng biết<B0A>đối thủ ở đâu, có khi nào chưa?"}
+{"file":"01-huong-dan-001.jsonl","row_index":133,"id":"JUS-2c896a31156727976982","ja":"相手が自分の画面の<B0A>外にいるときは…","vi":"Khi đối thủ ở<B0A>ngoài màn hình của cậu..."}
+{"file":"01-huong-dan-001.jsonl","row_index":134,"id":"JUS-cc5ddaf009795d34edc3","ja":"相手がいる位置をしめす<B0A>『マーカー』が表示されているのだ！","vi":"Sẽ có một 'Marker'<B0A>chỉ vị trí của hắn!"}
+{"file":"01-huong-dan-001.jsonl","row_index":135,"id":"JUS-3db09f4e5bf1d51b88ae","ja":"マーカーの方向へ進めば<B0A>相手のいる場所へ行けるぞ！<B0A>つねにマーカーに注意するのだ！","vi":"Đi theo hướng Marker<B0A>là tìm được đối thủ!<B0A>Nhớ để mắt đến nó nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":136,"id":"JUS-9772d930301c53ed7327","ja":"その２！<B0A>さっき教えたマーカーに、王冠や星が<B0A>ついているのは気づいたかな？","vi":"Thứ hai!<B0A>Cậu thấy vương miện và sao<B0A>trên Marker lúc nãy chưa?"}
+{"file":"01-huong-dan-001.jsonl","row_index":137,"id":"JUS-1c84e7d580022d5351da","ja":"あれは順位をあらわしていて<B0A>１位には王冠、２位には星３つ","vi":"Đó là dấu chỉ thứ hạng:<B0A>hạng nhất có vương miện, hạng nhì ba sao,"}
+{"file":"01-huong-dan-001.jsonl","row_index":138,"id":"JUS-af44a851c51a2e96eeff","ja":"３位には星２つ、４位には星１つが<B0A>表示されるのだ！","vi":"hạng ba hai sao, còn hạng tư<B0A>một sao!"}
+{"file":"01-huong-dan-001.jsonl","row_index":139,"id":"JUS-0682a1517f006a110531","ja":"すばやく１位になるためには<B0A>１位をＫＯするのが一番！<B0A>つねに気をつけるのだ！","vi":"Muốn leo lên hạng nhất thật nhanh?<B0A>Hạ KO người đang đứng đầu là tốt nhất!<B0A>Nhớ chú ý đấy!"}
+{"file":"01-huong-dan-001.jsonl","row_index":140,"id":"JUS-cb962eec1293c02d4126","ja":"その３！<B0A>Ｊ魂の横にあるのは<B0A>バトルキャラの属性だ！","vi":"Thứ ba!<B0A>Bên cạnh J-Soul là<B0A>thuộc tính của Battle Character!"}
+{"file":"01-huong-dan-001.jsonl","row_index":141,"id":"JUS-049894b9cdec0b93adb5","ja":"属性の大事さは<B0A>前に説明したとおりだ！","vi":"Ta đã nói<B0A>thuộc tính quan trọng thế nào rồi!"}
+{"file":"01-huong-dan-001.jsonl","row_index":142,"id":"JUS-896675c5f37d5d6a62bd","ja":"自分だけでなく、相手の属性も<B0A>しっかり覚えておこう！","vi":"Nhớ kỹ cả thuộc tính của mình<B0A>lẫn của đối thủ nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":143,"id":"JUS-62daf3f2b5dc39004897","ja":"ただ、この宇宙のどこかに<B0A>属性のちがうコマがあるという噂も…","vi":"Nhưng nghe đồn ở đâu đó trong vũ trụ<B0A>có những Koma mang thuộc tính khác nữa..."}
+{"file":"01-huong-dan-001.jsonl","row_index":144,"id":"JUS-a4442b9d8188c4358c38","ja":"説明は以上だ！<B0A>また会おう！！","vi":"Đến đây là hết!<B0A>Hẹn gặp lại!!"}
+{"file":"01-huong-dan-001.jsonl","row_index":145,"id":"JUS-346295c5f282771cc2a0","ja":"またまた会ったな！","vi":"Lại gặp nhau nữa rồi!"}
+{"file":"01-huong-dan-001.jsonl","row_index":146,"id":"JUS-2bd245648a0ed7b5c2a0","ja":"今回はバトルでのちょっとした小ワザと<B0A>ＫＯのコツを教えよう！","vi":"Lần này ta sẽ dạy vài mẹo nhỏ<B0A>và bí quyết hạ KO đối thủ!"}
+{"file":"01-huong-dan-001.jsonl","row_index":147,"id":"JUS-8b5ce06d937c9b877fb7","ja":"その１！<B0A>空中で方向ボタン↓と<B0A>Ａボタンを押すと…","vi":"Thứ nhất!<B0A>Giữa không trung, nhấn ↓<B0A>cùng nút A thì..."}
+{"file":"01-huong-dan-001.jsonl","row_index":148,"id":"JUS-5e49503589f5c18840f9","ja":"いつもより速く落ちることができる<B0A>『高速落下』が使えるぞ！","vi":"Cậu dùng được 'Fast Fall',<B0A>rơi nhanh hơn bình thường!"}
+{"file":"01-huong-dan-001.jsonl","row_index":149,"id":"JUS-b6e2b289673fbee07a0a","ja":"これをどんどん使っていけば<B0A>スピーディーに動けるぞ！","vi":"Dùng thành thạo chiêu này<B0A>thì di chuyển nhanh nhẹn hơn hẳn!"}
+{"file":"01-huong-dan-001.jsonl","row_index":150,"id":"JUS-2846447934d2a5eb85a5","ja":"その２！<B0A>バトル中セレクトボタンを押すと<B0A>『キャラアクション』をするのだ！","vi":"Thứ hai!<B0A>Nhấn SELECT lúc chiến đấu<B0A>để thực hiện 'Character Action'!"}
+{"file":"01-huong-dan-001.jsonl","row_index":151,"id":"JUS-4298350acbf0fe1c69c8","ja":"キャラアクションは見た目も効果も<B0A>バトルキャラごとにさまざまで<B0A>ルフィは肉を食べてＪ魂を回復し…","vi":"Character Action khác nhau tùy<B0A>Battle Character: Luffy ăn thịt<B0A>để hồi J-Soul, còn..."}
+{"file":"01-huong-dan-001.jsonl","row_index":152,"id":"JUS-6a3b69442c6f6e135816","ja":"ナルトは一度印を結び、<B0A>攻撃を受けたときに変わり身が<B0A>できるようになるのだ！","vi":"Naruto kết ấn trước,<B0A>để dùng thuật thế thân<B0A>khi bị tấn công!"}
+{"file":"01-huong-dan-001.jsonl","row_index":153,"id":"JUS-440068b035ac17694a60","ja":"ボタンを押しっぱなしにする<B0A>キャラクターもいるので、いろいろ<B0A>ためしてみよう！","vi":"Có nhân vật phải giữ nút liên tục,<B0A>cứ thử từng người<B0A>để khám phá nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":154,"id":"JUS-88ddb8ca09f76ed65932","ja":"その３！<B0A>ガード攻撃でアイテムボックスを飛ばす<B0A>ことができるのを知っていたかな？","vi":"Thứ ba!<B0A>Cậu biết Guard Attack có thể<B0A>hất Item Box đi không?"}
+{"file":"01-huong-dan-001.jsonl","row_index":155,"id":"JUS-4fe1ad96236ffb137ff7","ja":"アイテムボックスをぶつけると<B0A>相手を一瞬ひるませられるのだ！<B0A>攻撃のチャンスを見のがすな！","vi":"Item Box đập trúng sẽ khiến<B0A>đối thủ khựng lại một thoáng!<B0A>Tranh thủ ra đòn ngay!"}
+{"file":"01-huong-dan-001.jsonl","row_index":156,"id":"JUS-0f80cd0b17da188acdeb","ja":"では、ためしに宝箱を探して<B0A>飛ばしてみよう！","vi":"Giờ thử tìm một chiếc rương<B0A>rồi đánh bật nó đi nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":157,"id":"JUS-3d5eb92f53ffca5bcb61","ja":"ついでにさっき教えた<B0A>ほかの技もためしてみるといいぞ！","vi":"Nhân tiện, thử luôn<B0A>các chiêu vừa học đi!"}
+{"file":"01-huong-dan-001.jsonl","row_index":158,"id":"JUS-d67626ef294856e5b183","ja":"その４！<B0A>相手をＫＯすると、ときどき<B0A>コインがちらばるのに気づいたかな？","vi":"Thứ tư!<B0A>Cậu thấy đôi khi hạ KO đối thủ<B0A>làm Coin rơi vãi không?"}
+{"file":"01-huong-dan-001.jsonl","row_index":159,"id":"JUS-594ef3a6c07a3797c18e","ja":"あれは相手のマンガデッキの<B0A>バトルキャラが『全滅』している<B0A>しょうこなのだ！","vi":"Đó là dấu hiệu toàn bộ<B0A>Battle Character trong Manga Deck<B0A>của đối thủ đã bị hạ!"}
+{"file":"01-huong-dan-001.jsonl","row_index":160,"id":"JUS-3b8ef87ee4f6d1e681dd","ja":"全滅すると、相手にコインを<B0A>とられるうえに…","vi":"Khi cả đội bị hạ,<B0A>đối thủ không chỉ bị cướp Coin..."}
+{"file":"01-huong-dan-001.jsonl","row_index":161,"id":"JUS-a7ca2e7cfff6d588ca50","ja":"ポイントルールのときは<B0A>マイナス２ポイントされてしまうのだ！","vi":"Mà trong luật Point Battle,<B0A>còn bị trừ tận 2 điểm!"}
+{"file":"01-huong-dan-001.jsonl","row_index":162,"id":"JUS-5f6c8b12c5873e25943e","ja":"このように全滅は<B0A>まったく良いことがないので<B0A>注意して戦うのだ！","vi":"Bị hạ cả đội chẳng có lợi gì cả,<B0A>nên hãy chiến đấu<B0A>thật cẩn thận!"}
+{"file":"01-huong-dan-001.jsonl","row_index":163,"id":"JUS-a539b2d7e6c0598f5664","ja":"その５！<B0A>最後にステージクリアのコツ<B0A>ＫＯのテクニックを２つ教えよう！","vi":"Thứ năm!<B0A>Cuối cùng, ta chỉ hai mẹo hạ KO<B0A>giúp cậu qua màn dễ hơn!"}
+{"file":"01-huong-dan-001.jsonl","row_index":164,"id":"JUS-a43a8712d6d1a54ea7cd","ja":"ひとつは『チェーン攻撃』だ！","vi":"Một là 'Chain Attack'!"}
+{"file":"01-huong-dan-001.jsonl","row_index":165,"id":"JUS-453e9d876fb8bfbbb80b","ja":"『弱攻撃』から『強攻撃』<B0A>さらに『必殺技』の順でボタンを押す！","vi":"Nhấn lần lượt 'Weak Attack',<B0A>'Strong Attack', rồi 'Special Attack'!"}
+{"file":"01-huong-dan-001.jsonl","row_index":166,"id":"JUS-781e74247e906a680a3b","ja":"上手くいけばスキが少なく<B0A>連続で攻撃をくり出せるのだ！","vi":"Canh chuẩn sẽ tung đòn liên tục<B0A>mà ít để lộ sơ hở!"}
+{"file":"01-huong-dan-001.jsonl","row_index":167,"id":"JUS-24161509a49cb3d23391","ja":"いろいろな組み合わせがあるから<B0A>探してみると良いだろう！","vi":"Có nhiều cách phối hợp lắm,<B0A>cứ thử nghiệm nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":168,"id":"JUS-eeef0a6a0a067911e4c5","ja":"あともうひとつが<B0A>マンガ（＝バトルステージ）から落とす<B0A>いわゆる『リングアウト』のＫＯだ！","vi":"Cách còn lại là đánh đối thủ<B0A>rơi khỏi trang manga (sân đấu):<B0A>KO bằng 'Ring Out'!"}
+{"file":"01-huong-dan-001.jsonl","row_index":169,"id":"JUS-38ee3303556dc95d5131","ja":"じつはマンガの壁は<B0A>あるていど攻撃を与えると<B0A>こわれるのは知っているかな？","vi":"Thật ra, tường của trang manga<B0A>có thể vỡ<B0A>nếu chịu đủ sát thương đấy!"}
+{"file":"01-huong-dan-001.jsonl","row_index":170,"id":"JUS-8ff15622bfdce3b5ca1e","ja":"その穴から落ちてしまうと<B0A>たとえＪ魂が満タンでも一気に<B0A>ＫＯになってしまうのだ！","vi":"Rơi qua chỗ tường bị vỡ,<B0A>dù J-Soul còn đầy<B0A>vẫn KO ngay lập tức!"}
+{"file":"01-huong-dan-001.jsonl","row_index":171,"id":"JUS-98466e31c7292d7c8d31","ja":"しかし！うまくガケにつかまって<B0A>たえることもできる！<B0A>復活と同時に相手の背後にまわり…","vi":"Nhưng! Cậu vẫn có thể bám mép<B0A>để thoát nạn!<B0A>Vừa trở lại, vòng ra sau đối thủ..."}
+{"file":"01-huong-dan-001.jsonl","row_index":172,"id":"JUS-a157b608b3e1986f56dd","ja":"逆にリングアウトにしてしまえ！","vi":"Và cho hắn nếm Ring Out ngược lại!"}
+{"file":"01-huong-dan-001.jsonl","row_index":173,"id":"JUS-0bb4c724fbc70e33c250","ja":"ちなみにこのステージの壁は<B0A>こわすことができないぞ！<B0A>ほかのステージでためしてみるのだ！","vi":"À, tường của sân này<B0A>không phá được đâu!<B0A>Sang sân khác mà thử nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":174,"id":"JUS-3181a491702c3a6db112","ja":"この２つの方法を知っていれば<B0A>さらにＫＯの山をきずけるだろう！","vi":"Nắm vững hai cách này,<B0A>cậu sẽ hạ KO nhiều hơn nữa!"}
+{"file":"01-huong-dan-001.jsonl","row_index":175,"id":"JUS-586afcbe49b842683e2c","ja":"では最後に<B0A>３人一組のコママンをＫＯして<B0A>終わりとしよう！","vi":"Cuối cùng,<B0A>hãy hạ KO nhóm Koma Man ba người<B0A>để hoàn thành bài học!"}
+{"file":"01-huong-dan-001.jsonl","row_index":176,"id":"JUS-a12618a504915939f5ba","ja":"今回のコママンは<B0A>ちょっと本気だぞ！<B0A>ゆだんするな！！","vi":"Koma Man lần này<B0A>sẽ đánh nghiêm túc đấy!<B0A>Đừng chủ quan!!"}
+{"file":"01-huong-dan-001.jsonl","row_index":177,"id":"JUS-828c22833fd8596c14e6","ja":"でははじめ！！","vi":"Rồi, bắt đầu!!"}
+{"file":"01-huong-dan-001.jsonl","row_index":178,"id":"JUS-237efcefc388b281f237","ja":"デッキメイクへようこそ！！","vi":"Chào mừng đến Deck Make!!"}
+{"file":"01-huong-dan-001.jsonl","row_index":179,"id":"JUS-12cad0844859cbfb7912","ja":"これからＪヒーローの<B0A>結束の証というべき<B0A>マンガデッキの組み方を教えるぞ！","vi":"Giờ ta sẽ dạy cậu<B0A>cách tạo Manga Deck,<B0A>biểu tượng gắn kết của các J-Hero!"}
+{"file":"01-huong-dan-001.jsonl","row_index":180,"id":"JUS-eaab161597d79a8dd121","ja":"まず、マンガデッキを作るには<B0A>コマをセットする必要があるのだ！","vi":"Trước tiên, muốn tạo Manga Deck<B0A>thì phải đặt các Koma vào!"}
+{"file":"01-huong-dan-001.jsonl","row_index":181,"id":"JUS-5c3d305c4c18dd94d868","ja":"下画面のコマリストから<B0A>コマを選ぶことができるぞ！","vi":"Cậu chọn Koma trong danh sách<B0A>ở màn hình dưới nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":182,"id":"JUS-59ceb93858c88e173eb8","ja":"コマの種類は『バトルコマ』<B0A>『サポートコマ』『ヘルプコマ』と、<B0A>３種類あって…","vi":"Có ba loại: 'Battle Koma',<B0A>'Support Koma', 'Help Koma'<B0A>để cậu lựa chọn..."}
+{"file":"01-huong-dan-001.jsonl","row_index":183,"id":"JUS-ebadb486a7062a52720f","ja":"それぞれ最低１コマずつは<B0A>デッキに入れる必要があるのだ！","vi":"Mỗi loại phải có<B0A>ít nhất một Koma trong Deck!"}
+{"file":"01-huong-dan-001.jsonl","row_index":184,"id":"JUS-1ccfbb4313e061e4049c","ja":"なにごともバランスが大切、<B0A>ということだな！","vi":"Làm gì cũng cần cân bằng,<B0A>phải không nào!"}
+{"file":"01-huong-dan-001.jsonl","row_index":185,"id":"JUS-f3e606f9f254cf546dfb","ja":"それでは実際に<B0A>デッキを作ってみるぞ！","vi":"Giờ thử<B0A>tự tạo Deck nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":186,"id":"JUS-35e9ff785daf984885b9","ja":"まず、<B0A>バトルコマをデッキに入れるのだ！","vi":"Đầu tiên,<B0A>đặt Battle Koma vào Deck!"}
+{"file":"01-huong-dan-001.jsonl","row_index":187,"id":"JUS-1d123ed547262952a29f","ja":"画面をタッチするか、十字ボタンで<B0A>コマを選んで…","vi":"Chạm màn hình hoặc dùng nút hướng<B0A>để chọn Koma..."}
+{"file":"01-huong-dan-001.jsonl","row_index":188,"id":"JUS-15626ff7a01213295765","ja":"もう一度タッチするか、Ａボタンで<B0A>決定するのだ！","vi":"Chạm lần nữa hoặc nhấn A<B0A>để xác nhận!"}
+{"file":"01-huong-dan-001.jsonl","row_index":189,"id":"JUS-86ee4bf1c8110fe40cda","ja":"ではさっそく、<B0A>ナルトのバトルコマを選んでみるぞ！","vi":"Nào, thử chọn Battle Koma<B0A>của Naruto nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":190,"id":"JUS-d5cba69f2973aecdf949","ja":"下画面に注目！","vi":"Chú ý màn hình dưới!"}
+{"file":"01-huong-dan-001.jsonl","row_index":191,"id":"JUS-be8aee7837dcef9dc71a","ja":"下画面がコマリストから<B0A>デッキ画面にきりかわったぞ！","vi":"Màn hình dưới đã đổi từ danh sách<B0A>sang màn hình Deck rồi!"}
+{"file":"01-huong-dan-001.jsonl","row_index":192,"id":"JUS-b72fed0d80dceb3e0d05","ja":"リストからコマを選ぶと、<B0A>デッキ画面にきりかわるのだ！","vi":"Khi chọn Koma từ danh sách,<B0A>màn hình sẽ chuyển sang Deck!"}
+{"file":"01-huong-dan-001.jsonl","row_index":193,"id":"JUS-541d320bd9d5c7097533","ja":"この画面で<B0A>デッキを作っていくぞ！","vi":"Tại đây,<B0A>cậu sẽ xây dựng Deck!"}
+{"file":"01-huong-dan-001.jsonl","row_index":194,"id":"JUS-c4a082f780a8c4cd477b","ja":"コマをつかんだまま<B0A>画面をタッチか、十字ボタンで<B0A>コマを移動させるぞ！","vi":"Giữ Koma rồi chạm màn hình<B0A>hoặc dùng nút hướng<B0A>để di chuyển nó!"}
+{"file":"01-huong-dan-001.jsonl","row_index":195,"id":"JUS-b93dd71f63c674061cad","ja":"コマの場所が決まったら、<B0A>もう一度タッチか、Ａボタンで<B0A>コマをセットするのだ！","vi":"Khi đã chọn vị trí,<B0A>chạm lần nữa hoặc nhấn A<B0A>để đặt Koma!"}
+{"file":"01-huong-dan-001.jsonl","row_index":196,"id":"JUS-bcf0002cf76197d8ad0a","ja":"これでコマをセットできたのだ！","vi":"Thế là đặt Koma xong!"}
+{"file":"01-huong-dan-001.jsonl","row_index":197,"id":"JUS-88ee077cc3c7dfcd46e8","ja":"セットしたコマの上で<B0A>タッチかＡボタンで、<B0A>またコマをつかむことができるぞ！","vi":"Chạm hoặc nhấn A lên Koma<B0A>đã đặt<B0A>để nhấc nó lên lần nữa!"}
+{"file":"01-huong-dan-001.jsonl","row_index":198,"id":"JUS-87cbdeef43aa956c8a0b","ja":"こうやってコマを動かして、<B0A>好きな場所にセットしよう！","vi":"Cứ di chuyển Koma như thế,<B0A>rồi đặt vào chỗ cậu thích!"}
+{"file":"01-huong-dan-001.jsonl","row_index":199,"id":"JUS-26305334dc7095832db5","ja":"コマをセットしたら、<B0A>リスト画面へ戻って<B0A>次のコマを選ぶのだ！","vi":"Đặt xong một Koma,<B0A>quay lại danh sách<B0A>để chọn Koma tiếp theo!"}
+{"file":"01-huong-dan-001.jsonl","row_index":200,"id":"JUS-1c1cde4d3e5c04fb8576","ja":"コマのない場所をタッチするか<B0A>Ｂボタンで<B0A>リスト画面に戻るぞ！","vi":"Chạm vào ô trống<B0A>hoặc nhấn B<B0A>để trở lại danh sách!"}
+{"file":"01-huong-dan-001.jsonl","row_index":201,"id":"JUS-bc9ca3cccea3c45fa416","ja":"リスト画面に戻ったぞ！","vi":"Đã về màn hình danh sách rồi!"}
+{"file":"01-huong-dan-001.jsonl","row_index":202,"id":"JUS-c4d0bdd32f40a8d9cc5e","ja":"次にサポートコマをセットするぞ！<B0A>下画面に注目！","vi":"Tiếp theo, đặt Support Koma nhé!<B0A>Chú ý màn hình dưới!"}
+{"file":"01-huong-dan-001.jsonl","row_index":203,"id":"JUS-8935463ea3c9e6633948","ja":"サポートコマをセットしたのだ！","vi":"Support Koma đã được đặt vào!"}
+{"file":"01-huong-dan-001.jsonl","row_index":204,"id":"JUS-d2c257a6bf5938b18c1a","ja":"次はヘルプコマだ！","vi":"Giờ đến Help Koma!"}
+{"file":"01-huong-dan-001.jsonl","row_index":205,"id":"JUS-60043e411f76619f567f","ja":"ヘルプコマは<B0A>バトルコマに自分の力をかして<B0A>助ける役割なのだ！","vi":"Help Koma<B0A>có nhiệm vụ tiếp sức<B0A>cho Battle Koma!"}
+{"file":"01-huong-dan-001.jsonl","row_index":206,"id":"JUS-b4a43e7784c59136e732","ja":"ヘルプコマをセットすると<B0A>上下左右に<B0A>矢印が表示されたぞ！","vi":"Khi đặt Help Koma,<B0A>các mũi tên bốn hướng<B0A>sẽ xuất hiện!"}
+{"file":"01-huong-dan-001.jsonl","row_index":207,"id":"JUS-41816547af0f44ba2611","ja":"この矢印で、助ける<B0A>相手のバトルコマを選ぶのだ！","vi":"Dùng mũi tên để chọn<B0A>Battle Koma nhận hỗ trợ!"}
+{"file":"01-huong-dan-001.jsonl","row_index":208,"id":"JUS-b951272210064369ab56","ja":"ここでヘルプコマの役割<B0A>『ヘルプ能力』について説明しよう！","vi":"Giờ ta sẽ giải thích<B0A>'Help Ability' là gì!"}
+{"file":"01-huong-dan-001.jsonl","row_index":209,"id":"JUS-e2e381a29fb951512ca9","ja":"ヘルプコマが<B0A>バトルコマを助ける能力のことを<B0A>『ヘルプ能力』というのだ！","vi":"Khả năng Help Koma<B0A>dùng để trợ giúp Battle Koma<B0A>được gọi là 'Help Ability'!"}
+{"file":"01-huong-dan-001.jsonl","row_index":210,"id":"JUS-3dd60177e29811e87a42","ja":"ヘルプ能力を<B0A>はっきさせるためには…","vi":"Để Help Ability<B0A>phát huy tác dụng..."}
+{"file":"01-huong-dan-001.jsonl","row_index":211,"id":"JUS-5f5efda375066cb943c7","ja":"ヘルプコマを<B0A>バトルコマのとなりにセットして<B0A>矢印を指定するのだ！","vi":"Hãy đặt Help Koma<B0A>cạnh Battle Koma<B0A>rồi chỉ mũi tên vào nó!"}
+{"file":"01-huong-dan-001.jsonl","row_index":212,"id":"JUS-4b47b327dbc94da0303f","ja":"ヘルプ能力を<B0A>バトルコマに指定したぞ！","vi":"Đã gán Help Ability<B0A>cho Battle Koma rồi!"}
+{"file":"01-huong-dan-001.jsonl","row_index":213,"id":"JUS-c7aa8f71e1a62ed6681c","ja":"銀さんのヘルプ能力は<B0A>『ジャストガード』だ！<B0A>剣の達人らしい能力だな！","vi":"Help Ability của Gintoki là<B0A>'Just Guard'!<B0A>Đúng chất cao thủ kiếm thuật!"}
+{"file":"01-huong-dan-001.jsonl","row_index":214,"id":"JUS-66d6f3a93a87366b7df5","ja":"これでナルトは<B0A>相手の攻撃をタイミングよく<B0A>ガードすると…","vi":"Nhờ đó, khi Naruto<B0A>Guard đúng thời điểm<B0A>trước đòn đánh của đối thủ..."}
+{"file":"01-huong-dan-001.jsonl","row_index":215,"id":"JUS-a3a71b6218b66ff1402a","ja":"必殺魂がグンとアップする<B0A>ようになったぞ！","vi":"Special Soul sẽ tăng vọt<B0A>đấy!"}
+{"file":"01-huong-dan-001.jsonl","row_index":216,"id":"JUS-63bb90b0148b2aff0e63","ja":"こうやって、<B0A>バトルコマをどんどん<B0A>パワーアップさせるのだ！","vi":"Cứ như vậy,<B0A>cậu có thể tăng sức mạnh<B0A>cho Battle Koma!"}
+{"file":"01-huong-dan-001.jsonl","row_index":217,"id":"JUS-79ffa3a6a45f9e2ada38","ja":"しかし１つのバトルコマに<B0A>同じヘルプ能力をたくさん<B0A>つけることはできないのだ！","vi":"Nhưng không thể gán<B0A>nhiều lần cùng một Help Ability<B0A>lên một Battle Koma!"}
+{"file":"01-huong-dan-001.jsonl","row_index":218,"id":"JUS-11fbbe34d453be5b7e74","ja":"中には例外があって…","vi":"Dĩ nhiên cũng có ngoại lệ..."}
+{"file":"01-huong-dan-001.jsonl","row_index":219,"id":"JUS-34052c7e24b218f26bad","ja":"たくさんつけたぶん効果があったり<B0A>矢印を指定しないタイプも<B0A>あるのだが…","vi":"Có loại cộng dồn hiệu quả,<B0A>có loại lại không cần<B0A>chỉ định mũi tên..."}
+{"file":"01-huong-dan-001.jsonl","row_index":220,"id":"JUS-a257c79b8c9338ca50d4","ja":"これについては<B0A>冒険をすすめながら<B0A>確かめてくれ！","vi":"Chuyện đó thì<B0A>cứ phiêu lưu tiếp<B0A>rồi tự khám phá nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":221,"id":"JUS-20261c8a425493256131","ja":"以上のような感じで<B0A>リストからデッキへ<B0A>どんどんコマをセットしていくぞ！","vi":"Như vậy, hãy tiếp tục<B0A>chọn Koma từ danh sách<B0A>và đưa vào Deck!"}
+{"file":"01-huong-dan-001.jsonl","row_index":222,"id":"JUS-cf317e6c5538ab3e1257","ja":"これで<B0A>コマのセットができたのだ！","vi":"Thế là<B0A>đặt Koma xong rồi!"}
+{"file":"01-huong-dan-001.jsonl","row_index":223,"id":"JUS-6aabb4a1b628f2bfd5eb","ja":"それではここで<B0A>コマにシールを貼る方法を<B0A>教えよう！","vi":"Giờ đến lượt<B0A>ta hướng dẫn cách dán Sticker<B0A>lên Koma nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":224,"id":"JUS-5106ec48d795e6323962","ja":"ここをタッチか、Ｌ・Ｒボタンで<B0A>シールが出現するのだ！","vi":"Chạm vào đây hoặc nhấn L/R<B0A>để hiện Sticker!"}
+{"file":"01-huong-dan-001.jsonl","row_index":225,"id":"JUS-10b259147b2c81566ccf","ja":"シールには『リーダーシール』と<B0A>『Ｌ・Ｒシール』があるのだ！","vi":"Có hai loại Sticker:<B0A>'Leader Sticker' và 'L/R Sticker'!"}
+{"file":"01-huong-dan-001.jsonl","row_index":226,"id":"JUS-9cba9dc423cbaf9ce7f6","ja":"リーダーシールをバトルコマに貼って、<B0A>デッキのリーダーを決めるぞ！","vi":"Dán Leader Sticker lên Battle Koma<B0A>để chọn thủ lĩnh của Deck!"}
+{"file":"01-huong-dan-001.jsonl","row_index":227,"id":"JUS-a7c833cc133de508e2b3","ja":"リーダーがいないと<B0A>デッキは完成しないのだ！<B0A>気をつけろ！","vi":"Deck phải có thủ lĩnh<B0A>mới được xem là hoàn chỉnh!<B0A>Nhớ nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":228,"id":"JUS-a8bb93282b10d22cf737","ja":"このデッキのリーダーを<B0A>ルフィに決めたぞ！","vi":"Ta đã chọn Luffy<B0A>làm thủ lĩnh Deck này!"}
+{"file":"01-huong-dan-001.jsonl","row_index":229,"id":"JUS-d39d31656cd9ef26aded","ja":"リーダーになるとＪ魂が少しふえたり<B0A>ポイントルールだと<B0A>相手をたおしたときになんと…","vi":"Làm thủ lĩnh sẽ được tăng chút J-Soul;<B0A>còn trong Point Battle,<B0A>hạ đối thủ thì được hẳn..."}
+{"file":"01-huong-dan-001.jsonl","row_index":230,"id":"JUS-de68c52304a219d778f7","ja":"２ポイントえることができるのだ！<B0A>覚えておこう！<B0A>さて…","vi":"2 điểm mỗi lần!<B0A>Nhớ kỹ nhé!<B0A>Rồi thì..."}
+{"file":"01-huong-dan-001.jsonl","row_index":231,"id":"JUS-7fd0828ddf6918da5b6e","ja":"これですべてのコマがそろい<B0A>リーダーが決定して<B0A>デッキが完成したのだ！","vi":"Đủ Koma rồi,<B0A>thủ lĩnh cũng đã chọn,<B0A>thế là Deck hoàn chỉnh!"}
+{"file":"01-huong-dan-001.jsonl","row_index":232,"id":"JUS-e455d8778471259d3d19","ja":"そこに、さらに便利な機能<IDEOSP><B0A>Ｌ・Ｒシールについて教えよう！","vi":"Giờ ta sẽ chỉ cậu một tiện ích nữa:<IDEOSP><B0A>'L/R Sticker'!"}
+{"file":"01-huong-dan-001.jsonl","row_index":233,"id":"JUS-8c20b9efbd506f071a8d","ja":"コマにＬ・Ｒシールを貼っておくと、<B0A>バトル中にＬ・Ｒボタンで<B0A>そのコマを呼び出せるのだ！","vi":"Dán L/R Sticker lên Koma<B0A>để gọi Koma đó khi chiến đấu<B0A>bằng nút L hoặc R!"}
+{"file":"01-huong-dan-001.jsonl","row_index":234,"id":"JUS-6d4086ebb1cdb397b787","ja":"Ｌ・Ｒシールは<B0A>バトルコマとサポートコマに<B0A>貼ることができるぞ！","vi":"L/R Sticker có thể dán<B0A>lên Battle Koma<B0A>và Support Koma!"}
+{"file":"01-huong-dan-001.jsonl","row_index":235,"id":"JUS-f6ae54388baecd26d9d5","ja":"ナルトと悟空に<B0A>Ｌ・Ｒシールを貼ったのだ！","vi":"Đã dán L/R Sticker<B0A>cho Naruto và Goku!"}
+{"file":"01-huong-dan-001.jsonl","row_index":236,"id":"JUS-a43fe826276329014c0d","ja":"これでナルトへのキャラチェンジは<B0A>Ｌボタンで、悟空のサポート攻撃は<B0A>Ｒボタンでできるようになったぞ！","vi":"Giờ nhấn L để đổi sang Naruto,<B0A>còn nhấn R để gọi<B0A>đòn hỗ trợ của Goku!"}
+{"file":"01-huong-dan-001.jsonl","row_index":237,"id":"JUS-e36ce27ca8330b46d784","ja":"シールは、戦い方に大きく<B0A>かかわってくるので、いろいろ<B0A>工夫してみるのだ！","vi":"Sticker ảnh hưởng rất nhiều<B0A>đến cách chiến đấu,<B0A>nên hãy sắp xếp thật khéo nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":238,"id":"JUS-4b7eee33e6d7b623ba70","ja":"さて、ここで突然だが<B0A>必殺魂の最大値について<B0A>教えたいと思う！","vi":"À, tiện đây ta muốn<B0A>giải thích thêm về<B0A>giới hạn Special Soul!"}
+{"file":"01-huong-dan-001.jsonl","row_index":239,"id":"JUS-3b55c0b5eb9452ce6c90","ja":"必殺魂の最大値は<B0A>デッキの内容によって変化するのだ！","vi":"Giới hạn Special Soul<B0A>thay đổi theo cấu trúc Deck!"}
+{"file":"01-huong-dan-001.jsonl","row_index":240,"id":"JUS-b71697398cf18b9c8332","ja":"具体的に言うと、デッキに<B0A>バトルコマが１つあると＋２<B0A>サポートコマだと＋１されるのだ！","vi":"Cụ thể, trong Deck<B0A>mỗi Battle Koma cộng 2,<B0A>mỗi Support Koma cộng 1!"}
+{"file":"01-huong-dan-001.jsonl","row_index":241,"id":"JUS-e3010f6e549032db917f","ja":"今作ったデッキだと<B0A>バトルコマが２つ<B0A>サポートコマが１つなので…","vi":"Deck vừa tạo có<B0A>2 Battle Koma<B0A>và 1 Support Koma, vậy..."}
+{"file":"01-huong-dan-001.jsonl","row_index":242,"id":"JUS-9f4650ba5e80abd03cce","ja":"必殺魂は『５』ということになるな！","vi":"Giới hạn Special Soul là '5'!"}
+{"file":"01-huong-dan-001.jsonl","row_index":243,"id":"JUS-c87453c44fff80b964c3","ja":"大きなコマを入れて一撃をねらうか、<B0A>たくさんコマを入れてバンバン<B0A>必殺技を使うかはキミしだいだ！！","vi":"Dùng Koma lớn để đánh một đòn mạnh,<B0A>hay nhiều Koma để tung<B0A>Special Attack liên tục, tùy cậu!!"}
+{"file":"01-huong-dan-001.jsonl","row_index":244,"id":"JUS-4e09d2583fc97b9edd28","ja":"さあ、ここまで覚えれば<B0A>デッキメイクはマスターしたもおなじ！<B0A>だが…","vi":"Nhớ tới đây là cậu<B0A>gần như làm chủ Deck Make rồi!<B0A>Nhưng còn nữa..."}
+{"file":"01-huong-dan-001.jsonl","row_index":245,"id":"JUS-431bd9c83bd5fea12c20","ja":"こまかなテクニックも<B0A>いろいろあるので<B0A>教えておこう！","vi":"Ta còn biết<B0A>khá nhiều mẹo nhỏ hữu ích,<B0A>để chỉ cậu luôn nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":246,"id":"JUS-59627fc152d1d6e9eace","ja":"まずは、<B0A>コマのストックについて教えよう！","vi":"Đầu tiên,<B0A>nói về chỗ dự trữ Koma nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":247,"id":"JUS-16cc5bd62a110708526c","ja":"デッキ画面では、<B0A>すぐに使わないコマを<B0A>一時的に６つまでストックできるぞ！","vi":"Trên màn hình Deck,<B0A>cậu có thể tạm giữ tối đa<B0A>6 Koma chưa cần dùng!"}
+{"file":"01-huong-dan-001.jsonl","row_index":248,"id":"JUS-d3f6aca84d669bc83e97","ja":"デッキから外したコマを<B0A>デッキ画面の右下に移動させて<B0A>セットするのだ！","vi":"Nhấc Koma ra khỏi Deck<B0A>rồi chuyển xuống góc dưới bên phải<B0A>để cất nó!"}
+{"file":"01-huong-dan-001.jsonl","row_index":249,"id":"JUS-4ea573cd8481ce9b6f68","ja":"これで銀さんのコマが<B0A>ストックされたぞ！","vi":"Koma của Gintoki<B0A>đã được cất đi!"}
+{"file":"01-huong-dan-001.jsonl","row_index":250,"id":"JUS-66a00948fa89dbfa0da1","ja":"ストックしたコマは<B0A>いつでもデッキに<B0A>戻すことができるのだ！","vi":"Koma đã cất<B0A>có thể đưa về Deck<B0A>bất cứ lúc nào!"}
+{"file":"01-huong-dan-001.jsonl","row_index":251,"id":"JUS-a88f3bc0e20037629a73","ja":"コマの上から他のコマを重ねた時も<B0A>下のコマが自動的にストックされるので<B0A>覚えておこう！","vi":"Nếu cậu đặt Koma đè lên Koma khác,<B0A>Koma bên dưới cũng sẽ<B0A>tự động được cất đi!"}
+{"file":"01-huong-dan-001.jsonl","row_index":252,"id":"JUS-15a7dec4c9d3ac95ad49","ja":"次は、<B0A>いらないコマの消し方を教えよう！","vi":"Tiếp theo,<B0A>ta chỉ cách bỏ Koma không cần dùng!"}
+{"file":"01-huong-dan-001.jsonl","row_index":253,"id":"JUS-627ea84e60c08b5b9b78","ja":"コマをつかんだまま<B0A>ここまで移動させて<B0A>タッチかＡボタンを押すと","vi":"Giữ Koma và kéo nó<B0A>đến vị trí này,<B0A>rồi chạm hoặc nhấn A!"}
+{"file":"01-huong-dan-001.jsonl","row_index":254,"id":"JUS-9e7a3c6830d3c5e6ad11","ja":"コマをリストに<B0A>戻すことができるぞ！","vi":"Koma sẽ được đưa<B0A>về danh sách!"}
+{"file":"01-huong-dan-001.jsonl","row_index":255,"id":"JUS-354d5469bd106737c8ad","ja":"コマをリストに戻したぞ！","vi":"Đã trả Koma về danh sách rồi!"}
+{"file":"01-huong-dan-001.jsonl","row_index":256,"id":"JUS-f835f503dcdfab222ba9","ja":"ちなみに、<B0A>コマをつかんでないときに<B0A>ここでＡボタンを押すと、","vi":"Nhân tiện,<B0A>nếu không cầm Koma nào<B0A>mà nhấn A tại đây..."}
+{"file":"01-huong-dan-001.jsonl","row_index":257,"id":"JUS-3a7b3dbae100d4236199","ja":"デッキのコマを全部<B0A>リストに戻すこともできるのだ！","vi":"Cậu có thể đưa toàn bộ Koma<B0A>trong Deck về danh sách!"}
+{"file":"01-huong-dan-001.jsonl","row_index":258,"id":"JUS-2b6bfc3f7ed3af570571","ja":"次は、<B0A>リストの便利な使い方を教えよう！","vi":"Tiếp theo,<B0A>ta chỉ cách dùng danh sách cho tiện!"}
+{"file":"01-huong-dan-001.jsonl","row_index":259,"id":"JUS-26a568b4f50941fc19a9","ja":"まずは、<B0A>リストのしぼりこみだ！","vi":"Đầu tiên là<B0A>lọc danh sách!"}
+{"file":"01-huong-dan-001.jsonl","row_index":260,"id":"JUS-9262be8b104bb9d13db4","ja":"リストの見出しをタッチするか、<B0A>Ｌボタンで<B0A>見出しを選択して…","vi":"Chạm vào tiêu đề danh sách<B0A>hoặc nhấn L<B0A>để chọn tiêu đề..."}
+{"file":"01-huong-dan-001.jsonl","row_index":261,"id":"JUS-ad0d543e52ef5b299d5c","ja":"次に、<B0A>見出しをタッチするかＡボタンで<B0A>しぼりこみの条件を選ぶのだ！","vi":"Rồi chạm vào tiêu đề<B0A>hoặc nhấn A<B0A>để chọn điều kiện lọc!"}
+{"file":"01-huong-dan-001.jsonl","row_index":262,"id":"JUS-9c29af8ba155c6d0a43a","ja":"キャラクターの名前が<B0A>“ま行”のコマ<B0A>でしぼりこんでみるぞ！","vi":"Thử lọc Koma có tên nhân vật<B0A>thuộc hàng 'ma' trong bảng kana<B0A>nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":263,"id":"JUS-1cb45ff9b63b0c0eb2fe","ja":"キャラクターの名前が<B0A>“ま行”のコマ<B0A>だけが表示されたのだ！","vi":"Giờ chỉ còn Koma<B0A>có tên thuộc hàng 'ma'<B0A>được hiển thị!"}
+{"file":"01-huong-dan-001.jsonl","row_index":264,"id":"JUS-6e7d6ef733f295ef0ab8","ja":"しぼりこみ条件をクリアするときは…","vi":"Muốn xóa điều kiện lọc thì..."}
+{"file":"01-huong-dan-001.jsonl","row_index":265,"id":"JUS-f60abf0e1cb13909a4d3","ja":"ここで<B0A>タッチかＡボタンを押すのだ！","vi":"Chạm vào đây<B0A>hoặc nhấn A!"}
+{"file":"01-huong-dan-001.jsonl","row_index":266,"id":"JUS-9f96383090c2b5bd47b3","ja":"これで、<B0A>しぼりこみ条件がクリアされて<B0A>全てのコマが表示されたぞ！","vi":"Đã xóa điều kiện lọc,<B0A>mọi Koma<B0A>đều hiện trở lại!"}
+{"file":"01-huong-dan-001.jsonl","row_index":267,"id":"JUS-bc553f0620fbec43b68d","ja":"次はリストのならべかえだ！","vi":"Giờ đến sắp xếp danh sách!"}
+{"file":"01-huong-dan-001.jsonl","row_index":268,"id":"JUS-59bc6565a0e636ad661a","ja":"最初の状態では、リストは<B0A>作品名の順に並んでいるのだ！","vi":"Mặc định, danh sách<B0A>được xếp theo tên tác phẩm!"}
+{"file":"01-huong-dan-001.jsonl","row_index":269,"id":"JUS-f07d1d10951bd2009e73","ja":"ここにタッチか、Ｒボタンで<B0A>ならびかえの条件を<B0A>変更するぞ！","vi":"Chạm vào đây hoặc nhấn R<B0A>để thay đổi<B0A>tiêu chí sắp xếp!"}
+{"file":"01-huong-dan-001.jsonl","row_index":270,"id":"JUS-78f20e68ce4a3379fec5","ja":"もう一度、下画面に注目！","vi":"Nhìn màn hình dưới lần nữa!"}
+{"file":"01-huong-dan-001.jsonl","row_index":271,"id":"JUS-01b69a4e409dadfb7c5a","ja":"キャラクターの種類の順に<B0A>リストをならべかえたぞ！","vi":"Danh sách đã được sắp xếp<B0A>theo loại nhân vật!"}
+{"file":"01-huong-dan-001.jsonl","row_index":272,"id":"JUS-c63da98fec8d7e30d7fb","ja":"さて、<B0A>以上でデッキメイクの説明は終了だ！<B0A>他にもいろいろ機能があるのだが…","vi":"Vậy là<B0A>phần hướng dẫn Deck Make kết thúc!<B0A>Vẫn còn vài tính năng khác nhưng..."}
+{"file":"01-huong-dan-001.jsonl","row_index":273,"id":"JUS-69b581791e0a7e44844d","ja":"それは自分でさわって<B0A>確かめてみてくれ！","vi":"Cậu cứ tự tay khám phá<B0A>để biết nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":274,"id":"JUS-2ad4feea9326365cbbb1","ja":"ここが終われば、Ｊパワー<B0A>を注入できようになっているので…","vi":"Sau phần này, cậu sẽ có thể<B0A>truyền J-Power vào Koma..."}
+{"file":"01-huong-dan-001.jsonl","row_index":275,"id":"JUS-dba60cccc61fa6aa0dc2","ja":"そっちもためしてみると<B0A>いいだろう！","vi":"Nhớ thử luôn<B0A>chức năng đó nhé!"}
+{"file":"01-huong-dan-001.jsonl","row_index":276,"id":"JUS-4c671b1f9ba7f124f213","ja":"さあ！！","vi":"Nào!!"}
+{"file":"01-huong-dan-001.jsonl","row_index":277,"id":"JUS-bb0220a638deb098f67a","ja":"これからキミは地球をはなれ<B0A>いろいろなプラネットをめぐり<B0A>数々の強敵と戦うだろう！","vi":"Từ đây cậu sẽ rời Trái Đất,<B0A>đến nhiều hành tinh khác nhau<B0A>và đối đầu vô số kẻ mạnh!"}
+{"file":"01-huong-dan-001.jsonl","row_index":278,"id":"JUS-9ee8dc2e2d4221b34095","ja":"その困難に立ち向かい、勝利し、<B0A>コマとＪパワーを集め…","vi":"Hãy vượt qua thử thách, chiến thắng,<B0A>thu thập Koma và J-Power..."}
+{"file":"01-huong-dan-001.jsonl","row_index":279,"id":"JUS-48d37cc69877698fc108","ja":"キミの知恵と勇気で<B0A>最強のデッキを作り<B0A>この宇宙を救ってくれ！","vi":"Dùng trí tuệ và lòng can đảm<B0A>để tạo Deck mạnh nhất<B0A>và cứu lấy vũ trụ này!"}
+{"file":"01-huong-dan-001.jsonl","row_index":280,"id":"JUS-7d25f62f808c74fba099","ja":"それでは健闘（けんとう）をいのる！！<B0A>たのんだぞ！！","vi":"Ta chúc cậu chiến đấu thật tốt!!<B0A>Trông cậy vào cậu đấy!!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":75,"id":"JUS-3f47e33d16d97914a028","ja":"見ることができるよ","vi":"đều xem được nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":76,"id":"JUS-5f6d302f60cb0e7c2fb1","ja":"ポイントランキング","vi":"Bảng xếp hạng Point"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":77,"id":"JUS-6efe44fcd670aeaf5623","ja":"第<PERCENT_FULL>戦、始まるよ！","vi":"Trận thứ <PERCENT_FULL> bắt đầu!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":78,"id":"JUS-5eb2a56c21207759798c","ja":"デスマッチランキング","vi":"Bảng xếp hạng Deathmatch"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":79,"id":"JUS-456008ae8a4868093eba","ja":"Ｊシンボルランキング","vi":"Bảng xếp hạng J-Symbol"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":80,"id":"JUS-7287f21215b82b4fa7bd","ja":"チャンピオンシップ","vi":"Championship"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":81,"id":"JUS-1edf337400ef1d4ce742","ja":"ランキングの結果を計算中だよ","vi":"Đang tính kết quả xếp hạng..."}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":82,"id":"JUS-474bfde2fcf05c01635e","ja":"ちょっと待ってね","vi":"Chờ chút nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":83,"id":"JUS-91e14491dca37e4ff471","ja":"ランキング戦を続けてプレイできるよ","vi":"Cậu có thể tiếp tục đấu xếp hạng!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":84,"id":"JUS-a6201327e96a275ed0da","ja":"ランキング戦を中断するよ","vi":"Tạm dừng đấu xếp hạng nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":85,"id":"JUS-cff0ae550f8d3b6a7220","ja":"ランキング戦から抜けて","vi":"Rời khỏi đấu xếp hạng"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":86,"id":"JUS-224e62bc1e2169a461a8","ja":"メニューに戻るよ","vi":"và trở về menu nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":87,"id":"JUS-779e5f2438b2bccd23bb","ja":"バトルを続けてプレイできるよ","vi":"Cậu có thể tiếp tục trận đấu!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":88,"id":"JUS-8d762aae3c9b66059109","ja":"バトルから抜けて","vi":"Rời khỏi trận đấu"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":89,"id":"JUS-538c31a7725124b495dd","ja":"デッキセレクトに戻るよ","vi":"để trở về chọn Deck nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":90,"id":"JUS-0a919fb7e7ce9bd27da4","ja":"ミッションを続けてプレイできるよ","vi":"Cậu có thể chơi tiếp Mission!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":91,"id":"JUS-6e623e8781327560e892","ja":"ミッショントライから抜けて","vi":"Rời Mission Try"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":92,"id":"JUS-b5e16c8c7e55c2dbd8ec","ja":"ミッションセレクトに戻るよ","vi":"để về chọn Mission nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":93,"id":"JUS-742d02b972f8bcba6a76","ja":"全部で１０問のクイズだよ！","vi":"Có tất cả 10 câu J-Quiz!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":94,"id":"JUS-702d9387cc4e487d4cde","ja":"全部で３０問のクイズだよ！","vi":"Có tất cả 30 câu J-Quiz!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":95,"id":"JUS-0f23bd044113d2176702","ja":"全部で５０問のクイズだよ！","vi":"Có tất cả 50 câu J-Quiz!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":96,"id":"JUS-579702d762fcae421fbe","ja":"１０トライアル、始まるよ！","vi":"10 Trial bắt đầu!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":97,"id":"JUS-17a57e96764ff52ffb4e","ja":"３０トライアル、始まるよ！","vi":"30 Trial bắt đầu!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":98,"id":"JUS-f279870c52e6139d8929","ja":"５０トライアル、始まるよ！","vi":"50 Trial bắt đầu!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":99,"id":"JUS-66af9383b27ae94b5e76","ja":"Ｊパワーを注入するコマを選ぼう！","vi":"Chọn Koma muốn truyền J-Power vào nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":100,"id":"JUS-f85078d1e967be6f1e15","ja":"ワイヤレス通信でライバルと対戦ね！","vi":"Đấu với đối thủ qua kết nối không dây nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":101,"id":"JUS-7823ca899497e92802a7","ja":"データの交換もできるんだって","vi":"Ở đây còn trao đổi dữ liệu được nữa!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":102,"id":"JUS-e95b7b204dcdbdb0a14f","ja":"Ｗｉ－Ｆｉ通信でライバルと対戦ね！","vi":"Đấu với đối thủ qua Wi-Fi nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":103,"id":"JUS-7798c9a7573db71e6d92","ja":"フレンドの管理もできるんだって","vi":"Còn quản lý Friend được nữa đấy!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":104,"id":"JUS-264455fd80481a3f1456","ja":"パスワードが入力できるんだって","vi":"Cậu có thể nhập Password tại đây!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":105,"id":"JUS-3514d0e3050c2560cb7a","ja":"ライバルデータを呼び出せちゃうの","vi":"Dùng Password để gọi dữ liệu đối thủ!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":106,"id":"JUS-0c73e64d4dd988a48232","ja":"複数のＤＳカードで対戦ね！","vi":"Đấu qua nhiều thẻ game DS nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":107,"id":"JUS-8246923bd349a0a8f9ae","ja":"すれちがい通信で","vi":"Dùng chế độ kết nối khi đi ngang nhau"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":108,"id":"JUS-59361801485c1c8f3c01","ja":"データの交換ができちゃうよ","vi":"để trao đổi dữ liệu nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":109,"id":"JUS-9cfb95620f6640123fd1","ja":"１枚のＤＳカードで最大４人と","vi":"Chỉ cần một thẻ game DS là có thể"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":110,"id":"JUS-9cfc383c45e43f93d060","ja":"対戦できちゃうよ！","vi":"đấu với tối đa 4 người đấy!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":111,"id":"JUS-6848020bc1fec76c0b65","ja":"データの交換ができるんだって","vi":"Cậu cũng trao đổi dữ liệu được nữa!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":112,"id":"JUS-885df4966985ba42c0c1","ja":"２０問のクイズを勝ち抜いてね！","vi":"Vượt qua 20 câu J-Quiz nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":113,"id":"JUS-fc0d27805fe413c38275","ja":"Ｗｉ－Ｆｉコネクションに接続するよ！","vi":"Đang kết nối Nintendo Wi-Fi Connection!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":114,"id":"JUS-d4d3610b8309e33aec9c","ja":"対戦はここからなの","vi":"Muốn đấu thì vào đây nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":115,"id":"JUS-1e9f4573cfcbc0d40048","ja":"フレンドリストを見たり","vi":"Cậu có thể xem Friend List"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":116,"id":"JUS-69695e7b40a5cd74b096","ja":"フレンド登録ができるよ","vi":"và thêm Friend tại đây!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":117,"id":"JUS-c59874ba897e772426eb","ja":"Ｗｉ－Ｆｉコネクションに接続する","vi":"Thiết lập kết nối"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":118,"id":"JUS-80e34b044db2fe3eed48","ja":"設定ができるよ","vi":"Nintendo Wi-Fi Connection ở đây!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":119,"id":"JUS-42f1895934a6b9f252a1","ja":"戦いたいリーダーを選ぶか","vi":"Chọn Leader muốn đấu cùng"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":120,"id":"JUS-0b1e187efd924accd872","ja":"自分がリーダーになるか選んでね","vi":"hoặc tự làm Leader nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":121,"id":"JUS-7d3f1c88af10a7686574","ja":"データを交換したいリーダーを選ぶか","vi":"Chọn Leader muốn trao đổi dữ liệu"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":122,"id":"JUS-b32ef2929319b39ee687","ja":"メンバーが参加（エントリー）するのを","vi":"hoặc chờ thành viên tham gia (Entry)!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":123,"id":"JUS-7168425e8d15011fbc5c","ja":"メンバーがエントリーしたよ","vi":"Thành viên đã Entry rồi!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":124,"id":"JUS-2a22b53ae107803138d5","ja":"ＳＴＡＲＴボタンで、エントリー","vi":"Nhấn START để đóng"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":125,"id":"JUS-ece0d233319edc109494","ja":"受け付けを締め切るからね","vi":"đăng ký Entry nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":126,"id":"JUS-a2ce29656e58ddfc8392","ja":"ＳＴＡＲＴボタンでデータ交換が","vi":"Nhấn START để bắt đầu"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":127,"id":"JUS-0bc0c54789a6cbe8eb14","ja":"始まるからね","vi":"trao đổi dữ liệu nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":128,"id":"JUS-734892585f9b6cd2881b","ja":"エントリーしたよ","vi":"Đã Entry thành công!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":129,"id":"JUS-d29358eff32e90248526","ja":"受け付けが終わるまでちょっと待ってね","vi":"Chờ đến khi hết thời gian đăng ký nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":130,"id":"JUS-e6713131d8933afd829d","ja":"ダウンロードプレイのデータを","vi":"Đang gửi dữ liệu"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":131,"id":"JUS-3ae1b65e58352ac3c97a","ja":"送信中だよ","vi":"DS Download Play..."}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":132,"id":"JUS-77bd2ed54cee45e6d257","ja":"国内の誰かと対戦できるよ","vi":"Cậu có thể đấu với người trong nước!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":133,"id":"JUS-8b7e7178aa3a8f62e023","ja":"登録したフレンドと対戦できるよ","vi":"Cậu có thể đấu với Friend đã lưu!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":134,"id":"JUS-49421546d6fd2077e81d","ja":"対戦相手を探してるよ","vi":"Đang tìm đối thủ..."}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":135,"id":"JUS-3f23376a1dbd38e3bcf6","ja":"対戦相手がみつかったよ！","vi":"Tìm được đối thủ rồi!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":136,"id":"JUS-6a88949bb6b390f264c6","ja":"今は対戦相手がみつからないかも","vi":"Hiện tại có thể chưa tìm được"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":137,"id":"JUS-b75cf77ff00443b77d2d","ja":"しれないんだって","vi":"đối thủ đâu nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":138,"id":"JUS-de155af19a179a9d9271","ja":"登録したフレンドの確認や削除が","vi":"Cậu có thể xem hoặc xóa"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":139,"id":"JUS-21b37b70a79a73fb8fb6","ja":"できるよ","vi":"Friend đã đăng ký!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":140,"id":"JUS-515ac6514e96f3c02173","ja":"ライバルデータから","vi":"Trong Rival Data,"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":141,"id":"JUS-3dd4c5069128e5979a87","ja":"自分のフレンドコードが","vi":"cậu có thể xem Friend Code"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":142,"id":"JUS-75720d84fe95cbda0411","ja":"確認できるよ","vi":"của mình nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":143,"id":"JUS-70011f04acbb52775652","ja":"フレンドコードを入力して","vi":"Nhập Friend Code"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":144,"id":"JUS-691500153d96c3bd8655","ja":"フレンド登録をしちゃってね","vi":"để thêm Friend nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":145,"id":"JUS-4be4bbeab6770fc7f288","ja":"自分のフレンドコードを確認してね","vi":"Kiểm tra Friend Code của mình nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":146,"id":"JUS-c1d21571a29fea9bbde1","ja":"フレンドの情報を確認してね","vi":"Xem thông tin của Friend nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":147,"id":"JUS-d90b8423855a7bc29584","ja":"決定でフレンドを削除できるよ","vi":"Chọn xác nhận để xóa Friend!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":148,"id":"JUS-e9ed6fea7761ad0fe7be","ja":"下画面でルールを確認したら","vi":"Xem luật ở màn hình dưới,"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":149,"id":"JUS-0740f755cc1fa5eff058","ja":"ＳＴＡＲＴボタンで対戦を始めよう！","vi":"rồi nhấn START để bắt đầu đấu nhé!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":150,"id":"JUS-41e55d62726bd70506ef","ja":"下画面でルールを確認しながら","vi":"Vừa xem luật trên màn hình dưới,"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":151,"id":"JUS-6106ca0ddb12e1dc62ad","ja":"Ｊクイズバトル、始まるよ！","vi":"trận J-Quiz Battle bắt đầu!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":152,"id":"JUS-0de6531c85fae7efba1c","ja":"ジャンプギャラクシーに散らばった","vi":"Hãy thu hồi các Koma"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":153,"id":"JUS-2d98426697ef1e359afa","ja":"コマを回収しちゃってくださーい♪","vi":"rải rác khắp Jump Galaxy nhé~♪"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":154,"id":"JUS-71295c1103aa1e1f6766","ja":"ランキング戦に挑戦できまーす","vi":"Cậu có thể thử sức ở Ranked Battle đó~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":155,"id":"JUS-d8da1063856aeb1f9957","ja":"バトルやミッションをこなして","vi":"Cứ chiến đấu và làm Mission"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":156,"id":"JUS-6dacc2244475e295ba3f","ja":"宇宙一を目指すんですよぉ♪","vi":"để trở thành số một vũ trụ nhaa~♪"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":157,"id":"JUS-9ce49812b94828fca7c2","ja":"ライバルと通信対戦できますよぉ","vi":"Đấu với đối thủ qua kết nối được đó~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":158,"id":"JUS-7136c1d1401894640958","ja":"データ交換もココでーす！","vi":"Trao đổi dữ liệu cũng ở đâyy~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":159,"id":"JUS-07bcc5cc09f5e9f670ce","ja":"ジャンプクイズに挑戦できまーす","vi":"Thử chơi J-Quiz nào~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":160,"id":"JUS-a0c996a7042caa614499","ja":"知識は大丈夫ですかぁー？","vi":"Kiến thức của cậu ổn áp chưa đó~?"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":161,"id":"JUS-e0b25452f0b34b14fb0d","ja":"この先にはまだ進めないみたいですよぉ","vi":"Xem ra chỗ này chưa đi tiếp được đâu~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":162,"id":"JUS-5142dd87f94f37b50426","ja":"コマにＪパワーを注入するところでーす","vi":"Đây là chỗ truyền J-Power vào Koma nè~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":163,"id":"JUS-ef572589fb61d4fd9ce7","ja":"封印が解ければデッキで使えるように","vi":"Gỡ phong ấn xong, Koma sẽ dùng được"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":164,"id":"JUS-803a5bf39f4dc44485bc","ja":"なりますよぉー！","vi":"trong Deck đó nhaa~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":165,"id":"JUS-ca753bd65235d0a7f19d","ja":"集めたコマでデッキを作りましょー！","vi":"Dùng Koma đã thu thập để tạo Deck nào~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":166,"id":"JUS-c61cfe99ff89899aaf76","ja":"宇宙一強いデッキを","vi":"Hãy tạo ra Deck mạnh nhất"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":167,"id":"JUS-734721776ebbb3f711d2","ja":"作っちゃってくださいよぉ♪","vi":"cả vũ trụ luôn đi nè~♪"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":168,"id":"JUS-89b57ebab588643a9aa1","ja":"いろいろなデータが集まってまーす","vi":"Đủ loại dữ liệu tập trung ở đâyy~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":169,"id":"JUS-3dab6515be7ac14a182c","ja":"コマのくわしい情報や、これまでの","vi":"Xem được thông tin Koma và cả"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":170,"id":"JUS-8378d77b0d56b619c01a","ja":"戦いの記録が見られるんですぅ♪","vi":"lịch sử chiến đấu nữa đó~♪"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":171,"id":"JUS-643007e7ca52c7255a04","ja":"ゲームのいろんなセッテイは","vi":"Các thiết lập trong game"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":172,"id":"JUS-184e786bd12bc5e9747c","ja":"ここで変えるんですよぉー！","vi":"đều chỉnh ở đây nha~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":173,"id":"JUS-20d8b2b60138e0deb57e","ja":"ルールでーす","vi":"Đây là phần luật chơi~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":174,"id":"JUS-8964ef7dd03f7558b2f9","ja":"３つの中から選んじゃってくださーい","vi":"Cậu cứ chọn một trong ba loại nha~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":175,"id":"JUS-d4d4bcbae5cd3f5fc908","ja":"出現するかどうか決めてくださーい","vi":"Chọn có cho xuất hiện hay không nhé~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":176,"id":"JUS-d87b072a5014e8ca5347","ja":"設定してくださーい","vi":"Thiết lập tại đây nha~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":177,"id":"JUS-06a19cf4235581fd30fc","ja":"選んでくださーい","vi":"Cứ chọn đi nè~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":178,"id":"JUS-95328fa0bb5e9f8ec7f7","ja":"ＣＯＭの強さを決めちゃいますぅ","vi":"Chọn độ mạnh của COM nhé~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":179,"id":"JUS-74516308e2c8a0e773f4","ja":"ＣＯＭのマンガデッキを","vi":"Còn Manga Deck của COM,"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":180,"id":"JUS-cfaa9177b776fa1ded92","ja":"決めちゃってくださーい","vi":"cũng chọn giúp tớ nhaa~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":181,"id":"JUS-7c5bd578991b7b5138cb","ja":"チーム戦をＯＮかＯＦＦに","vi":"Bật hoặc tắt Team Battle nhé~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":182,"id":"JUS-73264ad502d632dad825","ja":"どのチームで対戦するか","vi":"Chọn đội nào"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":183,"id":"JUS-6c086a0bda255de1c45e","ja":"選んじゃってくださーい","vi":"để tham gia thi đấu nè~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":184,"id":"JUS-a1fa5d8daf203ce356fc","ja":"切り替えられまーす","vi":"Đổi qua đổi lại được đó~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":185,"id":"JUS-310dd9311a281e43f780","ja":"ゲーム中の音楽の音量は","vi":"Âm lượng nhạc trong game"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":186,"id":"JUS-cb27decdc44be4133db2","ja":"ここで調整できまーす","vi":"điều chỉnh tại đây nhaa~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":187,"id":"JUS-dd3939eccaba8eec8788","ja":"ゲーム中の効果音の音量は","vi":"Âm lượng hiệu ứng âm thanh"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":188,"id":"JUS-e31ba0d47f7440ffe14f","ja":"説明するインフォキャラを","vi":"Muốn đổi Info Character hướng dẫn"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":189,"id":"JUS-86536ab4ae138a608e19","ja":"交替させたいときに選びましょー♪","vi":"thì chọn ở đây nhé~♪"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":190,"id":"JUS-b6aee2a764b8ebe15038","ja":"ゲーム内のいろいろなデータは","vi":"Các loại dữ liệu trong game"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":191,"id":"JUS-9e5aac97a0e52cf36b8b","ja":"ここで消しちゃえまーす","vi":"đều xóa ở đây được nè~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":192,"id":"JUS-3dc560c631a805f8cedb","ja":"消しちゃいますぅ","vi":"Xóa luôn nhaa~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":193,"id":"JUS-2eb0721413993fa55097","ja":"ハイスコアデータを消しちゃいますぅ","vi":"Xóa cả dữ liệu High Score nhaa~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":194,"id":"JUS-b963a634d657b9cb8980","ja":"ゲームデータをぜーんぶ","vi":"Toàn bộ dữ liệu game"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":195,"id":"JUS-6aa30a8b9f9db87eaf60","ja":"消しちゃいますよぉー？","vi":"sẽ bị xóa sạch đấy nhé~?"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":196,"id":"JUS-63c6b88df66aaa9d591a","ja":"データを消すのはやめちゃうんですか？","vi":"Không muốn xóa dữ liệu nữa hả~?"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":197,"id":"JUS-86b250a041359704a7f4","ja":"おー、ようやく","vi":"Ồ, cuối cùng cũng đến"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":198,"id":"JUS-cfc9421c9337f8e1706f","ja":"キョウコの出番ですかぁー？","vi":"lượt Kyoko xuất hiện rồi hả~?"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":199,"id":"JUS-cbdfafb5bb46c1ced7bc","ja":"インフォキャラが毎回ランダムで","vi":"Có chức năng đổi Info Character"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":200,"id":"JUS-a2532bd9bd80f8220f00","ja":"切り替わる機能ですぅ","vi":"ngẫu nhiên mỗi lần đó nha~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":201,"id":"JUS-d0368e0e9389e2132f3e","ja":"インフォキャラの選択をやめますよー","vi":"Thôi, không chọn Info Character nữa nhé~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":202,"id":"JUS-7944cdc0933aa3342d2e","ja":"ランキング１位を目指すんですぅ","vi":"Nhắm đến hạng nhất nào~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":203,"id":"JUS-66507b355f48f85f6ff8","ja":"今までにプレイしたミッションに","vi":"Cậu có thể thử lại Mission"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":204,"id":"JUS-6daa05ce73befa46c047","ja":"挑戦できますぅ","vi":"đã từng chơi nè~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":205,"id":"JUS-fe11d591d6a5a9cd2ceb","ja":"記録も残せますよぉ","vi":"Còn lưu thành tích được nữa đó~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":206,"id":"JUS-4a06464ad2a4f1cf8a08","ja":"ＣＰＵとバトルできちゃいまーす","vi":"Cậu có thể đấu với CPU nè~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":207,"id":"JUS-83e8b5577260df1d194f","ja":"好きなデッキで特訓ですよぉ","vi":"Luyện tập bằng Deck cậu thích nha~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":208,"id":"JUS-4d2042a24ae0004468ec","ja":"ランキング戦でーす","vi":"Đây là Ranked Battle~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":209,"id":"JUS-075ca7b13634a9bbf0e6","ja":"各ランキングの現在の順位や","vi":"Thứ hạng hiện tại của từng bảng"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":210,"id":"JUS-6565d9746a57fd6a0049","ja":"見られるんですぅ♪","vi":"đều xem được nhé~♪"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":211,"id":"JUS-99d9076a69d47e4c6edc","ja":"第<PERCENT_FULL>戦でーす！","vi":"Trận thứ <PERCENT_FULL> bắt đầu nè~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":212,"id":"JUS-d9beb872608a7602b812","ja":"ランキングを集計してまーす","vi":"Đang tổng hợp xếp hạng~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":213,"id":"JUS-c943e6486966147300ec","ja":"ちょっと待ってくださいね","vi":"Chờ một chút nha~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":214,"id":"JUS-e3b779278598fbd4a9f6","ja":"ランキング戦を続けまーす","vi":"Tiếp tục Ranked Battle nào~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":215,"id":"JUS-d0a38deddaddbd738a84","ja":"ランキング戦を中断しまーす","vi":"Tạm dừng Ranked Battle nhé~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":216,"id":"JUS-2e0641a2496e44813e65","ja":"ランキング戦からリタイアして","vi":"Rời Ranked Battle"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":217,"id":"JUS-bba7fc0107503df98ae9","ja":"メニューに戻りまーす","vi":"để quay về menu nha~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":218,"id":"JUS-db2ffd6b1f292c39a93b","ja":"バトルを続けまーす","vi":"Tiếp tục trận đấu nào~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":219,"id":"JUS-e93b101d7e04f1e92d89","ja":"バトルからリタイアして","vi":"Rời trận đấu"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":220,"id":"JUS-22440418f72b320caef4","ja":"デッキセレクトに戻りまーす","vi":"để về chọn Deck nhé~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":221,"id":"JUS-bd8bf85d743911e2cbdb","ja":"ミッションを続けまーす","vi":"Tiếp tục Mission nào~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":222,"id":"JUS-cf39f27d38e56c5621f5","ja":"ミッショントライからリタイアして","vi":"Rời Mission Try"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":223,"id":"JUS-2e7a94d70e16a3644399","ja":"ミッションセレクトに戻りまーす","vi":"để về chọn Mission nhé~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":224,"id":"JUS-a84a6bbaa9442f1c2a0b","ja":"クイズが１０問出題されまーす","vi":"Sẽ có 10 câu J-Quiz nè~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":225,"id":"JUS-e4855f8f309a26fcf1f2","ja":"クイズが３０問出題されまーす","vi":"Sẽ có 30 câu J-Quiz nè~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":226,"id":"JUS-3c83487e54ffd4dd1a4f","ja":"クイズが５０問出題されまーす","vi":"Sẽ có 50 câu J-Quiz nè~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":227,"id":"JUS-ed069d108b37f22644b5","ja":"１０トライアル、始まりますよぉ！","vi":"10 Trial bắt đầu rồi nè~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":228,"id":"JUS-9c96381cb4e57e184263","ja":"３０トライアル、始まりますよぉ！","vi":"30 Trial bắt đầu rồi nè~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":229,"id":"JUS-582d6723e6e0935917e4","ja":"５０トライアル、始まりますよぉ！","vi":"50 Trial bắt đầu rồi nè~!"}
+{"file":"02-thoai-tro-giup-001.jsonl","row_index":230,"id":"JUS-2081a4ecf0b36d8a7f13","ja":"Ｊパワーを注入するコマを選んじゃえ～","vi":"Chọn Koma để truyền J-Power nào~!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":105,"id":"JUS-d6921bfa655f2821c5ba","ja":"１１ポイント以上でクリアせよ！","vi":"Hoàn thành với ít nhất 11 điểm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":106,"id":"JUS-00f062dd16afa44b3794","ja":"６０カウント以内にクリアせよ！","vi":"Hoàn thành trong 60 nhịp đếm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":107,"id":"JUS-21d4bec6a95ad5653725","ja":"４分以内にクリアせよ！","vi":"Hoàn thành trong 4 phút!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":108,"id":"JUS-fd2616e270c5defa85a9","ja":"３分以内にクリアせよ！","vi":"Hoàn thành trong 3 phút!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":109,"id":"JUS-5c387555e1e19271e660","ja":"２分以内にクリアせよ！","vi":"Hoàn thành trong 2 phút!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":110,"id":"JUS-665f2e96323c83169b39","ja":"相手をＫＯして一番多くポイントを取るの","vi":"Hạ KO đối thủ để giành nhiều điểm nhất!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":111,"id":"JUS-1c40ca06e1e22eb01755","ja":"だ！逆にＫＯされるとマイナス１ポイント","vi":"Nếu cậu bị KO thì bị trừ 1 điểm,"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":112,"id":"JUS-3b468a3acf0242f69102","ja":"全滅でマイナス２ポイントになるぞ！","vi":"còn cả đội bị hạ thì mất 2 điểm!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":113,"id":"JUS-08384634d50f69ff0d89","ja":"ＫＯされると復活できないルールだ！相手","vi":"Luật này bị KO là không hồi sinh! Hãy"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":114,"id":"JUS-832e712745d504b89ee6","ja":"をＫＯして最後まで生き残れ！全員ＫＯさ","vi":"hạ đối thủ và sống sót đến cuối! Nếu cả đội"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":115,"id":"JUS-84edda69bc85c673b83c","ja":"れてしまうと負けになるぞ！！","vi":"bị KO thì thua ngay!!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":116,"id":"JUS-c1f0f93287bc99d5c25d","ja":"Ｊシンボルを全て集めろ！Ｊシンボルはス","vi":"Thu thập toàn bộ J-Symbol! Chúng nằm"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":117,"id":"JUS-1a7de09f17b4a26114f8","ja":"テージに落ちているか相手が持っているの","vi":"trên sân hoặc trong tay đối thủ!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":118,"id":"JUS-c72e9fa32ae1d762277b","ja":"だ！ＫＯしてＪシンボルを奪うのだ！","vi":"Hạ KO đối thủ để giành lại J-Symbol!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":119,"id":"JUS-17530d682ad34a506190","ja":"ジャンプパイレーツが説明するぞ！しっか","vi":"JUMP Pirates sẽ hướng dẫn! Hãy nắm thật"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":120,"id":"JUS-49eb91faafe09867693c","ja":"り基本を学ぶのだ！","vi":"vững những điều cơ bản nhé!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":121,"id":"JUS-7b547d2a8ddea784e047","ja":"アイテムを全て集めろ！アイテムはステ","vi":"Thu thập hết Item! Chúng nằm rải rác"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":122,"id":"JUS-1d2c93e0102345708fe5","ja":"ージに落ちている！相手が持っているア","vi":"trên sân! Nếu đối thủ đã lấy Item,"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":123,"id":"JUS-29b2c8041414e4d38351","ja":"イテムはＫＯして奪うのだ！","vi":"hãy hạ KO để giành lại!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":124,"id":"JUS-2d58cfd56e5c636ac214","ja":"ターゲットを拾って、一定時間逃げ切ると","vi":"Nhặt Target rồi chạy thoát trong một"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":125,"id":"JUS-269c139d9ab1f17e7f78","ja":"勝利なのだ！ＫＯされるとターゲットを落","vi":"khoảng thời gian là thắng! Nhưng bị KO"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":126,"id":"JUS-e8bc0f0fe0c8031c6800","ja":"としてしまうぞ！","vi":"thì cậu sẽ đánh rơi Target!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":127,"id":"JUS-0c5a5f738cd90a5bb598","ja":"時間内に、ステージの壁をすべて破壊する","vi":"Phá hủy toàn bộ tường trên sân"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":128,"id":"JUS-5613240a94a9bd5dd5ba","ja":"のだ！","vi":"trong thời gian quy định!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":129,"id":"JUS-57608a7c9d9b7fbf7fdc","ja":"時間内に、ターゲットのキャラクターに攻","vi":"Trong thời gian quy định, hãy tấn công"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":130,"id":"JUS-8ec0df9ed1e7a3f9c208","ja":"撃を当ててＫＯするのだ！逆にＫＯされて","vi":"và hạ KO nhân vật mục tiêu! Nếu cậu"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":131,"id":"JUS-b14888746352570b0b63","ja":"しまうと負けになるぞ！！","vi":"bị KO trước thì thua!!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":132,"id":"JUS-c15adfe5f7cc6cac1401","ja":"相手をビックリさせる攻撃を使い、相手<IDEOSP>","vi":"Dùng đòn làm đối thủ giật mình<IDEOSP>"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":133,"id":"JUS-86351342c1472e7bf894","ja":"を全員１回以上ビックリさせるのだ！","vi":"để cả đội địch đều bị giật mình ít nhất 1 lần!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":134,"id":"JUS-3d66a07f6b63cb4755cc","ja":"キャラチェンジ攻撃（↓＋Ｂ）を当てて、","vi":"Dùng Character Switch Attack (↓ + B)"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":135,"id":"JUS-fc137969f9248e7e6aef","ja":"相手を全員同じキャラクターにするのだ！","vi":"để chuyển toàn bộ đối thủ thành cùng một nhân vật!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":136,"id":"JUS-1b97f1942cfef1b74d78","ja":"ターゲットのキャラクターに、相手の攻撃","vi":"Bảo vệ nhân vật mục tiêu,"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":137,"id":"JUS-e88f37d2df14f00d4d55","ja":"が当たらないように守るのだ！","vi":"đừng để đối thủ đánh trúng!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":138,"id":"JUS-e0957d19ac7800832e1b","ja":"相手の攻撃に当たらずに、時間いっぱい逃","vi":"Tránh mọi đòn đánh của đối thủ,"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":139,"id":"JUS-d189cd9c2fd5826a4fec","ja":"げ切るのだ！","vi":"cố sống sót đến hết giờ!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":140,"id":"JUS-9228195acd92dfda4b6d","ja":"宝箱を壊して、ターゲットを拾うのだ！","vi":"Phá rương để lấy Target!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":141,"id":"JUS-36f7b04b796bae7780fb","ja":"相手よりたくさん拾うと勝ちになるのだ！","vi":"Nhặt nhiều hơn đối thủ là thắng!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":142,"id":"JUS-439c52d77ff10539f191","ja":"ポイントバトルで対戦なのだ！ただし、相","vi":"Đấu theo luật Point Battle! Nhưng"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":143,"id":"JUS-f732743a88184f9d7254","ja":"手は全員、キミと同じデッキを使ってくる","vi":"toàn bộ đối thủ sẽ dùng Deck giống cậu!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":144,"id":"JUS-af88ddfb6cc63b309fe2","ja":"手とはポイント差がつけられた状態でバト","vi":"Cậu và đối thủ có điểm số chênh lệch"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":145,"id":"JUS-784822fb3450d61c2551","ja":"ルが始まるから気をつけるのだ！","vi":"ngay từ đầu trận, phải cẩn thận!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":146,"id":"JUS-47dc02255d4a05bc0c2e","ja":"撃を当てて捕まえると勝利なのだ！","vi":"Tấn công trúng để bắt mục tiêu là thắng!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":147,"id":"JUS-e61303c6f1fbd12ba4d6","ja":"をＫＯして最後まで生き残れ！逆にＫＯさ","vi":"hạ đối thủ, sống sót đến cuối! Nếu bị KO..."}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":148,"id":"JUS-400ab9a9d3d604a56bc2","ja":"撃を当ててＫＯするのだ！","vi":"tấn công trúng để hạ KO mục tiêu!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":149,"id":"JUS-9e1d17288d1aaee2be38","ja":"チュートリアル１","vi":"Tutorial 1"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":150,"id":"JUS-cff7db380df681d8d622","ja":"【バトルの基本的なルールや","vi":"【Luật và thao tác chiến đấu"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":151,"id":"JUS-685ea4626ad794362dce","ja":"覚えるのだ！】","vi":"cơ bản: học cho thuộc nhé!】"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":152,"id":"JUS-92cdf0b9735cfd31af85","ja":"チュートリアル２","vi":"Tutorial 2"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":153,"id":"JUS-c7a6c1d1eba78a142506","ja":"【攻撃方法を伝授するのだ！","vi":"【Ta sẽ dạy cậu cách tấn công!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":154,"id":"JUS-98ac3cf031d44fe099cf","ja":"を撃破せよ！】","vi":"Hạ gục mục tiêu!】"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":155,"id":"JUS-6f1b39d2f4836c808bb3","ja":"チュートリアル３","vi":"Tutorial 3"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":156,"id":"JUS-ea0f3bcab366f5e5a90d","ja":"【特殊な攻撃方法やキャラチェンジ","vi":"【Học cách tấn công đặc biệt và"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":157,"id":"JUS-501a28b8db2f19198392","ja":"しを教えるぞ】","vi":"đổi nhân vật nhé!】"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":158,"id":"JUS-29be3f7cf561c07c1df0","ja":"チュートリアル４","vi":"Tutorial 4"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":159,"id":"JUS-3ea43a15451da216433c","ja":"【デッキメイクの基本を教えるぞ！","vi":"【Ta sẽ hướng dẫn cách Deck Make!"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":160,"id":"JUS-48e2d3bda0056070a434","ja":"を作るのだ！】","vi":"Hãy tạo một Deck!】"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":161,"id":"JUS-fc25a942fde81ed49465","ja":"ポイントバトル","vi":"Point Battle"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":162,"id":"JUS-6a3b63f97d6507efbda1","ja":"シンボルバトル","vi":"Symbol Battle"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":163,"id":"JUS-dde4b0eb7f41f1a6dd70","ja":"デスマッチバトル","vi":"Deathmatch Battle"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":164,"id":"JUS-f161f4a28b6e6b319d63","ja":"ファイナルタワー１階","vi":"Final Tower — Tầng 1"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":165,"id":"JUS-f42b5deaec2b84385175","ja":"【仲間と共に、１階で待ち受ける","vi":"【Cùng đồng đội đánh bại kẻ địch"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":166,"id":"JUS-f524ffd9def428296a99","ja":"を倒すのだ！】","vi":"đang chờ ở tầng 1!】"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":167,"id":"JUS-72bba60cc61bab089d1d","ja":"ファイナルタワー２階","vi":"Final Tower — Tầng 2"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":168,"id":"JUS-985bb75b4a47824c31c4","ja":"【仲間と共に、２階で待ち受ける","vi":"【Cùng đồng đội đánh bại địch ở tầng 2"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":169,"id":"JUS-cc2d2e7638f67a5f8f61","ja":"ファイナルタワー３階","vi":"Final Tower — Tầng 3"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":170,"id":"JUS-debba24d40c739637755","ja":"【仲間と共に、３階で待ち受ける","vi":"【Cùng đồng đội đánh bại địch ở tầng 3"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":171,"id":"JUS-77eac7caba0ea873bcc9","ja":"ファイナルタワー４階","vi":"Final Tower — Tầng 4"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":172,"id":"JUS-fa171d08f9a04522f75e","ja":"【仲間と共に、４階で待ち受ける","vi":"【Cùng đồng đội đánh bại địch ở tầng 4"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":173,"id":"JUS-4a19995ec461b3483282","ja":"ファイナルタワー５階","vi":"Final Tower — Tầng 5"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":174,"id":"JUS-de7b8bd5c8cc40eb6c7b","ja":"【仲間と共に、５階で待ち受ける","vi":"【Cùng đồng đội đánh bại địch ở tầng 5"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":175,"id":"JUS-39e30ca6a2c1e2b27feb","ja":"ファイナルタワー６階","vi":"Final Tower — Tầng 6"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":176,"id":"JUS-7cf78678170391603ac4","ja":"【仲間と共に、６階で待ち受ける","vi":"【Cùng đồng đội đánh bại địch ở tầng 6"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":177,"id":"JUS-05bec14a0a33ad56e7c0","ja":"ファイナルタワー７階","vi":"Final Tower — Tầng 7"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":178,"id":"JUS-aa96fd9367d6d33fde89","ja":"【仲間と共に、７階で待ち受ける","vi":"【Cùng đồng đội đánh bại địch ở tầng 7"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":179,"id":"JUS-20ca943ff7d24f1e4251","ja":"ファイナルタワー８階","vi":"Final Tower — Tầng 8"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":180,"id":"JUS-12d1faebe46ebc6e9ccc","ja":"【仲間と共に、８階で待ち受ける","vi":"【Cùng đồng đội đánh bại địch ở tầng 8"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":181,"id":"JUS-4c54a5a1853a579026bc","ja":"ファイナルタワー９階","vi":"Final Tower — Tầng 9"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":182,"id":"JUS-1985318c23d812a9ed4b","ja":"【仲間と共に、９階で待ち受ける","vi":"【Cùng đồng đội đánh bại địch ở tầng 9"}
+{"file":"03-nhiem-vu-luat-001.jsonl","row_index":183,"id":"JUS-2ba372f8fd4b1aa8326c","ja":"ファイナルタワー最上階","vi":"Final Tower — Tầng cao nhất"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":10,"id":"JUS-e5bcfb6cf01ebb34dd6f","ja":"消費して自動的にガードしてくれる能力。","vi":"tự Guard bằng cách tiêu hao Special Soul."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":11,"id":"JUS-4da5d94fc98949b43055","ja":"ジャストガード","vi":"Just Guard"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":12,"id":"JUS-34413da70770323d17c1","ja":"ギリギリのタイミングでガードすると","vi":"Guard đúng vào khoảnh khắc sát nút"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":13,"id":"JUS-80fd4e430ec81f69ac76","ja":"必殺魂が増加する能力。","vi":"sẽ giúp tăng Special Soul."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":14,"id":"JUS-098375eedb5315f62824","ja":"ふんばり","vi":"Firm Stance"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":15,"id":"JUS-b156831223eece94db62","ja":"移動する床の上でガードすると、","vi":"Khi Guard trên nền đang di chuyển,"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":16,"id":"JUS-203b928bcfaa563bf15d","ja":"ふんばって動かなくなる能力。","vi":"nhân vật có thể đứng vững tại chỗ."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":17,"id":"JUS-8165058cbcb88a88a383","ja":"超回復","vi":"Super Recovery"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":18,"id":"JUS-77e4d7645f6e5f80610d","ja":"ＫＯされた後バトルに復帰するとＪ魂の","vi":"Sau khi bị KO và quay lại trận, giới hạn"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":19,"id":"JUS-5f6e30e4171561e1c7ea","ja":"最大値が増加する能力。","vi":"J-Soul tối đa sẽ tăng lên."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":20,"id":"JUS-e4449875c2a926cd0ad6","ja":"状態変化耐性","vi":"Status Resistance"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":21,"id":"JUS-e001cda3417c77986f77","ja":"マイナス状態変化からの回復が早くなる","vi":"Giúp hồi phục nhanh hơn sau các"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":22,"id":"JUS-102726168205da84ea6a","ja":"能力。","vi":"trạng thái bất lợi."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":23,"id":"JUS-fa47a60187d0172fed84","ja":"打撃耐性ＵＰ","vi":"Strike Resistance Up"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":24,"id":"JUS-fbf04b295e19ebe85333","ja":"相手から受けるパンチやキックなどの打撃","vi":"Giảm sát thương từ các đòn đánh"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":25,"id":"JUS-ea40cfc62b2ee55b04a8","ja":"ダメージが軽減される能力。","vi":"như đấm, đá của đối thủ."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":26,"id":"JUS-08cb28d90b0794c16264","ja":"斬撃耐性ＵＰ","vi":"Slash Resistance Up"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":27,"id":"JUS-762173126f0574513dcc","ja":"剣や刀の相手からの斬られるダメージが","vi":"Giảm sát thương từ đòn chém"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":28,"id":"JUS-094df91c4615c13efdab","ja":"軽減される能力。","vi":"bằng kiếm hoặc đao của đối thủ."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":29,"id":"JUS-fb04c10f6e54585bd0cf","ja":"打撃弱点","vi":"Strike Weakness"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":30,"id":"JUS-3cda0a6a6f3be6c872b2","ja":"打撃攻撃を受けた時のダメージが少し","vi":"Tăng nhẹ sát thương phải chịu"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":31,"id":"JUS-fa4669091e684301a4c2","ja":"大きくなってしまうマイナス能力。","vi":"khi trúng đòn đánh. Đây là bất lợi."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":32,"id":"JUS-2477ba479ed57bbedb6b","ja":"斬撃弱点","vi":"Slash Weakness"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":33,"id":"JUS-0b251aa1f25d436d86b7","ja":"見切り","vi":"Insight"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":34,"id":"JUS-b355b8d28d292a749729","ja":"相手の必殺技で受けるダメージが","vi":"Sát thương từ Special Attack của địch"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":35,"id":"JUS-9d08e17149c25a0d4b13","ja":"底力","vi":"Last Stand"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":36,"id":"JUS-453da93268e0d2c1704e","ja":"自分のＪ魂が少なくなると攻撃力がＵＰ","vi":"Khi J-Soul của bản thân xuống thấp,"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":37,"id":"JUS-a7026825066f70d3728f","ja":"する能力。","vi":"sức tấn công sẽ tăng."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":38,"id":"JUS-f604b5976f9a2c497406","ja":"逆襲","vi":"Revenge"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":39,"id":"JUS-c662ee7a3db68ab9e7b6","ja":"ＫＯされると必殺魂が１回復する能力。","vi":"Mỗi lần bị KO sẽ hồi 1 Special Soul."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":40,"id":"JUS-70f53f0b1ae6c80df81d","ja":"収集","vi":"Collection"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":41,"id":"JUS-f8dacc0d8be85db22491","ja":"コインを取った時の必殺魂の増え方が","vi":"Tăng lượng Special Soul nhận được"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":42,"id":"JUS-c747ce5f10e7fa139b0e","ja":"大きくなる能力。","vi":"khi nhặt Coin."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":43,"id":"JUS-1beb64dd7499d1ebe0d7","ja":"浪費","vi":"Wasteful"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":44,"id":"JUS-b971e9c7383c3058ddae","ja":"少なくなってしまうマイナス能力。","vi":"bị giảm đi. Đây là hiệu ứng bất lợi."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":45,"id":"JUS-bc1b49fee072315f3643","ja":"調理","vi":"Cooking"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":46,"id":"JUS-c18d182d7dedaa6cd869","ja":"食べ物アイテムで回復するＪ魂の量が","vi":"Lượng J-Soul hồi phục từ đồ ăn"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":47,"id":"JUS-6f045398a705d40beec8","ja":"大食い","vi":"Big Eater"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":48,"id":"JUS-68703f1bc6c5711e0036","ja":"機械","vi":"Machine"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":49,"id":"JUS-db6e19ff35ba16580cc0","ja":"電気でしびれる時間が長くなってしまう","vi":"Thời gian bị điện làm tê liệt tăng lên."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":50,"id":"JUS-8cc7cb71594309a207bc","ja":"マイナス能力。","vi":"Đây là hiệu ứng bất lợi."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":51,"id":"JUS-af25575fe5340d1e82da","ja":"直撃","vi":"Direct Hit"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":52,"id":"JUS-fe4a2978de983453a202","ja":"必殺技で受けるダメージが大きくなって","vi":"Sát thương phải chịu từ Special Attack tăng."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":53,"id":"JUS-3dec01d42e3029235d4f","ja":"しまうマイナス能力。","vi":"Đây là hiệu ứng bất lợi."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":54,"id":"JUS-1fcf9d1c505db1da8547","ja":"ガード能力＋","vi":"Guard Power Up"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":55,"id":"JUS-a89fa5585f4cbfadd53a","ja":"ガードが、かたくなる能力。","vi":"Giúp Guard chắc chắn hơn."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":56,"id":"JUS-11cd07c88585b344d051","ja":"重量級","vi":"Heavyweight"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":57,"id":"JUS-ebd094304b30fb203a3b","ja":"攻撃などで吹き飛ばされる時の距離が短く","vi":"Giảm khoảng cách bị đánh văng"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":58,"id":"JUS-91f73937cea97b2a3155","ja":"なる能力。","vi":"khi chịu đòn tấn công."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":59,"id":"JUS-03ee0bdbe512cd4ec78f","ja":"軽量級","vi":"Lightweight"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":60,"id":"JUS-82743524c1d8854c8a80","ja":"攻撃などで吹き飛ばされる時の距離が長く","vi":"Tăng khoảng cách bị đánh văng"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":61,"id":"JUS-0aac16fb7d361df62343","ja":"なってしまうマイナス能力。","vi":"khi trúng đòn. Đây là bất lợi."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":62,"id":"JUS-64d87a607eda1c0395e7","ja":"帯電無効","vi":"Shock Immunity"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":63,"id":"JUS-a2a2f22cb982fb6e44b3","ja":"マイナス状態変化「帯電」を無効にする","vi":"Miễn nhiễm trạng thái bất lợi 'Shock'."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":64,"id":"JUS-1dd3db1a7ee931e69e98","ja":"氷結無効","vi":"Freeze Immunity"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":65,"id":"JUS-b84fdaa88e6240f8278b","ja":"マイナス状態変化「氷結」を無効にする","vi":"Miễn nhiễm trạng thái bất lợi 'Freeze'."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":66,"id":"JUS-a6160fb0b93bd0749343","ja":"燃え無効","vi":"Burn Immunity"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":67,"id":"JUS-07f11d4caea9b9508170","ja":"マイナス状態変化「燃え」を無効にする","vi":"Miễn nhiễm trạng thái bất lợi 'Burn'."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":68,"id":"JUS-6f02b5365e5b79a51924","ja":"混乱無効","vi":"Confusion Immunity"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":69,"id":"JUS-ed97970d3ac14b940eb7","ja":"マイナス状態変化「混乱」を無効にする","vi":"Miễn nhiễm trạng thái bất lợi 'Confusion'."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":70,"id":"JUS-d4d3bb0fce8a7121a3d8","ja":"毒無効","vi":"Poison Immunity"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":71,"id":"JUS-c01b12abcaf65c933ad6","ja":"マイナス状態変化「毒」を無効にする","vi":"Miễn nhiễm trạng thái bất lợi 'Poison'."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":72,"id":"JUS-9582fefc7307e006f022","ja":"宣告無効","vi":"Doom Immunity"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":73,"id":"JUS-7e51604d2bed880742d4","ja":"マイナス状態変化「宣告」を無効にする","vi":"Miễn nhiễm trạng thái bất lợi 'Doom'."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":74,"id":"JUS-8277007c1ac60074a307","ja":"行動不能無効","vi":"Stun Immunity"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":75,"id":"JUS-ae11679265e9129c25c8","ja":"マイナス状態変化「行動不能」を無効に","vi":"Miễn nhiễm trạng thái bất lợi 'Stun'."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":76,"id":"JUS-50432ddf66c2a9f89040","ja":"画面妨害無効","vi":"Screen Obstruction Immunity"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":77,"id":"JUS-187cc4f6ed3d8f04d1af","ja":"マイナス状態変化「画面妨害」を無効に","vi":"Miễn nhiễm trạng thái 'Screen Obstruction'."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":78,"id":"JUS-485904116d2c2f7d4bdb","ja":"スピードダウン無効","vi":"Slow Immunity"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":79,"id":"JUS-d97c95007dd4c11ffa89","ja":"マイナス状態変化「スピードダウン」を","vi":"Miễn nhiễm trạng thái bất lợi 'Slow'."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":80,"id":"JUS-5d6c49003263c1edac0d","ja":"無効にする能力。","vi":"Đây là khả năng miễn nhiễm."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":81,"id":"JUS-f1de2db58a2d0837cdfc","ja":"チェンジ封印無効","vi":"Change Seal Immunity"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":82,"id":"JUS-d9a7d9c7c948a4fd9b7b","ja":"マイナス状態変化「チェンジ封印」","vi":"Miễn nhiễm 'Change Seal'"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":83,"id":"JUS-2f33fc0a3e16d0299eb7","ja":"「サポート封印」を無効にする能力。","vi":"và 'Support Seal'."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":84,"id":"JUS-635383ad3f32a1d22855","ja":"見破り","vi":"True Sight"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":85,"id":"JUS-4dd576699db1494c8b8a","ja":"透明状態の相手を無効にし、自分の画面で","vi":"Vô hiệu hóa trạng thái tàng hình của địch,"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":86,"id":"JUS-1899849ea4ee7d019676","ja":"見えるようになる能力。","vi":"giúp cậu nhìn thấy chúng trên màn hình."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":87,"id":"JUS-c246c36f73a6ad5ad7a7","ja":"プラス効果無効","vi":"Positive Effect Disable"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":88,"id":"JUS-df9e5bc10035feb1f9e3","ja":"アビリティのプラス効果が得られなく","vi":"Không còn nhận được hiệu ứng có lợi"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":89,"id":"JUS-5c77b3c5f0efd08c54a5","ja":"なるマイナス能力。","vi":"từ Ability. Đây là bất lợi."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":90,"id":"JUS-db22f3053a4f015eb96f","ja":"必殺技無制限","vi":"Unlimited Special"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":91,"id":"JUS-9b0970d366c1355ebf81","ja":"必殺魂を使うアクションを行っても","vi":"Dù thực hiện hành động dùng Special Soul,"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":92,"id":"JUS-8b788b87e3943cdb5582","ja":"必殺魂が減らなくなる能力。","vi":"Special Soul vẫn không bị tiêu hao."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":93,"id":"JUS-a45ee4e327061b1bb463","ja":"突撃","vi":"Charge"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":94,"id":"JUS-b1ecc60122d0fcfe0346","ja":"相手のバトルキャラに攻撃、もしくは","vi":"Khi đánh trúng Battle Character của địch"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":95,"id":"JUS-83d6cdfc2f30560ff214","ja":"ガードさせると必殺魂が増加する能力。","vi":"hoặc khiến hắn Guard, Special Soul tăng."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":96,"id":"JUS-6ff6074b6e578cacbf4b","ja":"コンボ","vi":"Combo"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":97,"id":"JUS-8fb79fbd322582af5d28","ja":"チェーン攻撃を相手にヒット、もしくは","vi":"Khi Chain Attack đánh trúng đối thủ hoặc"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":98,"id":"JUS-fe9fd0023950f066a303","ja":"沈着","vi":"Composure"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":99,"id":"JUS-f828a5c0e36b86f72268","ja":"何もせずじっとしていると必殺魂が増加。","vi":"Đứng yên không làm gì sẽ tăng Special Soul."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":100,"id":"JUS-a66a2d44d5c78e272e87","ja":"アクションを行うまで増加し続ける能力。","vi":"Tiếp tục tăng cho đến khi hành động."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":101,"id":"JUS-ff1e75a39f0035a5b19e","ja":"激怒","vi":"Fury"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":102,"id":"JUS-a01ad76fcba3e83b8e1a","ja":"連続ヒットの攻撃をたくさん受けると","vi":"Khi liên tục hứng chịu nhiều đòn đánh,"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":103,"id":"JUS-fe67bc48332102fee026","ja":"ハント","vi":"Hunt"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":104,"id":"JUS-5f6e5d557f29d6b9effe","ja":"アイテムボックスを壊すごとに必殺魂が","vi":"Mỗi lần phá Item Box, Special Soul"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":105,"id":"JUS-7864da0964ff734f4c0b","ja":"増加する能力。","vi":"sẽ tăng lên."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":106,"id":"JUS-7a7ef2a0c09f884a518a","ja":"反撃","vi":"Counterattack"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":107,"id":"JUS-615c49600ee1dbc5b1e5","ja":"Ｊ魂が少ない時に相手に攻撃、もしくは","vi":"Khi J-Soul còn ít mà vẫn đánh địch hoặc"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":108,"id":"JUS-41631b9d97056d95f32d","ja":"奮戦","vi":"Determination"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":109,"id":"JUS-06071999c7fb2886b3a6","ja":"キャラチェンジせず、サポートも使わず","vi":"Chiến đấu không đổi nhân vật,"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":110,"id":"JUS-ef6c6fad7c731c58d34f","ja":"戦ってると必殺魂が増加する能力。","vi":"không gọi Support sẽ tăng Special Soul."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":111,"id":"JUS-f3c322bd69fda1536525","ja":"大活躍","vi":"Star Performer"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":112,"id":"JUS-17e5ea787acaa66a9f82","ja":"相手のバトルキャラをＫＯすると必殺魂が","vi":"Khi hạ KO Battle Character của địch,"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":113,"id":"JUS-b54a60bd99e4077aaf80","ja":"協力","vi":"Cooperation"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":114,"id":"JUS-942e6912aa23b67b2e8e","ja":"サポートキャラの攻撃をヒット、もしくは","vi":"Khi đòn của Support Character trúng địch hoặc"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":115,"id":"JUS-e469c0a7480618d81cdc","ja":"知的","vi":"Cleverness"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":116,"id":"JUS-ad6a852ff62cf66dbcc3","ja":"自分と反対の属性の相手に攻撃、もしくは","vi":"Khi tấn công đối thủ khác thuộc tính hoặc"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":117,"id":"JUS-0062d77cb1c0c9328d5b","ja":"爆発","vi":"Burst"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":118,"id":"JUS-a2137866d084d00edfb9","ja":"短い間に必殺技を連続で使用すると、","vi":"Khi dùng nhiều Special Attack liên tiếp,"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":119,"id":"JUS-62ef469b6863d76ba999","ja":"友情コマ","vi":"Friendship Koma"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":120,"id":"JUS-48ce322a271ed4cf71ec","ja":"友情コマ、努力コマ、勝利コマを繋げると","vi":"Nối Friendship, Effort và Victory Koma"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":121,"id":"JUS-a10750fdbf2ba6ec30ce","ja":"スーパータッグが使用可能になる能力。","vi":"để có thể dùng Super Tag."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":122,"id":"JUS-1b7cecb61682f73e5373","ja":"努力コマ","vi":"Effort Koma"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":123,"id":"JUS-89fa0029fa4689d5ff82","ja":"勝利コマ","vi":"Victory Koma"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":124,"id":"JUS-ebab127c49a841d5dc19","ja":"Ｊ魂最大値＋","vi":"Giới hạn J-Soul +"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":125,"id":"JUS-facfeadaac110fdd2475","ja":"バトルキャラのＪ魂の最大値が","vi":"Tăng giới hạn J-Soul tối đa"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":126,"id":"JUS-1c5b817953fd96b1299a","ja":"増加する能力。<IDEOSP><IDEOSP><IDEOSP><IDEOSP><IDEOSP><IDEOSP>※複数有効。","vi":"của Battle Character.<IDEOSP><IDEOSP><IDEOSP><IDEOSP><IDEOSP><IDEOSP>※ Có thể cộng dồn."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":127,"id":"JUS-bf5c567c514c4745213a","ja":"必殺魂最大値＋","vi":"Giới hạn Special Soul +"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":128,"id":"JUS-9d411f10046f504a8889","ja":"必殺魂の値（ゲージの所の数字）のＭＡＸ","vi":"Tăng mức tối đa Special Soul (số trên thanh)"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":129,"id":"JUS-070c0fdb9b62ab7afed3","ja":"が＋１になる能力。<IDEOSP><IDEOSP><IDEOSP><IDEOSP>※複数有効。","vi":"thêm 1.<IDEOSP><IDEOSP><IDEOSP><IDEOSP>※ Có thể cộng dồn."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":130,"id":"JUS-4a7e416097c19d866fab","ja":"自己回復","vi":"Self Recovery"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":131,"id":"JUS-23b1934dca256d9b4833","ja":"バトル中、一定のペースでＪ魂が回復する","vi":"J-Soul hồi dần theo thời gian khi chiến đấu."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":132,"id":"JUS-9f890a603ab668bcceed","ja":"闘争心","vi":"Fighting Spirit"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":133,"id":"JUS-3ca9b3cf0ea7f1206aec","ja":"ステージ（上画面）に出ている間、","vi":"Trong lúc nhân vật ở trên sân (màn hình trên),"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":134,"id":"JUS-35acd25ec5cdc5ac3193","ja":"必殺魂がジワジワ増加する能力。","vi":"Special Soul sẽ tăng dần."}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":135,"id":"JUS-de0fe1d5c2b286ff7a13","ja":"必殺ゲージジワジワ減少","vi":"Special Gauge Drain"}
+{"file":"04-koma-chieu-thuc-001.jsonl","row_index":136,"id":"JUS-3f9b42e4d326d0cc8106","ja":"必殺魂がジワジワ減少するマイナス能力。","vi":"Special Soul giảm dần. Đây là bất lợi."}
