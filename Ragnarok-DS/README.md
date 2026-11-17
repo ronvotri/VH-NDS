@@ -20,6 +20,20 @@ Nhánh độc lập `vh/ragnarok-ds-usa` của kho `VH-NDS`. Không trộn với
 
 Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGPT, gồm toàn bộ 33 JSONL với `vi=null` cho phần chưa dịch, `THUAT_NGU.json`, `QUY_TAC_XUNG_HO.md`, `DANH_BA_NHAN_VAT.json`, `BAO_CAO.txt` và `PATCH-DOT001.jsonl`.
 
+
+## Khôi phục bản dịch từ GitHub
+
+Trong nhánh này đã có đủ **304/304 patch records của đợt 001**, chia thành 5 tệp trong `Ragnarok-DS/translation/` (đối chiếu với ZIP bàn giao: hash khớp, không trùng ID).
+
+```bash
+python Ragnarok-DS/tools/apply_patches.py \
+  --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
+  --patch-dir Ragnarok-DS/translation \
+  --output RagnarokDS_VH_Dot001_GitHub.zip
+```
+
+Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
+
 ## Kiểm tra khi nhận bản ZIP
 
 ```sh
