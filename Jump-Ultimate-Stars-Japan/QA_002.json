@@ -1,0 +1,24 @@
+{
+  "checkpoint": "002",
+  "date": "2026-11-18",
+  "game": "Jump Ultimate Stars",
+  "rom_region": "Japan",
+  "rom_code": "AJUJ",
+  "total": 34919,
+  "translated": 833,
+  "pending": 34086,
+  "new_in_002": 517,
+  "prior_001": 316,
+  "changed_files": {
+    "01-huong-dan-001.jsonl": 155,
+    "02-thoai-tro-giup-001.jsonl": 156,
+    "03-nhiem-vu-luat-001.jsonl": 79,
+    "04-koma-chieu-thuc-001.jsonl": 127
+  },
+  "controls_and_ids_errors": 0,
+  "source_checker": "tools/check_translations.py",
+  "unicode_segments_gt_37_characters": 82,
+  "font_rom_integration": "not_done",
+  "runtime_qa": "not_done",
+  "note": "ZIP handed over in ChatGPT includes all 30 translation files; GitHub stores 833 ID-addressed translation deltas."
+}
