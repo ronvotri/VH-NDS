@@ -268,5 +268,455 @@
     "vi": "Air Dash",
     "status": "project_locked_v1",
     "note": "Kỹ năng"
+  },
+  {
+    "ja": "高速落下",
+    "vi": "Fast Fall",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "キャラアクション",
+    "vi": "Character Action",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "チェーン攻撃",
+    "vi": "Chain Attack",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "ヘルプ能力",
+    "vi": "Help Ability",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "リーダーシール",
+    "vi": "Leader Sticker",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "Ｌ・Ｒシール",
+    "vi": "L/R Sticker",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "シール",
+    "vi": "Sticker",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "ターゲット",
+    "vi": "Target",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "友情コマ",
+    "vi": "Friendship Koma",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "努力コマ",
+    "vi": "Effort Koma",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "勝利コマ",
+    "vi": "Victory Koma",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "ふんばり",
+    "vi": "Firm Stance",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "超回復",
+    "vi": "Super Recovery",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "状態変化耐性",
+    "vi": "Status Resistance",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "打撃耐性ＵＰ",
+    "vi": "Strike Resistance Up",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "斬撃耐性ＵＰ",
+    "vi": "Slash Resistance Up",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "打撃弱点",
+    "vi": "Strike Weakness",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "斬撃弱点",
+    "vi": "Slash Weakness",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "見切り",
+    "vi": "Insight",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "底力",
+    "vi": "Last Stand",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "逆襲",
+    "vi": "Revenge",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "収集",
+    "vi": "Collection",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "浪費",
+    "vi": "Wasteful",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "調理",
+    "vi": "Cooking",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "大食い",
+    "vi": "Big Eater",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "機械",
+    "vi": "Machine",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "直撃",
+    "vi": "Direct Hit",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "ガード能力＋",
+    "vi": "Guard Power Up",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "重量級",
+    "vi": "Heavyweight",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "軽量級",
+    "vi": "Lightweight",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "帯電無効",
+    "vi": "Shock Immunity",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "氷結無効",
+    "vi": "Freeze Immunity",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "燃え無効",
+    "vi": "Burn Immunity",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "混乱無効",
+    "vi": "Confusion Immunity",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "毒無効",
+    "vi": "Poison Immunity",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "宣告無効",
+    "vi": "Doom Immunity",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "行動不能無効",
+    "vi": "Stun Immunity",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "画面妨害無効",
+    "vi": "Screen Obstruction Immunity",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "スピードダウン無効",
+    "vi": "Slow Immunity",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "チェンジ封印無効",
+    "vi": "Change Seal Immunity",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "見破り",
+    "vi": "True Sight",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "プラス効果無効",
+    "vi": "Positive Effect Disable",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "必殺技無制限",
+    "vi": "Unlimited Special",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "突撃",
+    "vi": "Charge",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "コンボ",
+    "vi": "Combo",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "沈着",
+    "vi": "Composure",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "激怒",
+    "vi": "Fury",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "ハント",
+    "vi": "Hunt",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "反撃",
+    "vi": "Counterattack",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "奮戦",
+    "vi": "Determination",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "大活躍",
+    "vi": "Star Performer",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "協力",
+    "vi": "Cooperation",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "知的",
+    "vi": "Cleverness",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "爆発",
+    "vi": "Burst",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "自己回復",
+    "vi": "Self Recovery",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "闘争心",
+    "vi": "Fighting Spirit",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "必殺ゲージジワジワ減少",
+    "vi": "Special Gauge Drain",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "Ｊ魂最大値＋",
+    "vi": "Giới hạn J-Soul +",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "必殺魂最大値＋",
+    "vi": "Giới hạn Special Soul +",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "帯電",
+    "vi": "Shock",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "氷結",
+    "vi": "Freeze",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "燃え",
+    "vi": "Burn",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "混乱",
+    "vi": "Confusion",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "毒",
+    "vi": "Poison",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "宣告",
+    "vi": "Doom",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "行動不能",
+    "vi": "Stun",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "画面妨害",
+    "vi": "Screen Obstruction",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "スピードダウン",
+    "vi": "Slow",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "チェンジ封印",
+    "vi": "Change Seal",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "サポート封印",
+    "vi": "Support Seal",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "トライアル",
+    "vi": "Trial",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "ポイントバトル",
+    "vi": "Point Battle",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "シンボルバトル",
+    "vi": "Symbol Battle",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "デスマッチバトル",
+    "vi": "Deathmatch Battle",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "ファイナルタワー",
+    "vi": "Final Tower",
+    "status": "provisional_literal_jp_qa",
+    "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
   }
 ]
