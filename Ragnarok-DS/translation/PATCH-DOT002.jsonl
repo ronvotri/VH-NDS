@@ -1,0 +1,759 @@
+{"id": "RDS-24bddc62fe3c27d6c396", "vi": "Eternal Sands"}
+{"id": "RDS-71c7e3ee7942543e71d5", "vi": "Glast Heim Underground"}
+{"id": "RDS-d2b829d328261c54c0bf", "vi": "Mjolnir Pass"}
+{"id": "RDS-6db5f42f48ba7ac0050f", "vi": "Mjolnir Dead Pit: B4F"}
+{"id": "RDS-48f4565f5e6179b48ac7", "vi": "Thiết lập và xác nhận<CFFFD>thông tin nhân vật."}
+{"id": "RDS-bd1c8da154dd58e3da66", "vi": "Thiết lập và xác nhận<CFFFD>thông tin party."}
+{"id": "RDS-9d659451ef760f408043", "vi": "Thiết lập và xác nhận<CFFFD>các thông tin khác."}
+{"id": "RDS-029ebfb4cb33128594ac", "vi": "Thiết lập và xác nhận<CFFFD>cài đặt hệ thống."}
+{"id": "RDS-2645f2efc2a9d827c241", "vi": "A - Chỉ số hiện tại.<CFFFD>B - Phân bổ điểm chỉ số.<CFFFD>C - Điểm cần để tăng<CFFFD>    chỉ số thêm 1."}
+{"id": "RDS-9a641eed938b37ade54d", "vi": "Xác nhận chỉ số rồi<CFFFD>sẽ không thể đặt lại.<CFFFD>Bạn có chắc<CFFFD>với các chỉ số hiện tại?"}
+{"id": "RDS-871a42b49041310ef473", "vi": "Đã xác nhận chỉ số."}
+{"id": "RDS-bb11f8307e69499363e3", "vi": "Hủy và trở về menu chính?"}
+{"id": "RDS-249379a9cb43ee819efe", "vi": "Bạn muốn bỏ<CFFFD>bao nhiêu món?"}
+{"id": "RDS-86a40055c32577e41b60", "vi": "Bỏ trang bị này?"}
+{"id": "RDS-9fae02f77d487859f02b", "vi": "(Card đã gắn cũng sẽ mất)"}
+{"id": "RDS-d08ea8f13548e33b0d6a", "vi": "Đã bỏ trang bị."}
+{"id": "RDS-a722c0a4aefb58e98161", "vi": "Đã bỏ item."}
+{"id": "RDS-9c142220384a91e836a7", "vi": "Dịch chuyển về thị trấn?"}
+{"id": "RDS-747054f8b50336719870", "vi": "Không dùng được<CFFFD>Butterfly Wing ở đây."}
+{"id": "RDS-4b1731a35077d2b697dc", "vi": "Về cửa vào dungeon?"}
+{"id": "RDS-a43a78eec1257365e8a3", "vi": "Không dùng được Fly Wing ở đây."}
+{"id": "RDS-76498e9dab236e4834f4", "vi": "Gắn Card rồi sẽ<CFFFD>không tháo ra được.<CFFFD>Gắn Card lên trang bị này?"}
+{"id": "RDS-a346390d4e9df3bf054d", "vi": "Đã gắn Card."}
+{"id": "RDS-1d5a8d0d9c55ac836953", "vi": "Chọn ô để gán item/skill<CFFFD>vào phím tắt."}
+{"id": "RDS-b42ca62b7b0f42ed4ee3", "vi": "A - Đổi phím tắt<CFFFD>     từ 1 đến 3.<CFFFD>B - Ẩn thanh phím tắt."}
+{"id": "RDS-7a4c1fa64fb3b53618fd", "vi": "Học skill này?<CFFFD>(Cần 1 Skill Point.)"}
+{"id": "RDS-8255a8f040c7c02bcf20", "vi": "Nâng skill này?<CFFFD>(Cần 1 Skill Point.)"}
+{"id": "RDS-c2ace2bdd9808df05730", "vi": "Đã mở khóa skill mới."}
+{"id": "RDS-008c4236344f0efb39c8", "vi": "Đã học skill."}
+{"id": "RDS-ea3b5117232f5490c834", "vi": "Đã nâng skill."}
+{"id": "RDS-c0eaa51033ba3adfdb4f", "vi": "Nhận nhiệm vụ này?"}
+{"id": "RDS-388a266bf7d8d9b37823", "vi": "Cốt truyện chưa tiến triển."}
+{"id": "RDS-6f48c28c523c9edcea67", "vi": "Không thể nhận nhiệm vụ."}
+{"id": "RDS-6b843e92235fb3f27aba", "vi": "Không có"}
+{"id": "RDS-6912dd9704359f23e282", "vi": "Vui lòng chọn"}
+{"id": "RDS-b2a697047982bebff01a", "vi": "nhân viên Kafra"}
+{"id": "RDS-0f27984274b644ffb41b", "vi": "bạn muốn thuê."}
+{"id": "RDS-70f5c511e82b370e180d", "vi": "Menu chính"}
+{"id": "RDS-984a766c6800575e467d", "vi": "Chỉ số"}
+{"id": "RDS-20e6a6a2b8e68f397ac5", "vi": "Item"}
+{"id": "RDS-0a4699e64889c6d6bc80", "vi": "Card"}
+{"id": "RDS-177fb056ff788e12f737", "vi": "Trang bị"}
+{"id": "RDS-d0cf090260bb79ea05cc", "vi": "Chi tiết Token"}
+{"id": "RDS-0baa0ec8d6f0d1b07873", "vi": "Skill"}
+{"id": "RDS-3763d69b99b9f0d079d1", "vi": "Phím tắt"}
+{"id": "RDS-da521afe41765e9c71e2", "vi": "Cài phím tắt"}
+{"id": "RDS-433d5bc8ebd87938eba2", "vi": "Thông tin thành viên"}
+{"id": "RDS-5b9d6175ac7e17c01f8b", "vi": "Xem nhiệm vụ"}
+{"id": "RDS-ac5a6d8b1929240d0ca3", "vi": "Thông tin nhiệm vụ"}
+{"id": "RDS-22111333936e9e21c19a", "vi": "Tùy chọn"}
+{"id": "RDS-1f7e7e5fe994f3f9dfde", "vi": "Lưu tạm"}
+{"id": "RDS-15a4dcf9547327a89271", "vi": "Tải bản lưu tạm"}
+{"id": "RDS-2881a5810821b2523659", "vi": "Ghi chú"}
+{"id": "RDS-a8cfc7d8d7011a791f57", "vi": "Lưu"}
+{"id": "RDS-b3cf099726e325f5bcb5", "vi": "Tải"}
+{"id": "RDS-3b1db3cb268b285f321d", "vi": "Cất vào kho"}
+{"id": "RDS-5f3e159016bfc46f7aa6", "vi": "Lấy từ kho"}
+{"id": "RDS-7dccaf425da1d8d3f83e", "vi": "Nhiệm vụ"}
+{"id": "RDS-405ea32c5fac097c3d7f", "vi": "Ứng viên 1"}
+{"id": "RDS-19196b386d5a83c7b34e", "vi": "Ứng viên 2"}
+{"id": "RDS-7fc1c24ab9e0daca96fe", "vi": "Ứng viên 3"}
+{"id": "RDS-8affe87d1eb801ba24db", "vi": "Ứng viên 4"}
+{"id": "RDS-96232996e832b4a64850", "vi": "Ứng viên 5"}
+{"id": "RDS-a770e87710aaddcf92ec", "vi": "Ứng viên 6"}
+{"id": "RDS-bbdc3b07bda4679a3e75", "vi": "Ứng viên 7"}
+{"id": "RDS-8184f40fca8ebc72b5fe", "vi": "Ứng viên 8"}
+{"id": "RDS-305239e303799b827346", "vi": "Ứng viên 9"}
+{"id": "RDS-488b697768e8a763a6bc", "vi": "Skill"}
+{"id": "RDS-7fe9667b629d1cbbb075", "vi": "Trang bị"}
+{"id": "RDS-51a848bdc9e5cf87fcaf", "vi": "Thông tin Guild"}
+{"id": "RDS-b4ff861d5c47e6427d23", "vi": "Item cốt truyện"}
+{"id": "RDS-7d1787e4f572d0337988", "vi": "Lưu tạm"}
+{"id": "RDS-4a2759172c0c79ef3f45", "vi": "Trang bị"}
+{"id": "RDS-e5b56be3459d828c9214", "vi": "Token"}
+{"id": "RDS-47364f2e26dadac32297", "vi": "Của cải"}
+{"id": "RDS-f55e8bc403bae3cbcdc5", "vi": "Danh sách Card"}
+{"id": "RDS-aa6a4eb8149fc840a41d", "vi": "Danh sách trang bị"}
+{"id": "RDS-1159ee85d2aee2f98fc2", "vi": "Xác nhận"}
+{"id": "RDS-3bd66918d6b8e97880cb", "vi": "Hủy"}
+{"id": "RDS-6118d5b565ee044bbbb4", "vi": "Tất cả"}
+{"id": "RDS-d34c91184b8c79bc28de", "vi": "Dùng"}
+{"id": "RDS-2cd98bebb1c4023fecb1", "vi": "Bỏ"}
+{"id": "RDS-affd725df3aa0aa19843", "vi": "Quản lý"}
+{"id": "RDS-d8eab66120b539c5981e", "vi": "Gắn Card"}
+{"id": "RDS-684c54409806e1852e1a", "vi": "Ô gắn Card"}
+{"id": "RDS-3382d377d27a93094923", "vi": "Tháo"}
+{"id": "RDS-0c9243aa369df811fe1a", "vi": "Đặt"}
+{"id": "RDS-0e7ad2ad184a481eba58", "vi": "OK"}
+{"id": "RDS-f8aca14d880ac4dc47ad", "vi": "Đặt lại"}
+{"id": "RDS-1ac387ee575c992532de", "vi": "Trợ giúp"}
+{"id": "RDS-6579058fe4ec4fc86b1c", "vi": "Chủ động"}
+{"id": "RDS-c7cb3c70cd1fc90d3300", "vi": "Bị động"}
+{"id": "RDS-caf5fac7a5211f83dc34", "vi": "STR"}
+{"id": "RDS-d426e88f054f6008d5f1", "vi": "AGI"}
+{"id": "RDS-422b542fb11042a0644c", "vi": "VIT"}
+{"id": "RDS-b5949c8f6f78f3c28484", "vi": "INT"}
+{"id": "RDS-9b66de85f0c7816e6f74", "vi": "DEX"}
+{"id": "RDS-63a034f4c85d4a973aa5", "vi": "LUK"}
+{"id": "RDS-954de4f4c995ecfab6a7", "vi": "SP cần"}
+{"id": "RDS-a56ef0bc2007400084f1", "vi": "Hạng"}
+{"id": "RDS-4b4a93ffa6ac41f0e5c6", "vi": "Học"}
+{"id": "RDS-1f938b5ec8606fdd11c0", "vi": "Nâng cấp"}
+{"id": "RDS-31f8e18f4ffb7d930d6e", "vi": "Mới"}
+{"id": "RDS-d0b0accc76ae1b476392", "vi": "Đã hoàn thành nhiệm vụ"}
+{"id": "RDS-59550080c486376c70b7", "vi": "Đặc tính"}
+{"id": "RDS-6a046f16aab19dd4812c", "vi": "Quan hệ"}
+{"id": "RDS-895c9ed83ab0410ad973", "vi": "Điều khoản"}
+{"id": "RDS-51bc28d0a3d8694b2c0b", "vi": "Phần thưởng"}
+{"id": "RDS-a2ffbf54d3b7f921f1a7", "vi": "Người giao việc"}
+{"id": "RDS-b80d52857bebabf1bd61", "vi": "Cốt truyện"}
+{"id": "RDS-f58bc065b2eb47866e92", "vi": "Nhận"}
+{"id": "RDS-9f654a33f2b61068b72e", "vi": "Danh mục nhiệm vụ Guild"}
+{"id": "RDS-9dcc8853880a60ebe430", "vi": "Danh sách nhiệm vụ"}
+{"id": "RDS-34614db4997556c24bfa", "vi": "Job"}
+{"id": "RDS-170bfdc7fa4559fb4882", "vi": "Đang có:"}
+{"id": "RDS-ab8897684bc6fc627b34", "vi": "Tấn công"}
+{"id": "RDS-ed9e647e52d59b550952", "vi": "Địch mạnh"}
+{"id": "RDS-66f71b94d47888a84a6f", "vi": "Tiết kiệm SP"}
+{"id": "RDS-7b5266bc91fb9330f7f5", "vi": "Cố lên!"}
+{"id": "RDS-a76961d9bd003437eb53", "vi": "Chạy đi!"}
+{"id": "RDS-1465d317ce58e28e71b2", "vi": "Tấn công!"}
+{"id": "RDS-a2a808480911735f71fb", "vi": "Tự do"}
+{"id": "RDS-73e6e78466563f58efb4", "vi": "Hồi phục"}
+{"id": "RDS-da0e7aeeec82b257c884", "vi": "Hậu tuyến"}
+{"id": "RDS-63a31c5afda0c273b579", "vi": "Bắn cung"}
+{"id": "RDS-ab5fd2184ee089f70de5", "vi": "Trộm đồ"}
+{"id": "RDS-e504a7c34825565951ab", "vi": "Tấn công"}
+{"id": "RDS-52a481a094b7306ee20a", "vi": "Zeny đã tiết kiệm"}
+{"id": "RDS-b9d0c03c8cba09bdffdc", "vi": "Tiệm vũ khí"}
+{"id": "RDS-39d37d3bfa2de23e2939", "vi": "Tiệm item"}
+{"id": "RDS-f1449c827edbd9175e8c", "vi": "Quán trọ"}
+{"id": "RDS-917c671576a4c363498c", "vi": "Quán rượu"}
+{"id": "RDS-1ce238130f2bca0ff412", "vi": "Gục ngã"}
+{"id": "RDS-5b0fa7c66abcdce50f3a", "vi": "Nguy hiểm!"}
+{"id": "RDS-e2c864a1d68eccaecb70", "vi": "Skill Point"}
+{"id": "RDS-38adafffe1018b1062b6", "vi": "Status Point"}
+{"id": "RDS-e090cd217aec51291be3", "vi": "Chưa thiết lập"}
+{"id": "RDS-e76441d4541b00a8af6a", "vi": "Menu người chơi"}
+{"id": "RDS-4091ff320f7cc1c13173", "vi": "Menu party"}
+{"id": "RDS-d70ab366576389822ebc", "vi": "Menu thông tin"}
+{"id": "RDS-1bf6684fb14d4bdbc4c6", "vi": "Menu tùy chọn"}
+{"id": "RDS-a4feb0caa393584fb764", "vi": "Phân bổ Status Point."}
+{"id": "RDS-ea6d6aa9dd237642f070", "vi": "Thiết lập chỉ số ban đầu."}
+{"id": "RDS-3ec6cf99a63d8041ae06", "vi": "Không đủ điểm."}
+{"id": "RDS-6f7aa566c8b3093073d8", "vi": "Quản lý item."}
+{"id": "RDS-4bec18ab0cb5191d364c", "vi": "Quản lý trang bị."}
+{"id": "RDS-2cfdcaa94a3ff2470e12", "vi": "Quản lý Token."}
+{"id": "RDS-de98bee167d3c4e6802d", "vi": "Quản lý của cải."}
+{"id": "RDS-d3039e1499f1d9127b92", "vi": "Không thể dùng trang bị."}
+{"id": "RDS-ae02af095220277a94bb", "vi": "Không thể dùng Token."}
+{"id": "RDS-4a8c568d9f8def2b3a43", "vi": "Không có item."}
+{"id": "RDS-c786b64a473e373cec0d", "vi": "Không có trang bị."}
+{"id": "RDS-b8d6db03f46a0d2a2fbb", "vi": "Không có Token."}
+{"id": "RDS-9c131725ae5b8fffe92d", "vi": "Không có của cải."}
+{"id": "RDS-6498ff46c025a8a4bb85", "vi": "Không có Card."}
+{"id": "RDS-e0b747dc973c6ce52a81", "vi": "Kho không có item."}
+{"id": "RDS-ef677c66ad86e1fb9859", "vi": "Không thể bỏ item."}
+{"id": "RDS-cb899e4975cd82bd8fe3", "vi": "Không thể bỏ trang bị."}
+{"id": "RDS-2d60fd4efdc6ec5ede2f", "vi": "Không thể bỏ Token."}
+{"id": "RDS-785bf34fc8d31fab62ac", "vi": "Chọn trang bị để gắn Card."}
+{"id": "RDS-34214b5a9cebd01b0414", "vi": "Xác nhận các Card đã gắn."}
+{"id": "RDS-ea0c9e3ef6fe3865bc0a", "vi": "Chọn skill để thiết lập."}
+{"id": "RDS-d3ddc16345e219363672", "vi": "Chọn item để thiết lập."}
+{"id": "RDS-be5d0fd7c7a26ba62204", "vi": "Chưa học skill này."}
+{"id": "RDS-2ed165f44b50ceb15a86", "vi": "Đã đặt lại cài đặt."}
+{"id": "RDS-3718422f997f244a049e", "vi": "Đã đổi cài đặt phím tắt."}
+{"id": "RDS-4236a24c98579c2f44c1", "vi": "Quản lý skill."}
+{"id": "RDS-11ec2b670a0d51f403dc", "vi": "Chi tiết skill."}
+{"id": "RDS-0c5e7079c618e70c883e", "vi": "Chọn skill muốn học."}
+{"id": "RDS-e1eeebb26b6f53b54683", "vi": "Không thể học skill."}
+{"id": "RDS-aa0face7b253748bd97b", "vi": "Không đủ Skill Point."}
+{"id": "RDS-13ab11b7cf8c2d937653", "vi": "Không thể nâng thêm."}
+{"id": "RDS-47729afd17d0d4592793", "vi": "Chọn loại trang bị cần đổi."}
+{"id": "RDS-e387d5e9070d2d515cb4", "vi": "Chọn trang bị để mặc."}
+{"id": "RDS-07543105dd85f6631088", "vi": "Chi tiết trang bị."}
+{"id": "RDS-4dd95b605a7fd121cff7", "vi": "Không còn ô trống."}
+{"id": "RDS-858bd54bc0b728e3de4f", "vi": "Không thể trang bị."}
+{"id": "RDS-5a5f1ef63b05473f8377", "vi": "Không đủ chỗ để tháo trang bị."}
+{"id": "RDS-654a2e66cbd09a16a23c", "vi": "Gắn Card."}
+{"id": "RDS-d33df94b824258e4f67e", "vi": "Chi tiết Card."}
+{"id": "RDS-3fdfbbbc49dcaa6aa980", "vi": "Thông tin Guild."}
+{"id": "RDS-34153a175badf64b71bc", "vi": "Chi tiết thành viên Guild."}
+{"id": "RDS-dbd93198b17fb8ea973d", "vi": "Thành viên Guild"}
+{"id": "RDS-006f366f4cd740511dac", "vi": "Thông tin nhiệm vụ."}
+{"id": "RDS-f35568122fa4c72c5899", "vi": "Chi tiết nhiệm vụ."}
+{"id": "RDS-478b3c7dea3b158a22e7", "vi": "Chọn nhiệm vụ."}
+{"id": "RDS-da57c81d7b37833db9f9", "vi": "Chọn tệp lưu."}
+{"id": "RDS-9b1b471ecaf692113cb3", "vi": "Xác nhận/thay đổi tùy chọn."}
+{"id": "RDS-40e43b5efa1efe44c9de", "vi": "Không có gì để trang bị."}
+{"id": "RDS-4ef22c5039d2caec4671", "vi": "Đã trang bị."}
+{"id": "RDS-e0a6d3a567360b2d7b03", "vi": "Đã tháo trang bị."}
+{"id": "RDS-4200bdf837c4bfb4f909", "vi": "Không có ô để trang bị."}
+{"id": "RDS-bd99f1b60679b5886ec5", "vi": "Không có trang bị để gắn Card."}
+{"id": "RDS-e67fd087498003da6496", "vi": "Loại"}
+{"id": "RDS-74497fdd0104075caeff", "vi": "Phòng thủ"}
+{"id": "RDS-451c600c0ed6a76b1619", "vi": "Phép thuật"}
+{"id": "RDS-1683e9f6ba519472504c", "vi": "Kháng"}
+{"id": "RDS-f8ffd460e2ace96e823e", "vi": "Tương hợp hệ"}
+{"id": "RDS-49068fe537333fe754c1", "vi": "Item tiêu hao"}
+{"id": "RDS-6895c243df4694daf77d", "vi": "Token"}
+{"id": "RDS-05af1b394f1d39d16064", "vi": "Card"}
+{"id": "RDS-0273d5c1244bac282b23", "vi": "Kiếm ngắn"}
+{"id": "RDS-6bd3c61b58111490abea", "vi": "Kiếm một tay"}
+{"id": "RDS-aa31ad8d719861a4c474", "vi": "Kiếm hai tay"}
+{"id": "RDS-194562e91a07a4902bce", "vi": "Thương một tay"}
+{"id": "RDS-1c4383c3dee6a8ea70b9", "vi": "Thương hai tay"}
+{"id": "RDS-581a9d35a52f8f4f06d8", "vi": "Rìu một tay"}
+{"id": "RDS-2cddc7c1257e3d34d928", "vi": "Rìu hai tay"}
+{"id": "RDS-2a9847ed9279168f0588", "vi": "Chùy"}
+{"id": "RDS-5942ab079a843a5c9b99", "vi": "Trượng"}
+{"id": "RDS-9f80b6350901fc6fa164", "vi": "Cung"}
+{"id": "RDS-d91eafd0d29086e35aa7", "vi": "Katar"}
+{"id": "RDS-8486df5a3ca2a84a2db7", "vi": "Sách"}
+{"id": "RDS-a75a5a178ebcdda57a98", "vi": "Mũi tên"}
+{"id": "RDS-90674c3eb310dc9a1696", "vi": "Khiên"}
+{"id": "RDS-6eca45a80d229f231928", "vi": "Mũ"}
+{"id": "RDS-8e09e06fb35a48f0f177", "vi": "Giáp"}
+{"id": "RDS-4852e905fd54ccd589b3", "vi": "Áo choàng"}
+{"id": "RDS-920c3e0bba2109143cba", "vi": "Giày"}
+{"id": "RDS-d8be66c87028014b09a7", "vi": "Phụ kiện"}
+{"id": "RDS-e6ba1b3228fc900b6c4a", "vi": "Vật quý"}
+{"id": "RDS-3e3f4a1625c96ef4a03e", "vi": "Vô"}
+{"id": "RDS-b995ade8d6a332844b7d", "vi": "Nước"}
+{"id": "RDS-f9642406fc6d7c5401a4", "vi": "Đất"}
+{"id": "RDS-bea3e690b97986e01fa6", "vi": "Lửa"}
+{"id": "RDS-f297ffc1385fde01463f", "vi": "Gió"}
+{"id": "RDS-22bddb67b6b7633025d4", "vi": "Độc"}
+{"id": "RDS-a0be8392e686e57c45b0", "vi": "Ánh sáng"}
+{"id": "RDS-fc8812dfd400ca0e9bea", "vi": "Mù"}
+{"id": "RDS-88db9dd9d73150a0b8b1", "vi": "Tâm linh"}
+{"id": "RDS-f246edf8d33eaf42ead3", "vi": "Undead"}
+{"id": "RDS-2db833e3a20b281d1abb", "vi": "Hồi HP"}
+{"id": "RDS-7a4eb67ff68c7fc810b6", "vi": "Hồi SP"}
+{"id": "RDS-98557f7e76bf3609f80b", "vi": "Chữa trạng thái bất thường"}
+{"id": "RDS-c4563e8b6ca22283d9d8", "vi": "Hồi HP/SP"}
+{"id": "RDS-cb225d8cbc45d6369abf", "vi": "Hồi sinh"}
+{"id": "RDS-ea7e7c927d05e833ec3d", "vi": "Tăng chỉ số"}
+{"id": "RDS-2afcab492331a6a85bb8", "vi": "Giá"}
+{"id": "RDS-e234b1a34bc98b8b3b0b", "vi": "Bán"}
+{"id": "RDS-31720ba1a9cb48b0d2bb", "vi": "Mua"}
+{"id": "RDS-55ce17e8c30b513e03b6", "vi": "Trong kho"}
+{"id": "RDS-cd9f93b7f2e3a65cf699", "vi": "Tiền:"}
+{"id": "RDS-35261f5c1b084eba272e", "vi": "Tiền"}
+{"id": "RDS-f23f7795cf61dcb9b846", "vi": "Chọn item để bán."}
+{"id": "RDS-7e1d0b79415d3892c65f", "vi": "Chọn vật sưu tầm để bán."}
+{"id": "RDS-981ecb8c15348c45c056", "vi": "Chọn item để mua."}
+{"id": "RDS-a602abf9a597cb03f456", "vi": "Bao nhiêu?"}
+{"id": "RDS-f46977413fae5b76f057", "vi": "Đã bán item."}
+{"id": "RDS-34ef2d4b1723e75a5652", "vi": "Đã bán vật sưu tầm."}
+{"id": "RDS-cbe369f2566620dcbc55", "vi": "Đã mua item."}
+{"id": "RDS-8601629f05dec15f54d2", "vi": "Đã mua vật sưu tầm."}
+{"id": "RDS-6d8e16c2860624fe3d86", "vi": "Chọn trang bị để bán."}
+{"id": "RDS-45bedc212e69a9d5c17c", "vi": "Chọn trang bị để mua."}
+{"id": "RDS-29de8e150074a2414488", "vi": "Bán trang bị này?"}
+{"id": "RDS-a510798a34f3d1f10ed4", "vi": "Mua trang bị này?"}
+{"id": "RDS-8b29b5b1745356743553", "vi": "Đã bán trang bị."}
+{"id": "RDS-725c0e772e04ccefb419", "vi": "Đã mua trang bị."}
+{"id": "RDS-996ba4b700bfdc2a4b83", "vi": "(Card đã gắn cũng sẽ mất.)"}
+{"id": "RDS-023fe669556b283a113b", "vi": "Không đủ tiền."}
+{"id": "RDS-c07ed7adfb10afcc233d", "vi": "Có quá nhiều item."}
+{"id": "RDS-f296065ea8d7a0d9f0f5", "vi": "Không thể bán item."}
+{"id": "RDS-a9fb68c76ac203cd68a0", "vi": "Không thể bán trang bị."}
+{"id": "RDS-dc7a39a3085d6a78df43", "vi": "Không thể bán vật sưu tầm."}
+{"id": "RDS-1a45a4c554140d34498e", "vi": "Chọn trang bị để tinh luyện."}
+{"id": "RDS-3b9f25cfd05aad2ddd06", "vi": "Tinh luyện trang bị này?"}
+{"id": "RDS-100139e6b5e66a2ac852", "vi": "Trang bị có thể bị vỡ."}
+{"id": "RDS-44e1769c26b0c0c56da6", "vi": "Tiếp tục?"}
+{"id": "RDS-c829ce3c3ec6ff627cee", "vi": "Mặt trời"}
+{"id": "RDS-c90fc1d8c622534930fb", "vi": "Mặt trăng"}
+{"id": "RDS-ca46d4a600c7667dd922", "vi": "Ngôi sao"}
+{"id": "RDS-b2b710ed92e2b7c60604", "vi": "Ghi đè dữ liệu lưu?"}
+{"id": "RDS-12c24c70dc27c60e7dec", "vi": "Tạo dữ liệu lưu mới?"}
+{"id": "RDS-bbd97f72696e2d83197e", "vi": "Đang lưu...<CFFFD>Đừng tắt nguồn."}
+{"id": "RDS-0750d45697c0a8b6b0e8", "vi": "Đã lưu xong."}
+{"id": "RDS-f5661bc0bd21f871c908", "vi": "Lưu thất bại.<CFFFD>Thao tác quá thời gian."}
+{"id": "RDS-029348f6737c45467848", "vi": "Lưu thất bại.<CFFFD>Game Card không phản hồi."}
+{"id": "RDS-02802dc67c9cd3d0b00c", "vi": "Không đọc được dữ liệu.<CFFFD>Tắt nguồn rồi<CFFFD>lắp lại Game Card."}
+{"id": "RDS-c7c65672c1e611041919", "vi": "Lưu thất bại.<CFFFD>Không ghi được dữ liệu."}
+{"id": "RDS-01381a6b9a946f742fa5", "vi": "Không có dữ liệu."}
+{"id": "RDS-d9d5711d7aa6d1e466ec", "vi": "Dữ liệu hỏng."}
+{"id": "RDS-31c121b137a5df051310", "vi": "Có thể ghi dữ liệu."}
+{"id": "RDS-e6f5a89c158aa035df94", "vi": "Tải dữ liệu này?"}
+{"id": "RDS-620d62f51b5251871b0a", "vi": "Lưu thất bại.<CFFFD>Tắt nguồn rồi<CFFFD>lắp lại Game Card."}
+{"id": "RDS-02ee14c383a8f1565a85", "vi": "Knight?"}
+{"id": "RDS-af40bc5f972f2ea413fd", "vi": "Wizard?"}
+{"id": "RDS-9722093fae5d5b5900fe", "vi": "Hunter?"}
+{"id": "RDS-e3a68d9714fad4b8fff8", "vi": "Priest?"}
+{"id": "RDS-756b408f86b1505f1347", "vi": "Assassin?"}
+{"id": "RDS-778e9efc1d3d5d12e052", "vi": "Black Smith?"}
+{"id": "RDS-26146eb0dd04844842f9", "vi": "Taekwon Master?"}
+{"id": "RDS-ea3fb67f3d775ec857a0", "vi": "Đổi Job?"}
+{"id": "RDS-81fa2c0c00507f77a455", "vi": "Đã đổi Job.<CFFFD>Toàn bộ trang bị đã được<CFFFD>chuyển vào túi đồ."}
+{"id": "RDS-dc21d4af84eb7261840a", "vi": "Khi đổi Job, mọi trang bị<CFFFD>sẽ được tháo và chuyển<CFFFD>vào túi đồ.<CFFFD>Nếu túi không đủ chỗ,<CFFFD>bạn không thể đổi Job."}
+{"id": "RDS-fec476ec0062bd278c99", "vi": "Chọn thành viên đổi Job."}
+{"id": "RDS-78a9f4717665eb33766b", "vi": "Không thể đổi Job."}
+{"id": "RDS-7a80658a0c32eedc630f", "vi": "Chưa đủ điều kiện đổi Job."}
+{"id": "RDS-b25cd4b79fdc0bbe74b2", "vi": "Không thể đổi Job giữa nhiệm vụ."}
+{"id": "RDS-ccebf134f39e097d1fd7", "vi": "Không có ai để đổi Job."}
+{"id": "RDS-b0b1f99123e90ec8a62a", "vi": "Thử thách"}
+{"id": "RDS-00aff977b5cbe0a1bdc2", "vi": "Chơi một mình"}
+{"id": "RDS-34d28560c993085d8a7f", "vi": "Nhiều người chơi"}
+{"id": "RDS-dfff6757fe4b91fc1613", "vi": "<C3000> Chơi không dây"}
+{"id": "RDS-584bc88c0a9b78a4762c", "vi": "<C3000> Chơi Nintendo Wi-Fi Connection"}
+{"id": "RDS-2abc0c29a5b0b5be309a", "vi": "Đổi ngoại hình"}
+{"id": "RDS-62b8a6f9ef8b0084e4f1", "vi": "Chỉnh tin nhắn"}
+{"id": "RDS-6f1b9d59e562a7e08c1a", "vi": "Đồ có thể cất"}
+{"id": "RDS-db379364bc7e84c1c0c6", "vi": "Đồ trong kho"}
+{"id": "RDS-8070d5042e72d19e9973", "vi": "Xếp đội hình"}
+{"id": "RDS-3e11c50f5fd724429d92", "vi": "Chiêu mộ"}
+{"id": "RDS-52ca8b31b516854d4070", "vi": "Đổi Job thành viên"}
+{"id": "RDS-6a872042efa9618cb255", "vi": "Thông tin ứng viên"}
+{"id": "RDS-38b5a5a598744395bd6b", "vi": "Chỗ trống:"}
+{"id": "RDS-db0e1b3716ff26b1c5b2", "vi": "  Loại:"}
+{"id": "RDS-bfd414aca3891e97f899", "vi": "Xem Card"}
+{"id": "RDS-0cfdb3fa44ecd178078e", "vi": "Chọn Card"}
+{"id": "RDS-1f5e67fab4004739b7c5", "vi": "Thông tin"}
+{"id": "RDS-4cfd3028b84214c8277c", "vi": "Party"}
+{"id": "RDS-cd783bdc17f46cd83a32", "vi": "Cho rời đội"}
+{"id": "RDS-afcbba9204682ae22362", "vi": "Xem trang bị"}
+{"id": "RDS-b9c7f99443d1c5da1b8d", "vi": "Xem skill"}
+{"id": "RDS-9caef676684b672ef33f", "vi": "Danh sách skill"}
+{"id": "RDS-98c74c0ef6079a97eedf", "vi": "Ứng viên"}
+{"id": "RDS-327e5bb9e0c6381c12bb", "vi": "Chỗ còn trống"}
+{"id": "RDS-a9a09bfbc6266d2b701f", "vi": "Tên"}
+{"id": "RDS-6a7b32be50585c10e049", "vi": "Đội trưởng"}
+{"id": "RDS-458cc9bf3f7f185c132b", "vi": "Danh tiếng"}
+{"id": "RDS-42f85a565e78a7262376", "vi": "Thành viên"}
+{"id": "RDS-3c1d5726a458d79961f5", "vi": "Menu kho"}
+{"id": "RDS-c7e8fce7211e7e85ae11", "vi": "Menu thành viên"}
+{"id": "RDS-d0fcfb15ca11b5497a71", "vi": "Menu lưu"}
+{"id": "RDS-511bb26cb50b5fccd51b", "vi": "Chọn trang bị để cất."}
+{"id": "RDS-08206ad2e85b8d5e0695", "vi": "Chọn trang bị để lấy."}
+{"id": "RDS-afd64f374bc9d55edafc", "vi": "Chọn item để cất."}
+{"id": "RDS-b55acec83f2f7bb2e649", "vi": "Chọn item để lấy."}
+{"id": "RDS-0c3418528ac33cb3467b", "vi": "Chọn vật sưu tầm để cất."}
+{"id": "RDS-45c565ec244b029b21ac", "vi": "Chọn vật sưu tầm để lấy."}
+{"id": "RDS-4727965d0346c64aef6e", "vi": "Chọn thành viên party."}
+{"id": "RDS-78ebbc704fd2cfaee919", "vi": "Thông tin thành viên"}
+{"id": "RDS-d125c640c0d622303ffa", "vi": "Thông tin trang bị"}
+{"id": "RDS-78083816b45c3170061e", "vi": "Thông tin skill"}
+{"id": "RDS-e8dda7f15caf32f64abc", "vi": "Danh sách ứng viên"}
+{"id": "RDS-85d1e04b5093d41aaa46", "vi": "Thông tin ứng viên"}
+{"id": "RDS-8fb086fd9985fdc60201", "vi": "Không thể bỏ khỏi party."}
+{"id": "RDS-d2daeae52cfbbccad12f", "vi": "Party đã đủ người."}
+{"id": "RDS-3b0cf6eea7ad92344041", "vi": "Không thể cho rời đội."}
+{"id": "RDS-5f4a6ce45c584bd3bb15", "vi": "Guild đã đầy."}
+{"id": "RDS-f08ed6605d9edb76c997", "vi": "Đã cất trang bị."}
+{"id": "RDS-23d0c777d7f8ad949ffe", "vi": "Đã lấy trang bị."}
+{"id": "RDS-6039f8939b12d2813b29", "vi": "Đã cất item."}
+{"id": "RDS-d6608ca87f9adf7eca11", "vi": "Đã lấy item."}
+{"id": "RDS-e94fd9b539fb4b8548b5", "vi": "Đã cất Token."}
+{"id": "RDS-b9b2323d57e0508790e2", "vi": "Đã lấy Token."}
+{"id": "RDS-ae61d02d3ec46d8dfde3", "vi": "Túi đồ đã đầy."}
+{"id": "RDS-a84651dd33ec596f18a7", "vi": "Kho đã đầy."}
+{"id": "RDS-7b15f973a71bd33e1b51", "vi": "Cho thành viên rời đội?"}
+{"id": "RDS-a7766d6b82763605e9f2", "vi": "(Item đang trang bị sẽ mất.)"}
+{"id": "RDS-dd76680255fe4104bf3c", "vi": "Thành viên đã rời đội."}
+{"id": "RDS-5c89b490c7fc39d0c7a5", "vi": "Chiêu mộ?"}
+{"id": "RDS-33e88ee4f4829e2221ce", "vi": "Đã chiêu mộ thành viên."}
+{"id": "RDS-5e546f1c4f65f780aec4", "vi": "        Thủ đô Rune Midgard<CFFFD>               Prontera"}
+{"id": "RDS-3aa14a85bce55c7739bb", "vi": "              Thành phố phép thuật<CFFFD>                 Geffen"}
+{"id": "RDS-d936c38f2fa6b7f6575f", "vi": "             Thành phố sa mạc<CFFFD>               Morocc"}
+{"id": "RDS-8103d78a0c5e558f7988", "vi": "  Thủ đô Cộng hòa Schwaltzvalt<CFFFD>               Juno"}
+{"id": "RDS-bcfd83770a6324db8a0c", "vi": "            Thành phố công nghiệp<CFFFD>              Lighthalzen"}
+{"id": "RDS-02955b44ef195e802ed5", "vi": "             Yusidra Caves"}
+{"id": "RDS-d0911f89ca21bf36ee9c", "vi": "          Prontera Culvert"}
+{"id": "RDS-b46803b675a68e943553", "vi": "        West Prontera Forest"}
+{"id": "RDS-59281ed9ec1fb4292260", "vi": "           Mjolnir Dead Pit"}
+{"id": "RDS-275dadf5b898d20a191f", "vi": "         Sograt Desert - North"}
+{"id": "RDS-f46093c710c4a9fb5e95", "vi": "                Ant Hell"}
+{"id": "RDS-6bf11baed6159bd0a8cb", "vi": "         El Mes Gorge - North"}
+{"id": "RDS-ccd5da1110c57ed9add2", "vi": "         Somatology Laboratory"}
+{"id": "RDS-9281cbf962f8b106f0aa", "vi": "               Glast Heim"}
+{"id": "RDS-b7b8c93537c88851217d", "vi": "             Geffen Bridge"}
+{"id": "RDS-9a1fba00605dd84ea719", "vi": "            Mt. Mjolnir - East"}
+{"id": "RDS-9db73924620e74987f24", "vi": "              Mirage Tower"}
+{"id": "RDS-b323d2d07e112831736d", "vi": "              Mjolnir Pass"}
+{"id": "RDS-693b257cb867c5af664b", "vi": "          Glast Heim Underground"}
+{"id": "RDS-bb530b8d8f4e547017e3", "vi": "               Labyrinth"}
+{"id": "RDS-6fe24443fd276e1e5da3", "vi": "          East Prontera Woods"}
+{"id": "RDS-4071abb042e2724bbced", "vi": "            Mt. Mjolnir - West"}
+{"id": "RDS-27f0685feb95b4149589", "vi": "         El Mes Gorge - South"}
+{"id": "RDS-78d4122a2fc3085a5c8d", "vi": "         Sograt Desert - South"}
+{"id": "RDS-03111d7c7e4d3e12cd26", "vi": "             Eternal Sands"}
+{"id": "RDS-495b9abb3d90d0ae95ff", "vi": "Chiêu mộ đồng đội hoặc vào party."}
+{"id": "RDS-2a692e4b68c53439abaf", "vi": "Đang chờ đồng đội<CFFFD>tập hợp..."}
+{"id": "RDS-5747a0308b95b608f84e", "vi": "Đang tìm phòng..."}
+{"id": "RDS-ebccd8ca8c08009222ca", "vi": "Đồng đội đã tập hợp đủ.<CFFFD>Chạm vào “Xác nhận”."}
+{"id": "RDS-8103a21f670e0b23b8ef", "vi": "Chiêu mộ đồng đội."}
+{"id": "RDS-0a29e1b5247cebb8011f", "vi": "Tham gia party."}
+{"id": "RDS-a04c7a8f7d50a8982a9d", "vi": "Đổi trang bị và<CFFFD>cài đặt phím tắt."}
+{"id": "RDS-4bb8ebe995d51d39c3a9", "vi": "Không thể mở menu<CFFFD>khi đang chơi Mirage Tower."}
+{"id": "RDS-6c30fd10e1d28706130c", "vi": "Chọn tầng."}
+{"id": "RDS-30ed68cbb1d79e229d00", "vi": "Màn hình chuẩn bị"}
+{"id": "RDS-2ebf2ed990916c4d3743", "vi": "Tầng 1"}
+{"id": "RDS-d99b535a1350e88387f6", "vi": "Tầng 16"}
+{"id": "RDS-13aa7a15967243ba64b6", "vi": "Tầng 31"}
+{"id": "RDS-388b956a06d1282ea80f", "vi": "Màn hình menu"}
+{"id": "RDS-d07c459a0bf247339116", "vi": "Đã chuẩn bị xong"}
+{"id": "RDS-d5f493f2467db8221aa7", "vi": "Đã nhận phần thưởng.<CFFFD>Hãy đấu giá những item<CFFFD>bạn muốn lấy."}
+{"id": "RDS-27027645ce36c0037a7d", "vi": "Đã nhận phần thưởng.<CFFFD>Hãy đấu giá hoặc bỏ qua<CFFFD>item trước khi hết giờ."}
+{"id": "RDS-ca6a4c9a0fdd3ea490d2", "vi": "Đã nhận phần thưởng.<CFFFD>Đấu giá hoặc bỏ qua item."}
+{"id": "RDS-4bf1cfdb62cdee0b9ceb", "vi": "Chọn lên<CFFFD>tầng tiếp theo hoặc<CFFFD>kết thúc phiên chơi."}
+{"id": "RDS-9ae4759acc4a3dcb2991", "vi": "Cần tiến xa hơn trong<CFFFD>cốt truyện chính để<CFFFD>mở tầng tiếp theo."}
+{"id": "RDS-250ec443f60d2d61b067", "vi": "Tiến độ hiện tại<CFFFD>sẽ được lưu lại."}
+{"id": "RDS-9116d85252d0fdd93dd8", "vi": "Bạn nhận được item đặc biệt!"}
+{"id": "RDS-5e1177bddd372db499aa", "vi": "Bạn nhận được EXP!"}
+{"id": "RDS-5351f0677785172ff3dd", "vi": "Bạn nhận được<CFFFD>các item thưởng sau."}
+{"id": "RDS-1f6887c6be7f8f972194", "vi": "Không lưu thì tiến độ<CFFFD>sẽ mất.<CFFFD>Bạn chắc chứ?"}
+{"id": "RDS-99474d6f015cda6b66fe", "vi": "Bạn nhận được<CFFFD><CFFFD>Base Level EXP và<CFFFD><CFFFD>Job Level EXP."}
+{"id": "RDS-c835d9ecb74ffb3d23af", "vi": "Item thưởng"}
+{"id": "RDS-07b09787b48c7422bc80", "vi": "EXP nhận được"}
+{"id": "RDS-c3ce527c555aabbd0a93", "vi": "Item đặc biệt"}
+{"id": "RDS-198d376636c8d423b0ed", "vi": "Item đã nhận"}
+{"id": "RDS-ba308d1507a46aedfb62", "vi": "Màn hình xác nhận"}
+{"id": "RDS-4943c0c1d69f447e5920", "vi": "Lưu dữ liệu."}
+{"id": "RDS-93737bbc0d2f264bb8c8", "vi": "Đấu giá hoặc bỏ qua."}
+{"id": "RDS-a0a3251eb25d1f9c34a7", "vi": "Đấu giá"}
+{"id": "RDS-b47fcae4683af4264a7c", "vi": "Đấu giá tất cả"}
+{"id": "RDS-d6e618c1e939e075f3e4", "vi": "Bỏ qua"}
+{"id": "RDS-0582b2192882aa249e8f", "vi": "Đã nhận"}
+{"id": "RDS-dd41c6048f1ef35a6ef1", "vi": "Lên tầng tiếp"}
+{"id": "RDS-d2a8e8cdf02520b74a80", "vi": "Kết thúc phiên"}
+{"id": "RDS-dc4367f8f73b8fb7cc56", "vi": "Đang chờ mọi người<CFFFD>xác nhận item."}
+{"id": "RDS-c91478d143ae687023d1", "vi": "Đã xảy ra lỗi."}
+{"id": "RDS-26346843653fa8ad7a3f", "vi": "Mã lỗi:"}
+{"id": "RDS-edd22a0ffbc2fb2795fb", "vi": "Không thể kết nối Nintendo<CFFFD>Wi-Fi Connection. Để được hỗ trợ,<CFFFD>xem sách hướng dẫn đi kèm<CFFFD>hoặc truy cập<CFFFD>support.nintendo.com."}
+{"id": "RDS-91cf0f4923ca886e9568", "vi": "Nintendo Wi-Fi Connection<CFFFD>đang quá tải hoặc<CFFFD>dịch vụ bị gián đoạn.<CFFFD>Hãy thử lại sau. Để<CFFFD>được hỗ trợ, truy cập<CFFFD>support.nintendo.com."}
+{"id": "RDS-221b69ae987e73b4c838", "vi": "ID Nintendo Wi-Fi Connection<CFFFD>đã bị xóa do không sử dụng<CFFFD>trong thời gian dài. Để<CFFFD>được hỗ trợ, truy cập<CFFFD>support.nintendo.com."}
+{"id": "RDS-074a0015ae8dbad60bce", "vi": "Dịch vụ Nintendo Wi-Fi<CFFFD>Connection của trò chơi này<CFFFD>đã ngừng hoạt động.<CFFFD>Truy cập support.nintendo.com<CFFFD>để xem danh sách phần mềm<CFFFD>còn hỗ trợ dịch vụ này."}
+{"id": "RDS-fb6e086e1e53f13811fa", "vi": "Điểm truy cập đang bận,<CFFFD>không thể kết nối.<CFFFD>Hãy thử lại sau. Xem<CFFFD>support.nintendo.com."}
+{"id": "RDS-bb7366a4b32d8782629e", "vi": "Không tìm thấy điểm truy cập<CFFFD>trong phạm vi kết nối.<CFFFD>Hãy đến gần hơn và thử lại.<CFFFD>Xem support.nintendo.com."}
+{"id": "RDS-7fd060bc6cd0e928e7ba", "vi": "Không có điểm truy cập<CFFFD>tương thích ở gần.<CFFFD>Kiểm tra cài đặt kết nối<CFFFD>rồi thử lại.<CFFFD>Xem support.nintendo.com."}
+{"id": "RDS-2bbadc8b635ee43075c8", "vi": "Không thể kết nối Nintendo<CFFFD>Wi-Fi Connection. Hãy kiểm tra<CFFFD>cài đặt mạng. Xem<CFFFD>support.nintendo.com."}
+{"id": "RDS-2ec55c5030c22932e543", "vi": "Không có phản hồi. Người chơi<CFFFD>có thể đã ngắt kết nối,<CFFFD>hoặc bạn đã bị xóa<CFFFD>khỏi danh sách bạn bè của họ."}
+{"id": "RDS-7f940d6321c4f5219e3a", "vi": "Lỗi liên lạc.<CFFFD>Bạn đã ngắt kết nối khỏi<CFFFD>Nintendo Wi-Fi Connection."}
+{"id": "RDS-e5580a9fb2e5bdb933fd", "vi": "Lỗi liên lạc. Để được hỗ trợ,<CFFFD>truy cập support.nintendo.com."}
+{"id": "RDS-1913e839db0c1da4c2e7", "vi": "Không thể dùng Nintendo Wi-Fi<CFFFD>Connection vì đã xảy ra lỗi.<CFFFD>Tắt nguồn rồi<CFFFD>thử lại."}
+{"id": "RDS-b422f86ce166b7e8643f", "vi": "Lỗi kết nối.<CFFFD>Chạm vào màn hình cảm ứng<CFFFD>để trở lại<CFFFD>menu kết nối."}
+{"id": "RDS-52d9cd76190583e8c246", "vi": "Bạn đã mất kết nối vì<CFFFD>không vào được phòng."}
+{"id": "RDS-e04c46d49319a09da0d0", "vi": "Hãy lưu game trước khi<CFFFD>thử kết nối với<CFFFD>Nintendo Wi-Fi Connection."}
+{"id": "RDS-44085f476b1670094087", "vi": "Kết nối Nintendo WFC"}
+{"id": "RDS-d8a43288b2bf2d24dbd8", "vi": "Cài đặt bạn bè"}
+{"id": "RDS-7e2e057a7c3b91ba7947", "vi": "Cài đặt Nintendo WFC"}
+{"id": "RDS-08306a5fdf70a4760fbd", "vi": "Đang kết nối với Nintendo<CFFFD>Wi-Fi Connection"}
+{"id": "RDS-f6c33ff205a30241071d", "vi": "Đang ngắt kết nối với<CFFFD>Nintendo Wi-Fi Connection"}
+{"id": "RDS-d2636c4bf65d5c1bb7fe", "vi": "Dữ liệu Nintendo Wi-Fi<CFFFD>Connection có thể đã bị xóa.<CFFFD>Hãy kiểm tra cài đặt<CFFFD>mạng trong phần thiết lập<CFFFD>Nintendo Wi-Fi Connection."}
+{"id": "RDS-2af013f963ef69b6cd78", "vi": "Kết nối tới<CFFFD>Nintendo Wi-Fi Connection?"}
+{"id": "RDS-6b56168c77ff558a0a38", "vi": "Nintendo Wi-Fi Connection<CFFFD>ghép máy Nintendo DS và<CFFFD>Game Card thành một bộ.<CFFFD>Lưu thông tin người dùng<CFFFD>của Nintendo Wi-Fi<CFFFD>Connection vào Game Card rồi<CFFFD>kết nối?"}
+{"id": "RDS-f3e404ac650ef6819294", "vi": "Dữ liệu Nintendo Wi-Fi<CFFFD>Connection của máy này<CFFFD>đã lưu vào Game Card.<CFFFD>Từ giờ, hãy dùng<CFFFD>chính máy này để kết nối<CFFFD>Nintendo Wi-Fi Connection."}
+{"id": "RDS-043281ac17c18b1ef929", "vi": "Không thể kết nối Nintendo<CFFFD>Wi-Fi Connection vì<CFFFD>dữ liệu người dùng trên máy<CFFFD>và trên Game Card<CFFFD>không trùng khớp."}
+{"id": "RDS-6dfeb4bec3078975971b", "vi": "Cập nhật dữ liệu người dùng<CFFFD>Nintendo Wi-Fi Connection<CFFFD>trên Game Card? Nếu cập nhật<CFFFD>dữ liệu người dùng, bạn<CFFFD>sẽ mất toàn bộ dữ liệu<CFFFD>đã dùng để kết nối<CFFFD>Nintendo Wi-Fi Connection trước đây."}
+{"id": "RDS-4060a159191bd128364b", "vi": "Danh sách bạn bè hiện tại<CFFFD>vẫn dùng được sau<CFFFD>khi cập nhật."}
+{"id": "RDS-694c9c0ae2c3e702fc6f", "vi": "Tuy nhiên, để chơi<CFFFD>cùng bạn bè qua Nintendo<CFFFD>Wi-Fi Connection, bạn bè<CFFFD>sẽ phải thêm lại bạn<CFFFD>vào danh sách của họ."}
+{"id": "RDS-56a9ecdd467f7c945ebc", "vi": "Vẫn muốn cập nhật?"}
+{"id": "RDS-e07c8bb76032e0acce5d", "vi": "Đang kết nối tới<CFFFD>Nintendo Wi-Fi Connection...<CFFFD>Vui lòng chờ..."}
+{"id": "RDS-532ed2fd41ff90fde3b8", "vi": "Không thể dùng Nintendo Wi-Fi<CFFFD>Connection với tên này.<CFFFD>Hãy đổi tên người dùng."}
+{"id": "RDS-3a210c0e0e1d36cd8c66", "vi": "Ngắt kết nối khỏi<CFFFD>Nintendo Wi-Fi Connection?"}
+{"id": "RDS-562f9c39d8b9c80e6a0b", "vi": "Đang ngắt kết nối khỏi<CFFFD>Nintendo Wi-Fi Connection."}
+{"id": "RDS-1612d7378c6a00f50305", "vi": "Đã ngắt kết nối khỏi<CFFFD>Nintendo Wi-Fi Connection."}
+{"id": "RDS-db9ed132729cb6563fbf", "vi": "Đang tự động lưu.<CFFFD>Đừng tắt nguồn."}
+{"id": "RDS-12e0978e478967e5a41d", "vi": "Tự động lưu thất bại."}
+{"id": "RDS-b5fc44b2575670224244", "vi": "Không ghi được dữ liệu."}
+{"id": "RDS-5a743855492df291db31", "vi": "Thao tác đã hết thời gian."}
+{"id": "RDS-d6f1900cdb34aafa9430", "vi": "Tắt nguồn rồi<CFFFD>lắp lại Game Card."}
+{"id": "RDS-040c35ecc7f0ae2d5f61", "vi": "Đang tìm kiếm..."}
+{"id": "RDS-9103316eb9ee7f04550f", "vi": "Đã tìm thấy đồng đội!"}
+{"id": "RDS-a2cb6351a4a7265cb05d", "vi": "Chọn điều kiện tìm đồng đội."}
+{"id": "RDS-50a170ab67b3668f54d1", "vi": "Đang tìm đồng đội...<CFFFD>Vui lòng chờ..."}
+{"id": "RDS-2ca0ce492b4376085d55", "vi": "Tìm đồng đội"}
+{"id": "RDS-2d73479424e6258ad0b1", "vi": "Tìm bạn bè"}
+{"id": "RDS-516bf2034d0bb95e0e62", "vi": "Cài đặt bạn bè tại đây."}
+{"id": "RDS-a7799e4a80f60d292c24", "vi": "Có thể thêm tối đa 12 bạn.<CFFFD>Nếu thêm nữa, người có trong<CFFFD>danh sách lâu nhất sẽ bị xóa."}
+{"id": "RDS-d79bb723584d7bdbfa67", "vi": "Xóa bạn khỏi danh sách."}
+{"id": "RDS-ad0f0793fb24985dbc55", "vi": "Danh sách chưa có bạn bè."}
+{"id": "RDS-31ea463361d9c0d0b423", "vi": "Xem Friend Code."}
+{"id": "RDS-f46d19ca413da7c587d6", "vi": "Nhập Friend Code."}
+{"id": "RDS-34efef43d8fa32f84ff4", "vi": "Xóa người bạn này<CFFFD>khỏi danh sách?"}
+{"id": "RDS-5a25cec1dab8a493e07a", "vi": "Đã xóa khỏi danh sách bạn bè."}
+{"id": "RDS-60ae7ab8da1aea91ce46", "vi": "Chưa có Friend Code.<CFFFD>Hãy kết nối Nintendo<CFFFD>Wi-Fi Connection để lấy mã."}
+{"id": "RDS-f98c578ec67a93142c43", "vi": "Friend Code của bạn."}
+{"id": "RDS-763911a5d4bc9811bf0f", "vi": "Friend Code không hợp lệ."}
+{"id": "RDS-fe984db141b4eff4561e", "vi": "Đã nhập Friend Code.<CFFFD>Giờ hãy kết nối Nintendo<CFFFD>Wi-Fi Connection."}
+{"id": "RDS-7d9a7724437d8f04f5c7", "vi": "Danh sách bạn bè đã đầy.<CFFFD>Xóa một người<CFFFD>để thêm bạn mới."}
+{"id": "RDS-89ba9248ca8e450170d1", "vi": "Mã này đã<CFFFD>được đăng ký."}
+{"id": "RDS-5d8fb3d93c2c187dc2b9", "vi": "Màn hình tùy chọn bạn bè"}
+{"id": "RDS-d9e49939692c158d8026", "vi": "Danh sách bạn bè"}
+{"id": "RDS-b5a22332e43a7b519543", "vi": "Friend Code"}
+{"id": "RDS-d4549fcf4f6254c43282", "vi": "Nhập Friend Code"}
+{"id": "RDS-78a10348a87bb5fdd970", "vi": "Xác nhận Friend Code"}
+{"id": "RDS-eeba25589f5ec491b3b0", "vi": "Có thể sửa tin nhắn<CFFFD>và gán vào các nút<CFFFD>phím tắt tại đây. Nhấn<CFFFD>ABXY để đặt phím tắt."}
+{"id": "RDS-114d7362faa5215ce9a2", "vi": "Chỉnh tin nhắn.<CFFFD>Chỉ dùng được tin đã sửa<CFFFD>trong “Co-op Mode”."}
+{"id": "RDS-61b1e62a4da86ee1be42", "vi": "Chỉnh sửa"}
+{"id": "RDS-1bef293e0dcae397452f", "vi": "Mặc định"}
+{"id": "RDS-97162baae1a086b15cdf", "vi": "Tạo nhân vật để sử dụng<CFFFD>trong Mirage Tower."}
+{"id": "RDS-6110cd57f60114ed2f15", "vi": "Đặt tên nhân vật."}
+{"id": "RDS-7c7c36cf16645d4b7837", "vi": "Chọn kiểu tóc."}
+{"id": "RDS-d48ccfebd359e5019eb8", "vi": "Chọn màu tóc."}
+{"id": "RDS-fce2fe99485da2dceddf", "vi": "Chọn giới tính."}
+{"id": "RDS-1573d438a8b3dbf35800", "vi": "Nhân vật này sẽ được dùng<CFFFD>trong Mirage Tower.<CFFFD>Tiếp tục?"}
+{"id": "RDS-dfcf6c32d6c46ef63cff", "vi": "Thao tác này sẽ hủy mọi<CFFFD>thay đổi. Tiếp tục?"}
+{"id": "RDS-0813b7c0e825e36ca421", "vi": "Đổi giới tính cũng sẽ<CFFFD>đổi kiểu tóc.<CFFFD>Tiếp tục?"}
+{"id": "RDS-af43a830ceaf8145273a", "vi": "Tạo nhân vật"}
+{"id": "RDS-7b66a4b28cb3f4ef0432", "vi": "Kiểu tóc"}
+{"id": "RDS-4ef6008c6c4214e2d5fe", "vi": "Màu tóc"}
+{"id": "RDS-6de3c69710c971cb2f52", "vi": "Giới tính"}
+{"id": "RDS-588ca5f82cac5c74b0d6", "vi": "Vui lòng chọn kiểu tóc."}
+{"id": "RDS-e8792656463985e4cc9e", "vi": "Vui lòng chọn màu tóc."}
+{"id": "RDS-a8201722b487a20e1c75", "vi": "Vui lòng chọn giới tính."}
+{"id": "RDS-0090f355e1b87001a0ac", "vi": "Tóc"}
+{"id": "RDS-a2c976cd40d8b84a24ba", "vi": "Màu"}
+{"id": "RDS-0bf6d7ab88656c08196a", "vi": "Tóc 1"}
+{"id": "RDS-0b6ab86f4380f85abab7", "vi": "Tóc 2"}
+{"id": "RDS-fdf55d86978d62cb0a77", "vi": "Tóc 3"}
+{"id": "RDS-0c376747fd83ab05b251", "vi": "Tóc 4"}
+{"id": "RDS-b11dc2705e63acacec90", "vi": "Tóc 5"}
+{"id": "RDS-d5155fb8eb7fbd6dec25", "vi": "Tóc 6"}
+{"id": "RDS-37c89c5a261641a67a3a", "vi": "Tóc 7"}
+{"id": "RDS-9d9be88e0bd72f5d48a8", "vi": "Tóc 8"}
+{"id": "RDS-cf2f8ad9a77389bb0434", "vi": "Tóc 9"}
+{"id": "RDS-c11c4ec80053a53ed692", "vi": "Tóc 10"}
+{"id": "RDS-4d3785b0803ec68e0b78", "vi": "Tóc 11"}
+{"id": "RDS-4145168902bc7a99b782", "vi": "Tóc 12"}
+{"id": "RDS-499815f1d4c46e1687e6", "vi": "Tóc 13"}
+{"id": "RDS-bda38dc9140c33d063bf", "vi": "Tóc 14"}
+{"id": "RDS-f78bd65e078fdc093612", "vi": "Tóc 15"}
+{"id": "RDS-4df63bb897a8519d2688", "vi": "Tóc 16"}
+{"id": "RDS-9dacb5c0f6852979ec3b", "vi": "Tóc 17"}
+{"id": "RDS-12da9354893beb72f008", "vi": "Tóc 18"}
+{"id": "RDS-31533f0ac077a1ba763a", "vi": "Tóc 19"}
+{"id": "RDS-c7ebd75b8810a04078bd", "vi": "Tóc 20"}
+{"id": "RDS-da7b19352c7fcee57493", "vi": "Tóc 21"}
+{"id": "RDS-7b2e7d19af9a69619598", "vi": "Tóc 22"}
+{"id": "RDS-037b4714b1e6d5710eaa", "vi": "Tóc 23"}
+{"id": "RDS-6d162b002dea14c223b0", "vi": "Màu 1"}
+{"id": "RDS-b3c50726006f9e829bed", "vi": "Màu 2"}
+{"id": "RDS-1ddcc3959c7cc0855a61", "vi": "Màu 3"}
+{"id": "RDS-7a96c6395b8fedd0bb89", "vi": "Màu 4"}
+{"id": "RDS-058d7a2b05e2134b2f99", "vi": "Màu 5"}
+{"id": "RDS-c78010fec12d597d8805", "vi": "Màu 6"}
+{"id": "RDS-a6c578ddf6fa6d34e094", "vi": "Màu 7"}
+{"id": "RDS-7b9ebfc44bd04398f9dc", "vi": "Màu 8"}
+{"id": "RDS-c83f6fc3a55e47a6e431", "vi": "Nam"}
+{"id": "RDS-da8c2102e5fa27888012", "vi": "Nữ"}
+{"id": "RDS-c5b8b3e64a1d5aca9543", "vi": "Bạn muốn<CFFFD>chơi tiếp hay thoát?"}
+{"id": "RDS-ab70850d0c1bc8f954c2", "vi": "Tiếp tục"}
+{"id": "RDS-8ebe6ce7dce0d4481e60", "vi": "Thoát"}
+{"id": "RDS-ec68b57ad58bff4991e9", "vi": "Thời gian"}
+{"id": "RDS-97d79f237c82cccb8103", "vi": "Tiếp"}
+{"id": "RDS-70b376b64a1470c9803e", "vi": "Xóa"}
+{"id": "RDS-b0d416727696d7840870", "vi": "Kết nối không dây DS"}
+{"id": "RDS-39064feb13dd42bda63d", "vi": "Kết nối Nintendo WFC"}
+{"id": "RDS-2ac35dbfe6f391e8df29", "vi": "Chơi nhiều người Nintendo WFC"}
+{"id": "RDS-06855a6b45b01cd0fe2d", "vi": "Vui lòng chờ..."}
+{"id": "RDS-762b75f3509740dc9abd", "vi": "Bạn"}
+{"id": "RDS-2c9533dd4aad2ecb7691", "vi": "Phân bổ Status Point<CFFFD>Hãy phân bổ điểm<CFFFD>vào các chỉ số để<CFFFD>thiết lập nhân vật ban đầu."}
+{"id": "RDS-cc87ba4d74f91b34385d", "vi": "Item cốt truyện<CFFFD><CFFFD>Trong game có những item<CFFFD>đặc biệt giúp bạn hiểu<CFFFD>thêm về cốt truyện."}
+{"id": "RDS-45a9b4288b2e496d7e40", "vi": "Chọn item để tìm<CFFFD>hiểu thêm."}
+{"id": "RDS-58310c2726359bd633a4", "vi": "ABC"}
+{"id": "RDS-f6dcd0a74afa325d9ae2", "vi": "Nói chuyện"}
+{"id": "RDS-6bfeef18a6860bb372a9", "vi": "Quay lại"}
+{"id": "RDS-df2cd51a462a762d0b4d", "vi": "Xóa"}
+{"id": "RDS-fa40a982f19d56dd6917", "vi": "Sm"}
+{"id": "RDS-57b7276dd58c91e09a5f", "vi": "A/a"}
+{"id": "RDS-873c51a01ff95af96ce5", "vi": "Dùng tên này?"}
+{"id": "RDS-c93e6ff69b3c673f6e62", "vi": "Không thể dùng tên này."}
+{"id": "RDS-7fc56d78826faee92139", "vi": "Hãy nhập tên khác."}
+{"id": "RDS-2c76a5ae0dc240164a8a", "vi": "Đặt tên"}
+{"id": "RDS-e4d320f259538af58b5c", "vi": "Nhập tên Guild."}
+{"id": "RDS-38fde10ed18ac810695d", "vi": "Nhập tên."}
+{"id": "RDS-f8c128d0d51c43908e86", "vi": "Đòn đánh"}
+{"id": "RDS-14603332f301a5563d95", "vi": "Tốc độ tin nhắn"}
+{"id": "RDS-59e0318926ccbc55b189", "vi": "Cửa sổ trợ giúp"}
+{"id": "RDS-5c293ce3aee5f5ab5463", "vi": "Thủ công"}
+{"id": "RDS-e1366aea85fa78bda82e", "vi": "Tự động"}
+{"id": "RDS-763c9d60b2b71ae57115", "vi": "Chậm"}
+{"id": "RDS-68b44a379eb499e2dfb2", "vi": "Bình thường"}
+{"id": "RDS-935ec920fd0825e86048", "vi": "Nhanh"}
+{"id": "RDS-eff9d8d68987287ba668", "vi": "Tắt"}
+{"id": "RDS-7d979ef955a4ea3cf82a", "vi": "Bật"}
+{"id": "RDS-ee6a7ff02fd19af01894", "vi": "Các item này xuất hiện<CFFFD>khi hoàn thành cốt truyện.<CFFFD>Chúc săn đồ may mắn!"}
+{"id": "RDS-ce9e191638f6bb90dd56", "vi": "Item cốt truyện"}
+{"id": "RDS-e48aaefef22c90fc37fe", "vi": "Xem item cốt truyện"}
+{"id": "RDS-fa67ca04d2b31f07b03b", "vi": "Xin lưu ý rằng<CFFFD>một số chức năng/hiệu ứng<CFFFD>item có thể khác bản PC<CFFFD>của Ragnarok Online."}
+{"id": "RDS-368790c2ddc65109b08a", "vi": "Một thanh kiếm chuôi đỏ<CFFFD>độc đáo, lưỡi đã gãy.<CFFFD>Nó từng thuộc về bố của <CFFFB><CFFFD>trước khi ông trở thành<CFFFD>Dark Knight.<CFFFD><CFFFB> vẫn giữ thanh kiếm<CFFFD>để tưởng nhớ bố."}
+{"id": "RDS-91fbe990e98f58d29db3", "vi": "Lấy từ tế đàn Glast Heim,<CFFFD>nó tỏa hào quang linh thiêng.<CFFFD>Tương truyền nó đến từ<CFFFD>Vidofnir, chim ưng thần thoại<CFFFD>đậu trên đỉnh Yggdrasil."}
+{"id": "RDS-06d1578fb2b0fd532306", "vi": "Những cổ thư tìm thấy<CFFFD>trong Yusidra Caves kể<CFFFD>về các Shaman thời xưa,<CFFFD>từng hưng thịnh nhờ<CFFFD>khả năng điều khiển linh hồn.<CFFFD>Các văn bản rất hiếm,<CFFFD>nên cả bộ cực kỳ quý giá."}
+{"id": "RDS-13e303142dadbe5d4524", "vi": "Chơi tiếp và xóa<CFFFD>dữ liệu lưu tạm?"}
+{"id": "RDS-d8b594fad669830006b3", "vi": "Xóa dữ liệu lưu tạm?"}
+{"id": "RDS-5424c973e2ebc6cebd95", "vi": "Không có dữ liệu lưu tạm."}
+{"id": "RDS-ef8298e88a4af68dcc87", "vi": "Dữ liệu lưu tạm đã hỏng."}
+{"id": "RDS-b302389840011216bed0", "vi": "Tải thất bại.<CFFFD>Thao tác đã hết thời gian."}
+{"id": "RDS-c6c51da8ecba93475e37", "vi": "Game Card lắp chưa đúng.<CFFFD>Tắt nguồn rồi lắp lại<CFFFD>Game Card của DS."}
+{"id": "RDS-b111f9948d74e38b686a", "vi": "Tải thất bại.<CFFFD>Không đọc được dữ liệu."}
+{"id": "RDS-c5f79d89ededbdb37252", "vi": "Dữ liệu giả lập"}
+{"id": "RDS-bc542161a99e3f8074a1", "vi": "Silence"}
+{"id": "RDS-1e6694f87fbf6e785c9c", "vi": "Curse"}
+{"id": "RDS-e57eb1f71b93415f0a8d", "vi": "Confusion"}
+{"id": "RDS-33ee77291a5bb6f805dd", "vi": "Petrify"}
+{"id": "RDS-bd335e17b02414ccbb2b", "vi": "Freeze"}
+{"id": "RDS-1f7d16294c27ad4b138f", "vi": "Stun"}
+{"id": "RDS-0a869734a1811b536ae4", "vi": "Sleep"}
+{"id": "RDS-e16b581ff72e814f3f07", "vi": "Poison.<CFFFD>HP giảm dần."}
+{"id": "RDS-2d82664cb821ee64efc9", "vi": "Silence.<CFFFD>Không dùng được skill."}
+{"id": "RDS-738d268fe5bf02694ef9", "vi": "Blind.<CFFFD>ACR và EVD giảm."}
+{"id": "RDS-2e62a9f89a5461feb737", "vi": "Curse.<CFFFD>MSPD giảm."}
+{"id": "RDS-83c1ac049d0bcea26a05", "vi": "Confusion.<CFFFD>Cản trở mọi hành động."}
+{"id": "RDS-7b0a7e3672ad152a88ee", "vi": "Undead.<CFFFD>Biến thành zombie."}
+{"id": "RDS-3b0581469cdcb84113ce", "vi": "Petrify.<CFFFD>Hóa đá."}
+{"id": "RDS-14625097df11433516ad", "vi": "Freeze.<CFFFD>Hóa băng."}
+{"id": "RDS-18b16a1206d0cda613d2", "vi": "Stun.<CFFFD>Khiến mục tiêu bất động."}
+{"id": "RDS-aec30b7f5a083ba6d492", "vi": "Sleep.<CFFFD>Khiến bạn ngủ."}
+{"id": "RDS-211e31ac1139667bd841", "vi": "Nhân viên Kafra<C3000><CFFFD>Bạn có thể mua vũ khí<CFFFD>và giáp tại đây."}
+{"id": "RDS-46eb52974761470d644d", "vi": "Nhân viên Kafra<C3000><CFFFD>Ở đây bán Potion hồi phục<CFFFD>và nhiều item khác."}
+{"id": "RDS-d117a49aa8c0e487f821", "vi": "Nhân viên Kafra<C3000><CFFFD>Nơi mọi người thường tụ họp.<CFFFD>Bạn có thể tìm việc ở đây."}
+{"id": "RDS-29fd932ba0f6f225b1a5", "vi": "Nhân viên Kafra<C3000><CFFFD>Nơi bạn có thể nghỉ ngơi<CFFFD>và hồi HP, SP."}
+{"id": "RDS-122a4f5420a86a107fbf", "vi": "Nhân viên Kafra<C3000><CFFFD>Bạn có thể nâng cấp vũ khí<CFFFD>và giáp tại đây."}
+{"id": "RDS-d63d138100009dc8f1f5", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến<CFFFD>the <CFFF2>East Prontera Woods<CFFF4>."}
+{"id": "RDS-f3f337c0029576a7f8ad", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến<CFFFD>the <CFFF2>West Prontera Woods<CFFF4>."}
+{"id": "RDS-49c562f324da974ad02c", "vi": "El Mes Gorge - North"}
+{"id": "RDS-7da782c4d943c79401fd", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến<CFFFD>the <CFFF2>El Mes Gorge - North<CFFF4>."}
+{"id": "RDS-a2dfa0f8c228b193c1a9", "vi": "El Mes Gorge - South"}
+{"id": "RDS-3937e83309ea27ab1dcc", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến<CFFFD>the <CFFF2>El Mes Gorge - South<CFFF4>."}
+{"id": "RDS-e37fc7c557f589cc02bb", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến the <CFFF2>Eternal Sands<CFFF4>.<CFFFD>Đừng để bị lạc nhé."}
+{"id": "RDS-e4519779d8e0654eafe1", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến<CFFFD>the <CFFF2>Geffen Bridge<CFFF4>."}
+{"id": "RDS-f298832b59abb5532c24", "vi": "Cổng Somatology"}
+{"id": "RDS-7cc1e992e4d75d2dfcd9", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến cổng trước<CFFFD>the <CFFF2>Somatology Laboratory<CFFF4>."}
+{"id": "RDS-2202e7d00856c1a69f6d", "vi": "Lối sau Somatology"}
+{"id": "RDS-0a0bf85d88facd825000", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến cửa sau<CFFFD>of the <CFFF2>Somatology Laboratory<CFFF4>."}
+{"id": "RDS-bf06bd7fff9c075c90be", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Swordsman\" or \"Knight.\""}
+{"id": "RDS-7c9f994dca366355a316", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Magician\" or \"Wizard.\""}
+{"id": "RDS-5fda722198231dac3f93", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Acolyte\" or \"Priest.\""}
+{"id": "RDS-a75fd449b8897f7de91a", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Archer\" or \"Hunter.\""}
+{"id": "RDS-500296e53ef9ca875836", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Thief\" or \"Assassin.\""}
+{"id": "RDS-d582cc4916057936fafc", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Merchant\" or \"Blacksmith.\""}
+{"id": "RDS-71f39e9bace5b1919e87", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Taekwon Kid\" or \"Taekwon Master.\""}
+{"id": "RDS-3198962c69e29e4bcb3d", "vi": "Nhân viên Kafra<C3000><CFFFD>Bạn có thể lưu tiến độ<CFFFD>bằng cách tạo tệp lưu."}
+{"id": "RDS-8a3596b327319b5e5fdf", "vi": "Nhà"}
+{"id": "RDS-160f057d0fecc5f41fd7", "vi": "Nhân viên Kafra<C3000><CFFFD>Đây là nhà riêng."}
+{"id": "RDS-f41e25fe9f804db2aca3", "vi": "Chủ tiệm item"}
+{"id": "RDS-53b23544e517f73c72d5", "vi": "Nhân viên Kafra<C3000><CFFFD>Đây là nhà riêng của<CFFFD>chủ tiệm item."}
+{"id": "RDS-bca4e63fe2b7e2b4781b", "vi": "Chủ tiệm vũ khí"}
+{"id": "RDS-d073a01afd9840a1b42c", "vi": "Nhân viên Kafra<C3000><CFFFD>Đây là nhà riêng của<CFFFD>chủ tiệm vũ khí."}
+{"id": "RDS-eabee1871e5a34877f46", "vi": "Trụ sở Guild"}
+{"id": "RDS-7d60700b0f4cdb6a9808", "vi": "Nhân viên Kafra<C3000><CFFFD>Đây là trụ sở<CFFFD>Guild của bạn."}
+{"id": "RDS-29886b7ff1f43971925c", "vi": "Bến cảng"}
+{"id": "RDS-a813d1f2a2dc62b7b3a3", "vi": "Nhân viên Kafra<C3000><CFFFD>Bạn có thể lên airship đi<CFFFD>for <CFFF2>Juno<CFFF4> here."}
+{"id": "RDS-8d2c3cd10a841e6f0c88", "vi": "Nhân viên Kafra<C3000><CFFFD>Bạn có thể lên airship đi<CFFFD>for <CFFF2>Prontera<CFFF4> here."}
+{"id": "RDS-74f89b442a11262ed544", "vi": "Nơi trú ẩn của Lughill"}
+{"id": "RDS-fddcff92bcb8f92ef4e9", "vi": "Nhân viên Kafra<C3000><CFFFD>Đây là nơi trú ẩn của ông Lughill."}
+{"id": "RDS-0488c6f5534393a6dbe2", "vi": "Đoàn Hiệp sĩ"}
+{"id": "RDS-1bcc80964ea78fc7293e", "vi": "Nhân viên Kafra<C3000><CFFFD>Đây là cơ sở của Đoàn Hiệp sĩ."}
+{"id": "RDS-9c4a00715134e7aa8099", "vi": "Các cửa tiệm"}
+{"id": "RDS-e852f3c12a4c11fde106", "vi": "Nhân viên Kafra<C3000><CFFFD>Bạn có thể ghé nhiều tiệm ở đây."}
+{"id": "RDS-76ecd3df73b51db8ad12", "vi": "Guild nghề nghiệp"}
+{"id": "RDS-fbc89e56a51eb53c1b68", "vi": "Nhân viên Kafra<C3000><CFFFD>Bạn có thể vào các Guild<CFFFD>tại đây để đổi Job."}
+{"id": "RDS-23d1e31497e827d9683e", "vi": "Rời thị trấn"}
+{"id": "RDS-588cc9e92ce53b9f8610", "vi": "Nhân viên Kafra<C3000><CFFFD>Bạn có thể rời thị trấn từ đây."}
+{"id": "RDS-70b733c707c01bb105f0", "vi": "Về menu"}
+{"id": "RDS-4f532c530c9836ca23da", "vi": "Nhân viên Kafra<C3000><CFFFD>Bạn sẽ trở lại menu thị trấn."}
+{"id": "RDS-dccfe6fbaa0c8ef582fa", "vi": "Về thị trấn"}
+{"id": "RDS-87a48a37cfd245e2d618", "vi": "Debug: Rời thị trấn"}
+{"id": "RDS-19aa1f8bb39705cda144", "vi": "Nhân viên Kafra<C3000><CFFFD>Đây là chức năng debug.<CFFFD>Đến thị trấn bất kỳ bạn đã ghé."}
+{"id": "RDS-3ee9080ba18b2bbc7ca9", "vi": "Nhân viên Kafra<C3000><CFFFD>Chào mừng đến <CFFF2>Geffen<CFFF4>.<CFFFD>Chúc bạn có chuyến đi vui vẻ.<CFFFC>Nhân viên Kafra<C3000><CFFFD>Vui lòng chọn điểm đến<CFFFD>từ menu thị trấn."}
+{"id": "RDS-acfc02c0e10d23fd282e", "vi": "Nhân viên Kafra<C3000><CFFFD>Vui lòng chọn điểm đến<CFFFD>từ menu thị trấn."}
+{"id": "RDS-a6b7e8eee69197d8c3a8", "vi": "Nhân viên Kafra<C3000><CFFFD>Chào mừng đến <CFFF2>Morocc<CFFF4>.<CFFFD>Chúc bạn có chuyến đi vui vẻ.<CFFFC>Nhân viên Kafra<C3000><CFFFD>Vui lòng chọn điểm đến<CFFFD>từ menu thị trấn."}
+{"id": "RDS-58ae907e519ed6f7753c", "vi": "Nhân viên Kafra<C3000><CFFFD>Chào mừng đến <CFFF2>Prontera<CFFF4>.<CFFFD>Chúc bạn có chuyến đi vui vẻ.<CFFFC>Nhân viên Kafra<C3000><CFFFD>Vui lòng chọn điểm đến<CFFFD>từ menu thị trấn."}
+{"id": "RDS-23ba96cc87ea8d72ced6", "vi": "Nhân viên Kafra<C3000><CFFFD>Chào mừng đến <CFFF2>Juno<CFFF4>.<CFFFD>Chúc bạn có chuyến đi vui vẻ.<CFFFC>Nhân viên Kafra<C3000><CFFFD>Vui lòng chọn điểm đến<CFFFD>từ menu thị trấn."}
+{"id": "RDS-fc6a0e76305c5444d25e", "vi": "Nhân viên Kafra<C3000><CFFFD>Chào mừng đến <CFFF2>Lighthalzen<CFFF4>.<CFFFD>Chúc bạn có chuyến đi vui vẻ.<CFFFC>Nhân viên Kafra<C3000><CFFFD>Vui lòng chọn điểm đến<CFFFD>từ menu thị trấn."}
+{"id": "RDS-95d880f4f0bad1e3bcfe", "vi": "<CFFFB><CFFFD>N-này! Cậu làm sao thế?<CFFFD>Có chuyện gì vậy...?"}
+{"id": "RDS-b1fb076cc4a9d1f065e2", "vi": "<CFFFB><CFFFD>Cậu đang run kìa...<CFFFD>Sợ gì à?"}
+{"id": "RDS-7b4cb27f9c598a71f34a", "vi": "Cô bé<C3000><CFFFD>...S-sợ?"}
+{"id": "RDS-46af7974ca23ceb759a9", "vi": "<CFFFB><CFFFD>Ừ, sợ ấy.<CFFFD>Cậu gặp chuyện gì sao?"}
+{"id": "RDS-8e63f25adf93e022df37", "vi": "Cô bé<C3000><CFFFD>Tôi không biết...<CFFFC>Cô bé<C3000><CFFFD>Nhưng tôi phải ở gần..."}
+{"id": "RDS-4579fd3df12c43b5df1e", "vi": "<CFFFB><CFFFD>Ở gần ư?"}
+{"id": "RDS-12c7703a7af9a340f016", "vi": "<CFFFB><CFFFD>Cậu lạc mất bạn bè à?<CFFFC><CFFFB><CFFFD>Nhưng quanh đây<CFFFD>đâu có ai..."}
+{"id": "RDS-8f76b219acbee2c77158", "vi": "<CFFFB><CFFFD>(Trời, biết làm sao giờ?)<CFFFC><CFFFB><CFFFD>(Cậu ấy đang hoảng lắm.<CFFFD>Không biết đã gặp chuyện gì...)<CFFFC><CFFFB><CFFFD>(Lại còn như bị<CFFFD>mất trí nhớ vì sốc nữa...)"}
+{"id": "RDS-b805eb879b2a02953ec5", "vi": "<CFFFB><CFFFD>(Mình phải làm gì đây...)"}
+{"id": "RDS-68533ce19bc59dc59c44", "vi": "<CFFFB><CFFFD>Đừng nói là cậu<CFFFD>chẳng nhớ gì cả nhé...?"}
+{"id": "RDS-ab61d0412bfb48a91f32", "vi": "<CFFFB><CFFFD>Này, có người kìa?!"}
+{"id": "RDS-7417805f2af4e27346cb", "vi": "Mẹ<C3000><CFFFD><CFFFB> à...<CFFFC>Mẹ<C3000><CFFFD>Mẹ xin lỗi vì đã khiến con<CFFFD>phải khổ sở thế này..."}
+{"id": "RDS-e08a0c00e4a22428742a", "vi": "<CFFFB><CFFFD>Mẹ nói gì vậy?!<CFFFD>Mẹ nuôi con một mình tới giờ mà."}
+{"id": "RDS-255a4f8467f3d4daadb1", "vi": "Mẹ<C3000><CFFFD>Mẹ vui lắm khi thấy<CFFFD>con lớn lên mạnh mẽ thế này."}
+{"id": "RDS-3d5b82bdfb911fb4359d", "vi": "Mẹ<C3000><CFFFD>Mẹ không biết tương lai<CFFFD>sẽ ra sao, nhưng...<CFFFC>Mẹ<C3000><CFFFD>...hãy cứ là con như bây giờ, nhé?"}
+{"id": "RDS-162fe074f1436b1cb411", "vi": "<CFFFB><CFFFD>Mẹ..."}
+{"id": "RDS-d9812f823831084ae291", "vi": "<CFFFB><CFFFD>Mạnh mẽ... sao..."}
+{"id": "RDS-6488b1b8f49b205cb159", "vi": "<CFFFB><CFFFD>Ừ. Phải mạnh mẽ."}
+{"id": "RDS-8ee8894e6af8235bbd11", "vi": "Cô bé<C3000><CFFFD>...?"}
+{"id": "RDS-da451dbbfe3e7d212408", "vi": "<CFFFB><CFFFD>À... Ừm..."}
+{"id": "RDS-36ed997d2da1b3daca4e", "vi": "<CFFFB><CFFFD>T-tên! Cậu tên gì?"}
+{"id": "RDS-2b4e1c264837665436bc", "vi": "<CFFFB><CFFFD>(...Chắc là...)<CFFFC><CFFFB><CFFFD>(...nếu mình để cậu ấy<CFFFD>lại một mình ở đây...)<CFFFC><CFFFB><CFFFD>(Mẹ sẽ không vui đâu.)"}
+{"id": "RDS-6d7d967e9f7740b91551", "vi": "<CFFFB><CFFFD><CFFFA>, phải không..."}
+{"id": "RDS-d0fb7f5323a6624f85b7", "vi": "<CFFFB><CFFFD>Tôi là <CFFFB>."}
+{"id": "RDS-74bff0089fb4d0222454", "vi": "<CFFFB><CFFFD>Tôi đang đến <CFFF2>Yusidra Caves<CFFF4><CFFFD>để tìm <CFFF1>Clean Stone<CFFF4>."}
+{"id": "RDS-a48d075f7298f94d0f51", "vi": "<CFFFB><CFFFD>Sau đó, tôi sẽ tới <CFFF2>Prontera<CFFF4><CFFFD>tìm việc làm.<CFFFC><CFFFB><CFFFD>Ừm... Tôi có thể đưa cậu<CFFFD>đến <CFFF2>Prontera<CFFF4> nếu cậu muốn."}
+{"id": "RDS-afca875ae027478513f0", "vi": "<CFFFA><CFFFD>...Việc làm?"}
+{"id": "RDS-b4fa281d16faaea33614", "vi": "<CFFFB><CFFFD>Đúng rồi, việc làm.<CFFFC><CFFFB><CFFFD>Phải kiếm tiền mới sống được,<CFFFD>cậu biết chứ?"}
+{"id": "RDS-a95eaf09af3f11298373", "vi": "<CFFFA><CFFFD>Tiền..."}
+{"id": "RDS-250bc9ac4f9321e0a7ee", "vi": "<CFFFB><CFFFD>Mà việc làm thì<CFFFD>có nhiều kiểu lắm.<CFFFC><CFFFB><CFFFD>Còn tôi thì<CFFFD>muốn làm mạo hiểm giả."}
+{"id": "RDS-b8b9482f8007f3752e3d", "vi": "<CFFFA><CFFFD>Mạo... hiểm giả?"}
+{"id": "RDS-e78f8797dac2359bb05f", "vi": "<CFFFB><CFFFD>Ừm... họ nhận các<CFFFC><CFFFB><CFFFD>yêu cầu rồi đi tìm<CFFFD>kho báu các kiểu ấy."}
+{"id": "RDS-31571830e0d5cf632ce7", "vi": "<CFFFB><CFFFD>Dù thật ra tôi cũng chưa<CFFFD>làm mấy việc đó... bao giờ."}
+{"id": "RDS-6b07cf24232e4b88e048", "vi": "<CFFFB><CFFFD>...Cậu chẳng hiểu<CFFFD>tôi vừa nói gì, đúng không..."}
+{"id": "RDS-0a8d608af3c56c1dfd64", "vi": "<CFFFB><CFFFD>Thôi, kệ đi.<CFFFD>Vậy cậu muốn làm gì?"}
+{"id": "RDS-65d2c7dd6ce73c6b4a4b", "vi": "<CFFFA><CFFFD>Tôi phải... ở gần..."}
+{"id": "RDS-121baa7b0b3e44e789b5", "vi": "<CFFFB><CFFFD>Được rồi. Quyết thế nhé!"}
+{"id": "RDS-ab439614284cac3f04d6", "vi": "<CFFFB><CFFFD>Vậy lên đường thôi!"}
+{"id": "RDS-93120c304362e3b23654", "vi": "<CFFFA><CFFFD>Được ạ!"}
+{"id": "RDS-5b4413a0b2c276c9cd77", "vi": "<CFFFB><CFFFD>Vậy đây là <CFFF2>Yusidra Caves<CFFF4>..."}
+{"id": "RDS-6f36e27a25099bc9cefe", "vi": "<CFFFB><CFFFD>Chắc tôi tìm được<CFFFD><CFFF1>Clean Stone<CFFF4> trong này..."}
+{"id": "RDS-86d45eaa0f79a3f130e2", "vi": "<CFFFB><CFFFD>Này, ở đây có nhiều quái<CFFFD>nên nguy hiểm lắm.<CFFFC><CFFFB><CFFFD><CFFFA>, hay cậu<CFFFD>đợi ở đây nhé?"}
+{"id": "RDS-ec6e6f291653881e2d00", "vi": "<CFFFA><CFFFD>Không!"}
+{"id": "RDS-4034dcc4db0eda1ebf95", "vi": "<CFFFB><CFFFD>Được, được rồi."}
+{"id": "RDS-c02c5752bf49e71ddc45", "vi": "<CFFFB><CFFFD>Vậy nhớ cẩn thận nhé!"}
+{"id": "RDS-38c4fde3881d596da57b", "vi": "<CFFFA><CFFFD>Vâng."}
+{"id": "RDS-58595eefdeb2c1cd031e", "vi": "<CFFFA><CFFFD>Tôi phải ở gần.<CFFFD>Tôi sẽ đi cùng!"}
+{"id": "RDS-6820b0255dd4c40b41ee", "vi": "<CFFFB><CFFFD>...Ờ thì, thứ đó cần thiết...<CFFFC><CFFFB><CFFFD>...để sống... chắc vậy?"}
+{"id": "RDS-c31d7351a7137f422df0", "vi": "<CFFFB><CFFFD>*phù*<CFFFD>Suýt nữa thì toi."}
+{"id": "RDS-f278708ce5df88870532", "vi": "<CFFFB><CFFFD>Hử? Gì đây?"}
+{"id": "RDS-737dd35fe861055982b2", "vi": "<CFFFD>Bạn nhận được <CFFF1>Clean Stone<CFFF4>!"}
+{"id": "RDS-9f247b2db6fb38ece2e7", "vi": "<CFFFB><CFFFD>Được rồi, <CFFFA>!<CFFFD>Ta có <CFFF1>Clean Stone<CFFF4> rồi!"}
+{"id": "RDS-ab6e1d21424d8c9aa090", "vi": "<CFFFA><CFFFD>Đ-đá?"}
+{"id": "RDS-740857ab3a6f86c2a0a2", "vi": "<CFFFB><CFFFD>Ừ! Nhìn này!"}
+{"id": "RDS-861d9fe87f1baf9f45a9", "vi": "<CFFFA><CFFFD>Đây... là gì...?"}
+{"id": "RDS-187eeefa0280c0d02439", "vi": "<CFFFB><CFFFD>Một con quái vừa làm rơi<CFFFD>nó cùng vài thứ khác,<CFFFC><CFFFB><CFFFD>nhưng thứ này mới đáng tiền!<CFFFD>Chắc bán được khối Zeny!"}
+{"id": "RDS-fcd64d40cbac5db35cd9", "vi": "<CFFFA><CFFFD>Đáng... tiền...?"}
+{"id": "RDS-3dd1feaa2b508de86c97", "vi": "<CFFFB><CFFFD>Ừ!<CFFFD>Chừng này là quá đủ rồi!"}
+{"id": "RDS-8466a8a9b723573ca885", "vi": "<CFFFB><CFFFD>Ra khỏi đây thôi,<CFFFD>rồi đến <CFFF2>Prontera<CFFF4>."}
+{"id": "RDS-e9e94f5e946f48715c82", "vi": "<CFFFB><CFFFD>Đến <CFFF2>Prontera<CFFF4> nào!"}
+{"id": "RDS-a9e6276f5df738c4c1d8", "vi": "<CFFFB><CFFFD>À mà... <CFFFA>..."}
+{"id": "RDS-8cbcae436c0f1c5c9302", "vi": "<CFFFB><CFFFD>Lúc nãy cậu cứu tôi...<CFFFD>mà tôi còn chưa cảm ơn."}
+{"id": "RDS-d59c3e08ec17d882bb70", "vi": "<CFFFB><CFFFD>Nếu lúc đó không nhờ<CFFFD>cậu giúp...<CFFFC><CFFFB><CFFFD>thì ừm... tôi<CFFFD>xong đời rồi..."}
+{"id": "RDS-eef28cfd6f068b4db17a", "vi": "<CFFFB><CFFFD>C-cảm ơn."}
+{"id": "RDS-e01be75cbdd04160eec7", "vi": "<CFFFA><CFFFD>C-cảm ơn?"}
+{"id": "RDS-0934de96db0568740795", "vi": "<CFFFB><CFFFD>Hả? Cậu không biết nghĩa à?"}
+{"id": "RDS-cae7ed9db922d9966253", "vi": "<CFFFB><CFFFD>Trời ạ...<CFFFC><CFFFB><CFFFD>...Người ta nói cảm ơn khi ai<CFFFD>đó làm điều tốt cho mình,<CFFFC><CFFFB><CFFFD>hay cứu mình khỏi<CFFFD>nguy hiểm... đại loại vậy."}
+{"id": "RDS-ea8c03da86baf5f0ba81", "vi": "<CFFFA><CFFFD>Cảm ơn..."}
+{"id": "RDS-ac4ccf0da6d66b1e11f0", "vi": "<CFFFB><CFFFD>Đúng rồi. Lúc nãy tôi<CFFFD>đã giúp cậu nên... ừm, thế đấy."}
+{"id": "RDS-0a5982962468e5b26d0d", "vi": "<CFFFB><CFFFD>...M-mà này, <CFFFA>,<CFFFD>giờ cậu tính sao?<CFFFC><CFFFB><CFFFD>Đã nhớ ra gì chưa?"}
+{"id": "RDS-ab577eb69b3538bd2b81", "vi": "<CFFFB><CFFFD>Một chút cũng không à?"}
+{"id": "RDS-efa98f7f335e1993e7ae", "vi": "<CFFFA><CFFFD>Ừm... ờ..."}
+{"id": "RDS-1af28f277025ea554641", "vi": "<CFFFA><CFFFD>...Tôi không biết."}
+{"id": "RDS-3599d688fb100ca05dd6", "vi": "<CFFFB><CFFFD>Vậy thì...<CFFFD>hay cậu đi cùng tôi nhé?"}
+{"id": "RDS-88400e0e6fdf3238127b", "vi": "<CFFFA><CFFFD>Thật... ạ?"}
+{"id": "RDS-fae5ece2b119627b21b8", "vi": "<CFFFB><CFFFD>Th-thì cậu đã cứu tôi mà...<CFFFD>Tôi phải đáp lễ chứ!"}
+{"id": "RDS-a663a739f3dbdac6f901", "vi": "<CFFFB><CFFFD>V-với lại cậu cũng có ích..."}
+{"id": "RDS-7626c984227b65f2279b", "vi": "<CFFFB><CFFFD>Được rồi!<CFFFD>Ta cùng làm mạo hiểm giả!"}
+{"id": "RDS-0489028615311bd1cccd", "vi": "<CFFFB><CFFFD>Ê, phấn chấn lên nào!<CFFFD>Hét cho khí thế chứ!"}
+{"id": "RDS-a070d7cd609e3b968663", "vi": "<CFFFA><CFFFD>Khí thế...?"}
+{"id": "RDS-dc9a4f7a006eb4376627", "vi": "<CFFFB><CFFFD>Ừ!"}
+{"id": "RDS-79ecf9ac43dd431e13c1", "vi": "<CFFFB><CFFFD>Làm theo này. Giơ tay cao lên...<CFFFD>Hoan hô!!"}
+{"id": "RDS-2d9ff4e0dd66248c2b6c", "vi": "<CFFFA><CFFFD>...Hoan hô..."}
+{"id": "RDS-5545b5d8094a6749b731", "vi": "<CFFFB><CFFFD>...<CFFFD>Ừm, thế cũng được..."}
+{"id": "RDS-190cf9dec9d67576772f", "vi": "<CFFFB><CFFFD>Rồi, đi thôi.<CFFFD>Thẳng tiến <CFFF2>Prontera<CFFF4>!"}
+{"id": "RDS-f519585e3e8d0f0ce374", "vi": "<CFFFB><CFFFD>Hai đứa chung một đội,<CFFFD>kiếm tiền chắc gấp đôi!<CFFFC><CFFFB><CFFFD>Nhưng trước tiên,<CFFFD>phải kiếm việc làm đã!"}
+{"id": "RDS-57f8f7119423ead81069", "vi": "<CFFFB><CFFFD>Nhưng trước tiên,<CFFFD>phải kiếm việc làm đã!"}
+{"id": "RDS-9c2dc29c818d8078ef08", "vi": "<CFFFB><CFFFD><CFFF2>Prontera<CFFF4> nằm<CFFFD>về phía nam nơi này."}
+{"id": "RDS-b657d519945bbd517ed4", "vi": "<CFFFB><CFFFD>Được rồi, đi thôi."}
+{"id": "RDS-319c30b0c9c87bb42187", "vi": "<CFFFA><CFFFD>Cảm ơn."}
