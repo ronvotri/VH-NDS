@@ -44,4 +44,22 @@
 | Nhân viên Kafra → người chơi | bạn | Giọng hướng dẫn lịch sự; đây là vai trò NPC chung, không mặc định một cá nhân |
 | Cô bé → nhân vật chính | tôi/cậu, đôi lúc “dạ/vâng” | Nhân vật chưa hiểu nhiều khái niệm, diễn đạt ngập ngừng |
 
-**Chưa xác minh:** Viselc/Lisir/Lucifi và các quan hệ chưa xuất hiện trong mạch này. Không suy luận từ tên nhân vật.
+**Chưa xác minh đến hết đợt 002:** Viselc/Lisir/Lucifi và các quan hệ chưa xuất hiện trong mạch đó. Đợt 003 đã kiểm tra riêng Lucifi; Viselc và Lisir vẫn chờ ngữ cảnh. Không suy luận từ tên nhân vật.
+
+
+## Đợt 003 — người nói và xưng hô đã xác minh theo cảnh
+
+| Cặp / vai trò | Xưng hô định hướng | Lưu ý |
+|---|---|---|
+| Nhân vật chính ↔ cô bé | tôi/cậu | Không gán tuổi/quan hệ; mã động <CFFFB>/<CFFFA> giữ nguyên |
+| Nhân vật chính → Lucifi | tôi/anh | Ngại nhận là bạn, cáu nhẹ khi bị trêu; tránh cố định đại từ giới tính |
+| Lucifi → nhân vật chính, cô bé | tôi/cậu, hai cậu | Thoải mái, lầy nhưng vẫn trách nhiệm |
+| Lucifi → chỉ huy | tôi/thưa ngài | Lời báo cáo trang trọng, được chuyển thành cởi mở khi ở cùng đội |
+| Chỉ huy → Lucifi | ta/cậu | Quyết định phân công, tính chất cấp trên – cấp dưới |
+| Nhân vật chính ↔ Olav | cháu/ông | Olav là cha nuôi Colm, tuổi cao; cảnh giúp đỡ nghiêm túc |
+| Nhân vật chính → Colm (10 tuổi) | tôi/em | Không gán giới tính nhân vật chính; Colm xưng em, gọi cha là bố |
+| Olav → nhóm | ông/các cháu | Cảnh xúc động, không tạo meme |
+
+Tính cách đã xác nhận từ nguồn: **Lucifi** trêu ghẹo, tận tâm, dùng màn giả bị thương để thử đồng đội; **nhân vật chính** hay chối lòng tốt dù vẫn giúp người; **cô bé** ít hiểu khái niệm, đặc biệt chuyện bạn bè/cảm ơn; **Olav** hết lòng vì Colm. Giữ nguyên tên các đơn vị/địa danh/item: Order of Knights, Order, Prontera Culvert, Prontera Woods, West Prontera Woods, Dog Tag, White Peach, Guild.
+
+**Kỹ thuật:** chưa kiểm tra khung thoại NDS thật. Không được sửa mã màu, dấu phân trang <CFFFC>, ngắt lời <CFFFD>, tên động <CFFFB>/<CFFFA> hoặc ID để rút ngắn văn bản.
