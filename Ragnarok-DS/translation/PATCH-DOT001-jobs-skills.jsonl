@@ -1,0 +1,54 @@
+{"id":"RDS-378667060615b15ffda5","vi":"Novice"}
+{"id":"RDS-c1217da0764eae2e9020","vi":"Swordsman"}
+{"id":"RDS-f6a2d4ecde327b1ae705","vi":"Magician"}
+{"id":"RDS-af368ac8a85cf0dec7ea","vi":"Archer"}
+{"id":"RDS-14f8ce753d23608b3250","vi":"Acolyte"}
+{"id":"RDS-74c8307f6326007631eb","vi":"Thief"}
+{"id":"RDS-788cd1bcc39723cafa5e","vi":"Merchant"}
+{"id":"RDS-9dc6c11289aaf5e647d7","vi":"Taekwon Kid"}
+{"id":"RDS-4eae6023050b6bdc5207","vi":"Knight"}
+{"id":"RDS-d795e1c2d467998bb932","vi":"Wizard"}
+{"id":"RDS-013592bc605db6ffd886","vi":"Hunter"}
+{"id":"RDS-90161028d8b41515e8db","vi":"Priest"}
+{"id":"RDS-3448bbd84c5c15abf2a0","vi":"Assassin"}
+{"id":"RDS-1577d2fa25080a6cb4ea","vi":"Blacksmith"}
+{"id":"RDS-4178f7f9a76d37c9673a","vi":"Taekwon Master"}
+{"id":"RDS-e0c80fcaf665d559423e","vi":"Shaman"}
+{"id":"RDS-725c17db06c0ded70cbb","vi":"Dark Knight"}
+{"id":"RDS-5ff4219939248591f34b","vi":"Tăng sát thương<CFFFD>của Dagger và<CFFFD>Sword một tay."}
+{"id":"RDS-119f2708df8f2d500f69","vi":"Tăng sát thương<CFFFD>của Sword<CFFFD>hai tay."}
+{"id":"RDS-1c41926666765f049759","vi":"Hồi HP khi<CFFFD>đứng yên.<CFFFD>Tăng hiệu quả<CFFFD>của các item<CFFFD>hồi máu."}
+{"id":"RDS-19919ffc3fd39056ff0b","vi":"Gây lượng lớn<CFFFD>sát thương lên<CFFFD>một kẻ địch."}
+{"id":"RDS-c2ecbf702d88ee921a82","vi":"Đòn tấn công<CFFFD>hệ Fire, gây<CFFFD>sát thương cho<CFFFD>mọi kẻ địch<CFFFD>trong vùng chọn."}
+{"id":"RDS-4f1ec9bdba0b71267e5d","vi":"Giảm DEF<CFFFD>nhưng tăng<CFFFD>ATK của<CFFFD>mục tiêu."}
+{"id":"RDS-cdbe0534d72afef05163","vi":"Khi dùng Bash,<CFFFD>có cơ hội<CFFFD>gây Stun<CFFFD>cho mục tiêu."}
+{"id":"RDS-dd2fbb74d3bfd59e4663","vi":"Nhân vật<CFFFD>hồi HP<CFFFD>khi di chuyển."}
+{"id":"RDS-09e107b7bf329c0016a0","vi":"Tăng sát thương<CFFFD>của mọi<CFFFD>loại Spear."}
+{"id":"RDS-2029fa51426e0692f0a6","vi":"Chỉ dùng được<CFFFD>với Spear.<CFFFD>Đánh một<CFFFD>mục tiêu<CFFFD>nhiều lần."}
+{"id":"RDS-703ef710714a497f8006","vi":"Chỉ dùng được<CFFFD>với Spear.<CFFFD>Đẩy lùi<CFFFD>một kẻ địch."}
+{"id":"RDS-8e24bf72b48a9d0c3a78","vi":"Chỉ dùng được<CFFFD>với Spear.<CFFFD>Vung Spear<CFFFD>gây sát thương<CFFFD>cho mọi địch<CFFFD>trong vùng."}
+{"id":"RDS-5abe4832757d52e14f2f","vi":"Chỉ dùng được<CFFFD>với Spear.<CFFFD>Đánh từ xa."}
+{"id":"RDS-07d298db46147e2380fe","vi":"Chỉ dùng được<CFFFD>với Sword<CFFFD>hai tay.<CFFFD>Tăng tốc độ<CFFFD>đánh."}
+{"id":"RDS-2dd8d1d867503966706e","vi":"Tự động<CFFFD>phản đòn<CFFFD>kẻ địch."}
+{"id":"RDS-3839be641fc9d7cb37ac","vi":"Đẩy lùi<CFFFD>một kẻ địch<CFFFD>và gây sát thương<CFFFD>cho những địch<CFFFD>bị va<CFFFD>trúng."}
+{"id":"RDS-0c35592264924e79be50","vi":"Lao đến<CFFFD>tấn công ngay<CFFFD>một kẻ địch<CFFFD>ở xa."}
+{"id":"RDS-4f0857d2889512476f20","vi":"Chỉ dùng được<CFFFD>với Sword<CFFFD>một tay.<CFFFD>Tăng tốc độ<CFFFD>đánh."}
+{"id":"RDS-efb98098912609c5a5b0","vi":"Chỉ dùng được<CFFFD>với Sword.<CFFFD>Tung ra<CFFFD>tuyệt kỹ kiếm<CFFFD>mạnh mẽ trong<CFFFD>vùng chỉ định."}
+{"id":"RDS-cdcdc50542ed5847b326","vi":"Chỉ dùng được<CFFFD>với Spear.<CFFFD>Tung ra<CFFFD>tuyệt kỹ<CFFFD>Spear hệ Fire<CFFFD>trong vùng chọn."}
+{"id":"RDS-871c7c00bc0bb404c4d4","vi":"Tăng lượng<CFFFD>SP được<CFFFD>tự động<CFFFD>hồi lại."}
+{"id":"RDS-679688c91241a5123ea7","vi":"Cho phép thấy<CFFFD>kẻ địch<CFFFD>đang ẩn nấp.<CFFFD>Sight cấp cao<CFFFD>còn có thể<CFFFD>dùng để tấn công."}
+{"id":"RDS-78e03663a63a389d61bb","vi":"Bắn mục tiêu<CFFFD>bằng những<CFFFD>tia lửa."}
+{"id":"RDS-15fbadc10824b7b683fb","vi":"Tạo bức tường<CFFFD>lửa ở<CFFFD>vùng chọn."}
+{"id":"RDS-8d01f7a39a521a845ad8","vi":"Tấn công địch<CFFFD>bằng các<CFFFD>mảnh băng."}
+{"id":"RDS-1a75b081c8b71c23255c","vi":"Tạo cột băng<CFFFD>tại<CFFFD>vùng chọn."}
+{"id":"RDS-565c5fe5a9a88cbafdc1","vi":"Tấn công địch<CFFFD>bằng các<CFFFD>tia sét."}
+{"id":"RDS-c2c7ba2ff85e36916c82","vi":"Đánh nhiều kẻ địch<CFFFD>bằng những tia sét."}
+{"id":"RDS-41464e3400806274837a","vi":"Triệu hồi<CFFFD>linh hồn cổ<CFFFD>tấn công<CFFFD>mục tiêu."}
+{"id":"RDS-47e51665f825f6983e18","vi":"Tạo một<CFFFD>bức tường<CFFFD>phòng thủ<CFFFD>ở vị trí chọn."}
+{"id":"RDS-a044af026ee86822d6ea","vi":"Giảm sát thương<CFFFD>từ đòn đánh<CFFFD>vật lý bằng<CFFFD>cách tập trung<CFFFD>năng lượng<CFFFD>quanh người."}
+{"id":"RDS-ab05204fd28231bad433","vi":"Tạo cột<CFFFD>lửa trong<CFFFD>vùng chọn."}
+{"id":"RDS-656ee1939d281058e510","vi":"Triệu hồi thiên thạch<CFFFD>đánh vào<CFFFD>mọi kẻ địch<CFFFD>trong vùng chọn"}
+{"id":"RDS-5af32a7c5fbaa19effe2","vi":"Đánh một<CFFFD>mục tiêu bằng<CFFFD>quả cầu<CFFFD>sét."}
+{"id":"RDS-7a8cbf4da8f65051d507","vi":"Giáng sét mạnh<CFFFD>xuống<CFFFD>vùng được<CFFFD>chọn."}
+{"id":"RDS-ac721e700b9b6973e008","vi":"Tạo tường<CFFFD>băng tại<CFFFD>vùng chọn."}
+{"id":"RDS-98060edd3e4032cdab75","vi":"Dựng gai<CFFFD>từ lòng đất<CFFFD>theo hướng<CFFFD>chỉ định."}
