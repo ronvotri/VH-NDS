@@ -25,9 +25,9 @@ def main():
     if args.output.resolve() == args.handoff.resolve():
         parser.error("Refusing to overwrite original handoff ZIP")
     patches = {}
-    files = sorted(args.patch_dir.glob("PATCH-DOT001-*.jsonl"))
+    files = sorted(args.patch_dir.glob("PATCH-DOT*.jsonl"))
     if not files:
-        parser.error("No PATCH-DOT001-*.jsonl files found")
+        parser.error("No PATCH-DOT*.jsonl files found")
     for filename in files:
         for n, line in enumerate(filename.read_text(encoding="utf-8-sig").splitlines(), 1):
             if not line.strip():
