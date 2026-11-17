@@ -718,5 +718,233 @@
     "vi": "Final Tower",
     "status": "provisional_literal_jp_qa",
     "note": "Đợt 002: bản Anh mô tả sát Nhật, chưa xác nhận tên canonical trong bản địa hóa; không tự nhận là tên chính thức."
+  },
+  {
+    "ja": "孫悟空",
+    "vi": "Son Goku",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "超サイヤ人孫悟空",
+    "vi": "Super Saiyan Son Goku",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "ベジータ",
+    "vi": "Vegeta",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "超サイヤ人ベジータ",
+    "vi": "Super Saiyan Vegeta",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "超サイヤ人孫悟飯",
+    "vi": "Super Saiyan Son Gohan",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "超サイヤ人２孫悟飯",
+    "vi": "Super Saiyan 2 Son Gohan",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "ゴテンクス",
+    "vi": "Gotenks",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "超サイヤ人ゴテンクス",
+    "vi": "Super Saiyan Gotenks",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "ピッコロ",
+    "vi": "Piccolo",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "フリーザ",
+    "vi": "Frieza",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "魔人ブウ",
+    "vi": "Majin Buu",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "かめはめ波",
+    "vi": "Kamehameha",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "超かめはめ波",
+    "vi": "Super Kamehameha",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "２０倍かめはめ波",
+    "vi": "20x Kamehameha",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "界王拳",
+    "vi": "Kaio-ken",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "元気玉",
+    "vi": "Spirit Bomb",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "超元気玉",
+    "vi": "Super Spirit Bomb",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "ギャリック砲",
+    "vi": "Galick Gun",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "ファイナルフラッシュ",
+    "vi": "Final Flash",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "ビッグ・バン・アタック",
+    "vi": "Big Bang Attack",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "魔閃光",
+    "vi": "Masenko",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "魔貫光殺砲",
+    "vi": "Special Beam Cannon",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "魔空集中弾",
+    "vi": "Hellzone Grenade",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "スーパーゴーストカミカゼアタック",
+    "vi": "Super Ghost Kamikaze Attack",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "フレンドコード",
+    "vi": "Friend Code",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "インフォキャラ",
+    "vi": "Info Character",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "ジャンプクイズ",
+    "vi": "Jump Quiz",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "Ｊクイズバトル",
+    "vi": "J-Quiz Battle",
+    "status": "common_en_name",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "連続気功弾",
+    "vi": "Rapid Ki Blasts",
+    "status": "provisional_literal_jp_qa",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "自己再生",
+    "vi": "Regeneration",
+    "status": "provisional_literal_jp_qa",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "連続スーパードーナツ",
+    "vi": "Consecutive Super Donuts",
+    "status": "provisional_literal_jp_qa",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "スーパー必殺技フルコース",
+    "vi": "Super Special Attack Full Course",
+    "status": "provisional_literal_jp_qa",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "かんっぜんにおこったビーム",
+    "vi": "Totally Furious Beam",
+    "status": "provisional_literal_jp_qa",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "怒り爆発",
+    "vi": "Rage Explosion",
+    "status": "provisional_literal_jp_qa",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "自爆",
+    "vi": "Self-Destruct",
+    "status": "provisional_literal_jp_qa",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "１００<PERCENT_FULL>フルパワー",
+    "vi": "100<PERCENT_FULL> Full Power",
+    "status": "provisional_literal_jp_qa",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "デススパーク",
+    "vi": "Death Spark",
+    "status": "provisional_literal_jp_qa",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
+  },
+  {
+    "ja": "お菓子光線",
+    "vi": "Candy Beam",
+    "status": "provisional_literal_jp_qa",
+    "note": "Tên tiếng Anh sử dụng theo cách gọi thông dụng hoặc bản dịch tạm; vẫn cần QA trong ngữ cảnh, không tự gán người nói từ tên."
   }
 ]
