@@ -63,3 +63,17 @@
 Tính cách đã xác nhận từ nguồn: **Lucifi** trêu ghẹo, tận tâm, dùng màn giả bị thương để thử đồng đội; **nhân vật chính** hay chối lòng tốt dù vẫn giúp người; **cô bé** ít hiểu khái niệm, đặc biệt chuyện bạn bè/cảm ơn; **Olav** hết lòng vì Colm. Giữ nguyên tên các đơn vị/địa danh/item: Order of Knights, Order, Prontera Culvert, Prontera Woods, West Prontera Woods, Dog Tag, White Peach, Guild.
 
 **Kỹ thuật:** chưa kiểm tra khung thoại NDS thật. Không được sửa mã màu, dấu phân trang <CFFFC>, ngắt lời <CFFFD>, tên động <CFFFB>/<CFFFA> hoặc ID để rút ngắn văn bản.
+
+
+## Đợt 004 — Mạch Geffen / Mjolnir / Emperium
+
+- **Nhân vật chính – Lucifi:** tôi/cậu; trêu nhau về chuyện đỏ mặt, Lucifi sợ ma nhưng thật lòng lo đồng đội. Khi nghiêm túc, Lucifi khuyên đừng liều mạng để mạnh hơn.
+- **Nhân vật chính – Viselc:** nhân vật chính xưng tôi, gọi anh; Viselc xưng tôi, gọi cậu, điềm đạm và lịch sự.
+- **Colm – Olav:** Colm xưng con, gọi bố; nhân vật chính xưng cháu, gọi ông với Olav. Không đổi tên item White Peach.
+- **Lughill – Attar:** thuộc hạ gọi Lughill là đại ca; khi bị chất vấn họ xin tha mạng, không giảm nhẹ mức độ phạm tội.
+- **Dark Knight – nhân vật chính:** Dark Knight tự xưng ta, gọi nhóc/ngươi; nhân vật chính tức giận đáp ta/ngươi, khác hẳn lối tôi/cậu với Lucifi.
+- **Người đàn ông bí ẩn – Dark Knight:** ta/ngươi theo quan hệ ra lệnh – thuộc hạ. Danh tính và quan hệ khác chưa được tự suy đoán.
+- **Mẹ – nhân vật chính:** mẹ/con; hồi ức đau buồn giữ nghiêm túc, không thêm tiếng lóng.
+- **Cô bé chưa rõ danh tính:** tôi/cậu, mô tả cảm xúc theo lời gốc; các thẻ `<CFFFA>`/`<CFFFB>` vẫn là tên động, không viết tên cố định.
+
+Tình trạng đã qua QA cấu trúc, chưa kiểm chứng khung chữ và font Việt trên NDS thật.
