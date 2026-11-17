@@ -21,15 +21,23 @@ Nhánh độc lập `vh/ragnarok-ds-usa` của kho `VH-NDS`. Không trộn với
 Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGPT, gồm toàn bộ 33 JSONL với `vi=null` cho phần chưa dịch, `THUAT_NGU.json`, `QUY_TAC_XUNG_HO.md`, `DANH_BA_NHAN_VAT.json`, `BAO_CAO.txt` và `PATCH-DOT001.jsonl`.
 
 
+## Checkpoint 002 — 18/11/2026
+
+- **Đợt 002 thêm 759 ID:** +669 hệ thống và +90 hội thoại đầu game.
+- **Tổng cộng 1.063/14.616 mục:** 922 bản Việt khác nguồn, 141 mục giữ nguyên tiếng Anh, 13.553 mục chưa xử lý.
+- **QA chính thức:** 0 lỗi ID và mã điều khiển, không thay `en` hoặc các trường ngữ cảnh; chưa test font/máy thật.
+- Đợt 002 ở `translation/PATCH-DOT002.jsonl`; đợt 001 ở 5 tệp `PATCH-DOT001-*.jsonl`. Công cụ `tools/apply_patches.py` sẽ tự áp dụng **cả hai** theo ID.
+- Bộ ZIP đủ 33 JSONL đã xuất riêng trong phiên trò chuyện, kèm `THUAT_NGU.json`, hồ sơ xưng hô, báo cáo QA. Không đưa ROM lên GitHub.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh này đã có đủ **304/304 patch records của đợt 001**, chia thành 5 tệp trong `Ragnarok-DS/translation/` (đối chiếu với ZIP bàn giao: hash khớp, không trùng ID).
+Trong nhánh có **1.063 patch records** từ cả đợt 001 và 002, không trùng ID; đối chiếu với source gốc trước khi áp dụng.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Dot001_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_002_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
