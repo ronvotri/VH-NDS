@@ -1,0 +1,21 @@
+{
+  "checkpoint": "003",
+  "date": "2026-11-18",
+  "game": "Jump Ultimate Stars (Japan)",
+  "total": 34919,
+  "translated": 1404,
+  "pending": 33515,
+  "batch_003_new": 571,
+  "batch_002_prior": 833,
+  "changed": {
+    "02-thoai-tro-giup-001.jsonl": 378,
+    "04-koma-chieu-thuc-001.jsonl": 193
+  },
+  "unique_ids": 34919,
+  "control_token_errors": 0,
+  "source_changed_errors": 0,
+  "prior_translation_overwrite_errors": 0,
+  "long_segments_over_37_unicode_chars": 150,
+  "qa_limitations": "No actual pixel-width measurement, NDS font insertion, ROM writer, verified speaker identity, or gameplay test.",
+  "handoff": "The ChatGPT ZIP checkpoint 003 has all 30 source JSONL; GitHub currently has ID-addressed translated deltas, README, glossary, voice registry, and QA."
+}
