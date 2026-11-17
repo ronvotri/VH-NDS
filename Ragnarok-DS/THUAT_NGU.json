@@ -1,0 +1,380 @@
+[
+  {
+    "en": "Novice",
+    "vi": "Novice",
+    "status": "preserve",
+    "note": "Theo yêu cầu: giữ nguyên thuật ngữ gameplay tiếng Anh."
+  },
+  {
+    "en": "Swordsman",
+    "vi": "Swordsman",
+    "status": "preserve",
+    "note": "Theo yêu cầu: giữ nguyên thuật ngữ gameplay tiếng Anh."
+  },
+  {
+    "en": "Magician",
+    "vi": "Magician",
+    "status": "preserve",
+    "note": "Theo yêu cầu: giữ nguyên thuật ngữ gameplay tiếng Anh."
+  },
+  {
+    "en": "Archer",
+    "vi": "Archer",
+    "status": "preserve",
+    "note": "Theo yêu cầu: giữ nguyên thuật ngữ gameplay tiếng Anh."
+  },
+  {
+    "en": "Acolyte",
+    "vi": "Acolyte",
+    "status": "preserve",
+    "note": "Theo yêu cầu: giữ nguyên thuật ngữ gameplay tiếng Anh."
+  },
+  {
+    "en": "Thief",
+    "vi": "Thief",
+    "status": "preserve",
+    "note": "Theo yêu cầu: giữ nguyên thuật ngữ gameplay tiếng Anh."
+  },
+  {
+    "en": "Merchant",
+    "vi": "Merchant",
+    "status": "preserve",
+    "note": "Theo yêu cầu: giữ nguyên thuật ngữ gameplay tiếng Anh."
+  },
+  {
+    "en": "Knight",
+    "vi": "Knight",
+    "status": "preserve",
+    "note": "Theo yêu cầu: giữ nguyên thuật ngữ gameplay tiếng Anh."
+  },
+  {
+    "en": "Wizard",
+    "vi": "Wizard",
+    "status": "preserve",
+    "note": "Theo yêu cầu: giữ nguyên thuật ngữ gameplay tiếng Anh."
+  },
+  {
+    "en": "Guild",
+    "vi": "Guild",
+    "status": "preserve",
+    "note": "Theo yêu cầu: giữ nguyên thuật ngữ gameplay tiếng Anh."
+  },
+  {
+    "en": "Guildmaster",
+    "vi": "Guildmaster",
+    "status": "preserve",
+    "note": "Theo yêu cầu: giữ nguyên thuật ngữ gameplay tiếng Anh."
+  },
+  {
+    "en": "Guild Worker",
+    "vi": "Guild Worker",
+    "status": "preserve",
+    "note": "Theo yêu cầu: giữ nguyên thuật ngữ gameplay tiếng Anh."
+  },
+  {
+    "en": "Kafra Staff",
+    "vi": "Nhân viên Kafra",
+    "status": "review",
+    "note": "Thuật ngữ UI đang rà lại theo ngữ cảnh; chưa tự coi là chuẩn cuối."
+  },
+  {
+    "en": "Quest",
+    "vi": "Quest",
+    "status": "preserve",
+    "note": "Theo yêu cầu: giữ nguyên thuật ngữ gameplay tiếng Anh."
+  },
+  {
+    "en": "Skill",
+    "vi": "Skill",
+    "status": "preserve",
+    "note": "Theo yêu cầu: giữ nguyên thuật ngữ gameplay tiếng Anh."
+  },
+  {
+    "en": "Equipment",
+    "vi": "Equipment",
+    "status": "preserve",
+    "note": "Theo yêu cầu: giữ nguyên thuật ngữ gameplay tiếng Anh."
+  },
+  {
+    "en": "Inventory",
+    "vi": "Inventory",
+    "status": "preserve",
+    "note": "Theo yêu cầu: giữ nguyên thuật ngữ gameplay tiếng Anh."
+  },
+  {
+    "en": "Card",
+    "vi": "Card",
+    "status": "preserve",
+    "note": "Theo yêu cầu: giữ nguyên thuật ngữ gameplay tiếng Anh."
+  },
+  {
+    "en": "Save",
+    "vi": "Lưu",
+    "status": "review",
+    "note": "Thuật ngữ UI đang rà lại theo ngữ cảnh; chưa tự coi là chuẩn cuối."
+  },
+  {
+    "en": "Load",
+    "vi": "Tải",
+    "status": "review",
+    "note": "Thuật ngữ UI đang rà lại theo ngữ cảnh; chưa tự coi là chuẩn cuối."
+  },
+  {
+    "en": "Continue",
+    "vi": "Tiếp tục",
+    "status": "review",
+    "note": "Thuật ngữ UI đang rà lại theo ngữ cảnh; chưa tự coi là chuẩn cuối."
+  },
+  {
+    "en": "Quit",
+    "vi": "Thoát",
+    "status": "review",
+    "note": "Thuật ngữ UI đang rà lại theo ngữ cảnh; chưa tự coi là chuẩn cuối."
+  },
+  {
+    "en": "Ragnarok",
+    "vi": "Ragnarok",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "Aster",
+    "vi": "Aster",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "Sierra",
+    "vi": "Sierra",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "Lucifi",
+    "vi": "Lucifi",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "Lisir",
+    "vi": "Lisir",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "Viselc",
+    "vi": "Viselc",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "Attar",
+    "vi": "Attar",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "Bughill",
+    "vi": "Bughill",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "Gabera",
+    "vi": "Gabera",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "Prontera",
+    "vi": "Prontera",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "Geffen",
+    "vi": "Geffen",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "Morroc",
+    "vi": "Morroc",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "Juno",
+    "vi": "Juno",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "Zeny",
+    "vi": "Zeny",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "Kafra",
+    "vi": "Kafra",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "HP",
+    "vi": "HP",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "SP",
+    "vi": "SP",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "STR",
+    "vi": "STR",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "AGI",
+    "vi": "AGI",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "VIT",
+    "vi": "VIT",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "INT",
+    "vi": "INT",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "DEX",
+    "vi": "DEX",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "LUK",
+    "vi": "LUK",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "ATK",
+    "vi": "ATK",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "DEF",
+    "vi": "DEF",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "MATK",
+    "vi": "MATK",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "MDEF",
+    "vi": "MDEF",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "HIT",
+    "vi": "HIT",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "FLEE",
+    "vi": "FLEE",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "CRI",
+    "vi": "CRI",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "ASPD",
+    "vi": "ASPD",
+    "status": "preserve",
+    "note": "Tên riêng/đơn vị/viết tắt. Giữ thống nhất, kiểm tra chính tả theo nguồn."
+  },
+  {
+    "en": "Mount",
+    "vi": "Gắn Card",
+    "status": "confirmed-by-user-rule",
+    "note": "Thao tác lắp Card lên trang bị; không có nghĩa cưỡi. Giữ nguyên tên kỹ năng/vật phẩm Mount nếu xuất hiện khác ngữ cảnh."
+  },
+  {
+    "en": "Card Slot",
+    "vi": "Ô gắn Card",
+    "status": "confirmed-by-user-rule",
+    "note": "Nhãn hệ thống, không phải tên item."
+  },
+  {
+    "en": "Status Point",
+    "vi": "Status Point",
+    "status": "confirmed-by-user-rule",
+    "note": "Giữ tên loại điểm; mô tả thao tác Việt hóa."
+  },
+  {
+    "en": "Skill Point",
+    "vi": "Skill Point",
+    "status": "confirmed-by-user-rule",
+    "note": "Giữ tên loại điểm; mô tả thao tác Việt hóa."
+  },
+  {
+    "en": "Friend Code",
+    "vi": "Friend Code",
+    "status": "confirmed-by-user-rule",
+    "note": "Tên tính năng Nintendo DS, giữ nguyên."
+  },
+  {
+    "en": "Nintendo Wi-Fi Connection",
+    "vi": "Nintendo Wi-Fi Connection",
+    "status": "confirmed-by-user-rule",
+    "note": "Tên dịch vụ, giữ nguyên; dịch phần thông báo lỗi."
+  },
+  {
+    "en": "Clean Stone",
+    "vi": "Clean Stone",
+    "status": "confirmed-by-user-rule",
+    "note": "Tên item quan trọng đầu game, giữ nguyên."
+  },
+  {
+    "en": "Yusidra Caves",
+    "vi": "Yusidra Caves",
+    "status": "confirmed-by-user-rule",
+    "note": "Tên địa danh, giữ nguyên."
+  },
+  {
+    "en": "Job",
+    "vi": "Job",
+    "status": "confirmed-by-user-rule",
+    "note": "Giữ thuật ngữ gameplay theo yêu cầu người dùng."
+  },
+  {
+    "en": "Co-op Mode",
+    "vi": "Co-op Mode",
+    "status": "confirmed-by-user-rule",
+    "note": "Tên mode, giữ nguyên."
+  }
+]
