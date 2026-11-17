@@ -29,15 +29,24 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - Đợt 002 ở `translation/PATCH-DOT002.jsonl`; đợt 001 ở 5 tệp `PATCH-DOT001-*.jsonl`. Công cụ `tools/apply_patches.py` sẽ tự áp dụng **cả hai** theo ID.
 - Bộ ZIP đủ 33 JSONL đã xuất riêng trong phiên trò chuyện, kèm `THUAT_NGU.json`, hồ sơ xưng hô, báo cáo QA. Không đưa ROM lên GitHub.
 
+## Checkpoint 003 — 18/11/2026
+
+- **+266 ID** mới trong `translation/PATCH-DOT003.jsonl`, hoàn thành **05-hoi-thoai-001.jsonl: 441/441**.
+- **Tích lũy: 1.329/14.616 mục (9,09%)**, 1.188 bản dịch khác EN và 141 mục giữ nguyên thuật ngữ; 13.287 mục đang `vi=null`.
+- Cảnh: lập Guild, nhiệm vụ tại Prontera Culvert, gặp Lucifi, giúp ông Olav tìm Colm (10 tuổi), White Peach.
+- Điều chỉnh xưng hô theo cặp: người chơi–Lucifi **tôi/anh** (Lucifi dùng **tôi/cậu**), Olav **ông/cháu**, Colm **em/tôi** khi nói chuyện với người chơi không xác định giới tính, chỉ huy–thuộc cấp trang trọng.
+- `tools/check_handoff.py` báo **14.616 source rows, 1.329 translated, 13.287 unfinished, 0 errors**.
+- Đây vẫn là bản dữ liệu JSONL, **chưa có font tiếng Việt và chưa patch ROM**.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **1.063 patch records** từ cả đợt 001 và 002, không trùng ID; đối chiếu với source gốc trước khi áp dụng.
+Trong nhánh có **1.329 patch records** từ các đợt 001–003, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_002_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_003_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
