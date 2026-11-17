@@ -32,21 +32,30 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 ## Checkpoint 003 — 18/11/2026
 
 - **+266 ID** mới trong `translation/PATCH-DOT003.jsonl`, hoàn thành **05-hoi-thoai-001.jsonl: 441/441**.
-- **Tích lũy: 1.329/14.616 mục (9,09%)**, 1.188 bản dịch khác EN và 141 mục giữ nguyên thuật ngữ; 13.287 mục đang `vi=null`.
+- **Tích lũy tại mốc 003: 1.329/14.616 mục (9,09%)**, 1.186 bản dịch khác EN và 143 mục giữ nguyên thuật ngữ; 13.287 mục đang `vi=null`.
 - Cảnh: lập Guild, nhiệm vụ tại Prontera Culvert, gặp Lucifi, giúp ông Olav tìm Colm (10 tuổi), White Peach.
 - Điều chỉnh xưng hô theo cặp: người chơi–Lucifi **tôi/anh** (Lucifi dùng **tôi/cậu**), Olav **ông/cháu**, Colm **em/tôi** khi nói chuyện với người chơi không xác định giới tính, chỉ huy–thuộc cấp trang trọng.
 - `tools/check_handoff.py` báo **14.616 source rows, 1.329 translated, 13.287 unfinished, 0 errors**.
 - Đây vẫn là bản dữ liệu JSONL, **chưa có font tiếng Việt và chưa patch ROM**.
 
+## Checkpoint 004 — 18/11/2026
+
+- **+489 ID**, hoàn thành toàn bộ `05-hoi-thoai-002.jsonl` (489/489, trước đó vi=null). Bản mới nằm tại `translation/PATCH-DOT004.jsonl`.
+- **Tích lũy 1.818/14.616 mục (12,44%)**: 1.664 mục khác bản EN, 154 mục đã rà và giữ nguyên; còn 12.798 mục chưa xử lý.
+- Ngữ cảnh: đoàn tụ Colm/Olav, săn kho báu ở Geffen, trò lừa của Lughill/Attar, hồn ma Aghill, Viselc trợ chiến, Dark Knight và ký ức về mẹ, tìm Emperium để lập Guild.
+- Bảo toàn tên nhân vật, item/Job/skill/địa điểm, tiêu biểu: White Peach, Dog Tag, Emperium, Prontera, Geffen, Mjolnir Dead Pit, Order of Knights, Guild. Mã điều khiển, màu và tên động được giữ nguyên.
+- **QA 0 lỗi:** kiểm 14.616 ID, giữ `en`, không thêm/bớt mã điều khiển. Chưa thử font Việt, hiển thị trên NDS hay patch ROM.
+- Bộ ZIP checkpoint 004 tích lũy đủ 33 tệp JSONL, có patch mới và báo cáo QA.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **1.329 patch records** từ các đợt 001–003, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **1.818 patch records** từ các đợt 001–004, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_003_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_004_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
