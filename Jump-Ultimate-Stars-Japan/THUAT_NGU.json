@@ -1,0 +1,272 @@
+[
+  {
+    "ja": "コマ",
+    "vi": "Koma",
+    "status": "project_locked_v1",
+    "note": "Cơ chế ô truyện; giữ nguyên tiếng Anh/Japanese romanized"
+  },
+  {
+    "ja": "デッキ",
+    "vi": "Deck",
+    "status": "project_locked_v1",
+    "note": "Bộ Koma đã sắp"
+  },
+  {
+    "ja": "マンガデッキ",
+    "vi": "Manga Deck",
+    "status": "project_locked_v1",
+    "note": "Deck trên màn hình cảm ứng"
+  },
+  {
+    "ja": "デッキメイク",
+    "vi": "Deck Make",
+    "status": "project_locked_v1",
+    "note": "Chế độ tạo/sắp xếp Deck"
+  },
+  {
+    "ja": "バトルコマ",
+    "vi": "Battle Koma",
+    "status": "project_locked_v1",
+    "note": "Koma từ 4 ô trở lên"
+  },
+  {
+    "ja": "サポートコマ",
+    "vi": "Support Koma",
+    "status": "project_locked_v1",
+    "note": "Koma gồm 2–3 ô"
+  },
+  {
+    "ja": "ヘルプコマ",
+    "vi": "Help Koma",
+    "status": "project_locked_v1",
+    "note": "Koma hỗ trợ nội tại"
+  },
+  {
+    "ja": "バトルキャラ",
+    "vi": "Battle Character",
+    "status": "project_locked_v1",
+    "note": "Nhân vật điều khiển trên sân"
+  },
+  {
+    "ja": "サポートキャラ",
+    "vi": "Support Character",
+    "status": "project_locked_v1",
+    "note": "Nhân vật được triệu hồi để hỗ trợ"
+  },
+  {
+    "ja": "Ｊ魂",
+    "vi": "J-Soul",
+    "status": "project_locked_v1",
+    "note": "Thanh sinh lực, chưa phải Jump Soul"
+  },
+  {
+    "ja": "必殺魂",
+    "vi": "Special Soul",
+    "status": "project_locked_v1",
+    "note": "Tài nguyên dùng Special Attack, còn được gọi SP"
+  },
+  {
+    "ja": "必殺技",
+    "vi": "Special Attack",
+    "status": "project_locked_v1",
+    "note": "Thuật ngữ cơ chế, không thay tên riêng của skill"
+  },
+  {
+    "ja": "Ｊパワー",
+    "vi": "J-Power",
+    "status": "project_locked_v1",
+    "note": "Tài nguyên nâng cấp Koma"
+  },
+  {
+    "ja": "属性",
+    "vi": "Thuộc tính",
+    "status": "project_locked_v1",
+    "note": "Danh từ chung Việt hóa, ba nhãn thuộc tính giữ Anh"
+  },
+  {
+    "ja": "力",
+    "vi": "Strength",
+    "status": "project_locked_v1",
+    "note": "Thuộc tính Strength"
+  },
+  {
+    "ja": "知",
+    "vi": "Knowledge",
+    "status": "project_locked_v1",
+    "note": "Thuộc tính Knowledge"
+  },
+  {
+    "ja": "笑",
+    "vi": "Laughter",
+    "status": "project_locked_v1",
+    "note": "Thuộc tính Laughter"
+  },
+  {
+    "ja": "夢",
+    "vi": "Dream",
+    "status": "project_locked_v1",
+    "note": "Loại J-Power"
+  },
+  {
+    "ja": "勇",
+    "vi": "Courage",
+    "status": "project_locked_v1",
+    "note": "Loại J-Power"
+  },
+  {
+    "ja": "ドリームコンボ",
+    "vi": "Dream Combo",
+    "status": "project_locked_v1",
+    "note": "Chuỗi đổi Battle Koma để tấn công"
+  },
+  {
+    "ja": "弱攻撃",
+    "vi": "Weak Attack",
+    "status": "project_locked_v1",
+    "note": "Đòn cơ bản"
+  },
+  {
+    "ja": "強攻撃",
+    "vi": "Strong Attack",
+    "status": "project_locked_v1",
+    "note": "Đòn cơ bản"
+  },
+  {
+    "ja": "ガード",
+    "vi": "Guard",
+    "status": "project_locked_v1",
+    "note": "Thế đỡ"
+  },
+  {
+    "ja": "ガード攻撃",
+    "vi": "Guard Attack",
+    "status": "project_locked_v1",
+    "note": "Đòn khi đang Guard"
+  },
+  {
+    "ja": "押し返し",
+    "vi": "Pushback",
+    "status": "project_locked_v1",
+    "note": "Bật trả đòn khi Guard"
+  },
+  {
+    "ja": "キャラチェンジ攻撃",
+    "vi": "Character Switch Attack",
+    "status": "project_locked_v1",
+    "note": "Ép đổi Battle Character đối thủ"
+  },
+  {
+    "ja": "属性攻撃",
+    "vi": "Attribute Attack",
+    "status": "project_locked_v1",
+    "note": "Đòn có lợi thế thuộc tính"
+  },
+  {
+    "ja": "スーパータッグ",
+    "vi": "Super Tag",
+    "status": "project_locked_v1",
+    "note": "Đòn tổ đội"
+  },
+  {
+    "ja": "リングアウト",
+    "vi": "Ring Out",
+    "status": "project_locked_v1",
+    "note": "KO vì rơi khỏi sân"
+  },
+  {
+    "ja": "ジャンプギャラクシー",
+    "vi": "Jump Galaxy",
+    "status": "project_locked_v1",
+    "note": "Tên thế giới"
+  },
+  {
+    "ja": "Ｊヒーロー",
+    "vi": "J-Hero",
+    "status": "project_locked_v1",
+    "note": "Danh hiệu đặc trưng"
+  },
+  {
+    "ja": "ジャンプパイレーツ",
+    "vi": "JUMP Pirates",
+    "status": "project_locked_v1",
+    "note": "Người hướng dẫn mở đầu"
+  },
+  {
+    "ja": "コマレッド",
+    "vi": "Koma Red",
+    "status": "project_locked_v1",
+    "note": "Đối tượng tập luyện"
+  },
+  {
+    "ja": "コマグリーン",
+    "vi": "Koma Green",
+    "status": "project_locked_v1",
+    "note": "Đối tượng tập luyện"
+  },
+  {
+    "ja": "Ｊクイズ",
+    "vi": "J-Quiz",
+    "status": "project_locked_v1",
+    "note": "Chế độ câu hỏi"
+  },
+  {
+    "ja": "Ｊアリーナ",
+    "vi": "J-Arena",
+    "status": "project_locked_v1",
+    "note": "Chế độ đấu trường"
+  },
+  {
+    "ja": "コイン",
+    "vi": "Coin",
+    "status": "project_locked_v1",
+    "note": "Vật phẩm"
+  },
+  {
+    "ja": "アイテムボックス",
+    "vi": "Item Box",
+    "status": "project_locked_v1",
+    "note": "Vật phẩm sân đấu"
+  },
+  {
+    "ja": "シンボル",
+    "vi": "Symbol",
+    "status": "project_locked_v1",
+    "note": "Đối tượng thu thập trong luật đấu"
+  },
+  {
+    "ja": "Ｊシンボル",
+    "vi": "J-Symbol",
+    "status": "project_locked_v1",
+    "note": "Đối tượng thu thập trong luật đấu"
+  },
+  {
+    "ja": "ジャストガード",
+    "vi": "Just Guard",
+    "status": "project_locked_v1",
+    "note": "Kỹ năng"
+  },
+  {
+    "ja": "オートガード",
+    "vi": "Auto Guard",
+    "status": "project_locked_v1",
+    "note": "Kỹ năng"
+  },
+  {
+    "ja": "三角飛び",
+    "vi": "Wall Jump",
+    "status": "project_locked_v1",
+    "note": "Kỹ năng"
+  },
+  {
+    "ja": "３段ジャンプ",
+    "vi": "Triple Jump",
+    "status": "project_locked_v1",
+    "note": "Kỹ năng"
+  },
+  {
+    "ja": "空中ダッシュ",
+    "vi": "Air Dash",
+    "status": "project_locked_v1",
+    "note": "Kỹ năng"
+  }
+]
