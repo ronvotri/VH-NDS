@@ -592,7 +592,7 @@
 {"id": "RDS-b302389840011216bed0", "vi": "Tải thất bại.<CFFFD>Thao tác đã hết thời gian."}
 {"id": "RDS-c6c51da8ecba93475e37", "vi": "Game Card lắp chưa đúng.<CFFFD>Tắt nguồn rồi lắp lại<CFFFD>Game Card của DS."}
 {"id": "RDS-b111f9948d74e38b686a", "vi": "Tải thất bại.<CFFFD>Không đọc được dữ liệu."}
-{"id": "RDS-c5f79d89ededbdb37252", "vi": "Dữ liệu giả lập"}
+{"id": "RDS-c5f79d89ededbdb37252", "vi": "Dữ liệu mẫu"}
 {"id": "RDS-bc542161a99e3f8074a1", "vi": "Silence"}
 {"id": "RDS-1e6694f87fbf6e785c9c", "vi": "Curse"}
 {"id": "RDS-e57eb1f71b93415f0a8d", "vi": "Confusion"}
@@ -611,29 +611,29 @@
 {"id": "RDS-18b16a1206d0cda613d2", "vi": "Stun.<CFFFD>Khiến mục tiêu bất động."}
 {"id": "RDS-aec30b7f5a083ba6d492", "vi": "Sleep.<CFFFD>Khiến bạn ngủ."}
 {"id": "RDS-211e31ac1139667bd841", "vi": "Nhân viên Kafra<C3000><CFFFD>Bạn có thể mua vũ khí<CFFFD>và giáp tại đây."}
-{"id": "RDS-46eb52974761470d644d", "vi": "Nhân viên Kafra<C3000><CFFFD>Ở đây bán Potion hồi phục<CFFFD>và nhiều item khác."}
+{"id": "RDS-46eb52974761470d644d", "vi": "Nhân viên Kafra<C3000><CFFFD>Ở đây bán thuốc hồi phục<CFFFD>và nhiều item khác."}
 {"id": "RDS-d117a49aa8c0e487f821", "vi": "Nhân viên Kafra<C3000><CFFFD>Nơi mọi người thường tụ họp.<CFFFD>Bạn có thể tìm việc ở đây."}
 {"id": "RDS-29fd932ba0f6f225b1a5", "vi": "Nhân viên Kafra<C3000><CFFFD>Nơi bạn có thể nghỉ ngơi<CFFFD>và hồi HP, SP."}
 {"id": "RDS-122a4f5420a86a107fbf", "vi": "Nhân viên Kafra<C3000><CFFFD>Bạn có thể nâng cấp vũ khí<CFFFD>và giáp tại đây."}
-{"id": "RDS-d63d138100009dc8f1f5", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến<CFFFD>the <CFFF2>East Prontera Woods<CFFF4>."}
-{"id": "RDS-f3f337c0029576a7f8ad", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến<CFFFD>the <CFFF2>West Prontera Woods<CFFF4>."}
+{"id": "RDS-d63d138100009dc8f1f5", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến<CFFFD><CFFF2>East Prontera Woods<CFFF4>."}
+{"id": "RDS-f3f337c0029576a7f8ad", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến<CFFFD><CFFF2>West Prontera Woods<CFFF4>."}
 {"id": "RDS-49c562f324da974ad02c", "vi": "El Mes Gorge - North"}
-{"id": "RDS-7da782c4d943c79401fd", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến<CFFFD>the <CFFF2>El Mes Gorge - North<CFFF4>."}
+{"id": "RDS-7da782c4d943c79401fd", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến<CFFFD><CFFF2>El Mes Gorge - North<CFFF4>."}
 {"id": "RDS-a2dfa0f8c228b193c1a9", "vi": "El Mes Gorge - South"}
-{"id": "RDS-3937e83309ea27ab1dcc", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến<CFFFD>the <CFFF2>El Mes Gorge - South<CFFF4>."}
-{"id": "RDS-e37fc7c557f589cc02bb", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến the <CFFF2>Eternal Sands<CFFF4>.<CFFFD>Đừng để bị lạc nhé."}
-{"id": "RDS-e4519779d8e0654eafe1", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến<CFFFD>the <CFFF2>Geffen Bridge<CFFF4>."}
+{"id": "RDS-3937e83309ea27ab1dcc", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến<CFFFD><CFFF2>El Mes Gorge - South<CFFF4>."}
+{"id": "RDS-e37fc7c557f589cc02bb", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến <CFFF2>Eternal Sands<CFFF4>.<CFFFD>Đừng để bị lạc nhé."}
+{"id": "RDS-e4519779d8e0654eafe1", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến<CFFFD><CFFF2>Geffen Bridge<CFFF4>."}
 {"id": "RDS-f298832b59abb5532c24", "vi": "Cổng Somatology"}
-{"id": "RDS-7cc1e992e4d75d2dfcd9", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến cổng trước<CFFFD>the <CFFF2>Somatology Laboratory<CFFF4>."}
+{"id": "RDS-7cc1e992e4d75d2dfcd9", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến cổng trước của<CFFFD><CFFF2>Somatology Laboratory<CFFF4>."}
 {"id": "RDS-2202e7d00856c1a69f6d", "vi": "Lối sau Somatology"}
-{"id": "RDS-0a0bf85d88facd825000", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến cửa sau<CFFFD>of the <CFFF2>Somatology Laboratory<CFFF4>."}
-{"id": "RDS-bf06bd7fff9c075c90be", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Swordsman\" or \"Knight.\""}
-{"id": "RDS-7c9f994dca366355a316", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Magician\" or \"Wizard.\""}
-{"id": "RDS-5fda722198231dac3f93", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Acolyte\" or \"Priest.\""}
-{"id": "RDS-a75fd449b8897f7de91a", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Archer\" or \"Hunter.\""}
-{"id": "RDS-500296e53ef9ca875836", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Thief\" or \"Assassin.\""}
-{"id": "RDS-d582cc4916057936fafc", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Merchant\" or \"Blacksmith.\""}
-{"id": "RDS-71f39e9bace5b1919e87", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Taekwon Kid\" or \"Taekwon Master.\""}
+{"id": "RDS-0a0bf85d88facd825000", "vi": "Nhân viên Kafra<C3000><CFFFD>Lối này dẫn đến cửa sau<CFFFD>của <CFFF2>Somatology Laboratory<CFFF4>."}
+{"id": "RDS-bf06bd7fff9c075c90be", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Swordsman\" hoặc \"Knight.\""}
+{"id": "RDS-7c9f994dca366355a316", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Magician\" hoặc \"Wizard.\""}
+{"id": "RDS-5fda722198231dac3f93", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Acolyte\" hoặc \"Priest.\""}
+{"id": "RDS-a75fd449b8897f7de91a", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Archer\" hoặc \"Hunter.\""}
+{"id": "RDS-500296e53ef9ca875836", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Thief\" hoặc \"Assassin.\""}
+{"id": "RDS-d582cc4916057936fafc", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Merchant\" hoặc \"Blacksmith.\""}
+{"id": "RDS-71f39e9bace5b1919e87", "vi": "Nhân viên Kafra<C3000><CFFFD>Tại đây, bạn có thể đổi Job<CFFFD>sang \"Taekwon Kid\" hoặc \"Taekwon Master.\""}
 {"id": "RDS-3198962c69e29e4bcb3d", "vi": "Nhân viên Kafra<C3000><CFFFD>Bạn có thể lưu tiến độ<CFFFD>bằng cách tạo tệp lưu."}
 {"id": "RDS-8a3596b327319b5e5fdf", "vi": "Nhà"}
 {"id": "RDS-160f057d0fecc5f41fd7", "vi": "Nhân viên Kafra<C3000><CFFFD>Đây là nhà riêng."}
@@ -644,8 +644,8 @@
 {"id": "RDS-eabee1871e5a34877f46", "vi": "Trụ sở Guild"}
 {"id": "RDS-7d60700b0f4cdb6a9808", "vi": "Nhân viên Kafra<C3000><CFFFD>Đây là trụ sở<CFFFD>Guild của bạn."}
 {"id": "RDS-29886b7ff1f43971925c", "vi": "Bến cảng"}
-{"id": "RDS-a813d1f2a2dc62b7b3a3", "vi": "Nhân viên Kafra<C3000><CFFFD>Bạn có thể lên airship đi<CFFFD>for <CFFF2>Juno<CFFF4> here."}
-{"id": "RDS-8d2c3cd10a841e6f0c88", "vi": "Nhân viên Kafra<C3000><CFFFD>Bạn có thể lên airship đi<CFFFD>for <CFFF2>Prontera<CFFF4> here."}
+{"id": "RDS-a813d1f2a2dc62b7b3a3", "vi": "Nhân viên Kafra<C3000><CFFFD>Bạn có thể lên airship đi<CFFFD>đến <CFFF2>Juno<CFFF4> tại đây."}
+{"id": "RDS-8d2c3cd10a841e6f0c88", "vi": "Nhân viên Kafra<C3000><CFFFD>Bạn có thể lên airship đi<CFFFD>đến <CFFF2>Prontera<CFFF4> tại đây."}
 {"id": "RDS-74f89b442a11262ed544", "vi": "Nơi trú ẩn của Lughill"}
 {"id": "RDS-fddcff92bcb8f92ef4e9", "vi": "Nhân viên Kafra<C3000><CFFFD>Đây là nơi trú ẩn của ông Lughill."}
 {"id": "RDS-0488c6f5534393a6dbe2", "vi": "Đoàn Hiệp sĩ"}
