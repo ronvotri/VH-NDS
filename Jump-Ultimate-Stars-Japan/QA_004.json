@@ -1,0 +1,20 @@
+{
+  "checkpoint": "004",
+  "date": "2026-11-18",
+  "game": "Jump Ultimate Stars (Japan) AJUJ",
+  "total": 34919,
+  "translated": 2008,
+  "pending": 32911,
+  "new_in_checkpoint_004": 604,
+  "prior_003": 1404,
+  "changed": {
+    "02-thoai-tro-giup-001.jsonl": 372,
+    "04-koma-chieu-thuc-001.jsonl": 232
+  },
+  "unique_ids": 34919,
+  "source_changed_errors": 0,
+  "prior_translation_overwrite_errors": 0,
+  "control_token_errors": 0,
+  "long_segments_over_37_unicode_chars": 260,
+  "notes": "Static ID and placeholder QA only; English move names marked provisional when not verified. No ROM/font writer or NDS runtime QA."
+}
