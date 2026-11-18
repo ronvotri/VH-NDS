@@ -1,0 +1,511 @@
+{"id":"RDS-60515ae18f1dc0a5a698","vi":"<CFFFD>Nhận <CFFF1>Knight's Spirit<CFFF4>!"}
+{"id":"RDS-d7e34e0d071937b8b658","vi":"<CFFFD>Độ tin cậy với <CFFF8><CFFFD>đã lên <CFFF1>Buddy<CFFF4>!"}
+{"id":"RDS-7b4672084b89bbe13608","vi":"Gin<C3000><CFFFD>Cậu nhận nhiệm vụ<CFFFD>diệt rồng chứ?"}
+{"id":"RDS-c785bb413c8e6fe486f3","vi":"Gin<C3000><CFFFD>Cậu còn việc<CFFFD>gì khác à?"}
+{"id":"RDS-d59397c0c7d4758dc3a0","vi":"Gin<C3000><CFFFD>Ta hiểu. <CFFFC> Gin<C3000><CFFFD>Muốn nhận nhiệm vụ<CFFFD>diệt rồng thì <CFFFC> Gin<C3000><CFFFD>cứ đến gặp ta."}
+{"id":"RDS-0ee8a130eda5e10fa833","vi":"Gin<C3000><CFFFD>Xác nhận lại nhé. <CFFFC> Gin<C3000><CFFFD>Con rồng ở<CFFFD><CFFF2>El Mes Gorge - South<CFFF4>. <CFFFC> Gin<C3000><CFFFD>Nhớ dẫn đồng đội Knight<C3000><CFFFD>đi cùng đấy."}
+{"id":"RDS-aef1a57ec0131b52d0ae","vi":"Gin<C3000><CFFFD>Cậu đang làm nhiệm vụ khác. <CFFFC> Gin<C3000><CFFFD>Xong việc đó rồi quay lại."}
+{"id":"RDS-0a520eae09cd564150b8","vi":"Gin<C3000><CFFFD>Hửm?<CFFFD>Knight đó đâu rồi? <CFFFC> Gin<C3000><CFFFD>Ta giao việc này<CFFFD>vì có Knight ấy. <CFFFC> Gin<C3000><CFFFD>Thôi vậy.<CFFFD>Ta hủy nhiệm vụ nhé."}
+{"id":"RDS-1f5fdd304c6683ca88ad","vi":"Gin<C3000><CFFFD>Cậu có một Knight<CFFFD>khá mạnh đấy."}
+{"id":"RDS-4f5835cddc5073355000","vi":"Gin<C3000><CFFFD>Mức tin cậy giữa hai người<CFFFD>cũng rất tốt."}
+{"id":"RDS-b02711a8576338139ea7","vi":"Gin<C3000><CFFFD>Lâu rồi ta chưa gặp<CFFFD>đội ăn ý như vậy <CFFFC> Gin<C3000><CFFFD>đấy."}
+{"id":"RDS-e7435a73f3fd64536e2b","vi":"<CFFF8><CFFFD>Cũng có thể."}
+{"id":"RDS-bbd28ba6ed873172f28c","vi":"<CFFF8><CFFFD>Tôi giỏi thế mà."}
+{"id":"RDS-ab63c44431d63819d853","vi":"<CFFF8><CFFFD>Thật sao?"}
+{"id":"RDS-d705c369f1108b141a9f","vi":"<CFFF8><CFFFD>T-T-Thật á?"}
+{"id":"RDS-aa901cc7f1361c2a2859","vi":"<CFFF8><CFFFD>Ừ, bọn tôi sát cánh<CFFFD>lâu lắm rồi."}
+{"id":"RDS-cdb9e4c765f5b487e2a5","vi":"<CFFF8><CFFFD>Tôi còn phải luyện nhiều."}
+{"id":"RDS-de729a6a9e0d38a102e3","vi":"Gin<C3000><CFFFD>Giờ ta có chuyện<CFFFD>muốn nhờ hai người."}
+{"id":"RDS-5133014419fa98c0d1c5","vi":"Gin<C3000><CFFFD>Ta cần hai người đánh quái."}
+{"id":"RDS-c8bc12bbca84782bfab3","vi":"<CFFFB><CFFFD>Nhận nhiệm vụ, tôi không ngại."}
+{"id":"RDS-23546c4b337187c8c906","vi":"Gin<C3000><CFFFD>Cả mạo hiểm giả như hai người<CFFFD>cũng sẽ chật vật đấy."}
+{"id":"RDS-782ec2758bd0b36a83b3","vi":"<CFFFB><CFFFD>Nó mạnh đến thế à?"}
+{"id":"RDS-fa15bcb1623e05d3498a","vi":"Gin<C3000><CFFFD>Ừ. Con quái<CFFFD>ta muốn cậu đánh..."}
+{"id":"RDS-e7ea4587722277a1b283","vi":"<CFFFB><CFFFD>Là...?"}
+{"id":"RDS-3d6141dd09582b091301","vi":"Gin<C3000><CFFFD>Rồng <CFFEF>Hydrolancer<CFFF4>.<CFFFD>Ở <CFFF2>El Mes Gorge - South<CFFF4>."}
+{"id":"RDS-7d59b8e8a06810f5def5","vi":"Gin<C3000><CFFFD>Nó chiếm núi<CFFFD>và nhất quyết không đi. <CFFFC> Gin<C3000><CFFFD>Cứ thế sẽ gây họa<CFFFD>cho thành phố gần đó."}
+{"id":"RDS-8072a14c5aeb82b02322","vi":"<CFFFB><CFFFD>Rồng cơ à..."}
+{"id":"RDS-f73299d7159014ff2fd2","vi":"Gin<C3000><CFFFD>Đội cậu có Knight giỏi,<C3000><CFFFD>nên <CFFFC> Gin<C3000><CFFFD>ta nghĩ sẽ làm được..."}
+{"id":"RDS-50cd31d7b1dc020a6794","vi":"<CFFF8><CFFFD>Rồng á... <CFFFC> <CFFF8><CFFFD>Háo hức quá!"}
+{"id":"RDS-c88a4d4d2a8b8fe82613","vi":"<CFFF8><CFFFD>Rồng thôi mà! Dễ ợt!"}
+{"id":"RDS-9e02b9f30eb2d6174bea","vi":"<CFFF8><CFFFD>Rồng à? Ngán đấy... <CFFFC> <CFFF8><CFFFD>Nhưng dù sao<CFFFD>cậu quyết định đi, <CFFFB>."}
+{"id":"RDS-817a03471f92882fc9a6","vi":"<CFFF8><CFFFD>Rồng sao..."}
+{"id":"RDS-1a145aec3c554f163d60","vi":"<CFFF8><CFFFD>Nên nghĩ lại đã."}
+{"id":"RDS-d734e6480ff5a3d4aa17","vi":"<CFFF8><CFFFD>Cậu là đội trưởng mà."}
+{"id":"RDS-96a8349172ea09e51b9b","vi":"<CFFF8><CFFFD>Rồng ư...<CFFFD>Hơi lo đấy."}
+{"id":"RDS-a075d2deeed6d890c18f","vi":"Gin<C3000><CFFFD>Sao nào?<CFFFD>Đi săn rồng chứ?"}
+{"id":"RDS-b0c661381918f44200b8","vi":"<CFFFB><CFFFD>Được.<CFFFD>Tôi nhận nhiệm vụ."}
+{"id":"RDS-ba9f80744671bd422969","vi":"Gin<C3000><CFFFD>Thật chứ?!"}
+{"id":"RDS-6207f866c31787504bd0","vi":"Gin<C3000><CFFFD>Nhắc lại nhé. <CFFFC> Gin<C3000><CFFFD>Con rồng ở<CFFFD><CFFF2>El Mes Gorge - South<CFFF4>. <CFFFC> Gin<C3000><CFFFD>Đừng quên dẫn Knight<CFFFD>theo cùng."}
+{"id":"RDS-a27c1610661f967875c5","vi":"<CFFFB><CFFFD>Thôi, chắc không đâu."}
+{"id":"RDS-788e4ebe5d3749f9affc","vi":"Gin<C3000><CFFFD>Ta hiểu. <CFFFC> Gin<C3000><CFFFD>Muốn nhận nhiệm vụ<CFFFD>diệt rồng thì <CFFFC> Gin<C3000><CFFFD>cứ quay lại gặp ta."}
+{"id":"RDS-dd203b530899370d1ef5","vi":"Gin<C3000><CFFFD>Cậu có muốn theo<CFFFD>tinh thần hiệp sĩ Knight không?"}
+{"id":"RDS-bf4430d928683027e9da","vi":"<CFFFB><CFFFD>Nó kia rồi."}
+{"id":"RDS-ad4e28f087ee3f6c3b49","vi":"<CFFFB><CFFFD>Chưa biết sẽ ra sao,<CFFFD>nhưng <CFFFC> <CFFFB><CFFFD>cứ tới luôn!"}
+{"id":"RDS-fcae2e4d853b692e2e78","vi":"<CFFF8><CFFFD>Nó tới kìa!"}
+{"id":"RDS-0e3f77a85a537b3900fb","vi":"<CFFF8><CFFFD>Bắt đầu thôi!"}
+{"id":"RDS-d0db83a886e8177e29a1","vi":"<CFFF8><CFFFD>Nó đến rồi!"}
+{"id":"RDS-a6ac27aaba1385b43885","vi":"<CFFF8><CFFFD>Cuối cùng cũng bắt đầu..."}
+{"id":"RDS-48515d093ccf7e57ceeb","vi":"<CFFF8><CFFFD>Đối thủ xứng tầm."}
+{"id":"RDS-d8d376644e104164e3d8","vi":"<CFFF8><CFFFD>Chúc cả hai may mắn!"}
+{"id":"RDS-f88f2761d9c765823af3","vi":"<CFFFB><CFFFD>Thắng rồi à?"}
+{"id":"RDS-f9990580835878e04be0","vi":"<CFFF8><CFFFD>Làm được rồi,<CFFFD><CFFFB>!"}
+{"id":"RDS-ec61067f683543b2d63e","vi":"<CFFF8><CFFFD>Xem ra thắng rồi."}
+{"id":"RDS-89bae6233820175a85bc","vi":"<CFFF8><CFFFD>Thắng rồi,<CFFFD><CFFFB>!"}
+{"id":"RDS-1b3db785eb69a1bf5c6e","vi":"<CFFF8><CFFFD>Cuối cùng cũng thắng được."}
+{"id":"RDS-ec157c2040f1c8f2392a","vi":"<CFFF8><CFFFD>Đối thủ mạnh thật."}
+{"id":"RDS-977ad611336ccf91aaf1","vi":"<CFFF8><CFFFD>Chúng ta thắng rồi!"}
+{"id":"RDS-3298d983a71c8763c9c2","vi":"<CFFFB><CFFFD>Về lại<CFFFD>Swordsman Guild thôi. <CFFFC> <CFFFB><CFFFD>Cho Gin bất ngờ!"}
+{"id":"RDS-c0026b78c3c530e6d426","vi":"Gin<C3000><CFFFD>Một con <CFFEF>Hydrolancer<CFFF4><CFFFD>ở <CFFF2>El Mes Gorge - South<CFFF4>. <CFFFC> Gin<C3000><CFFFD>Chắc cùng đàn<CFFFD>với con trước."}
+{"id":"RDS-22aab10ed0750ff1a7c0","vi":"Gin<C3000><CFFFD>Nó chiếm núi<CFFFD>và không chịu đi."}
+{"id":"RDS-f7163aca6e85c23f9f71","vi":"Gin<C3000><CFFFD>Đội cậu có Knight giỏi,<C3000><CFFFD>nên <CFFFC> Gin<C3000><CFFFD>ta nghĩ làm được..."}
+{"id":"RDS-722186892511470f995d","vi":"Gin<C3000><CFFFD>Ra vậy. <CFFFC> Gin<C3000><CFFFD>Ta cứ tưởng cậu<CFFFD>sẽ vất vả, bởi <CFFFC> Gin<C3000><CFFFD>đâu ngờ rồng lại<CFFFD>bị hạ dễ thế..."}
+{"id":"RDS-e37d0b17a1bd5b649af3","vi":"Gin<C3000><CFFFD>Thôi, nhận lấy này."}
+{"id":"RDS-a125eefb7b8ebafa5b3d","vi":"Gin<C3000><CFFFD>Với ta, cậu là<CFFFD>mạo hiểm giả số một thế giới."}
+{"id":"RDS-4a39b010473fc4e880c2","vi":"<CFFFD>Nhận <CFFF1>Job Exp.<CFFF4>!"}
+{"id":"RDS-f8f0b5fd59e7675567c5","vi":"Marie<C3000><CFFFD>Mạo hiểm giả lẫn Magician<CFFFD>đều phải tìm tòi, <CFFFC> Marie<C3000><CFFFD>nên cũng giống nhau ở điểm đó."}
+{"id":"RDS-81d3d62c5bab4afc8b10","vi":"Marie<C3000><CFFFD>Vì vậy tôi nghĩ cậu<CFFFD>sẽ là Magician giỏi."}
+{"id":"RDS-5d66427308fdaa4d71d3","vi":"Marie<C3000><CFFFD>Về rồi à?<CFFFD>Mọi việc sao rồi?"}
+{"id":"RDS-76353892d4d3d39657cd","vi":"<CFFFB><CFFFD>Cho tôi hỏi chút."}
+{"id":"RDS-f8bdfb7eddf72d0e229e","vi":"Marie<C3000><CFFFD>Gì vậy?"}
+{"id":"RDS-ad91b53dc3013f58feb4","vi":"<CFFFB><CFFFD>Rốt cuộc Magician đó<C3000><CFFFD>đang định làm gì?"}
+{"id":"RDS-14cada2017e1914b8157","vi":"Marie<C3000><CFFFD>Tôi nhờ cậu làm việc này<CFFFD>thì phải giải thích cho rõ."}
+{"id":"RDS-dc9e2a94b9098a07cbe2","vi":"Marie<C3000><CFFFD>Cô ấy muốn biến<CFFFD>mọi ác quỷ thành người tốt."}
+{"id":"RDS-dd42dc34fe3ef608107a","vi":"<CFFFB><CFFFD>Ừ, cô ấy có nói thế."}
+{"id":"RDS-48ea85841d474da7f605","vi":"Marie<C3000><CFFFD>Cô ấy là một trong những<CFFFD>Magician mạnh nhất lịch sử <CFFFC> Marie<C3000><CFFFD>Guild, nhưng cứ mải mê <CFFFC> Marie<C3000><CFFFD>theo đuổi ý tưởng<CFFFD>điên rồ về ác quỷ."}
+{"id":"RDS-cb0209a7e282125e56ac","vi":"Marie<C3000><CFFFD>Dù có thành công,<CFFFD>ác quỷ cũng không phục tùng hết. <CFFFC> Marie<C3000><CFFFD>Magician nào cũng biết điều đó."}
+{"id":"RDS-f851e4c444ea38d203ef","vi":"<CFFFB><CFFFD>Nên cô mới nhờ chúng tôi<CFFFD>ngăn cô ấy lại."}
+{"id":"RDS-63ba185f5fa59d95449c","vi":"Marie<C3000><CFFFD>Cô ấy còn non thôi,<CFFFD>thực ra không xấu. <CFFFC> Marie<C3000><CFFFD>Nhưng cô ấy mạnh đến mức<CFFFD>không ai trong Guild <CFFFC> Marie<C3000><CFFFD>kiềm chế nổi."}
+{"id":"RDS-5654914b13c990644922","vi":"<CFFFB><CFFFD>Sao cô ấy lại ra nông nỗi này?"}
+{"id":"RDS-87462f6943cf0260dbca","vi":"Marie<C3000><CFFFD>Chịu. Phép thuật đâu thể<CFFFD>đọc được suy nghĩ. <CFFFC> Marie<C3000><CFFFD>Trừ khi hai người có<CFFFD>mối gắn kết rất sâu như hai cậu."}
+{"id":"RDS-22e4d799a56b23e88aa0","vi":"<CFFFB><CFFFD>Đừng bất ngờ nói thế chứ.<CFFFD>Ngượng lắm..."}
+{"id":"RDS-3895f8dc08f878b83b9a","vi":"Marie<C3000><CFFFD>Mối gắn kết giữa hai người<CFFFD>lại sâu sắc hơn rồi."}
+{"id":"RDS-6cae1c0a9f60f7d8856d","vi":"<CFFF8><CFFFD>Cô nghĩ thật à?"}
+{"id":"RDS-fb22c0e1f8a6fa551614","vi":"<CFFF8><CFFFD>Nhìn rõ thế sao?"}
+{"id":"RDS-c88e41299dcddb5e1ba6","vi":"Marie<C3000><CFFFD>Ừ. Tôi thấy rõ<CFFFD>sự gắn kết rất mạnh ấy."}
+{"id":"RDS-6da7a512662913a35897","vi":"Marie<C3000><CFFFD>Guildmaster, tôi tặng<CFFFD>thứ đó cho họ được chứ?"}
+{"id":"RDS-9aa3742d6ae51d39109f","vi":"Guildmaster<C3000><CFFFD>Được. Cô đã<CFFFD>quyết rồi mà, đúng không?"}
+{"id":"RDS-bc01e9e69cff1e8529f6","vi":"Marie<C3000><CFFFD>Cảm ơn."}
+{"id":"RDS-ece29ca2a727aaf9b7b2","vi":"Marie<C3000><CFFFD><CFFFB>.<CFFFD>Đây là phần thưởng của cậu."}
+{"id":"RDS-43bf60703cab820b0221","vi":"<CFFFB><CFFFD>Gì đây?<CFFFD>Tôi cảm thấy là lạ..."}
+{"id":"RDS-fb2eb00f33fb5a7d81ad","vi":"Marie<C3000><CFFFD><CFFF1>Wizard's Spirit<CFFF4>. <CFFFC> Marie<C3000><CFFFD>Nó chứa toàn bộ<CFFFD>bí thuật của Wizard."}
+{"id":"RDS-60f811e548d03b1b6ccf","vi":"Marie<C3000><CFFFD>Sở hữu nó chứng tỏ cậu <CFFFC> Marie<C3000><CFFFD>là mạo hiểm giả xuất sắc nhất,<CFFFD>được Magician Guild công nhận."}
+{"id":"RDS-1c2eef42c6f2c26a9b2e","vi":"<CFFFB><CFFFD><CFFF1>Wizard's Spirit<CFFF4>... <CFFFC> <CFFFB><CFFFD>Tôi chỉ có thể<CFFFD>nhận món này <CFFFC> <CFFFB><CFFFD>là nhờ cậu nỗ lực,<CFFFD><CFFF8>."}
+{"id":"RDS-84bd28cbd0a52e904b03","vi":"<CFFF8><CFFFD>Tôi đồng ý!"}
+{"id":"RDS-52822ab66ad2ceafca57","vi":"<CFFF8><CFFFD>Tôi cũng rất vui!"}
+{"id":"RDS-ba509e53c85515635d0a","vi":"<CFFF8><CFFFD>Từ nay<CFFFD>cũng sát cánh nhé!"}
+{"id":"RDS-ffb480e8c8b6afcb33e5","vi":"Marie<C3000><CFFFD>Các cậu rất xuất sắc,<CFFFD>nhưng đừng tự mãn. <CFFFC> Marie<C3000><CFFFD>Dù là ai, ở đâu, <CFFFC> Marie<C3000><CFFFD>vẫn luôn có điều<CFFFD>để học hỏi."}
+{"id":"RDS-7fb7bceeabb9fa848da5","vi":"Marie<C3000><CFFFD><CFFFB>.<CFFFD>Hãy tiếp tục phiêu lưu."}
+{"id":"RDS-96071af0a61293260e54","vi":"<CFFFB><CFFFD><CFFF8>!<CFFFD>Đi thôi!"}
+{"id":"RDS-b45ab552c7414beeef8e","vi":"<CFFF8><CFFFD>Ừ, đi nào."}
+{"id":"RDS-c68dbb7af1396236be28","vi":"<CFFF8><CFFFD>Đi thôi!"}
+{"id":"RDS-dd92e7ac6acc9d0edd4c","vi":"<CFFF8><CFFFD>Cùng đi nhé!"}
+{"id":"RDS-a570e668de8c75132a26","vi":"<CFFFD>Nhận <CFFF1>Wizard's Spirit<CFFF4>!"}
+{"id":"RDS-c3c307b986ec32b10844","vi":"Marie<C3000><CFFFD>Cậu muốn nhận nhiệm vụ chứ?"}
+{"id":"RDS-8998695dc3161329e5f9","vi":"Marie<C3000><CFFFD>Cậu định bỏ cuộc sao?"}
+{"id":"RDS-e999b24d3ea21d654e84","vi":"Marie<C3000><CFFFD>Ồ. <CFFFC> Marie<C3000><CFFFD>Vậy khi nào sẵn sàng<CFFFD>hãy quay lại nhé."}
+{"id":"RDS-7925ec417047bf4e4aab","vi":"Marie<C3000><CFFFD>Magician gây chuyện đang ở<CFFFD><CFFF2>Lighthalzen<CFFF4> <CFFFC> Marie<C3000><CFFFD>trong <CFFF2>Somatology Laboratory<CFFF4>. <CFFFC> Marie<C3000><CFFFD>Nhớ dẫn Wizard đồng đội<CFFFD>đi cùng nhé."}
+{"id":"RDS-64f1f1d56a8d67e54b10","vi":"Marie<C3000><CFFFD>Cậu có vẻ đang bận. <CFFFC> Marie<C3000><CFFFD>Tôi có việc cần nhờ.<CFFFD>Rảnh thì ghé gặp tôi."}
+{"id":"RDS-93922dabc2471a5a3f5e","vi":"Marie<C3000><CFFFD><CFFFB>, tôi nhớ Guild<CFFFD>cậu có một Wizard giỏi. <CFFFC> Marie<C3000><CFFFD>Thôi vậy.<CFFFD>Tôi hủy nhiệm vụ nhé. <CFFFC> Marie<C3000><CFFFD>Khi nào kết bạn<CFFFD>với Wizard khác hãy quay lại."}
+{"id":"RDS-5555ca27bb3dad6b68cf","vi":"Marie<C3000><CFFFD>Ồ, <CFFF8> giờ<CFFFD>đã là Wizard thực thụ rồi. <CFFFC> Marie<C3000><CFFFD>Cậu thấy sao?"}
+{"id":"RDS-ec3d0164326021b1f579","vi":"<CFFFB><CFFFD>Tôi cũng nghĩ thế."}
+{"id":"RDS-7f111efcddf884db5882","vi":"Marie<C3000><CFFFD>Đúng vậy."}
+{"id":"RDS-eaa59a1db2d96a820686","vi":"Marie<C3000><CFFFD><CFFFB>, hai người<CFFFD>cũng thân thiết lắm. <CFFFC> Marie<C3000><CFFFD>Cần gì Wizard khác<CFFFD>khi đã có <CFFF8>."}
+{"id":"RDS-2a4448aa60ef2b5e1134","vi":"<CFFF8><CFFFD>Cũng đúng."}
+{"id":"RDS-11c4d7aa15cda8bab1c8","vi":"<CFFF8><CFFFD>Cậu nghĩ vậy à?"}
+{"id":"RDS-27cf6959a46d2bfaac7a","vi":"<CFFF8><CFFFD>T-Thật đó hả?"}
+{"id":"RDS-0beda9f98317a9b618ea","vi":"<CFFF8><CFFFD>Bọn tôi đã sát cánh<CFFFD>lâu lắm rồi."}
+{"id":"RDS-badb9a08f013f12f1c20","vi":"<CFFF8><CFFFD>Tôi còn phải cố gắng nhiều."}
+{"id":"RDS-974485f67a95343b04e3","vi":"Marie<C3000><CFFFD>Đúng phong cách cậu rồi,<CFFFD><CFFF8>. <CFFFC> Marie<C3000><CFFFD><CFFFB>, tôi nghĩ hai cậu<CFFFD>xử lý được chuyện đó."}
+{"id":"RDS-3e03d0d3b163621c1fa1","vi":"<CFFFB><CFFFD>“Chuyện đó” là sao?"}
+{"id":"RDS-c3d64ba88720d7585248","vi":"Marie<C3000><CFFFD>Ừ thì...<CFFFD>Một Magician đang chuẩn bị <CFFFC> Marie<C3000><CFFFD>làm nghi lễ nguy hiểm tại<CFFFD><CFFF2>Somatology Laboratory<CFFF4> <CFFFC> Marie<C3000><CFFFD>ở <CFFF2>Lighthalzen<CFFF4>."}
+{"id":"RDS-487fe969402f19bdbe29","vi":"<CFFFB><CFFFD>Nguy hiểm thật sao?"}
+{"id":"RDS-474ace7af297b13bf29d","vi":"Marie<C3000><CFFFD>Cô ấy đang triệu hồi ác quỷ."}
+{"id":"RDS-3ddc3a2d763d961358ce","vi":"Marie<C3000><CFFFD>Đừng lo.<CFFFD>Chỉ là ác quỷ cấp thấp thôi. <CFFFC> Marie<C3000><CFFFD>Một, hai nghìn con<CFFFD>thì xử đẹp dễ dàng."}
+{"id":"RDS-f0d9f17badec795788f9","vi":"<CFFFB><CFFFD>Nghe đã đủ nguy hiểm rồi..."}
+{"id":"RDS-917efb07aa463252ba0b","vi":"Marie<C3000><CFFFD>Đừng để tâm tiểu tiết,<CFFFD><CFFFB>."}
+{"id":"RDS-a374d805d6288f8ff23f","vi":"<CFFFB><CFFFD>Một nghìn, hai nghìn...<CFFFD>Sao không hai vạn luôn?! <CFFFC> <CFFFB><CFFFD>“Tiểu tiết” đấy hả?!<CFFFD>Đùa nhau chắc!"}
+{"id":"RDS-dcfb3c0f9450921c328f","vi":"Marie<C3000><CFFFD>Magician Guild<CFFFD>không thể ngồi yên. <CFFFC> Marie<C3000><CFFFD>Chúng tôi đã cảnh cáo,<CFFFD>nhưng cô ấy bỏ ngoài tai."}
+{"id":"RDS-0bb8f75aa1e45e1869c7","vi":"<CFFFB><CFFFD>Không dùng vũ lực được sao?"}
+{"id":"RDS-389401e561240dab827d","vi":"Marie<C3000><CFFFD>Đã thử rồi. <CFFFC> Marie<C3000><CFFFD>Nhưng không được. <CFFFC> Marie<C3000><CFFFD>Các Magician trong Guild<CFFFD>cứ nương tay với cô ấy."}
+{"id":"RDS-480d35fc1865cf0f1779","vi":"Marie<C3000><CFFFD>Vì vậy tôi mới nhờ cậu,<CFFFD><CFFFB>."}
+{"id":"RDS-42d51eb1d855049e0ff0","vi":"Marie<C3000><CFFFD><CFFF8> chính là<CFFFD>Wizard mà chúng tôi cần, <CFFFC> Marie<C3000><CFFFD>nhất là khi cả nhóm<CFFFD>đều dày dạn phiêu lưu."}
+{"id":"RDS-57bac5fab2d85d709106","vi":"Marie<C3000><CFFFD>Sao nào?<CFFFD>Nhận nhiệm vụ nhé?"}
+{"id":"RDS-4801bcbd84e969159603","vi":"<CFFFB><CFFFD>Được. <CFFFC> <CFFFB><CFFFD>Không thể mặc kệ<CFFFD>việc nguy hiểm ấy."}
+{"id":"RDS-a90e723d562dd57f80ab","vi":"<CFFFB><CFFFD>Tôi tự ý nhận rồi, nhưng <CFFFC> <CFFFB><CFFFD><CFFF8>.<CFFFD>Cậu thấy sao?"}
+{"id":"RDS-336833b2fb02a507f92d","vi":"<CFFF8><CFFFD>Làm thôi!<CFFFD><CFFFB>!"}
+{"id":"RDS-76441f7fc99e6a7db9ea","vi":"<CFFF8><CFFFD>Dễ như ăn bánh!"}
+{"id":"RDS-255e8e1bd2ca28e3f278","vi":"<CFFF8><CFFFD>Cậu quyết định nhé,<CFFFB>."}
+{"id":"RDS-73ab3b475d585acee366","vi":"<CFFF8><CFFFD>Tôi xử lý dễ dàng thôi."}
+{"id":"RDS-38568da8e2ec595339de","vi":"<CFFF8><CFFFD>Cứ giao cho cậu."}
+{"id":"RDS-6e937f69aadc0b419a9b","vi":"<CFFF8><CFFFD><CFFFB>, cậu quyết đi.<CFFFD>Tôi nghe theo."}
+{"id":"RDS-6fdce98fd60faea929da","vi":"<CFFFB><CFFFD>Đến<CFFFD><CFFF2>Somatology Laboratory<CFFF4> nào!"}
+{"id":"RDS-b3f3c386c010f8a1104a","vi":"Marie<C3000><CFFFD>Cảm ơn cậu."}
+{"id":"RDS-2fe7bc5c3dee73645341","vi":"Marie<C3000><CFFFD>À, còn một điều."}
+{"id":"RDS-448683e66be7a4684f59","vi":"Marie<C3000><CFFFD>Nhớ dẫn <CFFF8><CFFFD>đi cùng."}
+{"id":"RDS-1aad6e1ceb157cac632b","vi":"Marie<C3000><CFFFD>Phải có Wizard<CFFFD>như <CFFF8>, nếu không <CFFFC> Marie<C3000><CFFFD>cậu mất mạng ngay."}
+{"id":"RDS-137468504f733890a8c3","vi":"<CFFFB><CFFFD>Chết thì hết vui.<CFFFD>Tôi nhớ rồi."}
+{"id":"RDS-cdd52eb99d108ec63f45","vi":"<CFFFB><CFFFD>Trông cậy vào cậu nhé,<CFFFD><CFFF8>."}
+{"id":"RDS-722e38fe5351e2807ef3","vi":"<CFFF8><CFFFD>Cứ yên tâm."}
+{"id":"RDS-71226a3640b75320895e","vi":"<CFFF8><CFFFD>Để tôi lo!"}
+{"id":"RDS-fed3422cf4239f0edf96","vi":"<CFFF8><CFFFD>Cứ giao cho tôi."}
+{"id":"RDS-a91f5ff5ad329ae62660","vi":"<CFFF8><CFFFD>T-Tôi sẽ cố hết sức!"}
+{"id":"RDS-e8b5973e58c417bfe1ea","vi":"<CFFF8><CFFFD>Tôi sẽ cố hết sức."}
+{"id":"RDS-a3c4403e0d777508acb9","vi":"Marie<C3000><CFFFD>Tốt lắm."}
+{"id":"RDS-47ffc582df9b05e88abf","vi":"Marie<C3000><CFFFD>Chúc các cậu may mắn."}
+{"id":"RDS-d149718130078eca9ce8","vi":"<CFFFB><CFFFD>Magician đó mạnh thế,<CFFFD>tôi chuẩn bị rồi quay lại."}
+{"id":"RDS-42bf5b9e2277700b2c1b","vi":"Marie<C3000><CFFFD>Được.<CFFFD>Biết lượng sức là tốt."}
+{"id":"RDS-405177b7964c4db32014","vi":"<CFFFB><CFFFD>Tôi sẽ quay lại ngay."}
+{"id":"RDS-1e02e1c3c4c632d22265","vi":"Marie<C3000><CFFFD>Tôi nhìn thấy rồi!<CFFFD>Mana của cậu mạnh quá!"}
+{"id":"RDS-22549b991367f4cc1e90","vi":"<CFFFB><CFFFD>Là cô phải không?! <CFFFC> <CFFFB><CFFFD>Kẻ đang dùng nghi lễ quái dị<CFFFD>để triệu hồi ác quỷ!"}
+{"id":"RDS-3c2a356012911a4db56c","vi":"Magician trẻ<C3000><CFFFD>Ngươi là ai?"}
+{"id":"RDS-23dbe1051447ff2ed3dd","vi":"<CFFFB><CFFFD>Tôi được Magician Guild cử đến<CFFFD>để ngăn cô lại."}
+{"id":"RDS-16604c1441a0ee9fe033","vi":"Magician trẻ<C3000><CFFFD>Ồ. <CFFFC> Magician trẻ<C3000><CFFFD>Ngươi đến trễ rồi.<CFFFD>Nghi lễ đã hoàn tất."}
+{"id":"RDS-3c4c7d2f496582f76183","vi":"Magician trẻ<C3000><CFFFD>Lần này khá suôn sẻ. <CFFFC> Magician trẻ<C3000><CFFFD>Hôm nay có khi thành công."}
+{"id":"RDS-e4fbe6d3709a4d62e6ff","vi":"<CFFFB><CFFFD>Tôi sẽ chặn cô<CFFFD>ngay bây giờ!"}
+{"id":"RDS-8116b7b46ca22e5b2484","vi":"Magician trẻ<C3000><CFFFD>Không được đâu."}
+{"id":"RDS-2bbcabb430a1a7e635a9","vi":"Magician trẻ<C3000><CFFFD>Nghi lễ sắp kết thúc rồi."}
+{"id":"RDS-48bfa51eaa60f0b3f760","vi":"<CFFF8><CFFFD>Lùi lại, <CFFFB>!"}
+{"id":"RDS-2035f9fbcd5cb83ccb58","vi":"<CFFF8><CFFFD>Cẩn thận, <CFFFB>!"}
+{"id":"RDS-89b0fac71c5d0fc9ba81","vi":"<CFFF8><CFFFD>Cúi xuống!"}
+{"id":"RDS-8304d21e1b320c507635","vi":"<CFFF8><CFFFD>C-Cẩn thận!"}
+{"id":"RDS-04a209c621af1019a20d","vi":"<CFFF8><CFFFD>Nằm xuống, <CFFFB>!"}
+{"id":"RDS-f88bc3a50599bfc750ba","vi":"Magician trẻ<C3000><CFFFD>Sao không có gì xuất hiện?"}
+{"id":"RDS-33f0bd2c7772f5fc5908","vi":"Magician trẻ<C3000><CFFFD>Hiểu rồi. Chắc bên kia<CFFFD>họ cần thêm thời gian."}
+{"id":"RDS-04ea0f1b347cb8dee64e","vi":"<CFFFB><CFFFD>Tôi chặn cô trước khi đó xảy ra!"}
+{"id":"RDS-7be3b0e7b6a57f3bb34f","vi":"<CFFFB><CFFFD>Lên nào, <CFFF8>!"}
+{"id":"RDS-9015b45a9baa58bc0386","vi":"<CFFF8><CFFFD>Tôi cho cô ta một trận!"}
+{"id":"RDS-f62af30996c1b1563f08","vi":"<CFFF8><CFFFD>Ừ..."}
+{"id":"RDS-8ce2fb808ae51ebfc2de","vi":"Magician trẻ<C3000><CFFFD>Các ngươi mạnh thật."}
+{"id":"RDS-a576a0484cfb4d282c67","vi":"<CFFFB><CFFFD>Ừ, cảm ơn...<CFFFD>Giờ dừng triệu hồi đi!"}
+{"id":"RDS-5836c39c76fd4f050e6f","vi":"Magician trẻ<C3000><CFFFD>KHÔNG! Ta không bỏ cuộc. <CFFFC> Magician trẻ<C3000><CFFFD>Ta sẽ tập hợp thật nhiều<CFFFD>ác quỷ và cảm hóa tất cả."}
+{"id":"RDS-b2e9c3d031b9c1a8adba","vi":"Magician trẻ<C3000><CFFFD>Cứ chờ xem.<CFFFD>Ta không bỏ cuộc!"}
+{"id":"RDS-37130565a930e7d1531f","vi":"<CFFF8><CFFFD>Cô ta chạy rồi!"}
+{"id":"RDS-af2e0b64d1878a3ff5fe","vi":"<CFFF8><CFFFD>Đừng chạy!"}
+{"id":"RDS-7f76c7ff2aefbe101a54","vi":"<CFFF8><CFFFD>Cô ta bỏ chạy."}
+{"id":"RDS-8f8e9865e1f990ebf8a0","vi":"<CFFF8><CFFFD>Thế là chạy mất."}
+{"id":"RDS-cfb1ce58ef02d9d4dec8","vi":"<CFFF8><CFFFD>Cô ta thoát rồi."}
+{"id":"RDS-d2c1f786a2bbf0f72fb4","vi":"<CFFFB><CFFFD>Cô ấy đang nghĩ gì nhỉ?"}
+{"id":"RDS-c7d70d6ba16c288aa91f","vi":"<CFFFB><CFFFD>Thôi, về<CFFFD>Magician Guild đi."}
+{"id":"RDS-95fc1616fe3ccc1e50e9","vi":"Marie<C3000><CFFFD>Tôi muốn cậu ngăn Magician<C3000><CFFFD>tại <CFFF2>Somatology Laboratory<CFFF4> <CFFFC> Marie<C3000><CFFFD>ở <CFFF2>Lighthalzen<CFFF4>."}
+{"id":"RDS-6f679f93bb6dfd16a187","vi":"<CFFFB><CFFFD>Lại nữa hả?"}
+{"id":"RDS-a570c8d3333e71d4eb7c","vi":"Marie<C3000><CFFFD>Cô ta im ắng một thời gian,<CFFFD>rồi lại làm nghi lễ."}
+{"id":"RDS-6ddf5a172a7788a5f8be","vi":"<CFFFB><CFFFD>Lại triệu hồi ác quỷ à?"}
+{"id":"RDS-3c75bcbd8d9a0b3bda65","vi":"Marie<C3000><CFFFD>Đúng vậy."}
+{"id":"RDS-3a8304c18f0847c2dae0","vi":"Marie<C3000><CFFFD>Magician Guild<CFFFD>LẠI cảnh cáo cô ấy, <CFFFC> Marie<C3000><CFFFD>nhưng cô ấy vẫn bỏ ngoài tai."}
+{"id":"RDS-d3a62d61822b80cdded1","vi":"<CFFFB><CFFFD>Có vẻ cô ta nhất quyết<CFFFD>phải làm nghi lễ."}
+{"id":"RDS-41badf8f61d7f6f05d1e","vi":"Marie<C3000><CFFFD>Hình như thế."}
+{"id":"RDS-f685af9decab5bea1a89","vi":"<CFFFB><CFFFD>Cứng đầu hết thuốc chữa."}
+{"id":"RDS-845e8ca23d562d84aee7","vi":"Marie<C3000><CFFFD>Không Magician nào<CFFFD>đủ sức đối phó cô ta. <CFFFC> Marie<C3000><CFFFD>Nên chúng tôi<CFFFD>mới khổ sở thế này."}
+{"id":"RDS-970cd830d1e8995a51d7","vi":"Marie<C3000><CFFFD>Vậy nên tôi mới nhờ cậu,<CFFFD><CFFFB>."}
+{"id":"RDS-1e2c2a25ea7192ca9607","vi":"<CFFFB><CFFFD>Được. <CFFFC> <CFFFB><CFFFD>Không thể mặc kệ<CFFFD>việc nguy hiểm ấy."}
+{"id":"RDS-1f7b6289ebe68e985f6e","vi":"Marie<C3000><CFFFD>Cậu cần Wizard<CFFFD>như <CFFF8>, không thì <CFFFC> Marie<C3000><CFFFD>sẽ mất mạng ngay."}
+{"id":"RDS-764e33ece37a2c0de0ee","vi":"<CFFFB><CFFFD>Chết là hỏng cả ngày.<CFFFD>Tôi nhớ rồi."}
+{"id":"RDS-a5d7154d56dbe4ae9fd1","vi":"Marie<C3000><CFFFD>Vậy cậu có nhận<CFFFD>nhiệm vụ không?"}
+{"id":"RDS-3dac96a63634ee17fb44","vi":"Marie<C3000><CFFFD>Cậu định bỏ cuộc à?"}
+{"id":"RDS-27fb2aa88afeed4a47d5","vi":"Marie<C3000><CFFFD>Ồ."}
+{"id":"RDS-b2067a1e7046f37a5ba1","vi":"Marie<C3000><CFFFD>Khi nào sẵn sàng<CFFFD>thì quay lại nhé."}
+{"id":"RDS-95a44118a0b3e67a4b74","vi":"Marie<C3000><CFFFD>Magician gây chuyện ở<CFFFD><CFFF2>Lighthalzen<CFFF4> <CFFFC> Marie<C3000><CFFFD>trong <CFFF2>Somatology Laboratory<CFFF4>."}
+{"id":"RDS-4468c01b294ec1088ae2","vi":"Marie<C3000><CFFFD>Nhớ dẫn Wizard đồng đội<CFFFD>đi cùng."}
+{"id":"RDS-bca15c656eb08b86dc05","vi":"Marie<C3000><CFFFD>Phải có người<CFFFD>rành phép thuật, <CFFFC> Marie<C3000><CFFFD>không sẽ chết đấy."}
+{"id":"RDS-43840eec7508dbffc88a","vi":"Marie<C3000><CFFFD>Ồ, cảm ơn nhé."}
+{"id":"RDS-61b7f0700c263ff209c4","vi":"Marie<C3000><CFFFD>À, còn một điều<CFFFD>để phòng xa."}
+{"id":"RDS-0b7da277242a4373cc42","vi":"Marie<C3000><CFFFD>Chắc cậu biết rồi,<CFFFD>nhưng nhớ dẫn <CFFFC> Marie<C3000><CFFFD>Wizard đồng đội theo cùng."}
+{"id":"RDS-cc1adf63f409f2dc19b2","vi":"<CFFFB><CFFFD>Tôi nhớ rồi."}
+{"id":"RDS-881bbf0b153e656a999c","vi":"Marie<C3000><CFFFD>Chúc may mắn. <CFFFC> Marie<C3000><CFFFD>Đừng có chết nhé."}
+{"id":"RDS-268ce670e9d43833f4d7","vi":"<CFFFB><CFFFD>Tôi có định chết đâu..."}
+{"id":"RDS-401621c31ed99af920ac","vi":"Marie<C3000><CFFFD>Cậu chẳng có Wizard nào đủ giỏi."}
+{"id":"RDS-6211b1f1732d3ae20514","vi":"Marie<C3000><CFFFD>Guild cậu thiếu Wizard, <CFFFC> Marie<C3000><CFFFD>nên tôi không thể nhờ cậu<CFFFD>xử lý Magician gây chuyện."}
+{"id":"RDS-a13a0935e35ab2128e76","vi":"Marie<C3000><CFFFD>Về rồi à?<CFFFD>Sao rồi?"}
+{"id":"RDS-f3f7650455f4bfe8eeca","vi":"<CFFFB><CFFFD>Cô ta trốn mất."}
+{"id":"RDS-643f8553486e58a8005d","vi":"Marie<C3000><CFFFD>Ồ, tiếc thật."}
+{"id":"RDS-ec1c30cf36ad17122985","vi":"<CFFFB><CFFFD>Cô ta vẫn đang<CFFFD>triệu hồi ác quỷ."}
+{"id":"RDS-57bd471b259c4590d1fc","vi":"Marie<C3000><CFFFD>Mong cô ấy sớm dừng lại."}
+{"id":"RDS-f482459df132b94a76a3","vi":"Marie<C3000><CFFFD>Dù cô ta thiên tài đến đâu,<CFFFD>cũng không thể thay đổi <CFFFC> Marie<C3000><CFFFD>suy nghĩ của ác quỷ.<CFFFD>Mana mạnh mấy cũng vậy."}
+{"id":"RDS-27d6d474ce179f17d6b5","vi":"Marie<C3000><CFFFD>Dù thành công,<CFFFD>ác quỷ cũng chẳng phục tùng hết."}
+{"id":"RDS-38b2f5ca3f308a257aaa","vi":"Marie<C3000><CFFFD>Magician nào cũng biết cả."}
+{"id":"RDS-da5f73c99878ac128b99","vi":"Marie<C3000><CFFFD>Nhưng các cậu làm tốt lắm."}
+{"id":"RDS-4430d257cca52873da41","vi":"Marie<C3000><CFFFD>Dù vậy, phép thuật không thể<CFFFD>đọc suy nghĩ người khác. <CFFFC> Marie<C3000><CFFFD>Trừ phi hai cậu có<CFFFD>gắn kết sâu sắc thế này."}
+{"id":"RDS-bfed1d9cf358e9f23238","vi":"Marie<C3000><CFFFD>Ừ. Tôi nhìn thấy rõ<CFFFD>mối gắn kết giữa hai cậu."}
+{"id":"RDS-07719276e05940eaaa06","vi":"Marie<C3000><CFFFD>Các cậu rất xuất sắc.<CFFFD>Nhưng đừng tự mãn nhé. <CFFFC> Marie<C3000><CFFFD>Dù ở đâu, là ai,<CFFFD>vẫn luôn có điều để học."}
+{"id":"RDS-ed28d2c9652d62740298","vi":"<CFFFB><CFFFD>Mạo hiểm giả giỏi nhất à? <CFFFC> <CFFFB><CFFFD>Nhờ có <CFFF8><CFFFD>mới được như hôm nay."}
+{"id":"RDS-6d9113de9f9054ea0d23","vi":"<CFFFB><CFFFD>Mong ta mãi là bạn tốt!<CFFFD><CFFF8>!"}
+{"id":"RDS-6b2d8eb014ceab7fcb37","vi":"<CFFF8><CFFFD>Tôi cũng mong vậy!"}
+{"id":"RDS-4a3e7b18ec7e49b0305f","vi":"<CFFF8><CFFFD>Tôi cũng nghĩ thế."}
+{"id":"RDS-548bdad316b75cf543a5","vi":"<CFFF8><CFFFD>Tôi cũng vậy."}
+{"id":"RDS-e6ef4d78527e90c9f8c1","vi":"<CFFF8><CFFFD>Cứ cùng nhau cố gắng nhé."}
+{"id":"RDS-ff5470f82f5864116f82","vi":"<CFFFB><CFFFD>Lần này tôi tóm được cô."}
+{"id":"RDS-4a51fd883a4837b57bb0","vi":"Magician trẻ<C3000><CFFFD>Lại là ngươi."}
+{"id":"RDS-f4b8e3867fd4e184c58d","vi":"<CFFFB><CFFFD>Thôi triệu hồi ác quỷ đi."}
+{"id":"RDS-2aac542344285c08abd1","vi":"Magician trẻ<C3000><CFFFD>Ngươi đến muộn rồi.<CFFFD>Nghi lễ đã xong."}
+{"id":"RDS-f160ab3f753846a49c17","vi":"<CFFFB><CFFFD>Không liên quan!<CFFFD>Dừng triệu hồi đi!"}
+{"id":"RDS-03baa8c68c72992a4a16","vi":"Magician trẻ<C3000><CFFFD>Ta không bỏ cuộc. <CFFFC> Magician trẻ<C3000><CFFFD>Ta sẽ gom thật nhiều<CFFFD>ác quỷ và cảm hóa tất cả."}
+{"id":"RDS-d0bfb7230c0e9d9eb997","vi":"<CFFF8><CFFFD>Cô ta chạy rồi."}
+{"id":"RDS-4bb4e249cde662d4ab48","vi":"<CFFFB><CFFFD>Lại để cô ta thoát."}
+{"id":"RDS-f57439b2eb867595225b","vi":"<CFFFB><CFFFD>Về lại<CFFFD>Magician Guild thôi."}
+{"id":"RDS-d66a4dc75981fffaed5b","vi":"Fritz<C3000><CFFFD>Chúng ta trộm được mọi thứ."}
+{"id":"RDS-a8714aacc2ad510e98ed","vi":"Fritz<C3000><CFFFD>Nhưng biết không? <CFFFC> Fritz<C3000><CFFFD>Kho báu thật sự<CFFFD>không phải đồ đi trộm. <CFFFC> Fritz<C3000><CFFFD>Mà là thứ tự tay tạo ra."}
+{"id":"RDS-4cc27eb8ea99a2a7db45","vi":"Fritz<C3000><CFFFD>Nhớ kỹ nhé."}
+{"id":"RDS-de79f65991528f9f502b","vi":"Fritz<C3000><CFFFD>Ồ, cậu về rồi."}
+{"id":"RDS-c08ff0f855a1195eadca","vi":"Fritz<C3000><CFFFD>Vậy là hoàn thành<CFFFD>nhiệm vụ rồi nhỉ? <CFFFC> Fritz<C3000><CFFFD>Đỉnh thật đấy."}
+{"id":"RDS-414b5174b434d832f516","vi":"<CFFFB><CFFFD>Cũng tạm.<CFFFD>Tôi chỉ đuổi hắn đi thôi."}
+{"id":"RDS-043d49e216334ff878e6","vi":"Fritz<C3000><CFFFD>Thế là đủ. Cậu đã<CFFFD>đẩy lùi tên Thief khét tiếng. <CFFFC> Fritz<C3000><CFFFD>Giỏi lắm."}
+{"id":"RDS-d36d90116f6e00c6ac38","vi":"<CFFFB><CFFFD>Không, nhờ<CFFFD><CFFF8> cả đấy. <CFFFC> <CFFFB><CFFFD>Không có <CFFF8>,<CFFFD>tôi chẳng áp sát nổi hắn."}
+{"id":"RDS-af6bb8bd8a5dccedc889","vi":"<CFFF8><CFFFD>Đừng tâng bốc tôi."}
+{"id":"RDS-74f202f30d3d61b85d52","vi":"<CFFF8><CFFFD>Tôi giỏi mà!"}
+{"id":"RDS-01ebf95d630c02cbc974","vi":"<CFFF8><CFFFD>Tôi đâu giúp được bao nhiêu."}
+{"id":"RDS-55523b39b7723fa96da7","vi":"<CFFF8><CFFFD>Lần này thì cũng đúng."}
+{"id":"RDS-8864fc8c5a48b68e82ab","vi":"<CFFF8><CFFFD>Đâu hẳn."}
+{"id":"RDS-06dfec8715e1247cf87b","vi":"<CFFF8><CFFFD>Cậu đánh giá tôi cao quá."}
+{"id":"RDS-153e4af76cea731277fd","vi":"Fritz<C3000><CFFFD>Dù sao, rõ ràng<CFFFD>các cậu rất giỏi."}
+{"id":"RDS-40224eba169ce8d08bbc","vi":"Guildmaster<C3000><CFFFD><CFFFB> và Guild<CFFFD>của cậu ấy thật xuất sắc."}
+{"id":"RDS-4410f965a215fb323d70","vi":"Guildmaster<C3000><CFFFD>Với tư cách Guildmaster<CFFFD>của Thieves Guild, ta sẽ <CFFFC> Guildmaster<C3000><CFFFD>công nhận năng lực của <CFFFB>."}
+{"id":"RDS-5294ccb6f73f4e084d64","vi":"Fritz<C3000><CFFFD>Vậy ta trao món đó nhé?"}
+{"id":"RDS-3c6b1c5c842db2666261","vi":"Guildmaster<C3000><CFFFD>Ừ, trao đi."}
+{"id":"RDS-0a1c1874349c1949fdda","vi":"Fritz<C3000><CFFFD>Mừng cho cậu, <CFFFB>.<CFFFD>Giờ cậu là số một rồi."}
+{"id":"RDS-52a100bac1e2580b737d","vi":"Fritz<C3000><CFFFD>Nó chứa toàn bộ<CFFFD>bí thuật của Thief. <CFFFC> Fritz<C3000><CFFFD><CFFF1>Assassin's Spirit<CFFF4> đấy."}
+{"id":"RDS-7235e07e9642963bcee6","vi":"<CFFFB><CFFFD><CFFF1>Assassin's Spirit<CFFF4>..."}
+{"id":"RDS-d428e01de82a83268e1b","vi":"Fritz<C3000><CFFFD>Chỉ mạo hiểm giả xuất sắc <CFFFC> Fritz<C3000><CFFFD>được Thieves Guild công nhận<CFFFD>mới có vinh dự này."}
+{"id":"RDS-fbe2a6bb8d4459c7e3ca","vi":"Fritz<C3000><CFFFD>Nhớ giữ gìn cẩn thận."}
+{"id":"RDS-0d76e11db293535dc2c6","vi":"Fritz<C3000><CFFFD>Giờ cậu là số một rồi,<CFFFD>ta chẳng còn gì để dạy."}
+{"id":"RDS-33fb8a16580b03943a0c","vi":"Fritz<C3000><CFFFD>Cứ tiếp tục phiêu lưu<CFFFD>và sống theo ý mình. <CFFFC> Fritz<C3000><CFFFD>Dù cậu chọn lối sống nào,<CFFFD>ta vẫn tin cậu, <CFFFB>."}
+{"id":"RDS-e675130ba81bc992ad91","vi":"<CFFFB><CFFFD>Tôi sẽ làm thế."}
+{"id":"RDS-fcbaae1f428b7fb425fb","vi":"<CFFF8><CFFFD>Được thôi..."}
+{"id":"RDS-9feaca280bf1648aae03","vi":"<CFFFB><CFFFD>Cảm ơn cậu, <CFFF8>."}
+{"id":"RDS-a12d80840f18844c54e0","vi":"<CFFFB><CFFFD>Hẹn gặp lại, Fritz."}
+{"id":"RDS-dd02163246216bc0694f","vi":"Fritz<C3000><CFFFD>Hẹn gặp lại."}
+{"id":"RDS-67864208dad2929012ef","vi":"<CFFFD>Nhận <CFFF1>Assassin's Spirit<CFFF4>!"}
+{"id":"RDS-be63f99613c2ab360a70","vi":"Fritz<C3000><CFFFD>Cậu nhận nhiệm vụ chứ?"}
+{"id":"RDS-5b702d9bf2efd8f79319","vi":"Fritz<C3000><CFFFD>Cậu còn việc khác à?"}
+{"id":"RDS-b1e48e75028d0dd8e42e","vi":"Fritz<C3000><CFFFD>Ta hiểu.<CFFFD>Cậu đang bận mà. <CFFFC> Fritz<C3000><CFFFD>Rảnh thì quay lại<CFFFD>gặp ta nhé."}
+{"id":"RDS-9585aff2b0e66c79ad8b","vi":"Fritz<C3000><CFFFD>Bọn cướp đóng tại<CFFFD><CFFF2>Sograt Desert - South<CFFF4>. <CFFFC> Fritz<C3000><CFFFD>Mau xử lý<CFFFD>tên trùm bọn chúng."}
+{"id":"RDS-81b3d9d038eaf11b2679","vi":"Fritz<C3000><CFFFD>Cậu còn nhiệm vụ khác.<CFFFD>Xong rồi quay lại nhé."}
+{"id":"RDS-dc1d07e7755e1b4431cb","vi":"Fritz<C3000><CFFFD>Assassin giỏi kia đâu? <CFFFC> Fritz<C3000><CFFFD>Ta sẽ hủy nhiệm vụ này. <CFFFC> Fritz<C3000><CFFFD>Dẫn một Assassin giỏi<CFFFD>đến rồi nói chuyện tiếp."}
+{"id":"RDS-416b84fa0c340433d153","vi":"Fritz<C3000><CFFFD>Gặp rắc rối rồi..."}
+{"id":"RDS-1b39c68942ddaba28a64","vi":"Fritz<C3000><CFFFD>Một đám cướp tấn công<CFFFD>các đoàn Merchant <CFFFC> Fritz<C3000><CFFFD>đóng tại<CFFFD><CFFF2>Sograt Desert - South<CFFF4>. <CFFFC> Fritz<C3000><CFFFD>Ta nhờ Merchant ở <CFFF2>Morocc<CFFF4><CFFFD>đi dò tin về chúng. <CFFFC> Fritz<C3000><CFFFD>Nhưng lại phát sinh chuyện khác."}
+{"id":"RDS-7823a0180a2b5ee5cfed","vi":"<CFFFB><CFFFD>Chuyện gì?"}
+{"id":"RDS-d6b308f9f1b71f1c9c79","vi":"Fritz<C3000><CFFFD>Ừ."}
+{"id":"RDS-1572ec349a84a742ce14","vi":"Fritz<C3000><CFFFD>Trùm đám cướp đó <CFFFC> Fritz<C3000><CFFFD>là Thief từng<CFFFD>thuộc Guild này."}
+{"id":"RDS-1f2f1ba223755e7facc1","vi":"<CFFFB><CFFFD>Thế chẳng phải rất tệ à?"}
+{"id":"RDS-1ca22c2ea2287a64312b","vi":"Fritz<C3000><CFFFD>Ừ, cậu cũng thấy thế à?"}
+{"id":"RDS-050f627fd2593340ada5","vi":"Fritz<C3000><CFFFD>Tên phá phách đó<CFFFD>từng là người của ta, <CFFFC> Fritz<C3000><CFFFD>nên không thể<CFFFD>để khách hàng biết được."}
+{"id":"RDS-4fd3a4619f5d95385b1e","vi":"Fritz<C3000><CFFFD>Nhưng cứ giấu mãi<CFFFD>thì chẳng xong việc. <CFFFC> Fritz<C3000><CFFFD>Guild sẽ<CFFFD>mang tiếng xấu."}
+{"id":"RDS-9ff669a16f6e9e35ba42","vi":"Fritz<C3000><CFFFD>Chúng ta muốn<CFFFD>tên trùm cướp đó <CFFFC> Fritz<C3000><CFFFD>biến mất cho nhanh. <CFFFC> Fritz<C3000><CFFFD>Và phải làm thật kín<CFFFD>để Merchant không biết."}
+{"id":"RDS-43d1b79be0fecb7fdbf8","vi":"Fritz<C3000><CFFFD>Đến lượt cậu rồi,<CFFFD>mạo hiểm giả."}
+{"id":"RDS-1ce1c3382e8c0d7926bb","vi":"Fritz<C3000><CFFFD>Cậu xử tên trùm<CFFFD>bọn cướp ở <CFFFC> Fritz<C3000><CFFFD><CFFF2>Sograt Desert - South<CFFF4> nhé? <CFFFC> Fritz<C3000><CFFFD>Nhớ hành động thật kín<CFFFD>được không?"}
+{"id":"RDS-d9e355d71e31034e8696","vi":"<CFFFB><CFFFD>“Kín” là thế nào?"}
+{"id":"RDS-e87e23bcfd04d11dc141","vi":"Fritz<C3000><CFFFD>Với cậu thì không khó. <CFFFC> Fritz<C3000><CFFFD>Đã có <CFFF8> mà."}
+{"id":"RDS-dd7f3422d0631bf94502","vi":"Fritz<C3000><CFFFD><CFFF8> là<CFFFD>Assassin rất giỏi. <CFFFC> Fritz<C3000><CFFFD>Ta đã gặp không ít Assassin<CFFFD>trong đời, <CFFFC> Fritz<C3000><CFFFD>nên biết mình nói gì."}
+{"id":"RDS-780d5ebbe4863758c5de","vi":"Fritz<C3000><CFFFD><CFFF8> chắc chắn<CFFFD>sẽ hoàn thành tốt."}
+{"id":"RDS-6d6f21bbb355e953300f","vi":"<CFFFB><CFFFD><CFFF8><CFFFD>giỏi thế thật sao?"}
+{"id":"RDS-cd846b8658a6165b6ba9","vi":"Fritz<C3000><CFFFD>Ừ.<CFFFD>Vậy cậu nhận chứ?"}
+{"id":"RDS-62c159e3bf0f706a64c3","vi":"<CFFFB><CFFFD>Chỉ cần hạ tên trùm thôi?"}
+{"id":"RDS-666ca362568f58c266e8","vi":"Fritz<C3000><CFFFD>Đúng."}
+{"id":"RDS-ffc12b65e19212397214","vi":"Fritz<C3000><CFFFD>Cách làm<CFFFD>tùy cậu quyết định."}
+{"id":"RDS-dcfe0686e3757d08607c","vi":"<CFFFB><CFFFD><CFFF8> có vẻ<CFFFD>không phản đối, <CFFFC> <CFFFB><CFFFD>nên chúng tôi làm ngay."}
+{"id":"RDS-f7785dbd7e1e21b06583","vi":"Fritz<C3000><CFFFD>Sào huyệt bọn cướp ở<CFFFD><CFFF2>Sograt Desert - South<CFFF4>."}
+{"id":"RDS-035c663a9a05578e10ef","vi":"Fritz<C3000><CFFFD>Nhớ dẫn<CFFFD><CFFF8> đi cùng. <CFFFC> Fritz<C3000><CFFFD>Đừng quên đấy."}
+{"id":"RDS-fbde7474d4652711a661","vi":"Fritz<C3000><CFFFD>Không có người ấy, bọn cướp<CFFFD>sẽ phát hiện và tẩu thoát."}
+{"id":"RDS-5adc307376ca6ea3ee1d","vi":"<CFFFB><CFFFD>Tôi biết rồi."}
+{"id":"RDS-db9dadcb1f10b0d0e2aa","vi":"Fritz<C3000><CFFFD>Trông cậy vào cậu."}
+{"id":"RDS-254b5b78c78e1c54d819","vi":"<CFFFB><CFFFD>Tôi xin từ chối."}
+{"id":"RDS-ab1b5185c58075e03009","vi":"Fritz<C3000><CFFFD>Ta hiểu."}
+{"id":"RDS-6106e5024008977ee7d8","vi":"Fritz<C3000><CFFFD>Chắc cậu có<CFFFD>lý do riêng. <CFFFC> Fritz<C3000><CFFFD>Đổi ý thì quay lại nhé."}
+{"id":"RDS-0d4404f9dbf3e7e7db2b","vi":"Fritz<C3000><CFFFD>Khí thế của cậu<CFFFD>mạnh mẽ thật."}
+{"id":"RDS-1ff8e9ba015bff52d2b4","vi":"<CFFF8><CFFFD><CFFFB>, theo tôi."}
+{"id":"RDS-f4cea8f96ee2ed539126","vi":"<CFFF8><CFFFD>Theo tôi nào!"}
+{"id":"RDS-675dce6782ca0f58a413","vi":"<CFFF8><CFFFD>Im lặng nhé."}
+{"id":"RDS-f3f402deba564196058d","vi":"<CFFF8><CFFFD>Lối này."}
+{"id":"RDS-190f4e368be4d1dfce12","vi":"<CFFF8><CFFFD>Cố đừng phát ra tiếng."}
+{"id":"RDS-2a93dc2f0f4255a6095d","vi":"<CFFF8><CFFFD>Qua đây."}
+{"id":"RDS-4bb89552885b20829b7e","vi":"<CFFF8><CFFFD>Cẩn thận, <CFFFB>."}
+{"id":"RDS-f1328dba37acd845f2f1","vi":"<CFFFB><CFFFD>Không ai phát hiện ra."}
+{"id":"RDS-1890bc6f206cf9817ad9","vi":"<CFFFB><CFFFD>Được, phải đến gần hơn."}
+{"id":"RDS-77fbd56f4681c964b85f","vi":"Trùm cướp<C3000><CFFFD>Bọn ngươi là ai?!"}
+{"id":"RDS-9884d15412a01c18c50e","vi":"<CFFFB><CFFFD>Chết, bị phát hiện rồi!"}
+{"id":"RDS-5d220c15bad97434254b","vi":"Trùm cướp<C3000><CFFFD>Bọn ngươi là mạo hiểm giả!"}
+{"id":"RDS-b288d63ed55d71349fd9","vi":"<CFFFB><CFFFD>Đúng, thì sao!"}
+{"id":"RDS-d1ad2a5d70a7f5868a19","vi":"<CFFFB><CFFFD>Thieves Guild thuê chúng ta<CFFFD>vì không muốn <CFFFC> <CFFFB><CFFFD>ngươi gây thêm chuyện nữa."}
+{"id":"RDS-8e34d1870c5574d2a872","vi":"Trùm cướp<C3000><CFFFD>À, ra thế. <CFFFC> Trùm cướp<C3000><CFFFD>Ta biết ngay<CFFFD>bọn chúng sẽ làm vậy."}
+{"id":"RDS-76209777a28bf7948bc2","vi":"Trùm cướp<C3000><CFFFD>Nhưng đừng hòng<CFFFD>bắt ta dễ thế! <CFFFC> Trùm cướp<C3000><CFFFD>Bọn ngươi chết chắc!"}
+{"id":"RDS-609251e8c8a2cd661b49","vi":"<CFFFB><CFFFD>Cứ thử xem."}
+{"id":"RDS-66c6e9851f011112eda1","vi":"Trùm cướp<C3000><CFFFD>Nói đủ rồi!"}
+{"id":"RDS-2cbed9a916083b386d51","vi":"Trùm cướp<C3000><CFFFD>Xông lên!"}
+{"id":"RDS-ea6cfcec9f1a70a0c8c9","vi":"Đàn em<C3000><CFFFD>Rõ!"}
+{"id":"RDS-1fe05668f1440c3e13c6","vi":"Trùm cướp<C3000><CFFFD>Cẩn thận."}
+{"id":"RDS-69552b9302dc81da3976","vi":"Trùm cướp<C3000><CFFFD>Chúng áp sát đến đây<CFFFD>mà ta chẳng hề phát hiện..."}
+{"id":"RDS-b32ec938aaf5dd4fc017","vi":"Trùm cướp<C3000><CFFFD>Trận này sẽ rất khó!<CFFFD>Chuẩn bị tinh thần!"}
+{"id":"RDS-8611a955ceef9cfbc7f0","vi":"Đàn em<C3000><CFFFD>Rõ, Boss!"}
+{"id":"RDS-84ef49c09031971d0fee","vi":"<CFFFB><CFFFD>Xem ra phải đánh rồi..."}
+{"id":"RDS-0261921244272e5fac4c","vi":"<CFFF8><CFFFD>Đừng mất cảnh giác."}
+{"id":"RDS-de07f696ea6e70770f4e","vi":"<CFFF8><CFFFD>T-Tôi cố hết sức!"}
+{"id":"RDS-d29afd0d462ed017c295","vi":"<CFFF8><CFFFD>Ừ, chiến thôi!"}
+{"id":"RDS-8df39725adb4911820c7","vi":"Trùm cướp<C3000><CFFFD>Không thể nào!"}
+{"id":"RDS-d2135626c7266473ee7b","vi":"<CFFFB><CFFFD>Chỉ còn ngươi thôi."}
+{"id":"RDS-a0e8d94cc4fe0d3e1989","vi":"Trùm cướp<C3000><CFFFD>Không ngờ<CFFFD>bọn ngươi mạnh thế!"}
+{"id":"RDS-daf6fcc805d3fba28704","vi":"<CFFFB><CFFFD>Sao? Còn muốn đánh nữa không?"}
+{"id":"RDS-275afa0b22cf7fa7d477","vi":"Trùm cướp<C3000><CFFFD>Gừừừ!"}
+{"id":"RDS-8b5e528c3e1aa416b204","vi":"<CFFFB><CFFFD>Rời khỏi<CFFFD><CFFF2>Sograt Desert - South<CFFF4> đi, ta tha."}
+{"id":"RDS-dbb3a8ac211bcd36c433","vi":"<CFFF8><CFFFD>Vậy là xong à?"}
+{"id":"RDS-0d00cd73850c9605febc","vi":"<CFFF8><CFFFD>Cậu nhân từ quá, <CFFFB>!"}
+{"id":"RDS-a52fb157a42f2107efe8","vi":"<CFFF8><CFFFD>Cậu chắc không?"}
+{"id":"RDS-0a98f3f1550fbbedfbf9","vi":"<CFFF8><CFFFD>Thật sự chắc chứ?"}
+{"id":"RDS-3240e5872115f3a64c85","vi":"<CFFF8><CFFFD>Có lẽ thế cũng<CFFFD>là một cách giải quyết."}
+{"id":"RDS-8315f055f3e7b607de15","vi":"<CFFF8><CFFFD>Cậu chắc chứ, <CFFFB>?"}
+{"id":"RDS-fa77ebf944b23e9c88af","vi":"<CFFFB><CFFFD>Tôi đã hạ hết đàn em hắn,<CFFFD>đời cướp coi như chấm hết. <CFFFC> <CFFFB><CFFFD>Vậy là đủ rồi."}
+{"id":"RDS-ef86d9c262e32f787a71","vi":"<CFFFB><CFFFD>Không cần giết hắn."}
+{"id":"RDS-a2dfb9f42ac24fc4279f","vi":"Trùm cướp<C3000><CFFFD>Ngây thơ quá đấy."}
+{"id":"RDS-a9bcc05113843b87ed97","vi":"<CFFFB><CFFFD>Im mồm, không thì<CFFFD>ta giết ngươi thật đấy."}
+{"id":"RDS-1af5a889662aebb1a4d9","vi":"Trùm cướp<C3000><CFFFD>Chắc số ta đến đây.<CFFFD>Không ngờ thằng nhóc ngây thơ <CFFFC> Trùm cướp<C3000><CFFFD>lại chịu tha mạng cho ta."}
+{"id":"RDS-8b2c325690056ff57c4d","vi":"Trùm cướp<C3000><CFFFD>Nhưng ta vẫn là<CFFFD>trùm một băng cướp. <CFFFC> Trùm cướp<C3000><CFFFD>Ta không nghe lệnh ngươi!"}
+{"id":"RDS-9df3c62d6b6b4c64ec87","vi":"<CFFFB><CFFFD>Ngươi vẫn muốn đánh à?!"}
+{"id":"RDS-e02b83f5c64c2b68c6b5","vi":"Trùm cướp<C3000><CFFFD>Đỡ này!"}
+{"id":"RDS-3be0bc621554fa4163fb","vi":"<CFFFB><CFFFD>Á!"}
+{"id":"RDS-57a522ce0dfe6edf739b","vi":"<CFFF8><CFFFD>Ối!"}
+{"id":"RDS-1ee0a29499872a862d32","vi":"<CFFF8><CFFFD>Chói quá!"}
+{"id":"RDS-233bc85469c547defcfa","vi":"<CFFF8><CFFFD>Ư!"}
+{"id":"RDS-3ef4c775cf92dd133316","vi":"<CFFF8><CFFFD>Á á!"}
+{"id":"RDS-151a8b40d608d270eda3","vi":"<CFFF8><CFFFD>Lựu đạn chớp!"}
+{"id":"RDS-cccd33f44a3acf5fcceb","vi":"<CFFF8><CFFFD>Áaaa!"}
+{"id":"RDS-8c312111dfe24309de22","vi":"Trùm cướp<C3000><CFFFD>Ha ha ha!"}
+{"id":"RDS-874a19d91003017afe85","vi":"Trùm cướp<C3000><CFFFD>Chào nhé, lũ ngốc!"}
+{"id":"RDS-ffcf94dbbacb6b962877","vi":"<CFFFB><CFFFD>K-Khoan!"}
+{"id":"RDS-7296781999182d0b98fc","vi":"Trùm cướp<C3000><CFFFD>Ngốc! Ngươi bảo đợi<CFFFD>là ta đợi chắc?!"}
+{"id":"RDS-df917cb17d10555d166d","vi":"Trùm cướp<C3000><CFFFD>Ta cũng ngán cái sa mạc<CFFFD>nóng nực này lắm rồi!"}
+{"id":"RDS-37fe7966f0663e2b5e4c","vi":"Trùm cướp<C3000><CFFFD>Ta sẽ tự bỏ đi!"}
+{"id":"RDS-36eb20c5a5e9c7dcdd1d","vi":"<CFFFB><CFFFD>Rốt cuộc ngươi vẫn đi à?"}
+{"id":"RDS-7e3c8bcffb2e6a692eb5","vi":"Trùm cướp<C3000><CFFFD>TA TỰ MUỐN ĐI ĐẤY!"}
+{"id":"RDS-7a2679078aae3a24e023","vi":"Trùm cướp<C3000><CFFFD>Không phải vì thua ngươi!"}
+{"id":"RDS-32830b015580e33b757c","vi":"<CFFFB><CFFFD>Đúng là cay cú ghê!"}
+{"id":"RDS-ed4db856bdadad68efad","vi":"Trùm cướp<C3000><CFFFD>Muahaha! Chào nhé!"}
+{"id":"RDS-3cdb0cbd8e3e96db9268","vi":"<CFFFB><CFFFD>Hắn trốn mất rồi!"}
+{"id":"RDS-e17c6bb204e51cb87cf1","vi":"<CFFF8><CFFFD>Thôi kệ."}
+{"id":"RDS-8e45e7e8e89067f027d7","vi":"<CFFF8><CFFFD>Cứ để vậy đi."}
+{"id":"RDS-3603f7b305367f988925","vi":"<CFFF8><CFFFD>Mục tiêu đã hoàn thành."}
+{"id":"RDS-5989ad04f5224ebd60c3","vi":"<CFFF8><CFFFD>Thôi vậy.<CFFFD>Dù sao cũng xong việc mà?"}
+{"id":"RDS-9e99b0d060e8c530e72f","vi":"<CFFF8><CFFFD>Dù thế nào<CFFFD>nhiệm vụ cũng đã xong."}
+{"id":"RDS-45d761d60575d27c199b","vi":"<CFFF8><CFFFD>Kết quả vậy cũng ổn."}
+{"id":"RDS-f7e54823cbdb01c343ac","vi":"<CFFF8><CFFFD>Không sao đâu."}
+{"id":"RDS-b7fa7b0a5d27ed320cbf","vi":"<CFFFB><CFFFD>Vẫn thấy cấn cấn, nhưng<CFFFD>về Thieves Guild thôi."}
+{"id":"RDS-facf79ffdc78c3cffeb1","vi":"Fritz<C3000><CFFFD>Lại có chuyện rồi."}
+{"id":"RDS-41c61710ea84d445a60e","vi":"Fritz<C3000><CFFFD>Nhớ đám cướp từng tấn công<CFFFD>đoàn xe ở <CFFF2>Sograt Desert - South<CFFF4>? <CFFFC> Fritz<C3000><CFFFD>Cậu đuổi chúng đi rồi,<CFFFD>nhưng giờ chúng quay lại."}
+{"id":"RDS-0675ad169d9c6092ebf8","vi":"<CFFFB><CFFFD>...Tên ngốc đó."}
+{"id":"RDS-86f0cec2e1ffa9952805","vi":"Fritz<C3000><CFFFD>Chưa có ai<CFFFD>bị hại, <CFFFC> Fritz<C3000><CFFFD>nhưng sắp có chuyện thôi."}
+{"id":"RDS-b49bfef8f70306a5f058","vi":"Fritz<C3000><CFFFD>Với cậu thì chẳng khó<CFFFD>vì đã có <CFFF8>."}
+{"id":"RDS-ad526884537709bef813","vi":"Fritz<C3000><CFFFD>Vậy đó. <CFFFC> Fritz<C3000><CFFFD>Cậu có nhận việc không?"}
+{"id":"RDS-d0e61b4126d64e71629e","vi":"<CFFFB><CFFFD>Được.<CFFFD>Tôi nhận."}
+{"id":"RDS-0d90dbd0126e17138d94","vi":"Fritz<C3000><CFFFD>Tốt."}
+{"id":"RDS-24ea0f1b3b92feb319d7","vi":"Fritz<C3000><CFFFD>Muốn bỏ thì cứ gặp ta. <CFFFC> Fritz<C3000><CFFFD>Ta sẽ tạm hoãn việc<CFFFD>riêng cho cậu."}
+{"id":"RDS-058a7a0e10c268e97725","vi":"Fritz<C3000><CFFFD>Và nhớ dẫn<CFFFD><CFFF8> theo nhé. <CFFFC> Fritz<C3000><CFFFD>Không là bọn cướp<CFFFD>phát hiện và chạy mất."}
+{"id":"RDS-8465318fc0597a4d3a85","vi":"Fritz<C3000><CFFFD>Cảm ơn."}
+{"id":"RDS-c75cd022dc376406c9b5","vi":"Fritz<C3000><CFFFD>Cậu định bỏ việc à?"}
+{"id":"RDS-857bf360bde36db24e13","vi":"Fritz<C3000><CFFFD>Cậu đã quyết nghỉ,<CFFFD>vậy thì thôi."}
+{"id":"RDS-a4db7dfbf7e7adbdbe46","vi":"Fritz<C3000><CFFFD>Mong lần tới cậu làm xong."}
+{"id":"RDS-fc4de31f22f1992c6c44","vi":"Fritz<C3000><CFFFD>Nhớ dẫn<CFFFD><CFFF8> đi cùng."}
+{"id":"RDS-2cf57e08cbdd893b4e88","vi":"<CFFFB><CFFFD>Tôi nhận nhiệm vụ."}
+{"id":"RDS-5f32419e23c88c0c665d","vi":"Fritz<C3000><CFFFD>Assassin siêu đỉnh của cậu đâu?"}
+{"id":"RDS-d7fb6907d78fec02b655","vi":"Fritz<C3000><CFFFD>Không có Assassin đó đi cùng<CFFFD>thì ta không giao việc được."}
+{"id":"RDS-d5958a5fbb31c6cf7a8c","vi":"Fritz<C3000><CFFFD>Ta muốn cậu vào Guild này."}
+{"id":"RDS-0890880b5651ae3b9856","vi":"<CFFFB><CFFFD>Không, tất cả là nhờ<CFFFD><CFFF8>. <CFFFC> "}
+{"id":"RDS-25db44e956294d4a0f34","vi":"<CFFFB><CFFFD>Trùm cướp phát hiện tôi trước."}
+{"id":"RDS-a28442b8ff13bf89ab39","vi":"<CFFFB><CFFFD>Không có <CFFF8>,<CFFFD>tôi chẳng áp sát nổi."}
+{"id":"RDS-663dd3f3dbe2c6d39a6d","vi":"Fritz<C3000><CFFFD>Đây là phần thưởng."}
+{"id":"RDS-ea771f2695a5a4485cf3","vi":"Fritz<C3000><CFFFD>Mừng cho cậu!<CFFFD>Giờ cậu xuất sắc nhất rồi. <CFFFC> Fritz<C3000><CFFFD>Cứ sống<CFFFD>theo cách mình muốn."}
+{"id":"RDS-ab09d65f632d1d840699","vi":"Fritz<C3000><CFFFD>Cậu sống thế nào,<CFFFD>ta vẫn tin cậu."}
+{"id":"RDS-6731d24d56c72ac65837","vi":"Trùm cướp<C3000><CFFFD>!!!"}
+{"id":"RDS-cd672b6febf6aa371f3b","vi":"Trùm cướp<C3000><CFFFD>Là ngươi!"}
+{"id":"RDS-6cd9c70b10dd36a1653b","vi":"Trùm cướp<C3000><CFFFD>Thằng nhóc ngây thơ!"}
+{"id":"RDS-70fbdeba456d73ede24f","vi":"Trùm cướp<C3000><CFFFD>Ngươi lại tới!"}
+{"id":"RDS-aade004e53f74710f57c","vi":"<CFFFB><CFFFD>Tôi mới phải nói câu đó!"}
+{"id":"RDS-b16e2019813e4a7b36f3","vi":"<CFFFB><CFFFD>Lần này ngươi đừng hòng thoát!"}
+{"id":"RDS-f9e955c583d3ae2b34e6","vi":"Trùm cướp<C3000><CFFFD>Lần trước ngươi cũng nói vậy!"}
+{"id":"RDS-102c3a5fb31194a61b89","vi":"Trùm cướp<C3000><CFFFD>Lần trước chúng gặp may,<CFFFD>suýt nữa thì tóm được ta!"}
+{"id":"RDS-e4b2a81fec3536aa7613","vi":"<CFFFB><CFFFD>Đâu chỉ do may mắn."}
+{"id":"RDS-825cb7c3bbf094da16c9","vi":"<CFFFB><CFFFD>Kệ đi! Lần này tóm được ngươi!"}
+{"id":"RDS-dfbb7780439272d36ecf","vi":"Trùm cướp<C3000><CFFFD>Khôôông!"}
+{"id":"RDS-05296bbab95ec43c9261","vi":"<CFFFB><CFFFD>Tự ra đầu thú thì<CFFFD>ta tha mạng."}
+{"id":"RDS-476a94e1d9497e8d1b78","vi":"<CFFFB><CFFFD>Ở tù một thời gian<CFFFD>chắc hắn sẽ thay đổi."}
+{"id":"RDS-e4d53cc656e373e64cb6","vi":"<CFFF8><CFFFD>Nhưng mà!"}
+{"id":"RDS-f2c11c0e86b7d3c3d7a6","vi":"<CFFF8><CFFFD>Đúng kiểu cậu luôn."}
+{"id":"RDS-1e4694bbc80c73d3b4e5","vi":"<CFFF8><CFFFD>Đó cũng là<CFFFD>một cách xử lý."}
+{"id":"RDS-fa1fc01ea411ebd2fb5f","vi":"<CFFF8><CFFFD>Cậu ngây thơ quá, <CFFFB>!"}
+{"id":"RDS-105b583f3edc9c048459","vi":"<CFFFB><CFFFD>Tốt nhất ngươi<CFFFD>câm mồm đi."}
+{"id":"RDS-c5533e2a2d577ae1f8c8","vi":"Trùm cướp<C3000><CFFFD>Nhưng ta vẫn là thủ lĩnh<CFFFD>một băng cướp."}
+{"id":"RDS-b2dc54778bd53cf4d2b6","vi":"Trùm cướp<C3000><CFFFD>Ta không nghe lệnh ngươi!"}
+{"id":"RDS-fe01761f8f9e3ac703bb","vi":"<CFFFB><CFFFD>Á! Hắn lại trốn mất!"}
+{"id":"RDS-72fe9b2e8d4565f0c4d1","vi":"<CFFFB><CFFFD>Hắn quay lại thì<CFFFD>ta lại đánh tiếp thôi."}
+{"id":"RDS-63573d7392dde83132db","vi":"<CFFFB><CFFFD>Về Thieves Guild nào."}
+{"id":"RDS-527247a85e64d3bf453f","vi":"Jenny<C3000><CFFFD>Kỷ luật là tốt, <CFFFC> Jenny<C3000><CFFFD>nhưng thỉnh thoảng<CFFFD>phải tự thưởng nữa chứ."}
+{"id":"RDS-a0c7b53ee05b906a5c96","vi":"Jenny<C3000><CFFFD>Cậu giỏi thật,<CFFFD><CFFFB>. <CFFFC> Jenny<C3000><CFFFD>Tôi không ngờ cậu<CFFFD>giải quyết nhanh vậy."}
+{"id":"RDS-980f59cc3ef833c00464","vi":"Jenny<C3000><CFFFD>Tôi chưa gặp mạo hiểm giả<CFFFD>nào như hai cậu."}
+{"id":"RDS-ff3075d4c0d19654b68c","vi":"<CFFFB><CFFFD>Xem ra lũ ma bị hút<CFFFD>bởi thứ trông như cô bé. <CFFFC> <CFFFB><CFFFD>Giờ chắc mọi chuyện<CFFFD>đã ổn rồi."}
+{"id":"RDS-a72586d3f8d13eb15c39","vi":"Jenny<C3000><CFFFD>Tốt quá!"}
+{"id":"RDS-1b7aea72075652c57892","vi":"<CFFFB><CFFFD><CFFF8> cũng<CFFFD>giúp tôi rất nhiều."}
+{"id":"RDS-d47473ca7e57b786f2f3","vi":"Jenny<C3000><CFFFD>Chắc chắn rồi!"}
+{"id":"RDS-f4b25e3b76d725a6d51b","vi":"Jenny<C3000><CFFFD>Không thể giải quyết<CFFFD>việc này một mình. <CFFFC> Jenny<C3000><CFFFD>Tôi nghĩ cả cậu<CFFFD>cũng không ngoại lệ, <CFFFB>."}
+{"id":"RDS-71bc518ac650fad154ae","vi":"<CFFFB><CFFFD>Ờ... được rồi."}
+{"id":"RDS-2ffed66e7d08be0ec139","vi":"<CFFFB><CFFFD>Nhưng đúng là phải<CFFFD>cảm ơn <CFFF8>."}
+{"id":"RDS-124484731f4403dc8451","vi":"<CFFF8><CFFFD>Đừng tâng bốc tôi."}
+{"id":"RDS-33980aa10d6571622e32","vi":"<CFFF8><CFFFD>Đúng thế!"}
+{"id":"RDS-0e9ae0331e22470de74d","vi":"<CFFF8><CFFFD>Tất cả nhờ cậu!"}
+{"id":"RDS-d59210e34f02e83c0d26","vi":"<CFFF8><CFFFD>Tôi không chắc đâu."}
+{"id":"RDS-b31f6d6e7ec12b9e710a","vi":"<CFFF8><CFFFD>Không hẳn thế."}
+{"id":"RDS-3208ce5815e732124db1","vi":"Jenny<C3000><CFFFD>Ôi,<CFFFD>hai cậu hợp nhau ghê."}
+{"id":"RDS-46d1b6f5e5cd23db3e49","vi":"Guildmaster<C3000><CFFFD><CFFFB>."}
+{"id":"RDS-198269508556b862b0bd","vi":"Guildmaster<C3000><CFFFD><CFFFB>, các cậu<CFFFD>là những mạo hiểm giả giỏi nhất."}
+{"id":"RDS-5afd0fa83723c8b0de83","vi":"Guildmaster<C3000><CFFFD>Với tư cách Guildmaster<CFFFD>Acolyte Guild, ta công nhận cậu."}
+{"id":"RDS-e10163739286b7cafb85","vi":"Jenny<C3000><CFFFD>Ồ! Vậy thì...?!"}
+{"id":"RDS-8ba1588bf6de903717b8","vi":"Guildmaster<C3000><CFFFD>Ừ, trao cho họ đi."}
+{"id":"RDS-bf40b352ce95f61f8459","vi":"Jenny<C3000><CFFFD>Nó chứa toàn bộ<CFFFD>bí thuật của Acolyte. <CFFFC> Jenny<C3000><CFFFD>Chính là <CFFF1>Priest's Spirit<CFFF4>."}
+{"id":"RDS-ca885996faaffe7dd781","vi":"<CFFFB><CFFFD><CFFF1>Priest's Spirit<CFFF4>..."}
+{"id":"RDS-1f11716a9214329ac75c","vi":"Jenny<C3000><CFFFD>Chỉ những mạo hiểm giả<CFFFD>được Acolyte Guild <CFFFC> Jenny<C3000><CFFFD>công nhận xuất sắc nhất<CFFFD>mới nhận vinh dự này. <CFFFC> Jenny<C3000><CFFFD>Nên xin cậu, xin cậu,<CFFFD>hãy giữ gìn cẩn thận!"}
+{"id":"RDS-3365e2cab7951b112b3c","vi":"Jenny<C3000><CFFFD>Tôi chẳng còn gì<CFFFD>để dặn cậu, ngoài việc <CFFFC> Jenny<C3000><CFFFD>luôn tin tưởng bạn bè."}
+{"id":"RDS-30276b05d78ec1171865","vi":"<CFFFD>Nhận <CFFF1>Priest's Spirit<CFFF4>!"}
+{"id":"RDS-16e1a739c6f604da7132","vi":"Jenny<C3000><CFFFD>Cậu giúp tôi<CFFFD>đuổi ma chút nhé?"}
+{"id":"RDS-b99671df48ece6b83e71","vi":"Jenny<C3000><CFFFD>Cậu định bỏ nhiệm vụ à?"}
+{"id":"RDS-fed68c0c7c37a8b8ed45","vi":"Jenny<C3000><CFFFD>Chắc cậu có<CFFFD>việc khác. <CFFFC> Jenny<C3000><CFFFD>Khi nào nhận lại được<CFFFD>thì nhớ báo tôi nhé."}
+{"id":"RDS-7dbcf41b7d99a65a0129","vi":"Jenny<C3000><CFFFD>Nhớ dẫn Priest đi cùng<CFFFD>khi trừ ma <CFFFC> Jenny<C3000><CFFFD>ở phòng thí nghiệm Lighthalzen."}
+{"id":"RDS-c523691150229073f067","vi":"Jenny<C3000><CFFFD><CFFFB>, cậu có vẻ<CFFFD>đang bận. <CFFFC> Jenny<C3000><CFFFD>Hy vọng cậu cũng giúp tôi.<CFFFD>Tôi đợi đấy!"}
+{"id":"RDS-3619a9507c78c50ba0a9","vi":"Jenny<C3000><CFFFD>Priest của cậu đâu rồi? <CFFFC> Jenny<C3000><CFFFD>Tôi hủy nhiệm vụ nhé,<CFFFD>lần sau dẫn Priest đến."}
+{"id":"RDS-329131527e1b13d41ff1","vi":"Jenny<C3000><CFFFD>Ủa?"}
+{"id":"RDS-53dd4fd52f44741b5c87","vi":"Jenny<C3000><CFFFD><CFFF8> tốt tính quá. <CFFFC> Jenny<C3000><CFFFD>Một trong những Priest<CFFFD>khá là đỉnh tôi từng gặp."}
+{"id":"RDS-a06afaf77b04ee38255e","vi":"<CFFFB><CFFFD>Cô nói rõ được không? <CFFFC> <CFFFB><CFFFD>Nghe như cô sắp<CFFFD>khen tôi ấy nhỉ."}
+{"id":"RDS-99d3905b3f4b89f1270f","vi":"Jenny<C3000><CFFFD>Tôi đang khen mà!<CFFFD>Khen thật đấy!"}
+{"id":"RDS-d99c33d323dfd4a44a1c","vi":"Jenny<C3000><CFFFD>Cậu có bạn đồng hành giỏi, <CFFFC> Jenny<C3000><CFFFD>chắc tôi nên nhờ cậu<CFFFD>giúp chuyện nhỏ này..."}
+{"id":"RDS-1ec214cc8366cb1bd4cd","vi":"<CFFFB><CFFFD>Chuyện gì vậy?"}
+{"id":"RDS-bbac5fe9413640c96880","vi":"Jenny<C3000><CFFFD>Ừ thì..."}
+{"id":"RDS-7915fd9228bf10ca5822","vi":"Jenny<C3000><CFFFD>Rất nhiều ma tụ tập<CFFFD>tại phòng thí nghiệm Halzen. <CFFFC> Jenny<C3000><CFFFD>Gần đây số lượng<CFFFD>tăng mạnh, <CFFFC> Jenny<C3000><CFFFD>nghe người ta bảo thế."}
+{"id":"RDS-5293187a4d394b4115b1","vi":"Jenny<C3000><CFFFD>Nên... <CFFFC> Jenny<C3000><CFFFD>Acolyte Guild bận túi bụi<CFFFD>đi trừ ma, <CFFFC> Jenny<C3000><CFFFD>nhưng chúng vẫn<CFFFD>chẳng giảm bớt..."}
+{"id":"RDS-8b967612b9edc64fcaa0","vi":"Jenny<C3000><CFFFD>Phiền ghê luôn ấy!"}
+{"id":"RDS-e419d8f987a4c8048821","vi":"Jenny<C3000><CFFFD>Vậy nên tôi muốn cậu,<CFFFD><CFFFB>, <CFFFC> Jenny<C3000><CFFFD>giúp chúng tôi diệt lũ ma."}
+{"id":"RDS-c20933a03a5a93c92ba3","vi":"Jenny<C3000><CFFFD><CFFF8> chắc sẽ <CFFFC> Jenny<C3000><CFFFD>xử lũ ma<CFFFD>trong chớp mắt, <CFFFC> Jenny<C3000><CFFFD>nên tôi nghĩ đội cậu<CFFFD>rất hợp việc này."}
+{"id":"RDS-efacba8dd9e19a769072","vi":"Jenny<C3000><CFFFD>Cậu hiểu rồi chứ?"}
+{"id":"RDS-23a01948afc817490917","vi":"<CFFFB><CFFFD>Ừ-Ừ. <CFFFC> <CFFFB><CFFFD>Cách cô nói nghe<CFFFD>chẳng có vẻ cấp bách, <CFFFC> <CFFFB><CFFFD>nhưng tôi hiểu<CFFFD>chuyện nghiêm trọng đấy."}
+{"id":"RDS-33fc32aa30966988c517","vi":"Jenny<C3000><CFFFD>Vậy...<CFFFD>Cậu nhận nhé?"}
+{"id":"RDS-c0d9cef514023b9dece6","vi":"<CFFFB><CFFFD><CFFF8> có vẻ<CFFFD>đồng ý, <CFFFC> <CFFFB><CFFFD>nên cứ giao cho chúng tôi."}
+{"id":"RDS-9eb5608d6c30c0dfedf4","vi":"Jenny<C3000><CFFFD>Cảm ơn cậu,<CFFFD><CFFFB>. <CFFFC> Jenny<C3000><CFFFD>Lũ ma ở phòng thí nghiệm<CFFFD>thành phố Halzen đấy."}
+{"id":"RDS-ab71a92dbaf27785c6f7","vi":"Jenny<C3000><CFFFD>Nhớ dẫn<CFFFD><CFFF8> đi cùng."}
+{"id":"RDS-d40f482b9705f42c9d03","vi":"Jenny<C3000><CFFFD>Sao thế?"}
+{"id":"RDS-30f3ea3c5a06950ec785","vi":"<CFFFB><CFFFD>Là <CFFF2>Somatology Laboratory<CFFF4><CFFFD>ở <CFFF2>Lighthalzen<CFFF4>, đúng chứ?"}
+{"id":"RDS-a40b99f487ca32eaa067","vi":"Jenny<C3000><CFFFD>Đúng rồi.<CFFFD>Tôi chưa nói à?"}
+{"id":"RDS-57755bdf53033d9f47b2","vi":"<CFFFB><CFFFD>Chắc cô có nói..."}
+{"id":"RDS-1c81a7804912d64b2969","vi":"<CFFFB><CFFFD>Được, tôi đi đây."}
+{"id":"RDS-263aacf1b8c5184adb71","vi":"Jenny<C3000><CFFFD>Tạm biệt!"}
+{"id":"RDS-39319fbcac22365970b8","vi":"Jenny<C3000><CFFFD>Ồ, thật à? <CFFFC> Jenny<C3000><CFFFD>Chắc cậu có<CFFFD>lý do riêng. <CFFFC> Jenny<C3000><CFFFD>Khi nào nhận được việc<CFFFD>thì quay lại nhé."}
+{"id":"RDS-b1118726bddc562b8899","vi":"Jenny<C3000><CFFFD>Hì hì."}
+{"id":"RDS-92ebc20926c8c6770fcf","vi":"<CFFFB><CFFFD>Jenny bảo lũ ma<CFFFD>đông nghịt, <CFFFC> <CFFFB><CFFFD>mà sao im ắng quá..."}
+{"id":"RDS-6a4347b61e020d1aedeb","vi":"<CFFF8><CFFFD>Lạ thật,<CFFFD>chẳng thấy kẻ địch."}
+{"id":"RDS-444e99618ac8a7c37ee2","vi":"<CFFF8><CFFFD>Quái đâu hết rồi?"}
+{"id":"RDS-a8f70b49584ec1d4e4b8","vi":"<CFFF8><CFFFD>Tôi có linh cảm chẳng lành..."}
+{"id":"RDS-60c6a9ad66717909386a","vi":"<CFFF8><CFFFD>Giờ tôi thấy sợ rồi..."}
+{"id":"RDS-b142c773d8b552027a20","vi":"<CFFF8><CFFFD>Có thể là bẫy.<CFFFD>Cẩn thận nhé."}
+{"id":"RDS-f62d4f3a31e2eca4e452","vi":"<CFFF8><CFFFD>Kệ đi.<CFFFD>Cứ tiến lên."}
+{"id":"RDS-b2695085450a6d6a41ad","vi":"<CFFF8><CFFFD>Ừ.<CFFFD>Phải cẩn thận."}
+{"id":"RDS-297b6dd301c7eebe431a","vi":"<CFFFB><CFFFD>Này, nhìn kìa."}
+{"id":"RDS-90983a581b9595904cdc","vi":"<CFFFB><CFFFD>Có lẽ nguồn cơn ở đây..."}
+{"id":"RDS-e22c4485de4cee47dd71","vi":"<CFFF8><CFFFD>Đập nát hết đi!"}
+{"id":"RDS-33963dde87e91f6fa396","vi":"<CFFF8><CFFFD>Tôi sẵn sàng!"}
+{"id":"RDS-4bf0a364f054ea6f992e","vi":"<CFFF8><CFFFD>V-Vâng!"}
+{"id":"RDS-f018b1ca03ea31a2874c","vi":"<CFFF8><CFFFD>Tôi ổn!"}
+{"id":"RDS-8d92a9bf2330b0d1c4bc","vi":"<CFFFB><CFFFD>Xem ra chúng phát hiện rồi..."}
+{"id":"RDS-9097da67820bfa8bd5d9","vi":"<CFFFB><CFFFD>Chúng ta đã chặn được<CFFFD>nguồn phát sinh."}
