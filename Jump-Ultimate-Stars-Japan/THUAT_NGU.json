@@ -1402,5 +1402,149 @@
     "vi": "Nintendo Wi-Fi Connection",
     "status": "platform_specific_term",
     "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "麻倉葉",
+    "vi": "Yoh Asakura",
+    "status": "common_english_name",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "阿弥陀流<IDEOSP>後光刃",
+    "vi": "Amidaryu<IDEOSP>Gokoujin",
+    "status": "romanized_japanese_qa",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "ヒトダマ豪速球",
+    "vi": "Hitodama Gosokkyu",
+    "status": "romanized_japanese_qa",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "オーバーソウル<IDEOSP>スピリットオブソード",
+    "vi": "Over Soul<IDEOSP>Spirit of Sword",
+    "status": "common_english_name",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "恐山アンナ",
+    "vi": "Anna Kyoyama",
+    "status": "common_english_name",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "空条承太郎",
+    "vi": "Jotaro Kujo",
+    "status": "common_english_name",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "ディオ",
+    "vi": "Dio",
+    "status": "common_english_name",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "クロスファイヤーハリケーンスペシャル",
+    "vi": "Crossfire Hurricane Special",
+    "status": "provisional_literal_jp_qa",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "星の白金",
+    "vi": "Star Platinum",
+    "status": "common_english_name",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "銀の戦車",
+    "vi": "Silver Chariot",
+    "status": "common_english_name",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "エメラルドスプラッシュ",
+    "vi": "Emerald Splash",
+    "status": "common_english_name",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "「世界」",
+    "vi": "The World",
+    "status": "common_english_name",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "ゴン",
+    "vi": "Gon",
+    "status": "common_english_name",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "キルア",
+    "vi": "Killua",
+    "status": "common_english_name",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "肢曲",
+    "vi": "Shikyoku",
+    "status": "romanized_japanese_qa",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "雷掌",
+    "vi": "Izutsushi",
+    "status": "romanized_japanese_qa",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "落雷",
+    "vi": "Narukami",
+    "status": "romanized_japanese_qa",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "浦飯幽助",
+    "vi": "Yusuke Urameshi",
+    "status": "common_english_name",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "霊丸",
+    "vi": "Reigan",
+    "status": "romanized_japanese_qa",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "霊光弾",
+    "vi": "Reikodan",
+    "status": "romanized_japanese_qa",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "蔵馬",
+    "vi": "Kurama",
+    "status": "common_english_name",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "飛影",
+    "vi": "Hiei",
+    "status": "common_english_name",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "邪王炎殺黒龍波",
+    "vi": "Jao Ensatsu Kokuryuha",
+    "status": "romanized_japanese_qa",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "邪王瞬殺剣",
+    "vi": "Jao Shunsatsuken",
+    "status": "romanized_japanese_qa",
+    "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
   }
 ]
