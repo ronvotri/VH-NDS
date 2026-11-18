@@ -1792,5 +1792,53 @@
     "vi": "Buddy",
     "status": "reviewed-dot017",
     "note": "Bảng thuật ngữ Ragnarok DS: giữ tên riêng/item/monster/Job và bậc thân thiết, Việt hóa vai trò vô danh."
+  },
+  {
+    "en": "Pott",
+    "vi": "Pott",
+    "status": "reviewed-dot018",
+    "note": "Tên riêng, skill, Job, quái hoặc địa danh chính, giữ tiếng Anh đúng quy tắc Ragnarok DS."
+  },
+  {
+    "en": "Mof",
+    "vi": "Mof",
+    "status": "reviewed-dot018",
+    "note": "Tên riêng, skill, Job, quái hoặc địa danh chính, giữ tiếng Anh đúng quy tắc Ragnarok DS."
+  },
+  {
+    "en": "Lilac",
+    "vi": "Lilac",
+    "status": "reviewed-dot018",
+    "note": "Tên riêng, skill, Job, quái hoặc địa danh chính, giữ tiếng Anh đúng quy tắc Ragnarok DS."
+  },
+  {
+    "en": "Poring",
+    "vi": "Poring",
+    "status": "reviewed-dot018",
+    "note": "Tên riêng, skill, Job, quái hoặc địa danh chính, giữ tiếng Anh đúng quy tắc Ragnarok DS."
+  },
+  {
+    "en": "Transform",
+    "vi": "Transform",
+    "status": "reviewed-dot018",
+    "note": "Tên riêng, skill, Job, quái hoặc địa danh chính, giữ tiếng Anh đúng quy tắc Ragnarok DS."
+  },
+  {
+    "en": "Transformation",
+    "vi": "Transformation",
+    "status": "reviewed-dot018",
+    "note": "Tên riêng, skill, Job, quái hoặc địa danh chính, giữ tiếng Anh đúng quy tắc Ragnarok DS."
+  },
+  {
+    "en": "zenies",
+    "vi": "zenies",
+    "status": "reviewed-dot018",
+    "note": "Tên riêng, skill, Job, quái hoặc địa danh chính, giữ tiếng Anh đúng quy tắc Ragnarok DS."
+  },
+  {
+    "en": "Young Woman",
+    "vi": "Cô gái trẻ",
+    "status": "reviewed-dot018",
+    "note": "Nhãn vai trò NPC không tên, dịch sang tiếng Việt."
   }
 ]
