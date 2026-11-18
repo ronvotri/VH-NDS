@@ -187,3 +187,26 @@ Tình trạng đã qua QA cấu trúc, chưa kiểm chứng khung chữ và font
 - **Vai trò NPC vô danh:** Man/Woman/Guy/Old Man/Girl Việt hóa nhãn; không suy đoán tuổi/giới tính của nhân vật chính.
 - **Ngoại lệ dữ liệu:** bản USA có `Guildmaster<C3000><CFFFD>` xen giữa trang ở mục 43 của tệp 009; câu Kafra có `<CFFFC>` ở cuối. Đã giữ đúng mã; cần xem trên ROM khi vá.
 - **QA kỹ thuật:** dòng `100% failure` của Milika chứa `% f` bị bộ kiểm tra xem là placeholder; bản Việt dùng `100% fail` để không làm thay đổi token. Chưa kiểm tra font hay tràn chữ.
+
+
+## Đợt 012 — Quest phụ và thánh địa rừng
+
+| Người nói / cặp | Ngôi xưng | Bối cảnh đã đối chiếu |
+|---|---|---|
+| Milika → người chơi | tôi/cậu | Nhờ lấy 10 Jellopies, liên tục lỡ dùng phí |
+| Knight → người chơi | tôi/cậu | Order cần 10 Red Herbs, giao phần thưởng Panacea |
+| Roni → người chơi | tôi/cậu | Thợ chế vũ khí cần 5 Iron Ore, cảm ơn khi nhận |
+| Chủ quán → người chơi | tôi/cậu | Gửi 10 Empty Bottles đến Jade ở Morocc, nhớ một mạo hiểm giả xưa nhưng chưa xác nhận danh tính |
+| Shiva → người chơi | em/anh | Cậu bé xin Mastela Fruit chữa bệnh cho mẹ, giọng chân thành |
+| Sherry → người chơi | tôi/cậu | Magician làm thí nghiệm, tự tin hơi quá nhưng vẫn lịch sự khi nhận nguyên liệu |
+| Bà lão bí ẩn / Linh hồn rừng → nhóm | ta/các ngươi | Cảnh Labyrinth Forest, kết giới rừng và đường tới Glast Heim |
+| Đội trưởng thợ → nhóm | ta/các cậu | Nhân vật nhãn `Boss` chỉ trong cảnh công trình cổng, uống rượu say, cổng đã hoàn thành |
+| Jack → người chơi | tôi/cậu | Tiệm vũ khí Geffen ế vì Magician, nhờ giới thiệu cho Swordsman |
+| Ông lão → người chơi | ta/ngươi | Chiến binh từng nổi tiếng ở Morocc, hớn hở khi nghe tới nữ học trò |
+| Liam → người chơi | tôi/cậu | Mẹo Job, shop friendship, Card và mở Secret Pathway |
+| Joyce → người chơi | tôi/cậu | Merchant ở Morocc nhờ 10 Monster Hides từ Desert Wolves |
+| Daksten → người chơi | tôi/cậu | Cảm ơn khi nhận 10 Zargons |
+
+- Giữ nguyên tên riêng, item, Job, địa danh, mã `<CFFFB>`, `<CFFFD>`, `<CFFFC>`, `<CFFF1>`, `<CFFF2>`, `<CFFEF>`, `<C3000>` và placeholder.
+- Không gán danh tính người mạo hiểm giả trong hồi ức Chủ quán nếu nguồn chưa xác nhận; không suy đoán quan hệ nhân vật ngoài cảnh.
+- Đã QA mã điều khiển chính thức; chưa có font Việt hay kiểm tra tràn chữ trên NDS.
