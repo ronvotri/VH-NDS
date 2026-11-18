@@ -8476,5 +8476,209 @@
     "vi": "Shaka no Akashi",
     "status": "working_romanization_qa",
     "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "脳噛ネウロ",
+    "vi": "Neuro Nogami",
+    "status": "verified_name",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "桂木弥子",
+    "vi": "Yako Katsuragi",
+    "status": "verified_name",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "笹塚衛士",
+    "vi": "Eishi Sasazuka",
+    "status": "verified_name",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "怪盗Ｘ",
+    "vi": "Kaito X [Sai]",
+    "status": "working_english_qa",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "吾代忍",
+    "vi": "Shinobu Godai",
+    "status": "verified_name",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "伊達臣人",
+    "vi": "Omito Date",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "富樫源次",
+    "vi": "Genji Togashi",
+    "status": "verified_name",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "虎丸龍次",
+    "vi": "Ryuji Toramaru",
+    "status": "verified_name",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "真空殲風衝",
+    "vi": "Shinku Senfusho",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "無限一刀流",
+    "vi": "Mugen Ittoryu",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "暹氣虎魂",
+    "vi": "Shinki Fukon",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "暹氣龍魂",
+    "vi": "Shinki Ryukon",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "天挑五輪大武會",
+    "vi": "Tencho Gorin Dai Bukai",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "大威；八連制覇",
+    "vi": "Daiishinpa Renseiha",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "王虎寺",
+    "vi": "Okoji",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "覇極流",
+    "vi": "Hakkyoku-ryu",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "千峰塵",
+    "vi": "Senpojin",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "Ｋ・バトラー",
+    "vi": "K. Butler",
+    "status": "working_english_qa",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "Ｓ・Ｈ・Ｐ",
+    "vi": "Spiral Hurricane Punch (S.H.P.)",
+    "status": "working_english_qa",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "モンキー・Ｄ・ルフィ",
+    "vi": "Monkey D. Luffy",
+    "status": "verified_name",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "スナスナの実",
+    "vi": "Sand-Sand Fruit",
+    "status": "common_english_name",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "ノロノロの実",
+    "vi": "Slow-Slow Fruit",
+    "status": "common_english_name",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "ギア２",
+    "vi": "Gear Second",
+    "status": "common_english_name",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "ギア３",
+    "vi": "Gear Third",
+    "status": "common_english_name",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "ロロノア・ゾロ",
+    "vi": "Roronoa Zoro",
+    "status": "verified_name",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "三刀流",
+    "vi": "Three-Sword Style",
+    "status": "common_english_name",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "獅子歌歌",
+    "vi": "Shishi Sonson",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "ウイスキーピーク",
+    "vi": "Whiskey Peak",
+    "status": "verified_name",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "クリマ・タクト",
+    "vi": "Clima-Tact",
+    "status": "common_english_name",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "オールブルー",
+    "vi": "All Blue",
+    "status": "verified_name",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "ニコ・ロビン",
+    "vi": "Nico Robin",
+    "status": "verified_name",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "ヒトヒトの実",
+    "vi": "Human-Human Fruit",
+    "status": "common_english_name",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "ランブルボール",
+    "vi": "Rumble Ball",
+    "status": "common_english_name",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "トレインタフルール",
+    "vi": "Treinta Fleurs",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
   }
 ]
