@@ -8980,5 +8980,125 @@
     "vi": "Rinslet Walker",
     "status": "character_name_qa",
     "note": "CP026 J-Quiz: Romanization requires QA against official localization."
+  },
+  {
+    "ja": "刻の番人",
+    "vi": "Chronos Numbers",
+    "status": "organization_name_qa",
+    "note": "CP027 J-Quiz: Black Cat; name cross-check with existing 時の番人"
+  },
+  {
+    "ja": "ハーディス",
+    "vi": "Hades",
+    "status": "weapon_name",
+    "note": "CP027 J-Quiz: Black Cat: Train firearm"
+  },
+  {
+    "ja": "義骸",
+    "vi": "Gigai",
+    "status": "bleach_term",
+    "note": "CP027 J-Quiz: Bleach artificial body"
+  },
+  {
+    "ja": "義魂丸",
+    "vi": "Gikongan",
+    "status": "item_name",
+    "note": "CP027 J-Quiz: Bleach soul-separating pill"
+  },
+  {
+    "ja": "鬼道",
+    "vi": "Kido",
+    "status": "skill_system",
+    "note": "CP027 J-Quiz: Bleach demon arts"
+  },
+  {
+    "ja": "魂葬",
+    "vi": "Konso",
+    "status": "skill_system",
+    "note": "CP027 J-Quiz: Bleach Soul Burial"
+  },
+  {
+    "ja": "滅却師",
+    "vi": "Quincy",
+    "status": "faction_name",
+    "note": "CP027 J-Quiz: Bleach spiritual archers"
+  },
+  {
+    "ja": "死覇装",
+    "vi": "Shihakusho",
+    "status": "item_name",
+    "note": "CP027 J-Quiz: Bleach Shinigami uniform"
+  },
+  {
+    "ja": "斬魄刀",
+    "vi": "Zanpakuto",
+    "status": "weapon_name",
+    "note": "CP027 J-Quiz: Bleach soul-cutting sword"
+  },
+  {
+    "ja": "始解",
+    "vi": "Shikai",
+    "status": "skill_form",
+    "note": "CP027 J-Quiz: Bleach first Zanpakuto release"
+  },
+  {
+    "ja": "卍解",
+    "vi": "Bankai",
+    "status": "skill_form",
+    "note": "CP027 J-Quiz: Bleach second Zanpakuto release"
+  },
+  {
+    "ja": "飛簾脚",
+    "vi": "Hirenkyaku",
+    "status": "skill_name",
+    "note": "CP027 J-Quiz: Bleach Quincy movement skill"
+  },
+  {
+    "ja": "穿界門",
+    "vi": "Senkaimon",
+    "status": "place_term",
+    "note": "CP027 J-Quiz: Bleach transit gate"
+  },
+  {
+    "ja": "瀞霊廷",
+    "vi": "Seireitei",
+    "status": "place_name",
+    "note": "CP027 J-Quiz: Bleach, Soul Society inner area; source glyph sometimes garbled ⊆"
+  },
+  {
+    "ja": "流魂街",
+    "vi": "Rukongai",
+    "status": "place_name",
+    "note": "CP027 J-Quiz: Bleach district in Soul Society"
+  },
+  {
+    "ja": "双殛",
+    "vi": "Sokyoku",
+    "status": "place_term_qa",
+    "note": "CP027 J-Quiz: Bleach execution platform; source sometimes corrupted to 双仝"
+  },
+  {
+    "ja": "懺罪宮",
+    "vi": "Senzaikyu",
+    "status": "place_term_qa",
+    "note": "CP027 J-Quiz: Bleach prison tower; verify displayed image text"
+  },
+  {
+    "ja": "旅禍",
+    "vi": "Ryoka",
+    "status": "term",
+    "note": "CP027 J-Quiz: Bleach unauthorized entrants to Soul Society"
+  },
+  {
+    "ja": "霊絡",
+    "vi": "Reiraku",
+    "status": "term_qa",
+    "note": "CP027 J-Quiz: Bleach visible spirit ribbons"
+  },
+  {
+    "ja": "因果の鎖",
+    "vi": "Chuỗi Nhân Quả",
+    "status": "term_translation",
+    "note": "CP027 J-Quiz: Bleach chain connecting body and soul"
   }
 ]
