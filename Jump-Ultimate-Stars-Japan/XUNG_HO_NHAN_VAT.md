@@ -297,3 +297,15 @@ Các tên Romanization có trạng thái `working_romanization_qa` cần so lạ
 - Thuật ngữ *Bleach*: **Shinigami, Soul Society, Zanpakuto, Hollow, Quincy, Kido, Shikai, Bankai, Gigai, Gikongan, Seireitei, Rukongai**. **Ichigo/Rukia/Byakuya/Yoruichi** là tên gọi, quiz dùng ngôi thứ ba trung tính.
 - Từ vựng tiếng Nhật bị mã hóa lạ trong nguồn (`No. ∪`, `No. Å`, `⊆霊廷`, `双仝`) không được tự khẳng định đã phục hồi đúng; cần so với bản game hình ảnh.
 - Các tên kẻ gây nhiễu trong phương án quiz giữ đúng vị trí và có thể là bản Latin tạm; QA chính tả riêng sau khi có nguồn tiếng Anh chính thức.
+
+
+## Checkpoint 028 — J-Quiz Bleach / Buso Renkin / Space Adventure Cobra (19/11/2026)
+
+- `06-jquiz-001.jsonl` dòng **1263–1930** hoàn tất file; `06-jquiz-002.jsonl` dòng **0–5** khép câu hỏi **322** về *Space Adventure Cobra*. Tổng **674 ID mới**.
+- J-Quiz là lời dẫn hệ thống: dùng ngôi thứ ba và câu hỏi ngắn tự nhiên. Trong đáp án trích lời nhân vật, bảo lưu ngữ khí gốc thay vì tự thay đổi nhân vật nói.
+- Không đảo `quiz_context`, vị trí phương án, ID dùng chung và không quyết định đáp án đúng. Một số câu chỉ có 1–3 đáp án **trong file này** do ID dùng lại ở nơi khác; không tự thêm nội dung.
+- *Bleach*: Ichigo, Orihime, Yoruichi, Rukia, Byakuya, Uryu, Shinji, Aizen. Giữ **Shinigami, Hollow, Quincy, Soul Society, Zanpakuto, Bankai, Shikai, Kyoka Suigetsu, Hogyoku, Hueco Mundo, Arrancar, Espada, Visored**.
+- *Buso Renkin*: Kazuki, Tokiko, Papillon, Captain Bravo, Victor, Doctor Butterfly. Giữ **Buso Renkin, Core Metal, Homunculus, Sunlight Heart, Silver Skin** và tên đòn Latin. `Core Metal` dùng tạm cho `核鉄`, cần đối chiếu bản dịch chính thức trước đóng ROM.
+- *Space Adventure Cobra*: Cobra, Lady, Crystal Boy; giữ **Psychogun, Eye of God, Moon Lens, Rag Ball**. Tên phe, hành tinh và phương án gây nhiễu chưa xác nhận Latin được đánh dấu **QA** thay vì tuyên bố là tên chính thức.
+- Các câu quiz dựa ảnh (ví dụ ID quanh **1263, 1412, 1567, 1624, 1677, 1738, 1793, 1898**) phải kiểm tra với hình gốc; bộ QA chỉ xác nhận dữ liệu, chưa kiểm tra đúng đáp án hay bề rộng pixel.
+- Câu `神がみの塔 ...` bị chia giữa file 001–002: giữ nguyên ID 1930 và các ID 0–5 tiếp sau, không thêm/chuyển ID.
