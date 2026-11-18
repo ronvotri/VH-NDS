@@ -1576,5 +1576,125 @@
     "vi": "Thợ mỏ",
     "status": "reviewed-dot015",
     "note": "Nhãn vai trò NPC, không phải tên riêng; có thể Việt hóa."
+  },
+  {
+    "en": "Julietta",
+    "vi": "Julietta",
+    "status": "reviewed-dot016",
+    "note": "Archer từng rời Guild và xin gia nhập Guild người chơi."
+  },
+  {
+    "en": "Cliff",
+    "vi": "Cliff",
+    "status": "reviewed-dot016",
+    "note": "NPC Swordsman Guild."
+  },
+  {
+    "en": "Wandering Swordsman",
+    "vi": "Swordsman lang thang",
+    "status": "reviewed-dot016",
+    "note": "Vai trò NPC, giữ nguyên tên Job Swordsman."
+  },
+  {
+    "en": "Malone",
+    "vi": "Malone",
+    "status": "reviewed-dot016",
+    "note": "NPC Magician Guild."
+  },
+  {
+    "en": "Banished Magician",
+    "vi": "Magician bị trục xuất",
+    "status": "reviewed-dot016",
+    "note": "Vai trò NPC, giữ nguyên tên Job Magician."
+  },
+  {
+    "en": "Rick",
+    "vi": "Rick",
+    "status": "reviewed-dot016",
+    "note": "NPC Thieves Guild."
+  },
+  {
+    "en": "Zeeter",
+    "vi": "Zeeter",
+    "status": "reviewed-dot016",
+    "note": "Hunter với những quy tắc cá nhân."
+  },
+  {
+    "en": "Martha",
+    "vi": "Martha",
+    "status": "reviewed-dot016",
+    "note": "Magician đóng giả ma."
+  },
+  {
+    "en": "Ghost",
+    "vi": "Hồn ma",
+    "status": "reviewed-dot016",
+    "note": "Nhãn vai trò chung."
+  },
+  {
+    "en": "Wolf",
+    "vi": "Wolf",
+    "status": "reviewed-dot016",
+    "note": "Tên quái."
+  },
+  {
+    "en": "Thief's Glass Ball",
+    "vi": "Thief's Glass Ball",
+    "status": "reviewed-dot016",
+    "note": "Tên vật phẩm thưởng."
+  },
+  {
+    "en": "Job Exp.",
+    "vi": "Job Exp.",
+    "status": "reviewed-dot016",
+    "note": "Bản USA trong mã màu."
+  },
+  {
+    "en": "Job EXP",
+    "vi": "Job EXP",
+    "status": "reviewed-dot016",
+    "note": "Biến thể bản USA trong mã màu."
+  },
+  {
+    "en": "Yggdrasil Berries",
+    "vi": "Yggdrasil Berries",
+    "status": "reviewed-dot016",
+    "note": "Tên item."
+  },
+  {
+    "en": "Tally",
+    "vi": "Tally",
+    "status": "reviewed-dot016",
+    "note": "Tên quái triệu hồi."
+  },
+  {
+    "en": "Redrick",
+    "vi": "Redrick",
+    "status": "reviewed-dot016",
+    "note": "Tên quái triệu hồi."
+  },
+  {
+    "en": "Swordsman Guild",
+    "vi": "Swordsman Guild",
+    "status": "reviewed-dot016",
+    "note": "Tên Guild."
+  },
+  {
+    "en": "Magician Guild",
+    "vi": "Magician Guild",
+    "status": "reviewed-dot016",
+    "note": "Tên Guild."
+  },
+  {
+    "en": "Thieves Guild",
+    "vi": "Thieves Guild",
+    "status": "reviewed-dot016",
+    "note": "Tên Guild."
+  },
+  {
+    "en": "Archer Guild",
+    "vi": "Archer Guild",
+    "status": "reviewed-dot016",
+    "note": "Tên Guild."
   }
 ]
