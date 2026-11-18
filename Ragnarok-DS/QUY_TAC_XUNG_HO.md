@@ -210,3 +210,23 @@ Tình trạng đã qua QA cấu trúc, chưa kiểm chứng khung chữ và font
 - Giữ nguyên tên riêng, item, Job, địa danh, mã `<CFFFB>`, `<CFFFD>`, `<CFFFC>`, `<CFFF1>`, `<CFFF2>`, `<CFFEF>`, `<C3000>` và placeholder.
 - Không gán danh tính người mạo hiểm giả trong hồi ức Chủ quán nếu nguồn chưa xác nhận; không suy đoán quan hệ nhân vật ngoài cảnh.
 - Đã QA mã điều khiển chính thức; chưa có font Việt hay kiểm tra tràn chữ trên NDS.
+
+
+## Đợt 013 — nhiệm vụ phụ, mua bán và Magician
+
+| Cặp nhân vật | Xưng hô | Bối cảnh |
+|---|---|---|
+| Nhân vật chính ↔ Daksten | tôi/cậu | Thương nhân thuê kiếm Zargons từ Sandman |
+| Nhân vật chính ↔ Sedi | tôi/cậu | Pocket Watch là kỷ vật của mẹ Sedi; không đùa về mất mát |
+| Nhân vật chính ↔ Lily | tôi/cô, Lily gọi cậu | Lily là thầy bói bị bệnh |
+| Hodril ↔ nhân vật chính | ta/cậu, người chơi gọi ông | Sư phụ của Lily, biết lời tiên tri liên quan mạng sống cô |
+| Dogerel ↔ người chơi | ta/cậu, người chơi gọi ông | Tiếp nối nghiên cứu của người vợ quá cố |
+| Sa'ab ↔ người chơi | tôi/cậu | Hơi đãng trí; câu đùa về bí mật nghiên cứu giữ nét hài |
+| Karen ↔ người chơi | em/cậu; người chơi gọi em | Nhân vật nhỏ tuổi; không mặc định người chơi là nam |
+| Rich, Holland, George, Wade ↔ người chơi | tôi/cậu | Chuỗi giao đồ vòng các thành phố; Wade trộm vật phẩm |
+| Stefan ↔ người chơi | tôi/cậu | Kiếm bị nguyền, nhiều khách trả hàng |
+| Nữ tu (Sister) ↔ người chơi | tôi/cậu | Thanh tẩy Old Sword bằng Glittering Ore |
+| Viselc, Lucifi, Attar ↔ người chơi | tôi/cậu | Cảnh sạt lở, Attar được giao nhiệm vụ “quan trọng” là ở lại trông đường |
+| Giám khảo (Judge) ↔ người chơi | ta/cậu | Chỉ phép thuật mới hạ quái ở West Prontera Woods |
+
+Giữ tên động `<CFFFB>` và các mã phân trang, màu, nhãn nói ở đúng vị trí; chưa xác nhận font hoặc độ dài hiển thị trên NDS thật.
