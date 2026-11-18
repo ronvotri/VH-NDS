@@ -1,0 +1,610 @@
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1055, "id": "JUS-3697b37b88ec2ae6885a", "ja": "四楓院夜一", "vi": "Yoruichi Shihouin"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1056, "id": "JUS-dc1beee8dfff30d48b38", "ja": "瞬歩", "vi": "Shunpo"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1057, "id": "JUS-25117cda6877d484cb5d", "ja": "しゅんぽ", "vi": "Shunpo"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1058, "id": "JUS-f2705d7d833eef87b257", "ja": "瞬閧", "vi": "Shunko"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1059, "id": "JUS-2d81caf042738d99a8b0", "ja": "しゅんこう", "vi": "Shunko"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1060, "id": "JUS-3e8e3ee2fe087e1232b0", "ja": "素早い動きでプレイヤーキャラクターを", "vi": "Di chuyển thần tốc, tóm lấy nhân vật"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1061, "id": "JUS-4c49bf374fb593d4095b", "ja": "つかんで別の場所へ移動。ガード不能。", "vi": "người chơi rồi đưa đi nơi khác. Không thể đỡ."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1062, "id": "JUS-fff45709581ac5511ac3", "ja": "気を展開させ前方に向けて気を発射。", "vi": "Triển khai khí lực, phóng thẳng về phía trước."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1063, "id": "JUS-608acab09335ae624c70", "ja": "触れた相手はダメージ。", "vi": "Kẻ nào chạm phải sẽ chịu sát thương."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1064, "id": "JUS-b6bded7cfd05103a3a09", "ja": "コン", "vi": "Kon"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1065, "id": "JUS-1079ac2b35e7e95cd6ce", "ja": "アシストアタックラジコン", "vi": "Assist Attack Radi-Kon"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1066, "id": "JUS-95e74b7492ac371f83ac", "ja": "あしすとあたっくらじこん", "vi": "Assist Attack Radi-Kon"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1067, "id": "JUS-23d266de95560c2fc4b3", "ja": "コンがプレイヤーキャラクターに", "vi": "Kon ném micro cho nhân vật người chơi"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1068, "id": "JUS-f97d9b9fb96f3e771c82", "ja": "マイクを投げて応援！", "vi": "để cổ vũ nhiệt tình!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1069, "id": "JUS-a0d3922ca426a22b7626", "ja": "朽木白哉", "vi": "Byakuya Kuchiki"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1070, "id": "JUS-d849af6538dc50e6b8be", "ja": "縛道の六十一・六杖光牢", "vi": "Bakudo #61: Rikujokoro"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1071, "id": "JUS-bd8d5fb6af821d33c9c7", "ja": "ばくどうのろくじゅういちりくじょうこうろう", "vi": "Bakudo #61: Rikujokoro"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1072, "id": "JUS-a919355bcecdc0ef67e6", "ja": "千本桜", "vi": "Senbonzakura"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1073, "id": "JUS-51e473ea9be26a881304", "ja": "せんぼんざくら", "vi": "Senbonzakura"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1074, "id": "JUS-7641656bb74762e8bfe7", "ja": "選んだ相手に縛道の六十一・六杖光牢を", "vi": "Thi triển Bakudo #61: Rikujokoro lên"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1075, "id": "JUS-9dcb4e473de6c7425d22", "ja": "使い麻痺させる。相手は移動不能。", "vi": "mục tiêu, khiến đối thủ tê liệt, không thể di chuyển."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1076, "id": "JUS-93d7cc2db82c8198548f", "ja": "斬魄刀「千本桜」を解放し選んだ相手に", "vi": "Giải phóng Zanpakuto Senbonzakura, trút"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1077, "id": "JUS-8c3c4d3fb33410433722", "ja": "花びらを降らせ触れるとダメージ。", "vi": "cánh hoa xuống mục tiêu. Chạm vào là mất máu."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1078, "id": "JUS-e535c27c48836a23fa60", "ja": "藍染惣右介", "vi": "Sosuke Aizen"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1079, "id": "JUS-92fcd8d00f21d427645f", "ja": "破道の九十・黒棺", "vi": "Hado #90: Kurohitsugi"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1080, "id": "JUS-fbff5b7f5a8637932476", "ja": "はどうのきゅうじゅうくろひつぎ", "vi": "Hado #90: Kurohitsugi"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1081, "id": "JUS-1b96b2aecf95a7236202", "ja": "鏡花水月", "vi": "Kyoka Suigetsu"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1082, "id": "JUS-c08a478aff7d7c269131", "ja": "きょうかすいげつ", "vi": "Kyoka Suigetsu"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1083, "id": "JUS-130d4e68c5b6bdc77e80", "ja": "破道の九十・黒棺を選んだ相手に", "vi": "Thi triển Hado #90: Kurohitsugi lên"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1084, "id": "JUS-0269c303dac290b14e29", "ja": "使いダメージ。", "vi": "đối thủ đã chọn để gây sát thương."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1085, "id": "JUS-ce96bb84b9ac11746af3", "ja": "鏡花水月を使いプレイヤーキャラクターが", "vi": "Dùng Kyoka Suigetsu khiến nhân vật"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1086, "id": "JUS-49ba46a2fe9d6a4bd4a9", "ja": "「透明」になる。", "vi": "người chơi trở nên \"tàng hình\"."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1087, "id": "JUS-fc6948612f95fe035d3d", "ja": "突撃槍（ランス）を構え真上に突進！", "vi": "Giương Lance, lao thẳng lên trên!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1088, "id": "JUS-6b8c1a7f0996cc0907b5", "ja": "空中からでも使用可能。", "vi": "Dùng được cả khi đang ở trên không."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1089, "id": "JUS-706f5406ae308132e6db", "ja": "突撃槍（ランス）を構え一直線に突進！", "vi": "Cầm Lance, xông tới theo đường thẳng!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1090, "id": "JUS-863574fb2c0e27ac8bbc", "ja": "相手を貫通し離れた相手にも有効な攻撃。", "vi": "Đòn xuyên mục tiêu, đánh cả kẻ ở xa."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1091, "id": "JUS-5791ccd1a5d149a016f9", "ja": "空中斜め上に出現したアレンが地上に向け", "vi": "Allen xuất hiện chếch trên không,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1092, "id": "JUS-d833d4529e0a8539f7bc", "ja": "て十字架ノ杭を放つ！", "vi": "phóng Cross Grave xuống mặt đất!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1093, "id": "JUS-4447e53ff971bf18cb35", "ja": "イノセンスを発動！手を地面に叩きつけ、", "vi": "Kích hoạt Innocence! Đập tay xuống đất,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1094, "id": "JUS-68c64d80776fe24a8337", "ja": "ガード不能の衝撃波で相手にダメージ！", "vi": "tạo sóng xung kích không thể đỡ, gây sát thương!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1095, "id": "JUS-a119fb5f2e6725ed0888", "ja": "リナリーのサポートで戦線復帰できる、", "vi": "Lenalee hỗ trợ quay lại trận đấu,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1096, "id": "JUS-c587e01ea4770ceb12fe", "ja": "リングアウトからの復帰用の技！", "vi": "giúp trở lại sau khi bị đánh văng khỏi sàn!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1097, "id": "JUS-7ee597a76c4e383f13b8", "ja": "リナリーの対アクマ武器黒い靴（ダーク", "vi": "Dùng Dark Boots, vũ khí chống Akuma"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1098, "id": "JUS-bd667b9e44cf62a19d72", "ja": "ブーツ）により竜巻を起こす蹴りを放つ！", "vi": "của Lenalee, tung cú đá tạo lốc xoáy!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1099, "id": "JUS-35d150f33832550ce729", "ja": "神田ユウ", "vi": "Yu Kanda"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1100, "id": "JUS-7af54a14494c85666767", "ja": "斬降一刀", "vi": "Zanko Itto"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1101, "id": "JUS-6a5c126d58bd4879d6da", "ja": "ざんこういっとう", "vi": "Zanko Itto"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1102, "id": "JUS-f345a806183fa6647a04", "ja": "界蟲「一幻」", "vi": "Kaichu Ichigen"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1103, "id": "JUS-dd4525b1cda0a25272d9", "ja": "かいちゅう<IDEOSP>いちげん", "vi": "Kaichu<IDEOSP>Ichigen"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1104, "id": "JUS-0645e41c7611eb3b7375", "ja": "飛び上がって斬りつける神田の斬撃！", "vi": "Kanda bật lên rồi chém xuống!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1105, "id": "JUS-c2b6f96128cebce76c22", "ja": "ガード不能＋空中での使用も可能！", "vi": "Không thể đỡ, lại dùng được trên không!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1106, "id": "JUS-af168ea010ecfd8827b0", "ja": "神田の六幻から５つの界蟲が放たれる技！", "vi": "Từ Mugen của Kanda, năm Kaichu bung ra!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1107, "id": "JUS-17d91446c2ae57079822", "ja": "空中での使用も可能で誘導性能もある。", "vi": "Dùng được trên không và tự đuổi theo mục tiêu."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1108, "id": "JUS-c19486afd088391f23b6", "ja": "ラビ", "vi": "Lavi"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1109, "id": "JUS-a226500085b9be048633", "ja": "伸", "vi": "Shin"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1110, "id": "JUS-81b1cdbf11618c328a0d", "ja": "しん", "vi": "Shin"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1111, "id": "JUS-dfcee5434f50e4b12838", "ja": "劫火灰燼<IDEOSP>火判", "vi": "Goka Kaijin<IDEOSP>Hiban"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1112, "id": "JUS-a817a0883a533cf6bbf1", "ja": "ごうかかいじん<IDEOSP>ひばん", "vi": "Goka Kaijin<IDEOSP>Hiban"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1113, "id": "JUS-7234c352d51d6e37382e", "ja": "ラビの対アクマ武器である槌。その柄を", "vi": "Chiếc búa chống Akuma của Lavi có cán"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1114, "id": "JUS-2b42b3d4d08489c22c4f", "ja": "伸ばしヒットした相手も運んでしまう技！", "vi": "kéo dài, trúng ai là kéo đi luôn!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1115, "id": "JUS-333c31242ae35cdb2865", "ja": "槌の回転後、前方に火柱をあげる。ヒット", "vi": "Xoay búa rồi dựng cột lửa phía trước."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1116, "id": "JUS-da791539a798ddbfa190", "ja": "した相手はダメージ＋燃えの状態に！", "vi": "Kẻ trúng chiêu chịu sát thương và bị bỏng!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1117, "id": "JUS-358b2e52fdea0bc66122", "ja": "クロウリー", "vi": "Crowley"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1118, "id": "JUS-7e94a5ed6adcc5ae8e3a", "ja": "吸血", "vi": "Hút máu"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1119, "id": "JUS-d709a2c66a97855d2e75", "ja": "きゅうけつ", "vi": "Kyuketsu"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1120, "id": "JUS-4cf40007352a03414e7b", "ja": "ｃｒｉｍｓｏｎ<IDEOSP>ｓｎｏｗ", "vi": "Crimson<IDEOSP>Snow"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1121, "id": "JUS-731f154baaf6f1b5c581", "ja": "くりむぞん すのう", "vi": "Crimson Snow"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1122, "id": "JUS-e404e24ee8cf33c43956", "ja": "前方にいるプレイヤーキャラに吸血を行い", "vi": "Hút máu nhân vật ở phía trước,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1123, "id": "JUS-71004ce4f2811ff6cf29", "ja": "マイナスの状態異常を回復。", "vi": "giải trừ các trạng thái bất lợi."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1124, "id": "JUS-06701761e4cbd3876e91", "ja": "出現後突進し、ヒットした相手を毒に。", "vi": "Xuất hiện, lao tới khiến mục tiêu trúng độc."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1125, "id": "JUS-f3624dd0b647af72e400", "ja": "ヒットしてもしなくても最後に倒れる。", "vi": "Trúng hay hụt thì cuối cùng vẫn ngã lăn ra!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1126, "id": "JUS-6150307bda1590f7b8a7", "ja": "武器乱舞", "vi": "Buki Ranbu"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1127, "id": "JUS-a7adad0bbc1b003705d7", "ja": "ぶきらんぶ", "vi": "Buki Ranbu"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1128, "id": "JUS-77eedf9e9090cca639c0", "ja": "毛結", "vi": "Kejime"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1129, "id": "JUS-1f5ba8ced2e82f5d5353", "ja": "けじめ", "vi": "Kejime"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1130, "id": "JUS-c62acbb98dc5fbefc8c6", "ja": "ボーボボが登場！いろんな武器を手当たり", "vi": "Bobobo xuất hiện! Vũ khí đủ loại được"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1131, "id": "JUS-45c2c2552caeb0665f14", "ja": "次第に投げつける！", "vi": "quăng loạn xạ, gặp gì ném nấy!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1132, "id": "JUS-cc0bc95fa695efd01073", "ja": "ボーボボからクマが出てそのクマからボー", "vi": "Một con gấu chui ra từ Bobobo, rồi Bobobo"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1133, "id": "JUS-a87e0889daf73021ba50", "ja": "ボボが飛び出す（ホントです）驚愕の技！", "vi": "lại chui ra từ gấu! Đúng là chiêu thật đấy!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1134, "id": "JUS-79795080946ddf4527ab", "ja": "ナントカカントカパトローナム", "vi": "Nantoka Kantoka Patronum"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1135, "id": "JUS-11a491ddf4c858a51b7a", "ja": "なんとかかんとかぱとろーなむ", "vi": "Nantoka Kantoka Patronum"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1136, "id": "JUS-f066bf4ac9757ad42125", "ja": "バカボール", "vi": "Baka Ball"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1137, "id": "JUS-2911ec806281db11554c", "ja": "ばかぼーる", "vi": "Baka Ball"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1138, "id": "JUS-6d41969383dd569d2d72", "ja": "なんだかわからないけど魔法の力でマイナ", "vi": "Chẳng hiểu kiểu gì, nhưng sức mạnh phép thuật"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1139, "id": "JUS-5d3a635b9a5d1a6748a3", "ja": "ス状態異常を回復。", "vi": "lại hóa giải được các trạng thái bất lợi!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1140, "id": "JUS-49f8ab2c094c9c27e684", "ja": "両手にバカパワーをタメて投げつける！！", "vi": "Gom Baka Power trong hai tay rồi ném đi!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1141, "id": "JUS-ca2f2fc449b7a047b715", "ja": "ヒットした相手は混乱に！", "vi": "Ai trúng đòn sẽ bị hỗn loạn!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1142, "id": "JUS-28aa6ce414e9103fb0b9", "ja": "ところ天の助", "vi": "Tokoro Tennosuke"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1143, "id": "JUS-7879d26bda56561c0c6e", "ja": "喝！", "vi": "Katsu!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1144, "id": "JUS-af3c4b3b946c4cd0bb30", "ja": "かつ", "vi": "Katsu!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1145, "id": "JUS-a895b08d2fb225a77d64", "ja": "アメーバ空域", "vi": "Amoeba Kuiki"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1146, "id": "JUS-5d44b8206213225396b8", "ja": "あめーばくういき", "vi": "Amoeba Kuiki"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1147, "id": "JUS-89fc340294a387b7fc6f", "ja": "天の助が一喝！「ぬ」のパワーを使い弾を", "vi": "Tennosuke quát một tiếng! Dùng sức mạnh chữ \"nu\""}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1148, "id": "JUS-11f581289f688cfb6aba", "ja": "連続発射するウザい攻撃！", "vi": "bắn đạn liên hồi. Phiền muốn xỉu!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1149, "id": "JUS-a955cd10ca9f2c220728", "ja": "天の助のアメーバ空域で相手の一部を包み", "vi": "Amoeba Kuiki của Tennosuke bao lấy"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1150, "id": "JUS-4124d7a3281a544bcb2f", "ja": "込み移動封印に！", "vi": "một phần đối thủ, khóa khả năng di chuyển!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1151, "id": "JUS-b693681dcc933182dd0c", "ja": "ヘッポコ丸", "vi": "Heppokomaru"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1152, "id": "JUS-2ac0f71d200446b9f8c6", "ja": "オナラ真拳奥義「師走」", "vi": "Onara Shinken Ougi: Shiwasu"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1153, "id": "JUS-3bf1740731f366e7a510", "ja": "おならしんけんおうぎ<IDEOSP>しわす", "vi": "Onara Shinken Ougi<IDEOSP>Shiwasu"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1154, "id": "JUS-89531f5f2960bede8fa1", "ja": "覚醒オナラ真拳奥義「閏年」", "vi": "Awakened Onara Shinken Ougi: Urudoshi"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1155, "id": "JUS-2d5d1eed6469e7499bc9", "ja": "かくせいおならしんけんおうぎ<IDEOSP>うるうどし", "vi": "Kakusei Onara Shinken Ougi<IDEOSP>Urudoshi"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1156, "id": "JUS-1a8a4b9aaf6e1921807f", "ja": "真の力を解放したヘッポコ丸がオナラを", "vi": "Heppokomaru giải phóng sức mạnh thật,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1157, "id": "JUS-7f7bee464425f6d12d5c", "ja": "解き放つ！相手はダメージ＋混乱に！", "vi": "xả hơi thẳng mặt! Gây sát thương và hỗn loạn!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1158, "id": "JUS-0bc7d48480ed96968d39", "ja": "覚醒したへっくんが繰り出す超強力なオナ", "vi": "Heppokun thức tỉnh, tung luồng sóng... xì hơi"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1159, "id": "JUS-9f128a2828389a1868cd", "ja": "ラの波動！ヒットすると大ダメージ！", "vi": "cực mạnh! Ai trúng ăn sát thương khủng!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1160, "id": "JUS-d98ef0a9afcfe8e6e0aa", "ja": "ビュティ", "vi": "Beauty"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1161, "id": "JUS-f02851034187cf19d773", "ja": "突っ込み", "vi": "Tsukkomi"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1162, "id": "JUS-0f01f4048cbbfec4d398", "ja": "つっこみ", "vi": "Tsukkomi"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1163, "id": "JUS-b4453efab6a36580d311", "ja": "パワーアップ<IDEOSP>ビュティ<IDEOSP>", "vi": "Power Up<IDEOSP>Beauty<IDEOSP>"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1164, "id": "JUS-542976c184f39765e523", "ja": "ぱわーあっぷ<IDEOSP>びゅてぃ", "vi": "Power Up<IDEOSP>Beauty"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1165, "id": "JUS-33bbe39bc02b064380f3", "ja": "必殺技発動中にビュティの突っ込みを発動", "vi": "Kích hoạt màn cà khịa của Beauty khi dùng"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1166, "id": "JUS-357f3ae33e00e5d17457", "ja": "すると必殺魂の消費量を節約できる！", "vi": "Special sẽ tiết kiệm được lượng Special Soul!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1167, "id": "JUS-49cc766d57858cb8698a", "ja": "ボーボボのグラサンによってパワーアップ", "vi": "Đeo kính râm Bobobo, Beauty mạnh hơn hẳn"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1168, "id": "JUS-eb9a0144da7d22fc9629", "ja": "したビュティ！エグイパンチを繰り出す！", "vi": "và tung cú đấm hết hồn!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1169, "id": "JUS-96afa60e5420d5f87121", "ja": "ガ王", "vi": "Gaoh"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1170, "id": "JUS-3600a5f38dcd30ce6f03", "ja": "豹変", "vi": "Hyohen"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1171, "id": "JUS-3a357af9d24768ab7247", "ja": "ひょうへん", "vi": "Hyohen"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1172, "id": "JUS-fb83ea66b4caf9d6ec08", "ja": "コアラ骨法", "vi": "Koala Koppo"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1173, "id": "JUS-462b4a063711927c25d4", "ja": "こあらこっぽう", "vi": "Koala Koppo"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1174, "id": "JUS-80f94871d0d96211c8f5", "ja": "ミーミーとふるえながら右往左往するが、", "vi": "Đang run lẩy bẩy, chạy loạn xạ,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1175, "id": "JUS-2f2c1fdbef726e41c23e", "ja": "相手が近づくと豹変してタコなぐり！", "vi": "ai tới gần là nổi máu đấm túi bụi!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1176, "id": "JUS-2754a80f42caf2bb981e", "ja": "発動後の準備運動中に下画面で相手を", "vi": "Trong lúc khởi động, chọn mục tiêu ở màn hình"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1177, "id": "JUS-f5d13d14135dabb1673f", "ja": "選択、ヒットでダメージ＋行動不能に！", "vi": "dưới. Trúng đòn là đau và không hành động được!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1178, "id": "JUS-09822eb49ad5013c0a21", "ja": "火消しの両さん", "vi": "Hikeshi no Ryo-san"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1179, "id": "JUS-92ca64dc9831a1ecfcb7", "ja": "ひけしのりょうさん", "vi": "Hikeshi no Ryo-san"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1180, "id": "JUS-9173f9f54c1ff0c78ce1", "ja": "両さんが登場し消火器を噴射！！ヒットし", "vi": "Ryo-san xuất hiện, xịt bình chữa cháy!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1181, "id": "JUS-ccf52a44fb7678357355", "ja": "た相手は目の前が真っ白になる。", "vi": "Kẻ trúng đòn chỉ còn thấy trắng xóa."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1182, "id": "JUS-4ab6d0d2bf220bf1f8ff", "ja": "辺りに投げつけ、広い範囲に攻撃。", "vi": "Ném khắp nơi, tấn công một vùng rộng."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1183, "id": "JUS-085b5ea1492ff9077d75", "ja": "大原大次郎", "vi": "Daijiro Ohara"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1184, "id": "JUS-f63fd0cafbf9367bc62e", "ja": "大原部長のカミナリ", "vi": "Ohara Bucho no Kaminari"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1185, "id": "JUS-7e1d1e39e424f8823e70", "ja": "おおはらぶちょうのかみなり", "vi": "Ohara Bucho no Kaminari"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1186, "id": "JUS-e17fe3fc0318e9e0573a", "ja": "怒りの大原部長", "vi": "Ikari no Ohara Bucho"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1187, "id": "JUS-90610009aa777621c9fe", "ja": "いかりのおおはらぶちょう", "vi": "Ikari no Ohara Bucho"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1188, "id": "JUS-f37a793b1c16fce26bb4", "ja": "大原部長の怒鳴り声が周囲に響く！怒鳴ら", "vi": "Tiếng quát của trưởng phòng Ohara vang rền!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1189, "id": "JUS-90c4e2689910a48bd505", "ja": "れると恐怖で暴走状態に。", "vi": "Ai nghe cũng khiếp vía, rơi vào trạng thái cuồng loạn."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1190, "id": "JUS-ed29de86d7443a13703e", "ja": "大原部長の怒りが炸裂！！鎧（よろい）姿", "vi": "Ohara nổi trận lôi đình! Mặc giáp,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1191, "id": "JUS-78dcb46bb095e16a4eaa", "ja": "で刀を振り回す。", "vi": "vung kiếm chém loạn xạ."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1192, "id": "JUS-78d7d7583a32d27a8cdb", "ja": "中川圭一", "vi": "Keiichi Nakagawa"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1193, "id": "JUS-16903b11ef5360dc9fb8", "ja": "中川からのプレゼント", "vi": "Nakagawa kara no Present"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1194, "id": "JUS-f9510ceeedd2b470868e", "ja": "なかがわからのぷれぜんと", "vi": "Nakagawa kara no Present"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1195, "id": "JUS-80aad4d91586523dffca", "ja": "中川グループの力", "vi": "Nakagawa Group no Chikara"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1196, "id": "JUS-eba66d25168d6471b762", "ja": "なかがわぐるーぷのちから", "vi": "Nakagawa Group no Chikara"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1197, "id": "JUS-004fff1ab55f68370e10", "ja": "お金持ちの中川からのプレゼント。箱から", "vi": "Quà từ đại gia Nakagawa! Trong hộp"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1198, "id": "JUS-b77f75fdae3b8b257f05", "ja": "ランダムで何かが出てくる！", "vi": "sẽ ngẫu nhiên xuất hiện một món bất kỳ."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1199, "id": "JUS-aa734843ea2d0407b99d", "ja": "中川グループの力を使って、ときどき裏工", "vi": "Nhờ thế lực Tập đoàn Nakagawa, đôi khi"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1200, "id": "JUS-0db3bde171eb914a067f", "ja": "作？ポイントを得る事ができる。", "vi": "có thể \"đi đêm\" một chút để kiếm điểm?"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1201, "id": "JUS-2650bb499bc4ec679067", "ja": "秋本麗子", "vi": "Reiko Akimoto"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1202, "id": "JUS-7d8b2205f06450d822c5", "ja": "ケーキ職人", "vi": "Cake Shokunin"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1203, "id": "JUS-95b65d1233fb08797731", "ja": "けーきしょくにん", "vi": "Cake Shokunin"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1204, "id": "JUS-15d63095774bee79defd", "ja": "麗子パンチ", "vi": "Reiko Punch"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1205, "id": "JUS-dcae510f8f7d7af3638b", "ja": "れいこぱんち", "vi": "Reiko Punch"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1206, "id": "JUS-40e43fae3a455f8da30e", "ja": "麗子の得意なケーキ作り。ケーキを取ると", "vi": "Reiko trổ tài làm bánh sở trường. Nhặt bánh"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1207, "id": "JUS-e718bc23fac724880e7e", "ja": "Ｊ魂回復。", "vi": "để hồi J-Soul."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1208, "id": "JUS-3a6825f8c0dd99d9a07e", "ja": "怒らせると怖い麗子の必殺パンチ。相手を", "vi": "Chọc giận Reiko là toang! Cú đấm tất sát"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1209, "id": "JUS-b2a0f1a13976ceebf44f", "ja": "大きく吹き飛ばす。", "vi": "hất đối thủ bay tít."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1210, "id": "JUS-d2b328c958f77fb75b58", "ja": "本田速人", "vi": "Hayato Honda"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1211, "id": "JUS-30a01393eb7f51b400a6", "ja": "こわいよ～っ！！", "vi": "Kowai yo!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1212, "id": "JUS-1ac1a01e1e91fe726b69", "ja": "こわいよ～っ", "vi": "Kowai yo!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1213, "id": "JUS-89d7539cf87dbb1d9afc", "ja": "伝説の元暴走族頭Ｚ本田", "vi": "Densetsu no Moto Bosozoku Head Z Honda"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1214, "id": "JUS-f83aef7ebb8b952f3d95", "ja": "でんせつのもとぼうそうぞくへっどぜっとほんだ", "vi": "Densetsu no Moto Bosozoku Head Z Honda"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1215, "id": "JUS-651570a397159e53686e", "ja": "召喚された本田が、怖くなって泣き出す。", "vi": "Honda được gọi ra rồi sợ tới phát khóc."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1216, "id": "JUS-e3e686fc1c42cdfef229", "ja": "近づくと攻撃封印状態に。", "vi": "Ai tới gần sẽ bị khóa đòn tấn công."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1217, "id": "JUS-2c4b7ea0790746629602", "ja": "白バイに乗って豹変した本田が爆走する！", "vi": "Honda cưỡi mô tô cảnh sát, đổi tính phóng vun vút!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1218, "id": "JUS-150003bc14dc30f5a678", "ja": "ヒットした相手は移動不能に！", "vi": "Ai trúng đòn sẽ không thể di chuyển!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1219, "id": "JUS-8ac58f65ce3f4d293138", "ja": "日暮熟睡男", "vi": "Neruo Higurashi"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1220, "id": "JUS-4e8dc4f50b6b92b61b4b", "ja": "テレポート", "vi": "Teleport"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1221, "id": "JUS-82bf6205045178d7b1f8", "ja": "てれぽーと", "vi": "Teleport"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1222, "id": "JUS-286947311388a87266f3", "ja": "念力", "vi": "Nenriki"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1223, "id": "JUS-797f30bf606242e15ae4", "ja": "ねんりき", "vi": "Nenriki"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1224, "id": "JUS-755d0e88cbc2612d9918", "ja": "超能力警察官・日暮が手を叩くと、相手の", "vi": "Higurashi, cảnh sát siêu năng lực, vỗ tay:"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1225, "id": "JUS-914a47c1d8602a88ee7c", "ja": "頭上に何かがテレポートして落ちてくる！", "vi": "một thứ gì đó dịch chuyển tới, rơi ngay đầu đối thủ!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1226, "id": "JUS-704ef536e5fce5f023f2", "ja": "寝ている日暮が攻撃を受けると、眠ったま", "vi": "Higurashi đang ngủ mà bị đánh thì"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1227, "id": "JUS-3864809b60fa3bbc78ff", "ja": "ま念力で相手を吹き飛ばす！", "vi": "vẫn dùng niệm lực hất bay đối phương!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1228, "id": "JUS-7912e48d0123769168a9", "ja": "ボルボ西郷", "vi": "Volvo Saigo"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1229, "id": "JUS-33c0f5bac92890d66ee5", "ja": "食料の調達", "vi": "Shokuryo no Chotatsu"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1230, "id": "JUS-4e2ed37f13ef5aa6e165", "ja": "しょくりょうのちょうたつ", "vi": "Shokuryo no Chotatsu"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1231, "id": "JUS-905c1602af8d2342b900", "ja": "自家発電", "vi": "Jika Hatsuden"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1232, "id": "JUS-11dddfa9427f4857a1e4", "ja": "じかはつでん", "vi": "Jika Hatsuden"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1233, "id": "JUS-39ec1e85d22a2eb47208", "ja": "ボルボがナイフを投げ、“何か”から「骨", "vi": "Volvo ném dao vào \"thứ gì đó\", kiếm được"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1234, "id": "JUS-5472058e69d256355b4c", "ja": "付き肉」を調達！", "vi": "một miếng thịt có xương!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1235, "id": "JUS-5b3f44a330f0e0c359a7", "ja": "ボルボが発電自転車を激しくこいで電気を", "vi": "Volvo đạp xe phát điện hùng hục."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1236, "id": "JUS-7ffaa2be3a75978cb5ea", "ja": "起こす。触れると帯電に！", "vi": "Ai chạm vào là bị nhiễm điện!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1237, "id": "JUS-f584581a2558f144832f", "ja": "左近寺竜之介", "vi": "Tatsunosuke Sakonji"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1238, "id": "JUS-4ab6aa5c590d4b607cdb", "ja": "フィギュア", "vi": "Figure"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1239, "id": "JUS-0fec0686030ccbde2378", "ja": "ふぃぎゅあ", "vi": "Figure"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1240, "id": "JUS-064b65b064da051b1a55", "ja": "ゲームでヒートアップ", "vi": "Game de Heat Up"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1241, "id": "JUS-0e9c15c811e4e9b96e07", "ja": "げーむでひーとあっぷ", "vi": "Game de Heat Up"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1242, "id": "JUS-63b9665b8a402ee9f241", "ja": "等身大フィギュアにもだえる左近寺。邪魔", "vi": "Sakonji phát cuồng vì figure kích cỡ người thật."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1243, "id": "JUS-3c5816c51fa712da74fb", "ja": "をした相手を捕まえて投げる！", "vi": "Ai dám phá đám là bị túm ném đi!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1244, "id": "JUS-b524988ab6fa462947f9", "ja": "ゲームにのめり込んだ左近寺が暴れまくり", "vi": "Mải chơi game, Sakonji nổi điên đánh loạn xạ,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1245, "id": "JUS-17e5f30365fde17cbab6", "ja": "周囲に無意識の連続攻撃！", "vi": "vô tình tung combo quanh mình!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1246, "id": "JUS-3f5d7f19326bcb3d02b3", "ja": "汚野刑事", "vi": "Detective Kitano"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1247, "id": "JUS-cf2441b08a53cc5c8983", "ja": "栄養補給", "vi": "Eiyo Hokyu"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1248, "id": "JUS-dab25c7aa729c136b208", "ja": "えいようほきゅう", "vi": "Eiyo Hokyu"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1249, "id": "JUS-213feaeec22836d63ee5", "ja": "特殊刑事集合", "vi": "Tokushu Deka Shugo"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1250, "id": "JUS-c5d3f7806e8ff2622ccf", "ja": "とくしゅでかしゅうごう", "vi": "Tokushu Deka Shugo"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1251, "id": "JUS-5f473d40ef68d195161b", "ja": "本庁からやって来た海パン刑事こと汚野刑", "vi": "Thám tử quần bơi Kitano đến từ Tổng bộ!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1252, "id": "JUS-3175faeb7fac1ccbbe99", "ja": "事！バナナで昼食！おすそわけをどうぞ。", "vi": "Ăn chuối làm bữa trưa, còn chia phần cho bạn!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1253, "id": "JUS-9766a17a35550abd17fd", "ja": "特殊刑事集合！爆風に当たるとキャラ", "vi": "Dàn thám tử đặc biệt tập hợp! Ai trúng sóng nổ"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1254, "id": "JUS-e15dc24cfa67d6fe9f3d", "ja": "チェンジ＋キャラチェンジ封印！", "vi": "sẽ đổi nhân vật và bị khóa đổi nhân vật!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1255, "id": "JUS-d2cac887934ba86aafa4", "ja": "オイオイ、あぶねーじゃねーか", "vi": "Oi oi, Abunee ja nee ka"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1256, "id": "JUS-90435229a9d5e843324a", "ja": "おいおい<IDEOSP>あぶねーじゃねーか", "vi": "Oi oi<IDEOSP>Abunee ja nee ka"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1257, "id": "JUS-264ca4461037976599be", "ja": "ゴミ箱に入った銀さんが出現。攻撃される", "vi": "Gintoki xuất hiện từ thùng rác. Nếu bị đánh,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1258, "id": "JUS-3470cd992f69887676a0", "ja": "と木刀で相手に反撃！攻撃封印状態に。", "vi": "anh phản đòn bằng kiếm gỗ, khóa tấn công!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1259, "id": "JUS-5b011d796f46f6c7b033", "ja": "て突撃！相手を打ち上げながら突き進む！", "vi": "xông tới! Vừa lao vừa hất đối thủ lên trời!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1260, "id": "JUS-0b38cda71bbed186d8b0", "ja": "万事屋グラちゃん", "vi": "Yorozuya Gura-chan"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1261, "id": "JUS-a9dfcade1d51c7eb9dea", "ja": "よろずやぐらちゃん", "vi": "Yorozuya Gura-chan"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1262, "id": "JUS-6b7a7a230cf4ec340b97", "ja": "何してんだてめー", "vi": "Nani shiten da temee"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1263, "id": "JUS-d206343e761f44182d1c", "ja": "なにしてんだてめー", "vi": "Nani shiten da temee"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1264, "id": "JUS-a5b66615ebf625aea508", "ja": "神楽がバイクで突進し派手に転倒！そのま", "vi": "Kagura cưỡi mô tô lao tới rồi ngã cái rầm!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1265, "id": "JUS-2a1d18a4dc34aadd278c", "ja": "まバイクが吹っ飛んで相手を巻き込む。", "vi": "Xe văng theo, cuốn luôn cả đối thủ!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1266, "id": "JUS-bc2416f5478fd9b764fb", "ja": "寝ボケた神楽が近づく相手をコタツの中に", "vi": "Kagura ngái ngủ kéo kẻ đến gần vào"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1267, "id": "JUS-6d69d3aa87f07760a11e", "ja": "引きずり込み、キャラチェンジさせる！", "vi": "trong bàn sưởi kotatsu, ép đổi nhân vật!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1268, "id": "JUS-4e9bc35e538662efd03d", "ja": "志村新八", "vi": "Shinpachi Shimura"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1269, "id": "JUS-160c34627a2910f4cdf6", "ja": "声張れェェ！！", "vi": "Koe hareee!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1270, "id": "JUS-10b15971d5e65bc5cdb2", "ja": "こえはれぇぇ", "vi": "Koe hareee!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1271, "id": "JUS-9be0c4c00dc0e8868411", "ja": "お前の母ちゃん何人？", "vi": "Omae no kaachan nanijin?"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1272, "id": "JUS-93e172fc4e12b60acaa7", "ja": "おまえのかあちゃんなにじん", "vi": "Omae no kaachan nanijin?"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1273, "id": "JUS-06fd4a1909bd23e6119b", "ja": "お通親衛隊・隊長姿の新八が掛け声一発、", "vi": "Shinpachi trong trang phục đội trưởng fan Otsu"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1274, "id": "JUS-aa62a0482612ab3e7a20", "ja": "鉄壁状態に！ファンたるもの気合だ気合！", "vi": "hét xung phong, vào trạng thái phòng thủ tuyệt đối!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1275, "id": "JUS-898ad752c752c73d7456", "ja": "新八の音痴が炸裂！調子がイイと長い間歌", "vi": "Shinpachi hát lạc tông tưng bừng! Hên thì hát"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1276, "id": "JUS-8f34d77fa16241f3fd08", "ja": "っている。聞いた相手は混乱状態に！", "vi": "dài khỏi nói; ai nghe xong đều bị hỗn loạn!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1277, "id": "JUS-f190e0618780d93fe091", "ja": "桂小太郎／エリザベス", "vi": "Kotaro Katsura / Elizabeth"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1278, "id": "JUS-b6c7e6bb507326dead64", "ja": "ニンジャーカレー<IDEOSP>イエロー（中辛）", "vi": "Ninja Curry<IDEOSP>Yellow (Medium)"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1279, "id": "JUS-abdbad39790b5639eb1f", "ja": "にんじゃーかれー<IDEOSP>いえろー<IDEOSP>ちゅうから", "vi": "Ninja Curry<IDEOSP>Yellow<IDEOSP>Medium"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1280, "id": "JUS-f340774163130acf7704", "ja": "狂乱の貴公子<IDEOSP>桂小太郎", "vi": "Kyōran no Kikōshi<IDEOSP>Kotaro Katsura"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1281, "id": "JUS-4cab52ada9cf3b02d20e", "ja": "きょうらんのきこうし<IDEOSP>かつらこたろう", "vi": "Kyōran no Kikōshi<IDEOSP>Kotaro Katsura"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1282, "id": "JUS-3c8c9aff4ec1a477d2eb", "ja": "ニンジャーカレーイエロー見参！！なんか", "vi": "Ninja Curry Yellow xuất trận!! Chẳng hiểu sao"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1283, "id": "JUS-a1947c12709024dbc873", "ja": "メッチャカレー投げてくる！しかも毒！", "vi": "cứ ném cà ri như mưa! Lại còn có độc nữa chứ!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1284, "id": "JUS-8a171d9940f15cd3d32f", "ja": "爆弾を投げる桂と看板を振り回すエリザベ", "vi": "Katsura ném bom, Elizabeth quơ bảng hiệu,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1285, "id": "JUS-873548fa03afdca98cfd", "ja": "スがかけ抜ける！！", "vi": "cả hai lao ào qua chiến trường!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1286, "id": "JUS-347c7da36e9c60b93f39", "ja": "猿飛あやめ", "vi": "Ayame Sarutobi"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1287, "id": "JUS-f8302d771a17b465041f", "ja": "ニンジャーメガネ", "vi": "Ninja Glasses"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1288, "id": "JUS-305cbff287abf69bee63", "ja": "にんじゃーめがね", "vi": "Ninja Glasses"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1289, "id": "JUS-d09410368b19907ea7f5", "ja": "ああ、愛しの銀さん", "vi": "Aa, Itoshi no Gin-san"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1290, "id": "JUS-27d92597935d36873a6f", "ja": "ああ<IDEOSP>いとしのぎんさん", "vi": "Aa<IDEOSP>Itoshi no Gin-san"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1291, "id": "JUS-1f668941847024d5b325", "ja": "ニンジャーメガネの納豆で相手は混乱！！", "vi": "Natto của Ninja Glasses làm đối thủ hỗn loạn!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1292, "id": "JUS-38f9256560cdeecf5cf8", "ja": "メガネが無い時の動作は保証しません。", "vi": "Không đeo kính thì... miễn bảo hành hành vi!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1293, "id": "JUS-ee6b1c9422f52c4dd117", "ja": "銀さんの氷像に抱かれるさっちゃん。くず", "vi": "Sacchan ôm tượng băng Gintoki. Ai bị"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1294, "id": "JUS-231f47e0212dda57e238", "ja": "れる氷像に当たった相手は氷結状態に！", "vi": "bức tượng đổ trúng sẽ bị đóng băng!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1295, "id": "JUS-0a18df68365b7cbcc9b9", "ja": "近藤勲", "vi": "Isao Kondo"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1296, "id": "JUS-2acbcd516a1e2a271a76", "ja": "武装警察真選組局長<IDEOSP>近藤勲", "vi": "Shinsengumi Chief<IDEOSP>Isao Kondo"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1297, "id": "JUS-5c43fcac63a9f1fd603b", "ja": "ぶそうけいさつしんせんぐみきょくちょう<IDEOSP>こんどういさお", "vi": "Shinsengumi Chief<IDEOSP>Isao Kondo"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1298, "id": "JUS-b9b19b19b07773014c2e", "ja": "愛の追跡者", "vi": "Ai no Hunter"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1299, "id": "JUS-e133b54703c820f7c3d1", "ja": "あいのはんたー", "vi": "Ai no Hunter"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1300, "id": "JUS-5fd5fc43e4340b1d9e43", "ja": "近藤が名刀虎鉄ちゃんで斬りかかる！折れ", "vi": "Kondo cầm danh kiếm Kotetsu chém tới... gãy luôn!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1301, "id": "JUS-78f9c1cb0728f2382f1c", "ja": "る！相手は混乱する！", "vi": "Đối thủ trúng chiêu liền hoang mang!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1302, "id": "JUS-5e5c06ed6a925fe751b2", "ja": "ゴミバケツの中から近藤が現れて絶叫！", "vi": "Kondo lao ra từ thùng rác rồi hét toáng lên!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1303, "id": "JUS-9b5236032ce9169645ff", "ja": "聞かされた相手は混乱状態に。", "vi": "Ai nghe tiếng hét sẽ bị hỗn loạn."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1304, "id": "JUS-6dc7ed2b72a570445987", "ja": "土方十四郎", "vi": "Toshiro Hijikata"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1305, "id": "JUS-bcc030d18537ee03180b", "ja": "鬼の副長<IDEOSP>土方十四郎", "vi": "Oni no Fukucho<IDEOSP>Toshiro Hijikata"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1306, "id": "JUS-1e82379708b39a7e2f80", "ja": "おにのふくちょう<IDEOSP>ひじかたとうしろう", "vi": "Oni no Fukucho<IDEOSP>Toshiro Hijikata"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1307, "id": "JUS-3b005b89bf4cd2e40064", "ja": "マヨラー十四郎", "vi": "Mayora Toshiro"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1308, "id": "JUS-2d15ae187ff13af11ab3", "ja": "まよらーとうしろう", "vi": "Mayora Toshiro"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1309, "id": "JUS-f5f01ffcb85e94945baa", "ja": "土方がちゃぶ台を蹴っ飛ばす！ビックリし", "vi": "Hijikata đá văng bàn ăn! Đối thủ giật mình"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1310, "id": "JUS-cb2ef4b6e5c8ed2a971e", "ja": "た相手は暴走状態になる。", "vi": "sẽ rơi vào trạng thái cuồng loạn."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1311, "id": "JUS-9886fc670d34081eb136", "ja": "土方スペシャルを手に、斬りまくる土方！", "vi": "Cầm Hijikata Special, anh chém loạn xạ!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1312, "id": "JUS-4d504a724fe1ceb9d192", "ja": "相手は混乱＋必殺魂減少！", "vi": "Đối thủ bị hỗn loạn và mất Special Soul!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1313, "id": "JUS-2922619ce28853e4650e", "ja": "沖田総悟", "vi": "Sogo Okita"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1314, "id": "JUS-afee9a02ea087e98b326", "ja": "総悟大暴れ", "vi": "Sogo Oabare"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1315, "id": "JUS-e72435c853d3b693d0e2", "ja": "そうごおおあばれ", "vi": "Sogo Oabare"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1316, "id": "JUS-4eb8cba64f3549b32b57", "ja": "凶悪肉食怪虫カブトーンキング", "vi": "Kabutone King"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1317, "id": "JUS-3463478aaabd58d1c605", "ja": "きょうあくにくしょくかいちゅうかぶとーんきんぐ", "vi": "Kabutone King"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1318, "id": "JUS-c40b2a8fa7b719c23552", "ja": "寝ている沖田に近づくと連続攻撃からバズ", "vi": "Tiến gần Okita đang ngủ sẽ bị combo liên hoàn,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1319, "id": "JUS-223ebff959cdb8a113e8", "ja": "ーカ発射！相手は炎に包まれる。", "vi": "rồi anh bắn bazooka! Đối thủ bốc cháy!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1320, "id": "JUS-6f7cf3e215d71dd0cc24", "ja": "沖田がサド丸に乗って登場！！相手を角で", "vi": "Okita cưỡi Sadomaru xuất hiện, dùng sừng"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1321, "id": "JUS-757147775a88909dbbe0", "ja": "突き上げて、斜め上に吹き飛ばす！", "vi": "hất đối thủ bay chéo lên trên!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1322, "id": "JUS-39a9a54891c1ad87c3c9", "ja": "トゲトゲリボーン", "vi": "Togetoge Reborn"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1323, "id": "JUS-321980611091a27429be", "ja": "とげとげりぼーん", "vi": "Togetoge Reborn"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1324, "id": "JUS-bf42d16bcacd759f07f8", "ja": "ブービートラップ", "vi": "Booby Trap"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1325, "id": "JUS-d2f45d53d4dc41224c95", "ja": "ぶーびーとらっぷ", "vi": "Booby Trap"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1326, "id": "JUS-2a63b68b5320d75b8863", "ja": "いがぐりの格好をしたリボーンが転がりな", "vi": "Reborn hóa hạt dẻ gai, vừa lăn vừa đánh."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1327, "id": "JUS-9f4bef313076742b6f96", "ja": "がら攻撃。相手の攻撃も少し防ぐ技。", "vi": "Chiêu này còn đỡ được chút sát thương."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1328, "id": "JUS-48f404a7cb3cf70c22f3", "ja": "寝ているリボーンの周囲に手榴弾が仕掛け", "vi": "Xung quanh Reborn đang ngủ có gài lựu đạn."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1329, "id": "JUS-3d51ea36cb5ec50ada49", "ja": "られる。触れると爆発！", "vi": "Đụng vào là nổ ngay!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1330, "id": "JUS-52b904fed7a5deee98b4", "ja": "ランボ", "vi": "Lambo"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1331, "id": "JUS-df55c5b3e4b5bbaa4999", "ja": "手榴弾アタック！", "vi": "Grenade Attack!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1332, "id": "JUS-3efeae4c938c1cc9ef5d", "ja": "しゅりゅうだんあたっく", "vi": "Grenade Attack!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1333, "id": "JUS-4c0ad5bb188e3913e65a", "ja": "エレットゥリコ・リバース", "vi": "Elettrico Reverse"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1334, "id": "JUS-3475aff7a53da33a11b9", "ja": "えれっとぅりこ<IDEOSP>りばーす", "vi": "Elettrico<IDEOSP>Reverse"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1335, "id": "JUS-c131445b12411a725893", "ja": "手榴弾を持って突撃！転んでしまって自分", "vi": "Cầm lựu đạn xông lên! Vấp ngã, nổ tung cả"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1336, "id": "JUS-0e887a425528af43be8d", "ja": "もろとも大爆発！痛いのは「が・ま・ん」", "vi": "mình lẫn địch! Đau thì \"nhịn, nhịn, nhịn\"!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1337, "id": "JUS-e3bae25fc048d99c7554", "ja": "１０年後のランボが攻撃を受けると２０年", "vi": "Lambo 10 năm sau bị tấn công sẽ biến thành"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1338, "id": "JUS-185b357dd3b2fe2b2ae4", "ja": "後のランボになって雷の範囲攻撃！", "vi": "Lambo 20 năm sau, tung sét diện rộng!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1339, "id": "JUS-f50a30178bc4e1cedc1b", "ja": "獄寺隼人", "vi": "Hayato Gokudera"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1340, "id": "JUS-d0f52ac35a3ecc73f1a7", "ja": "２倍ボム", "vi": "Double Bomb"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1341, "id": "JUS-33cba832aef6059ead02", "ja": "にばいぼむ", "vi": "Double Bomb"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1342, "id": "JUS-e63a460a976f070ecd6c", "ja": "ボムスプレッズ", "vi": "Bomb Spreads"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1343, "id": "JUS-e5c3dae2bb4f85e91324", "ja": "ぼむすぷれっず", "vi": "Bomb Spreads"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1344, "id": "JUS-ec70860734eb3455271e", "ja": "スモーキン・ボムこと獄寺がダイナマイト", "vi": "Gokudera biệt danh Smokin' Bomb rải đầy"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1345, "id": "JUS-10386c3ee70280d4f0bd", "ja": "をバラまいて大爆破！", "vi": "thuốc nổ rồi cho bùm một phát!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1346, "id": "JUS-e64ecb19e0d6e4884739", "ja": "獄寺が現れてダッシュ！相手に接触すると", "vi": "Gokudera xuất hiện, lao tới! Chạm đối thủ,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1347, "id": "JUS-4154159d6368caad96e2", "ja": "ダイナマイトをばらまいて爆破！", "vi": "anh rải thuốc nổ ra và kích nổ!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1348, "id": "JUS-a2a879b67c6c331c42ae", "ja": "ビアンキ", "vi": "Bianchi"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1349, "id": "JUS-f9e79571515d21b55db8", "ja": "ポイズンクッキング≠", "vi": "Poison Cooking II"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1350, "id": "JUS-596e175aeb9e43e569d1", "ja": "ぽいずんくっきんぐつー", "vi": "Poison Cooking II"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1351, "id": "JUS-726ddcf8d70cba068360", "ja": "千紫毒万紅", "vi": "Senshidoku Banko"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1352, "id": "JUS-985966dfdcdae5b65886", "ja": "せんしどくばんこう", "vi": "Senshidoku Banko"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1353, "id": "JUS-8c85dfa391477fb8e159", "ja": "ビアンキが相手に突進！得意の毒料理を", "vi": "Bianchi lao vào đối thủ, tặng ngay"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1354, "id": "JUS-3544bc25a056d577dc3e", "ja": "叩きつける！", "vi": "món ăn tẩm độc sở trường!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1355, "id": "JUS-8f7fe96b24480c9e155d", "ja": "ビアンキの触れた部分がポイズンクッキン", "vi": "Chỗ nào Bianchi chạm vào đều biến thành"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1356, "id": "JUS-f8a26f21c1c20c578cf5", "ja": "グに！まわりの相手に毒攻撃。", "vi": "Poison Cooking! Gây độc cho kẻ xung quanh."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1357, "id": "JUS-51e8214fe1549964f512", "ja": "山本武", "vi": "Takeshi Yamamoto"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1358, "id": "JUS-b4920a3b90e7f6463a8d", "ja": "マイクロハンマー", "vi": "Micro Hammer"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1359, "id": "JUS-2dca8efc639305c664f3", "ja": "まいくろはんまー", "vi": "Micro Hammer"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1360, "id": "JUS-673bfec55ba59ae35206", "ja": "時雨蒼燕流<IDEOSP>八の型<IDEOSP>篠突く雨", "vi": "Shigure Soen Ryu<IDEOSP>Form 8<IDEOSP>Shinotsuku Ame"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1361, "id": "JUS-cf1d422fbf010f170942", "ja": "しぐれそうえんりゅう<IDEOSP>はちのかた<IDEOSP>しのつくあめ", "vi": "Shigure Soen Ryu<IDEOSP>Form 8<IDEOSP>Shinotsuku Ame"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1362, "id": "JUS-064963be8d62d1c310b7", "ja": "山本が投げた球はマイクロハンマー！", "vi": "Quả bóng Yamamoto ném chính là Micro Hammer!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1363, "id": "JUS-ce3612113d544392cc45", "ja": "ヒットした相手を突き抜けていく！", "vi": "Nó xuyên qua cả đối thủ trúng đòn!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 0, "id": "JUS-3f924ba3db450fdd7358", "ja": "完全無欠最強無敵の時雨蒼燕流で時雨金時", "vi": "Với Shigure Soen Ryu bất khả chiến bại, Yamamoto"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 1, "id": "JUS-88944bceb9d9053449fa", "ja": "を抜き、父親直伝の八の型を放つ！", "vi": "rút Shigure Kintoki, tung Thức 8 cha truyền lại!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 2, "id": "JUS-f2caf89ee7c25d6e8c48", "ja": "イーピン", "vi": "I-Pin"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 3, "id": "JUS-cb73fe874a8ac6d1b5a9", "ja": "箇子時限超爆", "vi": "Pinzu Jigen Chobaku"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 4, "id": "JUS-2d16d3d085ecec55436e", "ja": "ぴんずじげんちょうばく", "vi": "Pinzu Jigen Chobaku"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 5, "id": "JUS-24051df41733d5801acc", "ja": "あり！？", "vi": "Ari!?"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 6, "id": "JUS-b00c7c1a5bc12fa35ac8", "ja": "あり", "vi": "Ari!?"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 7, "id": "JUS-de62dda5b7d9e70a0617", "ja": "イーピンの額に箇子が現れカウントダウン", "vi": "Pinzu hiện trên trán I-Pin, bắt đầu đếm ngược!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 8, "id": "JUS-97f03dda1a6a6e0206b1", "ja": "開始！一箇になるまで走り回って、爆発！", "vi": "Cô bé chạy loạn tới mốc một rồi nổ tung!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 9, "id": "JUS-241f2bdc58010b9b8a08", "ja": "１０年後のイーピンが現れる。攻撃を受け", "vi": "I-Pin 10 năm sau xuất hiện. Nếu bị tấn công,"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 10, "id": "JUS-bf338547c31b01ae93aa", "ja": "るとキックで反撃！", "vi": "cô phản đòn bằng một cú đá!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 11, "id": "JUS-8f91c5380432bebb15b5", "ja": "雲雀恭弥", "vi": "Kyoya Hibari"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 12, "id": "JUS-08e45e9c1097766dfad8", "ja": "咬み殺す", "vi": "Kamikorosu"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 13, "id": "JUS-4a49ddfd8f2b7822cd9f", "ja": "かみころす", "vi": "Kamikorosu"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 14, "id": "JUS-8ca51a0109f4bed8e446", "ja": "処理", "vi": "Shori"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 15, "id": "JUS-8749ebb9fcf2c4d61bc7", "ja": "しょり", "vi": "Shori"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 16, "id": "JUS-2cca337b771481511bf0", "ja": "雲雀恭弥が現れ、両手の仕込みトンファー", "vi": "Hibari xuất hiện, dùng đôi tonfa giấu vũ khí"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 17, "id": "JUS-13c84445ec6d5b3adefa", "ja": "でめった打ち！", "vi": "đánh đối thủ túi bụi!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 18, "id": "JUS-dd4e12e28406e37c796e", "ja": "トンファーで攻撃！ヒットすると相手の", "vi": "Tung tonfa tấn công! Đánh trúng sẽ làm giảm"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 19, "id": "JUS-8cfc4f8de9f756415094", "ja": "必殺魂を１減らし、引きずってポイする。", "vi": "1 Special Soul, kéo đối thủ đi rồi quẳng xuống."}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 20, "id": "JUS-1cda553218c56b99ccf9", "ja": "限りなく透明に近い父", "vi": "Kagirinaku Tomei ni Chikai Chichi"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 21, "id": "JUS-18bdc7b26782c72db922", "ja": "かぎりなくとうめいにちかいちち", "vi": "Kagirinaku Tomei ni Chikai Chichi"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 22, "id": "JUS-e05cd86fa0c56c768a3d", "ja": "バッキャロウ！！！", "vi": "Bakkyaro!!!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 23, "id": "JUS-0e63b2f219038798aa22", "ja": "ばっきゃろう", "vi": "Bakkyaro!!!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 24, "id": "JUS-534c04df0ec502e54f41", "ja": "ジャガーの父“間池留（マイケル）”が", "vi": "Michael, cha của Jaguar, bổ nhào xuống!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 25, "id": "JUS-f1b10c725464e363638f", "ja": "ダイブ！ヒットした相手は攻撃封印に！", "vi": "Ai trúng đòn sẽ bị khóa tấn công!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 26, "id": "JUS-58f963ae9bae5f1dbc55", "ja": "寝こけていると思いきや、伸びる如意笛で", "vi": "Tưởng đang ngủ say? Ông bật dậy, lấy cây sáo"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 27, "id": "JUS-d4f2f552d6d6f566facf", "ja": "ブン殴る！", "vi": "Như Ý kéo dài ra rồi đập thẳng tay!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 28, "id": "JUS-c3960d2598874640eff9", "ja": "ピヨ彦", "vi": "Piyohiko"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 29, "id": "JUS-384d3eb85fdef4988261", "ja": "リアクション", "vi": "Reaction"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 30, "id": "JUS-3f6eb7111eb115a6140a", "ja": "りあくしょん", "vi": "Reaction"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 31, "id": "JUS-0da63002ece3c08f539a", "ja": "ゾウさんの笛", "vi": "Zo-san no Fue"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 32, "id": "JUS-f79c6080054df716a6d6", "ja": "ぞうさんのふえ", "vi": "Zo-san no Fue"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 33, "id": "JUS-404d59cc6a3d0bbd5e25", "ja": "必殺技中に発動するとピヨ彦の激しい", "vi": "Kích hoạt trong lúc tung Special, phản ứng"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 34, "id": "JUS-ae634d040785a778d34f", "ja": "リアクションでクリティカル状態に！", "vi": "dữ dội của Piyohiko giúp tăng tỷ lệ Critical!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 35, "id": "JUS-7c65ee2938a061b0e214", "ja": "若者たちの珍笛アイデアのパワーにハメ字", "vi": "Ý tưởng sáo kỳ quặc của đám trẻ khiến Hamejiro"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 36, "id": "JUS-63f6ed576424db654ede", "ja": "郎は感動！ガラスをぶち割り飛んでいく！", "vi": "xúc động, phá kính rồi bay vút đi!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 37, "id": "JUS-011ed6177f71364e66d8", "ja": "ハマー", "vi": "Hamer"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 38, "id": "JUS-770ce5cdeb97a6f90a86", "ja": "ハマーがいっぱい", "vi": "Hamer ga Ippai"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 39, "id": "JUS-6a4595b1ae1c5813a2e4", "ja": "はまーがいっぱい", "vi": "Hamer ga Ippai"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 40, "id": "JUS-e4dc43a005c12f47d5b1", "ja": "ジャンピング土下座", "vi": "Jumping Dogeza"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 41, "id": "JUS-dedf289399c8752ff30e", "ja": "じゃんぴんぐどげざ", "vi": "Jumping Dogeza"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 42, "id": "JUS-0a30ec365c33c6e1ef2d", "ja": "最終奥義！分身したハマーに触れた相手は", "vi": "Tuyệt kỹ cuối! Ai chạm vào đám Hamer phân thân"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 43, "id": "JUS-849708c687bede480826", "ja": "必殺魂が減少！ホラ早く！攻撃して！", "vi": "sẽ mất Special Soul! Mau, đánh đi chứ!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 44, "id": "JUS-bfb584c8c2c037aabceb", "ja": "華麗な前転から！そのまま土下座へ！？<IDEOSP>", "vi": "Lộn một vòng thật đẹp, rồi... quỳ lạy!?<IDEOSP>"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 45, "id": "JUS-256a943fe19218c54379", "ja": "「どうやったらモテるか教えてください」", "vi": "\"Xin dạy tôi cách làm sao có người yêu!\""}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 46, "id": "JUS-979bbf004f39b68b5106", "ja": "ハミデント眠都", "vi": "Hamident Minto"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 47, "id": "JUS-98ddec7c3181d70b3efe", "ja": "大正解", "vi": "Dai Seikai"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 48, "id": "JUS-9984635a8d48f589876f", "ja": "だいせいかい", "vi": "Dai Seikai"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 49, "id": "JUS-166e4204aff64c598cc2", "ja": "電撃ハミィ", "vi": "Dengeki Hammy"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 50, "id": "JUS-28f5695239157c7f06f3", "ja": "でんげきはみぃ", "vi": "Dengeki Hammy"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 51, "id": "JUS-97fa144e498f894345fe", "ja": "ハミィの眼から怪しげ能面が映し出され、", "vi": "Đôi mắt Hammy chiếu ra chiếc mặt nạ đáng ngờ."}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 52, "id": "JUS-614169963cc7afac8d83", "ja": "触れるとキャラチェンジ＋行動不能に！", "vi": "Chạm vào sẽ bị ép đổi nhân vật và không thể hành động!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 53, "id": "JUS-8b6d302c4f6c6732dd79", "ja": "はっけよーい…のこった！！ハミィが突撃", "vi": "Vào thế... đấu nào!! Hammy lao tới,"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 54, "id": "JUS-6eedea78ea57ef34bf7e", "ja": "そして電撃！ヒットで帯電に。", "vi": "tung điện giật. Trúng là bị nhiễm điện!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 55, "id": "JUS-26bcf93fbf5ae36ba635", "ja": "大きなウンチを放り投げる。ヒットした相", "vi": "Ném cục phân khổng lồ! Ai bị trúng"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 56, "id": "JUS-1de9f7fd9c6bc2c6cf39", "ja": "手は、しばらくサポート封印状態に。", "vi": "sẽ tạm thời không dùng được Support!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 57, "id": "JUS-2dd67bafe1dddd677ba6", "ja": "Ｄｒ.マシリト", "vi": "Dr. Mashirito"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 58, "id": "JUS-56b2fb6675ee533bf6ba", "ja": "怒りのボツ攻撃", "vi": "Ikari no Botsu Kogeki"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 59, "id": "JUS-6868a0144afd045ecb2e", "ja": "いかりのぼつこうげき", "vi": "Ikari no Botsu Kogeki"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 60, "id": "JUS-f46d6de483113a0a1a7b", "ja": "２１番「愛の水すまし」", "vi": "No. 21 Ai no Mizusumashi"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 61, "id": "JUS-436fea3b8d11b49aaf6a", "ja": "にじゅういちばん<IDEOSP>あいのみずすまし", "vi": "No. 21<IDEOSP>Ai no Mizusumashi"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 62, "id": "JUS-a8d0283eb84d263fe9c5", "ja": "「ボツだ！」と２回連呼して、フキダシを", "vi": "Gào \"Loại!\" hai lần rồi phóng"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 63, "id": "JUS-db7e497d7ae7f67f2fc6", "ja": "飛ばして攻撃。", "vi": "bong bóng thoại làm vũ khí!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 64, "id": "JUS-f0a4afc504b595835570", "ja": "カラオケで気持ちよく熱唱！歌声に触れた", "vi": "Hát karaoke say sưa! Ai trúng sóng âm"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 65, "id": "JUS-15ea61117a3f349a2458", "ja": "相手は必殺魂が減少＋行動不能に！", "vi": "sẽ mất Special Soul và không thể hành động!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 66, "id": "JUS-5511e0b5c53bbb1ccc90", "ja": "ガッちゃん", "vi": "Gatchan"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 67, "id": "JUS-33e63cbfe621154bc690", "ja": "アシストアタックガジラビーム", "vi": "Assist Attack Gajira Beam"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 68, "id": "JUS-c30ecc0833c438617931", "ja": "あしすとあたっくがじらびーむ", "vi": "Assist Attack Gajira Beam"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 69, "id": "JUS-286300bf6c7fcbfa707c", "ja": "ガッちゃんがついてきて、定期的にビーム", "vi": "Gatchan đi theo, thỉnh thoảng bắn tia"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 70, "id": "JUS-22d6a7ad264b0337ae6c", "ja": "で攻撃してくれる。", "vi": "tấn công hỗ trợ người chơi."}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 71, "id": "JUS-4168c45bcbd5efb22634", "ja": "ウンチ", "vi": "Unchi"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 72, "id": "JUS-7a8ce3e68f0191f1be6f", "ja": "アシストアタックおさんぽウンチ", "vi": "Assist Attack Osanpo Unchi"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 73, "id": "JUS-d07fe626b969986f968c", "ja": "あしすとあたっくおさんぽうんち", "vi": "Assist Attack Osanpo Unchi"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 74, "id": "JUS-a370cd8877deca4876e8", "ja": "ペンギン村のウンチは歩くんです！よい子", "vi": "Phân ở làng Penguin biết đi đấy nhé!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 75, "id": "JUS-ae0544dc6181992d4574", "ja": "はさわってはいけません。", "vi": "Các bé ngoan đừng sờ vào nha!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 76, "id": "JUS-139f7a3448c8cee57010", "ja": "越前リョーマ", "vi": "Ryoma Echizen"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 77, "id": "JUS-23ee94a95473fa44fd44", "ja": "ツイストサーブ", "vi": "Twist Serve"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 78, "id": "JUS-322179d6db29de3e1d42", "ja": "ついすとさーぶ", "vi": "Twist Serve"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 79, "id": "JUS-998785a75b680997ea83", "ja": "ＣＯＯＬドライブ", "vi": "COOL Drive"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 80, "id": "JUS-a4e713a312601a74de73", "ja": "くーるどらいぶ", "vi": "COOL Drive"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 81, "id": "JUS-7cd23f7aa3e7cd4c445b", "ja": "リョーマの得意技！ヒットした相手はダ", "vi": "Đòn sở trường của Ryoma! Kẻ trúng vừa chịu"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 82, "id": "JUS-1b35a6e17f0065cc896f", "ja": "メージ＋必殺魂減少＋画面が真っ白に！", "vi": "sát thương, mất Special Soul, vừa trắng màn hình!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 83, "id": "JUS-02b40039ad4bc4d6e0f8", "ja": "無我の境地のリョーマが放つ！接地後に", "vi": "Ryoma đạt trạng thái Muga no Kyouchi, quả bóng"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 84, "id": "JUS-a2cb7b2581a6fdde194f", "ja": "地表を駆け抜け、相手を移動封印に！", "vi": "lướt sát đất, khóa di chuyển của đối thủ!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 85, "id": "JUS-cbb3feb1ac540642d7b4", "ja": "手塚国光", "vi": "Kunimitsu Tezuka"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 86, "id": "JUS-37722370387946beaea3", "ja": "手塚ゾーン", "vi": "Tezuka Zone"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 87, "id": "JUS-af6eededfafc22ba7e54", "ja": "てづかぞーん", "vi": "Tezuka Zone"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 88, "id": "JUS-cf5652c40839d1b21bb9", "ja": "百錬自得の極み<IDEOSP>零式ドロップ", "vi": "Hyakuren Jitoku no Kiwami<IDEOSP>Zero-Shiki Drop"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 89, "id": "JUS-4c1e6e815e102ebffca4", "ja": "ひゃくれんじとくのきわみ<IDEOSP>ぜろしきどろっぷ", "vi": "Hyakuren Jitoku no Kiwami<IDEOSP>Zero-Shiki Drop"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 90, "id": "JUS-73b2b0a5d1724d52853e", "ja": "このゾーンに触れた相手は手塚の術中に", "vi": "Ai chạm vào Tezuka Zone sẽ mắc bẫy,"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 91, "id": "JUS-883044b898823c8238b6", "ja": "はまり、ゾーンに引き寄せられる！", "vi": "bị kéo thẳng về vùng ảnh hưởng!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 92, "id": "JUS-a4aa1a54c2b223dd8edb", "ja": "無我の境地の手塚が放つ！接地後に強烈", "vi": "Tezuka đạt Muga no Kyouchi, tung cú bóng"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 93, "id": "JUS-76a95146891904669143", "ja": "なバックスピン！相手は移動封印に！", "vi": "xoáy ngược cực mạnh. Kẻ trúng bị khóa di chuyển!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 94, "id": "JUS-dc7012fd74ba04e018f1", "ja": "不二周助", "vi": "Shusuke Fuji"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 95, "id": "JUS-107a52440eca8224469d", "ja": "羆落とし", "vi": "Higuma Otoshi"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 96, "id": "JUS-1d79c0fc8ed2b93f3bc8", "ja": "ひぐまおとし", "vi": "Higuma Otoshi"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 97, "id": "JUS-98755dfaaac2224c58d0", "ja": "蜉蝣包み", "vi": "Kagero Zutsumi"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 98, "id": "JUS-b83639a3265f6bc16207", "ja": "かげろうつつみ", "vi": "Kagero Zutsumi"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 99, "id": "JUS-0cd505499ab1651ca8ab", "ja": "不二の三種の返し球のひとつ。ヒットした", "vi": "Một trong ba đòn phản kích của Fuji. Đánh trúng"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 100, "id": "JUS-b3e6cc3475baec90fc1c", "ja": "相手は防御封印に！", "vi": "khiến đối thủ bị khóa phòng thủ!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 101, "id": "JUS-6c147a5105eba9f0aace", "ja": "ボールの回転を失くし相手が軌道を読めな", "vi": "Đòn phản kích thứ tư làm bóng mất độ xoáy,"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 102, "id": "JUS-a10cd79167a8f5e427d9", "ja": "くする第４の返し球。相手は攻撃封印に！", "vi": "khiến địch khó đoán đường bay, bị khóa tấn công!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 103, "id": "JUS-b004887ac6388867bba7", "ja": "菊丸英二／大石秀一郎", "vi": "Eiji Kikumaru / Shuichiro Oishi"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 104, "id": "JUS-e1458120d10e6e3193e7", "ja": "分身", "vi": "Bunshin"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 105, "id": "JUS-16ba12c1c89589a31b6a", "ja": "ぶんしん", "vi": "Bunshin"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 106, "id": "JUS-8d1e368ad2b30e360724", "ja": "同調", "vi": "Synchronization"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 107, "id": "JUS-ca8d16b234584ae9f4c9", "ja": "しんくろ", "vi": "Synchronization"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 108, "id": "JUS-1be2b972ee52e14b5b95", "ja": "菊丸が驚異的な身のこなしで自分を３人に", "vi": "Kikumaru di chuyển ảo diệu, tạo ảo giác"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 109, "id": "JUS-3b7db89718fa8d27263b", "ja": "見せボレーを放つ！スピードアップに！", "vi": "ba người cùng volley! Tăng tốc độ!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 110, "id": "JUS-e224cae1a3d229d14706", "ja": "どちらが打つかランダムな技。菊丸はダ", "vi": "Một trong hai sẽ đánh ngẫu nhiên: Kikumaru"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 111, "id": "JUS-89f41a38b83842f61e0d", "ja": "メージ大石はキャラチェンジ封印の効果！", "vi": "gây sát thương; Oishi khóa đổi nhân vật!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 112, "id": "JUS-fb6a7743c95c144dcc6e", "ja": "桃城武", "vi": "Takeshi Momoshiro"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 113, "id": "JUS-17ead3754df796f98642", "ja": "ダンクスマッシュ", "vi": "Dunk Smash"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 114, "id": "JUS-6d68a240cd8b5bd1b5bd", "ja": "だんくすまっしゅ", "vi": "Dunk Smash"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 115, "id": "JUS-ff0a977c57fae63189eb", "ja": "ジャックナイフ", "vi": "Jack Knife"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 116, "id": "JUS-fdf68784807c91ada471", "ja": "じゃっくないふ", "vi": "Jack Knife"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 117, "id": "JUS-c466b107abd4adc92529", "ja": "高く飛び上がって打ち下ろされる桃城の", "vi": "Momoshiro bật cao, đập một cú smash cực mạnh,"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 118, "id": "JUS-339394fdbb19993051dd", "ja": "相手を貫通する強烈なスマッシュ！", "vi": "xuyên qua đối thủ!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 119, "id": "JUS-8163750fe79a730563a6", "ja": "体重を乗せて両手で放つ強烈な打球。", "vi": "Dồn trọng lượng, đánh bóng mạnh bằng cả hai tay."}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 120, "id": "JUS-18813f2fa83a5420a19c", "ja": "ヒットした相手をキャラチェンジ封印に！", "vi": "Địch trúng đòn bị khóa đổi nhân vật!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 121, "id": "JUS-be0fad6a28fc9af46e94", "ja": "海堂薫", "vi": "Kaoru Kaido"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 122, "id": "JUS-fccb4d2915793143fca8", "ja": "スネイク", "vi": "Snake"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 123, "id": "JUS-5c0cb6f338abdb48172d", "ja": "すねいく", "vi": "Snake"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 124, "id": "JUS-6b251fb60d20c6ef7352", "ja": "トルネードスネイク", "vi": "Tornado Snake"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 125, "id": "JUS-c2a04d9c27c3166dcc18", "ja": "とるねーどすねいく", "vi": "Tornado Snake"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 126, "id": "JUS-8945bf0241cc9b3abc89", "ja": "海堂のスネイク！相手を貫くその弾道は", "vi": "Snake của Kaido bay xuyên qua mục tiêu,"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 127, "id": "JUS-42fd5b1dd556c4e1bb14", "ja": "ヒットした相手の必殺魂を減少＋毒に！", "vi": "làm mất Special Soul và gây trúng độc!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 128, "id": "JUS-ff8a92c2bb47426ef62e", "ja": "貫通するトルネードが襲いかかる海堂の新", "vi": "Tornado Snake mới, cơn lốc xuyên đối thủ!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 129, "id": "JUS-4fe7d3b8eced671d252e", "ja": "しいスネイク！相手は必殺魂減少＋毒に！", "vi": "Kẻ trúng mất Special Soul và trúng độc!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 130, "id": "JUS-dd4460c5c9344f07953b", "ja": "乾貞治", "vi": "Sadaharu Inui"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 131, "id": "JUS-631055544ced24dcd5f5", "ja": "青酢", "vi": "Aozu"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 132, "id": "JUS-bedca1ebf302063926a6", "ja": "あおず", "vi": "Aozu"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 133, "id": "JUS-eab3bfe73bca94a4a9be", "ja": "ウォーターフォール", "vi": "Waterfall"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 134, "id": "JUS-fde78b4847b6c4638073", "ja": "うぉーたーふぉーる", "vi": "Waterfall"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 135, "id": "JUS-c7da83fceafbce9663d7", "ja": "乾、特製のドリンク青酢！ガマンして", "vi": "Aozu, thức uống đặc chế của Inui! Cố uống"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 136, "id": "JUS-5e08434425fa53eeceab", "ja": "飲みほせばクリティカル状態になれる！", "vi": "cạn một hơi sẽ nhận trạng thái Critical!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 137, "id": "JUS-1a91d0ae4e813d41d385", "ja": "長身の乾が角度のあるサーブを打ち込み、", "vi": "Inui cao lớn tung cú giao bóng góc hiểm,"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 138, "id": "JUS-dbe0033cd7cdcd7fe8b3", "ja": "しぶきがあがる！相手はサポート封印に！", "vi": "bắn tung bọt nước! Địch bị khóa Support!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 139, "id": "JUS-62d2578814475c044d81", "ja": "河村隆", "vi": "Takashi Kawamura"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 140, "id": "JUS-335c1061a1642c8564b5", "ja": "応援", "vi": "Ouen"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 141, "id": "JUS-193c8c169c9618d9ed3e", "ja": "おうえん", "vi": "Ouen"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 142, "id": "JUS-c4199b4401ed2e80b710", "ja": "ダッシュ波動球", "vi": "Dash Hadokyu"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 143, "id": "JUS-5e2edc7496cd81f8e9d7", "ja": "だっしゅはどうきゅう", "vi": "Dash Hadokyu"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 144, "id": "JUS-d9cc7905a2a458b2ace0", "ja": "タカさんの熱い応援で力がみなぎる！", "vi": "Lời cổ vũ rực lửa của Taka tiếp sức!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 145, "id": "JUS-bbb3af630f74e4e7e939", "ja": "デッキ内のキャラ数に応じて攻撃力ＵＰ！", "vi": "Tăng sức tấn công theo số nhân vật trong Deck!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 146, "id": "JUS-72f00f6910100a422c17", "ja": "助走して放つ相手を貫く強烈な波動球！", "vi": "Lấy đà tung Hadokyu mạnh như búa bổ!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 147, "id": "JUS-68bf02fb860fb8b43fe7", "ja": "ヒットした相手はダメージ＋行動不能に！", "vi": "Kẻ trúng chịu sát thương, không thể hành động!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 148, "id": "JUS-67d14959ddaf22cff300", "ja": "跡部景吾", "vi": "Keigo Atobe"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 149, "id": "JUS-11ffa105f9d7d1da2230", "ja": "破滅への輪舞曲", "vi": "Hametsu e no Rondo"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 150, "id": "JUS-ec1a8c9d02a830dcfdb5", "ja": "はめつへのろんど", "vi": "Hametsu e no Rondo"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 151, "id": "JUS-089ef6be15b89b57ed22", "ja": "氷の世界", "vi": "Kori no Sekai"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 152, "id": "JUS-23b668086690445535d0", "ja": "こおりのせかい", "vi": "Kori no Sekai"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 153, "id": "JUS-e8cad8170e12b1798c85", "ja": "帝王「跡部」の相手を貫くスマッシュ！", "vi": "Cú smash xuyên đối thủ của \"Hoàng đế\" Atobe!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 154, "id": "JUS-efae3771662afd93c57a", "ja": "跡部の眼力（インサイト）により死角を", "vi": "Atobe dùng nhãn lực Insight nhắm vào điểm mù,"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 155, "id": "JUS-0d52615d8dc21b17c55f", "ja": "突いたスマッシュ！相手を氷結に！", "vi": "tung smash khiến kẻ trúng bị đóng băng!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 156, "id": "JUS-2c72ed6a497b3bee0c5f", "ja": "小早川瀬那", "vi": "Sena Kobayakawa"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 157, "id": "JUS-00a3a19e7e2e42b13322", "ja": "デビルバットゴースト", "vi": "Devil Bat Ghost"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 158, "id": "JUS-66abe9ceec2db3448f82", "ja": "でびるばっとごーすと", "vi": "Devil Bat Ghost"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 159, "id": "JUS-9ad0c50713cc7ef63c08", "ja": "デビルバットハリケーン", "vi": "Devil Bat Hurricane"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 160, "id": "JUS-46634cf94519616aff81", "ja": "でびるばっとはりけーん", "vi": "Devil Bat Hurricane"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 161, "id": "JUS-5243d4e7dbceecd42fb8", "ja": "幽霊が通り過ぎたかのような、目で捉えき", "vi": "Lướt qua như bóng ma, nhanh đến nỗi mắt"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 162, "id": "JUS-48eeea19d6d8851696a1", "ja": "れない動きで駆け抜け相手を混乱状態に。", "vi": "không theo kịp, khiến đối thủ hỗn loạn!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 163, "id": "JUS-820e3a06d81091b00291", "ja": "ヒットするとデビルバットゴーストにスピ", "vi": "Cú đột phá Devil Bat Ghost thêm vòng xoáy."}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 164, "id": "JUS-de9cc0e2068f74c1abfc", "ja": "ンを加えて突破！相手を移動封印状態に。", "vi": "Trúng đòn sẽ bị khóa di chuyển!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 165, "id": "JUS-9ae6cb265b96b1f80e90", "ja": "蛭魔妖一", "vi": "Yoichi Hiruma"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 166, "id": "JUS-be7057ecab9d3daccc7a", "ja": "地獄のダンス！", "vi": "Jigoku no Dance!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 167, "id": "JUS-f60556667b1f9137eb06", "ja": "じごくのだんす", "vi": "Jigoku no Dance!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 168, "id": "JUS-e1041ae663729b0ff6e9", "ja": "デビルレーザー弾", "vi": "Devil Laser Bullet"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 169, "id": "JUS-586c75abfd7c87e4a04d", "ja": "でびるれーざーばれっと", "vi": "Devil Laser Bullet"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 170, "id": "JUS-9b4e6d3ed31e6a933f1c", "ja": "ヒル魔お得意の重火器乱射！マシンガンを", "vi": "Hiruma xả đạn như điên! Quét súng máy"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 171, "id": "JUS-69bd22aab7917c63c459", "ja": "ぶっ放し、仕上げは手榴弾で大爆破！！", "vi": "rồi kết thúc bằng lựu đạn nổ đùng đoàng!!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 172, "id": "JUS-26f5aeed4656d598c8dc", "ja": "ヒル魔が登場し、風を斬り裂く", "vi": "Hiruma xuất hiện, bắn viên đạn"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 173, "id": "JUS-0fd1460eadc45b96b216", "ja": "デビルレーザー弾を撃ち込む！", "vi": "Devil Laser xé gió lao tới!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 174, "id": "JUS-7625da79edf229f6b61e", "ja": "栗田良寛", "vi": "Ryokan Kurita"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 175, "id": "JUS-fe5c5cc411bbbd7546b1", "ja": "鉄壁のガード", "vi": "Teppeki no Guard"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 176, "id": "JUS-28a395029f3b3fa28da6", "ja": "てっぺきのがーど", "vi": "Teppeki no Guard"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 177, "id": "JUS-bb41baab359a99c080e9", "ja": "爆破", "vi": "Blast"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 178, "id": "JUS-8da4cf7e5ee2dd83204c", "ja": "ぶらすと", "vi": "Blast"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 179, "id": "JUS-d13f67452c167337edbc", "ja": "栗田良寛が巨大な体で相手の攻撃を", "vi": "Kurita lấy thân hình khổng lồ đỡ đòn,"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 180, "id": "JUS-b7105ef0731056f1a48f", "ja": "ブロック！相手を押しつぶす！", "vi": "rồi đè bẹp đối thủ!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 181, "id": "JUS-fce675eb91c0772879fc", "ja": "巨体でムリヤリ正面突破！目の前の相手が", "vi": "Dùng sức mạnh khổng lồ lao xuyên chính diện!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 182, "id": "JUS-e638c5158da70445a97b", "ja": "いれば何度でもぶっ飛ばす！", "vi": "Kẻ nào chắn đường là bị hất bay liên tục!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 183, "id": "JUS-3a275fd6da06af7638e8", "ja": "武蔵厳", "vi": "Gen Takekura"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 184, "id": "JUS-f88cac178dbbe224899a", "ja": "格言", "vi": "Kakugen"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 185, "id": "JUS-e8183451479f53484a33", "ja": "かくげん", "vi": "Kakugen"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 186, "id": "JUS-297a0ba29aeb54ea1c12", "ja": "６０ヤードマグナム", "vi": "60-Yard Magnum"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 187, "id": "JUS-143a50d4bad68c2dd697", "ja": "ろくじゅうやーどまぐなむ", "vi": "60-Yard Magnum"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 188, "id": "JUS-20d32fa4d7f41c712abf", "ja": "ムサシが頭にタオルを巻いて一言。バトル", "vi": "Musashi quấn khăn trên đầu, nói một câu."}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 189, "id": "JUS-ff050b4ee07c8925b8bd", "ja": "キャラに鉄壁の状態変化。", "vi": "Nhân vật chiến đấu nhận trạng thái Iron Wall!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 190, "id": "JUS-2e90fa8c38accd1a09bf", "ja": "ムサシの大砲のようなキックで斜め上方向", "vi": "Cú đá như đại bác của Musashi sút bóng"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 191, "id": "JUS-f90ae81cf633ea89d693", "ja": "にボールを蹴り上げる！！", "vi": "bay chếch lên cao!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 192, "id": "JUS-e528cea9d3fce45cef77", "ja": "雷門太郎", "vi": "Taro Raimon"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 193, "id": "JUS-69524918a0e02c76d56d", "ja": "努力ＭＡＸ", "vi": "Doryoku MAX"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 194, "id": "JUS-d5d8b4be49603a05d81c", "ja": "どりょくまっくす", "vi": "Doryoku MAX"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 195, "id": "JUS-0f4db56ec4c551c4eb2a", "ja": "キャッチＭＡＸ", "vi": "Catch MAX"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 196, "id": "JUS-dac6281b9d1d55026876", "ja": "きゃっちまっくす", "vi": "Catch MAX"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 197, "id": "JUS-852d11836fd79a1df461", "ja": "モン太が指を突き上げ「努力ＭＡＸ！！」", "vi": "Monta giơ ngón tay hét \"Doryoku MAX!!\""}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 198, "id": "JUS-1b50383d861a9f0371a9", "ja": "プレイヤーキャラがスピードアップ！", "vi": "Nhân vật người chơi tăng tốc độ!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 199, "id": "JUS-7706470f10c88778ff5c", "ja": "ジャンプして「キャッチＭＡＸ！！」着地", "vi": "Bật nhảy hét \"Catch MAX!!\". Khi tiếp đất,"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 200, "id": "JUS-f6f2f4920687d413b7b0", "ja": "すると周りにアイテムをばらまく。", "vi": "rải Item ra xung quanh."}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 201, "id": "JUS-0cdb11cedf17016feb6c", "ja": "ハァハァ三兄弟", "vi": "Ha-Ha Brothers"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 202, "id": "JUS-160026511f436f64acb9", "ja": "ハ？はァ！？はぁぁぁぁあ！？", "vi": "Ha? Haa!? Haaaa!?"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 203, "id": "JUS-cddc25822336948112dd", "ja": "は<IDEOSP>はぁ<IDEOSP>はぁぁぁぁあ", "vi": "Ha?<IDEOSP>Haa!?<IDEOSP>Haaaa!?"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 204, "id": "JUS-3150abef14ab360320bb", "ja": "電撃突撃", "vi": "Blitz"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 205, "id": "JUS-b2f36ef02cecc20d3381", "ja": "ぶりっつ", "vi": "Blitz"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 206, "id": "JUS-938ab97d302903bd9314", "ja": "「ハ？」「はァ！？」「はぁぁぁあ！？」", "vi": "Combo \"Hả?\", \"HẢ!?\", \"HẢẢẢ!?\""}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 207, "id": "JUS-fd5ffbae0f2aa98a92ad", "ja": "のコンボで相手は移動不能状態に。", "vi": "khiến đối thủ không thể di chuyển!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 208, "id": "JUS-1526a826e8643ff3037b", "ja": "ハァハァ３兄弟の電撃突撃！ダッシュして", "vi": "Ba anh em Ha-Ha tung Blitz, lao tới"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 209, "id": "JUS-9ee180058436c8ca66f3", "ja": "相手をどんどん押していく。", "vi": "đẩy đối thủ lùi liên tục!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 210, "id": "JUS-10e1cd09bc5e936e830d", "ja": "進清十郎", "vi": "Seijuro Shin"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 211, "id": "JUS-75ab454d6ca65e6d2182", "ja": "鍛錬が足らんな", "vi": "Tanren ga Taranna"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 212, "id": "JUS-c7f281eec08839a865a5", "ja": "たんれんがたらんな", "vi": "Tanren ga Taranna"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 213, "id": "JUS-d3834173f45fcc924f1e", "ja": "スピアタックル", "vi": "Spear Tackle"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 214, "id": "JUS-342231d48f2427d7142b", "ja": "すぴあたっくる", "vi": "Spear Tackle"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 215, "id": "JUS-3f7cd32aca86833ea79f", "ja": "進が指一本でウェイトを乗せて登場。バト", "vi": "Shin xuất hiện, dùng một ngón tay nâng tạ!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 216, "id": "JUS-ca27cdc02eec7cd66719", "ja": "ルキャラの攻撃力がＵＰ。", "vi": "Tăng sức tấn công của Battle Character."}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 217, "id": "JUS-898f10b5e55219f60266", "ja": "進のタックルはまさに『スピア（槍）』！", "vi": "Cú tackle của Shin đúng chất ngọn giáo Spear!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 218, "id": "JUS-25629b19e5f47b70956f", "ja": "馬上の騎士のごとく相手に突撃！", "vi": "Lao tới như hiệp sĩ trên lưng ngựa!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 219, "id": "JUS-97d0bde20f85e28d5963", "ja": "デビルバット", "vi": "Devil Bat"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 220, "id": "JUS-da9fd8b5d5c0cf6d1ccf", "ja": "アシストアタックデビルバイト", "vi": "Assist Attack Devil Bite"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 221, "id": "JUS-94ae7226e72d70654164", "ja": "あしすとあたっくでびるばいと", "vi": "Assist Attack Devil Bite"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 222, "id": "JUS-f6248ab371d42065c86b", "ja": "プレイヤーキャラに追随する。通常攻撃を", "vi": "Đi theo nhân vật người chơi. Khi người chơi"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 223, "id": "JUS-33286771c5b398e9272a", "ja": "すると体当たり攻撃で支援！", "vi": "đánh thường, nó lao tới hỗ trợ!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 224, "id": "JUS-43aa4535f479db1281f6", "ja": "ケルベロス", "vi": "Cerberus"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 225, "id": "JUS-52a02d01bf5888739c85", "ja": "アシストアタックヘルダイブ", "vi": "Assist Attack Hell Dive"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 226, "id": "JUS-94e776b883ab1fb65e74", "ja": "あしすとあたっくへるだいぶ", "vi": "Assist Attack Hell Dive"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 227, "id": "JUS-6a194aacff7cf5bc1369", "ja": "プレイヤーキャラに追随する。攻撃を受け", "vi": "Đi theo nhân vật người chơi. Khi bị đánh,"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 228, "id": "JUS-138cc77d64f5d2c32061", "ja": "ると噛み付き攻撃で反撃！", "vi": "nó cắn trả kẻ tấn công!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 229, "id": "JUS-06ed10e139026f5cdcd3", "ja": "桜木花道", "vi": "Hanamichi Sakuragi"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 230, "id": "JUS-5a78d48ac17eea5f0b7e", "ja": "フンフンディフェンス", "vi": "Hun Hun Defense"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 231, "id": "JUS-0578d4f1c015353d5308", "ja": "ふんふんでぃふぇんす", "vi": "Hun Hun Defense"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 232, "id": "JUS-020ef33661b9dd627d30", "ja": "ＳＬＡＭ<IDEOSP>ＤＵＮＫ", "vi": "SLAM<IDEOSP>DUNK"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 233, "id": "JUS-3cf14eba5cac5017cd7d", "ja": "すらむだんく", "vi": "SLAM DUNK"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 234, "id": "JUS-bee7f5184ad03d3c9339", "ja": "桜木花道登場。残像が見えるほどの", "vi": "Hanamichi Sakuragi xuất hiện, phòng thủ"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 235, "id": "JUS-551f1bbd459cc5b23115", "ja": "高速ディフェンスで相手の攻撃を防ぐ。", "vi": "nhanh tới mức để lại cả dư ảnh, chặn đòn!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 236, "id": "JUS-e79f18dfeda9d40d96cb", "ja": "桜木花道がゴールを叩き込むシーンまで", "vi": "Nếu tái hiện được cảnh Sakuragi úp rổ,"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 237, "id": "JUS-6972803f42259f51090d", "ja": "持ち込めばデッキ内キャラ分攻撃力ＵＰ！", "vi": "sức tấn công tăng theo số nhân vật trong Deck!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 238, "id": "JUS-f1cd96e86e6e0426f583", "ja": "流川楓", "vi": "Kaede Rukawa"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 239, "id": "JUS-96e70c80e7b35c292666", "ja": "居眠り運転", "vi": "Inemuri Unten"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 240, "id": "JUS-d9ffb6826f985ba73966", "ja": "いねむりうんてん", "vi": "Inemuri Unten"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 241, "id": "JUS-1b47edbc4eac0a5ca62a", "ja": "レッグスルードリブル", "vi": "Leg-Through Dribble"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 242, "id": "JUS-ca28874b44da9e5e28d7", "ja": "れっぐするーどりぶる", "vi": "Leg-Through Dribble"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 243, "id": "JUS-ad3587a8785c57863da6", "ja": "流川楓が居眠り運転で登校。左右に移動し", "vi": "Rukawa vừa đạp xe vừa ngủ gật tới trường."}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 244, "id": "JUS-340568d3854b8465701f", "ja": "接触した相手にダメージ。ガード不能。", "vi": "Lạng trái lạng phải, va vào ai cũng gây sát thương, không thể đỡ."}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 245, "id": "JUS-73f3a5c13bd3031ebafe", "ja": "ドリブルしながら足の間にボールを通して", "vi": "Dẫn bóng qua hai chân để vượt đối thủ."}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 246, "id": "JUS-6812f32f7a91fb920adf", "ja": "突破。相手は防御封印状態に。", "vi": "Kẻ trúng bị khóa phòng thủ!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 247, "id": "JUS-26b7b93790b799cd6b4f", "ja": "赤木剛憲", "vi": "Takenori Akagi"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 248, "id": "JUS-d34c8b8ba04f9078487b", "ja": "湘北は負けんぞ", "vi": "Shohoku wa Maken zo"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 249, "id": "JUS-1c3764082d7ec23655b8", "ja": "しょうほくはまけんぞ", "vi": "Shohoku wa Maken zo"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 250, "id": "JUS-00bebaabd0e169f25728", "ja": "ゴリラダンク", "vi": "Gorilla Dunk"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 251, "id": "JUS-1f4f0d8b3f700d573414", "ja": "ごりらだんく", "vi": "Gorilla Dunk"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 252, "id": "JUS-4c4caca3757923e72657", "ja": "ゴリが雄たけびをあげて気合一発！！鉄壁", "vi": "Gori gầm lên, lên dây cót tinh thần!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 253, "id": "JUS-9ab9c7d0caee0a381bd3", "ja": "状態になる！！", "vi": "Bước vào trạng thái Iron Wall!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 254, "id": "JUS-42020f35ba96b75e4d51", "ja": "両手で振りかぶって、ダンクシュート！！", "vi": "Giơ cả hai tay, úp rổ một cú cực mạnh!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 255, "id": "JUS-f7499e7db1499996659c", "ja": "攻撃力がＵＰ！", "vi": "Tăng sức tấn công!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 256, "id": "JUS-a02c98b8362692983133", "ja": "三井寿", "vi": "Hisashi Mitsui"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 257, "id": "JUS-671fec8d92dfd457e05f", "ja": "バスケがしたいです", "vi": "Basket ga Shitai desu"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 258, "id": "JUS-9f9c8aa9a23e144144bf", "ja": "ばすけがしたいです", "vi": "Basket ga Shitai desu"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 259, "id": "JUS-fe4deff29a804239a703", "ja": "あきらめの悪い男", "vi": "Akirame no Warui Otoko"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 260, "id": "JUS-28b80e3ceee3c015e332", "ja": "あきらめのわるいおとこ", "vi": "Akirame no Warui Otoko"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 261, "id": "JUS-3a370d8487fc6f246be9", "ja": "「あきらめたらそこで試合終了だよ」", "vi": "\"Bỏ cuộc là trận đấu kết thúc đấy!\""}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 262, "id": "JUS-67cc99c73dd2af919336", "ja": "必殺魂が回復！", "vi": "Hồi Special Soul!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 263, "id": "JUS-a0c9cde324b1797ab9e2", "ja": "三井の３ポイントシュート！成功すると", "vi": "Mitsui ném bóng 3 điểm! Nếu thành công,"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 264, "id": "JUS-2199c5d36bfda005d42a", "ja": "必殺魂回復＋攻撃力がＵＰ！", "vi": "hồi Special Soul và tăng sức tấn công!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 265, "id": "JUS-3f0db068681598c32f30", "ja": "宮城リョータ", "vi": "Ryota Miyagi"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 266, "id": "JUS-ed1ba063f0b5b0a99972", "ja": "スティール", "vi": "Steal"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 267, "id": "JUS-a5e41352b5088c4f19a3", "ja": "すてぃーる", "vi": "Steal"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 268, "id": "JUS-0b399247179a58952a45", "ja": "ＮＯ．１ガード", "vi": "No. 1 Guard"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 269, "id": "JUS-5abf1be6f33e534f24ff", "ja": "なんばーわんがーど", "vi": "No. 1 Guard"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 270, "id": "JUS-25e1604bc44422c642a9", "ja": "相手に接近してボールをスティール！", "vi": "Áp sát đối thủ, cướp bóng thật nhanh!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 271, "id": "JUS-35ac985c194773e0865b", "ja": "ヒットした相手はスピードダウン。", "vi": "Đánh trúng khiến đối phương giảm tốc độ."}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 272, "id": "JUS-5e9323859ce2b5fcbd5d", "ja": "ドリブルをしている所に相手が近づくと、", "vi": "Nếu địch đến gần khi đang dẫn bóng,"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 273, "id": "JUS-d6b946d15d297e3b039e", "ja": "速攻で突破！相手はサポート封印状態に。", "vi": "Miyagi bứt tốc! Kẻ trúng bị khóa Support!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 274, "id": "JUS-c3cb56e9fabcdec5c75a", "ja": "夜神月", "vi": "Light Yagami"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 275, "id": "JUS-99fa3906bd74bfb81b68", "ja": "裁き", "vi": "Sabaki"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 276, "id": "JUS-d0ba6f3e0001c2d1f74e", "ja": "さばき", "vi": "Sabaki"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 277, "id": "JUS-86629ef4d24bd181c3a4", "ja": "神の所業", "vi": "Kami no Shogyo"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 278, "id": "JUS-c762b840cb77dac99d4d", "ja": "かみのしょぎょう", "vi": "Kami no Shogyo"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 279, "id": "JUS-b2fed6277c3a7398074f", "ja": "夜神月がノートを取り出し、下画面で指定", "vi": "Light mở Death Note, chọn kẻ địch"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 280, "id": "JUS-ab948188f5c52bdad83d", "ja": "した相手に死の宣告をする！！", "vi": "trên màn hình dưới để tuyên án tử!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 281, "id": "JUS-a01b2a85b2193c51feb6", "ja": "月が登場しデスノートへ書きこみ終わると", "vi": "Light xuất hiện, viết xong vào Death Note"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 282, "id": "JUS-1997c6df740f2ed5d802", "ja": "リンゴが落下。ヒットした相手は宣告に！", "vi": "thì táo rơi xuống. Ai trúng sẽ bị tuyên án!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 283, "id": "JUS-033c8b269b1b0ba85e39", "ja": "Ｌ", "vi": "L"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 284, "id": "JUS-13d4af9f584f7adc3853", "ja": "監視", "vi": "Kanshi"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 285, "id": "JUS-c408dffcbb48c63da1c6", "ja": "かんし", "vi": "Kanshi"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 286, "id": "JUS-ee9c94ae318daba317b2", "ja": "監禁", "vi": "Kankin"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 287, "id": "JUS-8a268cce41012d7027ae", "ja": "かんきん", "vi": "Kankin"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 288, "id": "JUS-f70bec9eab29a8cee7ee", "ja": "大型モニターでフィールド上の相手全員を", "vi": "L quan sát mọi đối thủ trên đấu trường"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 289, "id": "JUS-10f4d69187158a76d19a", "ja": "監視、指定した相手の攻撃を封印！", "vi": "qua màn hình lớn, khóa tấn công của mục tiêu chọn!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 290, "id": "JUS-5bee56627fc75c9773ed", "ja": "上からオリが落ちてきて相手を監禁。", "vi": "Lồng sắt từ trên rơi xuống giam đối thủ."}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 291, "id": "JUS-48e3993f00a6f144e8b0", "ja": "成功すると相手の必殺魂が減っていく。", "vi": "Nếu thành công, Special Soul của địch giảm dần."}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 292, "id": "JUS-de1ce5b41017c6d64421", "ja": "弥海砂", "vi": "Misa Amane"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 293, "id": "JUS-82132d8aeb025e68386d", "ja": "死神の目", "vi": "Shinigami no Me"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 294, "id": "JUS-f8df770b2b4e16ad7a25", "ja": "しにがみのめ", "vi": "Shinigami no Me"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 295, "id": "JUS-91e270089314d649d708", "ja": "死神レム", "vi": "Shinigami Rem"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 296, "id": "JUS-30c492ac8ac1aa6ac6a4", "ja": "しにがみれむ", "vi": "Shinigami Rem"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 297, "id": "JUS-921622f205a8fa4fe1c1", "ja": "ミサが死神の目を使い相手の名前を確認。", "vi": "Misa dùng đôi mắt Shinigami để biết tên"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 298, "id": "JUS-b073157a07fcbbbef331", "ja": "死の宣告をする！", "vi": "đối thủ, rồi tuyên án tử!"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 299, "id": "JUS-46e4c10f6a6cb2beab3c", "ja": "ミサに危害を加えると死神レムが出現。相", "vi": "Ai động vào Misa, Shinigami Rem xuất hiện,"}
+{"file": "04-koma-chieu-thuc-003.jsonl", "row_index": 300, "id": "JUS-e976f3fed33af2fff3c8", "ja": "手の名前をノートに書き込み、死の宣告！", "vi": "viết tên đối thủ vào sổ để tuyên án tử!"}
