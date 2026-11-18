@@ -2308,5 +2308,83 @@
     "vi": "El Mes Gorge - South",
     "status": "reviewed-dot024",
     "note": "Tên địa danh"
+  },
+  {
+    "en": "Jazz",
+    "vi": "Jazz",
+    "status": "reviewed-dot025",
+    "note": "Tên NPC người hướng dẫn Archer Guild."
+  },
+  {
+    "en": "Hunter's Spirit",
+    "vi": "Hunter's Spirit",
+    "status": "reviewed-dot025",
+    "note": "Item bí thuật Hunter."
+  },
+  {
+    "en": "Vagabond Wolf",
+    "vi": "Vagabond Wolf",
+    "status": "reviewed-dot025",
+    "note": "Tên quái mục tiêu ở West Prontera Woods."
+  },
+  {
+    "en": "Vagabond Wolves",
+    "vi": "Vagabond Wolves",
+    "status": "reviewed-dot025",
+    "note": "Dạng số nhiều của quái Vagabond Wolf."
+  },
+  {
+    "en": "Blacksmith's Spirit",
+    "vi": "Blacksmith's Spirit",
+    "status": "reviewed-dot025",
+    "note": "Item bí thuật Blacksmith."
+  },
+  {
+    "en": "Flamberge",
+    "vi": "Flamberge",
+    "status": "reviewed-dot025",
+    "note": "Kiếm giao cùng 6 đá quý."
+  },
+  {
+    "en": "Merchant's Note",
+    "vi": "Merchant's Note",
+    "status": "reviewed-dot025",
+    "note": "Giấy xác nhận thương vụ Merchant tại Juno."
+  },
+  {
+    "en": "Begell",
+    "vi": "Begell",
+    "status": "reviewed-dot025",
+    "note": "Tên bất thường do nguồn USA viết thay Bughill tại 300/302/304; chưa sửa."
+  },
+  {
+    "en": "Master Li",
+    "vi": "Master Li",
+    "status": "reviewed-dot025",
+    "note": "Tên riêng sư phụ Taekwon Guild."
+  },
+  {
+    "en": "Immortal Fighter",
+    "vi": "Võ sĩ bất tử",
+    "status": "reviewed-dot025",
+    "note": "Nhãn NPC học trò cũ Master Li; vai trò không phải tên riêng."
+  },
+  {
+    "en": "Taekwon Master's Spirit",
+    "vi": "Taekwon Master's Spirit",
+    "status": "reviewed-dot025",
+    "note": "Item bí thuật Taekwon Master."
+  },
+  {
+    "en": "Emerald",
+    "vi": "Emerald",
+    "status": "reviewed-dot025",
+    "note": "Đá quý cần trong nhiệm vụ Merchant."
+  },
+  {
+    "en": "30000 zenies",
+    "vi": "30000 zenies",
+    "status": "reviewed-dot025",
+    "note": "Giá Flamberge theo nguồn."
   }
 ]
