@@ -1978,5 +1978,71 @@
     "vi": "Đội trưởng thợ",
     "status": "reviewed-dot019",
     "note": "Nhãn vai trò NPC; tên Job/Ragnarok quan trọng giữ nguyên."
+  },
+  {
+    "en": "Treasure Map",
+    "vi": "Treasure Map",
+    "status": "reviewed-dot020",
+    "note": "Tên item bản đồ kho báu Aghill"
+  },
+  {
+    "en": "Sohee",
+    "vi": "Sohee",
+    "status": "reviewed-dot020",
+    "note": "Tên quái/hồn ma tại Prontera Culvert"
+  },
+  {
+    "en": "Bat Fang",
+    "vi": "Bat Fang",
+    "status": "reviewed-dot020",
+    "note": "Tên item"
+  },
+  {
+    "en": "Ogre Tooth",
+    "vi": "Ogre Tooth",
+    "status": "reviewed-dot020",
+    "note": "Tên item; thông báo của bản USA cần kiểm tra in-game"
+  },
+  {
+    "en": "Cursed Ruby",
+    "vi": "Cursed Ruby",
+    "status": "reviewed-dot020",
+    "note": "Tên item"
+  },
+  {
+    "en": "Yggdrasil Leaf",
+    "vi": "Yggdrasil Leaf",
+    "status": "reviewed-dot020",
+    "note": "Tên item"
+  },
+  {
+    "en": "Sogard",
+    "vi": "Sogard",
+    "status": "reviewed-dot020",
+    "note": "Tên riêng NPC"
+  },
+  {
+    "en": "Maintenance Crew",
+    "vi": "Đội bảo trì",
+    "status": "reviewed-dot020",
+    "note": "Nhãn NPC"
+  },
+  {
+    "en": "Suspicious Old Man",
+    "vi": "Ông lão khả nghi",
+    "status": "reviewed-dot020",
+    "note": "Nhãn NPC"
+  },
+  {
+    "en": "Mysterious Man",
+    "vi": "Người đàn ông bí ẩn",
+    "status": "reviewed-dot020",
+    "note": "Nhãn vai trò NPC"
+  },
+  {
+    "en": "Child",
+    "vi": "Đứa trẻ",
+    "status": "reviewed-dot020",
+    "note": "Nhãn NPC"
   }
 ]
