@@ -121,15 +121,25 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - Một số câu gốc có phân trang rỗng và `<C3000>` nằm giữa nội dung; giữ nguyên thay vì tự sửa logic định dạng.
 - **Kế tiếp:** `05-hoi-thoai-011.jsonl`.
 
+## Checkpoint 013 — 18/11/2026
+
+- **+425 mục** trong `05-hoi-thoai-011.jsonl` (423 khác nguồn EN, 2 lời gọi giữ nguyên), patch tại `translation/PATCH-DOT013.jsonl`.
+- **Tích lũy 5.339/14.616 mục (36,53%)**, còn 9.277 mục `vi=null`. Toàn bộ 4.914 bản dịch checkpoint 012 được kiểm tra và giữ nguyên.
+- Nội dung: Daksten/10 Zargons, Sedi/Pocket Watch, Lily–Hodril/Little Evil Horn, Dogerel/Skull, Sa'ab/vật liệu nghiên cứu, Karen/Laimis Flower, vòng giao hàng Rich–Holland–George–Wade, thanh kiếm bị nguyền của Stefan, Viselc/Attar dọn sạt lở, Magician lấy Wing Staff.
+- Quy tắc: giữ tên người, quái, Job, skill/item và địa danh bằng tiếng Anh; các nhãn vai trò chung `Sister` → `Nữ tu`, `Judge` → `Giám khảo`. Karen gọi người chơi trung tính, không gán giới tính nhân vật có tên động.
+- **QA:** `tools/check_handoff.py` của gói nguồn kiểm tra đủ 14.616 ID, 5.339 mục đã dịch, 9.277 chưa dịch, **0 errors** về ID, `en`, placeholder và mã game. Không thay thứ tự `<CFFFD>`, `<CFFFC>`, `<C3000>`, mã màu, tên động.
+- ZIP tích lũy có 33 JSONL, patch 013, bảng thuật ngữ, ma trận xưng hô, QA và danh bạ. Chưa thay font, chưa patch ROM và **chưa xác nhận độ rộng câu trên máy NDS**.
+- **Kế tiếp:** `05-hoi-thoai-012.jsonl` còn **354 mục**.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **4.914 patch records** từ các đợt 001–012, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **5.339 patch records** từ các đợt 001–013, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_012_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_013_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
