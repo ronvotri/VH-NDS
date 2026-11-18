@@ -8332,5 +8332,149 @@
     "vi": "Sunday Sidens",
     "status": "provisional_romanization_cp020",
     "note": "CP020: tên phiên âm/tên giữ English; khi kiểm tra bản NDS cần đối chiếu cách gọi chính thức."
+  },
+  {
+    "ja": "六氷透（むひょうとおる）［ムヒョ］",
+    "vi": "Toru Muhyo [Muhyo]",
+    "status": "verified_name",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "草野次郎（くさのじろう）［ロージー］",
+    "vi": "Jiro Kusano [Roji]",
+    "status": "verified_name",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "円宙継（まどかそらつぐ）［エンチュー］",
+    "vi": "Soratsugu Madoka [Enchu]",
+    "status": "verified_name",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "火向洋一（ひむかいよういち）［ヨイチ］",
+    "vi": "Yoichi Himukai [Yoichi]",
+    "status": "verified_name",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "我孫子優（あびこゆう）［ビコ］",
+    "vi": "Yu Abiko [Biko]",
+    "status": "verified_name",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "竹ノ内菜々（たけのうちなな）［ナナ］",
+    "vi": "Nana Takenouchi [Nana]",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "ペイジ・クラウス",
+    "vi": "Page Klaus",
+    "status": "verified_name",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "魔法律",
+    "vi": "Magic Law",
+    "status": "common_english_name",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "禁魔法律",
+    "vi": "Forbidden Magic Law",
+    "status": "working_english_qa",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "煉",
+    "vi": "Ren",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "霊撃手の刑",
+    "vi": "Reigekishu no Kei",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "冥王の晩餐の刑",
+    "vi": "Nether King's Banquet",
+    "status": "provisional_english_qa",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "煉根湯",
+    "vi": "Renkonto",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "大玉螺旋丸",
+    "vi": "Odama Rasengan",
+    "status": "common_english_name",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "鵺野鳴介（ぬえのめいすけ）［ぬ～べ～］",
+    "vi": "Meisuke Nueno [Nube]",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "雪女（ゆきめ）",
+    "vi": "Yukime",
+    "status": "verified_name",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "立野広",
+    "vi": "Hiroshi Tateno",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "稲葉郷子",
+    "vi": "Kyoko Inaba",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "藍朓",
+    "vi": "Aichou",
+    "status": "verified_name",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "橙次",
+    "vi": "Toji",
+    "status": "verified_name",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "忍空狼",
+    "vi": "Ninku-ro",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "忍影腹",
+    "vi": "Ninei-bara",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "心の家",
+    "vi": "Kokoro no Ie",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
+  },
+  {
+    "ja": "釈迦の証",
+    "vi": "Shaka no Akashi",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 021: khóa cách gọi theo manga và bảng thuật ngữ; những tên chưa xác thực được đánh dấu QA."
   }
 ]
