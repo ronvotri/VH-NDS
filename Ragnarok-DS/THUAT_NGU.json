@@ -378,370 +378,352 @@
     "note": "Tên mode, giữ nguyên."
   },
   {
-    "en": "White Peach",
-    "vi": "White Peach",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng, item, Job hoặc thuật ngữ chính Ragnarok DS; giữ nguyên cách viết từ bản USA."
-  },
-  {
-    "en": "Emperium",
-    "vi": "Emperium",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng, item, Job hoặc thuật ngữ chính Ragnarok DS; giữ nguyên cách viết từ bản USA."
-  },
-  {
-    "en": "Mjolnir Dead Pit",
-    "vi": "Mjolnir Dead Pit",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng, item, Job hoặc thuật ngữ chính Ragnarok DS; giữ nguyên cách viết từ bản USA."
-  },
-  {
-    "en": "Geffen Bridge",
-    "vi": "Geffen Bridge",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng, item, Job hoặc thuật ngữ chính Ragnarok DS; giữ nguyên cách viết từ bản USA."
-  },
-  {
-    "en": "Mt. Mjolnir",
-    "vi": "Mt. Mjolnir",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng, item, Job hoặc thuật ngữ chính Ragnarok DS; giữ nguyên cách viết từ bản USA."
-  },
-  {
-    "en": "Order of Knights",
-    "vi": "Order of Knights",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng, item, Job hoặc thuật ngữ chính Ragnarok DS; giữ nguyên cách viết từ bản USA."
-  },
-  {
-    "en": "Aghill",
-    "vi": "Aghill",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng, item, Job hoặc thuật ngữ chính Ragnarok DS; giữ nguyên cách viết từ bản USA."
-  },
-  {
-    "en": "Dark Knight",
-    "vi": "Dark Knight",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng, item, Job hoặc thuật ngữ chính Ragnarok DS; giữ nguyên cách viết từ bản USA."
-  },
-  {
-    "en": "Lughill",
-    "vi": "Lughill",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng, item, Job hoặc thuật ngữ chính Ragnarok DS; giữ nguyên cách viết từ bản USA."
-  },
-  {
     "en": "Aldo",
     "vi": "Aldo",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/địa danh/item/thuật ngữ chính; giữ nguyên bản USA."
+    "status": "preserve",
+    "note": "Tên riêng, địa danh, item hoặc thuật ngữ game; được giữ nguyên trong hội thoại đợt 005."
   },
   {
     "en": "Yolanda",
     "vi": "Yolanda",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/địa danh/item/thuật ngữ chính; giữ nguyên bản USA."
+    "status": "preserve",
+    "note": "Tên riêng, địa danh, item hoặc thuật ngữ game; được giữ nguyên trong hội thoại đợt 005."
   },
   {
     "en": "Popi",
     "vi": "Popi",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/địa danh/item/thuật ngữ chính; giữ nguyên bản USA."
+    "status": "preserve",
+    "note": "Tên riêng, địa danh, item hoặc thuật ngữ game; được giữ nguyên trong hội thoại đợt 005."
   },
   {
     "en": "Golden Eagle Guild",
     "vi": "Golden Eagle Guild",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/địa danh/item/thuật ngữ chính; giữ nguyên bản USA."
+    "status": "preserve",
+    "note": "Tên riêng, địa danh, item hoặc thuật ngữ game; được giữ nguyên trong hội thoại đợt 005."
   },
   {
     "en": "Frione",
     "vi": "Frione",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/địa danh/item/thuật ngữ chính; giữ nguyên bản USA."
+    "status": "preserve",
+    "note": "Tên riêng, địa danh, item hoặc thuật ngữ game; được giữ nguyên trong hội thoại đợt 005."
   },
   {
     "en": "Frione Tear",
     "vi": "Frione Tear",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/địa danh/item/thuật ngữ chính; giữ nguyên bản USA."
+    "status": "preserve",
+    "note": "Tên riêng, địa danh, item hoặc thuật ngữ game; được giữ nguyên trong hội thoại đợt 005."
+  },
+  {
+    "en": "Emperium",
+    "vi": "Emperium",
+    "status": "preserve",
+    "note": "Tên riêng, địa danh, item hoặc thuật ngữ game; được giữ nguyên trong hội thoại đợt 005."
   },
   {
     "en": "Ant Hell",
     "vi": "Ant Hell",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/địa danh/item/thuật ngữ chính; giữ nguyên bản USA."
+    "status": "preserve",
+    "note": "Tên riêng, địa danh, item hoặc thuật ngữ game; được giữ nguyên trong hội thoại đợt 005."
   },
   {
     "en": "Sograt Desert",
     "vi": "Sograt Desert",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/địa danh/item/thuật ngữ chính; giữ nguyên bản USA."
+    "status": "preserve",
+    "note": "Tên riêng, địa danh, item hoặc thuật ngữ game; được giữ nguyên trong hội thoại đợt 005."
   },
   {
     "en": "Prontera Culvert",
     "vi": "Prontera Culvert",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/địa danh/item/thuật ngữ chính; giữ nguyên bản USA."
+    "status": "preserve",
+    "note": "Tên riêng, địa danh, item hoặc thuật ngữ game; được giữ nguyên trong hội thoại đợt 005."
   },
   {
     "en": "Morocc",
     "vi": "Morocc",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/địa danh/item/thuật ngữ chính; giữ nguyên bản USA."
+    "status": "preserve",
+    "note": "Tên riêng, địa danh, item hoặc thuật ngữ game; được giữ nguyên trong hội thoại đợt 005."
+  },
+  {
+    "en": "Order of Knights",
+    "vi": "Order of Knights",
+    "status": "preserve",
+    "note": "Tên riêng, địa danh, item hoặc thuật ngữ game; được giữ nguyên trong hội thoại đợt 005."
   },
   {
     "en": "Freya",
     "vi": "Freya",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/địa danh/item/thuật ngữ chính; giữ nguyên bản USA."
+    "status": "preserve",
+    "note": "Tên riêng, địa danh, item hoặc thuật ngữ game; được giữ nguyên trong hội thoại đợt 005."
   },
   {
     "en": "Odin",
     "vi": "Odin",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/địa danh/item/thuật ngữ chính; giữ nguyên bản USA."
+    "status": "preserve",
+    "note": "Tên riêng, địa danh, item hoặc thuật ngữ game; được giữ nguyên trong hội thoại đợt 005."
+  },
+  {
+    "en": "2000 zenies",
+    "vi": "2000 zenies",
+    "status": "preserve",
+    "note": "Tên riêng, địa danh, item hoặc thuật ngữ game; được giữ nguyên trong hội thoại đợt 005."
   },
   {
     "en": "Rodia",
     "vi": "Rodia",
     "status": "confirmed-by-user-rule",
-    "note": "Giữ nguyên tên/thuật ngữ Ragnarok DS theo quy tắc người dùng, kiểm tra ở đợt 006."
+    "note": "Đợt 006: tên riêng, item/Job hoặc thuật ngữ Ragnarok DS được giữ nguyên tiếng Anh."
   },
   {
     "en": "Zane",
     "vi": "Zane",
     "status": "confirmed-by-user-rule",
-    "note": "Giữ nguyên tên/thuật ngữ Ragnarok DS theo quy tắc người dùng, kiểm tra ở đợt 006."
+    "note": "Đợt 006: tên riêng, item/Job hoặc thuật ngữ Ragnarok DS được giữ nguyên tiếng Anh."
   },
   {
     "en": "Edwin",
     "vi": "Edwin",
     "status": "confirmed-by-user-rule",
-    "note": "Giữ nguyên tên/thuật ngữ Ragnarok DS theo quy tắc người dùng, kiểm tra ở đợt 006."
+    "note": "Đợt 006: tên riêng, item/Job hoặc thuật ngữ Ragnarok DS được giữ nguyên tiếng Anh."
   },
   {
     "en": "Fiona",
     "vi": "Fiona",
     "status": "confirmed-by-user-rule",
-    "note": "Giữ nguyên tên/thuật ngữ Ragnarok DS theo quy tắc người dùng, kiểm tra ở đợt 006."
+    "note": "Đợt 006: tên riêng, item/Job hoặc thuật ngữ Ragnarok DS được giữ nguyên tiếng Anh."
   },
   {
     "en": "Arunafeltz",
     "vi": "Arunafeltz",
     "status": "confirmed-by-user-rule",
-    "note": "Giữ nguyên tên/thuật ngữ Ragnarok DS theo quy tắc người dùng, kiểm tra ở đợt 006."
+    "note": "Đợt 006: tên riêng, item/Job hoặc thuật ngữ Ragnarok DS được giữ nguyên tiếng Anh."
   },
   {
     "en": "Golden Eagle",
     "vi": "Golden Eagle",
     "status": "confirmed-by-user-rule",
-    "note": "Giữ nguyên tên/thuật ngữ Ragnarok DS theo quy tắc người dùng, kiểm tra ở đợt 006."
+    "note": "Đợt 006: tên riêng, item/Job hoặc thuật ngữ Ragnarok DS được giữ nguyên tiếng Anh."
   },
   {
     "en": "Kafra Inc.",
     "vi": "Kafra Inc.",
     "status": "confirmed-by-user-rule",
-    "note": "Giữ nguyên tên/thuật ngữ Ragnarok DS theo quy tắc người dùng, kiểm tra ở đợt 006."
+    "note": "Đợt 006: tên riêng, item/Job hoặc thuật ngữ Ragnarok DS được giữ nguyên tiếng Anh."
   },
   {
     "en": "Kafra Services",
     "vi": "Kafra Services",
     "status": "confirmed-by-user-rule",
-    "note": "Giữ nguyên tên/thuật ngữ Ragnarok DS theo quy tắc người dùng, kiểm tra ở đợt 006."
+    "note": "Đợt 006: tên riêng, item/Job hoặc thuật ngữ Ragnarok DS được giữ nguyên tiếng Anh."
   },
   {
     "en": "Letter to Aldo",
     "vi": "Letter to Aldo",
     "status": "confirmed-by-user-rule",
-    "note": "Giữ nguyên tên/thuật ngữ Ragnarok DS theo quy tắc người dùng, kiểm tra ở đợt 006."
+    "note": "Đợt 006: tên riêng, item/Job hoặc thuật ngữ Ragnarok DS được giữ nguyên tiếng Anh."
   },
   {
     "en": "Rusty Legendary Sword",
     "vi": "Rusty Legendary Sword",
     "status": "confirmed-by-user-rule",
-    "note": "Giữ nguyên tên/thuật ngữ Ragnarok DS theo quy tắc người dùng, kiểm tra ở đợt 006."
+    "note": "Đợt 006: tên riêng, item/Job hoặc thuật ngữ Ragnarok DS được giữ nguyên tiếng Anh."
+  },
+  {
+    "en": "Dark Knight",
+    "vi": "Dark Knight",
+    "status": "confirmed-by-user-rule",
+    "note": "Đợt 006: tên riêng, item/Job hoặc thuật ngữ Ragnarok DS được giữ nguyên tiếng Anh."
   },
   {
     "en": "Gales",
     "vi": "Gales",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/item/quái/địa danh/thuật ngữ chính Ragnarok DS; giữ nguyên theo bản USA (đợt 007)."
+    "status": "preserve",
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ chính: giữ nguyên bản USA (đợt 007)."
   },
   {
     "en": "Skal",
     "vi": "Skal",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/item/quái/địa danh/thuật ngữ chính Ragnarok DS; giữ nguyên theo bản USA (đợt 007)."
+    "status": "preserve",
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ chính: giữ nguyên bản USA (đợt 007)."
   },
   {
     "en": "High Orc Helm",
     "vi": "High Orc Helm",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/item/quái/địa danh/thuật ngữ chính Ragnarok DS; giữ nguyên theo bản USA (đợt 007)."
+    "status": "preserve",
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ chính: giữ nguyên bản USA (đợt 007)."
   },
   {
     "en": "High Orc",
     "vi": "High Orc",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/item/quái/địa danh/thuật ngữ chính Ragnarok DS; giữ nguyên theo bản USA (đợt 007)."
+    "status": "preserve",
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ chính: giữ nguyên bản USA (đợt 007)."
   },
   {
     "en": "Card Key",
     "vi": "Card Key",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/item/quái/địa danh/thuật ngữ chính Ragnarok DS; giữ nguyên theo bản USA (đợt 007)."
+    "status": "preserve",
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ chính: giữ nguyên bản USA (đợt 007)."
   },
   {
     "en": "File F",
     "vi": "File F",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/item/quái/địa danh/thuật ngữ chính Ragnarok DS; giữ nguyên theo bản USA (đợt 007)."
+    "status": "preserve",
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ chính: giữ nguyên bản USA (đợt 007)."
   },
   {
     "en": "Somatology Laboratory",
     "vi": "Somatology Laboratory",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/item/quái/địa danh/thuật ngữ chính Ragnarok DS; giữ nguyên theo bản USA (đợt 007)."
+    "status": "preserve",
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ chính: giữ nguyên bản USA (đợt 007)."
   },
   {
     "en": "Lighthalzen",
     "vi": "Lighthalzen",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/item/quái/địa danh/thuật ngữ chính Ragnarok DS; giữ nguyên theo bản USA (đợt 007)."
+    "status": "preserve",
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ chính: giữ nguyên bản USA (đợt 007)."
   },
   {
     "en": "El Mes Gorge - North",
     "vi": "El Mes Gorge - North",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/item/quái/địa danh/thuật ngữ chính Ragnarok DS; giữ nguyên theo bản USA (đợt 007)."
+    "status": "preserve",
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ chính: giữ nguyên bản USA (đợt 007)."
   },
   {
     "en": "Schwaltzvalt Republic",
     "vi": "Schwaltzvalt Republic",
-    "status": "confirmed-by-user-rule",
-    "note": "Tên riêng/item/quái/địa danh/thuật ngữ chính Ragnarok DS; giữ nguyên theo bản USA (đợt 007)."
+    "status": "preserve",
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ chính: giữ nguyên bản USA (đợt 007)."
   },
   {
     "en": "Arma",
     "vi": "Arma",
-    "status": "confirmed-by-user-rule",
-    "note": "Đợt 008: tên riêng/nhóm phái/item/địa danh/thuật ngữ chính giữ nguyên theo bản USA."
+    "status": "preserve",
+    "note": "Tên nhân vật, tổ chức, thần, item hoặc địa danh, chốt tại đợt 008."
   },
   {
     "en": "Destiny of the Great Gods",
     "vi": "Destiny of the Great Gods",
-    "status": "confirmed-by-user-rule",
-    "note": "Đợt 008: tên riêng/nhóm phái/item/địa danh/thuật ngữ chính giữ nguyên theo bản USA."
+    "status": "preserve",
+    "note": "Tên nhân vật, tổ chức, thần, item hoặc địa danh, chốt tại đợt 008."
   },
   {
     "en": "Destiny of Great Gods",
     "vi": "Destiny of Great Gods",
-    "status": "confirmed-by-user-rule",
-    "note": "Đợt 008: tên riêng/nhóm phái/item/địa danh/thuật ngữ chính giữ nguyên theo bản USA."
+    "status": "preserve",
+    "note": "Tên nhân vật, tổ chức, thần, item hoặc địa danh, chốt tại đợt 008."
   },
   {
     "en": "Glast Heim",
     "vi": "Glast Heim",
-    "status": "confirmed-by-user-rule",
-    "note": "Đợt 008: tên riêng/nhóm phái/item/địa danh/thuật ngữ chính giữ nguyên theo bản USA."
+    "status": "preserve",
+    "note": "Tên nhân vật, tổ chức, thần, item hoặc địa danh, chốt tại đợt 008."
+  },
+  {
+    "en": "Geffen Bridge",
+    "vi": "Geffen Bridge",
+    "status": "preserve",
+    "note": "Tên nhân vật, tổ chức, thần, item hoặc địa danh, chốt tại đợt 008."
   },
   {
     "en": "Ymir's Heart Piece",
     "vi": "Ymir's Heart Piece",
-    "status": "confirmed-by-user-rule",
-    "note": "Đợt 008: tên riêng/nhóm phái/item/địa danh/thuật ngữ chính giữ nguyên theo bản USA."
+    "status": "preserve",
+    "note": "Tên nhân vật, tổ chức, thần, item hoặc địa danh, chốt tại đợt 008."
   },
   {
     "en": "Althena",
     "vi": "Althena",
-    "status": "confirmed-by-user-rule",
-    "note": "Đợt 008: tên riêng/nhóm phái/item/địa danh/thuật ngữ chính giữ nguyên theo bản USA."
+    "status": "preserve",
+    "note": "Tên nhân vật, tổ chức, thần, item hoặc địa danh, chốt tại đợt 008."
   },
   {
     "en": "Broken Sword",
     "vi": "Broken Sword",
-    "status": "confirmed-by-user-rule",
-    "note": "Đợt 008: tên riêng/nhóm phái/item/địa danh/thuật ngữ chính giữ nguyên theo bản USA."
+    "status": "preserve",
+    "note": "Tên nhân vật, tổ chức, thần, item hoặc địa danh, chốt tại đợt 008."
   },
   {
     "en": "Arunafeltz Faith",
     "vi": "Arunafeltz Faith",
-    "status": "confirmed-by-user-rule",
-    "note": "Đợt 008: tên riêng/nhóm phái/item/địa danh/thuật ngữ chính giữ nguyên theo bản USA."
+    "status": "preserve",
+    "note": "Tên nhân vật, tổ chức, thần, item hoặc địa danh, chốt tại đợt 008."
   },
   {
     "en": "Mirage Tower",
     "vi": "Mirage Tower",
     "status": "confirmed-by-user-rule",
-    "note": "Tên riêng, item, địa danh hoặc thuật ngữ Ragnarok chính, giữ tiếng Anh."
+    "note": "Giữ tên riêng hoặc thuật ngữ chính từ bản USA theo quy tắc người dùng."
   },
   {
     "en": "F File",
     "vi": "F File",
     "status": "confirmed-by-user-rule",
-    "note": "Tên riêng, item, địa danh hoặc thuật ngữ Ragnarok chính, giữ tiếng Anh."
+    "note": "Giữ tên riêng hoặc thuật ngữ chính từ bản USA theo quy tắc người dùng."
   },
   {
     "en": "Limit Break",
     "vi": "Limit Break",
     "status": "confirmed-by-user-rule",
-    "note": "Tên riêng, item, địa danh hoặc thuật ngữ Ragnarok chính, giữ tiếng Anh."
+    "note": "Giữ tên riêng hoặc thuật ngữ chính từ bản USA theo quy tắc người dùng."
   },
   {
     "en": "Priest",
     "vi": "Priest",
     "status": "confirmed-by-user-rule",
-    "note": "Tên riêng, item, địa danh hoặc thuật ngữ Ragnarok chính, giữ tiếng Anh."
+    "note": "Giữ tên riêng hoặc thuật ngữ chính từ bản USA theo quy tắc người dùng."
   },
   {
     "en": "Job Level",
     "vi": "Job Level",
     "status": "confirmed-by-user-rule",
-    "note": "Tên riêng, item, địa danh hoặc thuật ngữ Ragnarok chính, giữ tiếng Anh."
+    "note": "Giữ tên riêng hoặc thuật ngữ chính từ bản USA theo quy tắc người dùng."
   },
   {
     "en": "Base Level",
     "vi": "Base Level",
     "status": "confirmed-by-user-rule",
-    "note": "Tên riêng, item, địa danh hoặc thuật ngữ Ragnarok chính, giữ tiếng Anh."
+    "note": "Giữ tên riêng hoặc thuật ngữ chính từ bản USA theo quy tắc người dùng."
   },
   {
     "en": "Gardi",
     "vi": "Gardi",
     "status": "confirmed-by-user-rule",
-    "note": "Tên riêng, item, địa danh hoặc thuật ngữ Ragnarok chính, giữ tiếng Anh."
+    "note": "Giữ tên riêng hoặc thuật ngữ chính từ bản USA theo quy tắc người dùng."
   },
   {
     "en": "Miko",
     "vi": "Miko",
     "status": "confirmed-by-user-rule",
-    "note": "Tên riêng, item, địa danh hoặc thuật ngữ Ragnarok chính, giữ tiếng Anh."
+    "note": "Giữ tên riêng hoặc thuật ngữ chính từ bản USA theo quy tắc người dùng."
   },
   {
     "en": "Skol",
     "vi": "Skol",
     "status": "confirmed-by-user-rule",
-    "note": "Nguồn USA dùng cả Skol và Skal. Giữ cách viết theo từng vị trí, cần QA trong game."
+    "note": "Đợt 009; tên nhân vật/thú cưng, địa danh, item hoặc thuật ngữ Job/skill; giữ bản USA. Skol và Skal là hai cách viết khác nhau trong nguồn, cần đối chiếu khi patch ROM."
   },
   {
     "en": "Eternal Sands",
     "vi": "Eternal Sands",
     "status": "confirmed-by-user-rule",
-    "note": "Tên riêng, item, địa danh hoặc thuật ngữ Ragnarok chính, giữ tiếng Anh."
+    "note": "Giữ tên riêng hoặc thuật ngữ chính từ bản USA theo quy tắc người dùng."
+  },
+  {
+    "en": "Mjolnir Dead Pit",
+    "vi": "Mjolnir Dead Pit",
+    "status": "confirmed-by-user-rule",
+    "note": "Giữ tên riêng hoặc thuật ngữ chính từ bản USA theo quy tắc người dùng."
   },
   {
     "en": "Bloody Sword",
     "vi": "Bloody Sword",
     "status": "confirmed-in-checkpoint-010",
-    "note": "Item mở Dark Knight, giữ tên tiếng Anh."
+    "note": "Tên item quan trọng điều kiện mở Dark Knight."
   },
   {
     "en": "Guild Menu",
     "vi": "Guild Menu",
     "status": "confirmed-in-checkpoint-010",
-    "note": "Nhãn menu giao diện Guild."
+    "note": "Nhãn menu chính thức ở khu Guild."
   },
   {
     "en": "Hunter",
@@ -750,8 +732,20 @@
     "note": "Tên Job."
   },
   {
-    "en": "Taekwon Kid",
-    "vi": "Taekwon Kid",
+    "en": "Assassin",
+    "vi": "Assassin",
+    "status": "confirmed-in-checkpoint-010",
+    "note": "Tên Job."
+  },
+  {
+    "en": "Blacksmith",
+    "vi": "Blacksmith",
+    "status": "confirmed-in-checkpoint-010",
+    "note": "Tên Job."
+  },
+  {
+    "en": "Taekwon Master",
+    "vi": "Taekwon Master",
     "status": "confirmed-in-checkpoint-010",
     "note": "Tên Job."
   },
@@ -759,1086 +753,1230 @@
     "en": "Tavern Master",
     "vi": "Chủ quán",
     "status": "confirmed-in-checkpoint-010",
-    "note": "Vai trò NPC, có thể Việt hóa nhãn hiển thị."
+    "note": "Vai trò NPC chung, không phải tên riêng."
   },
   {
     "en": "Suspicious Man",
     "vi": "Gã khả nghi",
     "status": "confirmed-in-checkpoint-010",
-    "note": "Vai trò không tên, không tự gán danh tính."
-  },
-  {
-    "en": "High Orcs",
-    "vi": "High Orcs",
-    "status": "confirmed-in-checkpoint-010",
-    "note": "Tên quái theo bản USA."
+    "note": "Nhãn NPC vô danh, không suy đoán danh tính."
   },
   {
     "en": "Yggdrasil Branch",
     "vi": "Yggdrasil Branch",
-    "status": "confirmed-in-checkpoint-011",
-    "note": "Tên item mở Shaman ở hội thoại 009."
+    "status": "preserve",
+    "note": "Item mở Shaman trong tệp hội thoại 009."
   },
   {
     "en": "Kafra Travel Services",
     "vi": "Kafra Travel Services",
-    "status": "confirmed-in-checkpoint-011",
-    "note": "Tên dịch vụ chính; giữ nguyên tên tổ chức."
+    "status": "preserve",
+    "note": "Tên dịch vụ Kafra, giữ nguyên."
   },
   {
     "en": "Jellopies",
     "vi": "Jellopies",
-    "status": "confirmed-in-checkpoint-011",
-    "note": "Tên item nhiệm vụ Milika."
+    "status": "preserve",
+    "note": "Tên item Milika muốn thu thập."
   },
   {
     "en": "Somatoloty Laboratory",
     "vi": "Somatoloty Laboratory",
-    "status": "confirmed-in-checkpoint-011",
-    "note": "Biến thể đánh vần trong menu Kafra bản USA (khác Somatology); không tự sửa tên."
+    "status": "source-variant",
+    "note": "Menu Kafra dùng chính tả Somatoloty; giữ nguyên bản USA."
   },
   {
     "en": "Milika",
     "vi": "Milika",
-    "status": "confirmed-in-checkpoint-011",
-    "note": "Tên riêng NPC tại Prontera."
+    "status": "preserve",
+    "note": "Tên NPC tại lò rèn Prontera."
   },
   {
     "en": "Roni",
     "vi": "Roni",
     "status": "verified-in-checkpoint-012",
-    "note": "Tên NPC làm vũ khí"
+    "note": "NPC làm vũ khí; cần 5 Iron Ore từ Thief Bugs."
   },
   {
     "en": "Shiva",
     "vi": "Shiva",
     "status": "verified-in-checkpoint-012",
-    "note": "Cậu bé xin thuốc cho mẹ"
+    "note": "Cậu bé muốn thuốc cho mẹ; cần Mastela Fruit."
   },
   {
     "en": "Sherry",
     "vi": "Sherry",
     "status": "verified-in-checkpoint-012",
-    "note": "Magician nghiên cứu phép"
+    "note": "Magician nghiên cứu phép; tự tin thái quá."
   },
   {
     "en": "Jack",
     "vi": "Jack",
     "status": "verified-in-checkpoint-012",
-    "note": "Chủ tiệm vũ khí Geffen"
+    "note": "Chủ tiệm vũ khí Geffen; nhờ người chơi quảng cáo."
   },
   {
     "en": "Liam",
     "vi": "Liam",
     "status": "verified-in-checkpoint-012",
-    "note": "NPC tiết lộ đường bí mật"
+    "note": "NPC giới thiệu thông tin game và Secret Pathway."
   },
   {
     "en": "Joyce",
     "vi": "Joyce",
     "status": "verified-in-checkpoint-012",
-    "note": "Merchant ở Morocc"
+    "note": "Merchant ở Morocc; cần 10 Monster Hides từ Desert Wolves."
   },
   {
     "en": "Daksten",
     "vi": "Daksten",
     "status": "verified-in-checkpoint-012",
-    "note": "Tên NPC"
-  },
-  {
-    "en": "Iron Ore",
-    "vi": "Iron Ore",
-    "status": "verified-in-checkpoint-012",
-    "note": "Tên item"
+    "note": "Tên NPC; lời thoại nhận 10 Zargons."
   },
   {
     "en": "Red Herbs",
     "vi": "Red Herbs",
     "status": "verified-in-checkpoint-012",
-    "note": "Tên item"
+    "note": "Tên item, giữ nguyên."
   },
   {
     "en": "Panacea",
     "vi": "Panacea",
     "status": "verified-in-checkpoint-012",
-    "note": "Tên item"
+    "note": "Tên item thưởng, giữ nguyên."
   },
   {
-    "en": "Empty Bottles",
-    "vi": "Empty Bottles",
+    "en": "Iron Ore",
+    "vi": "Iron Ore",
     "status": "verified-in-checkpoint-012",
-    "note": "Tên item"
-  },
-  {
-    "en": "Mastela Fruit",
-    "vi": "Mastela Fruit",
-    "status": "verified-in-checkpoint-012",
-    "note": "Tên item"
-  },
-  {
-    "en": "Monster Hides",
-    "vi": "Monster Hides",
-    "status": "verified-in-checkpoint-012",
-    "note": "Tên item"
-  },
-  {
-    "en": "Desert Wolves",
-    "vi": "Desert Wolves",
-    "status": "verified-in-checkpoint-012",
-    "note": "Tên quái"
+    "note": "Tên nguyên liệu, giữ nguyên."
   },
   {
     "en": "Thief Bugs",
     "vi": "Thief Bugs",
     "status": "verified-in-checkpoint-012",
-    "note": "Tên quái"
+    "note": "Tên quái nguồn USA, giữ nguyên."
+  },
+  {
+    "en": "Empty Bottles",
+    "vi": "Empty Bottles",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên item giao hàng, giữ nguyên."
+  },
+  {
+    "en": "Mastela Fruit",
+    "vi": "Mastela Fruit",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên item dùng chữa mẹ Shiva, giữ nguyên."
+  },
+  {
+    "en": "Blue Grass",
+    "vi": "Blue Grass",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên đối tượng thu hoạch, giữ nguyên."
+  },
+  {
+    "en": "Porings",
+    "vi": "Porings",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên quái, giữ nguyên."
+  },
+  {
+    "en": "Spores",
+    "vi": "Spores",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên quái, giữ nguyên."
+  },
+  {
+    "en": "Monster Hides",
+    "vi": "Monster Hides",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên item Joyce đặt, giữ nguyên."
+  },
+  {
+    "en": "Desert Wolves",
+    "vi": "Desert Wolves",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên quái, giữ nguyên."
+  },
+  {
+    "en": "Zargons",
+    "vi": "Zargons",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên item, giữ nguyên."
   },
   {
     "en": "Secret Pathway",
     "vi": "Secret Pathway",
     "status": "verified-in-checkpoint-012",
-    "note": "Tên đường bí mật"
+    "note": "Tên sự kiện/lối bí mật trong nguồn, giữ nguyên."
+  },
+  {
+    "en": "East Prontera Woods",
+    "vi": "East Prontera Woods",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên địa danh, giữ nguyên."
   },
   {
     "en": "Labyrinth Forest",
     "vi": "Labyrinth Forest",
     "status": "verified-in-checkpoint-012",
-    "note": "Tên địa danh"
+    "note": "Tên địa danh, giữ nguyên."
   },
   {
     "en": "Mysterious Old Woman",
     "vi": "Bà lão bí ẩn",
     "status": "verified-in-checkpoint-012",
-    "note": "Nhãn vai trò chung"
+    "note": "Nhãn vai trò của người nói, dịch khi hiển thị, không tự gán tên."
   },
   {
     "en": "Spirit of the Forest",
     "vi": "Linh hồn rừng",
     "status": "verified-in-checkpoint-012",
-    "note": "Nhãn vai trò chung"
+    "note": "Danh xưng vai trò trong cảnh thánh địa rừng."
   },
   {
-    "en": "Swordswoman",
-    "vi": "Nữ kiếm sĩ",
+    "en": "Carpenter",
+    "vi": "Thợ mộc",
     "status": "verified-in-checkpoint-012",
-    "note": "Nhãn NPC, không phải Job Swordsman"
+    "note": "Nhãn nghề nghiệp NPC trong cảnh qua cổng."
   },
   {
     "en": "Barfly",
     "vi": "Khách nhậu",
     "status": "verified-in-checkpoint-012",
-    "note": "Nhãn NPC"
+    "note": "Nhãn vai trò NPC tại quán rượu."
+  },
+  {
+    "en": "Swordswoman",
+    "vi": "Nữ kiếm sĩ",
+    "status": "verified-in-checkpoint-012",
+    "note": "Danh xưng NPC, phân biệt với Job Swordsman được giữ tiếng Anh."
   },
   {
     "en": "Sedi",
     "vi": "Sedi",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "NPC làm việc tại lò rèn; giữ tên"
   },
   {
     "en": "Lily",
     "vi": "Lily",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Thầy bói nhận thư và thuốc"
   },
   {
     "en": "Hodril",
     "vi": "Hodril",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Sư phụ của Lily"
   },
   {
     "en": "Dogerel",
     "vi": "Dogerel",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Nhà nghiên cứu món thần dược, vợ đã mất"
   },
   {
     "en": "Sa'ab",
     "vi": "Sa'ab",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Nhà nghiên cứu thiếu nguyên liệu"
   },
   {
     "en": "Karen",
     "vi": "Karen",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Cô bé tìm hoa tặng mẹ"
   },
   {
     "en": "Rich",
     "vi": "Rich",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Chủ tiệm vật phẩm ở Juno"
   },
   {
     "en": "Holland",
     "vi": "Holland",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "NPC chuỗi giao hàng Lighthalzen"
   },
   {
     "en": "George",
     "vi": "George",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "NPC ở Prontera"
   },
   {
     "en": "Wade",
     "vi": "Wade",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Người ở Lighthalzen lấy trộm đồ"
   },
   {
     "en": "Stefan",
     "vi": "Stefan",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Chủ tiệm thanh kiếm bị nguyền"
   },
   {
     "en": "Zargon",
     "vi": "Zargon",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
-  },
-  {
-    "en": "Zargons",
-    "vi": "Zargons",
-    "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên khoáng vật nhiệm vụ, giữ nguyên"
   },
   {
     "en": "Sandman",
     "vi": "Sandman",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên quái, giữ nguyên"
   },
   {
     "en": "Pocket Watch",
     "vi": "Pocket Watch",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên item của Sedi"
   },
   {
     "en": "Little Evil Horn",
     "vi": "Little Evil Horn",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên item giải cứu Lily"
   },
   {
     "en": "Deviruchi",
     "vi": "Deviruchi",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên quái"
   },
   {
     "en": "Book of the Apocalypse",
     "vi": "Book of the Apocalypse",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên item thưởng"
   },
   {
     "en": "Skull",
     "vi": "Skull",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên item nghiên cứu Dogerel"
   },
   {
     "en": "Skulls",
     "vi": "Skulls",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Dạng số nhiều của item"
   },
   {
     "en": "Skeleton Workers",
     "vi": "Skeleton Workers",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên quái"
   },
   {
     "en": "Wolf Claws",
     "vi": "Wolf Claws",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên item"
   },
   {
     "en": "Bear Footskins",
     "vi": "Bear Footskins",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên item"
   },
   {
     "en": "Ogre Teeth",
     "vi": "Ogre Teeth",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên item"
   },
   {
     "en": "Bigfoot",
     "vi": "Bigfoot",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên quái"
   },
   {
     "en": "Orc Warriors",
     "vi": "Orc Warriors",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên quái"
   },
   {
     "en": "Laimis Flower",
     "vi": "Laimis Flower",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên item hoa của Karen"
   },
   {
     "en": "Wig 6",
     "vi": "Wig 6",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên item thưởng"
   },
   {
     "en": "Forgotten Article",
     "vi": "Forgotten Article",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên item giao hàng"
   },
   {
     "en": "Old Sword",
     "vi": "Old Sword",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên item kiếm cũ"
   },
   {
     "en": "Glittering Ore",
     "vi": "Glittering Ore",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên item dùng trừ tà"
   },
   {
     "en": "Plant Stalks",
     "vi": "Plant Stalks",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên item"
   },
   {
     "en": "Wood Chips",
     "vi": "Wood Chips",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên item"
   },
   {
     "en": "Poison Spores",
     "vi": "Poison Spores",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên item"
   },
   {
     "en": "Mandragoras",
     "vi": "Mandragoras",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên quái"
   },
   {
     "en": "Blue Grasses",
     "vi": "Blue Grasses",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên quái"
   },
   {
     "en": "Willows",
     "vi": "Willows",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
-  },
-  {
-    "en": "Spores",
-    "vi": "Spores",
-    "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên quái"
   },
   {
     "en": "Wing Staff",
     "vi": "Wing Staff",
     "status": "reviewed-dot013",
-    "note": "Tên riêng, item, quái, Job hoặc thuật ngữ; giữ tiếng Anh theo bản USA."
+    "note": "Tên item thưởng Job Magician"
   },
   {
     "en": "Sister",
     "vi": "Nữ tu",
     "status": "reviewed-dot013",
-    "note": "Nhãn vai trò NPC, không phải tên riêng"
+    "note": "Nhãn vai trò NPC; không phải tên riêng"
   },
   {
     "en": "Judge",
     "vi": "Giám khảo",
     "status": "reviewed-dot013",
-    "note": "Nhãn vai trò NPC, không phải tên riêng"
+    "note": "Nhãn vai trò thử thách Magician; không phải tên riêng"
   },
   {
     "en": "Setsuna",
     "vi": "Setsuna",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Jiro",
     "vi": "Jiro",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Marco",
     "vi": "Marco",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Jim",
     "vi": "Jim",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Gordon",
     "vi": "Gordon",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Lime",
     "vi": "Lime",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Shina",
     "vi": "Shina",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Allen",
     "vi": "Allen",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Brent",
     "vi": "Brent",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Sarah",
     "vi": "Sarah",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Marlon",
     "vi": "Marlon",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Joshua",
     "vi": "Joshua",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Black Carpet",
     "vi": "Black Carpet",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Assassin's Dagger",
     "vi": "Assassin's Dagger",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Rudra's Bow",
     "vi": "Rudra's Bow",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Owl Baron",
     "vi": "Owl Baron",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Grand Cross",
     "vi": "Grand Cross",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Little Evil Wing",
     "vi": "Little Evil Wing",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Little Evil Wings",
     "vi": "Little Evil Wings",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Diamond 1ct.",
     "vi": "Diamond 1ct.",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Topaz",
     "vi": "Topaz",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Four-Leaf Clover",
     "vi": "Four-Leaf Clover",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Four-Leaf Clovers",
     "vi": "Four-Leaf Clovers",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Deviruchis",
     "vi": "Deviruchis",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Removers",
     "vi": "Removers",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Alices",
     "vi": "Alices",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "White Grasses",
     "vi": "White Grasses",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Grizzlies",
     "vi": "Grizzlies",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Grizzly",
     "vi": "Grizzly",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Mt. Mjolnir - East",
     "vi": "Mt. Mjolnir - East",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Megingjard",
     "vi": "Megingjard",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Aquamarine",
     "vi": "Aquamarine",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Aquamarines",
     "vi": "Aquamarines",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Opal",
     "vi": "Opal",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Opals",
     "vi": "Opals",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Sardonyx",
     "vi": "Sardonyx",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Sardonyxes",
     "vi": "Sardonyxes",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Vampire Bats",
     "vi": "Vampire Bats",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Whispers",
     "vi": "Whispers",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Sound Crystal",
     "vi": "Sound Crystal",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Music Box of Memories",
     "vi": "Music Box of Memories",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Éclair",
     "vi": "Éclair",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
-  },
-  {
-    "en": "East Prontera Woods",
-    "vi": "East Prontera Woods",
-    "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "West Prontera Woods",
     "vi": "West Prontera Woods",
     "status": "reviewed-dot014",
-    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
-  },
-  {
-    "en": "Rouche",
-    "vi": "Rouche",
-    "status": "reviewed-dot015",
-    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+    "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ gameplay; giữ nguyên từ bản Ragnarok DS USA."
   },
   {
     "en": "Sonya",
     "vi": "Sonya",
     "status": "reviewed-dot015",
-    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+    "note": "Tên riêng, item, Card, quái, địa danh hoặc lối nói độc đáo từ nguồn USA; giữ nguyên cách viết."
+  },
+  {
+    "en": "Rouche",
+    "vi": "Rouche",
+    "status": "reviewed-dot015",
+    "note": "Tên riêng, item, Card, quái, địa danh hoặc lối nói độc đáo từ nguồn USA; giữ nguyên cách viết."
   },
   {
     "en": "Sonya's Father",
     "vi": "Sonya's Father",
     "status": "reviewed-dot015",
-    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+    "note": "Tên riêng, item, Card, quái, địa danh hoặc lối nói độc đáo từ nguồn USA; giữ nguyên cách viết."
   },
   {
     "en": "Sopborough",
     "vi": "Sopborough",
     "status": "reviewed-dot015",
-    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+    "note": "Tên riêng, item, Card, quái, địa danh hoặc lối nói độc đáo từ nguồn USA; giữ nguyên cách viết."
   },
   {
     "en": "Rolek",
     "vi": "Rolek",
     "status": "reviewed-dot015",
-    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+    "note": "Tên riêng, item, Card, quái, địa danh hoặc lối nói độc đáo từ nguồn USA; giữ nguyên cách viết."
   },
   {
     "en": "Somgrad",
     "vi": "Somgrad",
     "status": "reviewed-dot015",
-    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+    "note": "Tên riêng, item, Card, quái, địa danh hoặc lối nói độc đáo từ nguồn USA; giữ nguyên cách viết."
   },
   {
     "en": "Tarou Card",
     "vi": "Tarou Card",
     "status": "reviewed-dot015",
-    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+    "note": "Tên riêng, item, Card, quái, địa danh hoặc lối nói độc đáo từ nguồn USA; giữ nguyên cách viết."
   },
   {
     "en": "Tarous",
     "vi": "Tarous",
     "status": "reviewed-dot015",
-    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+    "note": "Tên riêng, item, Card, quái, địa danh hoặc lối nói độc đáo từ nguồn USA; giữ nguyên cách viết."
   },
   {
     "en": "Hornet Card",
     "vi": "Hornet Card",
     "status": "reviewed-dot015",
-    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+    "note": "Tên riêng, item, Card, quái, địa danh hoặc lối nói độc đáo từ nguồn USA; giữ nguyên cách viết."
   },
   {
     "en": "Gold Thief Bug Card",
     "vi": "Gold Thief Bug Card",
     "status": "reviewed-dot015",
-    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+    "note": "Tên riêng, item, Card, quái, địa danh hoặc lối nói độc đáo từ nguồn USA; giữ nguyên cách viết."
   },
   {
     "en": "Wolf Card",
     "vi": "Wolf Card",
     "status": "reviewed-dot015",
-    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+    "note": "Tên riêng, item, Card, quái, địa danh hoặc lối nói độc đáo từ nguồn USA; giữ nguyên cách viết."
   },
   {
     "en": "Cloth Hat",
     "vi": "Cloth Hat",
     "status": "reviewed-dot015",
-    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+    "note": "Tên riêng, item, Card, quái, địa danh hoặc lối nói độc đáo từ nguồn USA; giữ nguyên cách viết."
   },
   {
     "en": "Wig 4",
     "vi": "Wig 4",
     "status": "reviewed-dot015",
-    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+    "note": "Tên riêng, item, Card, quái, địa danh hoặc lối nói độc đáo từ nguồn USA; giữ nguyên cách viết."
   },
   {
     "en": "Sapphire",
     "vi": "Sapphire",
     "status": "reviewed-dot015",
-    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+    "note": "Tên riêng, item, Card, quái, địa danh hoặc lối nói độc đáo từ nguồn USA; giữ nguyên cách viết."
   },
   {
     "en": "Mjolnir Dead Pit - 2F",
     "vi": "Mjolnir Dead Pit - 2F",
     "status": "reviewed-dot015",
-    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+    "note": "Tên riêng, item, Card, quái, địa danh hoặc lối nói độc đáo từ nguồn USA; giữ nguyên cách viết."
   },
   {
     "en": "El Mes Gorge",
     "vi": "El Mes Gorge",
     "status": "reviewed-dot015",
-    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+    "note": "Tên riêng, item, Card, quái, địa danh hoặc lối nói độc đáo từ nguồn USA; giữ nguyên cách viết."
+  },
+  {
+    "en": "Mt. Mjolnir",
+    "vi": "Mt. Mjolnir",
+    "status": "reviewed-dot015",
+    "note": "Tên riêng, item, Card, quái, địa danh hoặc lối nói độc đáo từ nguồn USA; giữ nguyên cách viết."
   },
   {
     "en": "Nerdvana",
     "vi": "Nerdvana",
     "status": "reviewed-dot015",
-    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+    "note": "Tên riêng, item, Card, quái, địa danh hoặc lối nói độc đáo từ nguồn USA; giữ nguyên cách viết."
   },
   {
-    "en": "Old Lady",
-    "vi": "Bà lão",
+    "en": "Old Man",
+    "vi": "Ông lão",
     "status": "reviewed-dot015",
-    "note": "Nhãn vai trò NPC, không phải tên riêng; có thể Việt hóa."
-  },
-  {
-    "en": "Young Man",
-    "vi": "Chàng trai trẻ",
-    "status": "reviewed-dot015",
-    "note": "Nhãn vai trò NPC, không phải tên riêng; có thể Việt hóa."
+    "note": "Nhãn vai trò NPC có thể Việt hóa; không coi là tên riêng."
   },
   {
     "en": "Informant",
     "vi": "Người đưa tin",
     "status": "reviewed-dot015",
-    "note": "Nhãn vai trò NPC, không phải tên riêng; có thể Việt hóa."
-  },
-  {
-    "en": "Inn Guy",
-    "vi": "Gã ở nhà trọ",
-    "status": "reviewed-dot015",
-    "note": "Nhãn vai trò NPC, không phải tên riêng; có thể Việt hóa."
+    "note": "Nhãn vai trò NPC có thể Việt hóa; không coi là tên riêng."
   },
   {
     "en": "Weapon Shop Guy",
     "vi": "Gã bán vũ khí",
     "status": "reviewed-dot015",
-    "note": "Nhãn vai trò NPC, không phải tên riêng; có thể Việt hóa."
+    "note": "Nhãn vai trò NPC có thể Việt hóa; không coi là tên riêng."
+  },
+  {
+    "en": "Inn Guy",
+    "vi": "Gã ở nhà trọ",
+    "status": "reviewed-dot015",
+    "note": "Nhãn vai trò NPC có thể Việt hóa; không coi là tên riêng."
   },
   {
     "en": "Miner",
     "vi": "Thợ mỏ",
     "status": "reviewed-dot015",
-    "note": "Nhãn vai trò NPC, không phải tên riêng; có thể Việt hóa."
+    "note": "Nhãn vai trò NPC có thể Việt hóa; không coi là tên riêng."
   },
   {
-    "en": "Julietta",
-    "vi": "Julietta",
-    "status": "reviewed-dot016",
-    "note": "Archer từng rời Guild và xin gia nhập Guild người chơi."
+    "en": "Old Lady",
+    "vi": "Bà lão",
+    "status": "reviewed-dot015",
+    "note": "Nhãn vai trò NPC có thể Việt hóa; không coi là tên riêng."
   },
   {
-    "en": "Cliff",
-    "vi": "Cliff",
-    "status": "reviewed-dot016",
-    "note": "NPC Swordsman Guild."
+    "en": "Young Man",
+    "vi": "Chàng trai trẻ",
+    "status": "reviewed-dot015",
+    "note": "Nhãn vai trò NPC có thể Việt hóa; không coi là tên riêng."
   },
   {
-    "en": "Wandering Swordsman",
-    "vi": "Swordsman lang thang",
-    "status": "reviewed-dot016",
-    "note": "Vai trò NPC, giữ nguyên tên Job Swordsman."
+    "en": "Girl",
+    "vi": "Cô bé",
+    "status": "reviewed-dot015",
+    "note": "Nhãn vai trò NPC có thể Việt hóa; không coi là tên riêng."
   },
   {
-    "en": "Malone",
-    "vi": "Malone",
-    "status": "reviewed-dot016",
-    "note": "NPC Magician Guild."
-  },
-  {
-    "en": "Banished Magician",
-    "vi": "Magician bị trục xuất",
-    "status": "reviewed-dot016",
-    "note": "Vai trò NPC, giữ nguyên tên Job Magician."
-  },
-  {
-    "en": "Rick",
-    "vi": "Rick",
-    "status": "reviewed-dot016",
-    "note": "NPC Thieves Guild."
-  },
-  {
-    "en": "Zeeter",
-    "vi": "Zeeter",
-    "status": "reviewed-dot016",
-    "note": "Hunter với những quy tắc cá nhân."
-  },
-  {
-    "en": "Martha",
-    "vi": "Martha",
-    "status": "reviewed-dot016",
-    "note": "Magician đóng giả ma."
-  },
-  {
-    "en": "Ghost",
-    "vi": "Hồn ma",
-    "status": "reviewed-dot016",
-    "note": "Nhãn vai trò chung."
-  },
-  {
-    "en": "Wolf",
-    "vi": "Wolf",
-    "status": "reviewed-dot016",
-    "note": "Tên quái."
-  },
-  {
-    "en": "Thief's Glass Ball",
-    "vi": "Thief's Glass Ball",
-    "status": "reviewed-dot016",
-    "note": "Tên vật phẩm thưởng."
-  },
-  {
-    "en": "Job Exp.",
-    "vi": "Job Exp.",
-    "status": "reviewed-dot016",
-    "note": "Bản USA trong mã màu."
-  },
-  {
-    "en": "Job EXP",
-    "vi": "Job EXP",
-    "status": "reviewed-dot016",
-    "note": "Biến thể bản USA trong mã màu."
-  },
-  {
-    "en": "Yggdrasil Berries",
-    "vi": "Yggdrasil Berries",
-    "status": "reviewed-dot016",
-    "note": "Tên item."
-  },
-  {
-    "en": "Tally",
-    "vi": "Tally",
-    "status": "reviewed-dot016",
-    "note": "Tên quái triệu hồi."
-  },
-  {
-    "en": "Redrick",
-    "vi": "Redrick",
-    "status": "reviewed-dot016",
-    "note": "Tên quái triệu hồi."
-  },
-  {
-    "en": "Swordsman Guild",
-    "vi": "Swordsman Guild",
-    "status": "reviewed-dot016",
-    "note": "Tên Guild."
-  },
-  {
-    "en": "Magician Guild",
-    "vi": "Magician Guild",
-    "status": "reviewed-dot016",
-    "note": "Tên Guild."
-  },
-  {
-    "en": "Thieves Guild",
-    "vi": "Thieves Guild",
-    "status": "reviewed-dot016",
-    "note": "Tên Guild."
-  },
-  {
-    "en": "Archer Guild",
-    "vi": "Archer Guild",
-    "status": "reviewed-dot016",
-    "note": "Tên Guild."
+    "en": "Dog",
+    "vi": "Chó",
+    "status": "reviewed-dot015",
+    "note": "Nhãn vai trò NPC có thể Việt hóa; không coi là tên riêng."
   },
   {
     "en": "Ashley",
     "vi": "Ashley",
     "status": "reviewed-dot017",
-    "note": "Bảng thuật ngữ Ragnarok DS: giữ tên riêng/item/monster/Job và bậc thân thiết, Việt hóa vai trò vô danh."
+    "note": "Tên riêng/item/monster/Job/bậc thân thiết giữ tiếng Anh; nhãn vai trò NPC có thể Việt hóa."
   },
   {
     "en": "Barghill",
     "vi": "Barghill",
     "status": "reviewed-dot017",
-    "note": "Bảng thuật ngữ Ragnarok DS: giữ tên riêng/item/monster/Job và bậc thân thiết, Việt hóa vai trò vô danh."
+    "note": "Tên riêng/item/monster/Job/bậc thân thiết giữ tiếng Anh; nhãn vai trò NPC có thể Việt hóa."
   },
   {
     "en": "Master Phuong",
     "vi": "Master Phuong",
     "status": "reviewed-dot017",
-    "note": "Bảng thuật ngữ Ragnarok DS: giữ tên riêng/item/monster/Job và bậc thân thiết, Việt hóa vai trò vô danh."
+    "note": "Tên riêng/item/monster/Job/bậc thân thiết giữ tiếng Anh; nhãn vai trò NPC có thể Việt hóa."
   },
   {
     "en": "Natsume",
     "vi": "Natsume",
     "status": "reviewed-dot017",
-    "note": "Bảng thuật ngữ Ragnarok DS: giữ tên riêng/item/monster/Job và bậc thân thiết, Việt hóa vai trò vô danh."
+    "note": "Tên riêng/item/monster/Job/bậc thân thiết giữ tiếng Anh; nhãn vai trò NPC có thể Việt hóa."
   },
   {
     "en": "Walter",
     "vi": "Walter",
     "status": "reviewed-dot017",
-    "note": "Bảng thuật ngữ Ragnarok DS: giữ tên riêng/item/monster/Job và bậc thân thiết, Việt hóa vai trò vô danh."
+    "note": "Tên riêng/item/monster/Job/bậc thân thiết giữ tiếng Anh; nhãn vai trò NPC có thể Việt hóa."
   },
   {
     "en": "Raul",
     "vi": "Raul",
     "status": "reviewed-dot017",
-    "note": "Bảng thuật ngữ Ragnarok DS: giữ tên riêng/item/monster/Job và bậc thân thiết, Việt hóa vai trò vô danh."
+    "note": "Tên riêng/item/monster/Job/bậc thân thiết giữ tiếng Anh; nhãn vai trò NPC có thể Việt hóa."
   },
   {
     "en": "Remover",
     "vi": "Remover",
     "status": "reviewed-dot017",
-    "note": "Bảng thuật ngữ Ragnarok DS: giữ tên riêng/item/monster/Job và bậc thân thiết, Việt hóa vai trò vô danh."
+    "note": "Tên riêng/item/monster/Job/bậc thân thiết giữ tiếng Anh; nhãn vai trò NPC có thể Việt hóa."
   },
   {
     "en": "Bongons",
     "vi": "Bongons",
     "status": "reviewed-dot017",
-    "note": "Bảng thuật ngữ Ragnarok DS: giữ tên riêng/item/monster/Job và bậc thân thiết, Việt hóa vai trò vô danh."
+    "note": "Tên riêng/item/monster/Job/bậc thân thiết giữ tiếng Anh; nhãn vai trò NPC có thể Việt hóa."
   },
   {
     "en": "Yggdrasil Leaves",
     "vi": "Yggdrasil Leaves",
     "status": "reviewed-dot017",
-    "note": "Bảng thuật ngữ Ragnarok DS: giữ tên riêng/item/monster/Job và bậc thân thiết, Việt hóa vai trò vô danh."
+    "note": "Tên riêng/item/monster/Job/bậc thân thiết giữ tiếng Anh; nhãn vai trò NPC có thể Việt hóa."
   },
   {
     "en": "Minorous",
     "vi": "Minorous",
     "status": "reviewed-dot017",
-    "note": "Bảng thuật ngữ Ragnarok DS: giữ tên riêng/item/monster/Job và bậc thân thiết, Việt hóa vai trò vô danh."
+    "note": "Tên riêng/item/monster/Job/bậc thân thiết giữ tiếng Anh; nhãn vai trò NPC có thể Việt hóa."
   },
   {
     "en": "Acolyte Guild",
     "vi": "Acolyte Guild",
     "status": "reviewed-dot017",
-    "note": "Bảng thuật ngữ Ragnarok DS: giữ tên riêng/item/monster/Job và bậc thân thiết, Việt hóa vai trò vô danh."
+    "note": "Tên riêng/item/monster/Job/bậc thân thiết giữ tiếng Anh; nhãn vai trò NPC có thể Việt hóa."
   },
   {
     "en": "Sograt Desert - North",
     "vi": "Sograt Desert - North",
     "status": "reviewed-dot017",
-    "note": "Bảng thuật ngữ Ragnarok DS: giữ tên riêng/item/monster/Job và bậc thân thiết, Việt hóa vai trò vô danh."
+    "note": "Tên riêng/item/monster/Job/bậc thân thiết giữ tiếng Anh; nhãn vai trò NPC có thể Việt hóa."
   },
   {
     "en": "Prontera Order of Knights",
     "vi": "Prontera Order of Knights",
     "status": "reviewed-dot017",
-    "note": "Bảng thuật ngữ Ragnarok DS: giữ tên riêng/item/monster/Job và bậc thân thiết, Việt hóa vai trò vô danh."
+    "note": "Tên riêng/item/monster/Job/bậc thân thiết giữ tiếng Anh; nhãn vai trò NPC có thể Việt hóa."
   },
   {
     "en": "Woman Climber",
     "vi": "Cô gái leo núi",
     "status": "reviewed-dot017",
-    "note": "Bảng thuật ngữ Ragnarok DS: giữ tên riêng/item/monster/Job và bậc thân thiết, Việt hóa vai trò vô danh."
+    "note": "Tên riêng/item/monster/Job/bậc thân thiết giữ tiếng Anh; nhãn vai trò NPC có thể Việt hóa."
   },
   {
     "en": "Male Climber",
     "vi": "Chàng trai leo núi",
     "status": "reviewed-dot017",
-    "note": "Bảng thuật ngữ Ragnarok DS: giữ tên riêng/item/monster/Job và bậc thân thiết, Việt hóa vai trò vô danh."
+    "note": "Tên riêng/item/monster/Job/bậc thân thiết giữ tiếng Anh; nhãn vai trò NPC có thể Việt hóa."
   },
   {
     "en": "Buddy",
     "vi": "Buddy",
     "status": "reviewed-dot017",
-    "note": "Bảng thuật ngữ Ragnarok DS: giữ tên riêng/item/monster/Job và bậc thân thiết, Việt hóa vai trò vô danh."
+    "note": "Tên riêng/item/monster/Job/bậc thân thiết giữ tiếng Anh; nhãn vai trò NPC có thể Việt hóa."
+  },
+  {
+    "en": "White Peach",
+    "vi": "White Peach",
+    "status": "reviewed-prior-github",
+    "note": "Thuật ngữ, Job hoặc tên riêng có trên nhánh VH Ragnarok DS; bổ sung vào ZIP tích lũy."
+  },
+  {
+    "en": "Aghill",
+    "vi": "Aghill",
+    "status": "reviewed-prior-github",
+    "note": "Thuật ngữ, Job hoặc tên riêng có trên nhánh VH Ragnarok DS; bổ sung vào ZIP tích lũy."
+  },
+  {
+    "en": "Lughill",
+    "vi": "Lughill",
+    "status": "reviewed-prior-github",
+    "note": "Thuật ngữ, Job hoặc tên riêng có trên nhánh VH Ragnarok DS; bổ sung vào ZIP tích lũy."
+  },
+  {
+    "en": "Taekwon Kid",
+    "vi": "Taekwon Kid",
+    "status": "reviewed-prior-github",
+    "note": "Thuật ngữ, Job hoặc tên riêng có trên nhánh VH Ragnarok DS; bổ sung vào ZIP tích lũy."
+  },
+  {
+    "en": "High Orcs",
+    "vi": "High Orcs",
+    "status": "reviewed-prior-github",
+    "note": "Thuật ngữ, Job hoặc tên riêng có trên nhánh VH Ragnarok DS; bổ sung vào ZIP tích lũy."
+  },
+  {
+    "en": "Julietta",
+    "vi": "Julietta",
+    "status": "reviewed-prior-github",
+    "note": "Thuật ngữ, Job hoặc tên riêng có trên nhánh VH Ragnarok DS; bổ sung vào ZIP tích lũy."
+  },
+  {
+    "en": "Cliff",
+    "vi": "Cliff",
+    "status": "reviewed-prior-github",
+    "note": "Thuật ngữ, Job hoặc tên riêng có trên nhánh VH Ragnarok DS; bổ sung vào ZIP tích lũy."
+  },
+  {
+    "en": "Malone",
+    "vi": "Malone",
+    "status": "reviewed-prior-github",
+    "note": "Thuật ngữ, Job hoặc tên riêng có trên nhánh VH Ragnarok DS; bổ sung vào ZIP tích lũy."
+  },
+  {
+    "en": "Rick",
+    "vi": "Rick",
+    "status": "reviewed-prior-github",
+    "note": "Thuật ngữ, Job hoặc tên riêng có trên nhánh VH Ragnarok DS; bổ sung vào ZIP tích lũy."
+  },
+  {
+    "en": "Zeeter",
+    "vi": "Zeeter",
+    "status": "reviewed-prior-github",
+    "note": "Thuật ngữ, Job hoặc tên riêng có trên nhánh VH Ragnarok DS; bổ sung vào ZIP tích lũy."
+  },
+  {
+    "en": "Martha",
+    "vi": "Martha",
+    "status": "reviewed-prior-github",
+    "note": "Thuật ngữ, Job hoặc tên riêng có trên nhánh VH Ragnarok DS; bổ sung vào ZIP tích lũy."
+  },
+  {
+    "en": "Wolf",
+    "vi": "Wolf",
+    "status": "reviewed-prior-github",
+    "note": "Thuật ngữ, Job hoặc tên riêng có trên nhánh VH Ragnarok DS; bổ sung vào ZIP tích lũy."
+  },
+  {
+    "en": "Thief's Glass Ball",
+    "vi": "Thief's Glass Ball",
+    "status": "reviewed-prior-github",
+    "note": "Thuật ngữ, Job hoặc tên riêng có trên nhánh VH Ragnarok DS; bổ sung vào ZIP tích lũy."
+  },
+  {
+    "en": "Job Exp.",
+    "vi": "Job Exp.",
+    "status": "reviewed-prior-github",
+    "note": "Thuật ngữ, Job hoặc tên riêng có trên nhánh VH Ragnarok DS; bổ sung vào ZIP tích lũy."
+  },
+  {
+    "en": "Job EXP",
+    "vi": "Job EXP",
+    "status": "reviewed-prior-github",
+    "note": "Thuật ngữ, Job hoặc tên riêng có trên nhánh VH Ragnarok DS; bổ sung vào ZIP tích lũy."
+  },
+  {
+    "en": "Yggdrasil Berries",
+    "vi": "Yggdrasil Berries",
+    "status": "reviewed-prior-github",
+    "note": "Thuật ngữ, Job hoặc tên riêng có trên nhánh VH Ragnarok DS; bổ sung vào ZIP tích lũy."
+  },
+  {
+    "en": "Tally",
+    "vi": "Tally",
+    "status": "reviewed-prior-github",
+    "note": "Thuật ngữ, Job hoặc tên riêng có trên nhánh VH Ragnarok DS; bổ sung vào ZIP tích lũy."
+  },
+  {
+    "en": "Redrick",
+    "vi": "Redrick",
+    "status": "reviewed-prior-github",
+    "note": "Thuật ngữ, Job hoặc tên riêng có trên nhánh VH Ragnarok DS; bổ sung vào ZIP tích lũy."
+  },
+  {
+    "en": "Swordsman Guild",
+    "vi": "Swordsman Guild",
+    "status": "reviewed-prior-github",
+    "note": "Thuật ngữ, Job hoặc tên riêng có trên nhánh VH Ragnarok DS; bổ sung vào ZIP tích lũy."
+  },
+  {
+    "en": "Archer Guild",
+    "vi": "Archer Guild",
+    "status": "reviewed-prior-github",
+    "note": "Thuật ngữ, Job hoặc tên riêng có trên nhánh VH Ragnarok DS; bổ sung vào ZIP tích lũy."
+  },
+  {
+    "en": "Wandering Swordsman",
+    "vi": "Swordsman lang thang",
+    "status": "reviewed-prior-github",
+    "note": "Nhãn NPC đã chốt trên GitHub từ checkpoint trước; giữ tên Job trong tiếng Anh."
+  },
+  {
+    "en": "Banished Magician",
+    "vi": "Magician bị trục xuất",
+    "status": "reviewed-prior-github",
+    "note": "Nhãn NPC đã chốt trên GitHub từ checkpoint trước; giữ tên Job trong tiếng Anh."
+  },
+  {
+    "en": "Ghost",
+    "vi": "Hồn ma",
+    "status": "reviewed-prior-github",
+    "note": "Nhãn NPC đã chốt trên GitHub từ checkpoint trước; giữ tên Job trong tiếng Anh."
   },
   {
     "en": "Pott",
     "vi": "Pott",
     "status": "reviewed-dot018",
-    "note": "Tên riêng, skill, Job, quái hoặc địa danh chính, giữ tiếng Anh đúng quy tắc Ragnarok DS."
+    "note": "Tên nhân vật, Job, quái, địa điểm, skill/thuật ngữ quan trọng; giữ tiếng Anh theo luật Việt hóa."
   },
   {
     "en": "Mof",
     "vi": "Mof",
     "status": "reviewed-dot018",
-    "note": "Tên riêng, skill, Job, quái hoặc địa danh chính, giữ tiếng Anh đúng quy tắc Ragnarok DS."
+    "note": "Tên nhân vật, Job, quái, địa điểm, skill/thuật ngữ quan trọng; giữ tiếng Anh theo luật Việt hóa."
   },
   {
     "en": "Lilac",
     "vi": "Lilac",
     "status": "reviewed-dot018",
-    "note": "Tên riêng, skill, Job, quái hoặc địa danh chính, giữ tiếng Anh đúng quy tắc Ragnarok DS."
+    "note": "Tên nhân vật, Job, quái, địa điểm, skill/thuật ngữ quan trọng; giữ tiếng Anh theo luật Việt hóa."
+  },
+  {
+    "en": "Magician Guild",
+    "vi": "Magician Guild",
+    "status": "reviewed-dot018",
+    "note": "Tên nhân vật, Job, quái, địa điểm, skill/thuật ngữ quan trọng; giữ tiếng Anh theo luật Việt hóa."
+  },
+  {
+    "en": "Thieves Guild",
+    "vi": "Thieves Guild",
+    "status": "reviewed-dot018",
+    "note": "Tên nhân vật, Job, quái, địa điểm, skill/thuật ngữ quan trọng; giữ tiếng Anh theo luật Việt hóa."
   },
   {
     "en": "Poring",
     "vi": "Poring",
     "status": "reviewed-dot018",
-    "note": "Tên riêng, skill, Job, quái hoặc địa danh chính, giữ tiếng Anh đúng quy tắc Ragnarok DS."
+    "note": "Tên nhân vật, Job, quái, địa điểm, skill/thuật ngữ quan trọng; giữ tiếng Anh theo luật Việt hóa."
   },
   {
     "en": "Transform",
     "vi": "Transform",
     "status": "reviewed-dot018",
-    "note": "Tên riêng, skill, Job, quái hoặc địa danh chính, giữ tiếng Anh đúng quy tắc Ragnarok DS."
+    "note": "Tên nhân vật, Job, quái, địa điểm, skill/thuật ngữ quan trọng; giữ tiếng Anh theo luật Việt hóa."
   },
   {
     "en": "Transformation",
     "vi": "Transformation",
     "status": "reviewed-dot018",
-    "note": "Tên riêng, skill, Job, quái hoặc địa danh chính, giữ tiếng Anh đúng quy tắc Ragnarok DS."
+    "note": "Tên nhân vật, Job, quái, địa điểm, skill/thuật ngữ quan trọng; giữ tiếng Anh theo luật Việt hóa."
   },
   {
     "en": "zenies",
     "vi": "zenies",
     "status": "reviewed-dot018",
-    "note": "Tên riêng, skill, Job, quái hoặc địa danh chính, giữ tiếng Anh đúng quy tắc Ragnarok DS."
+    "note": "Tên nhân vật, Job, quái, địa điểm, skill/thuật ngữ quan trọng; giữ tiếng Anh theo luật Việt hóa."
   },
   {
     "en": "Young Woman",
     "vi": "Cô gái trẻ",
     "status": "reviewed-dot018",
-    "note": "Nhãn vai trò NPC không tên, dịch sang tiếng Việt."
+    "note": "Vai trò NPC vô danh, Việt hóa nhãn hiển thị."
+  },
+  {
+    "en": "Akari",
+    "vi": "Akari",
+    "status": "reviewed-dot019",
+    "note": "Tên riêng, item, Job, địa danh hoặc thuật ngữ chính được giữ theo bản tiếng Anh USA."
+  },
+  {
+    "en": "Larks",
+    "vi": "Larks",
+    "status": "reviewed-dot019",
+    "note": "Tên riêng, item, Job, địa danh hoặc thuật ngữ chính được giữ theo bản tiếng Anh USA."
+  },
+  {
+    "en": "Sograt Desert - South",
+    "vi": "Sograt Desert - South",
+    "status": "reviewed-dot019",
+    "note": "Tên riêng, item, Job, địa danh hoặc thuật ngữ chính được giữ theo bản tiếng Anh USA."
+  },
+  {
+    "en": "Gold Thief Bug",
+    "vi": "Gold Thief Bug",
+    "status": "reviewed-dot019",
+    "note": "Tên riêng, item, Job, địa danh hoặc thuật ngữ chính được giữ theo bản tiếng Anh USA."
+  },
+  {
+    "en": "Greaves",
+    "vi": "Greaves",
+    "status": "reviewed-dot019",
+    "note": "Tên riêng, item, Job, địa danh hoặc thuật ngữ chính được giữ theo bản tiếng Anh USA."
+  },
+  {
+    "en": "Panaceas",
+    "vi": "Panaceas",
+    "status": "reviewed-dot019",
+    "note": "Tên riêng, item, Job, địa danh hoặc thuật ngữ chính được giữ theo bản tiếng Anh USA."
+  },
+  {
+    "en": "Holy Waters",
+    "vi": "Holy Waters",
+    "status": "reviewed-dot019",
+    "note": "Tên riêng, item, Job, địa danh hoặc thuật ngữ chính được giữ theo bản tiếng Anh USA."
+  },
+  {
+    "en": "Oasis",
+    "vi": "Oasis",
+    "status": "reviewed-dot019",
+    "note": "Tên riêng, item, Job, địa danh hoặc thuật ngữ chính được giữ theo bản tiếng Anh USA."
+  },
+  {
+    "en": "Adventurer",
+    "vi": "Mạo hiểm giả",
+    "status": "reviewed-dot019",
+    "note": "Nhãn vai trò NPC; tên Job/Ragnarok quan trọng giữ nguyên."
+  },
+  {
+    "en": "Researcher",
+    "vi": "Nhà nghiên cứu",
+    "status": "reviewed-dot019",
+    "note": "Nhãn vai trò NPC; tên Job/Ragnarok quan trọng giữ nguyên."
+  },
+  {
+    "en": "Moroccan Merchant",
+    "vi": "Merchant Morocc",
+    "status": "reviewed-dot019",
+    "note": "Nhãn vai trò NPC; tên Job/Ragnarok quan trọng giữ nguyên."
+  },
+  {
+    "en": "Moroccan",
+    "vi": "Người Morocc",
+    "status": "reviewed-dot019",
+    "note": "Nhãn vai trò NPC; tên Job/Ragnarok quan trọng giữ nguyên."
+  },
+  {
+    "en": "Boss",
+    "vi": "Đội trưởng thợ",
+    "status": "reviewed-dot019",
+    "note": "Nhãn vai trò NPC; tên Job/Ragnarok quan trọng giữ nguyên."
   }
 ]
