@@ -1246,5 +1246,161 @@
     "vi": "Perfect Clima-Tact Thunderbolt Tempo",
     "status": "provisional_literal_jp_qa",
     "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
+  },
+  {
+    "ja": "うずまきナルト",
+    "vi": "Naruto Uzumaki",
+    "status": "verified_name",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "うちはサスケ",
+    "vi": "Sasuke Uchiha",
+    "status": "verified_name",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "春野サクラ",
+    "vi": "Sakura Haruno",
+    "status": "verified_name",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "はたけカカシ",
+    "vi": "Kakashi Hatake",
+    "status": "verified_name",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "螺旋丸",
+    "vi": "Rasengan",
+    "status": "common_english_name",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "千鳥",
+    "vi": "Chidori",
+    "status": "common_english_name",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "千鳥流し",
+    "vi": "Chidori Nagashi",
+    "status": "common_english_name",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "写輪眼",
+    "vi": "Sharingan",
+    "status": "common_english_name",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "万華鏡写輪眼",
+    "vi": "Mangekyo Sharingan",
+    "status": "common_english_name",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "通天脚",
+    "vi": "Tsutenkyaku",
+    "status": "romanized_japanese_qa",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "乱身衝",
+    "vi": "Ranshinshou",
+    "status": "romanized_japanese_qa",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "地丘環裏の術",
+    "vi": "Chikyuukanri no Jutsu",
+    "status": "romanized_japanese_qa",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "豪火薙袖",
+    "vi": "Gouka Nagisode",
+    "status": "romanized_japanese_qa",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "三尾顛陣界歪",
+    "vi": "Three-Tailed Tenjinkaiwai",
+    "status": "provisional_literal_jp_qa",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "四尾狐威鞠",
+    "vi": "Four-Tailed Koimari",
+    "status": "provisional_literal_jp_qa",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "四尾双邪至",
+    "vi": "Four-Tailed Soujashi",
+    "status": "provisional_literal_jp_qa",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "曼我蘇生",
+    "vi": "Manga Sosei",
+    "status": "romanized_japanese_qa",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "九尾のチャクラ",
+    "vi": "Nine-Tails Chakra",
+    "status": "common_english_name",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "多重影分身の術",
+    "vi": "Multi Shadow Clone Jutsu",
+    "status": "common_english_name",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "雷切",
+    "vi": "Lightning Blade",
+    "status": "common_english_name",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "口寄せの術",
+    "vi": "Summoning Jutsu",
+    "status": "common_english_name",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "掌仙術",
+    "vi": "Mystical Palm Jutsu",
+    "status": "common_english_name",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "内なるサクラ",
+    "vi": "Inner Sakura",
+    "status": "common_english_name",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "忍道",
+    "vi": "Nindo",
+    "status": "romanized_japanese_qa",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "すれちがい通信",
+    "vi": "trao đổi dữ liệu khi đi ngang nhau",
+    "status": "platform_specific_term",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
+  },
+  {
+    "ja": "Ｗｉ－Ｆｉコネクション",
+    "vi": "Nintendo Wi-Fi Connection",
+    "status": "platform_specific_term",
+    "note": "CP005: thuật ngữ Naruto / menu; đối chiếu tên chưa rõ trước khi chèn ROM."
   }
 ]
