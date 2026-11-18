@@ -730,5 +730,47 @@
     "vi": "Eternal Sands",
     "status": "confirmed-by-user-rule",
     "note": "Tên riêng, item, địa danh hoặc thuật ngữ Ragnarok chính, giữ tiếng Anh."
+  },
+  {
+    "en": "Bloody Sword",
+    "vi": "Bloody Sword",
+    "status": "confirmed-in-checkpoint-010",
+    "note": "Item mở Dark Knight, giữ tên tiếng Anh."
+  },
+  {
+    "en": "Guild Menu",
+    "vi": "Guild Menu",
+    "status": "confirmed-in-checkpoint-010",
+    "note": "Nhãn menu giao diện Guild."
+  },
+  {
+    "en": "Hunter",
+    "vi": "Hunter",
+    "status": "confirmed-in-checkpoint-010",
+    "note": "Tên Job."
+  },
+  {
+    "en": "Taekwon Kid",
+    "vi": "Taekwon Kid",
+    "status": "confirmed-in-checkpoint-010",
+    "note": "Tên Job."
+  },
+  {
+    "en": "Tavern Master",
+    "vi": "Chủ quán",
+    "status": "confirmed-in-checkpoint-010",
+    "note": "Vai trò NPC, có thể Việt hóa nhãn hiển thị."
+  },
+  {
+    "en": "Suspicious Man",
+    "vi": "Gã khả nghi",
+    "status": "confirmed-in-checkpoint-010",
+    "note": "Vai trò không tên, không tự gán danh tính."
+  },
+  {
+    "en": "High Orcs",
+    "vi": "High Orcs",
+    "status": "confirmed-in-checkpoint-010",
+    "note": "Tên quái theo bản USA."
   }
 ]
