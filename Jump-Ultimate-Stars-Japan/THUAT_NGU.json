@@ -1546,5 +1546,227 @@
     "vi": "Jao Shunsatsuken",
     "status": "romanized_japanese_qa",
     "note": "CP006: ưu tiên giữ tên riêng/chiêu; tên Romanized hoặc Provisional chưa phải English chính thức, cần QA trước khi build ROM."
+  },
+  {
+    "ja": "武藤遊戯",
+    "vi": "Yugi Muto",
+    "status": "common_english_name",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "ゴッド・ブレイズ・キャノン",
+    "vi": "God Blaze Cannon",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "死者蘇生",
+    "vi": "Monster Reborn",
+    "status": "common_english_name",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "ゴッドハンドクラッシャー",
+    "vi": "God Hand Crusher",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "光の封札剣",
+    "vi": "Lightforce Sword",
+    "status": "common_english_name",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "超電導波サンダーフォース",
+    "vi": "Thunder Force",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "六芒星の呪縛",
+    "vi": "Spellbinding Circle",
+    "status": "common_english_name",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "デュエリスト",
+    "vi": "Duelist",
+    "status": "common_english_name",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "緋村剣心",
+    "vi": "Kenshin Himura",
+    "status": "common_english_name",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "龍鳴閃",
+    "vi": "Ryumeisen",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "飛天の読み",
+    "vi": "Hiten no Yomi",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "九頭龍閃",
+    "vi": "Kuzuryusen",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "龍槌・翔閃",
+    "vi": "Ryutsui Shosen",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "天翔龍閃",
+    "vi": "Amakakeru Ryu no Hirameki",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "飛天御剣流",
+    "vi": "Hiten Mitsurugi-ryu",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "飛天五連撃",
+    "vi": "Hiten Goren-geki",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "イヴ",
+    "vi": "Eve",
+    "status": "common_english_name",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "黄金の連弾",
+    "vi": "Gold Rush",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "羽根の弾丸",
+    "vi": "Feather Bullet",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "変身・槍",
+    "vi": "Trans: Lance",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "ナノスライサー",
+    "vi": "Nano Slicer",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "ナノマシン",
+    "vi": "Nanomachine",
+    "status": "common_english_name",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "トレイン",
+    "vi": "Train Heartnet",
+    "status": "common_english_name",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "電磁銃",
+    "vi": "Railgun",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "黒爪",
+    "vi": "Black Claw",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "炸裂電磁銃",
+    "vi": "Burst Railgun",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "黒十字",
+    "vi": "Black Cross",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "掃除屋",
+    "vi": "Sweeper",
+    "status": "common_english_name",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "黒崎一護",
+    "vi": "Ichigo Kurosaki",
+    "status": "common_english_name",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "月牙天衝",
+    "vi": "Getsuga Tensho",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "霊圧共鳴",
+    "vi": "Reiatsu Resonance",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "決意",
+    "vi": "Determination",
+    "status": "provisional_literal_jp_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "覚悟",
+    "vi": "Resolve",
+    "status": "provisional_literal_jp_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "斬月",
+    "vi": "Zangetsu",
+    "status": "common_english_name",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "天鎖斬月",
+    "vi": "Tensa Zangetsu",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "虚化・月牙天衝",
+    "vi": "Hollowfication: Getsuga Tensho",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
+  },
+  {
+    "ja": "虚化・天鎖斬月",
+    "vi": "Hollowfication: Tensa Zangetsu",
+    "status": "romanized_japanese_qa",
+    "note": "CP007. Danh xưng/chiêu chuyển tự hoặc tên tiếng Anh thông dụng; mục đánh dấu qa không được hiểu là tên localized chính thức."
   }
 ]
