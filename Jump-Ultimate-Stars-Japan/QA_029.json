@@ -1,0 +1,33 @@
+{
+  "game": "Jump Ultimate Stars (Japan) AJUJ",
+  "checkpoint": "029",
+  "date": "2026-11-19",
+  "total_rows": 34919,
+  "translated_rows": 18317,
+  "pending_rows": 16602,
+  "prior_028_translated": 17615,
+  "new_029_rows": 702,
+  "changed": {
+    "06-jquiz-002.jsonl": "6–707 (702 new; Cobra, Captain Tsubasa, Dragon Ball)"
+  },
+  "source_ja_modified": 0,
+  "source_metadata_modified": 0,
+  "previous_translations_modified": 0,
+  "duplicate_ids": 0,
+  "control_tag_errors": 0,
+  "printf_placeholder_errors": 0,
+  "unicode_nfc_errors": 0,
+  "quiz_option_positions_modified": 0,
+  "quiz_question_groups_touched": 171,
+  "quiz_answer_groups_touched": 173,
+  "quiz_answers_validated_in_game": false,
+  "source_image_questions_validated": false,
+  "long_unicode_strings_gt37": 6479,
+  "glossary_terms": 1542,
+  "glossary_added": 16,
+  "font_implemented": false,
+  "rom_patch_built": false,
+  "pixel_width_qa": false,
+  "gameplay_tested": false,
+  "notes": "Static QA verifies IDs, exact source and metadata conservation, controller tags, placeholders, old translations and option positions. Does not verify quiz answer correctness, image prompts, ROM font width, or official Roman spellings. Some questions/answer choices are split or reused across IDs."
+}
