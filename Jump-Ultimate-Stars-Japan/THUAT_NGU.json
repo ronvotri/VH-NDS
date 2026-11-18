@@ -7954,5 +7954,101 @@
     "vi": "Cui",
     "status": "romanization_or_english_to_review",
     "note": "CP015 character_name; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "孫悟飯",
+    "vi": "Son Gohan",
+    "status": "common_en_name",
+    "note": "CP016: giữ tên quốc tế/phiên âm; cần QA đối chiếu theo manga và màn hình NDS."
+  },
+  {
+    "ja": "界王",
+    "vi": "King Kai",
+    "status": "common_en_name",
+    "note": "CP016: giữ tên quốc tế/phiên âm; cần QA đối chiếu theo manga và màn hình NDS."
+  },
+  {
+    "ja": "アレイスター・クロウリー",
+    "vi": "Arystar Krory",
+    "status": "working_romanization_qa",
+    "note": "CP016: giữ tên quốc tế/phiên âm; cần QA đối chiếu theo manga và màn hình NDS."
+  },
+  {
+    "ja": "リーバー・ウェンハム",
+    "vi": "Reever Wenham",
+    "status": "working_romanization_qa",
+    "note": "CP016: giữ tên quốc tế/phiên âm; cần QA đối chiếu theo manga và màn hình NDS."
+  },
+  {
+    "ja": "コムイ・リー",
+    "vi": "Komui Lee",
+    "status": "common_en_name",
+    "note": "CP016: giữ tên quốc tế/phiên âm; cần QA đối chiếu theo manga và màn hình NDS."
+  },
+  {
+    "ja": "ミランダ・ロットー",
+    "vi": "Miranda Lotto",
+    "status": "common_en_name",
+    "note": "CP016: giữ tên quốc tế/phiên âm; cần QA đối chiếu theo manga và màn hình NDS."
+  },
+  {
+    "ja": "クロス・マリアン",
+    "vi": "Cross Marian",
+    "status": "common_en_name",
+    "note": "CP016: giữ tên quốc tế/phiên âm; cần QA đối chiếu theo manga và màn hình NDS."
+  },
+  {
+    "ja": "夜神月／リューク",
+    "vi": "Light Yagami / Ryuk",
+    "status": "common_en_name",
+    "note": "CP016: giữ tên quốc tế/phiên âm; cần QA đối chiếu theo manga và màn hình NDS."
+  },
+  {
+    "ja": "リューク",
+    "vi": "Ryuk",
+    "status": "common_en_name",
+    "note": "CP016: giữ tên quốc tế/phiên âm; cần QA đối chiếu theo manga và màn hình NDS."
+  },
+  {
+    "ja": "デスノート",
+    "vi": "Death Note",
+    "status": "common_en_name",
+    "note": "CP016: giữ tên quốc tế/phiên âm; cần QA đối chiếu theo manga và màn hình NDS."
+  },
+  {
+    "ja": "ワイミーズハウス",
+    "vi": "Wammy’s House",
+    "status": "common_en_name",
+    "note": "CP016: giữ tên quốc tế/phiên âm; cần QA đối chiếu theo manga và màn hình NDS."
+  },
+  {
+    "ja": "黒の教団",
+    "vi": "Black Order",
+    "status": "common_en_name",
+    "note": "CP016: giữ tên quốc tế/phiên âm; cần QA đối chiếu theo manga và màn hình NDS."
+  },
+  {
+    "ja": "イノセンス",
+    "vi": "Innocence",
+    "status": "common_en_name",
+    "note": "CP016: giữ tên quốc tế/phiên âm; cần QA đối chiếu theo manga và màn hình NDS."
+  },
+  {
+    "ja": "アクマ",
+    "vi": "Akuma",
+    "status": "common_en_name",
+    "note": "CP016: giữ tên quốc tế/phiên âm; cần QA đối chiếu theo manga và màn hình NDS."
+  },
+  {
+    "ja": "ダークブーツ",
+    "vi": "Dark Boots",
+    "status": "working_romanization_qa",
+    "note": "CP016: giữ tên quốc tế/phiên âm; cần QA đối chiếu theo manga và màn hình NDS."
+  },
+  {
+    "ja": "六幻",
+    "vi": "Mugen",
+    "status": "common_en_name",
+    "note": "CP016: giữ tên quốc tế/phiên âm; cần QA đối chiếu theo manga và màn hình NDS."
   }
 ]
