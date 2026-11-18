@@ -1,0 +1,27 @@
+{
+  "game": "Jump Ultimate Stars (Japan) AJUJ",
+  "checkpoint": "025",
+  "date": "2026-11-18",
+  "total_rows": 34919,
+  "translated_rows": 15666,
+  "pending_rows": 19253,
+  "prior_024_translated": 15033,
+  "new_025_rows": 633,
+  "changed": {
+    "05-thu-vien-nhan-vat-008.jsonl": "322–954 (633 new; file complete)"
+  },
+  "source_ja_modified": 0,
+  "previous_translations_modified": 0,
+  "duplicate_ids": 0,
+  "control_tag_errors": 0,
+  "printf_placeholder_errors": 0,
+  "unicode_nfc_errors": 0,
+  "static_comparison_base": "Checkpoint 024 translation files from ZIP",
+  "long_unicode_strings_gt37": 6212,
+  "glossary_terms": 1481,
+  "glossary_added": 14,
+  "font_implemented": false,
+  "rom_patch_built": false,
+  "pixel_width_qa": false,
+  "gameplay_tested": false
+}
