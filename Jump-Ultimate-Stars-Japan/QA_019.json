@@ -1,0 +1,34 @@
+{
+  "checkpoint": "019",
+  "date": "2026-11-18",
+  "game": "Jump Ultimate Stars",
+  "rom_code": "AJUJ",
+  "source_checkpoint": "018",
+  "source_zip_sha256": "07e5a826cf1faf310a5fe533bf6dda7771aa9218b17660dcae91428bbbc8bc36",
+  "previous_translated": 11202,
+  "new_in_019": 649,
+  "translated": 11851,
+  "total": 34919,
+  "pending": 23068,
+  "changed_files": {
+    "05-thu-vien-nhan-vat-004.jsonl": 649
+  },
+  "changed_rows": {
+    "05-thu-vien-nhan-vat-004.jsonl": "300-948"
+  },
+  "source_modified": 0,
+  "old_translations_overwritten": 0,
+  "duplicate_ids": 0,
+  "control_token_errors": 0,
+  "format_placeholder_errors": 0,
+  "non_nfc_errors": 0,
+  "glossary_added_in_019": 10,
+  "glossary_total": 1377,
+  "segments_over_37_unicode_chars": 3674,
+  "qa_scope": "static source/ID/control/format/Unicode; Japanese reading by manga block, not ROM rendering or pixel check",
+  "font_integration": "not_done",
+  "rom_patch": "not_built",
+  "gameplay_test": "not_done",
+  "next_file": "05-thu-vien-nhan-vat-005.jsonl",
+  "next_row_index": 0
+}
