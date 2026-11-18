@@ -141,15 +141,25 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - Bản ZIP checkpoint 014 có 33 JSONL tích lũy, patch 014, bảng thuật ngữ, ma trận ngôi xưng, danh bạ, báo cáo QA; **chưa** phải ROM Việt hóa, chưa nhúng font hoặc kiểm thử trên NDS.
 - **Đợt kế tiếp:** `05-hoi-thoai-013.jsonl` còn **465 mục**, mở bằng cảnh Marlon/Joshua bị quái vây.
 
+## Checkpoint 015 — 18/11/2026
+
+- **465/465 mục** hoàn thành trong `05-hoi-thoai-013.jsonl`: 459 bản dịch khác nguồn và 6 mục giữ nguyên. Patch tại `translation/PATCH-DOT015.jsonl`.
+- **Tích lũy 6.158/14.616 mục (42,13%)**, còn 8.458 mục `vi=null`. Không ghi đè 5.693 mục đã có ở checkpoint 014.
+- Nội dung nguồn USA: Sarah–Marlon/Joshua, Éclair từ nhẫn cưới mẹ Sarah; nhóm rơi xuống đường tắt giữa El Mes Gorge và Mt. Mjolnir; Rouche kiểm tra mật khẩu `Trust` và chỉ cửa sau Somatology Laboratory; Sonya nhờ cứu bố khỏi giày bị nguyền bằng Aquamarine; Sopborough/Card; cứu ba thợ mỏ tại Mjolnir Dead Pit - 2F; Yolanda tìm vợ cho chó Popi; Rolek xin gia nhập Guild.
+- **QA chính thức `tools/check_handoff.py` từ bộ nguồn:** `source_rows=14616`, `translated=6158`, `unfinished=8458`, `errors=[]`. Bảo toàn toàn bộ EN, ID, thứ tự mã phân trang, màu, tên động và placeholder.
+- **Ghi chú khi patch ROM:** Có những NPC viết nhãn người nói nối trực tiếp với `<CFFFD>` thay vì `<C3000>` (Old Lady/Young Man), không tự thêm mã. Mật khẩu `Trust` vẫn là tiếng Anh; `Nerdvana` là chơi chữ độc đáo của Sopborough, giữ nguyên.
+- Bản ZIP checkpoint 015 gồm 33 JSONL tích lũy, patch, thuật ngữ, danh bạ, ma trận ngôi xưng và QA. Chưa thay font hoặc test tiếng Việt trên NDS thật/giả lập.
+- **Kế tiếp:** `05-hoi-thoai-014.jsonl` có 432 mục, bắt đầu với Sopborough.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **5.693 patch records** từ các đợt 001–014, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **6.158 patch records** từ các đợt 001–015, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_014_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_015_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
