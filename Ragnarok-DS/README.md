@@ -173,15 +173,27 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - **Chưa build ROM hoặc font tiếng Việt**, chưa kiểm tra tràn khung trên NDS/giả lập.
 - **Đợt 018:** `05-hoi-thoai-016.jsonl` còn **594 mục**, bắt đầu ở cảnh Gabera chỉ dẫn thử thách trên Geffen Bridge.
 
+## Checkpoint 018 — 18/11/2026
+
+- **+594 mục, hoàn thành toàn bộ `05-hoi-thoai-016.jsonl`** (576 bản Việt khác EN, 18 mục giữ nguyên ký hiệu/tên); patch: `translation/PATCH-DOT018.jsonl`.
+- **Tích lũy 7.648/14.616 mục (52,33%)**; còn **6.968 mục `vi=null`**. 7.054 bản ghi cũ được giữ nguyên dữ liệu.
+- Mạch truyện: Gabera ép Lisir đấu Natsume tại Geffen Bridge, Guildmaster làm nhân chứng; Natsume dùng phép biến hình chưa hoàn chỉnh; Gabera hướng dẫn bí thuật Transformation, ba năm đầu biến thành Poring, khoảng mười năm luyện tập mới có cơ hội thành rồng. Đoạn tiếp theo Viselc kể chuyện hai bạn thân Pott–Mof bị nhầm là Thief ở Prontera, điều tra Prontera Culvert và minh oan cho bạn.
+- **QA chính thức bằng `tools/check_handoff.py` gốc:** `source_rows=14616`, `translated=7648`, `unfinished=6968`, `errors=[]`. Kiểm đủ tên động, thứ tự tag màu, dấu ngắt trang và placeholder; không sửa `en`, ID hay context.
+- **Hai điểm bất thường của nguồn USA:** index 135 có `<C3000>` giữa nội dung câu "May I borrow Lisir..."; index 273 có trang rỗng sau `<CFFFC>`. Bản dịch giữ nguyên thứ tự/mã, chưa sửa engine.
+- **4 mục có cảnh báo độ dài theo số ký tự**, cần đo đúng font NDS để biết có tràn khung hay không; không khẳng định đã kiểm thử máy thật.
+- Các tên riêng/Job/item/quái/kỹ năng giữ tiếng Anh, bổ sung `Transform`, `Transformation`, `Pott`, `Mof`, `Lilac`; nhãn `Young Woman` → "Cô gái trẻ".
+- **Chưa có bản ROM Việt hóa tích hợp**, chưa nhúng font tiếng Việt hoặc QA hiển thị trên NDS.
+- **Đợt 019:** tệp `05-hoi-thoai-017.jsonl` có **478 mục** chưa dịch, tiếp tuyến điều tra của Lilac.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **7.054 patch records** từ các đợt 001–017, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **7.648 patch records** từ các đợt 001–018, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_017_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_018_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
