@@ -2386,5 +2386,89 @@
     "vi": "30000 zenies",
     "status": "reviewed-dot025",
     "note": "Giá Flamberge theo nguồn."
+  },
+  {
+    "en": "Nina",
+    "vi": "Nina",
+    "status": "reviewed-dot026",
+    "note": "Merchant tự xưng “Merchant Chính Nghĩa”; tên riêng giữ nguyên."
+  },
+  {
+    "en": "Kate",
+    "vi": "Kate",
+    "status": "reviewed-dot026",
+    "note": "Bạn thời thơ ấu của Allen, cùng viết thư mong cưới nhau trong hộp thời gian."
+  },
+  {
+    "en": "Merchant of JUSTICE",
+    "vi": "Merchant Chính Nghĩa",
+    "status": "reviewed-dot026",
+    "note": "Biệt danh Nina tự xưng; giữ Job Merchant, Việt hóa phần mô tả."
+  },
+  {
+    "en": "Hoodlum",
+    "vi": "Đầu gấu",
+    "status": "reviewed-dot026",
+    "note": "Vai trò NPC vô danh đuổi đánh Nina."
+  },
+  {
+    "en": "Mysterious Magician",
+    "vi": "Magician bí ẩn",
+    "status": "reviewed-dot026",
+    "note": "Vai trò NPC chỉ Glast Heim, giữ nguyên tên Job Magician."
+  },
+  {
+    "en": "Mysterious Woman",
+    "vi": "Phụ nữ bí ẩn",
+    "status": "reviewed-dot026",
+    "note": "Vai trò NPC hướng dẫn Shaman; giữ ngắn để vừa tên người nói."
+  },
+  {
+    "en": "Commander",
+    "vi": "Chỉ huy",
+    "status": "reviewed-dot026",
+    "note": "Vai trò NPC của Order, không phải tên riêng."
+  },
+  {
+    "en": "Shaman",
+    "vi": "Shaman",
+    "status": "reviewed-dot026",
+    "note": "Tên Job/pháp thuật quan trọng, giữ theo bản USA."
+  },
+  {
+    "en": "Dark Magician",
+    "vi": "Dark Magician",
+    "status": "reviewed-dot026",
+    "note": "Tên vai trò quan trọng trong tuyến Dark Knight, giữ theo nguyên tác."
+  },
+  {
+    "en": "Tyrfing",
+    "vi": "Tyrfing",
+    "status": "reviewed-dot026",
+    "note": "Rune blade phần thưởng sau khi hạ ác long ở Glast Heim."
+  },
+  {
+    "en": "Ancient Shaman Documents",
+    "vi": "Ancient Shaman Documents",
+    "status": "reviewed-dot026",
+    "note": "Vật phẩm cuối tệp, nhờ Shaman tại Yusidra Caves trao."
+  },
+  {
+    "en": "Butterfly Wings",
+    "vi": "Butterfly Wings",
+    "status": "reviewed-dot026",
+    "note": "Phần thưởng 3 cái của nhiệm vụ Allen/Kate."
+  },
+  {
+    "en": "Rune blade",
+    "vi": "Rune blade",
+    "status": "reviewed-dot026",
+    "note": "Cách gọi loại kiếm dành cho Dark Knight; Tyrfing là tên phần thưởng."
+  },
+  {
+    "en": "Dark arts",
+    "vi": "Hắc thuật",
+    "status": "reviewed-dot026",
+    "note": "Thuật ngữ chung về phép thuật bóng tối, không phải tên kỹ năng cụ thể."
   }
 ]
