@@ -2242,5 +2242,71 @@
     "vi": "B3F",
     "status": "reviewed-dot023",
     "note": "Tầng hầm, giữ nguyên ký hiệu"
+  },
+  {
+    "en": "Hydrolancer",
+    "vi": "Hydrolancer",
+    "status": "reviewed-dot024",
+    "note": "Rồng mục tiêu trong thử thách Knight"
+  },
+  {
+    "en": "Marie",
+    "vi": "Marie",
+    "status": "reviewed-dot024",
+    "note": "Tên NPC Magician Guild"
+  },
+  {
+    "en": "Wizard's Spirit",
+    "vi": "Wizard's Spirit",
+    "status": "reviewed-dot024",
+    "note": "Item thưởng kỹ nghệ Wizard"
+  },
+  {
+    "en": "Young Magician",
+    "vi": "Magician trẻ",
+    "status": "reviewed-dot024",
+    "note": "Nhãn NPC vô danh, giữ tên Job"
+  },
+  {
+    "en": "Fritz",
+    "vi": "Fritz",
+    "status": "reviewed-dot024",
+    "note": "Tên NPC Thieves Guild"
+  },
+  {
+    "en": "Assassin's Spirit",
+    "vi": "Assassin's Spirit",
+    "status": "reviewed-dot024",
+    "note": "Item thưởng kỹ nghệ Assassin"
+  },
+  {
+    "en": "Bandit Boss",
+    "vi": "Trùm cướp",
+    "status": "reviewed-dot024",
+    "note": "Nhãn vai trò, không phải tên riêng"
+  },
+  {
+    "en": "Underling",
+    "vi": "Đàn em",
+    "status": "reviewed-dot024",
+    "note": "Nhãn vai trò kẻ địch"
+  },
+  {
+    "en": "Jenny",
+    "vi": "Jenny",
+    "status": "reviewed-dot024",
+    "note": "Tên NPC Acolyte Guild"
+  },
+  {
+    "en": "Priest's Spirit",
+    "vi": "Priest's Spirit",
+    "status": "reviewed-dot024",
+    "note": "Item thưởng kỹ nghệ Priest"
+  },
+  {
+    "en": "El Mes Gorge - South",
+    "vi": "El Mes Gorge - South",
+    "status": "reviewed-dot024",
+    "note": "Tên địa danh"
   }
 ]
