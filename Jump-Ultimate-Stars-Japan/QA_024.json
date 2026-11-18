@@ -1,0 +1,29 @@
+{
+  "game": "Jump Ultimate Stars (Japan) AJUJ",
+  "checkpoint": "024",
+  "date": "2026-11-18",
+  "total_rows": 34919,
+  "translated_rows": 15033,
+  "pending_rows": 19886,
+  "prior_023_translated": 14394,
+  "new_024_rows": 639,
+  "changed": {
+    "05-thu-vien-nhan-vat-007.jsonl": "641–957 (317 new; file complete)",
+    "05-thu-vien-nhan-vat-008.jsonl": "0–321 (322 new)"
+  },
+  "source_ja_modified": 0,
+  "previous_translations_modified": 0,
+  "duplicate_ids": 0,
+  "control_tag_errors": 0,
+  "printf_placeholder_errors": 0,
+  "unicode_nfc_errors": 0,
+  "static_source_checker": "tools/check_translations.py --source source_translation --translation translation",
+  "source_checker_errors": 0,
+  "long_unicode_strings_gt37": 5859,
+  "glossary_terms": 1467,
+  "new_glossary_terms": 16,
+  "font_pixel_QA": "not_done",
+  "ROM_insertion": "not_done",
+  "gameplay_QA": "not_done",
+  "note": "Bản dịch từ nguồn Nhật, giữ tên/Item/Skill/thuật ngữ chính. QA tĩnh không chứng minh text vừa khung, chính xác ngữ nghĩa hoặc ROM chạy được."
+}
