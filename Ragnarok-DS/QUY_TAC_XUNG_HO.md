@@ -369,3 +369,19 @@ Giữ mã `<C3000>` bất thường ở index 80, 163, 180, 183, 300 của file 
 - **Tên động `<CFFF8>`** chỉ thành viên chưa xác định, không tự gán danh tính hay giới tính.
 - **Bất thường:** `<C3000>` giữa câu ở index 350 của file 019 phải được giữ nguyên; chưa kiểm thử font và khung chữ NDS.
 
+
+
+## Đợt 022 — Bạn đồng hành, các Guild và Biger
+
+| NPC / quan hệ | Ngôi xưng | Bối cảnh |
+|---|---|---|
+| Nhân vật chính ↔ thành viên động `<CFFF8>` | tôi/cậu | Không tự gán giới tính khi nguồn dùng he/his; tăng quan hệ `Buddy` giữ tên bậc bằng tiếng Anh |
+| Guild Worker tại Swordsman Guild | tôi/cậu | Kiếm để bảo vệ người thân, chỉ hai người đi West Prontera Woods |
+| Guild Worker tại Magician Guild | tôi/cậu | Tuần tra Geffen Bridge, không mang quá nhiều vũ khí, chỉ hai thành viên |
+| Thieves Guild Worker | tôi/cậu | Tự đùa nghề Thief “giải phóng kho báu”; giao thư nội bộ và đề cao niềm tin |
+| Guild Member (không có `<C3000>`) | tôi/cậu | Có thành viên nữ được người chơi tưởng là trẻ em; cô nhắc phải tôn trọng phụ nữ |
+| Guild Worker tại Acolyte Guild | tôi/cậu | Xử lý mùi hôi của Prontera Culvert, “vũ khí bí mật” dùng kẹp mũi |
+| Guild Worker tại Archer Guild | ta/cậu hoặc tôi/cậu | Nói ngắn, nhấn “...Đó là luật”, yêu cầu săn đúng 4 Peco Peco |
+| Biger, Merchant Guild | tôi/cậu | Chú trọng uy tín, thưởng thương vụ Juno; dọa người chơi rồi giả vờ lỡ lời |
+
+**Kỹ thuật:** Giữ nguyên vị trí `<C3000>` bất thường ở index 113. Không tự thêm `<C3000>` cho các nhãn `Guild Member` tại index 249–256. Ở index 460, trang kết thiếu `<CFFFD>` trong nguồn, nên bản Việt giữ nguyên cấu trúc. `<CFFF8>`/`<CFFFB>` không thay bằng tên cố định. Các dòng trong file mới đều có nội dung không quá 36 ký tự Unicode, chưa được thử với font và khung thoại NDS thật.
