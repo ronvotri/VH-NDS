@@ -50,3 +50,14 @@
 - Dòng **889–980**, `info/dn.bin`: có câu tự xưng **Misa** và nhắc **Light**; giữ tên tiếng Anh và sắc thái nói hơi làm nũng, không biến lời của nhân vật thành lời thuyết minh chung. Nhiều câu có `uses` lớn hơn 1 dùng chung giữa các `info` khác: tránh đổi ngôi quá đặc thù ở những dòng ấy.
 - `04-koma-chieu-thuc-001`, dòng **330–561**: phân biệt **tên nhân vật / tên Skill / furigana / mô tả cơ chế / lời trích manga**. Tên người, Skill, Item giữ tiếng Anh (đặt tên chưa chắc vào bảng `provisional_literal_jp_qa`); lời trích được dịch đúng sắc thái, chưa tự gán nguồn speaker nếu không có metadata xác minh.
 - Tuyệt đối không đọc cặp dòng văn bản tách ra như hai câu độc lập nếu chúng ghép thành một câu dài. Mỗi ID giữ đúng mảnh ý để màn hình nối lại tự nhiên.
+
+## Checkpoint 005 — Info Character và Naruto
+
+- `02-thoai-tro-giup-001`, dòng 981–1088 (`info/ds`): lịch thiệp, tươi vui, có lối nói kéo đuôi; dùng **cậu**, chỉ tự xưng khi câu gốc có căn cứ. `先生` tại dòng 1020 dịch trung tính **người hướng dẫn**, **không suy ra danh tính**.
+- Dòng 1089–1156 (chủ yếu `info/es`): hướng dẫn điềm tĩnh; dùng **mình – cậu** khi có chủ ngữ và phù hợp.
+- Dòng 1157–1275 (chủ yếu `info/gt`): người nói cứng cỏi, khẩu ngữ kiểu lớn tuổi; lời mời và mệnh lệnh gần gũi, tránh tự xác quyết giới tính/người nói từ tên tệp.
+- Dòng 1276–1371 (chủ yếu `info/hh`): giọng khẩu ngữ, quả quyết, có nhịp riêng, tránh gán danh tính.
+- Dòng 1372–1447 (chủ yếu `info/hk`): hướng dẫn dịu, rõ ràng. Dòng 1443 là **mảnh câu** dùng chung, cần đối chiếu bản hiển thị.
+- `04-koma-chieu-thuc-001`, dòng 562–703: giới thiệu Naruto Uzumaki, Sasuke Uchiha, Sakura Haruno, Kakashi Hatake và Nine-Tails Naruto. Tên người/Skill dùng Anh hoặc phiên âm chuẩn; riêng một số tên thuật do game đặt được đánh dấu **provisional_literal_jp_qa** trong `THUAT_NGU.json`.
+- Câu trích manga không đương nhiên do nhân vật đang được giới thiệu phát ngôn. Chỉ suy giọng từ ngữ pháp Nhật rõ ràng; **không khóa speaker_id** khi chưa kiểm tra Koma/nguồn manga.
+- `すれちがい通信` của NDS **không phải StreetPass 3DS**; diễn đạt là kết nối/trao đổi dữ liệu khi đi ngang nhau.
