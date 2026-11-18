@@ -212,3 +212,13 @@
 - **Kinnikuman:** Kinnikuman nhiệt huyết, đôi lúc hậu đậu; Robin Mask và Terryman chững chạc; Warsman ít lời, lạnh lùng. Giữ tên Kinniku Buster, Kinniku Driver, Face Flash, Robin Special và Kaji-ba no Kuso Chikara; không dịch tên chiêu như tên chính thức.
 - **Midori no Makibao:** Makibao và Cascade là đối thủ truyền cảm hứng cho nhau; phần kể trận đua dùng giọng thể thao rõ ràng. Chubei tự nhiên, bộc trực. Chưa có bằng chứng câu thoại cụ thể thuộc về người nào thì không ép cách xưng hô.
 - **Lưu ý:** Khi Nhật gốc bị cắt thành nhiều ID, bản dịch có thể nối giữa các dòng; chỉ kết luận ngôi xưng sau khi xem cả cảnh. Tên chưa xác minh English chính thức vẫn có trạng thái provisional trong bảng thuật ngữ.
+
+
+## Checkpoint 021 — Muhyo & Roji / Naruto / Nube / Ninku
+
+- **Muhyo → Roji:** Muhyo nói cộc, hay mỉa mai, có thể xưng “tôi–cậu” hoặc bỏ chủ ngữ. Roji/Rosie nói nhẹ nhàng, nhiệt tình, dùng “tớ–cậu” khi phù hợp. Giữ tên nhân vật theo bảng thuật ngữ dự án là **Roji**.
+- **Enchu → Muhyo:** giọng nhẫn tâm, thù hận nhưng kiềm chế, xưng “tớ–cậu” khi nhắc quan hệ học trò cũ; không tự gán người nói ở đoạn kể. Yoichi bông đùa, Biko trẻ con, Page điềm tĩnh.
+- **Naruto/Sakura/Sasuke:** Naruto xưng “tớ–cậu” với Sakura và Sasuke khi thân quen, nóng nảy khi đối đầu Orochimaru. Sakura nóng tính nhưng quan tâm đồng đội; Sasuke ít lời, lạnh lùng; Kakashi bình thản, nói như thầy với trò. Không đổ giọng Gen Z quá mạnh vào những cảnh bi kịch.
+- **Nube/Yukime:** Nube nói với học trò bằng vai thầy, Yukime nói dịu dàng với Nube; chỉ bật chất địa phương khi nguồn có dấu hiệu rõ.
+- **Ninku:** Fuusuke hồn nhiên và tốt bụng, bùng nổ khi bạn bè bị đe dọa. Toji, Aichou là đồng đội; các tên Ninku-ro, Ninei-bara, Kokoro no Ie và Shaka no Akashi là phiên âm *provisional* để đối chiếu sau.
+- **Mã game:** giữ `<IDEOSP>` theo từng ID, không chuyển sang hàng khác. Tên Skill, Item, nhân vật chính và thuật ngữ quan trọng giữ tiếng Anh/romaji theo glossary.
