@@ -1,14 +1,17 @@
-# Jump Ultimate Stars (Japan) – Checkpoint 024
+# Jump Ultimate Stars (Japan) — Checkpoint 025
 
-Đã dịch **15.033/34.919 chuỗi (43.05%)**; mới **639** câu so với CP023, còn 19.886 câu.
+**Đã dịch: 15.666 / 34.919 chuỗi (44,86%).** Thêm 633 câu, còn 19.253.
 
-- `05-thu-vien-nhan-vat-007.jsonl`: **317 câu** (dòng 641–957), hoàn thành file; Shaman King và Saint Seiya.
-- `05-thu-vien-nhan-vat-008.jsonl`: **322 câu** (dòng 0–321); Saint Seiya tiếp nối, Tar-chan, Lucky Man, Prince of Tennis.
-- `translation/`: **30 file nguồn JSONL đầy đủ**, nguyên `id` và `ja`; dòng chưa dịch `vi=null`.
-- `BAN_DICH_024.jsonl`: 639 dòng mới. `BAN_DICH_TONG_HOP_001-024.jsonl`: 15.033 dòng hợp nhất.
-- `THUAT_NGU.json`: 1467 thuật ngữ, 16 mục mới. `XUNG_HO_NHAN_VAT.md`: hồ sơ giọng nhân vật.
-- `QA_024.json` và `CAU_DAI_CAN_SOI_024.tsv`: QA cấu trúc và danh sách kiểm tra độ dài.
-- Kiểm tra **toàn bộ 34.919 ID** bằng `tools/check_translations.py` so với nguồn CP023: **0 lỗi**. Giữ nguyên 14.394 câu cũ.
-- Checkpoint 025 tiếp từ `05-thu-vien-nhan-vat-008.jsonl` dòng 322: Inui Sadaharu (Prince of Tennis).
+- Hoàn thành **05-thu-vien-nhan-vat-008.jsonl**: 633 dòng 322–954, từ Inui/Atobe (Prince of Tennis), Reborn!, Taizo Mote King Saga, Yu Yu Hakusho tới Yu-Gi-Oh!.
+- **Trong ZIP bàn giao**, `translation/` chứa 30 file JSONL đầy đủ, cùng ID/tiếng Nhật với CP024; dòng chưa dịch `vi=null`. **Trên GitHub**, lưu bản dịch mới và file hợp nhất có ID; không tải toàn bộ 30 file vào nhánh.
+- `BAN_DICH_025.jsonl`: 633 dòng mới có file, row_index, id, ja, vi.
+- `BAN_DICH_TONG_HOP_001-025.jsonl`: 15.666 dòng hợp nhất.
+- `THUAT_NGU.json`: 1481 thuật ngữ; tên phiên âm chưa kiểm chứng vẫn được đánh dấu provisional.
+- `XUNG_HO_NHAN_VAT.md`: bổ sung quy tắc giọng cho các bộ mới.
+- `QA_025.json`: so sánh với checkpoint 024, **0 lỗi ID, token, nguồn Nhật, placeholder, Unicode**; không ghi đè 15.033 câu cũ.
+- `CAU_DAI_CAN_SOI_025.tsv`: 6212 câu dài hơn 37 ký tự Unicode; chưa phải đo theo pixel.
+- Một số ký tự Nhật ở đoạn Ma giới và Poison Cooking chưa giải mã ngữ nghĩa hoàn toàn; được đánh dấu trong hồ sơ xưng hô, không đoán tên.
 
-**Chưa có font Việt, chưa chèn ROM, chưa kiểm tra độ rộng pixel hay gameplay; ZIP không phải ROM/patch chơi được.**
+**Chưa có font Việt, chưa chèn ROM và chưa QA gameplay. ZIP không phải patch chơi được.**
+
+Checkpoint 026 bắt đầu ở dòng **0** của `05-thu-vien-nhan-vat-009.jsonl`.
