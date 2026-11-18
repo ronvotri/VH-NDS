@@ -4684,5 +4684,2957 @@
     "vi": "Shinigami Rem",
     "status": "working_romanization_qa",
     "note": "CP012 04-koma-chieu-thuc-003.jsonl:295: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ニア",
+    "vi": "Near",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 301; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "二人の力",
+    "vi": "Futari no Chikara",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 302; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ふたりのちから",
+    "vi": "Futari no Chikara",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 303; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "思考",
+    "vi": "Shikou",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 304; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "しこう",
+    "vi": "Shikou",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 305; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "メロ",
+    "vi": "Mello",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 310; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "一か八か…",
+    "vi": "Ichi ka Bachi ka...",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 311; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "いちかばちか",
+    "vi": "Ichi ka Bachi ka",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 312; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "死神シドウ",
+    "vi": "Shinigami Sidoh",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 313; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "しにがみしどう",
+    "vi": "Shinigami Sidoh",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 314; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "東城綾",
+    "vi": "Aya Tojo",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 319; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ご、ごめんなさい",
+    "vi": "G-Gomen nasai",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 320; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ご<IDEOSP>ごめんなさい",
+    "vi": "G<IDEOSP>Gomen nasai",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 321; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "いちごのパンツ",
+    "vi": "Ichigo no Pantsu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 322; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "いちごのぱんつ",
+    "vi": "Ichigo no Pantsu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 323; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "西野つかさ",
+    "vi": "Tsukasa Nishino",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 328; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ストラ～～イク！！！",
+    "vi": "Strike!!!",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 329; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "すとら～～いく",
+    "vi": "Strike",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 330; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "何やってんのよアンタたち！！",
+    "vi": "Nani Yatten no yo Antatachi!!",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 331; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "なにやってんのよあんたたち",
+    "vi": "Nani Yatten no yo Antatachi",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 332; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "北大路さつき",
+    "vi": "Satsuki Kitaoji",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 337; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "チェルシーエンジェルでーす！",
+    "vi": "Chelsea Angel desu!",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 338; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ちぇるしーえんじぇるでーす",
+    "vi": "Chelsea Angel desu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 339; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "勘違い",
+    "vi": "Kanchigai",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 340; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "かんちがい",
+    "vi": "Kanchigai",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 341; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "南戸唯",
+    "vi": "Yui Minamito",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 346; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "マスタード発射",
+    "vi": "Mustard Hassha",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 347; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ますたーどはっしゃ",
+    "vi": "Mustard Hassha",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 348; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "うわーん",
+    "vi": "Uwaaan",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 349; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "銀の幕",
+    "vi": "Gin no Maku",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 354; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ぎんのまく",
+    "vi": "Gin no Maku",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 355; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "銀の鎧",
+    "vi": "Gin no Yoroi",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 356; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ぎんのよろい",
+    "vi": "Gin no Yoroi",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 357; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "草野次郎（ロージー）",
+    "vi": "Jiro Kusano (Roji)",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 362; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "直式<IDEOSP>魔縛りの術",
+    "vi": "Jikashiki<IDEOSP>Mashibari no Jutsu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 363; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "じかしき<IDEOSP>ましばりのじゅつ",
+    "vi": "Jikashiki<IDEOSP>Mashibari no Jutsu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 364; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "五連の破魔の術",
+    "vi": "Goren no Hama no Jutsu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 365; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ごれんのはまのじゅつ",
+    "vi": "Goren no Hama no Jutsu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 366; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "円宙継（エンチュー）",
+    "vi": "Tsuguha Enchu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 371; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "悪霊化",
+    "vi": "Akuryoka",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 372; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "あくりょうか",
+    "vi": "Akuryoka",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 373; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "怨霊召喚",
+    "vi": "Onryo Shokan",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 374; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "おんりょうしょうかん",
+    "vi": "Onryo Shokan",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 375; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "火向洋一（ヨイチ）",
+    "vi": "Yoichi Himukai",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 380; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "封魔格子の陣",
+    "vi": "Fuma Koshi no Jin",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 381; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ふうまこうしのじん",
+    "vi": "Fuma Koshi no Jin",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 382; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "六方霊化結界の陣",
+    "vi": "Roppo Reika Kekkai no Jin",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 383; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ろっぽうれいかけっかいのじん",
+    "vi": "Roppo Reika Kekkai no Jin",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 384; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "我孫子優（ビコ）",
+    "vi": "Yu Abiko (Biko)",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 389; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "魔具師のビコ",
+    "vi": "Magushi no Biko",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 390; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "まぐしのびこ",
+    "vi": "Magushi no Biko",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 391; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "秘薬<IDEOSP>煉根湯",
+    "vi": "Hiyaku<IDEOSP>Renkonto",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 392; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ひやく<IDEOSP>れんこんとう",
+    "vi": "Hiyaku<IDEOSP>Renkonto",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 393; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "虚栄の兜",
+    "vi": "Evil Full Face",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 398; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "いびるふるふぇいす",
+    "vi": "Evil Full Face",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 399; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "毒入り消毒液",
+    "vi": "Evil Canceller",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 400; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "いびるきゃんせらー",
+    "vi": "Evil Canceller",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 401; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "北斗鋼筋分断脚",
+    "vi": "Hokuto Gokin Bundan Kyaku",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 406; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ほくとごうきんぶんだんきゃく",
+    "vi": "Hokuto Gokin Bundan Kyaku",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 407; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "トキ",
+    "vi": "Toki",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 410; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "秘孔・刹活孔",
+    "vi": "Hikou Sekkatsukou",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 411; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ひこう<IDEOSP>せっかつこう",
+    "vi": "Hikou<IDEOSP>Sekkatsukou",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 412; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "天翔百裂拳",
+    "vi": "Tensho Hyakuretsuken",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 413; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "てんしょうひゃくれつけん",
+    "vi": "Tensho Hyakuretsuken",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 414; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "レイ",
+    "vi": "Rei",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 419; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "南斗水鳥拳・飛燕流舞",
+    "vi": "Nanto Suicho Ken Hien Ryubu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 420; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "なんとすいちょうけん<IDEOSP>ひえんりゅうぶ",
+    "vi": "Nanto Suicho Ken<IDEOSP>Hien Ryubu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 421; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "南斗水鳥拳奥義・飛翔白麗",
+    "vi": "Nanto Suicho Ken Ougi Hisho Hakurei",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 422; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "なんとすいちょうけんおうぎ<IDEOSP>ひしょうはくれい",
+    "vi": "Nanto Suicho Ken Ougi<IDEOSP>Hisho Hakurei",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 423; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "女神の盾",
+    "vi": "Athena no Tate",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 428; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "あてなのたて",
+    "vi": "Athena no Tate",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 429; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "空中ペガサス流星拳",
+    "vi": "Kuchu Pegasus Ryuseiken",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 430; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "くうちゅうぺがさすりゅうせいけん",
+    "vi": "Kuchu Pegasus Ryuseiken",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 431; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ドラゴン紫龍",
+    "vi": "Dragon Shiryu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 436; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "廬山昇龍覇",
+    "vi": "Rozan Shoryuha",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 437; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ろざんしょうりゅうは",
+    "vi": "Rozan Shoryuha",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 438; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "廬山亢龍覇",
+    "vi": "Rozan Koryuha",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 439; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ろざんこうりゅうは",
+    "vi": "Rozan Koryuha",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 440; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "キグナス氷河",
+    "vi": "Cygnus Hyoga",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 445; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ダイヤモンドダスト",
+    "vi": "Diamond Dust",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 446; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "だいやもんどだすと",
+    "vi": "Diamond Dust",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 447; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "オーロラエクスキューション",
+    "vi": "Aurora Execution",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 448; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "おーろらえくすきゅーしょん",
+    "vi": "Aurora Execution",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 449; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "アンドロメダ瞬",
+    "vi": "Andromeda Shun",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 454; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ローリングディフェンス",
+    "vi": "Rolling Defense",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 455; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ろーりんぐでぃふぇんす",
+    "vi": "Rolling Defense",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 456; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ネビュラストリーム",
+    "vi": "Nebula Stream",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 457; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ねびゅらすとりーむ",
+    "vi": "Nebula Stream",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 458; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "フェニックス一輝",
+    "vi": "Phoenix Ikki",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 463; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "鳳凰幻魔拳",
+    "vi": "Ho-o Genmaken",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 464; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ほうおうげんまけん",
+    "vi": "Ho-o Genmaken",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 465; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "鳳翼天翔",
+    "vi": "Hoyoku Tensho",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 466; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ほうよくてんしょう",
+    "vi": "Hoyoku Tensho",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 467; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "キン肉フラッシュ",
+    "vi": "Kinniku Flash",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 472; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "きんにくふらっしゅ",
+    "vi": "Kinniku Flash",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 473; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ホワイトホール",
+    "vi": "White Hole",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 474; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ほわいとほーる",
+    "vi": "White Hole",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 475; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "テリーマン",
+    "vi": "Terryman",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 480; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "かえしますよ！",
+    "vi": "Kaeshimasu yo!",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 481; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "かえしますよ",
+    "vi": "Kaeshimasu yo",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 482; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "テキサス・コンドル・キック",
+    "vi": "Texas Condor Kick",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 483; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "てきさす<IDEOSP>こんどる<IDEOSP>きっく",
+    "vi": "Texas<IDEOSP>Condor<IDEOSP>Kick",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 484; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ロビンマスク",
+    "vi": "Robin Mask",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 488; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ユニコーンヘッド",
+    "vi": "Unicorn Head",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 489; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ゆにこーんへっど",
+    "vi": "Unicorn Head",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 490; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ロビンスペシャル",
+    "vi": "Robin Special",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 491; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ろびんすぺしゃる",
+    "vi": "Robin Special",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 492; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ウォーズマン",
+    "vi": "Warsman",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 497; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "スクリュードライバー",
+    "vi": "Screw Driver",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 498; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "すくりゅーどらいばー",
+    "vi": "Screw Driver",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 499; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "１２００万パワーの光の矢",
+    "vi": "Arrow of Light: 12 Million Power",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 500; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "いっせんにひゃくまんぱわーのひかりのや",
+    "vi": "Arrow of Light: 12 Million Power",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 501; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ラーメンマン",
+    "vi": "Ramenman",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 506; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "レッグラリアート",
+    "vi": "Leg Lariat",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 507; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "れっぐらりあーと",
+    "vi": "Leg Lariat",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 508; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "九龍城落地",
+    "vi": "Kowloon Castle Drop",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 509; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "がうろんせんどろっぷ",
+    "vi": "Kowloon Castle Drop",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 510; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ブロッケンＪｒ",
+    "vi": "Brocken Jr.",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 515; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ベルリンの赤い雨",
+    "vi": "Berlin no Akai Ame",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 516; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "べるりんのあかいあめ",
+    "vi": "Berlin no Akai Ame",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 517; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ハンブルグの黒い霧",
+    "vi": "Hamburg no Kuroi Kiri",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 518; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "はんぶるぐのくろいきり",
+    "vi": "Hamburg no Kuroi Kiri",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 519; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "バッファローマン",
+    "vi": "Buffaloman",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 524; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ハリケーンミキサー",
+    "vi": "Hurricane Mixer",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 525; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "はりけーんみきさー",
+    "vi": "Hurricane Mixer",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 526; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ハリケーン・ヒート",
+    "vi": "Hurricane Heat",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 527; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "はりけーん<IDEOSP>ひーと",
+    "vi": "Hurricane<IDEOSP>Heat",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 528; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "アシュラマン",
+    "vi": "Ashuraman",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 533; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "竜巻地獄",
+    "vi": "Tatsumaki Jigoku",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 534; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "たつまきじごく",
+    "vi": "Tatsumaki Jigoku",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 535; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "阿修羅稲綱落とし",
+    "vi": "Ashura Izuna Otoshi",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 536; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "あしゅらいづなおとし",
+    "vi": "Ashura Izuna Otoshi",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 537; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "翔穹操弾",
+    "vi": "Shokyu Sodan",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 542; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "しょうきゅうそうだん",
+    "vi": "Shokyu Sodan",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 543; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "心眼剣一之太刀",
+    "vi": "Shingan Ken Ichi no Tachi",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 544; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "しんがんけんいちのたち",
+    "vi": "Shingan Ken Ichi no Tachi",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 545; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "大豪院邪鬼",
+    "vi": "Jaki Daigoin",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 550; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "大豪院流奥義<IDEOSP>風舞殃乱鶴",
+    "vi": "Daigoin-ryu Ougi<IDEOSP>Fubu Orankaku",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 551; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "だいごういんりゅうおうぎ<IDEOSP>ふうぶおうらんかく",
+    "vi": "Daigoin-ryu Ougi<IDEOSP>Fubu Orankaku",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 552; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "大豪院流奥義<IDEOSP>真空殲風衝",
+    "vi": "Daigoin-ryu Ougi<IDEOSP>Shinku Senpusho",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 553; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "だいごういんりゅうおうぎ<IDEOSP>しんくうせんぷうしょう",
+    "vi": "Daigoin-ryu Ougi<IDEOSP>Shinku Senpusho",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 554; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "伊達",
+    "vi": "Omito Date",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 559; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "覇極流槍術奥義<IDEOSP>渦龍天樓嵐",
+    "vi": "Hakyokuryu Sojutsu Ougi<IDEOSP>Karyu Tenroran",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 560; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "はきょくりゅうそうじゅつおうぎ<IDEOSP>かりゅうてんろうらん",
+    "vi": "Hakyokuryu Sojutsu Ougi<IDEOSP>Karyu Tenroran",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 561; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "覇極流奥義<IDEOSP>千峰塵",
+    "vi": "Hakyokuryu Ougi<IDEOSP>Chihojin",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 562; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "はきょくりゅうおうぎ<IDEOSP>ちほうじん",
+    "vi": "Hakyokuryu Ougi<IDEOSP>Chihojin",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 563; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "飛燕",
+    "vi": "Hien",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 568; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "鶴嘴千本<IDEOSP>断神節",
+    "vi": "Kakushi Senbon<IDEOSP>Danshinsetsu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 569; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "かくしせんぼん<IDEOSP>だんしんせつ",
+    "vi": "Kakushi Senbon<IDEOSP>Danshinsetsu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 570; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "鳥人拳<IDEOSP>鷹爪殺",
+    "vi": "Chojinken<IDEOSP>Yososatsu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 571; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ちょうじんけん<IDEOSP>ようそうさつ",
+    "vi": "Chojinken<IDEOSP>Yososatsu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 572; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "Ｊ",
+    "vi": "J",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 577; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "Ｆ・Ｃ・Ｍ・Ｐ",
+    "vi": "F.C.M.P",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 578; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ふらいんぐ<IDEOSP>くらっしゅ<IDEOSP>めがとん<IDEOSP>ぱんち",
+    "vi": "Flying<IDEOSP>Crash<IDEOSP>Megaton<IDEOSP>Punch",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 579; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "Ｆ・Ｐ・Ｍ・Ｐ",
+    "vi": "F.P.M.P",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 580; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ふらっしゅ<IDEOSP>ぴすとん<IDEOSP>まっは<IDEOSP>ぱんち",
+    "vi": "Flash<IDEOSP>Piston<IDEOSP>Mach<IDEOSP>Punch",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 581; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "大空翼",
+    "vi": "Tsubasa Ozora",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 586; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ドライブシュート",
+    "vi": "Drive Shot",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 587; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "どらいぶしゅーと",
+    "vi": "Drive Shot",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 588; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ツインシュート",
+    "vi": "Twin Shot",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 589; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ついんしゅーと",
+    "vi": "Twin Shot",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 590; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "若林源三",
+    "vi": "Genzo Wakabayashi",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 595; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "鉄壁の守り",
+    "vi": "Teppeki no Mamori",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 596; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "てっぺきのまもり",
+    "vi": "Teppeki no Mamori",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 597; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "Ｇ．Ｓ．Ｇ．Ｋ",
+    "vi": "G.S.G.K",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 598; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ぐれーと<IDEOSP>すーぱー<IDEOSP>ごーる<IDEOSP>きーぱー",
+    "vi": "Great<IDEOSP>Super<IDEOSP>Goal<IDEOSP>Keeper",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 599; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "日向小次郎",
+    "vi": "Kojiro Hyuga",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 604; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "直線的ドリブル",
+    "vi": "Chokusenteki Dribble",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 605; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ちょくせんてきどりぶる",
+    "vi": "Chokusenteki Dribble",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 606; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ネオ・タイガーショット",
+    "vi": "Neo Tiger Shot",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 607; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ねお<IDEOSP>たいがーしょっと",
+    "vi": "Neo<IDEOSP>Tiger Shot",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 608; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "太極図",
+    "vi": "Taikyokuzu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 613; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "たいきょくず",
+    "vi": "Taikyokuzu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 614; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "復活の玉",
+    "vi": "Fukkatsu no Tama",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 615; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ふっかつのたま",
+    "vi": "Fukkatsu no Tama",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 616; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "蘇妲己（そだっき）",
+    "vi": "Dakki So",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 621; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "五火七禽扇",
+    "vi": "Goka Shichikin Ogi",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 622; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ごかしちきんおう",
+    "vi": "Goka Shichikin Ogi",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 623; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "誘惑の術",
+    "vi": "Temptation",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 624; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "てんぷてーしょん",
+    "vi": "Temptation",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 625; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "前田太尊",
+    "vi": "Taison Maeda",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 630; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "暴走チャべス号",
+    "vi": "Boso Chavez-go",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 631; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ぼうそうちゃべすごう",
+    "vi": "Boso Chavez-go",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 632; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "東京四天王前田太尊",
+    "vi": "Tokyo Shitenno Maeda Taison",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 633; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "とうきょうしてんのうまえだたいそん",
+    "vi": "Tokyo Shitenno Maeda Taison",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 634; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ターちゃん",
+    "vi": "Tar-chan",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 639; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "動物パワーまんたん",
+    "vi": "Dobutsu Power Manten",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 640; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "どうぶつぱわーまんたん",
+    "vi": "Dobutsu Power Manten",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 641; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "動物ラッシュ",
+    "vi": "Dobutsu Rush",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 642; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "どうぶつらっしゅ",
+    "vi": "Dobutsu Rush",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 643; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ミドリマキバオー",
+    "vi": "Midori Makibao",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 648; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "うんこたれ蔵",
+    "vi": "Unko Tarezo",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 649; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "うんこたれぞう",
+    "vi": "Unko Tarezo",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 650; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "白い奇跡「ミドリマキバオー」",
+    "vi": "Shiroi Kiseki Midori Makibao",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 651; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "しろいきせき<IDEOSP>みどりまきばおー",
+    "vi": "Shiroi Kiseki<IDEOSP>Midori Makibao",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 652; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "カスケード",
+    "vi": "Cascade",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 657; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "漆黒の帝王「カスケード」",
+    "vi": "Shikkoku no Teio Cascade",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 658; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "しっこくのていおう<IDEOSP>かすけーど",
+    "vi": "Shikkoku no Teio<IDEOSP>Cascade",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 659; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "黒い烈風「カスケード」",
+    "vi": "Kuroi Reppu Cascade",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 660; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "くろいれっぷう<IDEOSP>かすけーど",
+    "vi": "Kuroi Reppu<IDEOSP>Cascade",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 661; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "葦月伊織",
+    "vi": "Iori Yoshizuki",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 666; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "あのぉ…コレ",
+    "vi": "Ano... Kore",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 667; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "あのぉ<IDEOSP>これ",
+    "vi": "Ano<IDEOSP>Kore",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 668; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "味…どうかな",
+    "vi": "Aji... Do kana",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 669; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "あじ<IDEOSP>どうかな",
+    "vi": "Aji<IDEOSP>Do kana",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 670; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "秋葉いつき",
+    "vi": "Itsuki Akiba",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 675; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "わっ",
+    "vi": "Wa!",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 676; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "バッ",
+    "vi": "Ba!",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 677; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ばっ",
+    "vi": "Ba",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 678; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "鵺野鳴介",
+    "vi": "Meisuke Nueno",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 683; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "白衣霊縛呪",
+    "vi": "Byakue Reibakuju",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 684; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "びゃくえれいばくじゅ",
+    "vi": "Byakue Reibakuju",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 685; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "鬼の手",
+    "vi": "Oni no Te",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 686; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "おにのて",
+    "vi": "Oni no Te",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 687; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "雪女",
+    "vi": "Yukime",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 692; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "つめたい息",
+    "vi": "Tsumetai Iki",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 693; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "つめたいいき",
+    "vi": "Tsumetai Iki",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 694; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "吹雪",
+    "vi": "Fubuki",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 695; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ふぶき",
+    "vi": "Fubuki",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 696; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "コブラ",
+    "vi": "Cobra",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 701; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "アーティフィシャル・アーム",
+    "vi": "Artificial Arm",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 702; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "あーてぃふぃしゃる<IDEOSP>あーむ",
+    "vi": "Artificial<IDEOSP>Arm",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 703; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "サイコガン",
+    "vi": "Psychogun",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 704; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "さいこがん",
+    "vi": "Psychogun",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 705; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "クリスタル・ボーイ",
+    "vi": "Crystal Boy",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 710; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "フックアーム",
+    "vi": "Hook Arm",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 711; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ふっくあーむ",
+    "vi": "Hook Arm",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 712; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "結晶化",
+    "vi": "Crystallize",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 713; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "くりすたらいず",
+    "vi": "Crystallize",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 714; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "アーマロイド・レディ",
+    "vi": "Armaroid Lady",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 719; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ムダよ",
+    "vi": "Muda yo",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 720; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "むだよ",
+    "vi": "Muda yo",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 721; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "スーパーブラスター",
+    "vi": "Super Blaster",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 722; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "すーぱーぶらすたー",
+    "vi": "Super Blaster",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 723; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "百手太臓",
+    "vi": "Taizo Moteo",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 728; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "緊急開門",
+    "vi": "Kinkyu Kaimon",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 729; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "きんきゅうかいもん",
+    "vi": "Kinkyu Kaimon",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 730; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "コウミ召喚",
+    "vi": "Koumi Shokan",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 731; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "こうみしょうかん",
+    "vi": "Koumi Shokan",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 732; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "スピン",
+    "vi": "Spin",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 737; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "騙し討ちメガビーム",
+    "vi": "Damashiuchi Mega Beam",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 738; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "だましうちめがびーむ",
+    "vi": "Damashiuchi Mega Beam",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 739; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "スピンコンボ",
+    "vi": "Spin Combo",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 740; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "すぴんこんぼ",
+    "vi": "Spin Combo",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 741; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "忍葉眠の術",
+    "vi": "Ninyo Min no Jutsu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 746; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "にんようみんのじゅつ",
+    "vi": "Ninyo Min no Jutsu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 747; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "空受折",
+    "vi": "Kujusetsu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 748; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "くうじゅせつ",
+    "vi": "Kujusetsu",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 749; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ラッキーマン",
+    "vi": "Luckyman",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 754; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ラッキーパンチ",
+    "vi": "Lucky Punch",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 755; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "らっきーぱんち",
+    "vi": "Lucky Punch",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 756; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ラッキー・クッキー・無敵ー",
+    "vi": "Lucky Cookie Muteki",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 757; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "らっきー<IDEOSP>くっきー<IDEOSP>むてきー",
+    "vi": "Lucky<IDEOSP>Cookie<IDEOSP>Muteki",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 758; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "スーパースターマン",
+    "vi": "Super Starman",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 763; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "スーパースターカッター",
+    "vi": "Super Star Cutter",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 764; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "すーぱーすたーかったー",
+    "vi": "Super Star Cutter",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 765; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "目立ちたい！！",
+    "vi": "Medachitai!!",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 766; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "めだちたい",
+    "vi": "Medachitai",
+    "status": "working_romanization_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 767; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "セナ",
+    "vi": "Sena",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 772; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ヒル魔",
+    "vi": "Hiruma",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 773; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "栗田",
+    "vi": "Kurita",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 774; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "モン太",
+    "vi": "Monta",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 775; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ムサシ",
+    "vi": "Musashi",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 776; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ハァハァ３兄弟",
+    "vi": "Ha-Ha Brothers",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 777; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "まもり",
+    "vi": "Mamori",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 778; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "鈴音",
+    "vi": "Suzuna",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 779; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "小結",
+    "vi": "Komusubi",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 780; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "桜庭",
+    "vi": "Sakuraba",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 781; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "瀧",
+    "vi": "Taki",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 782; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "どぶろく先生",
+    "vi": "Coach Doburoku",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 783; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "雪光",
+    "vi": "Yukimitsu",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 784; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "石丸",
+    "vi": "Ishimaru",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 785; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "伊織",
+    "vi": "Iori",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 786; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "いつき",
+    "vi": "Itsuki",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 787; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "一貴",
+    "vi": "Ichitaka",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 788; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "磯崎泉",
+    "vi": "Izumi Isozaki",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 789; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "東城",
+    "vi": "Tojo",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 790; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "西野",
+    "vi": "Nishino",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 791; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "さつき",
+    "vi": "Satsuki",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 792; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "唯",
+    "vi": "Yui",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 793; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "美鈴",
+    "vi": "Misuzu",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 794; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "真中",
+    "vi": "Manaka",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 795; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "外村",
+    "vi": "Sotomura",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 796; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "山本",
+    "vi": "Yamamoto",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 797; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "獄寺",
+    "vi": "Gokudera",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 798; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ヒバリ",
+    "vi": "Hibari",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 799; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "京子",
+    "vi": "Kyoko",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 800; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ハル",
+    "vi": "Haru",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 801; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "レオン",
+    "vi": "Leon",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 802; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ゴールデンコンビ",
+    "vi": "Golden Duo",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 803; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ロベルト本郷",
+    "vi": "Roberto Hongo",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 804; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "中沢早苗",
+    "vi": "Sanae Nakazawa",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 805; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "銀さん",
+    "vi": "Gin-san",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 806; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "新八",
+    "vi": "Shinpachi",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 807; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ヅラ",
+    "vi": "Zura",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 808; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ヅラ／エリザベス",
+    "vi": "Zura / Elizabeth",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 809; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "さっちゃん",
+    "vi": "Sacchan",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 810; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "近藤",
+    "vi": "Kondo",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 811; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "土方",
+    "vi": "Hijikata",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 812; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "沖田",
+    "vi": "Okita",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 813; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "お登勢",
+    "vi": "Otose",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 814; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "お妙",
+    "vi": "Otae",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 815; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "長谷川",
+    "vi": "Hasegawa",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 816; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "山崎",
+    "vi": "Yamazaki",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 817; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "定春",
+    "vi": "Sadaharu",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 818; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "モンゴルマン",
+    "vi": "Mongolman",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 819; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ブロッケンＪｒ．",
+    "vi": "Brocken Jr.",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 820; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ミートくん",
+    "vi": "Meat",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 821; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "キン肉大王",
+    "vi": "King Muscle",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 822; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "両さん",
+    "vi": "Ryo-san",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 823; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "大原部長",
+    "vi": "Chief Ohara",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 824; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "中川",
+    "vi": "Nakagawa",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 825; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "麗子",
+    "vi": "Reiko",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 826; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "日暮",
+    "vi": "Higurashi",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 827; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ボルボ",
+    "vi": "Volvo",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 828; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "左近寺",
+    "vi": "Sakonji",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 829; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "海パン刑事",
+    "vi": "Swimsuit Detective",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 830; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "特殊刑事",
+    "vi": "Special Detective",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 831; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "纏",
+    "vi": "Matoi",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 832; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "マリア",
+    "vi": "Maria",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 833; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "寺井",
+    "vi": "Terai",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 834; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "早矢",
+    "vi": "Haya",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 835; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "檸檬",
+    "vi": "Lemon",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 836; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "クリスタルボーイ",
+    "vi": "Crystal Boy",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 837; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "レディ",
+    "vi": "Lady",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 838; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "桃",
+    "vi": "Momo",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 839; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "富樫",
+    "vi": "Togashi",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 840; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "虎丸",
+    "vi": "Toramaru",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 841; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "雷電",
+    "vi": "Raiden",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 842; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "王大人",
+    "vi": "Wang Ta-ren",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 843; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ぬ～べ～",
+    "vi": "Nube",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 844; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ゆきめ",
+    "vi": "Yukime",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 845; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "広",
+    "vi": "Hiroshi",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 846; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "郷子",
+    "vi": "Kyoko",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 847; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "葉",
+    "vi": "Yoh",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 848; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "葉（白鵠）",
+    "vi": "Yoh (Byakko)",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 849; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "アンナ",
+    "vi": "Anna",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 850; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "道蓮",
+    "vi": "Ren Tao",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 851; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ホロホロ",
+    "vi": "Horohoro",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 852; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "まん太",
+    "vi": "Manta",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 853; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "阿弥陀丸",
+    "vi": "Amidamaru",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 854; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "チョコラブ",
+    "vi": "Chocolove",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 855; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ヂェーン",
+    "vi": "Jeanne",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 856; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "エテ吉",
+    "vi": "Etekichi",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 857; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "アナベベ",
+    "vi": "Anabebe",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 858; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "承太郎",
+    "vi": "Jotaro",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 859; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ＤＩＯ",
+    "vi": "DIO",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 860; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ジョナサン",
+    "vi": "Jonathan",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 861; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ジョセフ",
+    "vi": "Joseph",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 862; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "仗助",
+    "vi": "Josuke",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 863; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ジョルノ",
+    "vi": "Giorno",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 864; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "徐倫",
+    "vi": "Jolyne",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 865; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ジャイロ",
+    "vi": "Gyro",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 866; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "露伴",
+    "vi": "Rohan",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 867; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ジョニィ",
+    "vi": "Johnny",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 868; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "赤木晴子",
+    "vi": "Haruko Akagi",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 869; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "安西先生",
+    "vi": "Coach Anzai",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 870; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "星矢",
+    "vi": "Seiya",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 871; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "星矢（黄金聖衣）",
+    "vi": "Seiya (Gold Cloth)",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 872; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "紫龍",
+    "vi": "Shiryu",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 873; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "氷河",
+    "vi": "Hyoga",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 874; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "瞬",
+    "vi": "Shun",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 875; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "一輝",
+    "vi": "Ikki",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 876; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "アテナ",
+    "vi": "Athena",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 877; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ムウ",
+    "vi": "Mu",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 878; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "太臓",
+    "vi": "Taizo",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 879; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "あいす",
+    "vi": "Aisu",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 880; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "リョーマ",
+    "vi": "Ryoma",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 881; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "手塚",
+    "vi": "Tezuka",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 882; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "不二",
+    "vi": "Fuji",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 883; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "大石／菊丸",
+    "vi": "Oishi / Kikumaru",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 884; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ゴールデンペア",
+    "vi": "Golden Pair",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 885; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "海堂",
+    "vi": "Kaido",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 886; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "河村",
+    "vi": "Kawamura",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 887; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "乾",
+    "vi": "Inui",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 888; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "跡部",
+    "vi": "Atobe",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 889; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "アレン",
+    "vi": "Allen",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 890; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "リナリー",
+    "vi": "Lenalee",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 891; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "神田",
+    "vi": "Kanda",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 892; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "リーバー",
+    "vi": "Reever",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 893; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "コムイ",
+    "vi": "Komui",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 894; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ミランダ",
+    "vi": "Miranda",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 895; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "クロス元帥",
+    "vi": "General Cross",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 896; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ライト／リューク",
+    "vi": "Light / Ryuk",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 897; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ミサ",
+    "vi": "Misa",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 898; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "アラレ",
+    "vi": "Arale",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 899; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ドクターマシリト",
+    "vi": "Dr. Mashirito",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 900; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "キャラメルマンＪ",
+    "vi": "Caramelman J",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 901; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ウンチくん",
+    "vi": "Unchi-kun",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 902; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "千兵衛",
+    "vi": "Senbei",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 903; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "みどり先生",
+    "vi": "Midori-sensei",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 904; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "オボッチャマン",
+    "vi": "Obotchaman",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 905; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "Ｓスターマン",
+    "vi": "Super Starman",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 906; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "努力マン",
+    "vi": "Doryokuman",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 907; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "悟空",
+    "vi": "Goku",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 908; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "超サイヤ人悟空",
+    "vi": "Super Saiyan Goku",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 909; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "べジータ",
+    "vi": "Vegeta",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 910; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "超べジータ",
+    "vi": "Super Vegeta",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 911; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "超サイヤ人悟飯",
+    "vi": "Super Saiyan Gohan",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 912; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "超サイヤ人２悟飯",
+    "vi": "Super Saiyan 2 Gohan",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 913; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "超ゴテンクス",
+    "vi": "Super Gotenks",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 914; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "亀仙人",
+    "vi": "Master Roshi",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 915; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ブルマ",
+    "vi": "Bulma",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 916; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "界王さま",
+    "vi": "King Kai",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 917; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ミスター・サタン",
+    "vi": "Mr. Satan",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 918; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ナルト",
+    "vi": "Naruto",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 919; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ナルト（九尾）",
+    "vi": "Naruto (Nine-Tails)",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 920; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "サスケ",
+    "vi": "Sasuke",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 921; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "サクラ",
+    "vi": "Sakura",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 922; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "カカシ",
+    "vi": "Kakashi",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 923; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "自来也",
+    "vi": "Jiraiya",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 924; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "綱手",
+    "vi": "Tsunade",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 925; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "サイ",
+    "vi": "Sai",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 926; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "大蛇丸",
+    "vi": "Orochimaru",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 927; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "風助",
+    "vi": "Fusuke",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 928; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ポチ",
+    "vi": "Pochi",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 929; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ヒロユキ",
+    "vi": "Hiroyuki",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 930; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "クロロ",
+    "vi": "Chrollo",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 931; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "レオリオ",
+    "vi": "Leorio",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 932; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ビスケ",
+    "vi": "Biscuit",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 933; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ハミィ",
+    "vi": "Hammy",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 934; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "高菜",
+    "vi": "Takana",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 935; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ハメ字郎",
+    "vi": "Hamejiro",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 936; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ポギー",
+    "vi": "Poggy",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 937; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "カズキ",
+    "vi": "Kazuki",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 938; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "パピヨン",
+    "vi": "Papillon",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 939; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "Ｃブラボー",
+    "vi": "Captain Bravo",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 940; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "斗貴子",
+    "vi": "Tokiko",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 941; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "サヤ",
+    "vi": "Saya",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 942; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "キョウコ",
+    "vi": "Kyoko",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 943; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "一護",
+    "vi": "Ichigo",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 944; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "一護（卍解）",
+    "vi": "Ichigo (Bankai)",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 945; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ルキア",
+    "vi": "Rukia",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 946; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "チャド",
+    "vi": "Chad",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 947; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "夜一",
+    "vi": "Yoruichi",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 948; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "黒崎一心",
+    "vi": "Isshin Kurosaki",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 949; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "タツキ",
+    "vi": "Tatsuki",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 950; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "浦原喜助",
+    "vi": "Kisuke Urahara",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 951; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "東仙要",
+    "vi": "Kaname Tosen",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 952; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "市丸ギン",
+    "vi": "Gin Ichimaru",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 953; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "妲己",
+    "vi": "Dakki",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 954; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "王天君",
+    "vi": "Otenkun",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 955; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "四不象",
+    "vi": "Su Pu Shang",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 956; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ユリア",
+    "vi": "Yuria",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 957; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "バット",
+    "vi": "Bat",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 958; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "リン",
+    "vi": "Lin",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 959; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "天の助",
+    "vi": "Tennosuke",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 960; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "へっくん",
+    "vi": "Heppokomaru",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 961; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ソフトン",
+    "vi": "Softon",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 962; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "田楽マン",
+    "vi": "Dengakuman",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 964; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "サービスマン",
+    "vi": "Service Man",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 965; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "コパッチ",
+    "vi": "Kopatchi",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 966; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ネウロ／弥子",
+    "vi": "Neuro / Yako",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 967; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "あかねちゃん",
+    "vi": "Akane-chan",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 968; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "笹塚",
+    "vi": "Sasazuka",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 969; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "Ｘ",
+    "vi": "X",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 970; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "マキバオー",
+    "vi": "Makibao",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 971; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "チュウ兵衛",
+    "vi": "Chubei",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 972; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ムヒョ",
+    "vi": "Muhyo",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 973; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ロージー",
+    "vi": "Roji",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 974; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "エンチュー",
+    "vi": "Enchu",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 975; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ヨイチ",
+    "vi": "Yoichi",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 976; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ビコ",
+    "vi": "Biko",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 977; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ナナ",
+    "vi": "Nana",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 978; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ペイジ",
+    "vi": "Page",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 979; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "遊戯",
+    "vi": "Yugi",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 980; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "海馬",
+    "vi": "Kaiba",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 981; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "城之内",
+    "vi": "Jonouchi",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 982; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "本田",
+    "vi": "Honda",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 983; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "杏子",
+    "vi": "Anzu",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 984; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "幽助",
+    "vi": "Yusuke",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 985; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "桑原",
+    "vi": "Kuwabara",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 986; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "幻海",
+    "vi": "Genkai",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 987; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ぼたん",
+    "vi": "Botan",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 988; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "剣心",
+    "vi": "Kenshin",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 989; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "左之助",
+    "vi": "Sanosuke",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 990; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "弥彦",
+    "vi": "Yahiko",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 991; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "薫",
+    "vi": "Kaoru",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 992; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "比古清十郎",
+    "vi": "Seijuro Hiko",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 993; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "太尊",
+    "vi": "Taison",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 994; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "勝嗣",
+    "vi": "Katsuji",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 995; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "米示",
+    "vi": "Yoneji",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 996; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "千秋",
+    "vi": "Chiaki",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 997; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "マサさん",
+    "vi": "Masa-san",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 998; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ナミ完成版天候棒",
+    "vi": "Nami (Perfect Clima-Tact)",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 999; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "そげキング",
+    "vi": "Sogeking",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 1000; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "シャンクス",
+    "vi": "Shanks",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 1001; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "キウイ／モズ",
+    "vi": "Kiwi / Mozu",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 1002; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "Ａコマ",
+    "vi": "A Koma",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 1003; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "Ｂコマ",
+    "vi": "B Koma",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 1004; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "Ｃコマ",
+    "vi": "C Koma",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 1005; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "必魂無制限",
+    "vi": "Unlimited Special Soul",
+    "status": "character_name_qa",
+    "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 1006; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
   }
 ]
