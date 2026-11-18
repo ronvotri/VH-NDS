@@ -123,3 +123,23 @@ Tình trạng đã qua QA cấu trúc, chưa kiểm chứng khung chữ và font
 - **Nhãn vai trò thường:** Researcher → Nhà nghiên cứu; Security → Bảo vệ; Captain → Đội trưởng; giữ nguyên tên riêng/thuật ngữ gameplay: High Orc Helm, High Orc, Card Key, File F, Gales, Juno, Somatology Laboratory, Ant Hell, Frione, Guild, Golden Eagle Guild.
 
 **QA:** Đã giữ nguyên trình tự các mã `<CFFFB>`, `<CFFFA>`, `<CFFFD>`, `<CFFFC>`, mã màu và mã khác; 0 lỗi cấu trúc. Font và khung thoại trên NDS chưa kiểm thử.
+
+
+## Đợt 008 — Glast Heim, Dark Knight, Arma, Hồng y
+
+| Cặp / nhân vật | Ngôi xưng | Ghi chú |
+|---|---|---|
+| Nhân vật chính ↔ Dark Knight khi chưa nhận ra | tôi/ông, lời chất vấn | Không để lộ quan hệ cha–con trước thời điểm nhân vật nhận ra |
+| Nhân vật chính ↔ Father sau tiết lộ | con/bố | Cảnh xin lỗi, giằng xé, trăng trối và nỗi đau mất cha phải giữ trang trọng |
+| Arma (từng dùng tên Gales) ↔ nhóm | ta/ngươi | Lộ danh tính, ngạo mạn; giữ tổ chức Destiny of the Great Gods |
+| Lucifi ↔ nhân vật chính | tôi/cậu | Bạn thân, động viên trực diện; không cà khịa khi nhân vật đang tang thương |
+| Lisir ↔ nhân vật chính | tôi/cậu | Đồng cảm mất bố mẹ, kéo bạn trở lại với trách nhiệm cứu cô bé |
+| Viselc ↔ nhóm | tôi/cậu, tôi/các cậu | Suy luận chứng cứ, giải thích tôn giáo và thân thế vị Hồng y |
+| Cardinal (Hồng y) ↔ nhóm | ta/ngươi | Cuồng tín, đau khổ vì con gái; không biện hộ cho ý định hủy diệt nhân loại |
+| <CFFFA> (cô bé) | tên động, không tự đặt tên | Nhân vật chính công nhận cô là một con người chứ không phải công cụ |
+
+**Tên/thuật ngữ khóa:** Arma, Gales, Glast Heim, Geffen Bridge, Ymir's Heart Piece, Broken Sword, Destiny of the Great Gods / Destiny of Great Gods (hai biến thể nguồn), Althena, Freya, Arunafeltz Faith.
+
+**Cảnh báo đầu vào:** Tại `05-hoi-thoai-006.jsonl`, mục thứ 240 (index 239) có đoạn nguồn `Headdress" is here.Dark Knight` nối dính nhãn người nói. Đây là lỗi văn bản gốc, không thay đổi token để tránh lỗi chèn ROM. Cần xem trực tiếp cảnh khi patch.
+
+**QA:** Cấu trúc/mã game đạt; chưa thể bảo đảm chữ vừa khung hoặc font tiếng Việt hiển thị đúng trên NDS.
