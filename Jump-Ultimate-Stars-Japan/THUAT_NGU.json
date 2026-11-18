@@ -2470,5 +2470,1049 @@
     "vi": "Tenryū Kokyūhō",
     "status": "romanized_japanese_qa",
     "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "北斗千手壊拳",
+    "vi": "Hokuto Senjukai Ken",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 366: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "水影心",
+    "vi": "Suieishin",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 367: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "天破活殺",
+    "vi": "Tenha Kassatsu",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 370: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "秘孔・人中極",
+    "vi": "Hiko: Jinchu Kyoku",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 371: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "気",
+    "vi": "Aura",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 374: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "強敵の記憶",
+    "vi": "Memories of Rivals",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 375: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "天将奔烈",
+    "vi": "Tensho Honretsu",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 378: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "無想転生",
+    "vi": "Musou Tensei",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 379: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "北斗神拳",
+    "vi": "Hokuto Shinken",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 382: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ラオウ",
+    "vi": "Raoh",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 411: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "北斗神拳奥義闘頸呼法",
+    "vi": "Hokuto Shinken Ogi Tokei Koho",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 412: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "黒王号",
+    "vi": "Kokuoh-go",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 413: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ペガサス星矢",
+    "vi": "Pegasus Seiya",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 427: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ペガサス流星拳",
+    "vi": "Pegasus Ryuseiken",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 428: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ペガサス彗星拳",
+    "vi": "Pegasus Suiseiken",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 429: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ペガサス流星拳ＢＩＧＢＡＮＧ",
+    "vi": "Pegasus Ryuseiken Big Bang",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 432: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ペガサスローリングクラッシュ",
+    "vi": "Pegasus Rolling Crash",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 433: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "聖闘士",
+    "vi": "Saint",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 436: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ペガサス星矢（射手座の黄金聖衣）",
+    "vi": "Pegasus Seiya (Sagittarius Gold Cloth)",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 458: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ペガサス光速拳",
+    "vi": "Pegasus Light-Speed Fist",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 459: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "サジタリアスの矢",
+    "vi": "Sagittarius Arrow",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 460: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "キン肉マン",
+    "vi": "Kinnikuman",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 471: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "眼力",
+    "vi": "Gaze",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 472: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "キン肉バスター",
+    "vi": "Kinniku Buster",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 473: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "キン肉ドライバー",
+    "vi": "Kinniku Driver",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 476: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "火事場のキン肉バスター",
+    "vi": "Kaji-ba no Kinniku Buster",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 477: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "マッスル・ドッキング",
+    "vi": "Muscle Docking",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 480: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "マッスル・ローリング",
+    "vi": "Muscle Rolling",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 481: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "フェイス・フラッシュ",
+    "vi": "Face Flash",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 484: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "スグル版マッスル・スパーク",
+    "vi": "Suguru's Muscle Spark",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 485: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "火事場のクソ力",
+    "vi": "Kaji-ba no Kuso Chikara",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 488: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "完璧マッスル・スパーク",
+    "vi": "Perfect Muscle Spark",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 489: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "江田島平八",
+    "vi": "Heihachi Edajima",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 518: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "わしが男塾塾長江田島平八である！",
+    "vi": "Ta chính là Heihachi Edajima, hiệu trưởng Otokojuku!",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 519: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "男塾塾長",
+    "vi": "Hiệu trưởng Otokojuku",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 523: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "剣桃太郎",
+    "vi": "Momotaro Tsurugi",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 537: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "燦蛇亞菩龍賭",
+    "vi": "Thunderbolt",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 538: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "男塾名物大鐘音",
+    "vi": "Otokojuku Daishoon",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 539: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "王虎寺超秘奥義暹氣虎魂",
+    "vi": "Wanfuji Ogi Shinki Fūkon",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 542: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "男塾塾歌斉唱",
+    "vi": "Otokojuku School Song",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 543: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "男塾総代<IDEOSP>剣桃太郎",
+    "vi": "Đại diện Otokojuku<IDEOSP>Momotaro Tsurugi",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 546: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "氣功闘法",
+    "vi": "Ki-ko Fighting Style",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 548: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "太公望",
+    "vi": "Taikobo",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 569: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "巨大打風刃",
+    "vi": "Giant Dafuuba",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 570: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "打神風最大出力",
+    "vi": "Dashinpu Full Power",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 571: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "杏黄旗・打神風",
+    "vi": "Kyokoki: Dashinpu",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 574: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "杏黄旗・打風輪",
+    "vi": "Kyokoki: Dafuurin",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 575: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "伏羲・魂のラッシュ",
+    "vi": "Fuxi: Soul Rush",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 578: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "伏羲・誅仙陣",
+    "vi": "Fuxi: Chusenzin",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 579: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "軍師",
+    "vi": "Strategist",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 582: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "子忍の風助",
+    "vi": "Fuusuke (Ninku)",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 602: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "空圧飛拳",
+    "vi": "Kūatsu Hiken",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 603: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "空手裏拳乱舞",
+    "vi": "Kūshuriken Ranbu",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 604: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "空蛇裂",
+    "vi": "Kūjaretsu",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 607: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "空子旋",
+    "vi": "Kūnesen",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 608: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "子忍",
+    "vi": "Ne-nin",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 611: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "プリ<IDEOSP>プリ",
+    "vi": "Puri<IDEOSP>Puri",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 627: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "起承転結！！",
+    "vi": "Mở đầu, phát triển, cao trào, kết thúc!!",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 630: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "マンガソウル",
+    "vi": "Manga Soul",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 633: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "コマイエロー",
+    "vi": "Koma Yellow",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 647: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "百手太臓（Ｍ）",
+    "vi": "Momote Taizo (M)",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 651: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "瞬間移動かめはめ波",
+    "vi": "Instant Transmission Kamehameha",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 653: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "連続死ね死ねミサイル",
+    "vi": "Consecutive Die Die Missiles",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 658: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "イビルハンド",
+    "vi": "Evil Hand",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 662: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "クリリン",
+    "vi": "Krillin",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 667: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "太陽拳",
+    "vi": "Solar Flare",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 668: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "気円斬",
+    "vi": "Destructo Disc",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 670: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "トランクス",
+    "vi": "Trunks",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 676: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ビッグ・バン・ブラスト",
+    "vi": "Big Bang Blast",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 677: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "サウザンドスラッシュ",
+    "vi": "Thousand Slash",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 679: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ゴムゴムの花火",
+    "vi": "Gum-Gum Fireworks",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 685: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "三刀流<IDEOSP>勇爪",
+    "vi": "Three-Sword Style<IDEOSP>Yuzume",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 691: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "三級挽き肉～木犀型斬シュート",
+    "vi": "Troisième Hachis – Bouquetière Shoot",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 698: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "幸せパンチ",
+    "vi": "Happiness Punch",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 704: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "目抜咲き",
+    "vi": "Ojos Fleur",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 709: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ちゃぶ台返し",
+    "vi": "Table Flip",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 713: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ストロングハンマー",
+    "vi": "Strong Hammer",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 715: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ウソップ",
+    "vi": "Usopp",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 721: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ウソップノイズ",
+    "vi": "Usopp Noise",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 722: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "火の鳥星",
+    "vi": "Fire Bird Star",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 724: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "チョッパー",
+    "vi": "Chopper",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 730: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "治療",
+    "vi": "Healing",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 731: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "刻蹄桜吹雪",
+    "vi": "Kokutei Roseo Michieri",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 733: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ハーレムの術",
+    "vi": "Harem no Jutsu",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 739: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "岩盤破砕の術",
+    "vi": "Rock Smashing Jutsu",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 745: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "イチャイチャバイオレンス",
+    "vi": "Icha Icha Violence",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 751: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "千年殺し",
+    "vi": "One Thousand Years of Death",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 753: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "我愛羅",
+    "vi": "Gaara",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 759: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "守鶴の手",
+    "vi": "Shukaku's Hand",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 760: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "砂縛牢",
+    "vi": "Sand Coffin",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 762: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "阿弥陀流<IDEOSP>真空仏陀斬り",
+    "vi": "Amidaryu<IDEOSP>Shinku Buttagiri",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 768: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ＢＩＮＴＡ",
+    "vi": "BINTA",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 774: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "おかみパンチ",
+    "vi": "Okami Punch",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 776: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ハオ",
+    "vi": "Hao",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 782: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "プリンセス<IDEOSP>ハオ",
+    "vi": "Princess<IDEOSP>Hao",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 783: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "甲縛式ＯＳ・黒雛<IDEOSP>鬼火",
+    "vi": "Kurobina<IDEOSP>Onibi (Armored Over Soul)",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 785: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "イギー投げ",
+    "vi": "Iggy Throw",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 791: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "目つぶし蹴り",
+    "vi": "Eye-Blinding Kick",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 796: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "肉の芽",
+    "vi": "Flesh Bud",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 798: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ジョナサン・ジョースター",
+    "vi": "Jonathan Joestar",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 804: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "君がッ泣くまで殴るのをやめないッ",
+    "vi": "I Won't Stop Punching Until You Cry!",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 805: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "山吹色の波紋疾走",
+    "vi": "Sunlight Yellow Overdrive",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 807: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ジョセフ・ジョースター",
+    "vi": "Joseph Joestar",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 813: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "まさかＪＯＪＯ！と驚く！",
+    "vi": "No Way, JOJO!",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 814: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "隠者の紫",
+    "vi": "Hermit Purple",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 816: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "東方仗助",
+    "vi": "Josuke Higashikata",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 822: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "クレイジー・ダイヤモンド",
+    "vi": "Crazy Diamond",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 823: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "クレイジー・Ｄは砕けない",
+    "vi": "Crazy Diamond Is Unbreakable",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 825: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ジョルノ・ジョバァーナ",
+    "vi": "Giorno Giovanna",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 831: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ゴールド・エクスペリエンス",
+    "vi": "Gold Experience",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 832: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ゴールド・Ｅ・レクイエム",
+    "vi": "Gold Experience Requiem",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 834: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "空条徐倫",
+    "vi": "Jolyne Cujoh",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 840: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ストーン・フリー",
+    "vi": "Stone Free",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 841: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "やれやれだわ",
+    "vi": "Yare Yare Dawa",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 843: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ジャイロ・ツェペリ",
+    "vi": "Gyro Zeppeli",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 848: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "鉄球の吸引",
+    "vi": "Steel Ball Attraction",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 849: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "鉄球投げ",
+    "vi": "Steel Ball Throw",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 851: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "大天使の息吹",
+    "vi": "Angel's Breath",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 857: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "神の共犯者＆ジャジャン拳グー",
+    "vi": "God's Accomplice & Jajanken: Rock",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 859: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "リスキーダイス",
+    "vi": "Risky Dice",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 865: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "クラピカ",
+    "vi": "Kurapika",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 869: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "律する小指の鎖",
+    "vi": "Judgment Chain",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 870: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "束縛する中指の鎖",
+    "vi": "Chain Jail",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 872: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "クロロ＝ルシルフル",
+    "vi": "Chrollo Lucilfer",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 878: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "不思議で便利な大風呂敷",
+    "vi": "Fun Fun Cloth",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 879: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "密室遊魚",
+    "vi": "Indoor Fish",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 881: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ヒソカ",
+    "vi": "Hisoka",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 887: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "薄っぺらな嘘",
+    "vi": "Texture Surprise",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 888: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "伸縮自在の愛",
+    "vi": "Bungee Gum",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 890: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "喧嘩ラッシュ",
+    "vi": "Brawling Rush",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 896: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ショットガン",
+    "vi": "Shotgun",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 898: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "煙幕",
+    "vi": "Smoke Screen",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 904: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "回復の薬草",
+    "vi": "Healing Herb",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 906: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "盗賊の極み",
+    "vi": "Master Thief",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 912: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "邪眼の呪縛獄",
+    "vi": "Jagan's Binding Prison",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 914: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "桑原和真",
+    "vi": "Kazuma Kuwabara",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 920: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "霊剣二刀流",
+    "vi": "Spirit Sword: Dual Wield",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 921: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "次元刀",
+    "vi": "Dimension Sword",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 923: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "ブラック・バーニング・マジック",
+    "vi": "Dark Burning Magic",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 929: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "海馬瀬人",
+    "vi": "Seto Kaiba",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 933: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "死のデッキ破壊",
+    "vi": "Crush Card Virus",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 934: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "滅びの爆裂疾風弾",
+    "vi": "Burst Stream of Destruction",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 936: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "龍巣閃",
+    "vi": "Ryusosen",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 942: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "相楽左之助",
+    "vi": "Sanosuke Sagara",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 947: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "斬馬刀",
+    "vi": "Zanbato",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 948: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "三重の極み",
+    "vi": "Sanjū no Kiwami",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 950: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "斎藤一",
+    "vi": "Hajime Saito",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 956: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "牙突参式",
+    "vi": "Gatotsu Sanshiki",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 957: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "牙突零式",
+    "vi": "Gatotsu Zeroshiki",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 959: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "志々雄真実",
+    "vi": "Makoto Shishio",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 965: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "弐の秘剣<IDEOSP>紅蓮腕",
+    "vi": "Second Secret Sword<IDEOSP>Guren Kaina",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 966: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "終の秘剣<IDEOSP>火産霊神",
+    "vi": "Final Secret Sword<IDEOSP>Kaguzuchi",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 968: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "明神弥彦",
+    "vi": "Yahiko Myojin",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 974: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "見様見真似<IDEOSP>龍槌閃",
+    "vi": "Imitated<IDEOSP>Ryutsuisen",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 975: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "神谷活心流奥義",
+    "vi": "Kamiya Kasshin-ryu Secret Technique",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 977: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "変身・盾",
+    "vi": "Trans Shield",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 983: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "変身・人魚",
+    "vi": "Trans Mermaid",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 985: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "閃光弾",
+    "vi": "Flash Grenade",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 991: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "スヴェン",
+    "vi": "Sven",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 997: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "にわか網注意報",
+    "vi": "Sudden Net Warning",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 998: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "支配眼",
+    "vi": "Grasper Eye",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 1000: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "改造魂魄・コン",
+    "vi": "Modified Soul Kon",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 1006: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "正義装甲☆ジャスティスハチマキ",
+    "vi": "Justice Armor: Justice Headband",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 1008: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "義魂丸・チャッピー",
+    "vi": "Mod Soul Pill: Chappy",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 1014: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "昇閃牙",
+    "vi": "Shosenga",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 1020: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "石田雨竜",
+    "vi": "Uryu Ishida",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 1028: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "霊子兵装・弧雀",
+    "vi": "Reishi Armament: Kojaku",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 1029: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "散霊手套開放",
+    "vi": "Sanrei Glove Release",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 1031: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "茶渡泰虎",
+    "vi": "Yasutora Sado",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 1037: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "Ｒ<IDEOSP>ｏｆ<IDEOSP>Ｇ",
+    "vi": "R<IDEOSP>of<IDEOSP>G",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 1038: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "Ｒ<IDEOSP>ｏｆ<IDEOSP>Ｇ・Ｃｒａｓｈ",
+    "vi": "R<IDEOSP>of<IDEOSP>G: Crash",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 1040: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "井上織姫",
+    "vi": "Orihime Inoue",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 1046: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "盾舜六花・三天結盾＆孤天斬盾",
+    "vi": "Shun Shun Rikka: Santen Kesshun & Koten Zanshun",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 1047: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "盾舜六花・双天帰盾",
+    "vi": "Shun Shun Rikka: Soten Kisshun",
+    "status": "romanized_or_working_english_qa",
+    "note": "CP011 dòng 1049: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
   }
 ]
