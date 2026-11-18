@@ -161,3 +161,16 @@ Tình trạng đã qua QA cấu trúc, chưa kiểm chứng khung chữ và font
 **Khoá thuật ngữ:** Ymir's Heart Piece, Mirage Tower, Card Key, High Orc Helm, F File, Limit Break, Acolyte, Priest, Job Level, Base Level, Gardi, Miko, Skol/Skal (viết khác nhau trong dữ liệu USA).
 
 **Cảnh báo nguồn:** Một số lời thoại được xếp không theo mạch truyện, không sắp lại ID. Nguồn có dấu hiệu nhãn người nói dính câu ở index 123, 203, 211, 234, 240 của tệp 007. Giữ nguyên mã và số phân trang; chưa QA độ rộng chữ trên NDS.
+
+
+## Đợt 010 — Guildmaster, Tavern Master, Kafra Staff và Dark Knight
+
+- **Guildmaster → người chơi:** `Guildmaster` được giữ nguyên theo các đợt trước, dùng `tôi/bạn`. Các thủ tục Job rõ ràng, đôi lúc pha trò nhẹ đúng nghề: Merchant đùa về làm giàu, Assassin dùng giọng kín đáo, Priest trang trọng.
+- **Tavern Master → người chơi:** nhãn `Chủ quán`, dùng `tôi/bạn`, hướng dẫn nhận, báo cáo và bỏ nhiệm vụ. Đừng nhầm vai trò này với một nhân vật có tên riêng.
+- **Suspicious Man → người chơi:** nhãn `Gã khả nghi`, dùng `ta/ngươi` khi gợi ý con đường Dark Knight. Chưa đủ dữ liệu để xác nhận danh tính người này; không gán trùng nhân vật truyện.
+- **Kafra Staff → người chơi:** nhãn `Nhân viên Kafra`, giọng lịch sự `tôi/bạn`.
+- **Skal:** giữ nguyên tên, `High Orc Helm`, `High Orcs`, `El Mes Gorge - North` và mã màu đi kèm.
+- **Tên riêng:** Reidun, Dorothea, Nissa, Birget, Kalle, Aila giữ nguyên. Các tính cách ngắn `Brave`, `Calm`, `Cowardly` và mô tả nhân viên thì Việt hóa.
+- **Điều kiện:** nguồn nói `over 30` và `at least 30` ở những ngữ cảnh khác nhau. Không tự sửa đồng loạt; phải đối chiếu logic code khi patch ROM.
+- **Limit Break:** quay lại Novice cấp 1, nhận điểm chỉ số thưởng; tăng mức tối đa Job cấp cao thêm 10 mỗi lần. Trình bày đủ thông tin, không xóa mã chỉ để rút dòng.
+- **QA:** 0 lỗi cấu trúc, nhưng chưa đo chiều rộng từng chuỗi bằng font Việt và chưa xác nhận trên máy NDS.
