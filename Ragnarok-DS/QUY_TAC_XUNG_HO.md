@@ -174,3 +174,16 @@ Tình trạng đã qua QA cấu trúc, chưa kiểm chứng khung chữ và font
 - **Điều kiện:** nguồn nói `over 30` và `at least 30` ở những ngữ cảnh khác nhau. Không tự sửa đồng loạt; phải đối chiếu logic code khi patch ROM.
 - **Limit Break:** quay lại Novice cấp 1, nhận điểm chỉ số thưởng; tăng mức tối đa Job cấp cao thêm 10 mỗi lần. Trình bày đủ thông tin, không xóa mã chỉ để rút dòng.
 - **QA:** 0 lỗi cấu trúc, nhưng chưa đo chiều rộng từng chuỗi bằng font Việt và chưa xác nhận trên máy NDS.
+
+
+## Đợt 011 — Đổi Job, Kafra, NPC Prontera
+
+- **Guildmaster → người chơi:** `tôi/cậu`, hướng dẫn nghề nghiêm túc. Job Thief châm chọc nhẹ, Taekwon Kid gọi “châu chấu con”, Wizard khích lệ học phép; không tự đoán giới tính người chơi.
+- **Mysterious Woman → người chơi:** `tôi/cậu`, giọng bí ẩn và cười “hê hê”; khi giải thích Shaman hoặc Limit Break phải chính xác điều kiện Base Level/Job Level.
+- **Kafra Staff → người chơi:** `tôi/bạn`, lịch sự; menu bản đồ và thông báo lưu game phải rõ ràng. Tên địa danh có màu giữ nguyên theo bản USA.
+- **Chủ nhà trọ, tiệm vật phẩm/vũ khí và Blacksmith → người chơi:** `tôi/bạn`, đùa có chừng mực ở câu nguyên tác hài về mua sắm, cháy túi hoặc cường hóa thất bại.
+- **Commander → nhân vật chính:** `tôi/cậu`, giọng trực tiếp và tin tưởng.
+- **Milika ↔ nhân vật chính:** `tôi/cậu`; Milika thiếu tự tin vì liên tục làm hỏng đồ, người chơi động viên; không tự gán quan hệ khác.
+- **Vai trò NPC vô danh:** Man/Woman/Guy/Old Man/Girl Việt hóa nhãn; không suy đoán tuổi/giới tính của nhân vật chính.
+- **Ngoại lệ dữ liệu:** bản USA có `Guildmaster<C3000><CFFFD>` xen giữa trang ở mục 43 của tệp 009; câu Kafra có `<CFFFC>` ở cuối. Đã giữ đúng mã; cần xem trên ROM khi vá.
+- **QA kỹ thuật:** dòng `100% failure` của Milika chứa `% f` bị bộ kiểm tra xem là placeholder; bản Việt dùng `100% fail` để không làm thay đổi token. Chưa kiểm tra font hay tràn chữ.
