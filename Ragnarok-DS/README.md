@@ -220,15 +220,27 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - ZIP checkpoint 021 gồm 33 JSONL tích lũy, patch mới, thuật ngữ, hồ sơ xưng hô, danh bạ và QA. **Chưa build ROM, nhúng font Việt hoặc kiểm thử giả lập/NDS thật.**
 - **Đợt 022:** tiếp `05-hoi-thoai-020.jsonl`.
 
+## Checkpoint 022 — 18/11/2026
+
+- **+461/461 ID** của `05-hoi-thoai-020.jsonl` đã xử lý, gồm 459 mục dịch khác bản tiếng Anh và 2 mục giữ nguyên. Patch: `translation/PATCH-DOT022.jsonl`.
+- **Tích lũy 9.413/14.616 mục (64,40%)**; còn **5.203 mục `vi=null`**. Không ghi đè 8.952 mục đã có ở checkpoint 021.
+- Nội dung: thành viên động `<CFFF8>` và mức Buddy; Swordsman Guild thử thách hai người tại West Prontera Woods; Magician Guild tuần tra Geffen Bridge; Thieves Guild giao bản tin; Acolyte Guild dẹp mùi hôi Prontera Culvert bằng kẹp mũi; Archer Guild đi săn **4 Peco Peco** tại East Prontera Woods; Biger yêu cầu hai người đại diện Merchant Guild chốt hợp đồng ở Juno.
+- **QA gốc `tools/check_handoff.py`**: `source_rows=14616`, `translated=9413`, `unfinished=5203`, `errors=[]`. Tất cả ID, `en`, `group`, `context`, `uses`, tên động, màu và thứ tự mã NDS đều hợp lệ.
+- **Độ dài trong tệp mới:** không có phần nội dung lời thoại nào vượt 36 ký tự Unicode sau khi bỏ mã điều khiển (`QA_KHUNG_CHU_022.json`); **không** suy ra chắc chắn vừa khung hiển thị, cần đo glyph sau khi thêm font Việt.
+- **Lỗi/bất thường nguồn USA giữ nguyên:** index 113 có `<C3000>` trong thân câu; index 249–256 dùng nhãn `Guild Member` nhưng không có `<C3000>`; index 460 có trang cuối không có `<CFFFD>`; `Guild Worker <C3000>` đôi chỗ có khoảng trắng. Không tự thêm/bỏ mã.
+- Tên Job, item, skill, monster, địa danh và bậc quan hệ giữ tiếng Anh; nhãn NPC vô danh dịch `Guild Worker` → “Nhân viên Guild”, `Thieves Guild Worker` → “Nhân viên Thieves Guild”, `Guild Member` → “Thành viên Guild”.
+- ZIP checkpoint 022 có 33 JSONL, patch, thuật ngữ, danh bạ NPC, bảng ngôi xưng và báo cáo QA; vẫn **chưa nhúng font hay patch ROM, chưa test giả lập/NDS**.
+- **Đợt 023** tiếp `05-hoi-thoai-021.jsonl` với **454 mục**.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **8.952 patch records** từ các đợt 001–021, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **9.413 patch records** từ các đợt 001–022, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_021_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_022_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
