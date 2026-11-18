@@ -77,3 +77,15 @@ Tính cách đã xác nhận từ nguồn: **Lucifi** trêu ghẹo, tận tâm, 
 - **Cô bé chưa rõ danh tính:** tôi/cậu, mô tả cảm xúc theo lời gốc; các thẻ `<CFFFA>`/`<CFFFB>` vẫn là tên động, không viết tên cố định.
 
 Tình trạng đã qua QA cấu trúc, chưa kiểm chứng khung chữ và font Việt trên NDS thật.
+
+
+## Đợt 005 — Morocc, Lisir, Popi, Frione và Emperium
+
+- **Nhân vật chính – Lucifi:** tôi/cậu, nói đùa vừa phải; Lucifi nghiêm khi nhắc việc gây nguy hiểm cho đồng đội. Lucifi – Chỉ huy: lời kính trọng “thưa ngài”, “rõ”.
+- **Nhân vật chính – Viselc:** tôi/cậu, có thể gọi Viselc là anh; đoàn buôn gọi Viselc là ngài.
+- **Nhân vật chính – Lisir:** tôi/cô, tôi/cậu tùy câu gốc và giọng người nói; Lisir nóng nảy, hiếu thắng, ham tiền, nhưng những đoạn về cha mẹ mất trong Ant Hell phải nghiêm túc.
+- **Yolanda:** tôi/mọi người, lời nhờ tìm Popi lịch sự; **Popi là chú chó**. Không sửa tên riêng.
+- **Aldo:** tôi/cậu với Lucifi và người chơi; khi nhắc Freya và Odin, không thêm nội dung ngoài bản USA.
+- **Golden Eagle Guild:** giữ nguyên tên Guild; nhãn vai trò chung như “Man with Red Bandana”, “Pretentious Woman” có thể Việt hóa thành “Gã quấn khăn đỏ”, “Quý bà kiêu kỳ”.
+- **Nhân vật chính – cô bé với mã <CFFFA>:** tôi/cậu; không thay mã tên động bằng tên cố định.
+- Nhân vật chưa chứng thực quan hệ vẫn giữ mức **pending-context**. Dùng `<CFFFD>`/`<CFFFC>` và các mã màu đúng thứ tự nguồn; đã QA cấu trúc, chưa test chữ vừa khung.
