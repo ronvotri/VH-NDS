@@ -1,22 +1,14 @@
-# Jump Ultimate Stars (Japan) — Việt hóa Checkpoint 019
+# Jump Ultimate Stars — Việt hóa Checkpoint 020
 
-ROM Nhật AJUJ; bản bàn giao **chỉ dữ liệu dịch, không có ROM/patch NDS**. Dịch trực tiếp từ tiếng Nhật, giữ tên nhân vật/Skill/Item/Stand/thuật ngữ quan trọng bằng tiếng Anh hoặc phiên âm, giọng Gen Z tiết chế.
+Bản Nhật AJUJ. **Chỉ dữ liệu bản dịch, không chứa ROM hoặc patch NDS.**
 
-## Tiến độ
-- **11.851 / 34.919** ID dịch (33,94%), còn **23.068** chuỗi chưa dịch.
-- Mới dịch **649 ID** từ `05-thu-vien-nhan-vat-004.jsonl` dòng **300–948**, hoàn thành toàn bộ file 004.
-- Nhóm nội dung: Hoshin Engi, Ichigo 100%, I''s, JoJo, Steel Ball Run, Kochikame.
-- Đã bảo toàn **11.202** bản dịch cũ, chỉ điền những `vi=null`.
-
-## Nội dung
-- `translation/`: 30 file JSONL hoàn chỉnh theo ID (`vi=null` nếu chưa dịch).
-- `BAN_DICH_019.jsonl`: 649 câu mới, có đường dẫn file, dòng, ID, Nhật và Việt.
-- `BAN_DICH_TONG_HOP_001-019.jsonl`: bản hợp nhất 11.851 câu đã dịch.
-- `THUAT_NGU.json`, `XUNG_HO_NHAN_VAT.md`: thuật ngữ và quy tắc xưng hô cập nhật.
-- `QA_019.json` cùng `CAU_DAI_CAN_SOI_019.tsv`: báo cáo QA và danh sách dòng cần kiểm tra độ rộng.
-
-## Kiểm thử
-- Công cụ kiểm tra 34.919 ID: **0 lỗi mã điều khiển, 0 ID thiếu/trùng, 0 câu cũ bị ghi đè**.
-- 3674 đoạn dịch dài hơn 37 ký tự Unicode, **chưa được đo pixel trên màn hình**.
-- Chưa tích hợp font tiếng Việt hoặc chèn dữ liệu vào ROM; **chưa kiểm tra gameplay trên NDS**.
-- Điểm tiếp tục Checkpoint 020: `05-thu-vien-nhan-vat-005.jsonl`, dòng 0.
+- Tiến độ: **12.452/34.919 ID (35,66%)**, còn **22.467**.
+- Mới dịch **601 ID** từ file `05-thu-vien-nhan-vat-005.jsonl`, dòng **0–600**.
+- Mạch truyện: Kochikame, Kinnikuman, Midori no Makibao. Tên riêng/Skill/Koma và thuật ngữ chính giữ English/phiên âm theo bảng; phần kể chuyện, thoại Việt hóa tự nhiên.
+- Chứa toàn bộ `translation/` gồm **30 file JSONL**, ID và `ja` gốc không đổi; dòng chưa dịch là `vi=null`.
+- `BAN_DICH_020.jsonl` 601 câu mới; `BAN_DICH_TONG_HOP_001-020.jsonl` 12.452 câu hợp nhất.
+- Bảng thuật ngữ và hệ thống xưng hô được cập nhật, tên chưa đủ căn cứ đánh dấu provisional.
+- QA tĩnh trên đủ 34.919 ID: **0 lỗi** ID, token điều khiển, placeholder, Unicode NFC; 0 câu cũ bị ghi đè.
+- 4158 dòng dài >37 ký tự Unicode cần đo pixel lúc có font Việt: đây **không** phải kết quả test hiển thị trên màn hình.
+- Checkpoint kế tiếp: dòng **601** của `05-thu-vien-nhan-vat-005.jsonl` (Muhyo & Roji), không dịch lại ID cũ.
+- **Chưa có font Việt, ROM writer, patch hoặc kiểm thử gameplay thật.**
