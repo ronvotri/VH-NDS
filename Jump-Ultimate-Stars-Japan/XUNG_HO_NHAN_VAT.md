@@ -61,3 +61,14 @@
 - `04-koma-chieu-thuc-001`, dòng 562–703: giới thiệu Naruto Uzumaki, Sasuke Uchiha, Sakura Haruno, Kakashi Hatake và Nine-Tails Naruto. Tên người/Skill dùng Anh hoặc phiên âm chuẩn; riêng một số tên thuật do game đặt được đánh dấu **provisional_literal_jp_qa** trong `THUAT_NGU.json`.
 - Câu trích manga không đương nhiên do nhân vật đang được giới thiệu phát ngôn. Chỉ suy giọng từ ngữ pháp Nhật rõ ràng; **không khóa speaker_id** khi chưa kiểm tra Koma/nguồn manga.
 - `すれちがい通信` của NDS **không phải StreetPass 3DS**; diễn đạt là kết nối/trao đổi dữ liệu khi đi ngang nhau.
+
+## Checkpoint 006 — Info Character, Shaman King, JoJo, Hunter × Hunter và Yu Yu Hakusho
+
+- `02-thoai-tro-giup-002` dòng 0–1: cuối nhóm `info/hk`; chưa xác nhận danh tính.
+- Dòng 2–114, chủ yếu `info/hs`: giọng `っス`, hoạt bát, thân thiện. Dùng **tớ – cậu** nếu ngữ cảnh yêu cầu; không tự gán tên từ mã `hs`.
+- Dòng 115–227, chủ yếu `info/ig`: lịch thiệp, có `あたし` tại dòng 157. Có thể dùng **tôi – cậu**, thi thoảng chọc ghẹo nhẹ theo nguyên tác.
+- Dòng 228–305, chủ yếu `info/is`: vui, gần gũi; ưu tiên **tớ – cậu** khi rõ xưng hô, hạn chế gán người nói ở chuỗi dùng chung.
+- Dòng 306–360, chủ yếu `info/jj`: điềm tĩnh, hơi kiểu cách; dùng **tôi – cậu** hoặc bỏ ngôi ở câu hướng dẫn.
+- `04-koma-chieu-thuc-001` dòng 704–963: **Shaman King**, **JoJo's Bizarre Adventure**, **Hunter × Hunter**, **Yu Yu Hakusho**. Văn bản mô tả cơ chế không cần xưng hô; lời trích nhân vật được giữ sắc thái nhưng chưa khóa `speaker_id` nếu dữ liệu thiếu căn cứ.
+- Các Skill romanized/provisional chưa phải English chính thức. Giữ các thẻ `<IDEOSP>`, `<PERCENT_FULL>` đúng thứ tự; không biến NDS thành StreetPass 3DS.
+
