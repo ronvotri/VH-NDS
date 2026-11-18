@@ -143,3 +143,21 @@ Tình trạng đã qua QA cấu trúc, chưa kiểm chứng khung chữ và font
 **Cảnh báo đầu vào:** Tại `05-hoi-thoai-006.jsonl`, mục thứ 240 (index 239) có đoạn nguồn `Headdress" is here.Dark Knight` nối dính nhãn người nói. Đây là lỗi văn bản gốc, không thay đổi token để tránh lỗi chèn ROM. Cần xem trực tiếp cảnh khi patch.
 
 **QA:** Cấu trúc/mã game đạt; chưa thể bảo đảm chữ vừa khung hoặc font tiếng Việt hiển thị đúng trên NDS.
+
+
+## Đợt 009 — Cứu cô bé, hồi tưởng bố mẹ và NPC
+
+| Cặp nhân vật | Ngôi xưng | Ghi chú |
+|---|---|---|
+| Nhân vật chính ↔ cô bé (`<CFFFA>`) | tôi/cậu | Đoạn tỏ tình, lựa chọn sống/chết giữ cảm xúc, không chế lời meme |
+| Nhân vật chính ↔ bố và mẹ | con/bố, con/mẹ | Hồi tưởng bố mẹ giải thích cách cứu cô bé; người bố quyết đoán, mẹ dịu dàng |
+| Gales ↔ Father (hồi tưởng) | tôi/anh | Bàn về `Ymir's Heart Piece`; khác thái độ của Arma ở tuyến phản diện |
+| Hồng y ↔ party | ta/ngươi | Giọng cuồng tín, lạnh lùng; nhãn Cardinal dịch Hồng y |
+| Lucifi ↔ nhân vật chính/Lisir | tôi/cậu | Động viên ở cao trào, sau đó mới đùa chuyện cưới xin |
+| Lisir ↔ party | tôi/cậu | Ham tiền, chọc ghẹo trong đoạn hậu truyện; nghiêm khi cứu người |
+| Viselc ↔ party | tôi/cậu | Lịch sự, điềm tĩnh |
+| Guildmaster → người chơi | tôi/bạn | Hướng dẫn đổi Job và Limit Break, không đoán giới tính |
+
+**Khoá thuật ngữ:** Ymir's Heart Piece, Mirage Tower, Card Key, High Orc Helm, F File, Limit Break, Acolyte, Priest, Job Level, Base Level, Gardi, Miko, Skol/Skal (viết khác nhau trong dữ liệu USA).
+
+**Cảnh báo nguồn:** Một số lời thoại được xếp không theo mạch truyện, không sắp lại ID. Nguồn có dấu hiệu nhãn người nói dính câu ở index 123, 203, 211, 234, 240 của tệp 007. Giữ nguyên mã và số phân trang; chưa QA độ rộng chữ trên NDS.
