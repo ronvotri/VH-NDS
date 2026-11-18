@@ -305,3 +305,17 @@ Giữ tên động `<CFFFB>` và các mã phân trang, màu, nhãn nói ở đú
 - **Lisir ↔ nhân vật chính:** tôi/cậu, giữ bậc thân thiết `Buddy` trong thông báo. **Natsume** là nữ theo nguồn.
 
 Giữ mã `<C3000>` bất thường ở index 80, 163, 180, 183, 300 của file 015, không sửa từ gốc. QA cấu trúc đạt; vẫn cần test font và khung thoại NDS.
+
+
+## Đợt 018 — Gabera, Lisir, Natsume; Viselc, Pott, Mof
+
+- **Gabera → Lisir/Natsume:** `ta/em`, với hai học trò cùng lúc `ta/các em`. Lisir và Natsume đáp `em/sư phụ`. Gabera nói với Guildmaster `ta/cậu`, dùng "chàng trai" riêng ở những lời nguồn gốc có nhắc giới tính.
+- **Lisir ↔ Natsume:** `tôi/cậu`; Natsume gọi "chị Lisir" khi châm chọc đàn chị. Hai người đấu tại Geffen Bridge theo lệnh sư phụ. Không biến trò cãi vã thành thù địch thực sự.
+- **Lisir ↔ người chơi:** `tôi/cậu`, lầy lội, keo kiệt. Người chơi biết cô đang lừa sư phụ; cuối cùng nói sự thật về Lisir nhưng vẫn giúp khi Natsume biến hình khó tin. **Lucifi** chỉ xuất hiện trong lời thuật, không tự thêm thoại của anh ấy.
+- **Natsume:** nữ, đồng môn của Lisir. Phép `Transformation` chưa hoàn chỉnh; Gabera bảo muốn hóa rồng phải luyện có thể đến mười năm, ban đầu hóa Poring ba năm. Đây là nội dung thoại, chưa xác nhận hệ thống combat.
+- **Viselc ↔ Pott/Mof:** `tôi/cậu` vì là bạn cũ; Pott/Mof hài hước, thích tự do, Viselc nghiêm túc thích nề nếp. **Viselc ↔ người chơi:** `tôi/cậu`, điềm tĩnh, quan tâm danh dự của bạn mình.
+- **Pott ↔ người chơi:** `tôi/cậu`, mạo hiểm giả thuê người tìm thủ phạm; khi bị truy nã phải giữ giọng lo lắng, không thêm lời bào chữa vô căn cứ.
+- **Knight của Order of Knights:** trong cảnh bắt nghi phạm dùng `ta/ngươi` và giọng ra lệnh; người chơi báo tin `tôi/các anh` và chấp nhận trách nhiệm nếu không tìm thấy tang vật.
+- **Kafra Staff** → `Nhân viên Kafra`, **Young Woman** → `Cô gái trẻ`; nhãn **Knight**, **Thief** giữ như Job từ bản USA. Tên **Gabera, Natsume, Viselc, Pott, Mof, Lilac**, địa danh **Geffen Bridge, Prontera Culvert**, và `<CFFF9>` của Guild động không đổi.
+
+**Dữ liệu nguồn bất thường:** index **135** có `<C3000>` nằm trong nội dung; index **273** là trang rỗng sau `<CFFFC>`. Cấu trúc đã QA 0 lỗi; hiển thị/font NDS cần kiểm tra sau.
