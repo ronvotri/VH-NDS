@@ -1,0 +1,36 @@
+{
+  "checkpoint": "022",
+  "date": "2026-11-18",
+  "game": "Jump Ultimate Stars",
+  "rom_code": "AJUJ",
+  "source_checkpoint": "021",
+  "source_zip_sha256": "60c43a8551ef989cf6727a977dd4ce7f6af5383d6bc06fa3a059aaccf13287a9",
+  "previous_translated": 13085,
+  "new_in_022": 705,
+  "translated": 13790,
+  "total": 34919,
+  "pending": 21129,
+  "changed_files": {
+    "05-thu-vien-nhan-vat-006.jsonl": 668,
+    "05-thu-vien-nhan-vat-007.jsonl": 37
+  },
+  "changed_rows": {
+    "05-thu-vien-nhan-vat-006.jsonl": "277-944",
+    "05-thu-vien-nhan-vat-007.jsonl": "0-36"
+  },
+  "source_modified": 0,
+  "old_translations_overwritten": 0,
+  "duplicate_ids": 0,
+  "control_token_errors": 0,
+  "format_placeholder_errors": 0,
+  "non_nfc_errors": 0,
+  "glossary_added_in_022": 34,
+  "glossary_total": 1447,
+  "segments_over_37_unicode_chars": 5094,
+  "qa_scope": "Full structural check; translated manually by story context and split to source IDs; not in-game screenshot QA",
+  "font_integration": "not_done",
+  "rom_patch": "not_built",
+  "gameplay_test": "not_done",
+  "next_file": "05-thu-vien-nhan-vat-007.jsonl",
+  "next_row_index": 37
+}
