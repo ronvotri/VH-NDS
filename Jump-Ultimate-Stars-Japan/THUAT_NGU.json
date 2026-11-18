@@ -8050,5 +8050,65 @@
     "vi": "Mugen",
     "status": "common_en_name",
     "note": "CP016: giữ tên quốc tế/phiên âm; cần QA đối chiếu theo manga và màn hình NDS."
+  },
+  {
+    "ja": "則巻ガジラ",
+    "vi": "Gajira Norimaki",
+    "status": "character_name_common",
+    "note": "CP017: name: Gatchan; Dr. Slump"
+  },
+  {
+    "ja": "ニコチャン大王",
+    "vi": "King Nikochan",
+    "status": "working_romanization_qa",
+    "note": "CP017: Dr. Slump; verify romanization"
+  },
+  {
+    "ja": "ペンギングランプリ",
+    "vi": "Penguin Grand Prix",
+    "status": "character_name_common",
+    "note": "CP017: Dr. Slump racing event"
+  },
+  {
+    "ja": "ごあいさつ砲",
+    "vi": "Goaisatsu Cannon",
+    "status": "working_romanization_qa",
+    "note": "CP017: working romanization; verify official English move"
+  },
+  {
+    "ja": "姉崎まもり",
+    "vi": "Mamori Anezaki",
+    "status": "character_name_common",
+    "note": "CP017: Eyeshield 21, older than Sena by one year"
+  },
+  {
+    "ja": "デスマーチ",
+    "vi": "Death March",
+    "status": "character_name_common",
+    "note": "CP017: Eyeshield 21 training arc"
+  },
+  {
+    "ja": "クリスマスボウル",
+    "vi": "Christmas Bowl",
+    "status": "character_name_common",
+    "note": "CP017: Eyeshield 21"
+  },
+  {
+    "ja": "紅桜",
+    "vi": "Benizakura",
+    "status": "character_name_common",
+    "note": "CP017: Gintama sword name"
+  },
+  {
+    "ja": "白夜叉",
+    "vi": "Shiroyasha",
+    "status": "character_name_common",
+    "note": "CP017: Gintama epithet"
+  },
+  {
+    "ja": "寺門通",
+    "vi": "Otsu / Tsuu Terakado",
+    "status": "working_romanization_qa",
+    "note": "CP017: Gintama idol; working name, verify official"
   }
 ]
