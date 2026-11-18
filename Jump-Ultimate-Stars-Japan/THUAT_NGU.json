@@ -997,8 +997,7 @@
   },
   {
     "ja": "ルフィ（ギア２）",
-    "vi": "Luffy (Gear 2)",
-    "status": "common_en_name",
+    "vi": "Luffy (Gear 2)",    "status": "common_en_name",
     "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
   },
   {
@@ -1997,8 +1996,7 @@
     "status": "romanized_japanese_qa",
     "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
   },
-  {
-    "ja": "怒んパッチ",
+  {    "ja": "怒んパッチ",
     "vi": "Angry Don Patch",
     "status": "provisional_english_qa",
     "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
@@ -2997,8 +2995,7 @@
     "ja": "我愛羅",
     "vi": "Gaara",
     "status": "romanized_or_working_english_qa",
-    "note": "CP011 dòng 759: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
-  },
+    "note": "CP011 dòng 759: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."  },
   {
     "ja": "守鶴の手",
     "vi": "Shukaku's Hand",
@@ -3514,5 +3511,1174 @@
     "vi": "Shun Shun Rikka: Soten Kisshun",
     "status": "romanized_or_working_english_qa",
     "note": "CP011 dòng 1049: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
+  {
+    "ja": "四楓院夜一",
+    "vi": "Yoruichi Shihouin",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1055: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "瞬歩",
+    "vi": "Shunpo",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1056: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "瞬閧",
+    "vi": "Shunko",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1058: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "コン",
+    "vi": "Kon",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1064: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "アシストアタックラジコン",
+    "vi": "Assist Attack Radi-Kon",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1065: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "朽木白哉",
+    "vi": "Byakuya Kuchiki",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1069: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "縛道の六十一・六杖光牢",
+    "vi": "Bakudo #61: Rikujokoro",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1070: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "千本桜",
+    "vi": "Senbonzakura",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1072: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "藍染惣右介",
+    "vi": "Sosuke Aizen",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1078: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "破道の九十・黒棺",
+    "vi": "Hado #90: Kurohitsugi",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1079: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "鏡花水月",
+    "vi": "Kyoka Suigetsu",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1081: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "神田ユウ",
+    "vi": "Yu Kanda",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1099: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "斬降一刀",
+    "vi": "Zanko Itto",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1100: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "界蟲「一幻」",
+    "vi": "Kaichu Ichigen",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1102: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ラビ",
+    "vi": "Lavi",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1108: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "伸",
+    "vi": "Shin",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1109: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "劫火灰燼<IDEOSP>火判",
+    "vi": "Goka Kaijin<IDEOSP>Hiban",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1111: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "クロウリー",
+    "vi": "Crowley",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1117: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ｃｒｉｍｓｏｎ<IDEOSP>ｓｎｏｗ",
+    "vi": "Crimson<IDEOSP>Snow",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1120: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "武器乱舞",
+    "vi": "Buki Ranbu",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1126: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "毛結",
+    "vi": "Kejime",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1128: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ナントカカントカパトローナム",
+    "vi": "Nantoka Kantoka Patronum",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1134: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "バカボール",
+    "vi": "Baka Ball",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1136: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ところ天の助",
+    "vi": "Tokoro Tennosuke",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1142: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "喝！",
+    "vi": "Katsu!",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1143: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "アメーバ空域",
+    "vi": "Amoeba Kuiki",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1145: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ヘッポコ丸",
+    "vi": "Heppokomaru",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1151: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "オナラ真拳奥義「師走」",
+    "vi": "Onara Shinken Ougi: Shiwasu",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1152: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "覚醒オナラ真拳奥義「閏年」",
+    "vi": "Awakened Onara Shinken Ougi: Urudoshi",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1154: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ビュティ",
+    "vi": "Beauty",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1160: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "突っ込み",
+    "vi": "Tsukkomi",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1161: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "パワーアップ<IDEOSP>ビュティ<IDEOSP>",
+    "vi": "Power Up<IDEOSP>Beauty<IDEOSP>",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1163: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ガ王",
+    "vi": "Gaoh",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1169: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "豹変",
+    "vi": "Hyohen",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1170: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "コアラ骨法",
+    "vi": "Koala Koppo",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1172: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "火消しの両さん",
+    "vi": "Hikeshi no Ryo-san",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1178: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "大原大次郎",
+    "vi": "Daijiro Ohara",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1183: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "大原部長のカミナリ",
+    "vi": "Ohara Bucho no Kaminari",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1184: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "怒りの大原部長",
+    "vi": "Ikari no Ohara Bucho",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1186: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "中川圭一",
+    "vi": "Keiichi Nakagawa",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1192: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "中川からのプレゼント",
+    "vi": "Nakagawa kara no Present",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1193: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "中川グループの力",
+    "vi": "Nakagawa Group no Chikara",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1195: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "秋本麗子",
+    "vi": "Reiko Akimoto",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1201: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ケーキ職人",
+    "vi": "Cake Shokunin",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1202: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "麗子パンチ",
+    "vi": "Reiko Punch",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1204: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "本田速人",
+    "vi": "Hayato Honda",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1210: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "こわいよ～っ！！",
+    "vi": "Kowai yo!",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1211: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "伝説の元暴走族頭Ｚ本田",
+    "vi": "Densetsu no Moto Bosozoku Head Z Honda",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1213: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "日暮熟睡男",
+    "vi": "Neruo Higurashi",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1219: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "テレポート",
+    "vi": "Teleport",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1220: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "念力",
+    "vi": "Nenriki",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1222: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ボルボ西郷",
+    "vi": "Volvo Saigo",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1228: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "食料の調達",
+    "vi": "Shokuryo no Chotatsu",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1229: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "自家発電",
+    "vi": "Jika Hatsuden",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1231: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "左近寺竜之介",
+    "vi": "Tatsunosuke Sakonji",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1237: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "フィギュア",
+    "vi": "Figure",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1238: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ゲームでヒートアップ",
+    "vi": "Game de Heat Up",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1240: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "汚野刑事",
+    "vi": "Detective Kitano",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1246: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "栄養補給",
+    "vi": "Eiyo Hokyu",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1247: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "特殊刑事集合",
+    "vi": "Tokushu Deka Shugo",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1249: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "オイオイ、あぶねーじゃねーか",
+    "vi": "Oi oi, Abunee ja nee ka",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1255: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "万事屋グラちゃん",
+    "vi": "Yorozuya Gura-chan",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1260: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "何してんだてめー",
+    "vi": "Nani shiten da temee",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1262: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "志村新八",
+    "vi": "Shinpachi Shimura",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1268: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "声張れェェ！！",
+    "vi": "Koe hareee!!",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1269: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "お前の母ちゃん何人？",
+    "vi": "Omae no kaachan nanijin?",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1271: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "桂小太郎／エリザベス",
+    "vi": "Kotaro Katsura / Elizabeth",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1277: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ニンジャーカレー<IDEOSP>イエロー（中辛）",
+    "vi": "Ninja Curry<IDEOSP>Yellow (Medium)",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1278: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "狂乱の貴公子<IDEOSP>桂小太郎",
+    "vi": "Kyōran no Kikōshi<IDEOSP>Kotaro Katsura",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1280: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "猿飛あやめ",
+    "vi": "Ayame Sarutobi",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1286: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ニンジャーメガネ",
+    "vi": "Ninja Glasses",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1287: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ああ、愛しの銀さん",
+    "vi": "Aa, Itoshi no Gin-san",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1289: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "近藤勲",
+    "vi": "Isao Kondo",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1295: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "武装警察真選組局長<IDEOSP>近藤勲",
+    "vi": "Shinsengumi Chief<IDEOSP>Isao Kondo",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1296: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "愛の追跡者",
+    "vi": "Ai no Hunter",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1298: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "土方十四郎",
+    "vi": "Toshiro Hijikata",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1304: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "鬼の副長<IDEOSP>土方十四郎",
+    "vi": "Oni no Fukucho<IDEOSP>Toshiro Hijikata",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1305: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "マヨラー十四郎",
+    "vi": "Mayora Toshiro",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1307: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "沖田総悟",
+    "vi": "Sogo Okita",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1313: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "総悟大暴れ",
+    "vi": "Sogo Oabare",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1314: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "凶悪肉食怪虫カブトーンキング",
+    "vi": "Kabutone King",    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1316: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "トゲトゲリボーン",
+    "vi": "Togetoge Reborn",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1322: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ブービートラップ",
+    "vi": "Booby Trap",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1324: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ランボ",
+    "vi": "Lambo",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1330: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "手榴弾アタック！",
+    "vi": "Grenade Attack!",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1331: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "エレットゥリコ・リバース",
+    "vi": "Elettrico Reverse",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1333: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "獄寺隼人",
+    "vi": "Hayato Gokudera",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1339: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "２倍ボム",
+    "vi": "Double Bomb",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1340: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ボムスプレッズ",
+    "vi": "Bomb Spreads",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1342: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ビアンキ",
+    "vi": "Bianchi",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1348: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ポイズンクッキング≠",
+    "vi": "Poison Cooking II",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1349: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "千紫毒万紅",
+    "vi": "Senshidoku Banko",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1351: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "山本武",
+    "vi": "Takeshi Yamamoto",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1357: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "マイクロハンマー",
+    "vi": "Micro Hammer",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1358: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "時雨蒼燕流<IDEOSP>八の型<IDEOSP>篠突く雨",
+    "vi": "Shigure Soen Ryu<IDEOSP>Form 8<IDEOSP>Shinotsuku Ame",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-002.jsonl:1360: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "イーピン",
+    "vi": "I-Pin",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:2: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "箇子時限超爆",
+    "vi": "Pinzu Jigen Chobaku",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:3: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "あり！？",
+    "vi": "Ari!?",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:5: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "雲雀恭弥",
+    "vi": "Kyoya Hibari",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:11: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "咬み殺す",
+    "vi": "Kamikorosu",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:12: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "処理",
+    "vi": "Shori",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:14: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "限りなく透明に近い父",
+    "vi": "Kagirinaku Tomei ni Chikai Chichi",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:20: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "バッキャロウ！！！",
+    "vi": "Bakkyaro!!!",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:22: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ピヨ彦",
+    "vi": "Piyohiko",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:28: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "リアクション",
+    "vi": "Reaction",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:29: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ゾウさんの笛",
+    "vi": "Zo-san no Fue",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:31: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ハマー",
+    "vi": "Hamer",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:37: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ハマーがいっぱい",
+    "vi": "Hamer ga Ippai",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:38: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ジャンピング土下座",
+    "vi": "Jumping Dogeza",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:40: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ハミデント眠都",
+    "vi": "Hamident Minto",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:46: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "大正解",
+    "vi": "Dai Seikai",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:47: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "電撃ハミィ",
+    "vi": "Dengeki Hammy",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:49: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "Ｄｒ.マシリト",
+    "vi": "Dr. Mashirito",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:57: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "怒りのボツ攻撃",
+    "vi": "Ikari no Botsu Kogeki",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:58: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "２１番「愛の水すまし」",
+    "vi": "No. 21 Ai no Mizusumashi",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:60: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ガッちゃん",
+    "vi": "Gatchan",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:66: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "アシストアタックガジラビーム",
+    "vi": "Assist Attack Gajira Beam",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:67: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ウンチ",
+    "vi": "Unchi",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:71: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "アシストアタックおさんぽウンチ",
+    "vi": "Assist Attack Osanpo Unchi",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:72: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "越前リョーマ",
+    "vi": "Ryoma Echizen",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:76: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ツイストサーブ",
+    "vi": "Twist Serve",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:77: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ＣＯＯＬドライブ",
+    "vi": "COOL Drive",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:79: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "手塚国光",
+    "vi": "Kunimitsu Tezuka",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:85: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "手塚ゾーン",
+    "vi": "Tezuka Zone",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:86: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "百錬自得の極み<IDEOSP>零式ドロップ",
+    "vi": "Hyakuren Jitoku no Kiwami<IDEOSP>Zero-Shiki Drop",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:88: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "不二周助",
+    "vi": "Shusuke Fuji",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:94: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "羆落とし",
+    "vi": "Higuma Otoshi",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:95: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "蜉蝣包み",
+    "vi": "Kagero Zutsumi",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:97: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "菊丸英二／大石秀一郎",
+    "vi": "Eiji Kikumaru / Shuichiro Oishi",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:103: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "分身",
+    "vi": "Bunshin",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:104: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "同調",
+    "vi": "Synchronization",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:106: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "桃城武",
+    "vi": "Takeshi Momoshiro",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:112: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ダンクスマッシュ",
+    "vi": "Dunk Smash",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:113: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ジャックナイフ",
+    "vi": "Jack Knife",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:115: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "海堂薫",
+    "vi": "Kaoru Kaido",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:121: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "スネイク",
+    "vi": "Snake",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:122: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "トルネードスネイク",
+    "vi": "Tornado Snake",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:124: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "乾貞治",
+    "vi": "Sadaharu Inui",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:130: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "青酢",
+    "vi": "Aozu",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:131: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ウォーターフォール",
+    "vi": "Waterfall",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:133: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "河村隆",
+    "vi": "Takashi Kawamura",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:139: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "応援",
+    "vi": "Ouen",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:140: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ダッシュ波動球",
+    "vi": "Dash Hadokyu",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:142: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "跡部景吾",
+    "vi": "Keigo Atobe",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:148: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "破滅への輪舞曲",
+    "vi": "Hametsu e no Rondo",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:149: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "氷の世界",
+    "vi": "Kori no Sekai",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:151: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "小早川瀬那",
+    "vi": "Sena Kobayakawa",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:156: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "デビルバットゴースト",
+    "vi": "Devil Bat Ghost",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:157: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "デビルバットハリケーン",
+    "vi": "Devil Bat Hurricane",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:159: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "蛭魔妖一",
+    "vi": "Yoichi Hiruma",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:165: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "地獄のダンス！",
+    "vi": "Jigoku no Dance!",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:166: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "デビルレーザー弾",
+    "vi": "Devil Laser Bullet",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:168: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "栗田良寛",
+    "vi": "Ryokan Kurita",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:174: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "鉄壁のガード",
+    "vi": "Teppeki no Guard",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:175: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "爆破",
+    "vi": "Blast",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:177: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "武蔵厳",
+    "vi": "Gen Takekura",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:183: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "格言",
+    "vi": "Kakugen",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:184: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "６０ヤードマグナム",
+    "vi": "60-Yard Magnum",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:186: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "雷門太郎",
+    "vi": "Taro Raimon",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:192: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "努力ＭＡＸ",
+    "vi": "Doryoku MAX",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:193: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "キャッチＭＡＸ",
+    "vi": "Catch MAX",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:195: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ハァハァ三兄弟",
+    "vi": "Ha-Ha Brothers",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:201: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ハ？はァ！？はぁぁぁぁあ！？",
+    "vi": "Ha? Haa!? Haaaa!?",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:202: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "電撃突撃",
+    "vi": "Blitz",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:204: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "進清十郎",
+    "vi": "Seijuro Shin",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:210: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "鍛錬が足らんな",
+    "vi": "Tanren ga Taranna",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:211: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "スピアタックル",
+    "vi": "Spear Tackle",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:213: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "デビルバット",
+    "vi": "Devil Bat",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:219: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "アシストアタックデビルバイト",
+    "vi": "Assist Attack Devil Bite",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:220: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ケルベロス",
+    "vi": "Cerberus",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:224: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "アシストアタックヘルダイブ",
+    "vi": "Assist Attack Hell Dive",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:225: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "桜木花道",
+    "vi": "Hanamichi Sakuragi",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:229: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "フンフンディフェンス",
+    "vi": "Hun Hun Defense",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:230: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ＳＬＡＭ<IDEOSP>ＤＵＮＫ",
+    "vi": "SLAM<IDEOSP>DUNK",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:232: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "流川楓",
+    "vi": "Kaede Rukawa",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:238: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "居眠り運転",
+    "vi": "Inemuri Unten",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:239: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "レッグスルードリブル",
+    "vi": "Leg-Through Dribble",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:241: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "赤木剛憲",
+    "vi": "Takenori Akagi",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:247: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "湘北は負けんぞ",
+    "vi": "Shohoku wa Maken zo",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:248: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ゴリラダンク",
+    "vi": "Gorilla Dunk",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:250: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "三井寿",
+    "vi": "Hisashi Mitsui",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:256: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "バスケがしたいです",
+    "vi": "Basket ga Shitai desu",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:257: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "あきらめの悪い男",
+    "vi": "Akirame no Warui Otoko",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:259: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "宮城リョータ",
+    "vi": "Ryota Miyagi",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:265: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "スティール",
+    "vi": "Steal",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:266: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "ＮＯ．１ガード",
+    "vi": "No. 1 Guard",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:268: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "夜神月",
+    "vi": "Light Yagami",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:274: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "裁き",
+    "vi": "Sabaki",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:275: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "神の所業",
+    "vi": "Kami no Shogyo",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:277: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "Ｌ",
+    "vi": "L",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:283: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "監視",
+    "vi": "Kanshi",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:284: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "監禁",
+    "vi": "Kankin",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:286: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "弥海砂",
+    "vi": "Misa Amane",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:292: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "死神の目",
+    "vi": "Shinigami no Me",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:293: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
+  },
+  {
+    "ja": "死神レム",
+    "vi": "Shinigami Rem",
+    "status": "working_romanization_qa",
+    "note": "CP012 04-koma-chieu-thuc-003.jsonl:295: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
   }
 ]
