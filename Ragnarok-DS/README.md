@@ -185,15 +185,26 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - **Chưa có bản ROM Việt hóa tích hợp**, chưa nhúng font tiếng Việt hoặc QA hiển thị trên NDS.
 - **Đợt 019:** tệp `05-hoi-thoai-017.jsonl` có **478 mục** chưa dịch, tiếp tuyến điều tra của Lilac.
 
+## Checkpoint 019 — 18/11/2026
+
+- Hoàn thành toàn bộ **478 mục** của `05-hoi-thoai-017.jsonl` (474 mục khác nguyên tác, 4 câu/tên giữ nguyên). Patch: `translation/PATCH-DOT019.jsonl`.
+- **Tích lũy 8.126/14.616 mục (55,60%)**, còn 6.490 mục chưa dịch (`vi=null`); **7.648 mục** checkpoint 018 không thay đổi.
+- Nội dung: Lilac và Viselc hợp tác điều tra đoàn buôn bị tấn công; Akari cảnh báo nguy cơ vu oan tại Morocc; nhóm bị phép ác mộng tại East Prontera Woods, cô bé hé lộ hai người đàn ông trong ký ức; Lisir cho người chơi uống thuốc tăng chiều cao khiến lời nói thành giọng quý tộc; tìm 2 Panaceas + 5 Holy Waters để giải; Viselc hợp tác Merchant diệt kiến Ant Hell/Gold Thief Bug, khôi phục ốc đảo và đối phó cơn sốt trẻ em do phấn hoa ở Eternal Sands.
+- **QA của nguồn gốc `tools/check_handoff.py`**: `source_rows=14616`, `translated=8126`, `unfinished=6490`, `errors=[]`. Giữ nguyên `en`, ID, context, uses, group, token tên động, mã màu và thứ tự trang.
+- Source USA index **422**: nhãn `Moroccan<CFFFD>` không có `<C3000>`; nhãn được dịch “Người Morocc” nhưng không chèn/sửa thẻ game.
+- **4 mục cảnh báo độ dài ký tự**, không phải lỗi đã xác nhận trên khung NDS; dữ liệu còn cần bổ sung font và kiểm thử ROM/giả lập/máy thật.
+- Trong ZIP checkpoint 019 có đủ 33 JSONL tích lũy, patch, glossary, danh bạ nhân vật, bảng xưng hô và QA.
+- **Đợt 020:** bắt đầu `05-hoi-thoai-018.jsonl` với **412 mục** chưa dịch, mở đầu bằng Merchant Morocc cảm ơn nhóm.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **7.648 patch records** từ các đợt 001–018, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **8.126 patch records** từ các đợt 001–019, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_018_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_019_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
