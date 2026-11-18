@@ -109,3 +109,17 @@ Tình trạng đã qua QA cấu trúc, chưa kiểm chứng khung chữ và font
 **Khoá thuật ngữ đợt 006:** Rodia, Zane, Edwin, Fiona, Arunafeltz, Golden Eagle, Emperium, Guild, Guildmaster, Kafra Inc., Kafra Services, Letter to Aldo, Rusty Legendary Sword, Dark Knight, Yusidra Caves, Frione Tear.
 
 **QA:** Không sửa thứ tự hay số lượng token `<CFFFB>`, `<CFFFA>`, `<CFFFD>`, `<CFFFC>` và mã màu; còn chờ font tiếng Việt và kiểm tra giới hạn ô thoại.
+
+
+## Đợt 007 — Popi, Gales, Juno và Somatology Laboratory
+
+- **Yolanda → nhóm:** tôi/mọi người; gọi Popi là người nhà, đừng để nhân vật tiết lộ Popi là chó trước cảnh vòng cổ.
+- **Nhân vật chính – Lisir:** tôi/cậu; Lisir lo lắng khi trở lại Ant Hell vì ký ức về cha mẹ. Tranh cãi vui về phần thưởng không làm giảm nỗi sợ.
+- **Lucifi – Lisir:** tôi/cô; Lisir đùa Lucifi già, Lucifi tự nhận mới ngoài hai mươi. Khi cô bé gặp nguy, chuyển sang giọng khẩn trương.
+- **Nhân vật chính – cô bé (`<CFFFA>`):** tôi/cậu; cô bé bắt đầu nhận biết vui, buồn, giận dỗi. Không gán danh tính trước khi game tiết lộ.
+- **Nhân vật chính – bố mẹ:** nhân vật chính kể về bố và mẹ, gọi “bố”, “mẹ”; đoạn bệnh mất của mẹ phải nghiêm túc. Không biến mâu thuẫn với bố thành lời thoại gây cười.
+- **Gales ↔ nhóm/cô bé:** tôi/các cậu, tôi/cô; tự nhận từng làm ở cơ sở nghiên cứu và muốn bảo vệ cô bé. Nhóm nghi ngờ ông sau cái bẫy, nhưng **chưa khẳng định động cơ thật**.
+- **Viselc ↔ nhóm:** tôi/cậu, suy xét bằng chứng, không kết luận khi chưa đủ thông tin. **Skal ↔ nhóm:** tôi/cậu, tự tin và đòi High Orc Helm đổi Card Key.
+- **Nhãn vai trò thường:** Researcher → Nhà nghiên cứu; Security → Bảo vệ; Captain → Đội trưởng; giữ nguyên tên riêng/thuật ngữ gameplay: High Orc Helm, High Orc, Card Key, File F, Gales, Juno, Somatology Laboratory, Ant Hell, Frione, Guild, Golden Eagle Guild.
+
+**QA:** Đã giữ nguyên trình tự các mã `<CFFFB>`, `<CFFFA>`, `<CFFFD>`, `<CFFFC>`, mã màu và mã khác; 0 lỗi cấu trúc. Font và khung thoại trên NDS chưa kiểm thử.
