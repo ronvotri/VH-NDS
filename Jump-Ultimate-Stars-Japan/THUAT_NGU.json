@@ -7792,5 +7792,167 @@
     "vi": "Quincy",
     "status": "term_translation_qa",
     "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "有沢竜貴",
+    "vi": "Tatsuki Arisawa",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 character_name; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "松本乱菊",
+    "vi": "Rangiku Matsumoto",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 character_name; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "砕蜂",
+    "vi": "Soi Fon",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 character_name; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "涅マユリ",
+    "vi": "Mayuri Kurotsuchi",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 character_name; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "宗弦",
+    "vi": "Soken Ishida",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 character_name; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "乱装天傀",
+    "vi": "Ransotengai",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 skill_romanization; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "疋殺地蔵",
+    "vi": "Ashisogi Jizo",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 skill_romanization; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "盾舜六花",
+    "vi": "Shun Shun Rikka",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 skill_romanization; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "千本桜景厳",
+    "vi": "Senbonzakura Kageyoshi",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 skill_romanization; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "崩玉",
+    "vi": "Hogyoku",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 term_romanization; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "清虫",
+    "vi": "Suzumushi",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 skill_romanization; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "神鎗",
+    "vi": "Shinso",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 skill_romanization; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "津村斗貴子",
+    "vi": "Tokiko Tsumura",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 character_name; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "キャプテン・ブラボー",
+    "vi": "Captain Bravo",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 character_name; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "ホムンクルス",
+    "vi": "Homunculus",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 term; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "武装錬金",
+    "vi": "Buso Renkin",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 skill_romanization; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "サンライトハート",
+    "vi": "Sunlight Heart",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 skill_name; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "シルバースキン",
+    "vi": "Silver Skin",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 skill_name; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "ライブメタル",
+    "vi": "Live Metal",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 term; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "タートル号",
+    "vi": "Turtle",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 vehicle_name; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "タイガーショット",
+    "vi": "Tiger Shot",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 skill_name; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "ネオタイガーショット",
+    "vi": "Neo Tiger Shot",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 skill_name; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "ファイヤーショット",
+    "vi": "Fire Shot",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 skill_name; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "超サイヤ人",
+    "vi": "Super Saiyan",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 term; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "ポタラ",
+    "vi": "Potara",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 item_name; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "セル",
+    "vi": "Cell",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 character_name; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
+  },
+  {
+    "ja": "キュイ",
+    "vi": "Cui",
+    "status": "romanization_or_english_to_review",
+    "note": "CP015 character_name; giữ cách viết thống nhất; soát với tên game/manga chính thức ở QA màn hình."
   }
 ]
