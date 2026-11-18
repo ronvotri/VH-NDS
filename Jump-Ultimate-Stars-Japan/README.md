@@ -1,15 +1,17 @@
-# Jump Ultimate Stars (Japan) — Checkpoint 027
+# Jump Ultimate Stars (Japan) — Checkpoint 028
 
-**Đã dịch: 16,941 / 34.919 chuỗi (48.52%).** Đợt này thêm **612 ID**, còn **17,978**.
+**Đã dịch: 17.615 / 34.919 chuỗi (50,45%).** Đợt này thêm **674 ID**, còn **17.304**.
 
-- Dịch `06-jquiz-001.jsonl` dòng **651–1262**: nhóm quiz câu số **100–204**, phần còn lại *Black Cat* và tiếp qua *Bleach*. Checkpoint 028 bắt đầu ở dòng **1263**, câu số 205.
-- `translation/` lưu đầy đủ **30 file JSONL** với ID, nguồn Nhật, context và các bản dịch CP001–CP027.
-- `BAN_DICH_027.jsonl` gồm 612 bản dịch mới; `BAN_DICH_TONG_HOP_001-027.jsonl` gồm đúng **16,941 câu**.
-- Bảo toàn toàn bộ 16.329 câu cũ; không đổi `ja`, `id`, `quiz_context`, lựa chọn hoặc vị trí. Xem `QA_027.json`.
-- `THUAT_NGU.json` có 1517 mục; một số phiên âm từ bản Nhật vẫn cần đối chiếu nguồn English chính thức.
-- Giữ nguyên các câu hỏi cần hình và lựa chọn thiếu trong từng đoạn nguồn: **chưa kiểm nghiệm answer key** hoặc hiển thị trực tiếp trong game.
-- Có **6362** chuỗi Việt dài quá 37 ký tự Unicode, cần đo pixel khi có font NDS.
+- Dịch `06-jquiz-001.jsonl` dòng **1263–1930** (**668 ID**), hoàn tất file J-Quiz 001. Nội dung phần cuối *Bleach*, *Buso Renkin* và *Space Adventure Cobra*.
+- Dịch nối `06-jquiz-002.jsonl` dòng **0–5** (**6 ID**) để khép câu hỏi 322, không tạo sai ngữ cảnh giữa file. **CP029 bắt đầu file 002 dòng 6**, câu hỏi 323.
+- `translation/` có đủ 30 file JSONL với ID, nguồn Nhật, metadata, quiz_context và các bản dịch CP001–CP028.
+- `BAN_DICH_028.jsonl` gồm 674 bản dịch mới; `BAN_DICH_TONG_HOP_001-028.jsonl` gồm đúng **17.615 câu**.
+- Giữ nguyên toàn bộ 16.941 bản dịch trước, không sửa `ja`, `id`, `quiz_context`, vị trí lựa chọn, số lượng dòng. QA tự động ở `QA_028.json`.
+- `THUAT_NGU.json` có **1526 mục**, một số tên Latin chưa xác minh chính thức được ghi chú trong tài liệu xưng hô.
+- Duy trì toàn bộ thẻ game; kiểm tra lỗi Unicode NFC và các placeholder.
+- Có **6412** chuỗi Việt dài hơn 37 ký tự Unicode, cần đo bề rộng pixel thật khi có font NDS.
+- Câu hỏi dựa hình và đáp án **chưa** được QA trong game. Một số chuỗi nguồn là nửa câu/đáp án do tái dùng ID; không tự điền đáp án.
 
-**Chưa phải patch ROM NDS:** chưa chèn font, chưa build ROM/patch hay QA gameplay.
+**Chưa phải ROM NDS đã Việt hóa**: chưa font, chưa chèn, chưa patch và chưa gameplay QA.
 
-Repo: `ronvotri/VH-NDS`, nhánh `vh/jump-ultimate-stars-japan`, thư mục `Jump-Ultimate-Stars-Japan/`. Chỉ đánh dấu đồng bộ GitHub sau khi kiểm tra SHA trực tiếp.
+Repo: `ronvotri/VH-NDS`, nhánh `vh/jump-ultimate-stars-japan`, thư mục `Jump-Ultimate-Stars-Japan/`. Chỉ ghi nhận cập nhật GitHub sau khi xác minh qua GitHub trực tiếp.
