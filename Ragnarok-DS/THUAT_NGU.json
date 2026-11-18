@@ -772,5 +772,35 @@
     "vi": "High Orcs",
     "status": "confirmed-in-checkpoint-010",
     "note": "Tên quái theo bản USA."
+  },
+  {
+    "en": "Yggdrasil Branch",
+    "vi": "Yggdrasil Branch",
+    "status": "confirmed-in-checkpoint-011",
+    "note": "Tên item mở Shaman ở hội thoại 009."
+  },
+  {
+    "en": "Kafra Travel Services",
+    "vi": "Kafra Travel Services",
+    "status": "confirmed-in-checkpoint-011",
+    "note": "Tên dịch vụ chính; giữ nguyên tên tổ chức."
+  },
+  {
+    "en": "Jellopies",
+    "vi": "Jellopies",
+    "status": "confirmed-in-checkpoint-011",
+    "note": "Tên item nhiệm vụ Milika."
+  },
+  {
+    "en": "Somatoloty Laboratory",
+    "vi": "Somatoloty Laboratory",
+    "status": "confirmed-in-checkpoint-011",
+    "note": "Biến thể đánh vần trong menu Kafra bản USA (khác Somatology); không tự sửa tên."
+  },
+  {
+    "en": "Milika",
+    "vi": "Milika",
+    "status": "confirmed-in-checkpoint-011",
+    "note": "Tên riêng NPC tại Prontera."
   }
 ]
