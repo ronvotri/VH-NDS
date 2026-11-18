@@ -143,3 +143,15 @@
 - **Saint Seiya:** tôn trọng cách gọi Saints, Athena, Cloth; không tự chuyển lời mô tả sang kiểu 'ta–ngươi'.
 - **Kinnikuman, Captain Tsubasa, Dr. Slump, Luckyman:** tên chính thức/Latin được ưu tiên; chất hài chỉ thêm khi có nền từ bản Nhật, tránh tự bịa biệt danh và đòn đánh.
 - **Tên rút gọn trong danh sách cuối file:** dịch sang Latin phổ biến theo ngữ cảnh franchise (ví dụ `悟空` → Goku, `一護` → Ichigo). Một số tên ngắn mơ hồ vẫn đánh dấu `character_name_qa` để kiểm tra với hình Koma/ROM.
+
+
+## CP014 — Thư viện nhân vật (Bobobo / Black Cat / Bleach)
+
+- **Các đoạn tiểu sử và tóm tắt truyện** là giọng người kể chuyện, không tự động gán nhân vật trong tiêu đề là người phát ngôn. Ưu tiên câu kể không xưng hô.
+- **Bobobo và Don Patch**: hoạt bát và phi lý, được pha chút giọng hài; khi có lời quát đối thủ có thể dùng “ta – ngươi / mày”, nhưng chỉ theo sắc thái câu Nhật.
+- **Beauty**: thường là người phản ứng, tức giận trước trò lố của đồng đội; không dịch thành tục tĩu.
+- **Eve → Sven/Train**: giữ sắc thái còn nhỏ, chủ động, đôi khi ghen với Train vì muốn thành bạn đồng hành của Sven; ưu tiên “em – anh” khi thật sự là lời thoại trực tiếp, không áp cho lời kể.
+- **Train → Creed**: đối địch, có thể dùng “ta – ngươi” khi câu Nhật cứng rắn; **Train → Saya**: giọng dịu hơn, thân thiết.
+- **Ichigo → Byakuya**: căng thẳng, nói thẳng; **Renji → Byakuya**: vẫn tôn trọng chức đội trưởng trong lời gọi chính thức, dù quyết vượt qua; **Toshiro → Gin**: cảnh cáo gay gắt khi Momo gặp nguy hiểm.
+- **Rukia → Ichigo**: thân thiết nhưng có lối nói hơi cổ; **Kon → Rukia**: ngưỡng mộ quá mức, nên giữ sự lố bịch kiểu nguyên tác.
+- Những ngôi xưng này là **quy tắc dịch theo cảnh**; từng trích dẫn thư viện cần soát nguồn manga trước khi xác định speaker chắc chắn.
