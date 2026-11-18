@@ -1,19 +1,24 @@
-# Jump Ultimate Stars (Japan) – Checkpoint 008
+# Jump Ultimate Stars (Japan) — Checkpoint 009
 
-- Nguồn: **JumpUltimateStars_VietHoa_Checkpoint_007.zip**; bản Nhật AJUJ.
-- Đã dịch: **4,698 / 34,919** chuỗi (13.45%); còn **30,221** chuỗi có `vi=null`.
-- Mới dịch đợt 008: **797** chuỗi, gồm **562** dòng trợ giúp (file `02-thoai-tro-giup-002.jsonl`, dòng **854–1415**) và **235** dòng Koma/Skill (file `04-koma-chieu-thuc-001.jsonl`, dòng **1134–1368**).
-- Kết thúc hai file: `02-thoai-tro-giup-002.jsonl` **1416/1416** dòng và `04-koma-chieu-thuc-001.jsonl` **1369/1369** dòng đã có bản Việt.
-- QA: 34,919 ID duy nhất, 0 lỗi sửa bản gốc, 0 ghi đè câu cũ, 0 lỗi thẻ. Số đoạn Việt dài trên 37 ký tự (chỉ cảnh báo, chưa đo pixel): **896**.
-- Đã giữ nguyên tên Koma, Deck, Special Soul, J-Power, Wi-Fi Connection, nhân vật và kỹ năng; từ chưa xác minh English chính thức tạm giữ dạng romanized Japanese. 
-- Câu thoại Info Character không suy đoán danh tính nếu chưa có metadata. Giọng kiếm sĩ theo `tại hạ/các hạ`, hướng dẫn hệ thống trung tính. 
-- ZIP bàn giao gồm đủ 30 JSONL nguồn và bản dịch, file sai biệt 008 cùng bản hợp nhất, thuật ngữ/xưng hô gốc 007 và báo cáo QA.
+Bản Nhật **AJUJ**, ngày 18/11/2026; tiếp từ Checkpoint 008, không chứa ROM.
 
-**Đây là dữ liệu dịch, chưa phải patch ROM.** Chưa tích hợp font Việt hoặc kiểm thử trên máy NDS / giả lập, chưa xác minh độ rộng pixel.
+- Tổng: **5,369 / 34.919** chuỗi (15.38%), còn **29,550** dòng `vi=null`.
+- Mới dịch đợt 009: **671 chuỗi**.
+  - 505 dòng trợ giúp ở `02-thoai-tro-giup-003.jsonl`, dòng 0–504.
+  - 166 dòng Koma/Skill ở `04-koma-chieu-thuc-002.jsonl`, dòng 0–165 (Bobobo, Kochikame, Gintama, Reborn).
+- Bảo toàn **4.698 bản dịch cũ**, toàn bộ ID, JA, metadata (`context`, `uses`, v.v.) và thẻ điều khiển. Không xóa/đổi dữ liệu chưa dịch.
+- Kết quả QA tĩnh: 34.919 ID duy nhất, **0 lỗi**. Có **971** câu trên 37 ký tự Unicode cần kiểm tra tràn màn hình về sau.
 
-## Bản dịch trên GitHub
+## Nội dung ZIP
 
-- [BAN_DICH_008.jsonl](BAN_DICH_008.jsonl): 797 bản dịch mới giữ ID + tiếng Nhật gốc.
-- [BAN_DICH_TONG_HOP_001-008.jsonl](BAN_DICH_TONG_HOP_001-008.jsonl): hợp nhất 4.698 bản dịch (không phải toàn bộ 34.919 hàng).
-- [QA_008.json](QA_008.json): kiểm tra cấu trúc.
-- File ZIP Checkpoint 008 gửi trong cuộc trò chuyện có đủ 30 file JSONL gồm cả các hàng chưa dịch; **GitHub lưu bảng sai biệt**, không phải bản ROM có thể chơi.
+- `translation/`: 30 file JSONL nguồn và trường `vi`, chưa dịch là `null`.
+- `BAN_DICH_009.jsonl`: 671 bản dịch mới (kèm `file`, `row_index`, `id`, `ja`, `vi`).
+- `BAN_DICH_TONG_HOP_001-009.jsonl`: 5.369 bản dịch hợp nhất.
+- `THUAT_NGU.json`: bảng thuật ngữ có trạng thái xác minh.
+- `XUNG_HO_NHAN_VAT.md`: xưng hô theo giọng nói và độ tin cậy, không gán speaker tùy tiện.
+- `QA_009.json`, `CAU_DAI_CAN_SOI_009.tsv`: báo cáo và những câu có nguy cơ tràn.
+- `tools/check_translations.py`: công cụ kiểm tra tĩnh.
+
+**Quy tắc:** Tên nhân vật, manga, Item, Skill và thuật ngữ chính giữ English/romanized; Việt hóa nội dung trò chơi từ JA gốc. Giữ tất cả mã `<B0A>`, `<IDEOSP>`, `<PERCENT_FULL>`; không coi tên Skill tạm là localized chính thức.
+
+**Chưa có font Việt/ROM writer, chưa tích hợp hoặc kiểm thử gameplay. Đây là dữ liệu dịch, không phải patch chơi được.**
