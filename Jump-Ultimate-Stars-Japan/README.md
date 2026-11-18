@@ -1,14 +1,22 @@
-# Jump Ultimate Stars (Japan) — Checkpoint 016
+# Jump Ultimate Stars – Checkpoint 017
 
-Dữ liệu nguồn bản Nhật AJUJ, dựa trên Checkpoint 015; **không có ROM hoặc patch NDS**.
+Bản Nhật AJUJ. Dịch trực tiếp từ tiếng Nhật, giữ Item, Skill và tên đặc trưng bằng English/Latin; nội dung thoại/truyện dùng tiếng Việt gần gũi, vừa phải.
 
-- **Đã Việt hóa 9.944/34.919 chuỗi (28.48%)**, còn 24.975 chuỗi `vi=null`.
-- Đợt 016 dịch **650 câu mới**, file `05-thu-vien-nhan-vat-002.jsonl`, **dòng 300–949**; tiếp từ 950 (Dr. Slump).
-- Trọn nhóm Vegeta, Gohan, Gotenks, Piccolo, Frieza, Majin Buu, Trunks, Master Roshi, Bulma; D.Gray-man (Allen, Lenalee, Lavi, Kanda, Krory, Komui); Death Note (Light, L, Misa, Near, Mello).
-- `translation/`: **30 file JSONL đầy đủ**, giữ chính xác ID, câu `ja` và metadata; chưa dịch là `vi=null`.
-- `BAN_DICH_016.jsonl`: 650 câu mới với file/dòng/ID/gốc/dịch. `BAN_DICH_TONG_HOP_001-016.jsonl`: 9.944 câu đã dịch để đối chiếu.
-- `THUAT_NGU.json`: 1342 thuật ngữ; giữ English/romanized tên, Item, Skill, Koma. Tên chưa xác minh được đánh dấu.
-- `XUNG_HO_NHAN_VAT.md`: tiếp tục quy tắc ngôi xưng theo từng manga.
-- `QA_016.json`: 0 lỗi cấu trúc/thẻ điều khiển, 0 câu cũ bị sửa; **2733** đoạn trên 37 ký tự cần xem thử độ rộng thực tế trên màn hình.
+## Tiến độ
+- **10.602/34.919** chuỗi có bản Việt (**30,36%**), còn **24.317**.
+- Đợt mới: **658** chuỗi từ Dr. Slump, Eyeshield 21 và Gintama; trước đó 9.944.
+- File `05-thu-vien-nhan-vat-002.jsonl`: đã xong 13 dòng cuối (950–962).
+- File `05-thu-vien-nhan-vat-003.jsonl`: đã dịch 645 dòng đầu (0–644). Tiếp từ dòng **645**.
 
-**Chưa tích hợp font Việt, chưa xây bản vá và chưa QA chạy trên máy NDS.** Kiểm tra tĩnh không thay thế việc xác minh nghĩa từng câu và đọc trên màn hình thực tế.
+## Dữ liệu
+- `translation/`: 30 file JSONL có đủ ID/ja gốc; `vi=null` nếu chưa dịch.
+- `BAN_DICH_017.jsonl`: 658 bản dịch mới có file, row_index, ID, ja và vi.
+- `BAN_DICH_TONG_HOP_001-017.jsonl`: 10.602 câu hợp nhất.
+- `THUAT_NGU.json`: 1352 mục, tên chiêu chưa xác nhận có nhãn QA.
+- `XUNG_HO_NHAN_VAT.md`: quy tắc vai vế, tên manga và xưng hô.
+- `QA_017.json` và `CAU_DAI_CAN_SOI_017.tsv`: báo cáo QA tĩnh và các dòng cần kiểm tra độ dài.
+
+## Giới hạn
+- 0 ID trùng/mất, 0 lỗi `<IDEOSP>`/thẻ biến, 0 câu cũ bị ghi đè theo đối chiếu ZIP 016.
+- **3139** đoạn dài hơn 37 ký tự Unicode cần rà sau tích hợp font, chưa đo chiều rộng pixel thật.
+- **Chưa chèn ROM, chưa hỗ trợ font Việt, chưa thử trên máy NDS**. Đây chưa phải patch chơi được.
