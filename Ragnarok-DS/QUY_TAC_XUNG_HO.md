@@ -251,3 +251,22 @@ Giữ tên động `<CFFFB>` và các mã phân trang, màu, nhãn nói ở đú
 **Ghi chú bản USA:** Trong hội thoại Brent, index 312 gọi nhầm “Marvin”; vẫn giữ theo nguồn để tránh sửa thiếu căn cứ. Sarah trực tiếp nói “be a man” ở index 336/342; dịch đúng lời thoại nhưng tránh mặc định giới tính nhân vật chính ở các cảnh khác.
 
 **Kỹ thuật:** Bảo toàn token và màu `<CFFFB>`, `<CFFFD>`, `<CFFFC>`, `<CFFF1>`, `<CFFF2>`, `<CFFEF>`, `<C3000>`; chưa đo ký tự theo font thật hoặc test ROM.
+
+
+## Đợt 015 — Marlon/Sarah, Rouche, Sonya, Sopborough, Yolanda, Rolek
+
+| Cặp / NPC | Ngôi xưng | Ngữ cảnh |
+|---|---|---|
+| Marlon ↔ Joshua | Marlon: ta/Josh; Joshua thưa thầy, vâng | Hai nhà nghiên cứu mắc kẹt, được giải cứu |
+| Marlon/Sarah | bố/con | Sarah mồ côi mẹ từ nhỏ; Éclair gắn với nhẫn cưới mẹ |
+| Nhân vật chính ↔ Sarah | tôi/cô; Sarah tôi/cậu | Sarah cáu khi bố không về rồi cảm động khi nhận quà |
+| Lucifi ↔ Lisir ↔ người chơi | tôi/cậu | Truy đuổi, lo lắng cho người có tên động, sau cú va chạm bị lạc |
+| Ông lão → nhóm | ông/các cháu | Chỉ đường từ El Mes Gorge sang Mt. Mjolnir và Prontera |
+| Rouche ↔ người chơi | đe dọa tao/mày ở đầu; sau ta/cậu | Kiểm tra lòng tin qua mật khẩu Trust, chỉ cửa hậu Somatology Laboratory |
+| Sonya ↔ người chơi; bố Sonya | Sonya tôi/cậu, với bố con/bố; bố Sonya ta/cậu | Giày múa bị nguyền và Aquamarine từ Alice |
+| Sopborough ↔ nhân vật chính | ta/cậu; người chơi tôi/ông | Kẻ khoe khoang cuồng Card, châm biếm, giữ Nerdvana |
+| Đội trưởng mỏ → nhóm | ta/nhóc; người chơi tôi/ông | Cứu ba thợ mỏ Mjolnir Dead Pit - 2F; Boss là nhãn quản lý, không phải boss quái |
+| Yolanda ↔ người chơi | tôi/cậu | Tìm vợ cho chó Popi; Somgrad là chó đực, Lily đã có đôi |
+| Rolek ↔ người chơi | ta/cậu | Tu sĩ chuộc lỗi, xin gia nhập Guild vì thông điệp “ánh sáng mới” |
+
+**Kỹ thuật:** `Trust` là mật khẩu bắt buộc giữ nguyên. Một số vai trò `Old Lady`, `Young Man` dùng `<CFFFD>` ngay sau nhãn người nói, không được tự chèn `<C3000>`. Các mã phân trang/màu/tên động kiểm tra khớp nguồn, **chưa QA hiển thị NDS**.
