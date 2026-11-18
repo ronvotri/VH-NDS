@@ -8800,5 +8800,89 @@
     "vi": "Hadokyu",
     "status": "working_romanization_qa",
     "note": "Checkpoint 024. Kawamura; cần đối chiếu chính tả phiên âm"
+  },
+  {
+    "ja": "データテニス",
+    "vi": "Data Tennis",
+    "status": "project_locked",
+    "note": "Tennis style used by Inui"
+  },
+  {
+    "ja": "１０年バズーカ",
+    "vi": "Ten-Year Bazooka",
+    "status": "project_locked",
+    "note": "Reborn!; temporal swap"
+  },
+  {
+    "ja": "ポイズンクッキング",
+    "vi": "Poison Cooking",
+    "status": "project_locked",
+    "note": "Reborn!; Bianchi"
+  },
+  {
+    "ja": "邪眼",
+    "vi": "Jagan",
+    "status": "provisional_romanization",
+    "note": "Yu Yu Hakusho; Hiei third eye"
+  },
+  {
+    "ja": "邪王炎殺拳",
+    "vi": "Jao Ensatsu Ken",
+    "status": "provisional_romanization",
+    "note": "Yu Yu Hakusho; verify spelling"
+  },
+  {
+    "ja": "黒龍波",
+    "vi": "Kokuryuha",
+    "status": "provisional_romanization",
+    "note": "Yu Yu Hakusho; verify full technique name"
+  },
+  {
+    "ja": "霊剣",
+    "vi": "Spirit Sword",
+    "status": "project_locked",
+    "note": "Yu Yu Hakusho; Kuwabara"
+  },
+  {
+    "ja": "千年パズル",
+    "vi": "Millennium Puzzle",
+    "status": "project_locked",
+    "note": "Yu-Gi-Oh!"
+  },
+  {
+    "ja": "千年アイテム",
+    "vi": "Millennium Items",
+    "status": "project_locked",
+    "note": "Yu-Gi-Oh!"
+  },
+  {
+    "ja": "青眼の白龍",
+    "vi": "Blue-Eyes White Dragon",
+    "status": "project_locked",
+    "note": "Yu-Gi-Oh!"
+  },
+  {
+    "ja": "オベリスクの巨神兵",
+    "vi": "Obelisk the Tormentor",
+    "status": "project_locked",
+    "note": "Yu-Gi-Oh!"
+  },
+  {
+    "ja": "オシリスの天空竜",
+    "vi": "Slifer the Sky Dragon",
+    "status": "project_locked",
+    "note": "Yu-Gi-Oh!"
+  },
+  {
+    "ja": "闘いの儀",
+    "vi": "Ceremonial Battle",
+    "status": "provisional_romanization",
+    "note": "Yu-Gi-Oh!; localize/crosscheck wording"
+  },
+  {
+    "ja": "あすたりすく・げーと",
+    "vi": "Asterisk Gate",
+    "status": "provisional_romanization",
+    "note": "Taizo Mote King Saga; unusual anatomical joke"
   }
 ]
