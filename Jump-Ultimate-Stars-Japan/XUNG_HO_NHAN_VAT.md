@@ -123,3 +123,12 @@
 - 896–1054: Yu Yu Hakusho, Yu-Gi-Oh!, Rurouni Kenshin, Black Cat, Bleach. Giữ nguyên tên Skill/Stand/Zanpakuto bằng tiếng Anh hoặc phiên âm; trạng thái ``_qa`` cho tên chưa xác nhận phiên bản tiếng Anh.
 
 **Chú ý:** Bản Nhật tách nhiều câu thành 2–3 ID liên tiếp. Dịch có tính liên kết nhưng không được gộp ID hoặc xóa thẻ `<IDEOSP>`. Các thoại chưa xác minh người nói không tự tạo quan hệ xưng hô mới.
+
+
+## Bổ sung Checkpoint 012 — hệ thống xưng hô và tên riêng
+
+- `04-koma-chieu-thuc-002.jsonl` dòng 1055–1363: **Bleach**, **D.Gray-man**, **Bobobo-bo Bo-bobo**, **Kochikame**, **Gintama**, **Reborn!**. Phần lớn là mô tả Skill trung tính, không tự quy là lời nhân vật. Tên người, Skill và dạng phiên âm giữ chữ Latinh; tên chưa xác nhận ghi `working_romanization_qa`.
+- **Gintama:** Gintoki/Kagura/Shinpachi dùng xưng hô thân mật theo ngữ cảnh, không ép mọi câu thành kiểu cộc cằn. Hijikata/Okita/Kondo thuộc Shinsengumi có vai vế rõ ràng, nhưng nhãn Skill không phải thoại trực tiếp.
+- **Reborn!:** Reborn hướng dẫn sắc sảo; Lambo trẻ con, dễ bị tổn thương; Gokudera rất kính trọng Tsuna; Yamamoto thân mật. Chỉ áp dụng các sắc thái này khi xác nhận được người nói, không thêm vào mô tả cơ chế.
+- `04-koma-chieu-thuc-003.jsonl` dòng 0–300: **Reborn!**, **Jaguar**, **Dr. Slump**, **The Prince of Tennis**, **Eyeshield 21**, **Slam Dunk**, **Death Note**. Chú ý manga Slam Dunk cần trầm hơn ở lời động viên; Death Note nghiêm túc, không nhét tiếng lóng vào lời phán quyết.
+- Độ dí dỏm chỉ dùng cho tình huống nguyên gốc hài (Bobobo/Gintama/Jaguar). Không tự chế chiêu thức, luật chơi hoặc quan hệ.
