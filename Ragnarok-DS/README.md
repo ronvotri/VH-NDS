@@ -151,15 +151,26 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - Bản ZIP checkpoint 015 gồm 33 JSONL tích lũy, patch, thuật ngữ, danh bạ, ma trận ngôi xưng và QA. Chưa thay font hoặc test tiếng Việt trên NDS thật/giả lập.
 - **Kế tiếp:** `05-hoi-thoai-014.jsonl` có 432 mục, bắt đầu với Sopborough.
 
+## Checkpoint 016 — 18/11/2026
+
+- **432/432 mục** được xử lý trong `05-hoi-thoai-014.jsonl`, gồm 429 bản Việt khác nguồn và 3 mục giữ nguyên. Patch: `translation/PATCH-DOT016.jsonl`.
+- **Tích lũy 6.590/14.616 mục (45,09%)**, còn 8.026 mục `vi=null`. Đã giữ nguyên 6.158 mục của checkpoint 015.
+- Tuyến truyện: Sopborough thử thách Wolf Card; Julietta kể chuyện tình cảm, vượt tự ti và xin gia nhập Guild; Cliff và Wandering Swordsman thử thách; Malone và Banished Magician; Rick cùng bài kiểm tra Thieves Guild/Mimic; Zeeter săn dơi đỏ; Lisir viếng mộ bố mẹ; Martha đóng giả ma khiến Lucifi bỏ chạy.
+- **QA:** chạy công cụ gốc `tools/check_handoff.py`: `source_rows=14616`, `translated=6590`, `unfinished=8026`, `errors=[]`. Không sửa trường `en`, ID, thứ tự mã NDS, tên động hoặc placeholder.
+- **Cảnh báo nguồn USA:** Index 176, 369 và 417 của file 014 có thẻ `<C3000>` xuất hiện ngay giữa lời thoại. Index 203 có chuỗi `COLOR_RED>Mimic<CFFF4>` bị thiếu dấu mở mã màu. Bản Việt không tự thay mã; cần xem lại khi patch ROM.
+- Giữ nguyên tên riêng, item, skill, Job và địa danh tiếng Anh; vai trò không tên `Wandering Swordsman` → “Swordsman lang thang”, `Banished Magician` → “Magician bị trục xuất”, `Ghost` → “Hồn ma”.
+- **Chưa** bổ sung font tiếng Việt, patch ROM hoặc kiểm chứng chiều rộng chữ trên giả lập/NDS thật.
+- **Đợt 017:** tiếp tục `05-hoi-thoai-015.jsonl`, **464 mục** chưa dịch.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **6.158 patch records** từ các đợt 001–015, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **6.590 patch records** từ các đợt 001–016, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_015_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_016_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
