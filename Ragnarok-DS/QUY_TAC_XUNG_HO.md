@@ -89,3 +89,23 @@ Tình trạng đã qua QA cấu trúc, chưa kiểm chứng khung chữ và font
 - **Golden Eagle Guild:** giữ nguyên tên Guild; nhãn vai trò chung như “Man with Red Bandana”, “Pretentious Woman” có thể Việt hóa thành “Gã quấn khăn đỏ”, “Quý bà kiêu kỳ”.
 - **Nhân vật chính – cô bé với mã <CFFFA>:** tôi/cậu; không thay mã tên động bằng tên cố định.
 - Nhân vật chưa chứng thực quan hệ vẫn giữ mức **pending-context**. Dùng `<CFFFD>`/`<CFFFC>` và các mã màu đúng thứ tự nguồn; đã QA cấu trúc, chưa test chữ vừa khung.
+
+
+## Đợt 006 — Yusidra, Golden Eagle và Dark Knight
+
+| Nhân vật / cặp quan hệ | Ngôi xưng | Ngữ cảnh |
+|---|---|---|
+| Aldo ↔ Rodia | anh/em | Đã xác nhận tình yêu qua lời Rodia; các hồi tưởng dùng cùng cặp ngôi, không gán tính yêu đương cho Zane |
+| Zane ↔ Aldo/Rodia | tôi/cậu | Đồng đội và lời hy sinh đánh lạc hướng rồng |
+| Aldo ↔ nhân vật chính và party | tôi/các cậu | Nghiêm túc khi kể tai nạn; giữ khả năng Rodia còn sống |
+| Nhân vật chính ↔ Chỉ huy | tôi/thưa ngài; Chỉ huy dùng ta/cậu | Cảnh đăng ký Guild, nhận trách nhiệm Guildmaster |
+| Nhân viên Kafra ↔ nhân vật chính | tôi/bạn | Hướng dẫn quản lý item, party và Guild; giữ Kafra Services / Kafra Inc. |
+| Edwin/Fiona ↔ nhóm | tôi/cậu, đôi khi các cậu | Ban đầu kiêu ngạo, sau vụ tấn công chuyển giọng đau buồn; tuyệt đối không làm trò trước chuyện Fiona bị thương |
+| Nhân vật chính ↔ cô bé (<CFFFA>) | tôi/cậu | Không tự đặt tên/giới tính; cô bé nổi giận khi nhóm mua thanh kiếm mà không hỏi ý |
+| Dark Knight ↔ nhân vật chính | ta/ngươi | Uy hiếp, không tự gán danh tính liên quan đến cha; lời nhân vật chính về bố vẫn là hồi tưởng |
+| Mysterious Man ↔ Underling | ta/ngươi | Nhãn vai trò dịch “Người đàn ông bí ẩn”, “Thuộc hạ”, chưa xác minh danh tính |
+| Yolanda ↔ nhóm | tôi/các cậu | Popi là tên riêng của người thân được nhắc; không áp đặt thông tin ngoài cảnh |
+
+**Khoá thuật ngữ đợt 006:** Rodia, Zane, Edwin, Fiona, Arunafeltz, Golden Eagle, Emperium, Guild, Guildmaster, Kafra Inc., Kafra Services, Letter to Aldo, Rusty Legendary Sword, Dark Knight, Yusidra Caves, Frione Tear.
+
+**QA:** Không sửa thứ tự hay số lượng token `<CFFFB>`, `<CFFFA>`, `<CFFFD>`, `<CFFFC>` và mã màu; còn chờ font tiếng Việt và kiểm tra giới hạn ô thoại.
