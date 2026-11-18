@@ -94,3 +94,19 @@
 - Dòng 422–504 (`info/ss.bin`): trang trọng, hướng dẫn hùng hồn, thuật ngữ **Cosmo** theo Saint Seiya; có thể dùng **ta–ngươi** khi gốc có chủ ngữ. Chưa xác định người nói ở những câu dùng chung.
 - `04-koma-chieu-thuc-002.jsonl` 0–165: các dòng **Skill/Ability** giữ tên tiếng Anh/romanized; các dòng mô tả là trung tính. Lời trích manga giữ dấu hiệu giọng Nhật; vị trí gần tên nhân vật không tự chứng minh danh tính người nói.
 - Các mục `provisional_english_qa` trong bảng thuật ngữ không phải tuyên bố về tên dịch chính thức. Đoạn Nhật bị cắt giữa từ (như `けを締め切った`, `しれない`) cần QA theo cảnh game khi có ROM writer.
+
+
+## Bổ sung CP010 — trợ giúp 003 và Koma/Skill 002
+
+Các đoạn sau được phân nhóm từ lời thoại tiếng Nhật gốc; chỉ những nơi có danh tính phát ngôn rõ mới xác nhận người nói.
+
+- **Trợ giúp 003, dòng 505–564:** giọng nữ thẳng thắn, mạnh mẽ; chỉ dẫn rõ ràng; chưa xác minh người nói.
+- **Dòng 565–664:** giọng sôi nổi, hô hào chiến thắng; chưa xác minh người nói.
+- **Dòng 665–719:** giọng điềm tĩnh, dứt khoát; dùng “ta – cậu” khi cần; chưa xác minh người nói.
+- **Dòng 720–790:** giọng vui vẻ, thân thiện; “tớ – cậu” khi phù hợp; chưa xác minh người nói.
+- **Dòng 791–834:** giọng nữ sắc sảo, hơi lạnh lùng, không đẩy thành xúc phạm; chưa xác minh người nói.
+- **Dòng 835–907:** giọng bông đùa chững chạc; **dòng 868–869 có nêu đích danh Botan**, nhưng không mặc định mọi dòng đều do Botan nói.
+- **Dòng 908–957:** giọng nữ hoạt bát; chưa xác minh người nói.
+- **Koma/Skill 002, dòng 166–365:** Jaguar, Arale, Dr. Mashirito, Muhyo, Neuro/Yako và Kenshiro. Cần tách lời thoại nhân vật khỏi các dòng mô tả kỹ năng trung tính.
+
+Tất cả tên Skill hiếm mới dịch sang tiếng Anh hoặc phiên âm đều được đánh dấu QA tạm trong `THUAT_NGU.json`; chưa xác nhận localized English chính thức.
