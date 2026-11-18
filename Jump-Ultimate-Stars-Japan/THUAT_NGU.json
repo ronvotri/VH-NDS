@@ -8884,5 +8884,101 @@
     "vi": "Asterisk Gate",
     "status": "provisional_romanization",
     "note": "Taizo Mote King Saga; unusual anatomical joke"
+  },
+  {
+    "ja": "真崎杏子",
+    "vi": "Anzu Mazaki",
+    "status": "character_name_qa",
+    "note": "CP026 J-Quiz: Yu-Gi-Oh!; latin name widely used in Japanese order."
+  },
+  {
+    "ja": "毛狩り隊",
+    "vi": "Đội Săn Tóc",
+    "status": "term_translation",
+    "note": "CP026 J-Quiz: Bobobo-bo Bo-bobo faction; not a skill or character name."
+  },
+  {
+    "ja": "バビロン真拳",
+    "vi": "Babylon Shinken",
+    "status": "romanized_japanese_qa",
+    "note": "CP026 J-Quiz: Softon fighting art; hold romanized pending official English QA."
+  },
+  {
+    "ja": "ハジケ村",
+    "vi": "làng Hajike",
+    "status": "place_name_qa",
+    "note": "CP026 J-Quiz: Hajike place name romanized."
+  },
+  {
+    "ja": "ハジケ鳥",
+    "vi": "Hajike Bird",
+    "status": "item_name_qa",
+    "note": "CP026 J-Quiz: Comic object; English working name."
+  },
+  {
+    "ja": "エターナル",
+    "vi": "Eternal",
+    "status": "place_name_qa",
+    "note": "CP026 J-Quiz: Sacred training site in Bobobo."
+  },
+  {
+    "ja": "首領パッチソード",
+    "vi": "Don Patch Sword",
+    "status": "skill_item_qa",
+    "note": "CP026 J-Quiz: Bobobo special weapon; English working name."
+  },
+  {
+    "ja": "マルハーゲ帝国",
+    "vi": "Đế quốc Maruhage",
+    "status": "place_name_qa",
+    "note": "CP026 J-Quiz: Bobobo faction. Preserve Maruhage."
+  },
+  {
+    "ja": "クロノス",
+    "vi": "Chronos",
+    "status": "organization_name",
+    "note": "CP026 J-Quiz: Black Cat organization."
+  },
+  {
+    "ja": "時の番人",
+    "vi": "Chronos Numbers",
+    "status": "organization_name_qa",
+    "note": "CP026 J-Quiz: Black Cat elite unit."
+  },
+  {
+    "ja": "星の使徒",
+    "vi": "Apostles of the Stars",
+    "status": "organization_name_qa",
+    "note": "CP026 J-Quiz: Creed Diskenth organization."
+  },
+  {
+    "ja": "道",
+    "vi": "Tao",
+    "status": "term_qa",
+    "note": "CP026 J-Quiz: Black Cat qi-based fighting system; distinguish nontechnical uses."
+  },
+  {
+    "ja": "掃除屋（スイーパー）",
+    "vi": "Sweeper",
+    "status": "common_english_name",
+    "note": "CP026 J-Quiz: Black Cat bounty hunter job."
+  },
+  {
+    "ja": "オリハルコン",
+    "vi": "Orichalcum",
+    "status": "item_material",
+    "note": "CP026 J-Quiz: Black Cat weapon material."
+  },
+  {
+    "ja": "クリード＝ディスケンス",
+    "vi": "Creed Diskenth",
+    "status": "character_name_qa",
+    "note": "CP026 J-Quiz: Romanization requires QA against official localization."
+  },
+  {
+    "ja": "リンスレット＝ウォーカー",
+    "vi": "Rinslet Walker",
+    "status": "character_name_qa",
+    "note": "CP026 J-Quiz: Romanization requires QA against official localization."
   }
 ]
