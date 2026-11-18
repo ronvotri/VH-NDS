@@ -255,3 +255,11 @@ Các tên Romanization có trạng thái `working_romanization_qa` cần so lạ
 - **Shaman King:** Yoh nói thoải mái, dùng mình hoặc tớ tùy người nghe; tên kỹ năng/thuật ngữ chính để nguyên.
 
 Các tên Romanization có trạng thái `working_romanization_qa` cần so lại với ấn bản chính thức trước khi khóa thuật ngữ.
+
+## Checkpoint 024 — Shaman King / Saint Seiya / Prince of Tennis
+
+- **Yoh – Ren – Anna (Shaman King):** Yoh nói điềm nhiên, xuề xòa, dùng “tớ–cậu” khi nói với bạn ngang tuổi. Ren thường gay gắt, tự trọng cao, có thể dùng “ta–ngươi” trong câu đấu đối kháng. Anna mạnh mẽ, dứt khoát; khi nói với Silva hay Hao, không tự chuyển tất cả thành “mày–tao”. Giữ Furyoku, Oversoul, Shaman Fight và Shikigami.
+- **Seiya, Shiryu, Hyoga, Shun, Ikki (Saint Seiya):** lời trích anh em cùng phe gần gũi nhưng không suồng sã; Shiryu và Ikki mạnh mẽ, trực diện; Shun dịu dàng, dùng “anh” với Ikki. Gold Saint/đối thủ dùng giọng đối chiến trang trọng hoặc gay gắt theo từng câu. Lời kể sự kiện ở ngôi thứ ba; giữ Cloth, Cosmo, Gold/Silver/Bronze Saint và tên đòn.
+- **Ryoma – Tezuka – Fuji – Kikumaru/Oishi (Prince of Tennis):** Ryoma nói tự tin, hơi khiêu khích nhưng vẫn phân biệt cấp trên “anh–em”. Tezuka kiệm lời, nghiêm túc; Fuji điềm tĩnh với lời nói mềm; Kikumaru vui vẻ. Momoshiro nhiệt huyết; Kaido cộc và ít lời. Không biến lời kể trận đấu thành lời của người chơi.
+- **Tar-chan / Lucky Man:** đoạn hài có thể dùng lối nói duyên, hơi lầy mà không thêm câu thoại hoặc thông tin ngoài Nhật gốc. Không gán người nói cho lời thuyết minh.
+- **Cắt dòng & mã:** những câu mô tả nhân vật kéo qua nhiều ID phải giữ đúng ranh giới và số lượng `<IDEOSP>` trên chính ID đó. Bản dịch đoạn dài chưa qua QA font/pixel nên cần kiểm tra trên ROM khi tích hợp.
