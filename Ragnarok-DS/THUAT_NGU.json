@@ -2044,5 +2044,65 @@
     "vi": "Đứa trẻ",
     "status": "reviewed-dot020",
     "note": "Nhãn NPC"
+  },
+  {
+    "en": "Dan",
+    "vi": "Dan",
+    "status": "reviewed-dot021",
+    "note": "Chiến binh được cứu, xin gia nhập Guild"
+  },
+  {
+    "en": "Book of Abstinence",
+    "vi": "Book of Abstinence",
+    "status": "reviewed-dot021",
+    "note": "Item sách dùng trong sát hạch Wizard của Lisir"
+  },
+  {
+    "en": "Nikol",
+    "vi": "Nikol",
+    "status": "reviewed-dot021",
+    "note": "Thief trinh sát bị Assassin sát hại"
+  },
+  {
+    "en": "Assassin Registry",
+    "vi": "Assassin Registry",
+    "status": "reviewed-dot021",
+    "note": "Item manh mối mã hóa của Nikol"
+  },
+  {
+    "en": "Frees",
+    "vi": "Frees",
+    "status": "reviewed-dot021",
+    "note": "Nhóm người Morocc độc lập không thuộc Guild"
+  },
+  {
+    "en": "Pippen",
+    "vi": "Pippen",
+    "status": "reviewed-dot021",
+    "note": "NPC tổ chức nhiệm vụ đổi Job Assassin"
+  },
+  {
+    "en": "Margaret",
+    "vi": "Margaret",
+    "status": "reviewed-dot021",
+    "note": "NPC tổ chức nhiệm vụ đổi Job Wizard"
+  },
+  {
+    "en": "Tank",
+    "vi": "Tank",
+    "status": "reviewed-dot021",
+    "note": "NPC tổ chức nhiệm vụ đổi Job Knight"
+  },
+  {
+    "en": "Isilla",
+    "vi": "Isilla",
+    "status": "reviewed-dot021",
+    "note": "Tên quái tại Prontera Culvert"
+  },
+  {
+    "en": "Mjolnir Dead Pit - B3F",
+    "vi": "Mjolnir Dead Pit - B3F",
+    "status": "reviewed-dot021",
+    "note": "Địa danh lấy sách"
   }
 ]
