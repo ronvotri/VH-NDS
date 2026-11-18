@@ -189,9 +189,18 @@
 - Các dòng phần lớn là **lời kể/tiểu sử**. Chỉ sử dụng ngôi xưng trực tiếp trong đoạn trích/đối thoại được nguồn đánh dấu. Khi file không có người nói thì không tự gắn tên.
 - Những tên chiêu được tạm Latin hóa phải mang nhãn QA, tuyệt đối không nhận là official English khi chưa kiểm chứng.
 
+
 ## Checkpoint 018 – Gintama / Hunter × Hunter / Fist of the North Star / Hoshin Engi
-- **Gintama:** Phần dẫn tiểu sử trung tính; câu thoại xét người nói. Katsura nghiêm túc, hay sửa “Zura” thành “Katsura”. Sacchan thường đùa lố với Gin; Hijikata nghiêm và mê mayonnaise; Okita bình thản mà hiểm; Kondo chân thành nhưng ngốc nghếch, bám Otae. Không tự chuyển câu kể thành lời nhân vật.
-- **Hunter × Hunter:** Gon bộc trực, thân với Killua; Killua nói nhanh, sắc sảo nhưng không tùy tiện tục tĩu. Kurapika kiềm chế; Hisoka đùa cợt nguy hiểm; Chrollo lạnh lùng. Tên Nen/Skill giữ English hoặc phiên âm nhất quán.
-- **Fist of the North Star:** Kenshiro/Raoh trực diện, uy nghiêm; Toki trầm tĩnh, Rei nghĩa hiệp. Trích thoại dùng ngôi xưng theo cảnh và quan hệ, không ép một kiểu cho toàn bộ phần.
-- **Hoshin Engi:** Taikobo vừa lười biếng, hài hước vừa sắc sảo khi nghiêm túc; tránh thêm trò đùa ngoài tiếng Nhật. Giữ Taikobo, Dakki, Taikyokuzu, Paopei theo phiên âm/English; tên chưa chắc phải QA.
-- Đã dịch hết `05-thu-vien-nhan-vat-003.jsonl`; file `05-thu-vien-nhan-vat-004.jsonl` đã dịch dòng 0–299, tiếp từ dòng 300.
+- **Gintama:** giọng dẫn tiểu sử trung tính; với lời thoại phải xét người nói. Katsura có lối nói nghiêm túc, thích chỉnh “Zura” thành “Katsura”. Sacchan nói đùa khá lố khi ở cạnh Gintoki; Hijikata thẳng, nóng tính, nghiện mayonnaise; Okita có nét bình thản mà hiểm. Kondo chân thành, hơi ngốc và bám Otae. Không tự chuyển câu kể thành thoại của nhân vật.
+- **Hunter × Hunter:** Gon bộc trực, dùng “tớ/cậu” với Killua trong tình huống thường; Killua nhanh nhạy và mạnh miệng nhưng không tự biến thành kiểu xấc xược. Kurapika kiềm chế, nghiêm nghị; Hisoka đùa cợt nguy hiểm; Chrollo điềm tĩnh, lạnh lùng. Hệ Nen/Skill giữ tên tiếng Anh hoặc phiên âm nhất quán.
+- **Fist of the North Star:** Kenshiro và Raoh mang giọng uy nghiêm, trực diện; Toki trầm tĩnh; Rey/Rei nghĩa hiệp. Trong trích dẫn từ manga phải bám sát ngữ cảnh (anh/em, ta/ngươi, tôi/anh) thay vì khóa ngôi xưng một kiểu cho cả thư viện.
+- **Hoshin Engi:** Taikobo có nét lười biếng hài hước, nhưng ở cảnh nghiêm túc nói sắc sảo; tránh thêm mảng miếng ngoài bản Nhật. Các tên riêng Taikobo, Dakki, Taikyokuzu, Super Paopei giữ tiếng Anh hoặc phiên âm; từ nào chưa chắc chuẩn chính thức cần QA.
+- Tất cả văn bản của `05-thu-vien-nhan-vat-003.jsonl` đã có bản Việt; `05-thu-vien-nhan-vat-004.jsonl` hiện đã dịch 300 dòng đầu (0–299).
+
+## Checkpoint 019 — thư viện nhân vật 004 (dòng 300–948)
+
+- **Hoshin Engi (300–365):** Taikobo có giọng thoải mái, đôi lúc cố tình đùa; Dakki tự xưng cao ngạo (`わらわ`), dùng **ta – ngươi** trong câu đe dọa, không biến lời kể thành câu của Dakki. Otenkun lạnh lùng; Supushan thân thiết với Taikobo, không tự gán ngôi cho lời tiểu sử.
+- **Ichigo 100% (366–494):** Aya, Tsukasa, Satsuki, Yui và Junpei là học sinh thân quen: **tớ – cậu** khi nhân vật trò chuyện. Những cảnh tỏ tình, từ chối, chia tay giữ cảm xúc thật, không cà khịa vô cớ. Tên nhân vật Latinh, không Việt hóa tên riêng. **I''s (495–566):** Ichitaka, Iori, Itsuki cùng thế hệ; dùng **tớ – cậu**, biệt danh **Icchan** giữ như gốc. Tránh nhập nhằng hai truyện có tên gần giống nhau.
+- **JoJo (567–862):** Jotaro ngắn gọn, kiệm lời (“Yare yare daze” giữ phiên âm); DIO khoa trương, khinh địch, có thể **ta – ngươi** khi đối đầu. Joseph lanh lợi, Josuke dễ bùng nổ vì bị chê tóc, Giorno nghiêm túc với giấc mơ, Jolyne quyết đoán. **Stand names, Hamon, Star Platinum, The World, Crazy Diamond, Gold Experience, Stone Free, Steel Ball Run** giữ tên Anh. Lời tường thuật không tự đổi thành góc nhìn của nhân vật.
+- **Kochikame (863–948):** Ryotsu bộc trực, giọng đời thường/hài khi truyện có chất chọc cười; Ohara nghiêm khắc với cấp dưới. Không gọi Ryotsu theo quân hàm bịa ra, không thêm slang nếu đoạn kể nghiêm túc.
+- Các dòng Nhật bị chia ở giữa từ/câu: luôn ghép mạch nghĩa liên tiếp nhưng ghi lại đúng một trường `vi` cho mỗi `id`, không chuyển token `<IDEOSP>` sang ID khác. **Tất cả đoạn này là nội dung tiểu sử hoặc trích thoại, chưa phải xác nhận speaker_id của engine.**
