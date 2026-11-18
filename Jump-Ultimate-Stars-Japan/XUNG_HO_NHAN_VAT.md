@@ -96,17 +96,30 @@
 - Các mục `provisional_english_qa` trong bảng thuật ngữ không phải tuyên bố về tên dịch chính thức. Đoạn Nhật bị cắt giữa từ (như `けを締め切った`, `しれない`) cần QA theo cảnh game khi có ROM writer.
 
 
-## Bổ sung CP010 — trợ giúp 003 và Koma/Skill 002
+## Bổ sung CP010 — các nhóm trong `02-thoai-tro-giup-003.jsonl`
 
-Các đoạn sau được phân nhóm từ lời thoại tiếng Nhật gốc; chỉ những nơi có danh tính phát ngôn rõ mới xác nhận người nói.
+- Dòng **505–564**: người hướng dẫn nữ thẳng thắn; chỉ thị trực diện, không ép cách xưng hô cố định; **speaker chưa xác minh**.
+- Dòng **565–664**: người hướng dẫn hào hứng, hô hào chiến thắng; thường dùng câu thúc giục có dấu `!`; **speaker chưa xác minh**.
+- Dòng **665–719**: giọng nam điềm tĩnh, dứt khoát; dùng “ta – cậu” khi nguồn buộc xưng hô; **speaker chưa xác minh**.
+- Dòng **720–790**: hướng dẫn giọng nữ thân thiện, nhiều “nha”, “nè”, “tớ”; **speaker chưa xác minh**.
+- Dòng **791–834**: giọng nữ sắc sảo, kiệm lời; không cố tình tăng mức xúc phạm; **speaker chưa xác minh**.
+- Dòng **835–907**: giọng nữ chững chạc, hơi bông đùa. **Dòng 868–869 nêu đích danh Botan** (“このぼたんちゃん”), nhưng không mặc định mọi ID bên ngoài cụm này đều do Botan nói.
+- Dòng **908–957**: giọng nữ hoạt bát; **speaker chưa xác minh**.
+- Koma 002 dòng **166–365** đi qua Jaguar, Arale, Dr. Mashirito, Muhyo, Neuro/Yako, Kenshiro. Phân biệt **câu mô tả gameplay** và **câu thoại có người nói**, không tự chọn ngôi bằng tên Koma đứng cạnh.
 
-- **Trợ giúp 003, dòng 505–564:** giọng nữ thẳng thắn, mạnh mẽ; chỉ dẫn rõ ràng; chưa xác minh người nói.
-- **Dòng 565–664:** giọng sôi nổi, hô hào chiến thắng; chưa xác minh người nói.
-- **Dòng 665–719:** giọng điềm tĩnh, dứt khoát; dùng “ta – cậu” khi cần; chưa xác minh người nói.
-- **Dòng 720–790:** giọng vui vẻ, thân thiện; “tớ – cậu” khi phù hợp; chưa xác minh người nói.
-- **Dòng 791–834:** giọng nữ sắc sảo, hơi lạnh lùng, không đẩy thành xúc phạm; chưa xác minh người nói.
-- **Dòng 835–907:** giọng bông đùa chững chạc; **dòng 868–869 có nêu đích danh Botan**, nhưng không mặc định mọi dòng đều do Botan nói.
-- **Dòng 908–957:** giọng nữ hoạt bát; chưa xác minh người nói.
-- **Koma/Skill 002, dòng 166–365:** Jaguar, Arale, Dr. Mashirito, Muhyo, Neuro/Yako và Kenshiro. Cần tách lời thoại nhân vật khỏi các dòng mô tả kỹ năng trung tính.
+**Chú ý:** tên Skill ít phổ biến là bản English tạm/romanized và có trạng thái QA trong `THUAT_NGU.json`. Không tuyên bố đã đối chiếu localized English chính thức.
 
-Tất cả tên Skill hiếm mới dịch sang tiếng Anh hoặc phiên âm đều được đánh dấu QA tạm trong `THUAT_NGU.json`; chưa xác nhận localized English chính thức.
+
+## Bổ sung CP011 — `04-koma-chieu-thuc-002.jsonl` dòng 366–1054
+
+- Dòng 366–426: Kenshiro và Raoh (Fist of the North Star). Trong đoạn Ken nói với người thân/bằng hữu dùng “cậu/tớ”, lời Raoh và các cao thủ dùng “ta/ngươi” **chỉ khi câu gốc hỗ trợ**. Không tự coi tất cả các câu thuộc Koma Kenshiro là lời Kenshiro.
+- 427–470: Saint Seiya. Giữ Seiya, Cosmo, Pegasus, Sagittarius; nhóm thoại gốc thiên về tình anh em và hy sinh, tránh nhét câu đùa quá trớn.
+- 471–517: Kinnikuman. Mô tả gameplay trung tính, thoại hoàng tử/đồng đội dùng sắc thái cổ vũ thân thiện; Kinnikuman có chất hài nhưng không thêm ý ngoài bản Nhật.
+- 518–568: Otokojuku. Edajima nói đầy uy quyền; Momotaro và các bạn chiến đấu khí chất võ hiệp. Người giữ chức quyền: cách xưng “ngài/tôi” nếu thoại gốc thể hiện.
+- 569–601: Taikobo (Houshin Engi). Giọng Taikobo thư thái, nhưng tài trí; thuộc hạ dùng “chủ nhân”. Không gán cứng người nói trong những câu thiếu speaker.
+- 602–626: Ninku; Fuusuke, Aichou, Toji; nhân vật gọi thân mật tùy thoại gốc. Dòng 615 dùng Aichou theo đối chiếu danh sách nhân vật, không gán nhầm Aira.
+- 627–701: Koma mascot, Dragon Ball, One Piece. Giữ tên chiêu, tránh đổi “J-Soul”, “Special Soul” giữa các đoạn.
+- 702–895: One Piece, Naruto, Shaman King, JoJo, Hunter × Hunter. Các câu trong phần mô tả **không được mặc định là lời thoại** chỉ vì gần tên nhân vật.
+- 896–1054: Yu Yu Hakusho, Yu-Gi-Oh!, Rurouni Kenshin, Black Cat, Bleach. Giữ nguyên tên Skill/Stand/Zanpakuto bằng tiếng Anh hoặc phiên âm; trạng thái ``_qa`` cho tên chưa xác nhận phiên bản tiếng Anh.
+
+**Chú ý:** Bản Nhật tách nhiều câu thành 2–3 ID liên tiếp. Dịch có tính liên kết nhưng không được gộp ID hoặc xóa thẻ `<IDEOSP>`. Các thoại chưa xác minh người nói không tự tạo quan hệ xưng hô mới.
