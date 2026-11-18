@@ -230,3 +230,24 @@ Tình trạng đã qua QA cấu trúc, chưa kiểm chứng khung chữ và font
 | Giám khảo (Judge) ↔ người chơi | ta/cậu | Chỉ phép thuật mới hạ quái ở West Prontera Woods |
 
 Giữ tên động `<CFFFB>` và các mã phân trang, màu, nhãn nói ở đúng vị trí; chưa xác nhận font hoặc độ dài hiển thị trên NDS thật.
+
+
+## Đợt 014 — Thief/Archer/Merchant/Taekwon, đồ quý và NPC
+
+| Nhân vật | Quy ước ngôi xưng | Ngữ cảnh |
+|---|---|---|
+| Setsuna | tôi/cậu; người chơi tôi/cậu | Thử thách Black Carpet; giới tính chưa đủ căn cứ, không gọi “cô” hay “anh” |
+| Jiro | ta/cậu; người chơi tôi/ông | Master Archer, thử thách Owl Baron |
+| Marco | tôi/cậu; người chơi tôi/anh | Merchant, món thưởng Grand Cross |
+| Jim | ta/cậu; người chơi tôi/ông | Taekwon, thử thách Grizzly và triết lý võ sĩ |
+| Gordon | ta/cậu; người chơi tôi/ông | Khoe giàu, trả ít tiền, châm biếm người chơi nghèo |
+| Lime | tôi/cậu; người chơi tôi/cô | Mẹ bé gái hai tuổi nhờ sửa hộp nhạc |
+| Shina | tôi/cậu | Người thợ sửa hộp nhạc của ông nội đã khuất; không đoán giới tính |
+| Allen | tôi/cậu; người chơi tôi/anh | Hộp thời gian chôn ở El Mes Gorge - North |
+| Brent | tôi/cậu; người chơi tôi/anh | Xui xẻo liên tục, mong Four-Leaf Clover đổi vận |
+| Sarah | tôi/cậu; người chơi tôi/cô | Lo bố Marlon và trợ lý Joshua; nóng nảy nhưng không thiếu tình thân |
+| Marlon/Joshua | Marlon ta/cậu; Joshua thưa/vâng | Tìm thấy Éclair rồi bị quái bao vây |
+
+**Ghi chú bản USA:** Trong hội thoại Brent, index 312 gọi nhầm “Marvin”; vẫn giữ theo nguồn để tránh sửa thiếu căn cứ. Sarah trực tiếp nói “be a man” ở index 336/342; dịch đúng lời thoại nhưng tránh mặc định giới tính nhân vật chính ở các cảnh khác.
+
+**Kỹ thuật:** Bảo toàn token và màu `<CFFFB>`, `<CFFFD>`, `<CFFFC>`, `<CFFF1>`, `<CFFF2>`, `<CFFEF>`, `<C3000>`; chưa đo ký tự theo font thật hoặc test ROM.
