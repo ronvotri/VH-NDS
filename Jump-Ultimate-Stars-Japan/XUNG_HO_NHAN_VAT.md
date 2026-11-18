@@ -168,3 +168,14 @@
 - **Captain Tsubasa**: Tsubasa/Misaki dùng “tớ – cậu” trong cảnh đồng đội; Hyuga mạnh mẽ, hiếu thắng; nhân vật trẻ không bị lão hóa giọng.
 - **Goku**: vô tư, giản dị, hồn nhiên kể cả khi kết hôn; lúc nổi giận chuyển giọng dữ dội có căn cứ. **Vegeta**: kiêu ngạo “ta – ngươi” khi nói với kẻ thù; câu thoại của Vegeta không pha hài trừ khi Nhật gốc đã hài.
 - Các nguyên tắc trên là **đề xuất theo cảnh đã dịch**, không coi là speaker ID cố định; cần QA với ảnh thực tế trên NDS.
+
+
+## Checkpoint 016 — nhóm Dragon Ball, D.Gray-man, Death Note
+
+- **Vegeta** trong trích thoại: cách nói ngạo nghễ, khiêu khích; có thể xưng “ta – ngươi” với đối thủ, nhưng trong lời cuối với Trunks/Bulma dùng giọng cha/chồng trầm lắng. Lời kể trong Library giữ ngôi thứ ba.
+- **Gohan** thuở nhỏ: “cháu/con” với người lớn, Goku/Piccolo; khi phẫn nộ xưng hô gắt hơn nhưng không tự chèn tiếng lóng.
+- **Piccolo** đối đầu Raditz/Frieza: nói ngắn, cứng; với Gohan là thầy trò, kín tiếng nhưng quan tâm. **Gotenks** tự tin và trẻ con, **Frieza** điềm tĩnh nhưng tàn nhẫn.
+- **Allen Walker** với người khác: lịch sự, dùng “tôi/cậu” tùy đối tượng, không tự đổi thành giọng bặm trợn; **Lenalee** với Allen: thân thiện, giữa cô với **Komui** dùng “em – anh”.
+- **Kanda** cáu kỉnh, gọi Allen là “giá đỗ”, giữ sự đối lập với giọng Allen; **Lavi** vui vẻ, có chất khẩu ngữ nhưng tránh bịa phương ngữ vượt chứng cứ.
+- **Light Yagami** trong lời độc thoại Kira: lạnh và chắc thắng; **L/Near** hỏi đáp bình tĩnh, lập luận rành rọt; **Misa** có giọng hồn nhiên và hâm mộ Light; **Mello** nóng nảy, cạnh tranh với Near.
+- Các tiểu sử là **người dẫn chuyện ngôi thứ ba**. Không lấy một câu dẫn trích (`『...』`) làm bằng chứng tất cả dòng kề bên đều do nhân vật đó phát ngôn.
