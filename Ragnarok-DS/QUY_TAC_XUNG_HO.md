@@ -385,3 +385,16 @@ Giữ mã `<C3000>` bất thường ở index 80, 163, 180, 183, 300 của file 
 | Biger, Merchant Guild | tôi/cậu | Chú trọng uy tín, thưởng thương vụ Juno; dọa người chơi rồi giả vờ lỡ lời |
 
 **Kỹ thuật:** Giữ nguyên vị trí `<C3000>` bất thường ở index 113. Không tự thêm `<C3000>` cho các nhãn `Guild Member` tại index 249–256. Ở index 460, trang kết thiếu `<CFFFD>` trong nguồn, nên bản Việt giữ nguyên cấu trúc. `<CFFF8>`/`<CFFFB>` không thay bằng tên cố định. Các dòng trong file mới đều có nội dung không quá 36 ký tự Unicode, chưa được thử với font và khung thoại NDS thật.
+
+
+## Đợt 023 — Merchant, Guy, Clay, Sopborough, Attar, Misha, Gin
+
+- **Biger/Merchant Guild:** Biger xưng tôi/cậu; Merchant vô danh dịch nhãn Thương nhân, dùng tôi/cậu. Giữ chính xác 15 Zargon (Beetles), 5 Ogre Tooth (Hi Orcs); Job Merchant vẫn tiếng Anh trong câu.
+- **Guy ↔ người chơi/Taekwon Kid:** Guy là tên riêng, không dịch thành “gã”. Guy dùng ta/cậu, gọi nhóc khi nguyên tác có Young boy; học trò Guy dùng tôi/cậu, kính nể thầy, hay gây rối. Bài thử yêu cầu đúng hai thành viên.
+- **Clay ↔ người chơi:** tôi/cậu; thợ rèn có tâm, cần 20 Garlets để hoàn thành đơn hàng kiếm; thưởng Executioner gia truyền, phải có chỗ trống trong túi.
+- **Sopborough ↔ người chơi:** ta/cậu, sưu tầm Card cuồng nhiệt, hay lý luận dài dòng; người chơi đáp châm chọc vừa đủ. Tên Alice Card, Dark Lord Card, Card Collector giữ nguyên.
+- **Attar ↔ người chơi:** tôi/cậu, gọi Lughill là anh trai đã khuất. Ham kho báu nhưng biết ơn và sẵn lòng tặng Mjolnir; Aghill (hồn ma) xưng ta/ngươi, đe dọa lấy linh hồn.
+- **Misha ↔ người chơi:** tôi/cậu, giọng trang trọng khi nhờ điều tra Somatology Laboratory/Lighthalzen; giữ Rosario, Acolyte và địa danh tiếng Anh.
+- **Gin ↔ người chơi:** ta/cậu, khen năng lực và trao Knight's Spirit chứa bí thuật Knight. Không mặc định giới tính người chơi dù bản Anh có một đại từ “his”.
+- **Ngôi tên động:** giữ nguyên `<CFFFB>` và `<CFFF8>`. Toàn bộ `<CFFF1>`, `<CFFF2>`, `<CFFEF>`, `<CFFF4>`, `<CFFFC>`, `<CFFFD>`, `<C3000>` đúng thứ tự nguồn.
+- **Nguồn USA bất thường:** index 83, 172, 348 có `<C3000>` giữa nội dung; index 406 chỉ có nhãn Misha và không có chữ. QA cấu trúc 0 lỗi, chưa kiểm chứng font/hiển thị NDS.
