@@ -290,3 +290,18 @@ Giữ tên động `<CFFFB>` và các mã phân trang, màu, nhãn nói ở đú
 | Martha ↔ cả nhóm | tôi/cậu | Magician vui tính nhận đóng giả người chết; chỉ hài ở cảnh thử ma |
 
 **Kỹ thuật:** Các thẻ `<CFFFB>`, `<CFFFA>` và mã điều khiển màu giữ thứ tự. Dòng index 176, 369, 417 có `<C3000>` nằm trong thân lời thoại; index 203 chứa `COLOR_RED>Mimic` lỗi nguồn. Chưa kiểm thử ROM/font.
+
+
+## Đợt 017 — nhiệm vụ Order và các NPC Geffen/Prontera
+
+- **Lucifi ↔ nhân vật chính:** tôi/cậu, trêu nhẹ chuyện sợ ma; Order dựng nhiệm vụ giả, không có thương vong thật.
+- **Knight của Order ↔ nhân vật chính:** tôi/cậu, lịch sự và thành thật khi thú nhận sắp đặt.
+- **Cô bé `<CFFFA>` ↔ nhân vật chính:** tôi/cậu, muốn ước trên Mt. Mjolnir; vẫn giấu nội dung điều ước.
+- **Attar ↔ nhân vật chính:** tôi/cậu, nôn nóng tìm Aghill dù đã nhận ra cách làm của Lughill sai. **Walter** vòi Topaz, **Raul** sở hữu sách sử, không phải nhà sử học.
+- **Barghill ↔ người chơi:** tôi/cậu, lịch sự giả tạo; đe dọa tàn nhẫn nếu nuốt lời Merchant.
+- **Ashley ↔ người chơi:** tôi/cậu, đáng yêu nhưng cực kỳ nhầm lẫn; “mule knee” là cách cô đọc sai Mjolnir Dead Pit có chủ ý.
+- **Master Phuong ↔ người chơi:** ta/cậu, người chơi tôi/ông; ghét nóng, sợ sa mạc dù mạnh.
+- **Gabera ↔ Lisir:** ta/em, Lisir em/sư phụ. Gabera trách thái độ thiếu đồng cảm, Lisir biết nhận lỗi rồi lại chọc người chơi mời ăn.
+- **Lisir ↔ nhân vật chính:** tôi/cậu, giữ bậc thân thiết `Buddy` trong thông báo. **Natsume** là nữ theo nguồn.
+
+Giữ mã `<C3000>` bất thường ở index 80, 163, 180, 183, 300 của file 015, không sửa từ gốc. QA cấu trúc đạt; vẫn cần test font và khung thoại NDS.
