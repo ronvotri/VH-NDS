@@ -131,15 +131,25 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - ZIP tích lũy có 33 JSONL, patch 013, bảng thuật ngữ, ma trận xưng hô, QA và danh bạ. Chưa thay font, chưa patch ROM và **chưa xác nhận độ rộng câu trên máy NDS**.
 - **Kế tiếp:** `05-hoi-thoai-012.jsonl` còn **354 mục**.
 
+## Checkpoint 014 — 18/11/2026
+
+- Hoàn thành **354/354 mục** của `05-hoi-thoai-012.jsonl`, tất cả là bản Việt khác câu gốc. GitHub patch: `translation/PATCH-DOT014.jsonl`.
+- **Tích lũy 5.693/14.616 mục (38,95%)**, **8.923 mục `vi=null`**. 5.339 mục có trước được bảo toàn 100%.
+- Nội dung: Setsuna thử Thief tại Ant Hell (Black Carpet/Assassin's Dagger), Jiro thử Archer hạ Owl Baron (Rudra's Bow), Marco tìm 4 item thưởng Grand Cross, Jim thử Taekwon hạ Grizzly (Megingjard), Gordon thu mua đá quý, Lime/Shina sửa hộp nhạc, Allen nhờ tìm hộp thời gian, Brent nhờ Four-Leaf Clover, Sarah nhờ cứu bố Marlon ở Mjolnir Dead Pit.
+- **QA bộ nguồn `tools/check_handoff.py`: 14.616 source rows, 5.693 translated, 8.923 unfinished, `errors=[]`**. Đã so khớp đúng thứ tự mã NDS, màu, tên động; không đổi ID/EN.
+- **Cảnh báo cần kiểm tra in-game:** ID ở index 312 của file 012 gọi nhân vật Brent là `Marvin` trong thoại nguồn, hiện giữ nguyên nguyên tác. Ở index 336 và 342, Sarah nói `be a man`; không suy luận giới tính nhân vật trong các cảnh khác.
+- Bản ZIP checkpoint 014 có 33 JSONL tích lũy, patch 014, bảng thuật ngữ, ma trận ngôi xưng, danh bạ, báo cáo QA; **chưa** phải ROM Việt hóa, chưa nhúng font hoặc kiểm thử trên NDS.
+- **Đợt kế tiếp:** `05-hoi-thoai-013.jsonl` còn **465 mục**, mở bằng cảnh Marlon/Joshua bị quái vây.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **5.339 patch records** từ các đợt 001–013, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **5.693 patch records** từ các đợt 001–014, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_013_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_014_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
