@@ -1,24 +1,27 @@
-# Jump Ultimate Stars (Japan) — Checkpoint 009
+# Jump Ultimate Stars (Japan) — Việt hóa NDS
 
-Bản Nhật **AJUJ**, ngày 18/11/2026; tiếp từ Checkpoint 008, không chứa ROM.
+**Checkpoint 010 — 18/11/2026** · bản Nhật AJUJ · nhánh `vh/jump-ultimate-stars-japan`
 
-- Tổng: **5,369 / 34.919** chuỗi (15.38%), còn **29,550** dòng `vi=null`.
-- Mới dịch đợt 009: **671 chuỗi**.
-  - 505 dòng trợ giúp ở `02-thoai-tro-giup-003.jsonl`, dòng 0–504.
-  - 166 dòng Koma/Skill ở `04-koma-chieu-thuc-002.jsonl`, dòng 0–165 (Bobobo, Kochikame, Gintama, Reborn).
-- Bảo toàn **4.698 bản dịch cũ**, toàn bộ ID, JA, metadata (`context`, `uses`, v.v.) và thẻ điều khiển. Không xóa/đổi dữ liệu chưa dịch.
-- Kết quả QA tĩnh: 34.919 ID duy nhất, **0 lỗi**. Có **971** câu trên 37 ký tự Unicode cần kiểm tra tràn màn hình về sau.
+## Tiến độ
 
-## Nội dung ZIP
+- **6.022 / 34.919 chuỗi đã dịch (17,25%)**, còn **28.897** chuỗi có `vi=null`.
+- Checkpoint 009: 5.369 câu. Checkpoint 010: **653 câu mới**.
+- **453** câu của `02-thoai-tro-giup-003.jsonl` (dòng 505–957), hoàn thành toàn bộ file này.
+- **200** câu của `04-koma-chieu-thuc-002.jsonl` (dòng 166–365), tiếp theo từ **dòng 366**.
+- Nhóm vừa làm: hướng dẫn/Info Character, Jaguar, Dr. Slump, Muhyo & Roji, Neuro, Kenshiro.
 
-- `translation/`: 30 file JSONL nguồn và trường `vi`, chưa dịch là `null`.
-- `BAN_DICH_009.jsonl`: 671 bản dịch mới (kèm `file`, `row_index`, `id`, `ja`, `vi`).
-- `BAN_DICH_TONG_HOP_001-009.jsonl`: 5.369 bản dịch hợp nhất.
-- `THUAT_NGU.json`: bảng thuật ngữ có trạng thái xác minh.
-- `XUNG_HO_NHAN_VAT.md`: xưng hô theo giọng nói và độ tin cậy, không gán speaker tùy tiện.
-- `QA_009.json`, `CAU_DAI_CAN_SOI_009.tsv`: báo cáo và những câu có nguy cơ tràn.
-- `tools/check_translations.py`: công cụ kiểm tra tĩnh.
+## File thực tế trên GitHub
 
-**Quy tắc:** Tên nhân vật, manga, Item, Skill và thuật ngữ chính giữ English/romanized; Việt hóa nội dung trò chơi từ JA gốc. Giữ tất cả mã `<B0A>`, `<IDEOSP>`, `<PERCENT_FULL>`; không coi tên Skill tạm là localized chính thức.
+- [BAN_DICH_010.jsonl](BAN_DICH_010.jsonl): 653 dòng mới có `file`, `row_index`, `id`, `ja`, `vi`.
+- [BAN_DICH_TONG_HOP_001-010.jsonl](BAN_DICH_TONG_HOP_001-010.jsonl): **6.022 bản dịch hợp nhất**.
+- [THUAT_NGU.json](THUAT_NGU.json): 412 mục, nêu rõ tên Skill nào chỉ là English tạm/romanized.
+- [XUNG_HO_NHAN_VAT.md](XUNG_HO_NHAN_VAT.md): phân nhóm giọng và mức xác nhận người nói.
+- [QA_010.json](QA_010.json): kiểm tra cấu trúc, mã đặc biệt, ID và tiến độ.
 
-**Chưa có font Việt/ROM writer, chưa tích hợp hoặc kiểm thử gameplay. Đây là dữ liệu dịch, không phải patch chơi được.**
+ZIP bàn giao `JumpUltimateStars_VietHoa_Checkpoint_010.zip` trong cuộc chat chứa **đủ 30 JSONL** thuộc thư mục `translation/` cùng các file tài liệu và công cụ QA. Chưa dịch vẫn để `vi=null`, không xóa thông tin gốc. GitHub lưu bản sai biệt và bản dịch hợp nhất; để nối tiếp đầy đủ cần lấy ZIP bàn giao làm nền.
+
+## Nguyên tắc
+
+Dịch trực tiếp từ Nhật; giữ tên nhân vật/manga, Item, Skill và thuật ngữ chính bằng English hoặc romanized. Lời thoại gần gũi, hài vừa phải; xưng hô theo người nói/người nghe và độ tin cậy, không tự gán tên speaker. Không thay các mã `<B0A>`, `<IDEOSP>`, `<PERCENT_FULL>`, biến.
+
+**QA tĩnh:** Đã đối chiếu toàn bộ 34.919 ID, **0 lỗi thay đổi dữ liệu gốc, ghi đè câu trước, mất ID, thẻ điều khiển**. Còn **1.051** đoạn dịch dài hơn 37 ký tự Unicode cần kiểm tra hiển thị; đây **không phải** phép đo pixel. Chưa có font Việt, chưa chèn ROM, chưa test gameplay trên NDS; **chưa phải patch chơi được**.
