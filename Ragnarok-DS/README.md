@@ -71,15 +71,24 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - **QA:** trình `tools/check_handoff.py` của gói nguồn xác nhận đủ 14.616 ID, không đổi `en`, không đổi thứ tự mã điều khiển/placeholder, **0 lỗi**. Bản ZIP checkpoint 007 chứa đủ 33 JSONL và file thuật ngữ/xưng hô.
 - **Chưa** thêm font tiếng Việt, patch ROM hay kiểm thử giả lập/máy thật; độ rộng dòng vẫn cần kiểm chứng.
 
+## Checkpoint 008 — 18/11/2026
+
+- **+461 ID** trong `translation/PATCH-DOT008.jsonl`, hoàn thành `05-hoi-thoai-006.jsonl` (461/461), trong đó 454 bản dịch khác tiếng Anh và 7 mục giữ nguyên tên/mã.
+- **Tích lũy 3.849/14.616 mục (26,33%)**: 3.659 bản khác EN, 190 mục giữ nguyên; còn **10.767 mục chưa dịch** (`vi=null`).
+- Tuyến truyện: Arma lộ danh tính, Glast Heim; Dark Knight và người cha; Ymir's Heart Piece; nhóm động viên nhân vật chính vượt bi kịch; Cardinal/Hồng y, Destiny of the Great Gods và kế hoạch hồi sinh Freya/Althena.
+- **QA gốc `tools/check_handoff.py`: 14.616 ID, 3.849 bản có `vi`, 10.767 mục trống, 0 lỗi cấu trúc**. Giữ trường `en`, mã màu, tên động và token NDS không thay đổi.
+- **Cảnh báo nguồn đã ghi nhận:** mục thứ 240 của file 006 (ID `RDS-f????`, xem bản ZIP/QA) bị dính tên người nói ngay sau `Headdress" is here.Dark Knight`. Bản dịch bảo toàn số/thứ tự mã; cần kiểm tra thủ công khi patch ROM.
+- Chưa thay font, chưa làm ROM, chưa test giả lập/NDS hoặc kiểm tra glyph tràn khung. Mọi phát biểu đạt QA chỉ áp dụng **cấu trúc dữ liệu**.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **3.388 patch records** từ các đợt 001–007, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **3.849 patch records** từ các đợt 001–008, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_007_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_008_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
