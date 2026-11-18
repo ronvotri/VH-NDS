@@ -309,3 +309,11 @@ Các tên Romanization có trạng thái `working_romanization_qa` cần so lạ
 - *Space Adventure Cobra*: Cobra, Lady, Crystal Boy; giữ **Psychogun, Eye of God, Moon Lens, Rag Ball**. Tên phe, hành tinh và phương án gây nhiễu chưa xác nhận Latin được đánh dấu **QA** thay vì tuyên bố là tên chính thức.
 - Các câu quiz dựa ảnh (ví dụ ID quanh **1263, 1412, 1567, 1624, 1677, 1738, 1793, 1898**) phải kiểm tra với hình gốc; bộ QA chỉ xác nhận dữ liệu, chưa kiểm tra đúng đáp án hay bề rộng pixel.
 - Câu `神がみの塔 ...` bị chia giữa file 001–002: giữ nguyên ID 1930 và các ID 0–5 tiếp sau, không thêm/chuyển ID.
+
+
+## Checkpoint 028 — J-Quiz (Bleach / Buso Renkin / Space Adventure Cobra)
+
+- J-Quiz dùng giọng người dẫn hỏi trung tính, xưng “ai”, “nhân vật nào”, không gán lời dẫn cho các nhân vật trong câu hỏi.
+- Lời thoại trích dẫn của Papillon: giữ sự kiêu ngạo, hơi khoa trương; không cho người dẫn đố dùng cách xưng hô đó.
+- Tên nhân vật, tên vũ khí (Zanpakuto, Kakugane, Buso Renkin, Psychogun), Skill và thuật ngữ quan trọng giữ dạng Latinh hoặc thuật ngữ dự án đã khóa.
+- Nếu ảnh đi kèm câu đố chưa có để đối chiếu, ghi trạng thái chưa kiểm chứng thay vì tự suy ra đáp án đúng.
