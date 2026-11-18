@@ -263,3 +263,15 @@ Các tên Romanization có trạng thái `working_romanization_qa` cần so lạ
 - **Ryoma – Tezuka – Fuji – Kikumaru/Oishi (Prince of Tennis):** Ryoma nói tự tin, hơi khiêu khích nhưng vẫn phân biệt cấp trên “anh–em”. Tezuka kiệm lời, nghiêm túc; Fuji điềm tĩnh với lời nói mềm; Kikumaru vui vẻ. Momoshiro nhiệt huyết; Kaido cộc và ít lời. Không biến lời kể trận đấu thành lời của người chơi.
 - **Tar-chan / Lucky Man:** đoạn hài có thể dùng lối nói duyên, hơi lầy mà không thêm câu thoại hoặc thông tin ngoài Nhật gốc. Không gán người nói cho lời thuyết minh.
 - **Cắt dòng & mã:** những câu mô tả nhân vật kéo qua nhiều ID phải giữ đúng ranh giới và số lượng `<IDEOSP>` trên chính ID đó. Bản dịch đoạn dài chưa qua QA font/pixel nên cần kiểm tra trên ROM khi tích hợp.
+
+
+## Checkpoint 025 — Prince of Tennis / Reborn! / Yu Yu Hakusho / Yu-Gi-Oh!
+
+- **Inui – Atobe – Ryoma:** Inui nói phân tích, điềm tĩnh; Atobe dùng ngôi tự xưng ngạo mạn trong lời thách đấu ("ta"), nhưng phần tiểu sử vẫn là lời kể ngôi ba. Ryoma gọi tiền bối phân biệt trên–dưới theo tình huống.
+- **Tsuna – Reborn – Gokudera:** Tsuna rụt rè, tăng độ quyết liệt khi dính Dying Will Bullet; Reborn nói ngắn, dứt khoát; Gokudera gọi Tsuna là **Boss/anh** và tự xưng **em**, không dịch thành bạn bè ngang hàng.
+- **Yamamoto – Lambo – Bianchi – I-Pin:** Yamamoto tỉnh bơ, chân thành; Lambo là trẻ nhỏ hay nhõng nhẽo; Bianchi lạnh lùng và yêu Reborn; I-Pin có những đoạn không nói tiếng Nhật, tuyệt đối không tự thêm lời thoại.
+- **Hibari – Kyoko – Haru:** Hibari gọi người đối đầu bằng cách xưng đầy đe dọa, không mặc định áp dụng ngôi này cho lời kể. Kyoko hiền, hơi ngây thơ; Haru sôi nổi, dễ bị kích động.
+- **Yusuke – Kurama – Hiei – Kuwabara:** Yusuke bộc trực, suồng sã trong đối kháng; Kurama nhã nhặn nhưng lạnh khi nổi giận; Hiei cộc và kiệm lời; Kuwabara hào sảng, trọng nghĩa khí. Giữ tên thuật ngữ trận chiến bằng tiếng Anh hoặc phiên âm đã gắn trạng thái.
+- **Yugi – Atem – Kaiba – Jonouchi:** Yugi và Atem tách biệt theo ngữ cảnh; Kaiba kiêu ngạo, xưng "ta" trong lời đối thủ, không gán ngôi kể vào lời nhân vật; Jonouchi nóng tính nhưng chân thành. Giữ tên bài chính thức như Blue-Eyes White Dragon, Slifer the Sky Dragon, Obelisk the Tormentor.
+- **Nguồn lỗi ký tự:** hàng 687, 692 trong đoạn Ma giới có ký tự dạng `〉` không rõ tên phe; bản Việt dùng "thế lực đối địch"/"phía kia", chờ xác minh từ ấn bản chuẩn thay vì tự chế tên. Tên thuật ngữ `ポイズンクッキング≠` trong nguồn cũng có ký tự bất thường; dùng tên gốc phổ thông **Poison Cooking**, đánh dấu cần soi kỹ.
+- **Không thay đổi thẻ điều khiển**: các thẻ phải đúng từng `id` — kể cả những câu dài nối liên tiếp.
