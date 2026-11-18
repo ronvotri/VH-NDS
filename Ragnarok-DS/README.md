@@ -162,15 +162,26 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - **Chưa** bổ sung font tiếng Việt, patch ROM hoặc kiểm chứng chiều rộng chữ trên giả lập/NDS thật.
 - **Đợt 017:** tiếp tục `05-hoi-thoai-015.jsonl`, **464 mục** chưa dịch.
 
+## Checkpoint 017 — 18/11/2026
+
+- Hoàn thành **464/464 mục** `05-hoi-thoai-015.jsonl`, lưu patch tại `translation/PATCH-DOT017.jsonl`.
+- **Tích lũy 7.054/14.616 mục (48,26%)**, còn 7.562 mục `vi=null`; 6.590 mục đã có của checkpoint 016 được giữ nguyên.
+- Nội dung: Order dựng nhiệm vụ ma giả để luyện Lucifi; Lucifi kể trò ma trùm chăn hồi nhỏ; điều ước Mt. Mjolnir cùng cô bé; Attar nối lại việc tìm kho báu Aghill, Walter vòi Topaz, Raul cho tra cứu sách; Barghill tìm Diamond 1ct. từ Remover, vừa lễ độ vừa dọa; Ashley gọi Mjolnir Dead Pit sai là “mule knee”; Master Phuong săn Minorous; Gabera trách Lisir thiếu đồng cảm, thưởng tiền và công nhận bậc Buddy.
+- **QA chính thức từ `tools/check_handoff.py`**: `source_rows=14616`, `translated=7054`, `unfinished=7562`, `errors=[]`. Mã NDS được giữ đúng thứ tự và **đúng dòng**, không chỉ khớp số lượng. Giữ nguyên `en`, ID và tên động.
+- Có **4 mục** vượt ngưỡng cảnh báo độ dài tương đối (chỉ so số ký tự; chưa đo glyph), ghi trong ZIP ở `QA_KHUNG_CHU_017.json`.
+- Nguồn USA có thẻ `<C3000>` chen trong lời thoại tại index 80, 163, 180, 183, 300 của file 015. Bản dịch bảo toàn các vị trí mã; cần xác minh trực tiếp khi vá ROM.
+- **Chưa build ROM hoặc font tiếng Việt**, chưa kiểm tra tràn khung trên NDS/giả lập.
+- **Đợt 018:** `05-hoi-thoai-016.jsonl` còn **594 mục**, bắt đầu ở cảnh Gabera chỉ dẫn thử thách trên Geffen Bridge.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **6.590 patch records** từ các đợt 001–016, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **7.054 patch records** từ các đợt 001–017, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_016_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_017_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
