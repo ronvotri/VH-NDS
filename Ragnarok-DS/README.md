@@ -77,7 +77,7 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - **Tích lũy 3.849/14.616 mục (26,33%)**: 3.659 bản khác EN, 190 mục giữ nguyên; còn **10.767 mục chưa dịch** (`vi=null`).
 - Tuyến truyện: Arma lộ danh tính, Glast Heim; Dark Knight và người cha; Ymir's Heart Piece; nhóm động viên nhân vật chính vượt bi kịch; Cardinal/Hồng y, Destiny of the Great Gods và kế hoạch hồi sinh Freya/Althena.
 - **QA gốc `tools/check_handoff.py`: 14.616 ID, 3.849 bản có `vi`, 10.767 mục trống, 0 lỗi cấu trúc**. Giữ trường `en`, mã màu, tên động và token NDS không thay đổi.
-- **Cảnh báo nguồn đã ghi nhận:** mục thứ 240 của file 006 (ID `RDS-f????`, xem bản ZIP/QA) bị dính tên người nói ngay sau `Headdress" is here.Dark Knight`. Bản dịch bảo toàn số/thứ tự mã; cần kiểm tra thủ công khi patch ROM.
+- **Cảnh báo nguồn đã ghi nhận:** mục thứ 240 của file 006 (ID `RDS-c6841bc81e9fbac4b907`, xem bản ZIP/QA) bị dính tên người nói ngay sau `Headdress" is here.Dark Knight`. Bản dịch bảo toàn số/thứ tự mã; cần kiểm tra thủ công khi patch ROM.
 - Chưa thay font, chưa làm ROM, chưa test giả lập/NDS hoặc kiểm tra glyph tràn khung. Mọi phát biểu đạt QA chỉ áp dụng **cấu trúc dữ liệu**.
 
 ## Khôi phục bản dịch từ GitHub
