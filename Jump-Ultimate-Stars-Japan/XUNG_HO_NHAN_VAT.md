@@ -204,3 +204,11 @@
 - **JoJo (567–862):** Jotaro ngắn gọn, kiệm lời (“Yare yare daze” giữ phiên âm); DIO khoa trương, khinh địch, có thể **ta – ngươi** khi đối đầu. Joseph lanh lợi, Josuke dễ bùng nổ vì bị chê tóc, Giorno nghiêm túc với giấc mơ, Jolyne quyết đoán. **Stand names, Hamon, Star Platinum, The World, Crazy Diamond, Gold Experience, Stone Free, Steel Ball Run** giữ tên Anh. Lời tường thuật không tự đổi thành góc nhìn của nhân vật.
 - **Kochikame (863–948):** Ryotsu bộc trực, giọng đời thường/hài khi truyện có chất chọc cười; Ohara nghiêm khắc với cấp dưới. Không gọi Ryotsu theo quân hàm bịa ra, không thêm slang nếu đoạn kể nghiêm túc.
 - Các dòng Nhật bị chia ở giữa từ/câu: luôn ghép mạch nghĩa liên tiếp nhưng ghi lại đúng một trường `vi` cho mỗi `id`, không chuyển token `<IDEOSP>` sang ID khác. **Tất cả đoạn này là nội dung tiểu sử hoặc trích thoại, chưa phải xác nhận speaker_id của engine.**
+
+
+## Checkpoint 020 — Kochikame / Kinnikuman / Midori no Makibao
+
+- **Kochikame:** Ryotsu gọi Ohara là sếp, nói bông đùa/cà khịa; Ohara mắng Ryotsu theo vai cấp trên nghiêm khắc. Nakagawa, Reiko lịch thiệp hơn; câu thuyết minh giữ ngôi thứ ba. Không tự gán lời kể cho nhân vật.
+- **Kinnikuman:** Kinnikuman nhiệt huyết, đôi lúc hậu đậu; Robin Mask và Terryman chững chạc; Warsman ít lời, lạnh lùng. Giữ tên Kinniku Buster, Kinniku Driver, Face Flash, Robin Special và Kaji-ba no Kuso Chikara; không dịch tên chiêu như tên chính thức.
+- **Midori no Makibao:** Makibao và Cascade là đối thủ truyền cảm hứng cho nhau; phần kể trận đua dùng giọng thể thao rõ ràng. Chubei tự nhiên, bộc trực. Chưa có bằng chứng câu thoại cụ thể thuộc về người nào thì không ép cách xưng hô.
+- **Lưu ý:** Khi Nhật gốc bị cắt thành nhiều ID, bản dịch có thể nối giữa các dòng; chỉ kết luận ngôi xưng sau khi xem cả cảnh. Tên chưa xác minh English chính thức vẫn có trạng thái provisional trong bảng thuật ngữ.
