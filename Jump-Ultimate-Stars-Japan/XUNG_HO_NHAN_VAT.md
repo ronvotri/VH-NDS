@@ -309,3 +309,12 @@ Các tên Romanization có trạng thái `working_romanization_qa` cần so lạ
 - *Space Adventure Cobra*: Cobra, Lady, Crystal Boy; giữ **Psychogun, Eye of God, Moon Lens, Rag Ball**. Tên phe, hành tinh và phương án gây nhiễu chưa xác nhận Latin được đánh dấu **QA** thay vì tuyên bố là tên chính thức.
 - Các câu quiz dựa ảnh (ví dụ ID quanh **1263, 1412, 1567, 1624, 1677, 1738, 1793, 1898**) phải kiểm tra với hình gốc; bộ QA chỉ xác nhận dữ liệu, chưa kiểm tra đúng đáp án hay bề rộng pixel.
 - Câu `神がみの塔 ...` bị chia giữa file 001–002: giữ nguyên ID 1930 và các ID 0–5 tiếp sau, không thêm/chuyển ID.
+
+
+## Checkpoint 029 – J-Quiz: Cobra, Captain Tsubasa, Dragon Ball
+
+- **Dạng quiz:** Người dẫn/đề bài hỏi trực tiếp, không gán xưng hô người nói cho đáp án. Các đáp án được dùng lại ở nhiều câu hỏi nên không phỏng đoán câu bị thiếu; giữ thứ tự và `quiz_context` gốc.
+- **Cobra:** Lời trích "Chỉ có chính ta vượt qua được ta!" dùng giọng tự tin nhưng không tự xác nhận tác giả của câu thoại.
+- **Captain Tsubasa:** Dùng tên Latin nhất quán: Tsubasa, Wakabayashi, Hyuga, Misaki, Ishizaki, Wakashimazu; tên đội Nankatsu, Toho, Furano, Hamburg. Tên kỹ thuật *Tiger Shot*, *Drive Shoot*, *Sky Love Hurricane*, *Eagle Shot* và *Kamisori Shoot* giữ Latin/English. Giữ nguyên cả lựa chọn sai về tên người/đội, không "chữa" thành đáp án đúng.
+- **Dragon Ball:** Tên Goku, Krillin, Piccolo, Gohan, Vegeta, Bulma, Trunks, Majin Buu, Kaio; dùng Kamehameha, Potara, Tenkaichi Budokai, Dragon Ball, Saiyan; chỉ Việt hóa lời hỏi, mô tả và các thuật ngữ phổ thông. Nhắc đến Quy Lão và Phòng Tinh Thần và Thời Gian theo cách gọi phổ biến.
+- **QA:** Câu hỏi kèm ảnh hoặc không đủ đáp án trong dải JSONL cần kiểm tra nguyên gói quiz; không đoán đáp án đúng dựa trên trí nhớ manga. Một số tên riêng viết phiên âm vẫn chờ kiểm chứng bằng nguồn chính thức.
