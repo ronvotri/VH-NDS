@@ -1966,5 +1966,233 @@
     "vi": "Hajikelist",
     "status": "romanized_japanese_qa",
     "note": "CP008. Tên nhân vật/chiêu được giữ dạng English thông dụng hoặc phiên âm; romanized_japanese_qa cần đối chiếu tên bản địa hóa chính thức."
+  },
+  {
+    "ja": "真説ボーボボ",
+    "vi": "Shinsetsu Bobobo",
+    "status": "romanized_japanese_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "真説ボボパッチ斬り",
+    "vi": "Shinsetsu Bobopatchi Slash",
+    "status": "provisional_english_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "覇轜袈光臨",
+    "vi": "Hajike Kourin",
+    "status": "romanized_japanese_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "魚雷ガール",
+    "vi": "Torpedo Girl",
+    "status": "common_english_name",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "魚雷ガ－ボ",
+    "vi": "Torpedo Garbo",
+    "status": "romanized_japanese_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "怒んパッチ",
+    "vi": "Angry Don Patch",
+    "status": "provisional_english_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "おやびんラッシュ",
+    "vi": "Oyabin Rush",
+    "status": "romanized_japanese_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "タケノコソード",
+    "vi": "Takenoko Sword",
+    "status": "romanized_japanese_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "両津勘吉",
+    "vi": "Kankichi Ryotsu",
+    "status": "common_english_name",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "愛車「千鳥」",
+    "vi": "Beloved Bike: Chidori",
+    "status": "provisional_english_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "大食いチャンピオン",
+    "vi": "Eating Champion",
+    "status": "provisional_english_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "葛飾戦車隊",
+    "vi": "Katsushika Tank Squad",
+    "status": "provisional_english_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "ブチ切れ両さん",
+    "vi": "Furious Ryotsu",
+    "status": "provisional_english_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "緊急出動！葛飾戦車隊",
+    "vi": "Katsushika Tank Squad: Emergency Dispatch",
+    "status": "provisional_english_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "喧嘩神輿",
+    "vi": "Fighting Mikoshi",
+    "status": "provisional_english_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "轟け！男太鼓",
+    "vi": "Otoko Daiko",
+    "status": "romanized_japanese_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "破天荒",
+    "vi": "Outrageous",
+    "status": "provisional_english_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "坂田銀時",
+    "vi": "Gintoki Sakata",
+    "status": "common_english_name",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "手間かけさせんじゃねーよ！！",
+    "vi": "Don't Make Me Work for This!!",
+    "status": "provisional_english_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "俺ァなァ！！",
+    "vi": "Listen Here!!",
+    "status": "provisional_english_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "はイイイイ次ィィィ！！",
+    "vi": "Aaaalright, NEXT!!",
+    "status": "provisional_english_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "炭水化物と甘いもの！",
+    "vi": "Carbs and Sweets!",
+    "status": "provisional_english_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "定春、散歩の時間だ",
+    "vi": "Sadaharu, Time for a Walk",
+    "status": "provisional_english_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "武士道",
+    "vi": "Bushido",
+    "status": "common_english_name",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "神楽",
+    "vi": "Kagura",
+    "status": "common_english_name",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "血祭りじゃァァァァ！！",
+    "vi": "Bloodbath!!",
+    "status": "provisional_english_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "おかわりヨロシ？",
+    "vi": "Seconds, Please?",
+    "status": "provisional_english_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "定春、捨ててくるヨロシ",
+    "vi": "Sadaharu, Dump It",
+    "status": "provisional_english_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "夜兎族",
+    "vi": "Yato Clan",
+    "status": "common_english_name",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "ツナ／リボーン",
+    "vi": "Tsuna / Reborn",
+    "status": "common_english_name",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "死ぬ気弾",
+    "vi": "Dying Will Bullet",
+    "status": "common_english_name",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "げんこつ弾",
+    "vi": "Punch Bullet",
+    "status": "provisional_english_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "メガトンパンチ弾",
+    "vi": "Megaton Punch Bullet",
+    "status": "provisional_english_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "水脈発見",
+    "vi": "Find Water",
+    "status": "provisional_english_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "Ｘグローブ",
+    "vi": "X-Gloves",
+    "status": "common_english_name",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "超直感",
+    "vi": "Super Intuition",
+    "status": "common_english_name",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "小言弾",
+    "vi": "Rebuke Bullet",
+    "status": "romanized_japanese_qa",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "小宇宙",
+    "vi": "Cosmo",
+    "status": "common_english_name",
+    "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
   }
 ]
