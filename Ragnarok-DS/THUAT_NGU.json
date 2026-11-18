@@ -670,5 +670,65 @@
     "vi": "Arunafeltz Faith",
     "status": "confirmed-by-user-rule",
     "note": "Đợt 008: tên riêng/nhóm phái/item/địa danh/thuật ngữ chính giữ nguyên theo bản USA."
+  },
+  {
+    "en": "Mirage Tower",
+    "vi": "Mirage Tower",
+    "status": "confirmed-by-user-rule",
+    "note": "Tên riêng, item, địa danh hoặc thuật ngữ Ragnarok chính, giữ tiếng Anh."
+  },
+  {
+    "en": "F File",
+    "vi": "F File",
+    "status": "confirmed-by-user-rule",
+    "note": "Tên riêng, item, địa danh hoặc thuật ngữ Ragnarok chính, giữ tiếng Anh."
+  },
+  {
+    "en": "Limit Break",
+    "vi": "Limit Break",
+    "status": "confirmed-by-user-rule",
+    "note": "Tên riêng, item, địa danh hoặc thuật ngữ Ragnarok chính, giữ tiếng Anh."
+  },
+  {
+    "en": "Priest",
+    "vi": "Priest",
+    "status": "confirmed-by-user-rule",
+    "note": "Tên riêng, item, địa danh hoặc thuật ngữ Ragnarok chính, giữ tiếng Anh."
+  },
+  {
+    "en": "Job Level",
+    "vi": "Job Level",
+    "status": "confirmed-by-user-rule",
+    "note": "Tên riêng, item, địa danh hoặc thuật ngữ Ragnarok chính, giữ tiếng Anh."
+  },
+  {
+    "en": "Base Level",
+    "vi": "Base Level",
+    "status": "confirmed-by-user-rule",
+    "note": "Tên riêng, item, địa danh hoặc thuật ngữ Ragnarok chính, giữ tiếng Anh."
+  },
+  {
+    "en": "Gardi",
+    "vi": "Gardi",
+    "status": "confirmed-by-user-rule",
+    "note": "Tên riêng, item, địa danh hoặc thuật ngữ Ragnarok chính, giữ tiếng Anh."
+  },
+  {
+    "en": "Miko",
+    "vi": "Miko",
+    "status": "confirmed-by-user-rule",
+    "note": "Tên riêng, item, địa danh hoặc thuật ngữ Ragnarok chính, giữ tiếng Anh."
+  },
+  {
+    "en": "Skol",
+    "vi": "Skol",
+    "status": "confirmed-by-user-rule",
+    "note": "Nguồn USA dùng cả Skol và Skal. Giữ cách viết theo từng vị trí, cần QA trong game."
+  },
+  {
+    "en": "Eternal Sands",
+    "vi": "Eternal Sands",
+    "status": "confirmed-by-user-rule",
+    "note": "Tên riêng, item, địa danh hoặc thuật ngữ Ragnarok chính, giữ tiếng Anh."
   }
 ]
