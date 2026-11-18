@@ -132,3 +132,14 @@
 - **Reborn!:** Reborn hướng dẫn sắc sảo; Lambo trẻ con, dễ bị tổn thương; Gokudera rất kính trọng Tsuna; Yamamoto thân mật. Chỉ áp dụng các sắc thái này khi xác nhận được người nói, không thêm vào mô tả cơ chế.
 - `04-koma-chieu-thuc-003.jsonl` dòng 0–300: **Reborn!**, **Jaguar**, **Dr. Slump**, **The Prince of Tennis**, **Eyeshield 21**, **Slam Dunk**, **Death Note**. Chú ý manga Slam Dunk cần trầm hơn ở lời động viên; Death Note nghiêm túc, không nhét tiếng lóng vào lời phán quyết.
 - Độ dí dỏm chỉ dùng cho tình huống nguyên gốc hài (Bobobo/Gintama/Jaguar). Không tự chế chiêu thức, luật chơi hoặc quan hệ.
+
+
+## Bổ sung Checkpoint 013 — Death Note và dàn Koma hỗ trợ
+
+- `04-koma-chieu-thuc-003.jsonl` dòng 301–1006 là **nhãn nhân vật, tên Skill và mô tả cơ chế**, không mặc nhiên là câu nói trực tiếp của nhân vật. Không gán ngôi xưng tùy tiện cho phần mô tả.
+- **Near / Mello (Death Note):** tên giữ Latin; Near bình tĩnh, phân tích; Mello nóng nảy, quyết liệt. Khi là mô tả cơ chế, giữ văn phong khách quan, không tự nhét thoại vào.
+- **Ichigo 100%:** Aya Tojo dè dặt, Tsukasa Nishino thẳng thắn, Satsuki Kitaoji hoạt bát; lời thoại đúng nhân vật mới được áp dụng giọng, không suy từ tên Skill.
+- **Muhyo & Roji:** thuật ngữ pháp thuật giữ tên Latin nhất quán. Roji rụt rè; Yoichi nhanh nhẹn; phần cơ chế chỉ dùng diễn đạt khách quan.
+- **Saint Seiya:** tôn trọng cách gọi Saints, Athena, Cloth; không tự chuyển lời mô tả sang kiểu 'ta–ngươi'.
+- **Kinnikuman, Captain Tsubasa, Dr. Slump, Luckyman:** tên chính thức/Latin được ưu tiên; chất hài chỉ thêm khi có nền từ bản Nhật, tránh tự bịa biệt danh và đòn đánh.
+- **Tên rút gọn trong danh sách cuối file:** dịch sang Latin phổ biến theo ngữ cảnh franchise (ví dụ `悟空` → Goku, `一護` → Ichigo). Một số tên ngắn mơ hồ vẫn đánh dấu `character_name_qa` để kiểm tra với hình Koma/ROM.
