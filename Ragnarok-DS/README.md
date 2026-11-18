@@ -208,15 +208,27 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - ZIP checkpoint 020 có 33 tệp JSONL tích lũy, patch mới, glossary, danh bạ, quy tắc xưng hô và QA. **Chưa tạo ROM, chưa nhúng font Việt, chưa test giả lập/NDS thật**.
 - **Đợt 021:** `05-hoi-thoai-019.jsonl` còn **414 mục**, mở đầu bằng Sogard và nhiệm vụ tuyến thương lộ.
 
+## Checkpoint 021 — 18/11/2026
+
+- **+414 mục**, hoàn thành `05-hoi-thoai-019.jsonl` (412 câu Việt khác nguồn, 2 câu giữ nguyên); patch tại `translation/PATCH-DOT021.jsonl`.
+- **Tích lũy 8.952/14.616 mục (61,25%)**, **5.664 mục `vi=null`**. Toàn bộ 8.538 bản ghi checkpoint 020 được giữ nguyên.
+- Nội dung: Sogard nhờ cứu Dan ở `Sograt Desert - North` và diệt quái hệ Hỏa trên tuyến thương lộ; Dan xin gia nhập Guild; Lisir được Gabera thử thách với `Book of Abstinence` rồi trở thành Wizard; Viselc điều tra Nikol và thu thập `Assassin Registry` để lên Assassin; Lucifi tiêu diệt boss tại `Prontera Culvert` rồi trở thành Knight; các câu thoại thành viên động ở cuối file.
+- **QA chính thức gói nguồn:** `tools/check_handoff.py` trả `source_rows=14616`, `translated=8952`, `unfinished=5664`, `errors=[]`. Giữ nguyên ID, `en`, `group`, `context`, `uses` và tất cả mã NDS.
+- Các điều kiện khi đổi Job vẫn đầy đủ: phải có Lisir/Viselc/Lucifi trong party thích hợp, chừa khoảng trống trong inventory để nhận lại trang bị tháo ra khi đổi Job; không sửa nguyên tắc sát hạch.
+- **Điểm bất thường từ bản USA:** index 350 của tệp 019 có `<C3000>` nằm giữa câu `Lucifi becoming a Knight`; bản Việt giữ nguyên vị trí này. Nguồn có các trang trong hội thoại Lisir xen nhau theo event; không tự đổi thứ tự ID.
+- Đánh dấu **2 mục** có cảnh báo độ dài Unicode tương đối, cần đo bằng font NDS; đây không phải lỗi tràn chữ đã xác nhận.
+- ZIP checkpoint 021 gồm 33 JSONL tích lũy, patch mới, thuật ngữ, hồ sơ xưng hô, danh bạ và QA. **Chưa build ROM, nhúng font Việt hoặc kiểm thử giả lập/NDS thật.**
+- **Đợt 022:** tiếp `05-hoi-thoai-020.jsonl`.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **8.538 patch records** từ các đợt 001–020, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **8.952 patch records** từ các đợt 001–021, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_020_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_021_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
