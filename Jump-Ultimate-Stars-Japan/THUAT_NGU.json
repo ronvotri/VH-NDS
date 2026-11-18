@@ -8680,5 +8680,29 @@
     "vi": "Treinta Fleurs",
     "status": "working_romanization_qa",
     "note": "Checkpoint 022; official English or romanization needs screen/series QA if status provisional."
+  },
+  {
+    "ja": "キウイ",
+    "vi": "Kiwi",
+    "status": "working_romanization_qa",
+    "note": "Kiwi – Square Sisters"
+  },
+  {
+    "ja": "モズ",
+    "vi": "Mozu",
+    "status": "working_romanization_qa",
+    "note": "Mozu – Square Sisters"
+  },
+  {
+    "ja": "牙突",
+    "vi": "Gatotsu",
+    "status": "official_or_widely_used",
+    "note": "Skill của Saito"
+  },
+  {
+    "ja": "オーバーソウル",
+    "vi": "Oversoul",
+    "status": "official_or_widely_used",
+    "note": "Shaman King"
   }
 ]
