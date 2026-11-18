@@ -244,15 +244,26 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - **Chưa build ROM hay bổ sung font tiếng Việt**, cần kiểm thử giả lập và máy NDS thật.
 - **Đợt 024:** tiếp `05-hoi-thoai-022.jsonl`.
 
+## Checkpoint 024 — 18/11/2026
+
+- **+511/511 mục** trong `05-hoi-thoai-022.jsonl`, 510 bản Việt khác EN và 1 mục giữ nguyên (mã/tên). Patch `translation/PATCH-DOT024.jsonl`.
+- **Tích lũy 10.378/14.616 mục (71,00%)**, còn **4.238 mục `vi=null`**. Giữ nguyên toàn bộ **9.867 mục** của checkpoint 023.
+- Nội dung theo thứ tự gốc: Nhận `Knight's Spirit` và lên `Buddy`; Gin nhờ đội có Knight hạ `Hydrolancer` tại `El Mes Gorge - South` để nhận Job Exp. Marie giao đội có Wizard ngăn Young Magician triệu hồi hàng nghìn ác quỷ tại `Somatology Laboratory`, tặng `Wizard's Spirit`; cô ta chạy trốn và tái phạm. Fritz nhờ Assassin xử lý trùm cướp ở `Sograt Desert - South`; trùm cướp được tha nhưng dùng bom chớp trốn thoát, sau quay lại; phần thưởng `Assassin's Spirit`. Jenny giao Priest tìm nguồn ma tại `Somatology Laboratory` và trao `Priest's Spirit`.
+- Tên nhân vật, item, skill, Job, địa danh, quái chính giữ nguyên theo quy tắc. Chỉ Việt hóa vai trò không phải tên riêng: `Young Magician` → `Magician trẻ`, `Bandit Boss` → `Trùm cướp`, `Underling` → `Đàn em`.
+- **QA chính thức bộ nguồn `tools/check_handoff.py`**: `source_rows=14616`, `translated=10378`, `unfinished=4238`, `errors=[]`. Không đổi `en`, ID, `uses`, `group`, `context` hay thứ tự mã tên động/định dạng.
+- **Độ dài file 022:** 0 phần lời thoại vượt 36 ký tự Unicode giữa các dấu ngắt; 2 cảnh báo dài tương đối tại index 182 và 418 (chưa kết luận tràn khung). **Chưa đo glyph thực, chưa nhúng font hoặc vá ROM NDS**.
+- ZIP checkpoint 024 có 33 tệp JSONL tích lũy, patch mới, 385 thuật ngữ, quy tắc xưng hô, danh bạ nhân vật và báo cáo QA.
+- **Đợt 025:** tiếp `05-hoi-thoai-023.jsonl` với **517 mục** đang `vi=null`.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **9.867 patch records** từ các đợt 001–023, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **10.378 patch records** từ các đợt 001–024, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_023_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_024_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
