@@ -196,15 +196,27 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - Trong ZIP checkpoint 019 có đủ 33 JSONL tích lũy, patch, glossary, danh bạ nhân vật, bảng xưng hô và QA.
 - **Đợt 020:** bắt đầu `05-hoi-thoai-018.jsonl` với **412 mục** chưa dịch, mở đầu bằng Merchant Morocc cảm ơn nhóm.
 
+## Checkpoint 020 — 18/11/2026
+
+- **+412 mục** hoàn thành `05-hoi-thoai-018.jsonl` (403 bản Việt khác EN, 9 mục chỉ có tên hoặc thẻ giữ nguyên), patch `translation/PATCH-DOT020.jsonl`.
+- **Tích lũy 8.538/14.616 mục (58,42%)**, còn **6.078 mục `vi=null`**; 8.126 mục đã xử lý ở checkpoint 019 không thay đổi.
+- Mạch truyện: Merchant Morocc trả ơn và mời Đội trưởng thợ mở rộng Guild; Lisir giận dỗi bỏ đi đến Mjolnir Dead Pit tìm mặt dây chuyền mà người thuê đã có trong túi; Lucifi đến cứu. Lilac bị kẻ chủ mưu phản bội; Akari tiết lộ Larks hy sinh khi nhờ Viselc bảo vệ Lilac; Viselc chọn bỏ qua để giữ thể diện Morocc. Order nhờ Lucifi cứu đứa trẻ trúng độc ở East Prontera Woods; Attar thuê tìm Treasure Map tại Eternal Sands; Sohee trong Prontera Culvert và ông lão khả nghi thu thập item để phục hồi linh hồn của kiếm.
+- **QA từ `tools/check_handoff.py` nguồn:** `source_rows=14616`, `translated=8538`, `unfinished=6078`, `errors=[]`. Dữ liệu ID, `en`, `group`, `context`, `uses`, tên động, mã màu, mã phân trang không bị thay đổi.
+- **Đã rà cảnh báo dòng dài:** không còn mục nào vượt ngưỡng độ dài tương đối của riêng batch 020 sau khi biên tập; vẫn có nhiều dòng cần đo font thực để xác nhận hiển thị trên NDS.
+- **Mã bất thường trong nguồn USA:** index 3, 65, 103, 124, 190, 231, 337 có `<C3000>` trong phần thân hội thoại; các nhãn `Child` và `Maintenance Crew` không có `<C3000>`. Giữ nguyên cấu trúc; không tự sửa engine.
+- **Cảnh báo nội dung:** bản USA hiển thị thông báo nhận `Ogre Tooth` ngay trong tuyến linh hồn kiếm; giữ nguyên item và đánh dấu cần đối chiếu bằng game-test, không tự chữa lỗi nguồn.
+- ZIP checkpoint 020 có 33 tệp JSONL tích lũy, patch mới, glossary, danh bạ, quy tắc xưng hô và QA. **Chưa tạo ROM, chưa nhúng font Việt, chưa test giả lập/NDS thật**.
+- **Đợt 021:** `05-hoi-thoai-019.jsonl` còn **414 mục**, mở đầu bằng Sogard và nhiệm vụ tuyến thương lộ.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **8.126 patch records** từ các đợt 001–019, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **8.538 patch records** từ các đợt 001–020, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_019_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_020_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
