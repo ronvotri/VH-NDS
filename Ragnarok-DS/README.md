@@ -100,15 +100,25 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - Chưa đo độ rộng glyph tiếng Việt trên khung NDS, chưa patch ROM, chưa test giả lập/máy thật. Bản ZIP checkpoint 010 đã có `QA_KHUNG_CHU_010.json` ghi những dòng dài nên chú ý.
 - **Kế tiếp:** `05-hoi-thoai-009.jsonl` có 244 mục.
 
+## Checkpoint 011 — 18/11/2026
+
+- **244/244 mục** của `05-hoi-thoai-009.jsonl` đã xử lý, trong đó 227 bản Việt khác EN, 17 mục giữ nguyên; patch: `translation/PATCH-DOT011.jsonl`.
+- **Tích lũy 4.582/14.616 mục (31,35%)**; **10.034 mục `vi=null`**. Không ghi đè 4.338 mục đã có của checkpoint 010.
+- Nội dung: Limit Break của Priest/Shaman/Knight/Assassin/Taekwon Kid/Wizard; giao diện Kafra, shop và bản đồ thị trấn; nhiệm vụ Jellopies của Milika tại Prontera. Tên Job, item, skill, địa danh quan trọng giữ nguyên.
+- **QA bằng `tools/check_handoff.py` của nguồn gốc:** 14.616 source rows, 4.582 translated, 10.034 unfinished, **0 errors**. Không đổi ID, mã điều khiển, `en` và placeholder. Bản tích lũy có 33 JSONL.
+- Lưu ý một dòng nguồn `100% failure` bị QA nhận diện `% f` là placeholder định dạng; bản Việt dùng `100% fail` (cách nói Gen Z) và giữ `% f` nguyên khối, không sửa script/nguồn.
+- Tại file 009 có nhãn người nói dính giữa trang ở mục 43 và một phân trang trống cuối câu của Kafra; mã vẫn được bảo toàn. Chưa patch ROM, chưa bổ sung font, chưa đo độ rộng dòng trên NDS.
+- **Kế tiếp:** `05-hoi-thoai-010.jsonl`.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **4.338 patch records** từ các đợt 001–010, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **4.582 patch records** từ các đợt 001–011, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_010_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_011_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
