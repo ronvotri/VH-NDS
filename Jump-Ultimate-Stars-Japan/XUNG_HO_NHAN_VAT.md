@@ -275,3 +275,14 @@ Các tên Romanization có trạng thái `working_romanization_qa` cần so lạ
 - **Yugi – Atem – Kaiba – Jonouchi:** Yugi và Atem tách biệt theo ngữ cảnh; Kaiba kiêu ngạo, xưng "ta" trong lời đối thủ, không gán ngôi kể vào lời nhân vật; Jonouchi nóng tính nhưng chân thành. Giữ tên bài chính thức như Blue-Eyes White Dragon, Slifer the Sky Dragon, Obelisk the Tormentor.
 - **Nguồn lỗi ký tự:** hàng 687, 692 trong đoạn Ma giới có ký tự dạng `〉` không rõ tên phe; bản Việt dùng "thế lực đối địch"/"phía kia", chờ xác minh từ ấn bản chuẩn thay vì tự chế tên. Tên thuật ngữ `ポイズンクッキング≠` trong nguồn cũng có ký tự bất thường; dùng tên gốc phổ thông **Poison Cooking**, đánh dấu cần soi kỹ.
 - **Không thay đổi thẻ điều khiển**: các thẻ phải đúng từng `id` — kể cả những câu dài nối liên tiếp.
+
+
+## Checkpoint 026 — Yu-Gi-Oh! kết thúc và J-Quiz (19/11/2026)
+
+- `05-thu-vien-nhan-vat-009.jsonl` dòng 0–11: kết thúc mô tả **Hiroto Honda** (thực chất nghĩa hiệp, từng sợ Jonouchi), rồi tiểu sử **Anzu Mazaki**. Đây là lời kể trung tính, **không** tự gán ngôi xưng cho Honda hay Anzu.
+- `06-jquiz-001.jsonl` dòng 0–650: câu hỏi và phương án trả lời là **lời hệ thống**. Không gán giọng cho Bobobo, Train, Sven hoặc nhân vật được nhắc tới; giữ câu đố vui đúng tinh thần nguyên tác, nhưng không tự thêm sự kiện.
+- J-Quiz nhiều câu hỏi bị **tách qua 2–4 ID**; đáp án hiện nguyên thứ tự, không hoán đổi kể cả khi có vẻ sai hay thiếu. Những dòng là tên riêng/đáp án rời phải giữ rời, tránh chèn thêm câu hỏi không có trong mã Nhật.
+- Nhiều câu hỏi dựa vào **hình** (ví dụ “Đây là ai?”), cần đối chiếu visual trong game trước khi xác nhận nội dung. Không suy đoán đáp án đúng từ văn bản.
+- Tên/Skill của *Bobobo-bo Bo-bobo* và *Black Cat* giữ English hoặc phiên âm với cờ QA cho tên khó. Phần dịch tên tuyệt kỹ chỉ là tên làm việc khi không thấy tên English chính thức, **chưa khóa thuật ngữ**.
+- Cần rà nguồn đặc biệt ở J-Quiz: dòng 312–317 gồm câu hỏi số lượng nhưng chỉ ba đáp án dạng tên người; dòng 325–337 có trích dẫn và lựa chọn thiếu ngữ cảnh. Bản dịch **không bổ sung dữ liệu bị thiếu**.
+- Thẻ `<PERCENT_FULL>` (J-Quiz dòng 450) và `<IDEOSP>` (dòng 556–559, 599) đã bảo toàn đúng ID.
