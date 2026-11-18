@@ -1438,5 +1438,143 @@
     "vi": "West Prontera Woods",
     "status": "reviewed-dot014",
     "note": "Tên riêng, item, quái, địa danh hoặc thuật ngữ game; giữ nguyên theo bản USA."
+  },
+  {
+    "en": "Rouche",
+    "vi": "Rouche",
+    "status": "reviewed-dot015",
+    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+  },
+  {
+    "en": "Sonya",
+    "vi": "Sonya",
+    "status": "reviewed-dot015",
+    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+  },
+  {
+    "en": "Sonya's Father",
+    "vi": "Sonya's Father",
+    "status": "reviewed-dot015",
+    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+  },
+  {
+    "en": "Sopborough",
+    "vi": "Sopborough",
+    "status": "reviewed-dot015",
+    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+  },
+  {
+    "en": "Rolek",
+    "vi": "Rolek",
+    "status": "reviewed-dot015",
+    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+  },
+  {
+    "en": "Somgrad",
+    "vi": "Somgrad",
+    "status": "reviewed-dot015",
+    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+  },
+  {
+    "en": "Tarou Card",
+    "vi": "Tarou Card",
+    "status": "reviewed-dot015",
+    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+  },
+  {
+    "en": "Tarous",
+    "vi": "Tarous",
+    "status": "reviewed-dot015",
+    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+  },
+  {
+    "en": "Hornet Card",
+    "vi": "Hornet Card",
+    "status": "reviewed-dot015",
+    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+  },
+  {
+    "en": "Gold Thief Bug Card",
+    "vi": "Gold Thief Bug Card",
+    "status": "reviewed-dot015",
+    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+  },
+  {
+    "en": "Wolf Card",
+    "vi": "Wolf Card",
+    "status": "reviewed-dot015",
+    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+  },
+  {
+    "en": "Cloth Hat",
+    "vi": "Cloth Hat",
+    "status": "reviewed-dot015",
+    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+  },
+  {
+    "en": "Wig 4",
+    "vi": "Wig 4",
+    "status": "reviewed-dot015",
+    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+  },
+  {
+    "en": "Sapphire",
+    "vi": "Sapphire",
+    "status": "reviewed-dot015",
+    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+  },
+  {
+    "en": "Mjolnir Dead Pit - 2F",
+    "vi": "Mjolnir Dead Pit - 2F",
+    "status": "reviewed-dot015",
+    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+  },
+  {
+    "en": "El Mes Gorge",
+    "vi": "El Mes Gorge",
+    "status": "reviewed-dot015",
+    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+  },
+  {
+    "en": "Nerdvana",
+    "vi": "Nerdvana",
+    "status": "reviewed-dot015",
+    "note": "Tên riêng, item, Card, quái hoặc thuật ngữ nguồn USA; giữ nguyên tiếng Anh."
+  },
+  {
+    "en": "Old Lady",
+    "vi": "Bà lão",
+    "status": "reviewed-dot015",
+    "note": "Nhãn vai trò NPC, không phải tên riêng; có thể Việt hóa."
+  },
+  {
+    "en": "Young Man",
+    "vi": "Chàng trai trẻ",
+    "status": "reviewed-dot015",
+    "note": "Nhãn vai trò NPC, không phải tên riêng; có thể Việt hóa."
+  },
+  {
+    "en": "Informant",
+    "vi": "Người đưa tin",
+    "status": "reviewed-dot015",
+    "note": "Nhãn vai trò NPC, không phải tên riêng; có thể Việt hóa."
+  },
+  {
+    "en": "Inn Guy",
+    "vi": "Gã ở nhà trọ",
+    "status": "reviewed-dot015",
+    "note": "Nhãn vai trò NPC, không phải tên riêng; có thể Việt hóa."
+  },
+  {
+    "en": "Weapon Shop Guy",
+    "vi": "Gã bán vũ khí",
+    "status": "reviewed-dot015",
+    "note": "Nhãn vai trò NPC, không phải tên riêng; có thể Việt hóa."
+  },
+  {
+    "en": "Miner",
+    "vi": "Thợ mỏ",
+    "status": "reviewed-dot015",
+    "note": "Nhãn vai trò NPC, không phải tên riêng; có thể Việt hóa."
   }
 ]
