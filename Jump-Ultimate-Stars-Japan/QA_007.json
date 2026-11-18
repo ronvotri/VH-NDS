@@ -1,0 +1,23 @@
+{
+  "checkpoint": "007",
+  "date": "2026-11-18",
+  "game": "Jump Ultimate Stars (Japan) AJUJ",
+  "source_zip": "JumpUltimateStars_VietHoa_Checkpoint_006.zip",
+  "total": 34919,
+  "previous_translated": 3238,
+  "new_in_007": 663,
+  "translated": 3901,
+  "pending": 31018,
+  "changed": {
+    "02-thoai-tro-giup-002.jsonl": 493,
+    "04-koma-chieu-thuc-001.jsonl": 170
+  },
+  "unique_ids": 34919,
+  "source_changed_errors": 0,
+  "prior_translation_overwrite_errors": 0,
+  "control_token_errors": 0,
+  "terminology_entries": 295,
+  "long_segments_over_37_unicode_chars": 708,
+  "qa_scope": "Static IDs/Japanese originals/placeholders/UTF-8 NFC, no display pixel or in-ROM build QA",
+  "font_rom_integration": "not_done"
+}
