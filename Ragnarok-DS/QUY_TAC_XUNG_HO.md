@@ -410,3 +410,14 @@ Giữ mã `<C3000>` bất thường ở index 80, 163, 180, 183, 300 của file 
 - **Jenny ↔ người chơi:** tôi/cậu; vui tính, nhiệm vụ Priest trừ ma tại Somatology Laboratory. Khi nhắc “Halzen” không tự sửa tên địa điểm trong lời thoại, nhưng có thể làm rõ Lighthalzen trong câu đáp gốc.
 - **Đồng đội động `<CFFF8>` ↔ nhân vật chính động `<CFFFB>`:** tôi/cậu; tránh ngôi nam/nữ cố định vì có nhiều lời thoại thay thế trong cùng ID.
 - **Kỹ thuật:** Giữ nguyên `<CFFFD>`, `<CFFFC>`, `<C3000>`, `<CFFF1>`, `<CFFF2>`, `<CFFF4>`, `<CFFEF>`. Đã QA cú pháp toàn bộ ID, chưa kiểm chứng font hay ROM trên NDS.
+
+
+## Đợt 025 — Jenny, Jazz, Bughill và Master Li
+
+- **Jenny ↔ nhân vật chính:** tôi/cậu, thân thiện và hơi xuề xòa khi gọi Somatology Laboratory là “chỗ giống phòng thí nghiệm ở Halzen”. Nhờ dẫn Priest dẹp ma lần nữa; nhân vật chính xác nhận địa danh đúng bằng tên Somatology Laboratory/Lighthalzen.
+- **Jazz ↔ nhân vật chính:** tôi/cậu, nghiêm khắc kiểu Hunter, luôn nhấn “Đừng rời mắt khỏi con mồi”, “Đó là luật”. Thử thách săn **Vagabond Wolf** tại **West Prontera Woods**, yêu cầu Hunter trong đội. **Archer Guildmaster** ↔ nhân vật chính: ta/cậu, trao Hunter's Spirit.
+- **Bughill ↔ nhân vật chính:** tôi/cậu, người Merchant Guild hay vô tình chê nhiệm vụ “bất khả thi” rồi chữa “đầy giá trị và thử thách”. Giữ nguyên **6 loại đá quý Sapphire, Topaz, Sardonyx, Aquamarine, Opal, Emerald** lấy từ Alices, kiếm **Flamberge** giá **30000 zenies**, giao tại nhà trọ Juno cùng Blacksmith. **Merchant** ↔ người chơi: tôi/cậu, khá khinh thường người thiếu kinh nghiệm; **Merchant Guildmaster** dùng ta/cậu và trao Blacksmith's Spirit.
+- **Master Li ↔ người chơi:** ta/cậu hoặc ta/nhóc, sư phụ giỏi võ nhưng sợ bóng tối. Người chơi đáp tôi/ông, có thể cà khịa vì sợ tối. **Taekwon Guildmaster** làm trung gian, nói ta/cậu; không biến Master Li thành người dũng cảm trong bản dịch.
+- **Immortal Fighter → Võ sĩ bất tử:** nhãn vai trò NPC không phải tên riêng; xưng ta/ngươi. Là học trò cũ của Master Li, muốn thách đấu người mạnh hơn, bị đồng đội Taekwon Master của người chơi đánh bại. Khi thắng, nhận Taekwon Master's Spirit.
+- **Tên động:** `<CFFF8>` là đồng đội, `<CFFFB>` là nhân vật chính; nói tôi/cậu, tránh áp ngôi giới tính cố định. Giữ nguyên thứ tự `<CFFFD>`, `<CFFFC>`, `<C3000>`, `<CFFF1>`, `<CFFF2>`, `<CFFEF>`, `<CFFF4>`.
+- **Bất thường nguồn USA:** ba dòng index **300/302/304** ghi **Begell** thay vì **Bughill**, thiếu `<C3000>`. Không tự sửa `en` hoặc thẻ game; cần xác minh khi thử ROM/font Việt.
