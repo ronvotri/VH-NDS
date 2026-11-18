@@ -47,15 +47,23 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - **QA 0 lỗi:** kiểm 14.616 ID, giữ `en`, không thêm/bớt mã điều khiển. Chưa thử font Việt, hiển thị trên NDS hay patch ROM.
 - Bộ ZIP checkpoint 004 tích lũy đủ 33 tệp JSONL, có patch mới và báo cáo QA.
 
+## Checkpoint 005 — 18/11/2026
+
+- **+550 ID** mới, hoàn thành `05-hoi-thoai-003.jsonl` (550/550). Patch tại `translation/PATCH-DOT005.jsonl`.
+- **Tích lũy 2.368/14.616 mục (16,20%)**: 2.204 mục dịch khác EN, 164 mục được kiểm tra và giữ nguyên, 12.248 mục chưa dịch.
+- Bao gồm cảnh Lucifi khuyên người chơi, đoàn buôn Viselc, Lisir, Popi/Yolanda, Golden Eagle Guild, Frione/Frione Tear, Aldo, Emperium và Order of Knights. Giữ nguyên tên, item, skill và thuật ngữ chính.
+- QA chính thức: **14.616 ID, 2.368 mục có `vi`, 12.248 mục `vi=null`, 0 lỗi**. Đối chiếu với nguồn `RagnarokDS_USA_BanGiao_Cloud.zip`; không đổi `en`, ID, mã điều khiển.
+- **Chưa kiểm tra font tiếng Việt, tràn dòng trên NDS, patch ROM hay máy thật**.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **1.818 patch records** từ các đợt 001–004, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **2.368 patch records** từ các đợt 001–005, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_004_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_005_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
