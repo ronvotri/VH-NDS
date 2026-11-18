@@ -110,15 +110,26 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - Tại file 009 có nhãn người nói dính giữa trang ở mục 43 và một phân trang trống cuối câu của Kafra; mã vẫn được bảo toàn. Chưa patch ROM, chưa bổ sung font, chưa đo độ rộng dòng trên NDS.
 - **Kế tiếp:** `05-hoi-thoai-010.jsonl`.
 
+## Checkpoint 012 — 18/11/2026
+
+- **+332/332 mục** trong `05-hoi-thoai-010.jsonl` (331 thay đổi bản Anh, 1 tên động giữ nguyên), patch: `translation/PATCH-DOT012.jsonl`.
+- **Tích lũy 4.914/14.616 mục (33,62%)**, 9.702 mục `vi=null`. Các đợt 001–011 được giữ nguyên.
+- Nhiệm vụ phụ: Milika tìm 10 Jellopies từ Porings, Knight cần 10 Red Herbs từ Spores, Roni cần 5 Iron Ore từ Thief Bugs, Chủ quán gửi 10 Empty Bottles cho Jade tại Morocc, Shiva tìm Mastela Fruit giúp mẹ, Sherry nghiên cứu phép, khu rừng thiêng gần Glast Heim, Jack quảng cáo tiệm vũ khí Geffen, Liam mở Secret Pathway, Joyce tìm 10 Monster Hides từ Desert Wolves.
+- Thuật ngữ và vai trò: Giữ nguyên tên item/skill/Job/quái/địa danh, Việt hóa nhãn NPC vô danh như `Mysterious Old Woman` thành “Bà lão bí ẩn”, `Swordswoman` thành “Nữ kiếm sĩ”. Trường hợp `Boss` chỉ trong bối cảnh thợ mộc qua cổng được dịch “Đội trưởng thợ”.
+- **QA từ `tools/check_handoff.py` nguồn:** 14.616 source rows, 4.914 mục xử lý, 9.702 mục chưa dịch, **0 lỗi cấu trúc**. Không đổi `en`, ID, màu, tên động và chuỗi token.
+- Có **5 mục** tăng độ dài ký tự đáng kể, cần đo glyph và khung thoại sau khi có font Việt; chưa kiểm thử trên NDS hoặc build ROM.
+- Một số câu gốc có phân trang rỗng và `<C3000>` nằm giữa nội dung; giữ nguyên thay vì tự sửa logic định dạng.
+- **Kế tiếp:** `05-hoi-thoai-011.jsonl`.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **4.582 patch records** từ các đợt 001–011, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **4.914 patch records** từ các đợt 001–012, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_011_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_012_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
