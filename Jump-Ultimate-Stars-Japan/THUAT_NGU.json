@@ -997,7 +997,8 @@
   },
   {
     "ja": "ルフィ（ギア２）",
-    "vi": "Luffy (Gear 2)",    "status": "common_en_name",
+    "vi": "Luffy (Gear 2)",
+    "status": "common_en_name",
     "note": "Đối chiếu chiêu thức với tên English chuẩn khi QA; không tự suy speaker."
   },
   {
@@ -1996,7 +1997,8 @@
     "status": "romanized_japanese_qa",
     "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
   },
-  {    "ja": "怒んパッチ",
+  {
+    "ja": "怒んパッチ",
     "vi": "Angry Don Patch",
     "status": "provisional_english_qa",
     "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
@@ -2995,7 +2997,8 @@
     "ja": "我愛羅",
     "vi": "Gaara",
     "status": "romanized_or_working_english_qa",
-    "note": "CP011 dòng 759: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."  },
+    "note": "CP011 dòng 759: tên Latin/English làm việc, chưa mặc định là tên chính thức của bản localized."
+  },
   {
     "ja": "守鶴の手",
     "vi": "Shukaku's Hand",
@@ -3994,7 +3997,8 @@
   },
   {
     "ja": "凶悪肉食怪虫カブトーンキング",
-    "vi": "Kabutone King",    "status": "working_romanization_qa",
+    "vi": "Kabutone King",
+    "status": "working_romanization_qa",
     "note": "CP012 04-koma-chieu-thuc-002.jsonl:1316: tên phiên âm/English làm việc, không mặc định là tên localization chính thức."
   },
   {
