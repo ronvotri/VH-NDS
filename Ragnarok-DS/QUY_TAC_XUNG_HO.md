@@ -355,3 +355,17 @@ Giữ mã `<C3000>` bất thường ở index 80, 163, 180, 183, 300 của file 
 - **Sogard ↔ người chơi:** tôi/cậu, mở nhiệm vụ mới sau khi cảm ơn người chơi.
 
 **QA:** Không thay mã `<CFFFB>`, `<CFFFA>`, `<CFFFD>`, `<CFFFC>`, màu `<CFFF1>`, `<CFFF2>`, `<CFFF4>`, `<CFFEF>` và `<C3000>`. Nguồn có mã `<C3000>` trong thân câu tại index 3, 65, 103, 124, 190, 231, 337; không thêm mã thiếu vào nhãn Child/Maintenance Crew. Đã QA 0 lỗi cấu trúc, chưa kiểm thử font hoặc khung chữ NDS.
+
+
+## Đợt 021 — Dan, các mốc Wizard / Assassin / Knight
+
+- **Sogard ↔ nhân vật chính:** tôi/cậu, giao nhiệm vụ cứu Dan và đánh quái hệ Hỏa; **Sogard ↔ Dan:** tôi/cậu, hai người là bạn.
+- **Dan ↔ nhân vật chính:** tôi/cậu, biết ơn, xin vào Guild để rèn luyện. Nếu Guild kín chỗ thì Dan được hứa tuyển sau khi mở rộng.
+- **Lisir ↔ nhân vật chính:** tôi/cậu, tham tiền và rất hay khịa nhưng biết lo; Lisir gọi Gabera là sư phụ, Guildmaster trực tiếp gọi Lisir là cô. Quy trình Wizard có cuốn `Book of Abstinence`, không biến lời hứa bỏ tham thành một thay đổi thật của tính cách sau khi đổi Job.
+- **Malone / Margaret ↔ nhóm:** tôi/cậu, lịch sự theo vai trò huấn luyện. Margaret đặc biệt cảnh báo giữ Lisir trong party, dọn chỗ trang bị khi đổi Job.
+- **Viselc ↔ người chơi / Pippen / Guildmaster:** tôi/cậu, điềm tĩnh, đòi hỏi sự đồng ý của lãnh đạo Guild bên mình trước khi nhận nhiệm vụ. **Viselc ↔ Informant:** tôi/anh, người đưa tin đổi thông tin lấy một ân huệ tương lai.
+- **Nikol:** Thief trinh sát, bị Assassin sát hại. `Frees` là tên nhóm người không thuộc Guild; giữ đúng nguồn, không tự thay bằng Job khác.
+- **Lucifi ↔ nhân vật chính:** tôi/cậu. Guildmaster nói kính trọng với Lucifi là “ngài” vì được Order of Knights giới thiệu lên Knight. **Tank** và **Guild Worker** dùng giọng hướng dẫn; Guild Worker → “Nhân viên Guild”.
+- **Tên động `<CFFF8>`** chỉ thành viên chưa xác định, không tự gán danh tính hay giới tính.
+- **Bất thường:** `<C3000>` giữa câu ở index 350 của file 019 phải được giữ nguyên; chưa kiểm thử font và khung chữ NDS.
+
