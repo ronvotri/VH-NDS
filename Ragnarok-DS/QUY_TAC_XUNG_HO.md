@@ -319,3 +319,24 @@ Giữ mã `<C3000>` bất thường ở index 80, 163, 180, 183, 300 của file 
 - **Kafra Staff** → `Nhân viên Kafra`, **Young Woman** → `Cô gái trẻ`; nhãn **Knight**, **Thief** giữ như Job từ bản USA. Tên **Gabera, Natsume, Viselc, Pott, Mof, Lilac**, địa danh **Geffen Bridge, Prontera Culvert**, và `<CFFF9>` của Guild động không đổi.
 
 **Dữ liệu nguồn bất thường:** index **135** có `<C3000>` nằm trong nội dung; index **273** là trang rỗng sau `<CFFFC>`. Cấu trúc đã QA 0 lỗi; hiển thị/font NDS cần kiểm tra sau.
+
+
+## Đợt 019 — Lilac, Akari, ác mộng và tác dụng phụ thuốc
+
+| Cặp nhân vật | Ngôi xưng | Lưu ý |
+|---|---|---|
+| Lilac ↔ người chơi | tôi/cậu | Lilac hoài nghi nhưng minh bạch về sự bất tín hai bên, không tự suy đoán cô chính là thủ phạm |
+| Lilac ↔ Viselc | Lilac tôi/anh, Viselc tôi/cô | Hai người hòa giải của Morocc đối đầu chính sách nhưng phải chia việc điều tra/truy bắt |
+| Akari ↔ Viselc | tôi/anh | Lo lắng kẻ thù lợi dụng vụ đoàn buôn để vu oan; Akari với người chơi tôi/cậu |
+| Viselc ↔ người chơi | tôi/cậu | Điềm tĩnh, tin tưởng đồng đội, giữ nguyên tên Guild động `<CFFF9>` |
+| Knight ↔ nhóm ở East Prontera Woods | tôi/các cậu | Giao nhiệm vụ cứu người trúng ác mộng, không dùng giọng quát tháo của cảnh bắt tội phạm |
+| Người chơi ↔ cô bé `<CFFFA>` | tôi/cậu | Cô bé nhớ hai người đàn ông; người chơi lo lắng và trấn an, **không suy đoán danh tính** |
+| Adventurer ↔ cô bé trong hồi ức | tôi/cháu | Nhân vật nói có con trai trạc tuổi cô bé; chưa tự đồng nhất với một nhân vật đã biết |
+| Researcher trong hồi ức | tôi/anh | Cho rằng giết cô bé sẽ cứu cả thế giới; lời kẻ đó không được coi là kết luận sự thật |
+| Lisir ↔ người chơi | tôi/cậu | Cà khịa về chiều cao, uống nhầm thuốc khiến nói kiểu cổ; sau đó xin lỗi bằng item Greaves |
+| Người chơi khi dính thuốc | ta/ngươi | Giọng cổ phong chỉ trong hiệu ứng thuốc; chữa xong quay lại tôi/cậu |
+| Magician ↔ người chơi | tôi/cậu | Đổi nguyên liệu thuốc giải: **2 Panaceas + 5 Holy Waters** |
+| Merchant Morocc ↔ Viselc | tôi/anh | Cứu ốc đảo và điều tra sốt do phấn hoa, không thay số 2–3 ngày |
+| Kafra Staff / Adventurer / Researcher | Nhân viên Kafra / Mạo hiểm giả / Nhà nghiên cứu | Chỉ dịch nhãn vai trò, không đổi tên Job (Merchant, Magician, Swordsman) |
+
+**QA:** Giữ nguyên `<CFFFB>`, `<CFFFA>`, `<CFFFC>`, `<CFFFD>`, `<C3000>` và toàn bộ mã màu. Ở index 422 nguồn dùng `Moroccan<CFFFD>` thiếu `<C3000>`; không tự thêm thẻ. Chưa QA độ rộng/font khi chơi.
