@@ -266,15 +266,25 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - ZIP checkpoint 025 có 33 JSONL tích lũy, patch 025, 398 thuật ngữ, quy tắc xưng hô, danh bạ nhân vật và báo cáo QA. **Chưa tạo ROM hay bổ sung font tiếng Việt**.
 - **Đợt 026:** `05-hoi-thoai-024.jsonl` có **491 mục** chưa dịch.
 
+## Checkpoint 026 — 18/11/2026
+
+- **491/491 mục** hoàn thành trong `05-hoi-thoai-024.jsonl`: 478 bản Việt khác EN, 13 mục chỉ giữ nguyên tên/ký hiệu. Patch: `translation/PATCH-DOT026.jsonl`.
+- **Tích lũy 11.386/14.616 mục (77,90%)**, còn **3.230 mục `vi=null`**. Không thay đổi **10.895 mục** checkpoint 025.
+- Nội dung: cuộc tái đấu của Immortal Fighter; Allen và Kate đọc thư trong hộp thời gian; Nina tự xưng Merchant Chính Nghĩa, đánh đuổi Hoodlum và xin vào Guild; Chỉ huy điều tra Dark Knight ở Glast Heim và trao Bloody Sword; Dark Magician thử thách đổi Job Dark Knight/nhận Tyrfing; Phụ nữ bí ẩn chỉ trình tự bốn nơi **Eternal Sands → East Prontera Woods → Mt. Mjolnir - East → Ant Hell** để nhận Yggdrasil Branch; Shaman ở Yusidra Caves giảng về sức mạnh, nỗi sợ mất bạn bè và trao Ancient Shaman Documents.
+- **QA chính thức nguồn `tools/check_handoff.py`**: `source_rows=14616`, `translated=11386`, `unfinished=3230`, `errors=[]`. Giữ nguyên ID, `en`, context, uses, group, thứ tự mã, tên động và màu NDS. Mọi tệp JSONL cũ được so khớp byte-level với ZIP 025.
+- **Độ dài:** không có phần chữ dài quá **36 ký tự Unicode** giữa thẻ điều khiển; có **4 cảnh báo độ dài tương đối** cần đo font thật. Các mảnh âm thanh chưa rõ `Di...er...` và `Embo...div...wer.` giữ nguyên tiếng nguồn vì chưa đủ dữ kiện diễn giải.
+- **Chưa có bản ROM tiếng Việt đã nhúng font/QA trên NDS**; ZIP checkpoint 026 gồm 33 JSONL, patch, glossary **412 mục**, danh bạ nhân vật, quy tắc xưng hô và QA.
+- **Đợt 027:** `05-hoi-thoai-025.jsonl` còn **422 mục**.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **10.895 patch records** từ các đợt 001–025, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **11.386 patch records** từ các đợt 001–026, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_025_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_026_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
