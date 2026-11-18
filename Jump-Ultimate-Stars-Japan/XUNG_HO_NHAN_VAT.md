@@ -231,3 +231,27 @@
 - **One Piece:** Luffy thẳng thắn, đơn giản, xưng “tớ – cậu” với đồng đội khi cần; Zoro ít lời, quyết đoán; Nami lanh lợi, đôi lúc trêu; Sanji lịch lãm với phụ nữ và cộc cằn với đối thủ; Robin điềm đạm, ít lời; Franky khoa trương, hài tự nhiên; Usopp khoác lác nhưng rất tình cảm; Chopper trẻ con, ngây thơ. Không lạm dụng Gen Z trong cảnh bi thương như Robin muốn sống, lời Zeff tiễn Sanji.
 - **Speaker QA:** Đoạn tóm tắt truyện chỉ là người dẫn, không tự gán câu văn là lời nhân vật. Chỉ dùng dấu trích dẫn và xưng hô khi Nhật gốc cho thấy lời nói trực tiếp.
 - **Nối 006→007:** Hồ sơ Usopp tiếp tục sang file 007, không cắt bỏ ý câu về trò 'búa 5 tấn'. Đoạn Chopper được dịch trọn để checkpoint dừng tại điểm chuyển nhân vật Shanks.
+
+
+## Checkpoint 023 – quy tắc thư viện nhân vật 007
+
+- **One Piece – Shanks:** lời kể trung tính; câu Shanks dặn Luffy dùng giọng đàn anh ân cần (anh–em).
+- **Pyu to Fuku! Jaguar:** Jaguar quái chiêu, đanh nhây; Piyohiko bình thường, hay bất lực; Hamer thích phô trương, tự xưng *tại hạ* khi làm màu. Không gán ID người nói chỉ dựa vào vị trí.
+- **Rokudenashi Blues:** Taison nói mạnh, cộc, nghĩa khí; Nanase Chiaki nói dịu. Những câu trích nguyên văn có giọng gắt được giữ sắc thái, không áp dụng cho lời kể.
+- **Rurouni Kenshin:** Kenshin thường lịch sự, khi trở lại Battosai nghiêm và sắc; Sanosuke dùng giọng bạt mạng; Saito tiết chế, lạnh; Shishio trịch thượng. Dùng anh–em với Kaoru ở câu hứa đón cô; ngoài ngữ cảnh này không mặc định xưng hô.
+- **Slam Dunk:** Hanamichi tự tin hài hước; Rukawa ít lời, sắc lạnh; Akagi nghiêm; Mitsui cứng đầu nhưng giàu tình cảm; lời kể thể thao giữ tính mô tả.
+- **Shaman King:** Yoh nói thoải mái, dùng mình hoặc tớ tùy người nghe; tên kỹ năng/thuật ngữ chính để nguyên.
+
+Các tên Romanization có trạng thái `working_romanization_qa` cần so lại với ấn bản chính thức trước khi khóa thuật ngữ.
+
+
+## Checkpoint 023 – quy tắc thư viện nhân vật 007
+
+- **One Piece – Shanks:** lời kể trung tính; câu Shanks dặn Luffy dùng giọng đàn anh ân cần (anh–em).
+- **Pyu to Fuku! Jaguar:** Jaguar quái chiêu, đanh nhây; Piyohiko bình thường, hay bất lực; Hamer thích phô trương, tự xưng *tại hạ* khi làm màu. Không gán ID người nói chỉ dựa vào vị trí.
+- **Rokudenashi Blues:** Taison nói mạnh, cộc, nghĩa khí; Nanase Chiaki nói dịu. Những câu trích nguyên văn có giọng gắt được giữ sắc thái, không áp dụng cho lời kể.
+- **Rurouni Kenshin:** Kenshin thường lịch sự, khi trở lại Battosai nghiêm và sắc; Sanosuke dùng giọng bạt mạng; Saito tiết chế, lạnh; Shishio trịch thượng. Dùng anh–em với Kaoru ở câu hứa đón cô; ngoài ngữ cảnh này không mặc định xưng hô.
+- **Slam Dunk:** Hanamichi tự tin hài hước; Rukawa ít lời, sắc lạnh; Akagi nghiêm; Mitsui cứng đầu nhưng giàu tình cảm; lời kể thể thao giữ tính mô tả.
+- **Shaman King:** Yoh nói thoải mái, dùng mình hoặc tớ tùy người nghe; tên kỹ năng/thuật ngữ chính để nguyên.
+
+Các tên Romanization có trạng thái `working_romanization_qa` cần so lại với ấn bản chính thức trước khi khóa thuật ngữ.
