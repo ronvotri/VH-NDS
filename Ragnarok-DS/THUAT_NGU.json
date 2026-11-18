@@ -2104,5 +2104,29 @@
     "vi": "Mjolnir Dead Pit - B3F",
     "status": "reviewed-dot021",
     "note": "Địa danh lấy sách"
+  },
+  {
+    "en": "Biger",
+    "vi": "Biger",
+    "status": "reviewed-dot022",
+    "note": "Tên NPC Merchant Guild"
+  },
+  {
+    "en": "Thieves Guild Worker",
+    "vi": "Nhân viên Thieves Guild",
+    "status": "reviewed-dot022",
+    "note": "Nhãn NPC giữ Thieves Guild tiếng Anh"
+  },
+  {
+    "en": "Guild Member",
+    "vi": "Thành viên Guild",
+    "status": "reviewed-dot022",
+    "note": "Nhãn thành viên Guild vô danh"
+  },
+  {
+    "en": "Peco Peco",
+    "vi": "Peco Peco",
+    "status": "reviewed-dot022",
+    "note": "Quái săn bốn con trong thử thách Archer"
   }
 ]
