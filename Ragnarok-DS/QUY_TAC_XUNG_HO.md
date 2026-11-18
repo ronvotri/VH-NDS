@@ -340,3 +340,18 @@ Giữ mã `<C3000>` bất thường ở index 80, 163, 180, 183, 300 của file 
 | Kafra Staff / Adventurer / Researcher | Nhân viên Kafra / Mạo hiểm giả / Nhà nghiên cứu | Chỉ dịch nhãn vai trò, không đổi tên Job (Merchant, Magician, Swordsman) |
 
 **QA:** Giữ nguyên `<CFFFB>`, `<CFFFA>`, `<CFFFC>`, `<CFFFD>`, `<C3000>` và toàn bộ mã màu. Ở index 422 nguồn dùng `Moroccan<CFFFD>` thiếu `<C3000>`; không tự thêm thẻ. Chưa QA độ rộng/font khi chơi.
+
+
+## Đợt 020 — Morocc, Larks/Lilac, Order, Attar, Sohee và linh hồn kiếm
+
+- **Merchant Morocc ↔ người chơi:** tôi/cậu, trả ơn sau khi cứu dân và nhờ Đội trưởng thợ giúp mở rộng Guild. **Boss (đội trưởng thợ)** dùng ta/nhóc, không phải boss quái.
+- **Lucifi ↔ Lisir:** tôi/cậu, trêu chọc nhưng quan tâm nhau; Lucifi vẫn rất sợ ma dù tuyên bố hết sợ sau khi đánh Sohee. **Young Man** (Chàng trai trẻ) xưng tôi/cô với Lisir, tôi/cậu với Lucifi; anh tìm được mặt dây chuyền trong túi trước khi cô tới hầm.
+- **Viselc ↔ Lilac:** Viselc tôi/cô, Lilac tôi/anh; Lilac từng tham gia kế hoạch gài tội nhưng bị kẻ chủ mưu phản bội. Viselc giữ thể diện cho cô vì lời hứa với Larks.
+- **Larks ↔ Viselc:** bạn thân, tôi/cậu. **Larks ↔ Lilac:** anh/em; Lilac là em gái Larks, không phải người yêu. **Akari ↔ Lilac:** tôi/cô, tiết lộ sự hy sinh của Larks. **Akari ↔ Viselc:** tôi/anh, phản đối chuyện anh cứ tự trách mình.
+- **Mysterious Man (Người đàn ông bí ẩn)** ↔ Lilac: ta/cô, đe dọa và phản bội; Lilac chất vấn dùng ta/ngươi. Không gán danh tính cụ thể khi bản USA chưa xác nhận.
+- **Order → Lucifi:** Knight kính trọng, thưa ngài; Lucifi → Commander dùng tôi/thưa ngài. **Child (Đứa trẻ)** dùng em/dạ, Lucifi gọi em. Đứa trẻ trúng độc thần kinh làm tê liệt tạm thời, không nguy hiểm tính mạng.
+- **Attar ↔ người chơi:** tôi/cậu, nhờ lấy Treasure Map ở ốc đảo Eternal Sands; không đọc được ngôn ngữ trên bản đồ. **Maintenance Crew (Đội bảo trì)** ↔ party: tôi/các cậu, thuê diệt Sohee.
+- **Suspicious Old Man (Ông lão khả nghi)** ↔ người chơi: ta/cậu, cười hê hê, xin Old Sword và các item Bat Fang, Ogre Tooth, Cursed Ruby, Skull, Yggdrasil Leaf. Ông tự nhận là linh hồn kiếm; không thay thông báo Ogre Tooth của bản USA.
+- **Sogard ↔ người chơi:** tôi/cậu, mở nhiệm vụ mới sau khi cảm ơn người chơi.
+
+**QA:** Không thay mã `<CFFFB>`, `<CFFFA>`, `<CFFFD>`, `<CFFFC>`, màu `<CFFF1>`, `<CFFF2>`, `<CFFF4>`, `<CFFEF>` và `<C3000>`. Nguồn có mã `<C3000>` trong thân câu tại index 3, 65, 103, 124, 190, 231, 337; không thêm mã thiếu vào nhãn Child/Maintenance Crew. Đã QA 0 lỗi cấu trúc, chưa kiểm thử font hoặc khung chữ NDS.
