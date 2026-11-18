@@ -222,3 +222,12 @@
 - **Nube/Yukime:** Nube nói với học trò bằng vai thầy, Yukime nói dịu dàng với Nube; chỉ bật chất địa phương khi nguồn có dấu hiệu rõ.
 - **Ninku:** Fuusuke hồn nhiên và tốt bụng, bùng nổ khi bạn bè bị đe dọa. Toji, Aichou là đồng đội; các tên Ninku-ro, Ninei-bara, Kokoro no Ie và Shaka no Akashi là phiên âm *provisional* để đối chiếu sau.
 - **Mã game:** giữ `<IDEOSP>` theo từng ID, không chuyển sang hàng khác. Tên Skill, Item, nhân vật chính và thuật ngữ quan trọng giữ tiếng Anh/romaji theo glossary.
+
+
+## Checkpoint 022 — Neuro / Otokojuku / One Piece
+
+- **Neuro và Yako:** Neuro tự xưng “ta”, gọi đối phương “ngươi” trong các câu ra lệnh/đe dọa; Yako phản ứng đời thường, đôi khi lúng túng, không biến thành giọng vô lễ. Lời kể hồ sơ dùng ngôi thứ ba. Akane-chan chủ yếu là tóc được hồi sinh, không tự gán thoại.
+- **Otokojuku:** Edajima uy quyền, xưng “ta” trong lời tuyên bố; Momotaro nghiêm nghị, dứt khoát, coi trọng đồng đội. Hien lịch sự (“tôi – anh”), J pha tiếng Anh nhưng không viết lại những câu English gốc bằng tên đòn khác. Những tên võ phái/chiêu hiếm được giữ romanization và gắn nhãn QA, không nhận là tên chính thức.
+- **One Piece:** Luffy thẳng thắn, đơn giản, xưng “tớ – cậu” với đồng đội khi cần; Zoro ít lời, quyết đoán; Nami lanh lợi, đôi lúc trêu; Sanji lịch lãm với phụ nữ và cộc cằn với đối thủ; Robin điềm đạm, ít lời; Franky khoa trương, hài tự nhiên; Usopp khoác lác nhưng rất tình cảm; Chopper trẻ con, ngây thơ. Không lạm dụng Gen Z trong cảnh bi thương như Robin muốn sống, lời Zeff tiễn Sanji.
+- **Speaker QA:** Đoạn tóm tắt truyện chỉ là người dẫn, không tự gán câu văn là lời nhân vật. Chỉ dùng dấu trích dẫn và xưng hô khi Nhật gốc cho thấy lời nói trực tiếp.
+- **Nối 006→007:** Hồ sơ Usopp tiếp tục sang file 007, không cắt bỏ ý câu về trò 'búa 5 tấn'. Đoạn Chopper được dịch trọn để checkpoint dừng tại điểm chuyển nhân vật Shanks.
