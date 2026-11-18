@@ -9154,5 +9154,101 @@
     "vi": "Rag Ball",
     "status": "sport_name",
     "note": "CP028 J-Quiz: Space Adventure Cobra fictional sport"
+  },
+  {
+    "ja": "南葛",
+    "vi": "Nankatsu",
+    "status": "club_place_name",
+    "note": "CP029 J-Quiz: Captain Tsubasa; đội bóng/trường; không dịch thành tên Việt"
+  },
+  {
+    "ja": "明和",
+    "vi": "Meiwa",
+    "status": "club_place_name",
+    "note": "CP029 J-Quiz: Captain Tsubasa"
+  },
+  {
+    "ja": "修哲",
+    "vi": "Shutetsu",
+    "status": "school_name",
+    "note": "CP029 J-Quiz: Captain Tsubasa"
+  },
+  {
+    "ja": "若島津健",
+    "vi": "Ken Wakashimazu",
+    "status": "character_name_qa",
+    "note": "CP029 J-Quiz: Captain Tsubasa; xác minh Latin romanization"
+  },
+  {
+    "ja": "岬太郎",
+    "vi": "Taro Misaki",
+    "status": "character_name_qa",
+    "note": "CP029 J-Quiz: Captain Tsubasa; xác minh Latin romanization"
+  },
+  {
+    "ja": "三杉淳",
+    "vi": "Jun Misugi",
+    "status": "character_name_qa",
+    "note": "CP029 J-Quiz: Captain Tsubasa"
+  },
+  {
+    "ja": "松山光",
+    "vi": "Hikaru Matsuyama",
+    "status": "character_name_qa",
+    "note": "CP029 J-Quiz: Captain Tsubasa"
+  },
+  {
+    "ja": "スカイラブ・ハリケーン",
+    "vi": "Sky Love Hurricane",
+    "status": "skill_name",
+    "note": "CP029 J-Quiz: Captain Tsubasa"
+  },
+  {
+    "ja": "カミソリシュート",
+    "vi": "Kamisori Shoot",
+    "status": "skill_name_qa",
+    "note": "CP029 J-Quiz: Captain Tsubasa; cần QA romanization"
+  },
+  {
+    "ja": "天下一武道会",
+    "vi": "Tenkaichi Budokai",
+    "status": "tournament_name",
+    "note": "CP029 J-Quiz: Dragon Ball; giữ tên giải"
+  },
+  {
+    "ja": "瞬間移動",
+    "vi": "Instant Transmission",
+    "status": "skill_name",
+    "note": "CP029 J-Quiz: Dragon Ball"
+  },
+  {
+    "ja": "精神と時の部屋",
+    "vi": "Phòng Tinh Thần và Thời Gian",
+    "status": "location_name",
+    "note": "CP029 J-Quiz: Dragon Ball; thuật ngữ tiếng Việt quen thuộc"
+  },
+  {
+    "ja": "界王星",
+    "vi": "hành tinh Kaio",
+    "status": "place_name",
+    "note": "CP029 J-Quiz: Dragon Ball"
+  },
+  {
+    "ja": "ギニュー特戦隊",
+    "vi": "đội Ginyu",
+    "status": "organization_name",
+    "note": "CP029 J-Quiz: Dragon Ball"
+  },
+  {
+    "ja": "兎人参化",
+    "vi": "Monster Carrot",
+    "status": "character_name_qa",
+    "note": "CP029 J-Quiz: Dragon Ball; tên Anh cần rà lại"
+  },
+  {
+    "ja": "カッチン鋼",
+    "vi": "thép Katchin",
+    "status": "material_name_qa",
+    "note": "CP029 J-Quiz: Dragon Ball"
   }
 ]
