@@ -8704,5 +8704,101 @@
     "vi": "Oversoul",
     "status": "official_or_widely_used",
     "note": "Shaman King"
+  },
+  {
+    "ja": "巫力",
+    "vi": "Furyoku",
+    "status": "common_romanization",
+    "note": "Checkpoint 024. Shaman King; thuật ngữ sức mạnh linh lực"
+  },
+  {
+    "ja": "シャーマンファイト",
+    "vi": "Shaman Fight",
+    "status": "verified_name",
+    "note": "Checkpoint 024. Giải đấu Shaman King"
+  },
+  {
+    "ja": "スピリット・オブ・ソード",
+    "vi": "Spirit of Sword",
+    "status": "common_english_name",
+    "note": "Checkpoint 024. Tên Oversoul của Ren/Yoh; cần đối chiếu hiệu ứng trên màn hình"
+  },
+  {
+    "ja": "式神",
+    "vi": "Shikigami",
+    "status": "common_romanization",
+    "note": "Checkpoint 024. Linh thể được điều khiển"
+  },
+  {
+    "ja": "超・占事略決",
+    "vi": "Chō-Senjiryakketsu",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 024. Tên sách thuật Asakura; cần chuẩn hóa theo phiên bản chính thức"
+  },
+  {
+    "ja": "聖衣",
+    "vi": "Cloth",
+    "status": "verified_name",
+    "note": "Checkpoint 024. Saint Seiya; giáp chòm sao"
+  },
+  {
+    "ja": "青銅聖闘士",
+    "vi": "Bronze Saint",
+    "status": "verified_name",
+    "note": "Checkpoint 024. Saint Seiya"
+  },
+  {
+    "ja": "黄金聖闘士",
+    "vi": "Gold Saint",
+    "status": "verified_name",
+    "note": "Checkpoint 024. Saint Seiya"
+  },
+  {
+    "ja": "白銀聖闘士",
+    "vi": "Silver Saint",
+    "status": "verified_name",
+    "note": "Checkpoint 024. Saint Seiya"
+  },
+  {
+    "ja": "セブンセンシズ",
+    "vi": "Seven Senses",
+    "status": "common_english_name",
+    "note": "Checkpoint 024. Saint Seiya, giác quan thứ bảy"
+  },
+  {
+    "ja": "オーバーソウル スピリット オブ ソード",
+    "vi": "Oversoul Spirit of Sword",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 024. Chữ được ngắt bằng IDEOSP, cần kiểm tra nhãn"
+  },
+  {
+    "ja": "無我の境地",
+    "vi": "Muga no Kyōchi",
+    "status": "common_romanization",
+    "note": "Checkpoint 024. Prince of Tennis; thuật ngữ trạng thái"
+  },
+  {
+    "ja": "ドライブＢ",
+    "vi": "Drive B",
+    "status": "common_english_name",
+    "note": "Checkpoint 024. Ryoma; tên kỹ thuật"
+  },
+  {
+    "ja": "スネイクショット",
+    "vi": "Snake Shot",
+    "status": "common_english_name",
+    "note": "Checkpoint 024. Kaido; tên kỹ thuật"
+  },
+  {
+    "ja": "ブーメランスネイク",
+    "vi": "Boomerang Snake",
+    "status": "common_english_name",
+    "note": "Checkpoint 024. Kaido; tên kỹ thuật"
+  },
+  {
+    "ja": "波動球",
+    "vi": "Hadokyu",
+    "status": "working_romanization_qa",
+    "note": "Checkpoint 024. Kawamura; cần đối chiếu chính tả phiên âm"
   }
 ]
