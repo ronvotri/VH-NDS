@@ -270,3 +270,23 @@ Giữ tên động `<CFFFB>` và các mã phân trang, màu, nhãn nói ở đú
 | Rolek ↔ người chơi | ta/cậu | Tu sĩ chuộc lỗi, xin gia nhập Guild vì thông điệp “ánh sáng mới” |
 
 **Kỹ thuật:** `Trust` là mật khẩu bắt buộc giữ nguyên. Một số vai trò `Old Lady`, `Young Man` dùng `<CFFFD>` ngay sau nhãn người nói, không được tự chèn `<C3000>`. Các mã phân trang/màu/tên động kiểm tra khớp nguồn, **chưa QA hiển thị NDS**.
+
+
+## Đợt 016 — Julietta, Cliff, Malone, Rick, Zeeter, Lisir và Lucifi
+
+| Cặp / NPC | Ngôi xưng | Ngữ cảnh |
+|---|---|---|
+| Julietta ↔ nhân vật chính | tôi/cậu | Archer nhút nhát, bỏ nhiệm vụ ở Guild cũ, được động viên để không bỏ chạy nữa; xin gia nhập Guild của người chơi |
+| Julietta → người Archer từng cứu cô | anh ấy | Nguồn ghi rõ là nam (he); giữ ngôi phù hợp, không đoán giới tính nhân vật chính |
+| Sopborough ↔ người chơi | ta/cậu hoặc tôi/cậu | Cuồng sưu tầm Card, chê người chưa đạt chuẩn |
+| Cliff ↔ người chơi | tôi/cậu | Swordsman Guild và thử thách danh dự |
+| Wandering Swordsman ↔ người chơi | ta/ngươi hoặc ta/nhóc | Khi nổi giận thì đe dọa; nhãn vai trò Việt hóa “Swordsman lang thang” để giữ tên Job |
+| Malone ↔ người chơi | tôi/cậu | Magician Guild, giọng trêu đùa, thỉnh thoảng khúc khích |
+| Banished Magician ↔ người chơi | ta/ngươi | Phản ứng hung hăng, gọi hai quái Tally và Redrick |
+| Rick ↔ người chơi | tôi/cậu | Thieves Guild, vòng vo khi lời nói dối về nhiệm vụ bị lộ |
+| Zeeter ↔ người chơi | ta/cậu | Hunter ít nói; “...Đó là luật” là luật cá nhân, **không phải quy định Guild** |
+| Lisir ↔ nhân vật chính | tôi/cậu | Khi tới mộ bố mẹ dùng con/bố, con/mẹ. Nhân vật chính nói với bố mẹ cô đã mất bằng cháu; giữ cảm xúc nghiêm túc |
+| Knight ↔ Lucifi | tôi/cậu | Thử xem Lucifi đã hết sợ ma chưa; nhờ Martha giả làm Ghost |
+| Martha ↔ cả nhóm | tôi/cậu | Magician vui tính nhận đóng giả người chết; chỉ hài ở cảnh thử ma |
+
+**Kỹ thuật:** Các thẻ `<CFFFB>`, `<CFFFA>` và mã điều khiển màu giữ thứ tự. Dòng index 176, 369, 417 có `<C3000>` nằm trong thân lời thoại; index 203 chứa `COLOR_RED>Mimic` lỗi nguồn. Chưa kiểm thử ROM/font.
