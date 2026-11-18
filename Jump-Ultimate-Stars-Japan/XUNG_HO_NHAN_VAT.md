@@ -286,3 +286,14 @@ Các tên Romanization có trạng thái `working_romanization_qa` cần so lạ
 - Tên/Skill của *Bobobo-bo Bo-bobo* và *Black Cat* giữ English hoặc phiên âm với cờ QA cho tên khó. Phần dịch tên tuyệt kỹ chỉ là tên làm việc khi không thấy tên English chính thức, **chưa khóa thuật ngữ**.
 - Cần rà nguồn đặc biệt ở J-Quiz: dòng 312–317 gồm câu hỏi số lượng nhưng chỉ ba đáp án dạng tên người; dòng 325–337 có trích dẫn và lựa chọn thiếu ngữ cảnh. Bản dịch **không bổ sung dữ liệu bị thiếu**.
 - Thẻ `<PERCENT_FULL>` (J-Quiz dòng 450) và `<IDEOSP>` (dòng 556–559, 599) đã bảo toàn đúng ID.
+
+
+## Checkpoint 027 — J-Quiz Black Cat / Bleach (19/11/2026)
+
+- `06-jquiz-001.jsonl` dòng **651–1262** gồm **612 ID** thuộc câu hỏi 100–204, từ *Black Cat* qua *Bleach*. Đây là **lời hệ thống**, không đặt thoại vào miệng nhân vật trừ các lựa chọn trích câu nói gốc.
+- Câu hỏi có thể cắt 1–4 ID: mỗi mẩu Việt ứng với đúng **ID/quiz_context**; phương án giữ nguyên `position`. Không tự quyết định đáp án đúng và không thay đổi các ID tái sử dụng (như phần giới thiệu Time Guardians).
+- Những câu hỏi dùng hình và đáp án còn thiếu ở nhóm nguồn (một số question_index chỉ có 1–3 answer_option ở đoạn này vì reuse các chuỗi bên ngoài) **không được bổ sung đáp án mới**. Cần QA trong game với hình và answer key.
+- Tên nhân vật *Black Cat*: **Train**, **Sven**, **Eve**, **Creed** theo dạng English; tên chưa có chứng cứ chính thức được đánh dấu `qa`. Các kỹ năng/vũ khí như `LUCIFER`, `Hades`, `Orichalcum`, `GRAVITY`, `GATE` giữ nguyên tên.
+- Thuật ngữ *Bleach*: **Shinigami, Soul Society, Zanpakuto, Hollow, Quincy, Kido, Shikai, Bankai, Gigai, Gikongan, Seireitei, Rukongai**. **Ichigo/Rukia/Byakuya/Yoruichi** là tên gọi, quiz dùng ngôi thứ ba trung tính.
+- Từ vựng tiếng Nhật bị mã hóa lạ trong nguồn (`No. ∪`, `No. Å`, `⊆霊廷`, `双仝`) không được tự khẳng định đã phục hồi đúng; cần so với bản game hình ảnh.
+- Các tên kẻ gây nhiễu trong phương án quiz giữ đúng vị trí và có thể là bản Latin tạm; QA chính tả riêng sau khi có nguồn tiếng Anh chính thức.
