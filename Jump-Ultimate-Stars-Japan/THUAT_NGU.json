@@ -2194,5 +2194,281 @@
     "vi": "Cosmo",
     "status": "common_english_name",
     "note": "CP009: giữ tên/Skill bằng English hoặc romanized; đánh dấu provisional nếu chưa xác nhận tên localized chính thức."
+  },
+  {
+    "ja": "ジャガー",
+    "vi": "Jaguar",
+    "status": "character_name_romanized",
+    "note": "CP010: tên nhân vật/thuật ngữ được giữ bằng chữ Latin."
+  },
+  {
+    "ja": "おしゃみ",
+    "vi": "Oshami",
+    "status": "romanized_japanese_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "歯ぎしりと床ずれと私",
+    "vi": "Teeth Grinding, Bedsores and Me",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "ミッドナイトナイスガイ",
+    "vi": "Midnight Nice Guy",
+    "status": "romanized_english",
+    "note": "CP010: tên nhân vật/thuật ngữ được giữ bằng chữ Latin."
+  },
+  {
+    "ja": "スコルパンＸ",
+    "vi": "Scorpan X",
+    "status": "romanized_japanese_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "出せ！たてぶえマン",
+    "vi": "Appear! Tatebue Man",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "たてぶえマンの憂鬱",
+    "vi": "Tatebue Man's Melancholy",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "ふえ科講師",
+    "vi": "Flute Instructor",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "則巻アラレ",
+    "vi": "Arale Norimaki",
+    "status": "common_english_name",
+    "note": "CP010: tên nhân vật/thuật ngữ được giữ bằng chữ Latin."
+  },
+  {
+    "ja": "んちゃ砲",
+    "vi": "N'cha Cannon",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "パトカー投げ",
+    "vi": "Police Car Throw",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "巨大ウンチ投げ",
+    "vi": "Giant Poop Throw",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "地球割り",
+    "vi": "Earth Split",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "合体んちゃ砲",
+    "vi": "Combined N'cha Cannon",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "ペンギン村のみなさん",
+    "vi": "Penguin Village Residents",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "Ｄｒ．マシリト",
+    "vi": "Dr. Mashirito",
+    "status": "common_english_name",
+    "note": "CP010: tên nhân vật/thuật ngữ được giữ bằng chữ Latin."
+  },
+  {
+    "ja": "めっちゃんこ岩投げ",
+    "vi": "Super Rock Throw",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "地面割り",
+    "vi": "Ground Split",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "巨大メカウンチ投げ",
+    "vi": "Giant Mecha Poop Throw",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "地球どつき",
+    "vi": "Earth Smack",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "エネルギーゼロ光線",
+    "vi": "Energy Zero Beam",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "キャラメルマンラッシュ",
+    "vi": "Caramel Man Rush",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "ＵＳＺメッチャンコバズーカ",
+    "vi": "USZ Super Bazooka",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "キャラメルマンラッシュ２",
+    "vi": "Caramel Man Rush 2",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "天才科学者",
+    "vi": "Genius Scientist",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "めっちゃんこ殲滅ビーム",
+    "vi": "Super Annihilation Beam",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "どっきりびっくりメカ発進！！",
+    "vi": "Surprise Mecha Launch!!",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "超天才科学者",
+    "vi": "Super Genius Scientist",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "六氷透（ムヒョ）",
+    "vi": "Muhyo Toru",
+    "status": "character_name_romanized",
+    "note": "CP010: tên nhân vật/thuật ngữ được giữ bằng chữ Latin."
+  },
+  {
+    "ja": "『冥王の晩餐』の刑",
+    "vi": "Nether King's Banquet",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "『魔図鑑』の刑",
+    "vi": "Magic Bestiary",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "『魔列車』の刑",
+    "vi": "Demon Train",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "幽李召喚",
+    "vi": "Summon Yūri",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "『魔元帥』の刑",
+    "vi": "Demon General",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "幽李召喚 本当の姿",
+    "vi": "Summon Yūri True Form",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "冥王ルアラリエ召喚",
+    "vi": "Summon Luararie",
+    "status": "romanized_japanese_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "執行人",
+    "vi": "Executor",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "脳噛ネウロ／桂木弥子",
+    "vi": "Neuro Nogami / Yako Katsuragi",
+    "status": "common_english_name",
+    "note": "CP010: tên nhân vật/thuật ngữ được giữ bằng chữ Latin."
+  },
+  {
+    "ja": "犯人はお前だ！！",
+    "vi": "The Culprit Is You!!",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "食【えじき】",
+    "vi": "Prey",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "一【ひとりきり】",
+    "vi": "Alone",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "魔人探偵",
+    "vi": "Demon Detective",
+    "status": "provisional_english_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "ドーピングコンソメスープ",
+    "vi": "Doping Consommé Soup",
+    "status": "common_english_name",
+    "note": "CP010: tên nhân vật/thuật ngữ được giữ bằng chữ Latin."
+  },
+  {
+    "ja": "ケンシロウ",
+    "vi": "Kenshiro",
+    "status": "common_english_name",
+    "note": "CP010: tên nhân vật/thuật ngữ được giữ bằng chữ Latin."
+  },
+  {
+    "ja": "北斗百裂拳",
+    "vi": "Hokuto Hyakuretsu Ken",
+    "status": "romanized_japanese_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
+  },
+  {
+    "ja": "北斗神拳奥義転龍呼吸法",
+    "vi": "Tenryū Kokyūhō",
+    "status": "romanized_japanese_qa",
+    "note": "CP010: chưa xác nhận tên Skill chính thức trên bản tiếng Anh; là tên làm việc, cần đối chiếu trước khi khóa."
   }
 ]
