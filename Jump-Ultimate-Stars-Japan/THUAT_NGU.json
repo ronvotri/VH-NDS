@@ -8169,7 +8169,7 @@
     "ja": "ジャジャン拳",
     "vi": "Jajanken",
     "status": "project_consistent_cp018",
-    "note": "Tên chiêu của Gon; phiên âm"
+    "note": "Tên chiêu của Gon; phiên âm, không dịch thành trò oẳn tù tì"
   },
   {
     "ja": "南斗聖拳",
@@ -8199,6 +8199,66 @@
     "ja": "邑姜",
     "vi": "Ryo Yukyo",
     "status": "project_consistent_cp018",
-    "note": "Tên riêng đã đối chiếu với nguồn tham khảo Hoshin Engi"
+    "note": "Tên riêng, đối chiếu bảng nhân vật Hoshin Engi"
+  },
+  {
+    "ja": "伏羲",
+    "vi": "Fuxi",
+    "status": "chinese_romanized_review",
+    "note": "Hoshin Engi; người khởi nguyên"
+  },
+  {
+    "ja": "女｛",
+    "vi": "Nüwa",
+    "status": "source_glyph_corrupted_review",
+    "note": "Tên Nüwa trong nguồn bị lỗi font; chỉ giữ thống nhất với đoạn liên quan"
+  },
+  {
+    "ja": "蘇妲己",
+    "vi": "Dakki",
+    "status": "existing_project_usage",
+    "note": "Tên Dakki; không dịch tên người"
+  },
+  {
+    "ja": "真中淳平",
+    "vi": "Junpei Manaka",
+    "status": "character_romanization",
+    "note": "Ichigo 100%"
+  },
+  {
+    "ja": "瀬戸一貴",
+    "vi": "Ichitaka Seto",
+    "status": "character_romanization",
+    "note": "I''s"
+  },
+  {
+    "ja": "岸辺露伴",
+    "vi": "Rohan Kishibe",
+    "status": "character_romanization",
+    "note": "JoJo"
+  },
+  {
+    "ja": "ジョニィ・ジョースター",
+    "vi": "Johnny Joestar",
+    "status": "character_romanization",
+    "note": "Steel Ball Run"
+  },
+  {
+    "ja": "世界",
+    "vi": "The World",
+    "status": "official_franchise_name",
+    "note": "JoJo Stand"
+  },
+  {
+    "ja": "スティール・ボール・ラン",
+    "vi": "Steel Ball Run",
+    "status": "franchise_name",
+    "note": "Tên sự kiện/series"
+  },
+  {
+    "ja": "超神田寿司",
+    "vi": "Cho Kanda Sushi",
+    "status": "working_romanization_qa",
+    "note": "Tên tiệm trong Kochikame, cần QA"
   }
 ]
