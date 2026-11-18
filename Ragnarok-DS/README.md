@@ -55,15 +55,23 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - QA chính thức: **14.616 ID, 2.368 mục có `vi`, 12.248 mục `vi=null`, 0 lỗi**. Đối chiếu với nguồn `RagnarokDS_USA_BanGiao_Cloud.zip`; không đổi `en`, ID, mã điều khiển.
 - **Chưa kiểm tra font tiếng Việt, tràn dòng trên NDS, patch ROM hay máy thật**.
 
+## Checkpoint 006 — 18/11/2026
+
+- **+535 mục** (525 câu dịch khác EN, 10 mục chỉ có tên hoặc lời gọi được giữ nguyên), hoàn thành `05-hoi-thoai-004.jsonl` (535/535). Tệp GitHub: `translation/PATCH-DOT006.jsonl`.
+- **Tích lũy 2.903/14.616 mục (19,86%)**, 2.729 bản khác tiếng Anh, 174 mục giữ nguyên sau rà, 11.713 mục `vi=null`.
+- Cảnh truyện: Aldo–Rodia–Zane gặp rồng; Emperium ở Yusidra Caves; lập Guild và Kafra; Golden Eagle, Edwin, Fiona; món Rusty Legendary Sword; Dark Knight; mở đầu nhiệm vụ Yolanda/Popi.
+- **QA nguồn chính thức** (bản `tools/check_handoff.py` từ bộ bàn giao): 14.616 ID, 2.903 mục có `vi`, 11.713 chưa dịch, **0 lỗi** điều khiển/placeholder/ID. Đã đối chiếu phiên bản JSONL tích lũy của checkpoint 005; không sửa `en`.
+- Chưa build ROM, chưa thay font, chưa kiểm tra kích thước tiếng Việt trên NDS hoặc giả lập.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **2.368 patch records** từ các đợt 001–005, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **2.903 patch records** từ các đợt 001–006, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_005_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_006_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
