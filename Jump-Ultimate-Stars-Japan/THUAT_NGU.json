@@ -9102,81 +9102,57 @@
     "note": "CP027 J-Quiz: Bleach chain connecting body and soul"
   },
   {
+    "ja": "反膜",
+    "vi": "Negacion",
+    "status": "skill_term",
+    "note": "CP028 J-Quiz: Bleach Menos rescue barrier"
+  },
+  {
     "ja": "破面",
     "vi": "Arrancar",
-    "status": "review_pending",
-    "note": "Từ ngữ ở J-Quiz CP028; phiên âm/tên chính thức cần đối chiếu bản game hoặc manga"
+    "status": "group_name",
+    "note": "CP028 J-Quiz: Bleach masked Hollows"
   },
   {
     "ja": "十刃",
     "vi": "Espada",
-    "status": "review_pending",
-    "note": "Từ ngữ ở J-Quiz CP028; phiên âm/tên chính thức cần đối chiếu bản game hoặc manga"
+    "status": "group_name",
+    "note": "CP028 J-Quiz: Bleach Arrancar elites"
   },
   {
-    "ja": "虚園",
+    "ja": "虚圏",
     "vi": "Hueco Mundo",
-    "status": "review_pending",
-    "note": "Từ ngữ ở J-Quiz CP028; phiên âm/tên chính thức cần đối chiếu bản game hoặc manga"
+    "status": "place_name",
+    "note": "CP028 J-Quiz: Bleach Hollow realm; original variant 虚園"
   },
   {
     "ja": "仮面の軍勢",
     "vi": "Visored",
-    "status": "review_pending",
-    "note": "Từ ngữ ở J-Quiz CP028; phiên âm/tên chính thức cần đối chiếu bản game hoặc manga"
+    "status": "group_name",
+    "note": "CP028 J-Quiz: Bleach masked Shinigami"
   },
   {
-    "ja": "ヴァストローデ",
-    "vi": "Vasto Lorde",
-    "status": "review_pending",
-    "note": "Từ ngữ ở J-Quiz CP028; phiên âm/tên chính thức cần đối chiếu bản game hoặc manga"
+    "ja": "ムーンレンズ",
+    "vi": "Moon Lens",
+    "status": "artifact_name",
+    "note": "CP028 J-Quiz: Space Adventure Cobra"
   },
   {
-    "ja": "アジューカス",
-    "vi": "Adjuchas",
-    "status": "review_pending",
-    "note": "Từ ngữ ở J-Quiz CP028; phiên âm/tên chính thức cần đối chiếu bản game hoặc manga"
+    "ja": "神の瞳",
+    "vi": "Eye of God",
+    "status": "artifact_name_qa",
+    "note": "CP028 J-Quiz: Space Adventure Cobra; check official English"
   },
   {
-    "ja": "ギリアン",
-    "vi": "Gillian",
-    "status": "review_pending",
-    "note": "Từ ngữ ở J-Quiz CP028; phiên âm/tên chính thức cần đối chiếu bản game hoặc manga"
+    "ja": "地獄の十字軍",
+    "vi": "Thập tự quân Địa ngục",
+    "status": "organization_term",
+    "note": "CP028 J-Quiz: Space Adventure Cobra quiz"
   },
   {
-    "ja": "滅却十字",
-    "vi": "Quincy Cross",
-    "status": "review_pending",
-    "note": "Từ ngữ ở J-Quiz CP028; phiên âm/tên chính thức cần đối chiếu bản game hoặc manga"
-  },
-  {
-    "ja": "ソード・サムライＸ",
-    "vi": "Sword Samurai X",
-    "status": "review_pending",
-    "note": "Từ ngữ ở J-Quiz CP028; phiên âm/tên chính thức cần đối chiếu bản game hoặc manga"
-  },
-  {
-    "ja": "フェイタルアトラクション",
-    "vi": "Fatal Attraction",
-    "status": "review_pending",
-    "note": "Từ ngữ ở J-Quiz CP028; phiên âm/tên chính thức cần đối chiếu bản game hoặc manga"
-  },
-  {
-    "ja": "暗黒神",
-    "vi": "Dark God",
-    "status": "review_pending",
-    "note": "Từ ngữ ở J-Quiz CP028; phiên âm/tên chính thức cần đối chiếu bản game hoặc manga"
-  },
-  {
-    "ja": "アーリマン",
-    "vi": "Ahriman",
-    "status": "review_pending",
-    "note": "Từ ngữ ở J-Quiz CP028; phiên âm/tên chính thức cần đối chiếu bản game hoặc manga"
-  },
-  {
-    "ja": "アフラ・マズダ",
-    "vi": "Ahura Mazda",
-    "status": "review_pending",
-    "note": "Từ ngữ ở J-Quiz CP028; phiên âm/tên chính thức cần đối chiếu bản game hoặc manga"
+    "ja": "ラグ・ボール",
+    "vi": "Rag Ball",
+    "status": "sport_name",
+    "note": "CP028 J-Quiz: Space Adventure Cobra fictional sport"
   }
 ]
