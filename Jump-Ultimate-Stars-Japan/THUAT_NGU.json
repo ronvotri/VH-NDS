@@ -7636,5 +7636,161 @@
     "vi": "Unlimited Special Soul",
     "status": "character_name_qa",
     "note": "CP013 04-koma-chieu-thuc-003.jsonl dòng 1006; giữ tên Latin/English, cần kiểm chứng chính tả chính thức với nguồn manga/game khi chèn ROM."
+  },
+  {
+    "ja": "ボボボーボ・ボーボボ",
+    "vi": "Bobobo-bo Bo-bobo",
+    "status": "official_style_manga",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "首領パッチ（どんぱっち）",
+    "vi": "Don Patch",
+    "status": "romanization_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "ところ天の助（ところてんのすけ）",
+    "vi": "Tokoro Tennosuke",
+    "status": "romanization_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "ヘッポコ丸（へっぽこまる）",
+    "vi": "Heppokomaru",
+    "status": "romanization_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "ガ王（がおう）",
+    "vi": "Gaoh",
+    "status": "romanization_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "破天荒（はてんこう）",
+    "vi": "Hatenko",
+    "status": "romanization_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "魚雷ガール（ぎょらいがーる）",
+    "vi": "Torpedo Girl",
+    "status": "character_name_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "田楽マン（でんがくまん）",
+    "vi": "Dengakuman",
+    "status": "romanization_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "トレイン＝ハートネット",
+    "vi": "Train Heartnet",
+    "status": "character_name_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "スヴェン＝ボルフィード",
+    "vi": "Sven Vollfied",
+    "status": "character_name_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "ミナツキ<IDEOSP>サヤ",
+    "vi": "Saya Minatsuki<IDEOSP>",
+    "status": "character_name_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "キリサキ<IDEOSP>キョウコ",
+    "vi": "Kyoko Kirisaki<IDEOSP>",
+    "status": "character_name_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "黒崎一護（くろさきいちご）",
+    "vi": "Ichigo Kurosaki",
+    "status": "character_name_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "朽木ルキア（くちきるきあ）",
+    "vi": "Rukia Kuchiki",
+    "status": "character_name_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "阿散井恋次（あばらいれんじ）",
+    "vi": "Renji Abarai",
+    "status": "character_name_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "日番谷冬獅郎（ひつがやとうしろう）",
+    "vi": "Toshiro Hitsugaya",
+    "status": "character_name_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "斬月（ざんげつ）",
+    "vi": "Zangetsu",
+    "status": "official_skill_name_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "袖白雪（そでのしらゆき）",
+    "vi": "Sode no Shirayuki",
+    "status": "official_skill_name_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "蛇尾丸（ざびまる）",
+    "vi": "Zabimaru",
+    "status": "official_skill_name_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "氷輪丸（ひょうりんまる）",
+    "vi": "Hyorinmaru",
+    "status": "official_skill_name_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "卍解（ばんかい）",
+    "vi": "Bankai",
+    "status": "official_skill_name_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "斬魄刀（ざんぱくとう）",
+    "vi": "Zanpakuto",
+    "status": "official_skill_name_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "虚（ホロウ）化",
+    "vi": "Hollowfication",
+    "status": "official_skill_name_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "黒猫",
+    "vi": "Black Cat",
+    "status": "character_name_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "変身（トランス）",
+    "vi": "Transform",
+    "status": "term_translation_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
+  },
+  {
+    "ja": "滅却師（クインシー）",
+    "vi": "Quincy",
+    "status": "term_translation_qa",
+    "note": "CP014, trích trực tiếp từ thư viện nhân vật; tên latin/chiêu riêng còn cần soát với cách gọi chính thức. Giữ thẻ điều khiển nếu có."
   }
 ]
