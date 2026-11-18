@@ -8110,5 +8110,95 @@
     "vi": "Otsu / Tsuu Terakado",
     "status": "working_romanization_qa",
     "note": "CP017: Gintama idol; working name, verify official"
+  },
+  {
+    "ja": "真選組",
+    "vi": "Shinsengumi",
+    "status": "project_consistent_cp018",
+    "note": "Tên tổ chức trong Gintama; giữ theo cách viết tên riêng"
+  },
+  {
+    "ja": "万事屋銀ちゃん",
+    "vi": "Yorozuya Gin-chan",
+    "status": "project_consistent_cp018",
+    "note": "Tên tiệm/nhóm của Gintoki"
+  },
+  {
+    "ja": "攘夷志士",
+    "vi": "Joi",
+    "status": "project_consistent_cp018",
+    "note": "Chí sĩ kháng Amanto, dùng trong Gintama"
+  },
+  {
+    "ja": "念",
+    "vi": "Nen",
+    "status": "project_consistent_cp018",
+    "note": "Hệ thống năng lực của Hunter × Hunter"
+  },
+  {
+    "ja": "強化系",
+    "vi": "Enhancement",
+    "status": "project_consistent_cp018",
+    "note": "Loại Nen, thuộc hệ chính"
+  },
+  {
+    "ja": "変化系",
+    "vi": "Transmutation",
+    "status": "project_consistent_cp018",
+    "note": "Loại Nen, thuộc hệ chính"
+  },
+  {
+    "ja": "具現化系",
+    "vi": "Conjuration",
+    "status": "project_consistent_cp018",
+    "note": "Loại Nen, thuộc hệ chính"
+  },
+  {
+    "ja": "特質系",
+    "vi": "Specialization",
+    "status": "project_consistent_cp018",
+    "note": "Loại Nen, thuộc hệ chính"
+  },
+  {
+    "ja": "幻影旅団",
+    "vi": "Phantom Troupe",
+    "status": "project_consistent_cp018",
+    "note": "Tên tổ chức; giữ tiếng Anh"
+  },
+  {
+    "ja": "ジャジャン拳",
+    "vi": "Jajanken",
+    "status": "project_consistent_cp018",
+    "note": "Tên chiêu của Gon; phiên âm"
+  },
+  {
+    "ja": "南斗聖拳",
+    "vi": "Nanto Seiken",
+    "status": "project_consistent_cp018",
+    "note": "Võ phái trong Fist of the North Star"
+  },
+  {
+    "ja": "封神計画",
+    "vi": "Hoshin Project",
+    "status": "project_consistent_cp018",
+    "note": "Tên kế hoạch trong Hoshin Engi"
+  },
+  {
+    "ja": "宝貝",
+    "vi": "Paopei",
+    "status": "project_consistent_cp018",
+    "note": "Bảo vật/đạo cụ đặc trưng Hoshin Engi"
+  },
+  {
+    "ja": "傾世元禳",
+    "vi": "Keiseigensho",
+    "status": "project_consistent_cp018",
+    "note": "Super Paopei của Dakki"
+  },
+  {
+    "ja": "邑姜",
+    "vi": "Ryo Yukyo",
+    "status": "project_consistent_cp018",
+    "note": "Tên riêng đã đối chiếu với nguồn tham khảo Hoshin Engi"
   }
 ]
