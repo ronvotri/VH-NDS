@@ -1,0 +1,671 @@
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 0, "id": "JUS-d95676d74383fef3b360", "ja": "この先に進む資格なんてないわねっ！", "vi": "Cậu chưa đủ tư cách đi tiếp đâu nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 1, "id": "JUS-b6c00d55eb95e7a52e71", "ja": "Ｊパワーをコマに注入するのよっ！", "vi": "Nạp J-Power vào Koma đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 2, "id": "JUS-5f1f207ca3fd6d7a6ba3", "ja": "封印を解いて新しいコマを", "vi": "Giải phong ấn để lấy Koma mới,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 3, "id": "JUS-8df36f67a811d4705f40", "ja": "手に入れてしまえばいいんだわっ！", "vi": "rồi thu phục nó là xong chứ gì!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 4, "id": "JUS-9afaae74c144b0c5ea9f", "ja": "コマでデッキを作るところよっ！", "vi": "Đây là nơi ghép Koma thành Deck!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 5, "id": "JUS-b8d78321b129f2500e4e", "ja": "目指せばいいじゃないのっ！", "vi": "Cứ nhắm tới mục tiêu đó đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 6, "id": "JUS-afb26699a41cec7e1b25", "ja": "いろんなデータを見てみなさいよっ！", "vi": "Tự xem đủ loại dữ liệu đi nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 7, "id": "JUS-841d4ad84c7e1d0d3799", "ja": "ここに集まってるんだからねっ！", "vi": "Tất cả đều tụ họp ở đây mà!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 8, "id": "JUS-b5fac5a2d27f654e8590", "ja": "ゲームのいろんな設定ができるわっ！", "vi": "Ở đây chỉnh được đủ kiểu thiết lập game!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 9, "id": "JUS-65056cc2613cf7c50763", "ja": "好きにすればいいじゃないのよっ！", "vi": "Muốn chỉnh sao thì tùy cậu!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 10, "id": "JUS-72fbd705565febd7ca53", "ja": "競えばいいんだわっ！", "vi": "Cứ thi đấu với nhau đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 11, "id": "JUS-d500c80a2c5240a5cb77", "ja": "いいじゃないっ！", "vi": "Cũng được đấy chứ!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 12, "id": "JUS-860d411d0754cb44db31", "ja": "相手をＫＯしてＪシンボルを", "vi": "Hạ KO đối thủ để gom J-Symbol,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 13, "id": "JUS-1d74d6b41ad82ec18158", "ja": "せいぜい集めるがいいわっ！", "vi": "rồi cố mà nhặt cho nhiều vào nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 14, "id": "JUS-7a828e66638f3c4f1105", "ja": "バトルの制限時間を３段階の中から", "vi": "Chọn thời gian giới hạn trận đấu"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 15, "id": "JUS-812c3114a295ded9849a", "ja": "決めなさいよねっ！", "vi": "trong ba mức cho sẵn đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 16, "id": "JUS-500c5c1decfdd2a57cfc", "ja": "出るかどうか、好きにしなさいよっ！", "vi": "Muốn nó xuất hiện hay không thì tùy cậu!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 17, "id": "JUS-79a9c5e54127d8e98729", "ja": "設定すればいいじゃないっ！", "vi": "Cứ tự thiết lập đi chứ!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 18, "id": "JUS-7831c33fa82766109337", "ja": "バトルするＣＯＭの人数を", "vi": "Chọn số COM tham gia trận đấu"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 19, "id": "JUS-9721d891ca9e117d3d72", "ja": "好きに設定しなさいよねっ！", "vi": "bao nhiêu thì tùy cậu đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 20, "id": "JUS-2d4560640579643545bc", "ja": "ＣＯＭのレベルを", "vi": "Còn cấp độ COM thì"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 21, "id": "JUS-0c96a4ac385d000eaef9", "ja": "決めればいいじゃないっ！", "vi": "cứ tự chọn lấy đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 22, "id": "JUS-3700af078ba068a25928", "ja": "どのチームで対戦するかを", "vi": "Chọn xem những đội nào"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 23, "id": "JUS-002b3ad9832ceb1b8abd", "ja": "設定すればいいんだわ！", "vi": "sẽ đối đầu nhau nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 24, "id": "JUS-e15ead52dc77697cfe91", "ja": "設定しなさいよっ！", "vi": "Tự thiết lập đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 25, "id": "JUS-8940aad5e7e97bfacddc", "ja": "説明するインフォキャラを選ぶのよ！", "vi": "Chọn Info Character hướng dẫn cậu!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 26, "id": "JUS-226881a1f7c176dd7a09", "ja": "…あ、あたし以外を選ぶなんて", "vi": "...Này, cậu định chọn ai khác"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 27, "id": "JUS-7f66702c059a73541e6b", "ja": "許されると思って！？", "vi": "ngoài tôi thật đấy à!?"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 28, "id": "JUS-dbb71ad90073681ade09", "ja": "ゲーム内のデータを消すのよっ！", "vi": "Đây là chỗ xóa dữ liệu trong game!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 29, "id": "JUS-99ba14abcaf32bca55b3", "ja": "何を消すかは、この先で選べば", "vi": "Muốn xóa gì thì vào bước sau"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 30, "id": "JUS-abcff3d83401c31b62b4", "ja": "いいんだわっ！", "vi": "mà chọn lấy nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 31, "id": "JUS-7bc7fb4240a0dbda18f4", "ja": "消すわっ！", "vi": "Xóa đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 32, "id": "JUS-b739ddd66600cc5ba228", "ja": "ハイスコアデータを消すわっ！", "vi": "Xóa dữ liệu điểm cao đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 33, "id": "JUS-474187a219c4dc81c58d", "ja": "ゲームデータを完全消去するわっ！", "vi": "Xóa sạch toàn bộ dữ liệu game đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 34, "id": "JUS-1bb3e9bc404f4e0f389e", "ja": "あとで後悔したって", "vi": "Sau này có hối hận"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 35, "id": "JUS-56fd39ce0bcfe98971c9", "ja": "知らないんだからねっ！", "vi": "thì tôi mặc kệ đấy nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 36, "id": "JUS-219c876027ea3d162d31", "ja": "データを消すのをやめるわっ！", "vi": "Thôi, không xóa dữ liệu nữa!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 37, "id": "JUS-4fec9fa49ac4a3af32a4", "ja": "あ、あたしが説明…い、いいわよ！", "vi": "T-tôi hướng dẫn á...? Đ-được thôi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 38, "id": "JUS-ec2018a295d5591981b0", "ja": "やってやろうじゃないの！", "vi": "Để tôi cho cậu thấy nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 39, "id": "JUS-acd767360d09f27e55a6", "ja": "…チ、チムリーなんて知らないわっ！", "vi": "...Ch-Chimney là ai chứ! Tôi không biết!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 40, "id": "JUS-385616431f2cf2946437", "ja": "毎回ランダムに選択されるわ！", "vi": "Mỗi lần sẽ chọn ngẫu nhiên đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 41, "id": "JUS-873d44d7974f427732bf", "ja": "気が多いあなたにはお似合いねっ！", "vi": "Đúng là hợp với người dễ đổi ý như cậu!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 42, "id": "JUS-fe341c87c070292c8457", "ja": "インフォキャラの選択をやめるわっ！", "vi": "Thôi, không chọn Info Character nữa!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 43, "id": "JUS-737d8f085197aa2b01dc", "ja": "ライバルを蹴散らして１位になれば", "vi": "Đánh bại đối thủ để lên hạng nhất,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 44, "id": "JUS-159e058fc0df3d3a95cc", "ja": "もう一回苦労すればいいんだわっ！", "vi": "rồi cứ cố thêm một lần nữa đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 45, "id": "JUS-4be44aa452b28c91db71", "ja": "記録も残ることだしねっ！", "vi": "Dù sao kỷ lục cũng được lưu lại mà!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 46, "id": "JUS-0560c17219a37626032f", "ja": "ＣＰＵとバトルしてしまいなさいよっ！", "vi": "Cứ thử đấu với CPU đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 47, "id": "JUS-3b39fca26830c5788b32", "ja": "好きなデッキで特訓を重ねて", "vi": "Dùng Deck mình thích để tập luyện,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 48, "id": "JUS-744e25e259ed0ec3f942", "ja": "みんなから恐れられるくらい", "vi": "mạnh đến mức ai cũng"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 49, "id": "JUS-c957c22e50b55e4e38d6", "ja": "強くなればいいんだわっ！", "vi": "phải dè chừng cậu ấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 50, "id": "JUS-c89e299516cfe16f9b02", "ja": "ランキング戦よっ！", "vi": "Đây là đấu xếp hạng đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 51, "id": "JUS-81817f2eb4f6a4f7918d", "ja": "文句でもあるのっ！？", "vi": "Có ý kiến gì không hả!?"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 52, "id": "JUS-30d563a4b1688ddecf83", "ja": "負けたって知らないんだからねっ！", "vi": "Thua thì đừng trách tôi nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 53, "id": "JUS-f1d5ba91f77a8dd5fa1e", "ja": "勝ちまくればいいんだわっ！", "vi": "Cứ thắng liên tục vào là được!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 54, "id": "JUS-49fafbacaed7657bf305", "ja": "ランキング戦だなんて", "vi": "Đấu xếp hạng ấy à,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 55, "id": "JUS-b8ef02fc977709d33ea3", "ja": "ずいぶんとお似合いだこと！", "vi": "đúng là hợp với cậu ghê!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 56, "id": "JUS-30876e6a0c2e04bbb7c7", "ja": "思う存分確認できるわよっ！", "vi": "Muốn kiểm tra bao nhiêu cũng được!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 57, "id": "JUS-4b2a25c417c047119829", "ja": "第<PERCENT_FULL>戦よっ！", "vi": "Đây là trận thứ <PERCENT_FULL>!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 58, "id": "JUS-13d87419260165506be0", "ja": "べ、べつに数えてるわけじゃないわっ！", "vi": "K-không phải tôi đang đếm đâu nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 59, "id": "JUS-e082ada3461520a8e6c6", "ja": "ランキングの集計をしてるのよっ！", "vi": "Đang tổng hợp bảng xếp hạng đây!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 60, "id": "JUS-cf9650b65e281ae38679", "ja": "な、なによ！<IDEOSP>少しくらい", "vi": "G-gì hả!<IDEOSP>Chờ một tí"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 61, "id": "JUS-9125361005e36210c6c9", "ja": "待ってくれてもいいじゃないっ！", "vi": "cũng không được sao!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 62, "id": "JUS-7fa3fb0bee214845811b", "ja": "ランキング戦を続ければいいんだわっ！", "vi": "Cứ tiếp tục đấu xếp hạng đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 63, "id": "JUS-cf319dc36387b2023c18", "ja": "ランキング戦を中断したところで", "vi": "Dù có tạm dừng đấu xếp hạng,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 64, "id": "JUS-61474ef6125152cc6379", "ja": "どうするつもりよっ！", "vi": "cậu định làm gì tiếp hả!?"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 65, "id": "JUS-46371e4eeaafa3843963", "ja": "メニューに戻ればいいじゃないっ！", "vi": "Thì cứ về menu thôi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 66, "id": "JUS-f991c11a5caa531edd56", "ja": "バトルを続ければいいんだわっ！", "vi": "Cứ tiếp tục trận đấu đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 67, "id": "JUS-f496b70d37a15a0a2c0c", "ja": "デッキセレクトに", "vi": "Quay lại màn hình"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 68, "id": "JUS-3e41623d81d84870b3d4", "ja": "戻ればいいじゃないっ！", "vi": "chọn Deck đi chứ!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 69, "id": "JUS-93023de35b98375b392c", "ja": "ミッションを続ければいいんだわっ！", "vi": "Cứ tiếp tục Mission đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 70, "id": "JUS-0ec555c905cfbc257917", "ja": "ミッションセレクトに", "vi": "Quay lại màn hình chọn Mission..."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 71, "id": "JUS-2888bc9a17c1ab399199", "ja": "たかだか１０問のクイズってだけよ！", "vi": "Chỉ là bài quiz 10 câu thôi mà!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 72, "id": "JUS-fccabd62c65d27de96ee", "ja": "たかだか３０問のクイズってだけよ！", "vi": "Chỉ là bài quiz 30 câu thôi mà!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 73, "id": "JUS-3817e823b214d83ee30b", "ja": "たかだか５０問のクイズってだけよ！", "vi": "Chỉ là bài quiz 50 câu thôi mà!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 74, "id": "JUS-eaf4406ae2c7d97de193", "ja": "１０トライアルよっ！", "vi": "Đây là 10 Trial đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 75, "id": "JUS-7488d9bf9e823948cf9b", "ja": "正解しまくればいいんだわっ！", "vi": "Cứ trả lời đúng thật nhiều vào!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 76, "id": "JUS-4f872abce9dfb9450706", "ja": "３０トライアルよっ！", "vi": "Đây là 30 Trial đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 77, "id": "JUS-016faf4e2f2b9e9a1265", "ja": "５０トライアルよっ！", "vi": "Đây là 50 Trial đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 78, "id": "JUS-bdbe031417149606abb3", "ja": "選んだらいいじゃないのよっ！", "vi": "Chọn đại một cái đi chứ!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 79, "id": "JUS-ea99aa381a936ade8e03", "ja": "ワイヤレス通信でライバルと対戦よっ！", "vi": "Đấu với đối thủ qua kết nối không dây!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 80, "id": "JUS-aa9520467701df730361", "ja": "データの交換もできるわっ！", "vi": "Còn trao đổi dữ liệu được nữa!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 81, "id": "JUS-7e662ec9917c3a567eb7", "ja": "Ｗｉ－Ｆｉ通信でライバルと対戦よっ！", "vi": "Đấu với đối thủ qua Wi-Fi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 82, "id": "JUS-d4cbd86ea652fb478e2c", "ja": "フレンドの管理もすればいいじゃないっ", "vi": "Cứ quản lý Friend của cậu đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 83, "id": "JUS-5d9d256685ef82ddf378", "ja": "パスワードが入力できるのよっ！", "vi": "Có thể nhập password đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 84, "id": "JUS-02173f239fd2878f97b7", "ja": "ライバルデータを呼び出せる", "vi": "Gọi được dữ liệu đối thủ lên,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 85, "id": "JUS-e356d6395d097ec5dcfc", "ja": "なんて反則だわっ！", "vi": "đúng là ăn gian mà!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 86, "id": "JUS-149007b73d78ca343cb2", "ja": "対戦できるのよっ！", "vi": "Đấu với nhau được đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 87, "id": "JUS-82cd8bf72ef75ee7ca72", "ja": "データの交換ができるのよっ！", "vi": "Còn trao đổi dữ liệu được đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 88, "id": "JUS-7dff43f3d1056a29058d", "ja": "最大４人と対戦できるのよっ！", "vi": "Đấu tối đa bốn người được đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 89, "id": "JUS-6553a78a5b26120488bf", "ja": "勝ち抜けばいいじゃないっ！", "vi": "Cứ thắng qua từng vòng đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 90, "id": "JUS-ccc8279140a4e2cc62e4", "ja": "Ｗｉ－Ｆｉコネクションに接続するわ！", "vi": "Kết nối vào Wi-Fi Connection!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 91, "id": "JUS-4d98207660486c1d5d27", "ja": "対戦はここからよっ！", "vi": "Muốn đấu thì vào đây!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 92, "id": "JUS-3209a46b092d5fe2d2bb", "ja": "フレンド登録ができるのよっ！", "vi": "Có thể đăng ký Friend đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 93, "id": "JUS-e71af66535d89e3584df", "ja": "設定ができるのよっ！", "vi": "Cũng chỉnh thiết lập được đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 94, "id": "JUS-e096090c009f61b0c927", "ja": "戦いたいリーダーを選ぶか、", "vi": "Chọn Leader muốn đấu cùng,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 95, "id": "JUS-fe2ce42ac4bf99a8c770", "ja": "自分がリーダーになりなさいよね！", "vi": "hoặc tự mình làm Leader đi nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 96, "id": "JUS-29743a41b62fbda4731d", "ja": "待てないだなんて言わせないわっ！", "vi": "Đừng bảo có vậy mà cũng không chờ nổi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 97, "id": "JUS-76a822f6402e55b268c4", "ja": "メンバーがエントリーしたわよっ！", "vi": "Có thành viên đăng ký rồi đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 98, "id": "JUS-3418497d5ab472fa9d6c", "ja": "けを締め切ったらいいんだわっ！", "vi": "Cứ đóng nhận đăng ký lại là xong!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 99, "id": "JUS-1871a95328015b0cb9da", "ja": "メンバーがエントリーしたわっ！", "vi": "Có thành viên đăng ký rồi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 100, "id": "JUS-6077f525e59e35695667", "ja": "思う存分したらいいんだわっ！", "vi": "Cứ thoải mái mà làm đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 101, "id": "JUS-711f75ac2b4c15c83035", "ja": "エントリーしたわよっ！", "vi": "Đăng ký xong rồi đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 102, "id": "JUS-d4bb22a88e2b7325ab51", "ja": "受け付けが終わるまで、そうやって", "vi": "Cho đến lúc đóng đăng ký,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 103, "id": "JUS-b595d1b18399aebd01d7", "ja": "待ってたらいいんだわっ！", "vi": "cứ chịu khó chờ như vậy đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 104, "id": "JUS-2af354bc433d60b7bdcc", "ja": "なによっ、ダウンロードプレイの", "vi": "Gì hả? Chỉ đang truyền dữ liệu"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 105, "id": "JUS-019be379adf69534ef54", "ja": "データを通信してるだけよっ！", "vi": "Download Play thôi mà!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 106, "id": "JUS-aca81110a5e558eca310", "ja": "終わるまで待ってたらいいじゃないっ！", "vi": "Chờ xong đi chứ!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 107, "id": "JUS-e141db70626210946eb6", "ja": "国内の誰かとバトルできるなんて", "vi": "Giờ còn đấu được với người trong nước,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 108, "id": "JUS-f26ff39a364d10fde880", "ja": "いい時代になったものねっ！", "vi": "thời đại tân tiến thật nhỉ!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 109, "id": "JUS-90926da4c33904ea57b6", "ja": "登録したフレンドと対戦してたって", "vi": "Cậu đấu với Friend đã đăng ký"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 110, "id": "JUS-3163b5fb4961cdbe5012", "ja": "うらやましくなんかないわよっ！", "vi": "thì tôi cũng chẳng ghen tị đâu!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 111, "id": "JUS-a287db79365836d20fa1", "ja": "なによっ、対戦相手を探す時間くらい", "vi": "Gì? Có chút thời gian tìm đối thủ"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 112, "id": "JUS-1f6edbe5e0b8002bcea3", "ja": "待てないなんて言わないでよねっ！", "vi": "mà cậu cũng không đợi nổi à!?"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 113, "id": "JUS-3fa756d17288f5496c3d", "ja": "対戦相手がみつかったわよっ！", "vi": "Tìm được đối thủ rồi đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 114, "id": "JUS-57e6ec8eb755e83fff3a", "ja": "…べ、べつに喜ぶ顔が見たかった", "vi": "...Đ-đừng tưởng tôi chỉ muốn"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 115, "id": "JUS-fd886a38058289a3f1ed", "ja": "わけじゃないんだからねっ！", "vi": "nhìn mặt cậu vui đâu nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 116, "id": "JUS-1a3a6a90e06edf11c3da", "ja": "しれないみたいなのっ！", "vi": "...Có vẻ là chưa tìm được thì phải!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 117, "id": "JUS-752ecb4f5644b1d35906", "ja": "…な、泣いてなんかないわよっ！", "vi": "...T-tôi có khóc đâu nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 118, "id": "JUS-0e9d1b43fcd1e117ce07", "ja": "すればいいじゃないっ！", "vi": "Cứ làm như thế đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 119, "id": "JUS-c7a1db59c2b3a1cc5271", "ja": "フレンド登録しなさいよねっ！", "vi": "Đăng ký Friend đi nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 120, "id": "JUS-5656d4ba24356d2f1e7b", "ja": "何度も確認すればいいんだわっ！", "vi": "Cứ kiểm tra bao nhiêu lần tùy thích!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 121, "id": "JUS-0b36348fbdb722c1a317", "ja": "フレンド登録したらいいのよっ！", "vi": "Cứ đăng ký Friend đi là được!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 122, "id": "JUS-48ba86407a0cfd9eb5f3", "ja": "自分のフレンドコードを、そうやって", "vi": "Mã Friend Code của mình ấy à,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 123, "id": "JUS-02048a65ade04ebf7376", "ja": "飽きるまで見てればいいんだわっ！", "vi": "cứ ngắm đến khi chán thì thôi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 124, "id": "JUS-1b8331e4d27938e3424b", "ja": "フレンドの情報を確認したり、", "vi": "Cậu có thể xem thông tin Friend,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 125, "id": "JUS-3b4fa795008491a0ab6b", "ja": "決定でフレンドを削除したり、", "vi": "nhấn xác nhận để xóa Friend,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 126, "id": "JUS-62867bc3b19d3430c067", "ja": "満足するまでそうやってなさいよっ！", "vi": "rồi cứ làm tới khi thấy đủ đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 127, "id": "JUS-c79febcf8b2edc1217bd", "ja": "下の画面でルール確認したらいいわっ！", "vi": "Kiểm tra luật ở màn hình dưới đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 128, "id": "JUS-bc60ce4344ee761467f8", "ja": "ＳＴＡＲＴボタンで対戦開始よっ！", "vi": "Nhấn START để bắt đầu đấu!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 129, "id": "JUS-e06da9c09c20dc6a792d", "ja": "対戦開始までそうやって確認してたら", "vi": "Cứ xem như vậy đến khi trận bắt đầu..."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 130, "id": "JUS-a152c6bf168efbc317d1", "ja": "Ｊクイズバトルよっ！", "vi": "Đây là J-Quiz Battle!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 131, "id": "JUS-719ffc402e44890288f9", "ja": "コマを集めてこい！", "vi": "Đi gom Koma về đây!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 132, "id": "JUS-ff8310dc5ff3e4da3e6a", "ja": "ランキング戦に挑戦してみろ", "vi": "Thử sức với đấu xếp hạng đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 133, "id": "JUS-2defd2e879ed375c5c9e", "ja": "バトルやミッショントライなんかも", "vi": "Cả Battle và Mission Trial"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 134, "id": "JUS-6dd82a0b13eab01d600c", "ja": "ここでできるんだ", "vi": "cũng chơi được ở đây."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 135, "id": "JUS-948a430068cf276f5e66", "ja": "通信機能が使えるんだ", "vi": "Ở đây dùng các chức năng kết nối."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 136, "id": "JUS-a137773c85521ca35c42", "ja": "対戦やデータ交換がしたけりゃ", "vi": "Muốn đấu hoặc trao đổi dữ liệu"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 137, "id": "JUS-2a72ee1aa07a0662976a", "ja": "ここを選べ", "vi": "thì chọn chỗ này."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 138, "id": "JUS-8d0ea7769e23b738041b", "ja": "どれだけジャンプを読んできたかが", "vi": "Đến lúc thử xem cậu đã đọc Jump"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 139, "id": "JUS-a2d08dd7c767b4f64a7b", "ja": "試されるってワケだな", "vi": "kỹ đến mức nào rồi đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 140, "id": "JUS-d928bab10ba837e1d35d", "ja": "おまえにはまだ早いようだな", "vi": "Với cậu thì vẫn còn sớm lắm!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 141, "id": "JUS-10aa1ce9b578bd1e00ce", "ja": "コマの封印が解けて自分のモノに", "vi": "Có thể phá phong ấn Koma,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 142, "id": "JUS-360d70c06089412a1487", "ja": "することができるってワケだ", "vi": "rồi biến nó thành đồ của mình."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 143, "id": "JUS-6a7b0f5072147130958a", "ja": "おまえのデッキを編集してみろ", "vi": "Thử chỉnh Deck của cậu đi."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 144, "id": "JUS-b6afced7aa9798c56110", "ja": "バトルに勝ちたいなら", "vi": "Muốn thắng trong Battle"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 145, "id": "JUS-2311f7c209e2a2674262", "ja": "ちゃんと頭つかえよ", "vi": "thì phải dùng đầu óc đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 146, "id": "JUS-b017fe5eef0e7834c2da", "ja": "いろいろなデータが保存されてるトコだ", "vi": "Đây là nơi lưu đủ loại dữ liệu."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 147, "id": "JUS-c2e6f366aadb9998ca6c", "ja": "コマの詳しい情報やバトルの記録が", "vi": "Muốn xem chi tiết Koma hay thành tích"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 148, "id": "JUS-a699a9ea3d917702c73b", "ja": "見たい時に選ぶんだな", "vi": "chiến đấu thì cứ vào đây."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 149, "id": "JUS-7d74be4edb63df76fd3c", "ja": "ゲームのいろいろな設定をするトコだ", "vi": "Đây là nơi chỉnh các thiết lập game."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 150, "id": "JUS-55c00f3b8c4fe9c93cd0", "ja": "全てのバトルキャラをＫＯした者が", "vi": "Ai KO toàn bộ Battle Character đối thủ"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 151, "id": "JUS-c3aa26e71d63c36fe604", "ja": "勝ちというルールだ", "vi": "thì thắng, luật là thế."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 152, "id": "JUS-0d9b965962ac141263be", "ja": "相手をＫＯしてＪシンボルを集め", "vi": "KO đối thủ để gom J-Symbol,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 153, "id": "JUS-2e3904f167b5f25ac86b", "ja": "その数で争うルールだ", "vi": "so ai có nhiều hơn thì thắng."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 154, "id": "JUS-77fbc199cceeeb1d554a", "ja": "選んで設定するんだ", "vi": "Chọn rồi tự thiết lập đi."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 155, "id": "JUS-9b136563f3aedecef2ce", "ja": "出現するかどうか設定するんだ", "vi": "Chọn xem có cho xuất hiện không."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 156, "id": "JUS-b758db889c43b4576953", "ja": "対戦に参加するＣＯＭの数を", "vi": "Chọn số COM tham gia trận đấu."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 157, "id": "JUS-bb90d6767c587393ed7d", "ja": "ＣＯＭの強さを設定するんだ", "vi": "Chọn độ mạnh của COM."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 158, "id": "JUS-b0c223660ee9c63ad058", "ja": "チーム戦をするかどうか設定するんだ", "vi": "Chọn có đấu theo đội hay không."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 159, "id": "JUS-3f747aaac2718c9e8382", "ja": "調整できるぞ", "vi": "Cũng điều chỉnh được đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 160, "id": "JUS-8f332bca2cdfde436f27", "ja": "俺みたいに説明するインフォキャラを", "vi": "Đây là chỗ đổi Info Character"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 161, "id": "JUS-2af586d5dfa28479bfa7", "ja": "変更するトコだ", "vi": "đang giải thích cho cậu như ta."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 162, "id": "JUS-6267aa841e741ad662f6", "ja": "ゲーム内の各種データを削除するときは", "vi": "Muốn xóa dữ liệu trong game"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 163, "id": "JUS-9f73da14aa883dd4ced0", "ja": "ここを選ぶんだ", "vi": "thì chọn vào đây."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 164, "id": "JUS-328330155adacf382225", "ja": "削除するぞ", "vi": "Xóa đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 165, "id": "JUS-f3a541637fcc7ecb9162", "ja": "ハイスコアデータを削除するぞ", "vi": "Xóa dữ liệu điểm cao đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 166, "id": "JUS-ae360b01396f1cf8f03a", "ja": "ゲームデータを全て削除するぞ", "vi": "Xóa sạch dữ liệu game đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 167, "id": "JUS-f399d06d12367c2f9be6", "ja": "間違えて実行しないよう", "vi": "Cẩn thận, đừng bấm nhầm"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 168, "id": "JUS-dd58957196028f4d58ff", "ja": "気をつけるんだ", "vi": "rồi mới kêu trời đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 169, "id": "JUS-f8b35362d3bc5e32dde6", "ja": "データの削除はやめるんだな？", "vi": "Không xóa nữa, đúng không?"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 170, "id": "JUS-79602d55f76e71a4cd64", "ja": "ゲームの説明か？", "vi": "Muốn ta giải thích à?"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 171, "id": "JUS-bc24db261c9bbfa09083", "ja": "よーし、俺がしてやろう", "vi": "Được, để ta chỉ cho."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 172, "id": "JUS-297474d52cc375e1f49e", "ja": "インフォキャラを毎回ランダムに", "vi": "Đây là chức năng đổi Info Character"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 173, "id": "JUS-6001401e84efe6291b07", "ja": "切り替える機能ってヤツだな", "vi": "ngẫu nhiên mỗi lần chơi."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 174, "id": "JUS-1b0315c1ae6329a147ea", "ja": "ランキング１位をとってこい！", "vi": "Đi giành hạng nhất đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 175, "id": "JUS-bfa711feaf8733048e69", "ja": "これまでにプレイしたことがある", "vi": "Với những màn cậu từng chơi rồi,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 176, "id": "JUS-a4644dd331668e4993d6", "ja": "記録を更新してくるんだ！", "vi": "hãy đi phá kỷ lục cũ!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 177, "id": "JUS-a9d15b873c020f756e2d", "ja": "ＣＰＵと対戦できるぞ", "vi": "Có thể đấu với CPU."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 178, "id": "JUS-300dd9f8b6e03fa33fdc", "ja": "好みのデッキで特訓ができるぞ", "vi": "Thích Deck nào thì dùng tập luyện."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 179, "id": "JUS-8a29814d1619d2ce343e", "ja": "ランキング戦なんだが、バトルごとに", "vi": "Đấu xếp hạng đấy, nhưng mỗi trận"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 180, "id": "JUS-d7531fb956b3fa2ac850", "ja": "ルールが変わるからな", "vi": "luật sẽ thay đổi, nhớ cho kỹ."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 181, "id": "JUS-4ffe89390881edd76cea", "ja": "閲覧できるトコだ", "vi": "Đây là chỗ xem thông tin."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 182, "id": "JUS-0d6dd039ed4904b5a3a3", "ja": "第<PERCENT_FULL>戦目だ、行ってこい！", "vi": "Trận thứ <PERCENT_FULL> đấy, xông lên!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 183, "id": "JUS-80ffde946de486a24da6", "ja": "結果を集計している最中だ", "vi": "Đang tổng hợp kết quả."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 184, "id": "JUS-b2ee0ef6ab1a7ba3b028", "ja": "あまりせかすんじゃない", "vi": "Đừng có giục quá."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 185, "id": "JUS-1bc5d169cf4ac8a7f76d", "ja": "ランキング戦を続けてプレイできるぞ", "vi": "Có thể tiếp tục đấu xếp hạng."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 186, "id": "JUS-19152e6c7318b8d52796", "ja": "ランキング戦をいったん中断するぞ", "vi": "Tạm dừng đấu xếp hạng."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 187, "id": "JUS-1ac278bbeb8bd0acf90c", "ja": "ランキング戦をやめてメニューに戻るぞ", "vi": "Dừng đấu xếp hạng, về menu."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 188, "id": "JUS-e82c72996f3996b66bf7", "ja": "バトルを続けてプレイできるぞ", "vi": "Có thể tiếp tục Battle."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 189, "id": "JUS-31e72586778a219f1387", "ja": "ミッションを続けてプレイできるぞ", "vi": "Có thể tiếp tục Mission."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 190, "id": "JUS-acee7e245846610be840", "ja": "クイズが１０問出されるぞ", "vi": "Có 10 câu quiz đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 191, "id": "JUS-56ccdd4d88a4be0abbb2", "ja": "クイズが３０問出されるぞ", "vi": "Có 30 câu quiz đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 192, "id": "JUS-d4330424ca86f9165fae", "ja": "クイズが５０問出されるぞ", "vi": "Có 50 câu quiz đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 193, "id": "JUS-f578f6a7fe225afd9831", "ja": "１０トライアルだ、全問正解してこい！", "vi": "10 Trial đấy, cố đúng hết nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 194, "id": "JUS-6c04a79c460ef330412c", "ja": "３０トライアルだ、全問正解してこい！", "vi": "30 Trial đấy, cố đúng hết nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 195, "id": "JUS-fc4ec22bf7ad04487aba", "ja": "５０トライアルだ、全問正解してこい！", "vi": "50 Trial đấy, cố đúng hết nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 196, "id": "JUS-5fa54524c4ac61f009ef", "ja": "Ｊパワーを注入するコマを選んでくれ", "vi": "Chọn Koma để nạp J-Power vào."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 197, "id": "JUS-a1ce455a1542f8de8ee2", "ja": "ライバルと対戦できるぞ", "vi": "Có thể đấu với đối thủ."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 198, "id": "JUS-9b35ceea5a5bed6d5646", "ja": "呼び出しができるんだ", "vi": "Cũng gọi dữ liệu lên được."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 199, "id": "JUS-b4a00f3d522539328cf7", "ja": "対戦できるんだ", "vi": "Có thể đấu với nhau."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 200, "id": "JUS-be47c01ad705d772dee0", "ja": "対戦はココからできるんだ", "vi": "Bắt đầu đấu từ đây."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 201, "id": "JUS-1aa151156d30e311fd5e", "ja": "対戦相手となるリーダーを選択するか", "vi": "Chọn Leader làm đối thủ,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 202, "id": "JUS-df15cf513f8b1326adf5", "ja": "自分がリーダーになるかを決めるんだ", "vi": "hoặc tự làm Leader đi."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 203, "id": "JUS-cb80c3bffa0683d554fe", "ja": "データ交換するリーダーを選択するか", "vi": "Chọn Leader để trao đổi dữ liệu,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 204, "id": "JUS-39028a6b575f0fae203e", "ja": "自分がそのリーダーになるか決めるんだ", "vi": "hoặc tự làm Leader đi."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 205, "id": "JUS-43bab260186a8413af27", "ja": "待っとれ", "vi": "Chờ đi đã."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 206, "id": "JUS-e1c3543797ffcd59aa70", "ja": "エントリー受け付けを締め切るなら", "vi": "Muốn đóng nhận đăng ký"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 207, "id": "JUS-056541204bc004b5f0a3", "ja": "ＳＴＡＲＴボタンを押すんだ", "vi": "thì nhấn nút START."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 208, "id": "JUS-631cf78e5d78b7117599", "ja": "データ交換を始めるなら", "vi": "Muốn bắt đầu trao đổi dữ liệu"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 209, "id": "JUS-4f50ab69d9222d629b08", "ja": "エントリーしたからな", "vi": "Đã đăng ký rồi."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 210, "id": "JUS-b3ea7496f6f95ed42e2d", "ja": "受け付けが終わるまで待っとれ", "vi": "Chờ đến khi đóng nhận đăng ký."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 211, "id": "JUS-592e77058f36c163c7c3", "ja": "ダウンロードプレイのデータを通信中だ", "vi": "Đang truyền dữ liệu Download Play."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 212, "id": "JUS-c8efb0eab56bd88ecb61", "ja": "もう少し待っとれ", "vi": "Chờ thêm một lát."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 213, "id": "JUS-8670b6918bc8d9ee5bd3", "ja": "国内のプレイヤーと対戦できるぞ", "vi": "Có thể đấu với người chơi trong nước."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 214, "id": "JUS-dfb8947bdc3cf8c5a9d4", "ja": "対戦相手を検索中だ", "vi": "Đang tìm đối thủ."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 215, "id": "JUS-709f456017e176222f3e", "ja": "あんまりせかすんじゃない", "vi": "Đừng có giục thế."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 216, "id": "JUS-dbda46d1df6c5eea74d6", "ja": "対戦相手がみつかったようだな！", "vi": "Hình như tìm được đối thủ rồi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 217, "id": "JUS-18d3d5ffb9b62e28994b", "ja": "今は対戦相手が見当たらないかも", "vi": "Có thể chưa tìm thấy đối thủ."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 218, "id": "JUS-6a507715cf9110ef0c5e", "ja": "登録してあるフレンドの確認や削除は", "vi": "Muốn kiểm tra hay xóa Friend đã lưu"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 219, "id": "JUS-c70e756f317cf92100fa", "ja": "ココでするんだ", "vi": "thì làm ở đây."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 220, "id": "JUS-1c18d35445a09922ae94", "ja": "自分のフレンドコードを確認しとくか？", "vi": "Xem Friend Code của mình nhé?"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 221, "id": "JUS-1aa0bca435ef189ed74f", "ja": "フレンド登録をするトコだ", "vi": "Đây là chỗ đăng ký Friend."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 222, "id": "JUS-f6713eb809760df3f8f9", "ja": "自分のフレンドコードを確認しておけ", "vi": "Nhớ kiểm tra Friend Code của mình."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 223, "id": "JUS-b69c0663870d072e2e35", "ja": "決定でフレンドをリストから削除するぞ", "vi": "Nhấn xác nhận để xóa Friend khỏi danh sách."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 224, "id": "JUS-9cf4a51e4c9d0462c57d", "ja": "ルールを下の画面で確認したら、", "vi": "Kiểm tra luật trên màn hình dưới,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 225, "id": "JUS-7b00d03ec818b431d40c", "ja": "ルールを下の画面で確認しておけ", "vi": "Xem luật ở màn hình dưới nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 226, "id": "JUS-10eb316f0284385e0da4", "ja": "対戦開始まで、もう少し待っとれ", "vi": "Chờ thêm chút nữa là bắt đầu đấu."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 227, "id": "JUS-d0bba25f36bd5e2ff54e", "ja": "Ｊクイズバトルだ、全問正解してこい！", "vi": "J-Quiz Battle đấy, trả lời đúng hết đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 228, "id": "JUS-5142c1fff38fffd39926", "ja": "散らばったコマを回収するのよ！", "vi": "Đi thu hồi những Koma nằm rải rác nào!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 229, "id": "JUS-7256f55c2ebd9bf71e9b", "ja": "ランキング戦で腕試しよ！", "vi": "Thử sức trong đấu xếp hạng đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 230, "id": "JUS-06ee3b12d75a88e43b97", "ja": "バトルやミッションをこなしたり", "vi": "Hoàn thành các Battle và Mission,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 231, "id": "JUS-be6e2ec9067d73dace7f", "ja": "トレーニングで修行するの！", "vi": "rồi luyện tập cho thật cứng tay!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 232, "id": "JUS-008bb68573c92dfa733b", "ja": "通信機能を使うならここよ", "vi": "Các tính năng kết nối ở đây nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 233, "id": "JUS-3465d27ea44ff889707b", "ja": "対戦やデータ交換ができるの", "vi": "Cậu có thể đấu và trao đổi dữ liệu."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 234, "id": "JUS-af41f492a0438e052a51", "ja": "ここでは知識が武器になるのよ！", "vi": "Ở đây, kiến thức chính là vũ khí!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 235, "id": "JUS-571994f95b337f23b8e7", "ja": "ここにはまだご縁がないようね", "vi": "Chỗ này cậu vẫn chưa có duyên rồi."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 236, "id": "JUS-151a107ad6a14b46f552", "ja": "Ｊパワーをコマに注入するの", "vi": "Nạp J-Power vào Koma nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 237, "id": "JUS-33da3a81cc8aeceff0f9", "ja": "新しいコマを手に入れてね！", "vi": "Rồi nhận thêm Koma mới nào!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 238, "id": "JUS-6eb46e81af2bd40c7d21", "ja": "集めたコマでデッキを作るところよ", "vi": "Đây là nơi ghép Deck bằng Koma đã gom."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 239, "id": "JUS-87377b5e60958ecebab5", "ja": "最強の組み合わせを探してね！", "vi": "Thử tìm bộ kết hợp mạnh nhất nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 240, "id": "JUS-76ae84e5e9167f86df7e", "ja": "コマや戦闘記録のデータが見られるわ", "vi": "Cậu có thể xem dữ liệu Koma và thành tích."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 241, "id": "JUS-3e398138229a848f9a9f", "ja": "ゲームのいろいろな設定をするところよ", "vi": "Đây là nơi chỉnh đủ loại thiết lập game."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 242, "id": "JUS-a21b43a9bcf82555586d", "ja": "ここはまだご縁がないようね", "vi": "Có vẻ chỗ này vẫn chưa dành cho cậu."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 243, "id": "JUS-5c7577b232e8c07f7974", "ja": "ＣＯＭの強さを設定してね", "vi": "Chỉnh độ mạnh của COM nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 244, "id": "JUS-bcc4f834f57b9988d73a", "ja": "ＣＯＭのマンガデッキを決めてね", "vi": "Chọn Manga Deck cho COM nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 245, "id": "JUS-8c0003b5e3643d8961eb", "ja": "どのチームで対戦するかを決めてね", "vi": "Quyết định các đội tham gia đấu nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 246, "id": "JUS-499eecb6edc26e131b4e", "ja": "調整できるわ", "vi": "Có thể tùy chỉnh đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 247, "id": "JUS-88593557026e78f18f0c", "ja": "インフォキャラを切り替えるわ…", "vi": "Đổi Info Character đây..."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 248, "id": "JUS-7db10ac51b35bd89104b", "ja": "って、待ちなさいよー！", "vi": "Khoan đã, đứng lại!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 249, "id": "JUS-aff8d396bb8cfbdb9ea9", "ja": "私の説明が信用できないって言うの！？", "vi": "Cậu không tin lời giải thích của tôi sao!?"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 250, "id": "JUS-d8a36f1ee26d838aeca1", "ja": "消去できるわ", "vi": "Có thể xóa dữ liệu."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 251, "id": "JUS-5130ff81f1d150599aee", "ja": "ゲームデータを全部消去するわ", "vi": "Xóa sạch dữ liệu game đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 252, "id": "JUS-8643f4328a65753c5c02", "ja": "慎重にえらびなさいよ！", "vi": "Chọn cẩn thận vào nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 253, "id": "JUS-0f7bb78b06842bd31166", "ja": "それなら私にまかせなさいよ！", "vi": "Thế thì cứ để tôi lo!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 254, "id": "JUS-1aea08d684ff58100049", "ja": "切り替えることができるわ", "vi": "Có thể chuyển đổi được đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 255, "id": "JUS-7788660a521928851741", "ja": "記録も残すことができるの", "vi": "Kỷ lục cũng sẽ được lưu lại."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 256, "id": "JUS-30669541774ac2185611", "ja": "好きなデッキで特訓できるわ", "vi": "Cậu có thể tập luyện với Deck mình thích."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 257, "id": "JUS-63b7af79973fc45e822c", "ja": "第<PERCENT_FULL>戦目よ！", "vi": "Trận thứ <PERCENT_FULL> đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 258, "id": "JUS-c8a3c18b6ccc35f0498e", "ja": "ランキング結果を集計中よ", "vi": "Đang tổng hợp kết quả xếp hạng."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 259, "id": "JUS-588ea93386a92a4784e7", "ja": "クイズが１０問出題されるわよ", "vi": "Sẽ có 10 câu quiz đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 260, "id": "JUS-3ddfce971352e71801ac", "ja": "クイズが３０問出題されるわよ", "vi": "Sẽ có 30 câu quiz đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 261, "id": "JUS-8be8984e2a71382003f9", "ja": "クイズが５０問出題されるわよ", "vi": "Sẽ có 50 câu quiz đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 262, "id": "JUS-b3464251ab85c125175e", "ja": "１０トライアル、開始よ！", "vi": "Bắt đầu 10 Trial nào!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 263, "id": "JUS-32b94203e23a326094e2", "ja": "３０トライアル、開始よ！", "vi": "Bắt đầu 30 Trial nào!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 264, "id": "JUS-0f40c50f9efa56d2685b", "ja": "５０トライアル、開始よ！", "vi": "Bắt đầu 50 Trial nào!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 265, "id": "JUS-356c95a6afa97ffe1685", "ja": "Ｊパワーを注入するコマを選びなさいよ", "vi": "Chọn Koma để nạp J-Power vào nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 266, "id": "JUS-84c8ab3678c40872344a", "ja": "対戦できるわ", "vi": "Có thể đấu với nhau."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 267, "id": "JUS-ef72fa9644374c02932d", "ja": "２０問のクイズを勝ち抜くのよ！", "vi": "Hãy vượt qua bài quiz 20 câu!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 268, "id": "JUS-a14177f972ec9b7111eb", "ja": "設定ができるわよ", "vi": "Có thể chỉnh các thiết lập."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 269, "id": "JUS-9eb98e0afd23c84400ca", "ja": "待ってね", "vi": "Chờ chút nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 270, "id": "JUS-1af54bc575fdaf7ec781", "ja": "始められるわよ", "vi": "Bắt đầu được rồi đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 271, "id": "JUS-5d707bf8d75d5a5143d9", "ja": "エントリーしたわよ", "vi": "Có thành viên đăng ký rồi."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 272, "id": "JUS-f8d6d4f76476046c6213", "ja": "受け付けが終了するまで待ってね", "vi": "Chờ đến khi đóng nhận đăng ký nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 273, "id": "JUS-dfc4695dbd030fda2d16", "ja": "対戦相手をさがしているわ", "vi": "Đang tìm đối thủ."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 274, "id": "JUS-823c2819e80fa50f5e54", "ja": "しれないわ", "vi": "Có thể là chưa có đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 275, "id": "JUS-674e34fbe9e491ed2700", "ja": "確認できるわ", "vi": "Có thể kiểm tra được."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 276, "id": "JUS-883440333a7fc767496c", "ja": "フレンドを登録してね", "vi": "Đăng ký Friend đi nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 277, "id": "JUS-0d8d2d3daecb42c3c27d", "ja": "決定でフレンドを削除できるわ", "vi": "Nhấn xác nhận để xóa Friend."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 278, "id": "JUS-1109424024dc14932c2f", "ja": "ＳＴＡＲＴボタンで対戦開始よ！", "vi": "Nhấn START để bắt đầu đấu!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 279, "id": "JUS-fcda35239ea91d426055", "ja": "Ｊクイズバトル、開始よ！", "vi": "J-Quiz Battle, bắt đầu nào!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 280, "id": "JUS-88ac0be9ce6dc04f86b8", "ja": "ジャンプギャラクシーを探検して", "vi": "Hãy khám phá Jump Galaxy"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 281, "id": "JUS-e16eb0499c90b7dfcae4", "ja": "コマを集めていってください", "vi": "và thu thập các Koma nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 282, "id": "JUS-27c6ed95d666f8a9f044", "ja": "ランキング戦に挑戦してください", "vi": "Cứ thử sức với đấu xếp hạng đi."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 283, "id": "JUS-8e3fda79276dacd92168", "ja": "実力をつけるのですよ", "vi": "Rèn luyện thực lực cho vững nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 284, "id": "JUS-64885b48f0174a26b3d5", "ja": "通信機能の使用はここです", "vi": "Chức năng kết nối nằm ở đây."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 285, "id": "JUS-497abf1624b6820f1fea", "ja": "ライバルとの通信対戦や", "vi": "Có thể đấu với đối thủ"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 286, "id": "JUS-d23c07d0a811f999ec64", "ja": "データ交換が可能ですよ", "vi": "và trao đổi dữ liệu đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 287, "id": "JUS-b86bbf584c0165716f52", "ja": "ジャンプクイズに挑むならここです", "vi": "Muốn thử Jump Quiz thì chọn đây."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 288, "id": "JUS-492408abcc9b4d1806e0", "ja": "これまでにつちかった知識を総動員して", "vi": "Hãy huy động mọi kiến thức đã tích lũy"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 289, "id": "JUS-e401971b8efcdf086d95", "ja": "戦ってください", "vi": "để chiến đấu nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 290, "id": "JUS-7a3ef251fcf4411e6482", "ja": "ここはまだ選べませんねえ", "vi": "Chỗ này vẫn chưa chọn được đâu."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 291, "id": "JUS-02b75cd0f41e693a314f", "ja": "Ｊパワーをコマに注入するところです", "vi": "Ở đây dùng để nạp J-Power vào Koma."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 292, "id": "JUS-103022ce75d7a8dcaa3c", "ja": "コマの封印を解くのですよ", "vi": "Hãy giải phong ấn Koma nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 293, "id": "JUS-46bfb2ad844d2c715b35", "ja": "集めたコマでデッキを組んでください", "vi": "Dùng Koma thu thập được để ghép Deck."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 294, "id": "JUS-9c9181391e096208a1b1", "ja": "勝負はデッキを組むところから", "vi": "Trận đấu thật ra đã bắt đầu"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 295, "id": "JUS-0ce23f696171b5b75e46", "ja": "始まっているのですよ", "vi": "ngay từ lúc ghép Deck rồi đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 296, "id": "JUS-318de480b79dc61ca2a3", "ja": "各種データはここで閲覧できます", "vi": "Có thể xem mọi loại dữ liệu ở đây."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 297, "id": "JUS-c0e178a042ee654b849b", "ja": "情報を得ることも勝利への近道ですよ", "vi": "Có thông tin tốt cũng dễ thắng hơn đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 298, "id": "JUS-c79bb76812021db3c1b7", "ja": "ほっほっ", "vi": "Hô hô!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 299, "id": "JUS-b12811b18ab035674e66", "ja": "ゲームの各種設定を変更できます", "vi": "Có thể thay đổi các thiết lập game."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 300, "id": "JUS-eda50555d65fc64065ef", "ja": "出現するかどうかを選んでください", "vi": "Chọn xem có cho xuất hiện không."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 301, "id": "JUS-f1f42f82e6f251bb9a34", "ja": "設定してください", "vi": "Hãy thiết lập nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 302, "id": "JUS-2eef1c6117d898f0258d", "ja": "ＣＯＭのレベルを設定してください", "vi": "Hãy đặt cấp độ COM."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 303, "id": "JUS-c9e5e1ff0b29f9d77b10", "ja": "どのチームで対戦するか決めてください", "vi": "Chọn các đội tham gia đấu nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 304, "id": "JUS-c67b570f1d18235dfe9d", "ja": "設定します", "vi": "Sẽ thiết lập."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 305, "id": "JUS-56f07dbb5592e262b1e7", "ja": "設定するところです", "vi": "Đây là nơi chỉnh thiết lập."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 306, "id": "JUS-035a07fa6a3c52f0aa49", "ja": "交替させるメニューです", "vi": "Đây là menu đổi người hướng dẫn."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 307, "id": "JUS-c46399bdb07d1bb9f691", "ja": "消去するところです", "vi": "Đây là nơi xóa dữ liệu."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 308, "id": "JUS-7cb4b50859e576b0cc27", "ja": "データの扱いは慎重にお願いしますよ", "vi": "Nhớ cẩn thận khi xử lý dữ liệu nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 309, "id": "JUS-7f8b5873869653a04f1a", "ja": "リカバリーはできませんよ？", "vi": "Không khôi phục lại được đâu đấy?"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 310, "id": "JUS-85cdd9e7f9c8b7f626ab", "ja": "ここはまだ選べませんねぇ", "vi": "Chỗ này vẫn chưa chọn được nhỉ."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 311, "id": "JUS-29ef56649c60f7bca7d7", "ja": "私でいいんですかねぇ", "vi": "Chọn tôi thật sao? Hô hô."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 312, "id": "JUS-0d013d9f74db2f6448d4", "ja": "毎回ランダムに選択されます", "vi": "Mỗi lần sẽ chọn ngẫu nhiên."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 313, "id": "JUS-6b01f6ac99a20df7a1d8", "ja": "挑戦できます", "vi": "Có thể thử sức đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 314, "id": "JUS-4d53a6143c83c13dae63", "ja": "記録を残すこともできますよ", "vi": "Kỷ lục cũng được lưu lại nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 315, "id": "JUS-91189690db377f379e91", "ja": "ＣＰＵとバトルすることができます", "vi": "Có thể đấu với CPU."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 316, "id": "JUS-1124a36f72b36daa5314", "ja": "好きなデッキで特訓ですよ、ほっほっ", "vi": "Cứ luyện với Deck mình thích, hô hô!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 317, "id": "JUS-3a57b69524b62054e4b0", "ja": "閲覧することができます", "vi": "Có thể xem dữ liệu ở đây."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 318, "id": "JUS-dd7501d26488ab857e40", "ja": "始めてください", "vi": "Bắt đầu đi nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 319, "id": "JUS-1c8f2212b7cd478db6bc", "ja": "ランキングを集計しています", "vi": "Đang tổng hợp bảng xếp hạng."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 320, "id": "JUS-098af50be6b35907b8ee", "ja": "しばらく待っていてください", "vi": "Xin chờ một lát."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 321, "id": "JUS-2735726045e489716188", "ja": "ランキング戦を続けてプレイできます", "vi": "Có thể tiếp tục đấu xếp hạng."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 322, "id": "JUS-dbc38e55c1d49082d88a", "ja": "ランキング戦を中断します", "vi": "Tạm dừng đấu xếp hạng."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 323, "id": "JUS-810255a08ae9826d4c2e", "ja": "バトルを続けてプレイできます", "vi": "Có thể tiếp tục Battle."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 324, "id": "JUS-822a79ad2b383f9b7fa8", "ja": "ミッションを続けてプレイできます", "vi": "Có thể tiếp tục Mission."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 325, "id": "JUS-ba943f568bf493709bdd", "ja": "クイズが全部で１０問出題されます", "vi": "Tổng cộng có 10 câu quiz."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 326, "id": "JUS-c9837e05c0343937cf5b", "ja": "クイズが全部で３０問出題されます", "vi": "Tổng cộng có 30 câu quiz."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 327, "id": "JUS-1cc1d7549ff2f6aa4aac", "ja": "クイズが全部で５０問出題されます", "vi": "Tổng cộng có 50 câu quiz."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 328, "id": "JUS-33cc23f75b043a7b074e", "ja": "１０トライアルです", "vi": "Đây là 10 Trial."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 329, "id": "JUS-f32e4ef28a5864fcd9cc", "ja": "３０トライアルです", "vi": "Đây là 30 Trial."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 330, "id": "JUS-dd5fccca15e37a1217b0", "ja": "５０トライアルです", "vi": "Đây là 50 Trial."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 331, "id": "JUS-89bf6a45f80f9971e349", "ja": "ワイヤレス通信でライバルと対戦です", "vi": "Đấu với đối thủ qua kết nối không dây."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 332, "id": "JUS-8e002b99a5ef5677792f", "ja": "データの交換もできるのです", "vi": "Cũng trao đổi dữ liệu được đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 333, "id": "JUS-d1061d3fecbac71e3be4", "ja": "Ｗｉ－Ｆｉ通信でライバルと対戦です", "vi": "Đấu với đối thủ qua Wi-Fi."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 334, "id": "JUS-4e0a65a57bf2284781fa", "ja": "フレンドの管理もできるのです", "vi": "Cũng quản lý Friend được đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 335, "id": "JUS-9444f9b4a3bc81dba8d8", "ja": "呼び出すことができるのです", "vi": "Có thể gọi dữ liệu lên."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 336, "id": "JUS-eb7461888ac455075cc1", "ja": "最大４人と対戦できます", "vi": "Có thể đấu tối đa bốn người."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 337, "id": "JUS-6b47bf7f6d007f9cdea1", "ja": "２０問のクイズを勝ち抜くのです", "vi": "Hãy vượt qua 20 câu quiz."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 338, "id": "JUS-e9168f4673a9545dc9ce", "ja": "対戦はここからですよ", "vi": "Bắt đầu đấu từ đây nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 339, "id": "JUS-faec9155ae88cc89930d", "ja": "設定ができるのです", "vi": "Có thể chỉnh thiết lập."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 340, "id": "JUS-d316060f60f92808c622", "ja": "自分がリーダーになるか選んでください", "vi": "Chọn xem có tự làm Leader không nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 341, "id": "JUS-157ce32f082d1c80cbb5", "ja": "待ってあげてください", "vi": "Hãy chờ mọi người."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 342, "id": "JUS-5e9bc04d67d6741b70ac", "ja": "メンバーがエントリーしたようですね", "vi": "Có vẻ đã có thành viên đăng ký."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 343, "id": "JUS-ba599985b039b56a1245", "ja": "受け付けが締め切られますよ", "vi": "Sẽ đóng nhận đăng ký đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 344, "id": "JUS-eaedf8c7ac7fef4a60e4", "ja": "始まります", "vi": "Bắt đầu nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 345, "id": "JUS-530721f378b4b09d0cfd", "ja": "エントリーしましたよ", "vi": "Đã đăng ký rồi nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 346, "id": "JUS-7ecda5860a44819a7cff", "ja": "待っていてください", "vi": "Xin chờ một lát."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 347, "id": "JUS-dd84af255fdc79cc7918", "ja": "国内の誰かと対戦できます", "vi": "Có thể đấu với người chơi trong nước."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 348, "id": "JUS-39198cc1dc788978076e", "ja": "対戦相手がみつかりました", "vi": "Đã tìm được đối thủ."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 349, "id": "JUS-4827907e4842cded1b39", "ja": "しれないとのことです", "vi": "Có thể là chưa tìm thấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 350, "id": "JUS-bd71c102d3a8f655d715", "ja": "自分のフレンドコードを確認できます", "vi": "Có thể xem Friend Code của mình."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 351, "id": "JUS-42cab9d235842074e02f", "ja": "フレンドの情報を確認してください", "vi": "Hãy kiểm tra thông tin Friend nhé."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 352, "id": "JUS-734900be22a650e8d41a", "ja": "下画面でルールを確認してください", "vi": "Hãy xem luật ở màn hình dưới."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 353, "id": "JUS-df978b16075c964d5dea", "ja": "ＳＴＡＲＴボタンで対戦開始です", "vi": "Nhấn START để bắt đầu đấu."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 354, "id": "JUS-8138c02a4963a941b128", "ja": "コマを探し出して集めてね！", "vi": "Tìm và thu thập các Koma nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 355, "id": "JUS-c0f3724f1bc0123e8be3", "ja": "ランキング戦に挑戦だよ！", "vi": "Thử sức với đấu xếp hạng nào!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 356, "id": "JUS-bfaf295084c5495e997b", "ja": "キミは宇宙一になれるかな？", "vi": "Cậu có thành số một vũ trụ được không?"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 357, "id": "JUS-4d6e152bf3cf6188478f", "ja": "通信で対戦やデータ交換ができるよ！", "vi": "Dùng kết nối để đấu và trao đổi dữ liệu!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 358, "id": "JUS-8cc6a41d26053ce20543", "ja": "ライバルと戦って腕をみがこう！", "vi": "Rèn kỹ năng bằng cách đấu với đối thủ!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 359, "id": "JUS-6826e82a2e825bf3c97e", "ja": "ジャンプをどれだけ読んでるかが", "vi": "Bài kiểm tra xem cậu đọc Jump"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 360, "id": "JUS-546af0d802b024a7c25b", "ja": "試されるんだ！", "vi": "nhiều đến mức nào đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 361, "id": "JUS-e1108d2bc6918c55c958", "ja": "コマにＪパワーを注入してね！", "vi": "Nạp J-Power vào Koma nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 362, "id": "JUS-2b5d4004fc7d5018c3f0", "ja": "封印が解けて使えるようになるよ！", "vi": "Giải phong ấn là dùng được ngay!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 363, "id": "JUS-954d27bb85687248eb84", "ja": "集めたコマでデッキを組むとこだよ！", "vi": "Đây là nơi ghép Deck từ Koma đã có!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 364, "id": "JUS-a63319d2a1d1f5b2be20", "ja": "よく考えて勝てるデッキを組んでね！", "vi": "Suy nghĩ kỹ để ghép Deck chiến thắng nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 365, "id": "JUS-f4a40dc02268ed9cbefe", "ja": "いろんなデータが詰まっているよ！", "vi": "Ở đây có đủ thứ dữ liệu!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 366, "id": "JUS-f8c8ca0de3f13f671c41", "ja": "コマの詳しいデータや、これまでの", "vi": "Cậu có thể xem chi tiết Koma"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 367, "id": "JUS-6511e736ccabdcb455cd", "ja": "戦いのデータが見られるんだ", "vi": "và lịch sử các trận đấu."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 368, "id": "JUS-24be10e1dbc17c491438", "ja": "ゲームのいろんな設定ができるよ！", "vi": "Có thể chỉnh đủ loại thiết lập game!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 369, "id": "JUS-e5d35a3e9643933727da", "ja": "勝ち負けが決まるルールだよ", "vi": "Đây là luật phân định thắng thua."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 370, "id": "JUS-bfdd13176a4e2ca19f70", "ja": "全部のバトルキャラをＫＯしたら", "vi": "KO toàn bộ Battle Character đối thủ"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 371, "id": "JUS-743520b734d5396330aa", "ja": "勝ちになるルールだよ", "vi": "là thắng trận đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 372, "id": "JUS-66e8ac73b050d293b88a", "ja": "選んでね！", "vi": "Chọn đi nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 373, "id": "JUS-b2db9f5e826fab14a58b", "ja": "ＯＮにするかＯＦＦにするか選んでね！", "vi": "Chọn ON hoặc OFF nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 374, "id": "JUS-e27b0cec3ccb0d804855", "ja": "ＯＦＦにするか選んでね！", "vi": "Chọn xem có để OFF không nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 375, "id": "JUS-ed6acabd576917e5ea68", "ja": "設定できるよ！", "vi": "Cậu có thể thiết lập ở đây!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 376, "id": "JUS-c2efc8bf5ab3c4393bc3", "ja": "ＣＯＭの強さを決めてね！", "vi": "Chọn độ mạnh của COM nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 377, "id": "JUS-9c6c64f08de32d376783", "ja": "ＣＯＭのマンガデッキを決めてね！", "vi": "Chọn Manga Deck cho COM nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 378, "id": "JUS-8c6f4160d4fb0a4e7ee6", "ja": "どのチームで対戦するか決めてね！", "vi": "Chọn các đội tham gia đấu nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 379, "id": "JUS-e861ba518a893e58bd3d", "ja": "ここで設定するんだ", "vi": "Thiết lập tại đây."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 380, "id": "JUS-c03525fdb12f9df68524", "ja": "説明係を交替させることができるよ", "vi": "Có thể đổi người hướng dẫn đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 381, "id": "JUS-8df8c0ea597554735b4c", "ja": "消去することができるよ", "vi": "Có thể xóa dữ liệu đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 382, "id": "JUS-dc40453c22646e637922", "ja": "消去するよ！", "vi": "Sẽ xóa nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 383, "id": "JUS-5db26d24ca8457af06be", "ja": "ハイスコアデータを消去するよ！", "vi": "Xóa dữ liệu điểm cao nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 384, "id": "JUS-e7484b73f37ac4b56b7a", "ja": "ゲームデータを完全消去するよ！", "vi": "Xóa sạch dữ liệu game nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 385, "id": "JUS-8f9c07523c26fe05ccf4", "ja": "本当にいいのか、確かめてから", "vi": "Nhớ chắc chắn đã nhé,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 386, "id": "JUS-1d4a42f0a59ab88ed6a1", "ja": "実行してよ！", "vi": "rồi hẵng thực hiện!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 387, "id": "JUS-de9dfeb562e0181b3927", "ja": "データの消去をするのやめる？", "vi": "Không xóa dữ liệu nữa à?"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 388, "id": "JUS-e84aed6573671098aac9", "ja": "ぼ、ぼくが説明係！？", "vi": "M-mình làm người hướng dẫn á!?"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 389, "id": "JUS-59ca4585c049554f4917", "ja": "ちゃんとできるかなぁ…", "vi": "Liệu mình có làm được không nhỉ..."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 390, "id": "JUS-53810ed6619ceede24ab", "ja": "説明係が毎回ランダムに", "vi": "Info Character sẽ được chọn"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 391, "id": "JUS-7f11a75c65827458bcdf", "ja": "切り替わるんだよ", "vi": "ngẫu nhiên mỗi lần đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 392, "id": "JUS-a5573207bca44af0a2cd", "ja": "ランキング１位をめざしてね！", "vi": "Cố giành hạng nhất nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 393, "id": "JUS-ee5f80ac1a922b4f3390", "ja": "記録もちゃんと残せるんだ", "vi": "Thành tích cũng được lưu lại."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 394, "id": "JUS-c3baef21080c7a8aaa06", "ja": "好きなデッキで特訓してね！", "vi": "Hãy tập với Deck cậu thích nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 395, "id": "JUS-59314c75e3f05660a1fb", "ja": "各ランキングの現在の順位とか", "vi": "Cậu có thể xem thứ hạng hiện tại"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 396, "id": "JUS-bdf0a45e386a95b7bc40", "ja": "見られるんだ", "vi": "của từng bảng xếp hạng."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 397, "id": "JUS-f0513c0ab42c86ff63a7", "ja": "第<PERCENT_FULL>戦だよ！", "vi": "Đây là trận thứ <PERCENT_FULL>!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 398, "id": "JUS-6a93712b5160c446e7e5", "ja": "ランキング戦を続けて遊べるよ", "vi": "Có thể tiếp tục đấu xếp hạng."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 399, "id": "JUS-131c8a0aae611b5bad1b", "ja": "バトルを続けて遊べるよ", "vi": "Có thể tiếp tục Battle."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 400, "id": "JUS-302be43dbc6197e90588", "ja": "ミッションを続けて遊べるよ", "vi": "Có thể tiếp tục Mission."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 401, "id": "JUS-277ea44f429d6bc13eb0", "ja": "１０問のクイズに挑戦だよ！", "vi": "Thử trả lời 10 câu quiz nào!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 402, "id": "JUS-2697897e20aaddda6590", "ja": "３０問のクイズに挑戦だよ！", "vi": "Thử trả lời 30 câu quiz nào!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 403, "id": "JUS-133b631f8ea9418350c7", "ja": "５０問のクイズに挑戦だよ！", "vi": "Thử trả lời 50 câu quiz nào!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 404, "id": "JUS-e9ed0cebc42573a3484c", "ja": "データの交換もできるんだよ", "vi": "Còn trao đổi dữ liệu được đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 405, "id": "JUS-0abe6d94ff8a0c4f9adf", "ja": "フレンドの管理もできるんだよ", "vi": "Cũng quản lý Friend được đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 406, "id": "JUS-b8e9c72073fe2a2e069f", "ja": "データの交換ができるんだよ", "vi": "Có thể trao đổi dữ liệu đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 407, "id": "JUS-28585145264cef0d41fc", "ja": "最大４人と対戦できるんだよ", "vi": "Đấu được tối đa bốn người nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 408, "id": "JUS-167f749cdbd497826660", "ja": "自分がリーダーになるか選んでね！", "vi": "Chọn xem có tự làm Leader không nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 409, "id": "JUS-eeff23140412921ae8c5", "ja": "メンバーがエントリーしたみたいだね", "vi": "Có vẻ đã có thành viên đăng ký."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 410, "id": "JUS-beb7bec2836dab1b88c9", "ja": "受け付けを締め切るよ！", "vi": "Sẽ đóng nhận đăng ký đấy!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 411, "id": "JUS-f6feea5178909da0deb8", "ja": "始まるよ！", "vi": "Bắt đầu rồi nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 412, "id": "JUS-11fb81458aa26ac90929", "ja": "送信中なんだ", "vi": "Đang gửi dữ liệu."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 413, "id": "JUS-8ec6f88ec6ac77d4b0b0", "ja": "対戦相手をさがしているんだ", "vi": "Đang tìm đối thủ đấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 414, "id": "JUS-51c1d865e3f8d4b89ef2", "ja": "できるよ！", "vi": "Có thể làm được nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 415, "id": "JUS-f8eb5a80ff7bd06256a9", "ja": "自分のフレンドコードを確認できるよ！", "vi": "Cậu có thể xem Friend Code của mình!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 416, "id": "JUS-84580476fa43d99c89dd", "ja": "確認してね！", "vi": "Nhớ kiểm tra nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 417, "id": "JUS-6658bbe77c725bf77eed", "ja": "フレンドの情報を確認してね！", "vi": "Xem thông tin Friend nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 418, "id": "JUS-abfde4e2c206983e5331", "ja": "決定でフレンドを削除できるよ！", "vi": "Nhấn xác nhận để xóa Friend nhé!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 419, "id": "JUS-9c913034189a671edd54", "ja": "下画面でルールを確認してね！", "vi": "Kiểm tra luật ở màn hình dưới!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 420, "id": "JUS-e5af0648454f4a79e471", "ja": "ＳＴＡＲＴボタンで対戦開始だよ！", "vi": "Nhấn START để bắt đầu đấu!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 421, "id": "JUS-9580479da8f858f54744", "ja": "対戦開始までちょっと待っててね！", "vi": "Chờ chút nữa là đấu rồi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 422, "id": "JUS-35e250a87445b8460e6e", "ja": "ジャンプギャラクシーに秘められた", "vi": "Hãy tìm những Koma bị phong ấn"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 423, "id": "JUS-49bfb76189070d9601c5", "ja": "封印されしコマを集めるのです", "vi": "ẩn trong Jump Galaxy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 424, "id": "JUS-d60cea08399ad508a24a", "ja": "さあ、行きなさい！", "vi": "Nào, lên đường đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 425, "id": "JUS-a40f51cd77ed9debdcd7", "ja": "ランキング戦などに挑戦なさい", "vi": "Hãy thử sức với đấu xếp hạng."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 426, "id": "JUS-150c0f10c8a5ef584364", "ja": "宇宙一のデッキマスターに必要な事は", "vi": "Muốn trở thành Deck Master số một vũ trụ,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 427, "id": "JUS-5c7dd1f4a84aa145cb25", "ja": "自己の小宇宙を燃焼させることです！", "vi": "ngươi phải bùng cháy Cosmo của mình!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 428, "id": "JUS-ef42482569a96501a6d3", "ja": "通信機能をお使いなさい", "vi": "Hãy sử dụng chức năng kết nối."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 429, "id": "JUS-6a8525d335799a130fb8", "ja": "対戦やデータ交換ができるのです", "vi": "Có thể đấu và trao đổi dữ liệu."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 430, "id": "JUS-f8904a0edc01690961d7", "ja": "ジャンプクイズへの挑戦はここです", "vi": "Muốn thử Jump Quiz thì vào đây."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 431, "id": "JUS-6d37a387f276a852360b", "ja": "小宇宙を燃焼させ、その知識を", "vi": "Hãy đốt cháy Cosmo và vận dụng"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 432, "id": "JUS-8133439ffdb6b48a6976", "ja": "活かすのです！", "vi": "kiến thức của ngươi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 433, "id": "JUS-fa6c48bb4fc4dd6605de", "ja": "この先へはまだ進めないのです", "vi": "Ngươi vẫn chưa thể đi tiếp."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 434, "id": "JUS-4fc574f9cb5471ecc97a", "ja": "Ｊパワーをコマに注入するのです", "vi": "Hãy nạp J-Power vào Koma."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 435, "id": "JUS-7a5e56b9c27f98f13016", "ja": "コマの封印が解け使用できるように", "vi": "Phong ấn của Koma sẽ được giải,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 436, "id": "JUS-5ad1e39ac4c4d203c0e8", "ja": "なるでしょう", "vi": "rồi ngươi sẽ dùng được nó."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 437, "id": "JUS-4014b7842a609f0cf9cc", "ja": "オリジナルデッキを作るのです", "vi": "Hãy tự tạo Deck của mình."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 438, "id": "JUS-d2c07266d61c3eb49406", "ja": "手に入れたコマを最大限に", "vi": "Phải tận dụng tối đa"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 439, "id": "JUS-49282ae63ec033b68230", "ja": "有効活用しなさい！", "vi": "những Koma đã thu thập!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 440, "id": "JUS-e19c596308550aed582a", "ja": "さまざまなデータが揃っています", "vi": "Ở đây có đủ loại dữ liệu."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 441, "id": "JUS-6db2a46f40299b614b4c", "ja": "コマの情報や戦闘の記録は", "vi": "Thông tin Koma và thành tích chiến đấu"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 442, "id": "JUS-f7ae5de3ee19399bd745", "ja": "ここで見ることができるのです", "vi": "đều có thể xem tại đây."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 443, "id": "JUS-d5b1483ecd5523c0907a", "ja": "ゲームのさまざまな設定ができるのです", "vi": "Có thể thay đổi mọi thiết lập game."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 444, "id": "JUS-79e805f3efb5876fa9b1", "ja": "制限時間内にＫＯしたポイントで戦う", "vi": "Thi đấu tính điểm KO trong thời hạn."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 445, "id": "JUS-437f3c788082d9e948f4", "ja": "３つの中から選ぶのです", "vi": "Hãy chọn một trong ba mức."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 446, "id": "JUS-8b8b8ef4d557986e5946", "ja": "出現するかどうか選ぶのです", "vi": "Chọn xem có cho xuất hiện không."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 447, "id": "JUS-a0c878f531ca2e2a286e", "ja": "設定するのです", "vi": "Hãy thiết lập."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 448, "id": "JUS-1edfd4d394334315cb9b", "ja": "ＣＯＭの強さを決めるのです", "vi": "Hãy chọn độ mạnh của COM."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 449, "id": "JUS-a2138982585aa90a170f", "ja": "ＣＯＭのマンガデッキを決めるのです", "vi": "Hãy chọn Manga Deck cho COM."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 450, "id": "JUS-b88ddbf6aef1b887552f", "ja": "どのチームで対戦するのかを", "vi": "Hãy quyết định những đội"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 451, "id": "JUS-737bb8a5b2c5dfa1de50", "ja": "決めるのです", "vi": "sẽ tham gia đối đầu."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 452, "id": "JUS-ff71c7cb837d8851fcc5", "ja": "ここで設定するのです", "vi": "Thiết lập tại đây."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 453, "id": "JUS-fe2fc5dc5ef48cd71dee", "ja": "あなたを導くインフォキャラを", "vi": "Có thể đổi Info Character"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 454, "id": "JUS-bb18e894c1d3cf8a2a45", "ja": "変更することができるのです", "vi": "đang dẫn dắt ngươi."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 455, "id": "JUS-91a70aaea70c138f13b8", "ja": "ゲーム内のさまざまな記録を", "vi": "Các thành tích trong game"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 456, "id": "JUS-002f577d5ed0a4685c3c", "ja": "Ｊアリーナのランキングデータが", "vi": "Dữ liệu xếp hạng J-Arena sẽ"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 457, "id": "JUS-dcdc75916a80aba80131", "ja": "消滅します", "vi": "bị xóa sạch."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 458, "id": "JUS-dadb66d1f6835239b6ed", "ja": "ハイスコアデータが消滅します", "vi": "Dữ liệu điểm cao sẽ bị xóa."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 459, "id": "JUS-a65b65efe7c9a4855162", "ja": "トレーニングデータが", "vi": "Dữ liệu Training sẽ"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 460, "id": "JUS-58dfd6289a55948afe4f", "ja": "Ｊクイズのハイスコアデータが", "vi": "Dữ liệu điểm cao J-Quiz sẽ"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 461, "id": "JUS-aca65aefdd34ea174865", "ja": "ゲームのデータが完全に消滅します", "vi": "Toàn bộ dữ liệu game sẽ bị xóa."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 462, "id": "JUS-dc820d10faf2981b77b1", "ja": "わたくしといえど修復はできないので", "vi": "Ngay cả ta cũng chẳng thể khôi phục,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 463, "id": "JUS-109723249be8728bbd7b", "ja": "慎重に実行しなさい！", "vi": "nên hãy cân nhắc thật kỹ!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 464, "id": "JUS-38874f1f78c41e070f39", "ja": "データの消滅するのをやめるのですね？", "vi": "Ngươi quyết định không xóa nữa sao?"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 465, "id": "JUS-3a82de256ef07a336fb3", "ja": "わたくしが導いてさしあげましょう！", "vi": "Để ta dẫn đường cho ngươi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 466, "id": "JUS-57fe80ccf13ee3e3b914", "ja": "あなたを導くインフォキャラが", "vi": "Info Character dẫn dắt ngươi"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 467, "id": "JUS-8e387dae546c1d477f9e", "ja": "毎回ランダムに選択されるのです", "vi": "sẽ được chọn ngẫu nhiên mỗi lần."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 468, "id": "JUS-1081c85feaf61df03b85", "ja": "ライバルたちと戦いながら", "vi": "Hãy chiến đấu với các đối thủ"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 469, "id": "JUS-876a97f82a9b084c70bd", "ja": "ランキング１位を目指すのです", "vi": "và nhắm tới ngôi đầu xếp hạng."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 470, "id": "JUS-c501dcbc75117783adfe", "ja": "挑戦して、記録更新を目指すのです", "vi": "Thử sức và phá kỷ lục đi."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 471, "id": "JUS-9d1c40fd7e38dd36732e", "ja": "好きなデッキで特訓するのです", "vi": "Hãy tập luyện với Deck ngươi thích."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 472, "id": "JUS-1601662e59019db81a56", "ja": "しばらく待つのです", "vi": "Hãy chờ một lát."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 473, "id": "JUS-7f67b498701ac56b4bc1", "ja": "ランキング戦を続けることができます", "vi": "Có thể tiếp tục đấu xếp hạng."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 474, "id": "JUS-5fbb24dec9e9ef74c432", "ja": "バトルを続けることができます", "vi": "Có thể tiếp tục Battle."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 475, "id": "JUS-a813c6e17be1cba8e204", "ja": "ミッションを続けることができます", "vi": "Có thể tiếp tục Mission."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 476, "id": "JUS-f1cb627dc76096035707", "ja": "１０問のクイズに挑戦するのです", "vi": "Hãy thử bài quiz 10 câu."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 477, "id": "JUS-f15b93655f172cb31e44", "ja": "３０問のクイズに挑戦するのです", "vi": "Hãy thử bài quiz 30 câu."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 478, "id": "JUS-1b6066540339f201ec4e", "ja": "５０問のクイズに挑戦するのです", "vi": "Hãy thử bài quiz 50 câu."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 479, "id": "JUS-7bc6b679a56dea4bbbe1", "ja": "さあ行きなさい！", "vi": "Nào, lên đường đi!"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 480, "id": "JUS-04da34adca358bb1491f", "ja": "Ｊパワーを注入するコマを選ぶのです", "vi": "Chọn Koma để nạp J-Power vào."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 481, "id": "JUS-7ab9b573b4491925e92f", "ja": "パスワードが入力できるのです", "vi": "Có thể nhập password."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 482, "id": "JUS-5e67b943d41e20b13ccc", "ja": "ライバルデータを呼び出せますよ", "vi": "Có thể gọi dữ liệu đối thủ lên."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 483, "id": "JUS-6d34f5ee536978097be8", "ja": "データの交換ができるのです", "vi": "Có thể trao đổi dữ liệu."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 484, "id": "JUS-0ebddf9cb89c2791cd45", "ja": "最大４人と対戦できるのです", "vi": "Có thể đấu tối đa bốn người."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 485, "id": "JUS-bd9991642c281d3e178e", "ja": "２０問のクイズを勝ち抜きなさい", "vi": "Hãy vượt qua bài quiz 20 câu."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 486, "id": "JUS-f13b05f8f85e99499bea", "ja": "対戦はここからなのです", "vi": "Bắt đầu đấu từ đây."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 487, "id": "JUS-dff543bda36274269834", "ja": "フレンド登録ができるのです", "vi": "Có thể đăng ký Friend."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 488, "id": "JUS-539baf016476334975e9", "ja": "自分がリーダーになるか選ぶのです", "vi": "Chọn xem ngươi có tự làm Leader không."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 489, "id": "JUS-adbe72931b3817856ad4", "ja": "待つのです", "vi": "Hãy chờ."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 490, "id": "JUS-62af413da972298917f3", "ja": "受け付けが締め切られます", "vi": "Sẽ đóng nhận đăng ký."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 491, "id": "JUS-7dbc563640f6b7dba831", "ja": "始めるのです", "vi": "Bắt đầu đi."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 492, "id": "JUS-cc050672f280cc9da4b7", "ja": "受け付けが終わるまで待つのです", "vi": "Hãy chờ đến khi đóng nhận đăng ký."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 493, "id": "JUS-9b1a3f4acc26b9432d63", "ja": "ダウンロードプレイのデータ送信が", "vi": "Đang gửi dữ liệu Download Play,"}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 494, "id": "JUS-fb0a4e92297db6df4b3c", "ja": "終わるまで待つのです", "vi": "hãy chờ cho đến khi xong."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 495, "id": "JUS-ba397f8af210610378bf", "ja": "対戦相手がみつかるまで待つのです", "vi": "Hãy chờ tìm được đối thủ."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 496, "id": "JUS-d7c7fe2110ea22b7ff2a", "ja": "対戦相手がみつかったようです", "vi": "Hình như đã tìm được đối thủ."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 497, "id": "JUS-3648103240ffa30593e0", "ja": "しれないということです", "vi": "Nghe nói có thể chưa tìm thấy."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 498, "id": "JUS-b9e8a602a1febc7245ef", "ja": "確認することができます", "vi": "Có thể kiểm tra."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 499, "id": "JUS-a0d8e3cb76a5ac9ff469", "ja": "フレンド登録なさい", "vi": "Hãy đăng ký Friend."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 500, "id": "JUS-84bc506164a89748f942", "ja": "確認なさい", "vi": "Hãy kiểm tra."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 501, "id": "JUS-276bae897f60a13ecc8b", "ja": "フレンドの情報を確認なさい", "vi": "Hãy xem thông tin Friend."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 502, "id": "JUS-a85500bf832985995bd8", "ja": "決定でフレンドを削除できます", "vi": "Nhấn xác nhận để xóa Friend."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 503, "id": "JUS-18fd5637fabeeb66a89b", "ja": "下画面でルールを確認なさい", "vi": "Hãy xem luật ở màn hình dưới."}
+{"file": "02-thoai-tro-giup-003.jsonl", "row_index": 504, "id": "JUS-cbe20a7d9c25c761803f", "ja": "Ｊクイズバトルです", "vi": "Đây là J-Quiz Battle."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 0, "id": "JUS-5a20b0ea3358b2f890c1", "ja": "首領パッチが大回転し竜巻を発生させる！", "vi": "Don Patch quay tít, tạo ra lốc xoáy!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 1, "id": "JUS-519b071c8aa8334eb7ca", "ja": "飲み込まれた相手は上空に舞い上がる！", "vi": "Kẻ bị cuốn sẽ bay vút lên trời!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 2, "id": "JUS-1596d5632856eb4cc993", "ja": "ベストパートナーよ！！！", "vi": "Đúng là bộ đôi ăn ý nhất!!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 3, "id": "JUS-621780bd98c453e4c37c", "ja": "テメー！！オレの出番取るつもりだな", "vi": "Mày định cướp đất diễn của tao đấy à!?"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 4, "id": "JUS-9129fc3edb564d901dee", "ja": "コラ！！<IDEOSP>ぶっ殺す！！", "vi": "Này!!<IDEOSP>Tao xử mày đấy!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 5, "id": "JUS-d574813dabc2beabf736", "ja": "主人公気取り？", "vi": "Định làm nhân vật chính chắc?"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 6, "id": "JUS-495a982099d0f5f4d8ea", "ja": "真説ボーボボ", "vi": "Shinsetsu Bobobo"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 7, "id": "JUS-2c365e4c6717e1bc3914", "ja": "真説ボボパッチ斬り", "vi": "Shinsetsu Bobopatchi Slash"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 8, "id": "JUS-a3717851fc3b79790766", "ja": "覇轜袈光臨", "vi": "Hajike Kourin"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 9, "id": "JUS-cad509d25444ad697fcd", "ja": "しんせつぼぼぱっちぎり", "vi": "Shinsetsu Bobopatchi Slash"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 10, "id": "JUS-beaec9b1ba126c4853c9", "ja": "はじけこうりん", "vi": "Hajike Kourin"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 11, "id": "JUS-fc588143209ff4d2688a", "ja": "真説ボボパッチに生誕！ダッシュして", "vi": "Biến thành Shinsetsu Bobopatchi! Lao tới"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 12, "id": "JUS-99b663fa6776e433c9c4", "ja": "真説ボボパッチソードで連続斬り。", "vi": "chém liên hoàn bằng Bobopatchi Sword."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 13, "id": "JUS-f1c087b582286a2c0d5e", "ja": "魚雷ガールと融合した“魚雷ガ－ボ”に", "vi": "Hợp thể với Torpedo Girl thành Torpedo Garbo,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 14, "id": "JUS-2f6decb16d8618420d0a", "ja": "変身。飛びながら周囲に地雷をばら撒く！", "vi": "bay lên rồi rải mìn khắp xung quanh!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 15, "id": "JUS-472f01a2d583eead97d0", "ja": "アナタはもっと強くなれるギョラ", "vi": "Cậu còn có thể mạnh hơn nữa, gyora!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 16, "id": "JUS-93a53e15748a6c9f5207", "ja": "やっとこの力を活かせる友ができた", "vi": "Cuối cùng ta cũng có bạn để dùng sức mạnh."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 17, "id": "JUS-af6b4795dfa1b4813222", "ja": "怒んパッチ", "vi": "Angry Don Patch"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 18, "id": "JUS-ff8969967a337ce48e3b", "ja": "おやびんラッシュ！！！！", "vi": "Oyabin Rush"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 19, "id": "JUS-32f4ff81ffc98fe4c317", "ja": "タケノコソード", "vi": "Takenoko Sword"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 20, "id": "JUS-49034c8662838291b3fd", "ja": "おやびんらっしゅ", "vi": "Oyabin Rush"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 21, "id": "JUS-bb26953f072d4efc1916", "ja": "たけのこそーど", "vi": "Takenoko Sword"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 22, "id": "JUS-8e7cc374564a698d5606", "ja": "怒りの翼を生やして怒涛のラッシュ攻撃！", "vi": "Mọc đôi cánh cuồng nộ, tung loạt đòn dồn dập!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 23, "id": "JUS-f47cbaed2a9928050c26", "ja": "タケノコソードで構え、真上に突撃！", "vi": "Vung Takenoko Sword, lao thẳng lên cao!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 24, "id": "JUS-e558a46a446be72c978b", "ja": "究極のハジケ技！", "vi": "Tuyệt kỹ Hajike tối thượng!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 25, "id": "JUS-8947b0158957024b2d5f", "ja": "よし！おやびんに「怒りの翼」が生えた", "vi": "Được! Đại ca mọc Wings of Fury rồi!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 26, "id": "JUS-df05ab268feda27c52f1", "ja": "おやびん<IDEOSP>最高ーヾ", "vi": "Đại ca<IDEOSP>đỉnh quáaaa!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 27, "id": "JUS-1d3d223eff01c9c44a55", "ja": "超サイヤ人のバーゲン…", "vi": "Super Saiyan giờ như hàng đại hạ giá..."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 28, "id": "JUS-c002075346bd5593caad", "ja": "ん？", "vi": "Hử?"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 29, "id": "JUS-b83d4c4a52dea13038f5", "ja": "両津勘吉", "vi": "Kankichi Ryotsu"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 30, "id": "JUS-02bd5d6dfd8bbf5538e4", "ja": "愛車「千鳥」", "vi": "Beloved Bike: Chidori"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 31, "id": "JUS-938576c77742a808d7a8", "ja": "大食いチャンピオン", "vi": "Eating Champion"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 32, "id": "JUS-3fec5c073bbcff0245a5", "ja": "あいしゃ<IDEOSP>ちどり", "vi": "Beloved Bike:<IDEOSP>Chidori"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 33, "id": "JUS-30f4188c289d720c7f54", "ja": "おおぐいちゃんぴおん", "vi": "Eating Champion"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 34, "id": "JUS-87d958bf9652ad8d8333", "ja": "葛飾戦車隊", "vi": "Katsushika Tank Squad"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 35, "id": "JUS-a8b34c235413d8e6dc46", "ja": "ブチ切れ両さん", "vi": "Furious Ryotsu"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 36, "id": "JUS-1ce8d086fe72cbf3e9cc", "ja": "かつしかせんしゃたい", "vi": "Katsushika Tank Squad"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 37, "id": "JUS-ffe5afc1eb917270b799", "ja": "ぶちきれりょうさん", "vi": "Furious Ryotsu"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 38, "id": "JUS-f2fa978f60e552f41561", "ja": "緊急出動！葛飾戦車隊", "vi": "Katsushika Tank Squad: Emergency Dispatch"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 39, "id": "JUS-6000fee82146c5d3ad15", "ja": "きんきゅうしゅつどう<IDEOSP>かつしかせんしゃたい", "vi": "Katsushika Tank Squad:<IDEOSP>Emergency Dispatch"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 40, "id": "JUS-2449a2d091c998d9a222", "ja": "喧嘩神輿", "vi": "Fighting Mikoshi"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 41, "id": "JUS-8517775520eab77fe8e0", "ja": "轟け！男太鼓", "vi": "Otoko Daiko"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 42, "id": "JUS-bc6646be2daf4c49c755", "ja": "けんかみこし", "vi": "Fighting Mikoshi"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 43, "id": "JUS-1468f0bab548e60abf0a", "ja": "とどろけ<IDEOSP>おとこだいこ", "vi": "Otoko<IDEOSP>Daiko"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 44, "id": "JUS-06cce570bd6c77632419", "ja": "破天荒", "vi": "Outrageous"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 45, "id": "JUS-f1699c6b0871752c1e4e", "ja": "はてんこう", "vi": "Outrageous"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 46, "id": "JUS-6f27e22a282a437e5313", "ja": "お宝＆相手をＫＯで必殺魂ＵＰ！<IDEOSP>自分が", "vi": "Nhặt báu vật hoặc KO địch để tăng Special Soul!<IDEOSP>Nếu bản thân"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 47, "id": "JUS-57385a9c8cd4f5713c91", "ja": "ＫＯで必殺魂が＋１。お金の効果は半分。", "vi": "bị KO, Special Soul tăng 1. Hiệu lực tiền giảm một nửa."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 48, "id": "JUS-d1bd52d19014f4e03801", "ja": "自転車「千鳥（ちどり）」に乗って、", "vi": "Phóng lên xe đạp Chidori,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 49, "id": "JUS-e98fc6d608c1829697d0", "ja": "全力疾走で突撃。", "vi": "lao hết tốc lực tông đối thủ."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 50, "id": "JUS-bb415fa82f187d640a2a", "ja": "大食い大会に挑戦！！", "vi": "Tham gia cuộc thi ăn uống!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 51, "id": "JUS-18589cea422a4063589a", "ja": "Ｊ魂が回復！", "vi": "Hồi phục J-Soul!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 52, "id": "JUS-35b78b142bbde505ca89", "ja": "戦車に乗って砲弾発射！", "vi": "Ngồi xe tăng rồi bắn đại bác!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 53, "id": "JUS-ea5a0c473dc334845325", "ja": "爆風でダメージを与える事ができる。", "vi": "Sóng nổ có thể gây sát thương."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 54, "id": "JUS-41d87f341fd08c52c3ae", "ja": "堪忍袋の緒が切れた両さんが色んなものを", "vi": "Ryotsu nổi điên, nhặt đủ thứ"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 55, "id": "JUS-c8f7e05e675c1356c7ef", "ja": "辺りに投げつけ、広範囲に攻撃。", "vi": "ném khắp nơi, đánh trên diện rộng."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 56, "id": "JUS-0208f6f5e8f8f6ceaf4a", "ja": "一定時間、砲弾を発射しつつ戦車で移動。", "vi": "Lái xe tăng vừa di chuyển vừa bắn phá liên tục."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 57, "id": "JUS-bcfc3d0123c07e6d0b08", "ja": "喧嘩神輿だ！！神輿をかついで練り歩く！", "vi": "Rước kiệu chiến đấu! Khiêng kiệu diễu hành!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 58, "id": "JUS-14d171a166cc695ef2a1", "ja": "ボタン連打でかつぐ時間が長くなる！", "vi": "Nhấn nút liên tục để khiêng lâu hơn!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 59, "id": "JUS-705fce118d870376b471", "ja": "男太鼓の真髄！大音量で太鼓を叩く！", "vi": "Tinh túy trống trận! Gõ trống thật vang!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 60, "id": "JUS-7c6dc4205bd6a4a7c787", "ja": "ボタン連打で叩く数が増加！", "vi": "Nhấn nút liên tục để gõ thêm nhiều lần!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 61, "id": "JUS-93d81fb3b8590b1f19c8", "ja": "先輩はすごい！", "vi": "Đàn anh siêu thật!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 62, "id": "JUS-3c5bc085b7e0d450b64c", "ja": "さすがビンボーのプロだ", "vi": "Đúng là chuyên gia nghèo có khác!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 63, "id": "JUS-37db3dd0fbdeae601e07", "ja": "もう<IDEOSP>しょうがないわね<IDEOSP>両ちゃん", "vi": "Thật tình!<IDEOSP>Hết chịu nổi rồi<IDEOSP>Ryō-chan!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 64, "id": "JUS-f084595a47354e54f86d", "ja": "両津！！おまえというやつはっ！！", "vi": "Ryotsu!! Cậu đúng là hết thuốc chữa!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 65, "id": "JUS-ce5514be359184b80c5b", "ja": "坂田銀時", "vi": "Gintoki Sakata"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 66, "id": "JUS-4f14ef8f23d07258edae", "ja": "手間かけさせんじゃねーよ！！", "vi": "Don't Make Me Work for This!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 67, "id": "JUS-77f9441346102184b518", "ja": "俺ァなァ！！", "vi": "Listen Here!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 68, "id": "JUS-8a29101d4cea26aa96af", "ja": "てまかけさせんじゃねーよ", "vi": "Don't Make Me Work for This!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 69, "id": "JUS-3e389cc53a052b19f24f", "ja": "おれぁなぁ", "vi": "Listen Here!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 70, "id": "JUS-71166ab0b93da7caad19", "ja": "はイイイイ次ィィィ！！", "vi": "Aaaalright, NEXT!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 71, "id": "JUS-5e2494cedd8a192f189d", "ja": "炭水化物と甘いもの！", "vi": "Carbs and Sweets!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 72, "id": "JUS-c9b8dd0eb0196083b442", "ja": "はいいいいつぎぃぃぃ", "vi": "Aaaalright, NEXT!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 73, "id": "JUS-e42f695aa453b37c55ca", "ja": "たんすいかぶつとあまいもの", "vi": "Carbs and Sweets!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 74, "id": "JUS-ca9176125c909a1da664", "ja": "ぎいやァァァァァ！！", "vi": "Gyaaaaaah!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 75, "id": "JUS-409fa1fd3bffebfd927f", "ja": "ぎいやぁぁぁぁぁ", "vi": "Gyaaaaaah!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 76, "id": "JUS-12423b7340ba70b75f2a", "ja": "定春、散歩の時間だ", "vi": "Sadaharu, Time for a Walk"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 77, "id": "JUS-066be3aba1fcda3acf53", "ja": "…ブッた斬る", "vi": "...I'll Cut You Down"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 78, "id": "JUS-8b2c3b5739a24c9b1f9d", "ja": "さだはる、さんぽのじかんだ", "vi": "Sadaharu, Time for a Walk"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 79, "id": "JUS-ffd5ad75b8f12d209640", "ja": "ぶったぎる", "vi": "...I'll Cut You Down"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 80, "id": "JUS-be48500eaf0330e39b0c", "ja": "武士道", "vi": "Bushido"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 81, "id": "JUS-a9726fc889a6e5ceed15", "ja": "ぶしどう", "vi": "Bushido"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 82, "id": "JUS-842eebf425b7ca3ee7af", "ja": "お宝発見！もらえるモンは貰っておく", "vi": "Tìm thấy báu vật! Có đồ thì cứ nhặt,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 83, "id": "JUS-db5276a834b42e4a61d3", "ja": "＆ギリギリのガードで必殺魂アップゥゥ！", "vi": "và Guard sát nút cũng tăng Special Soul!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 84, "id": "JUS-de6835735fad11b5c079", "ja": "スクーターに乗った銀さんが木刀をかまえ", "vi": "Gintoki phóng scooter, giơ kiếm gỗ"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 85, "id": "JUS-d598fc2acbe3f6742c12", "ja": "相手を打ち上げながら突撃！！", "vi": "lao tới hất đối thủ lên không!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 86, "id": "JUS-ae4658f55e650bb151e9", "ja": "週一の楽しみのパフェを食べる銀さん。", "vi": "Gintoki ăn parfait — thú vui mỗi tuần."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 87, "id": "JUS-57e029bdfcf0ea3f8d78", "ja": "邪魔する奴には怒りのカウンター攻撃！", "vi": "Ai phá đám sẽ ăn đòn phản công!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 88, "id": "JUS-1ededde727032acb920f", "ja": "突進してヒットすると木刀を振り回して", "vi": "Lao tới, trúng đích thì quật kiếm gỗ"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 89, "id": "JUS-2df71889647fa2ca135b", "ja": "広範囲の相手をなぎたおす攻撃！", "vi": "quét sạch đối thủ xung quanh!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 90, "id": "JUS-d6653819437e0d1d7149", "ja": "宇治金時丼を持った銀さんが攻撃されると", "vi": "Nếu bị đánh khi cầm tô Uji Kintoki,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 91, "id": "JUS-d33145d636c115b0acb7", "ja": "カウンターで連続攻撃！食後にＪ魂回復。", "vi": "Gintoki phản đòn liên tục! Ăn xong hồi J-Soul."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 92, "id": "JUS-7cd48eaccac71312e301", "ja": "ロケットブースターが起動して飛躍的に", "vi": "Rocket Booster khởi động, tăng tốc"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 93, "id": "JUS-89ef5ab90658a0656bdf", "ja": "加速！風を感じたあとに爆発。", "vi": "chóng mặt! Đón gió rồi... nổ tung."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 94, "id": "JUS-e7a3026697b705f6228c", "ja": "ロケットブースターで真上に上昇する", "vi": "Dùng Rocket Booster bay thẳng lên cao,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 95, "id": "JUS-63896182d83d8aba9c15", "ja": "最終兵器！風を全身で感じて最後に爆発。", "vi": "vũ khí tối thượng! Đón gió rồi phát nổ."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 96, "id": "JUS-c10cb0cede6edf4cfefa", "ja": "定春の背中に乗って左右に走り、接触した", "vi": "Cưỡi Sadaharu chạy trái phải,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 97, "id": "JUS-75b14ab4825bc596a508", "ja": "相手に木刀で一撃！", "vi": "dùng kiếm gỗ đánh kẻ chạm vào!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 98, "id": "JUS-3b89614f5367299ed792", "ja": "この木刀が届く範囲は俺の国だ！必殺魂が", "vi": "Phạm vi kiếm gỗ này là lãnh địa của ta! Hồi"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 99, "id": "JUS-4af6d8b7b61a66e7f3e7", "ja": "回復しデッキ内の人数に応じ攻撃力ＵＰ！", "vi": "Special Soul, tăng lực theo số người trong Deck!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 100, "id": "JUS-b71e3ba69b3035b10ffd", "ja": "ホラ<IDEOSP>酢昆布あげるから", "vi": "Này<IDEOSP>cho cậu ít tảo ngâm giấm,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 101, "id": "JUS-5b24e704d5e50a1fda16", "ja": "がんばるアルヨ", "vi": "cố lên nha!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 102, "id": "JUS-aea38151016ebad6109c", "ja": "ちょっとぉおおお！", "vi": "Êêêêê!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 103, "id": "JUS-ccfe2e11c4a00904f66d", "ja": "置いてかないで下さいよぉ！", "vi": "Làm ơn đừng bỏ tôi lại màaaa!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 104, "id": "JUS-77793854fef81d54bfdf", "ja": "わしみたいにまじめに働かないと", "vi": "Không làm việc chăm chỉ như ta"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 105, "id": "JUS-de504a7667783190cb3f", "ja": "ろくな大人にならんぞ！", "vi": "thì chẳng lớn thành người tử tế đâu!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 106, "id": "JUS-e341596c8c5863ea2c9b", "ja": "神楽", "vi": "Kagura"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 107, "id": "JUS-970cc8102e6a3432978f", "ja": "血祭りじゃァァァァ！！", "vi": "Bloodbath!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 108, "id": "JUS-4cc5f62ff15da153e301", "ja": "おかわりヨロシ？", "vi": "Seconds, Please?"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 109, "id": "JUS-cb2d185b395731075f30", "ja": "ちまつりじゃぁぁぁぁ", "vi": "Bloodbath!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 110, "id": "JUS-a164ac7a3b82995363aa", "ja": "おかわりよろし", "vi": "Seconds, Please?"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 111, "id": "JUS-1e40b208605c92ff8941", "ja": "どけどけどけどけぇ！", "vi": "Tránh ra, tránh raaaaa!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 112, "id": "JUS-83d696e59d3158a992e3", "ja": "どけどけどけどけぇ", "vi": "Tránh ra, tránh raaaaa!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 113, "id": "JUS-86ff99fd8c950427a5b3", "ja": "定春、捨ててくるヨロシ", "vi": "Sadaharu, Dump It"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 114, "id": "JUS-8a11a7faf8089f17544f", "ja": "ほあちゃアアアアア！！", "vi": "Hoa-chaaaaa!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 115, "id": "JUS-761b1c58b522f0952145", "ja": "さだはる、すててくるよろし", "vi": "Sadaharu, Dump It"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 116, "id": "JUS-11910d1c48b2ba4222dc", "ja": "ほあちゃあああああ", "vi": "Hoa-chaaaaa!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 117, "id": "JUS-05e777ce1a6998c6770e", "ja": "夜兎族", "vi": "Yato Clan"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 118, "id": "JUS-4b80dbfc0a7be2ab09e6", "ja": "やとぞく", "vi": "Yato Clan"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 119, "id": "JUS-b0fadb5ed1e17bfa8977", "ja": "戦ってるだけで必殺魂がジワジワＵＰ！", "vi": "Chỉ cần chiến đấu là Special Soul tăng dần!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 120, "id": "JUS-890e4361955b1702cbb7", "ja": "お宝で必殺魂ＵＰ！食料はたくさん必要。", "vi": "Nhặt báu vật để tăng Special Soul! Cần nhiều thức ăn."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 121, "id": "JUS-e714c48baac8b607d7cd", "ja": "傘に仕込んだ銃を乱射！", "vi": "Xả súng giấu trong chiếc ô!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 122, "id": "JUS-484864ca9247f4d31b26", "ja": "ボタン連打で攻撃回数が増える。", "vi": "Nhấn nút liên tục để bắn thêm!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 123, "id": "JUS-31f5697d58914359ee4d", "ja": "ごはんをたくさん食べてＪ魂回復。", "vi": "Ăn một bữa no nê để hồi J-Soul."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 124, "id": "JUS-b3d060e5a92a7e2a5919", "ja": "ごはんですよ。", "vi": "Cơm đây ạ!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 125, "id": "JUS-89a878f702c879f8304a", "ja": "定春の背中に乗って左右に激走！", "vi": "Cưỡi Sadaharu phóng hết tốc lực hai bên!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 126, "id": "JUS-03e6dc6018b6c86960e0", "ja": "接触した相手を吹っ飛ばす。", "vi": "Đụng phải ai là hất bay người đó."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 127, "id": "JUS-9e2069a2dbbbfb92a711", "ja": "…って<IDEOSP>すい飯器かいィィ！！", "vi": "...Khoan,<IDEOSP>cái đó là nồi cơm điện màaa!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 128, "id": "JUS-d50a036fc8601dcd09b1", "ja": "定春が相手をくわえたまま突進。", "vi": "Sadaharu ngoạm đối thủ rồi lao tới,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 129, "id": "JUS-a0ef5568f60809182ac7", "ja": "そして投げ捨てる。", "vi": "sau đó quăng văng đi."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 130, "id": "JUS-2f47ed930e290ff7055d", "ja": "神楽が近づく相手をコタツに引きずり込み", "vi": "Kagura kéo kẻ đến gần vào bàn sưởi kotatsu,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 131, "id": "JUS-8e12cab3de2ea8ebea78", "ja": "ダメージ＋キャラチェンジさせる！", "vi": "gây sát thương và ép đổi nhân vật!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 132, "id": "JUS-3d6d99677efc6180df98", "ja": "せっかくバトルキャラになったんだ", "vi": "Đã được làm Battle Character rồi,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 133, "id": "JUS-f4858bec47a234155c37", "ja": "肉とかフルーツとか<IDEOSP>食えるだけ食っとけよ", "vi": "cứ ăn thịt, trái cây<IDEOSP>bao nhiêu cũng được!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 134, "id": "JUS-5cb38479ac00ed88a551", "ja": "何で僕はバトルキャラじゃ", "vi": "Sao tôi lại không được làm"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 135, "id": "JUS-a59169cf89b003efb906", "ja": "ねぇんだぁあああ！", "vi": "Battle Character cơ chứaaa!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 136, "id": "JUS-c6c8c874dce23fe94088", "ja": "キサマも戦闘民族の生き残りか…！？", "vi": "Ngươi cũng là kẻ sống sót của tộc chiến binh à!?"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 137, "id": "JUS-66c5c8669e47303f7943", "ja": "ツナ／リボーン", "vi": "Tsuna / Reborn"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 138, "id": "JUS-f3ec6473177eb9d0dd36", "ja": "死ぬ気弾<IDEOSP>げんこつ弾", "vi": "Dying Will Bullet<IDEOSP>Punch Bullet"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 139, "id": "JUS-7de527fe19be04a56c9b", "ja": "死ぬ気弾<IDEOSP>メガトンパンチ弾", "vi": "Dying Will Bullet<IDEOSP>Megaton Punch Bullet"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 140, "id": "JUS-7e8fd4394eb376970d7f", "ja": "しぬきだん<IDEOSP>げんこつだん", "vi": "Dying Will Bullet<IDEOSP>Punch Bullet"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 141, "id": "JUS-fe1af2fa56fcd1e50ad3", "ja": "しぬきだん<IDEOSP>めがとんぱんちだん", "vi": "Dying Will Bullet<IDEOSP>Megaton Punch Bullet"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 142, "id": "JUS-6f3fbd2bf058b4a97092", "ja": "死ぬ気弾<IDEOSP>メガトンパンチ弾<IDEOSP>水脈発見", "vi": "Dying Will Bullet<IDEOSP>Megaton Punch Bullet<IDEOSP>Find Water"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 143, "id": "JUS-c317aaecbbc728603904", "ja": "しぬきだん<IDEOSP>めがとんぱんちだん<IDEOSP>すいみゃくはっけん", "vi": "Dying Will Bullet<IDEOSP>Megaton Punch Bullet<IDEOSP>Find Water"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 144, "id": "JUS-4493126938f584b1ba42", "ja": "Ｘグローブ<IDEOSP>死ぬ気で戦う！！", "vi": "X-Gloves<IDEOSP>Fight with Dying Will!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 145, "id": "JUS-44a480933164f3f701d5", "ja": "Ｘグローブ<IDEOSP>死ぬ気で浄化！！", "vi": "X-Gloves<IDEOSP>Purify with Dying Will!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 146, "id": "JUS-ad404a384e5c94308fd7", "ja": "いくすぐろーぶ<IDEOSP>しぬきでたたかう", "vi": "X-Gloves<IDEOSP>Fight with Dying Will!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 147, "id": "JUS-0e52bd4ae8b05e9c6445", "ja": "いくすぐろーぶ<IDEOSP>しぬきでじょうか", "vi": "X-Gloves<IDEOSP>Purify with Dying Will!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 148, "id": "JUS-e3cefffc3594379e03be", "ja": "超直感", "vi": "Super Intuition"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 149, "id": "JUS-5189a83121407474f229", "ja": "ちょうちょっかん", "vi": "Super Intuition"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 150, "id": "JUS-d4af93330076ac829e81", "ja": "ボンゴレの血統。相手の攻撃を直感でガー", "vi": "Dòng máu Vongola: trực giác giúp đỡ đòn,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 151, "id": "JUS-249e446768bb7a3a00e8", "ja": "ド。必殺技も見透かしてダメージを軽減。", "vi": "kể cả Special Attack, giảm sát thương."}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 152, "id": "JUS-c579030693e077ce5f86", "ja": "死ぬ気弾で復活（リ・ボーン）！巨大なげ", "vi": "Hồi sinh (Reborn) nhờ Dying Will Bullet! Tung"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 153, "id": "JUS-2f787dc418a9ac7de489", "ja": "んこつで連続パンチ！", "vi": "liên hoàn đấm bằng nắm tay khổng lồ!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 154, "id": "JUS-52dabed9da50576e298f", "ja": "死ぬ気弾で復活（リ・ボーン）！飛び込ん", "vi": "Hồi sinh nhờ Dying Will Bullet! Lao tới"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 155, "id": "JUS-a9eb3266547aaae841bf", "ja": "で渾身のパンチ！周囲を衝撃波で攻撃！", "vi": "đấm cực mạnh, tạo sóng xung kích quanh mình!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 156, "id": "JUS-f68919b66b9893660402", "ja": "で渾身のパンチ！そして水脈発見！！", "vi": "đấm cực mạnh rồi tìm được mạch nước!!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 157, "id": "JUS-0122faf1330d162926a3", "ja": "小言弾とＸグローブの力！相手に突進して", "vi": "Nhờ Rebuke Bullet và X-Gloves! Lao vào"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 158, "id": "JUS-e521702a0be0f2e64216", "ja": "殴り飛ばし空中で連続パンチ！！", "vi": "đấm bay địch rồi tung liên hoàn quyền trên không!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 159, "id": "JUS-c7ece0907653d85e8fdf", "ja": "小言弾とＸグローブの力！斜め上に上昇し", "vi": "Nhờ Rebuke Bullet và X-Gloves! Bay chéo lên,"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 160, "id": "JUS-beb3fbe9942c9f836d04", "ja": "て相手をつかみ、地面に叩きつけて爆発！", "vi": "túm đối thủ quật xuống đất, gây nổ!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 161, "id": "JUS-586041029fc6b6c4dbaf", "ja": "１０代目ッ！", "vi": "Boss đời thứ mười!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 162, "id": "JUS-d79b1aadd84579e828a2", "ja": "支援は右腕のオレにまかせてください！", "vi": "Cứ để cánh tay phải này hỗ trợ Boss!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 163, "id": "JUS-8d19db74a5a2fa103687", "ja": "お祭りなんだってな～", "vi": "Nghe nói có lễ hội đấy~"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 164, "id": "JUS-89faec538d75bd4436b9", "ja": "俺たちも楽しもうぜツナ！", "vi": "Chúng ta cùng quẩy nào, Tsuna!"}
+{"file": "04-koma-chieu-thuc-002.jsonl", "row_index": 165, "id": "JUS-9a4ff60d07d97f7de515", "ja": "火事場のクソ力をみせてやれ！", "vi": "Cho bọn chúng thấy sức mạnh lúc nguy cấp!"}
