@@ -63,15 +63,23 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - **QA nguồn chính thức** (bản `tools/check_handoff.py` từ bộ bàn giao): 14.616 ID, 2.903 mục có `vi`, 11.713 chưa dịch, **0 lỗi** điều khiển/placeholder/ID. Đã đối chiếu phiên bản JSONL tích lũy của checkpoint 005; không sửa `en`.
 - Chưa build ROM, chưa thay font, chưa kiểm tra kích thước tiếng Việt trên NDS hoặc giả lập.
 
+## Checkpoint 007 — 18/11/2026
+
+- **+485 ID** trong `translation/PATCH-DOT007.jsonl`, hoàn thành `05-hoi-thoai-005.jsonl` (485/485).
+- **Tích lũy 3.388/14.616 mục (23,18%)**: 3.205 mục khác bản tiếng Anh, 183 mục được giữ nguyên; **11.228 mục chưa dịch (`vi=null`)**.
+- Câu chuyện: Popi/Yolanda, Golden Eagle Guild; Lisir và Lucifi; người chơi kể về cha mẹ; Gales gặp lại cô bé; chuyến đi Juno tìm Skal đổi High Orc Helm lấy Card Key; Somatology Laboratory ở Lighthalzen, File F, cú bẫy và cuộc tìm kiếm cô bé.
+- **QA:** trình `tools/check_handoff.py` của gói nguồn xác nhận đủ 14.616 ID, không đổi `en`, không đổi thứ tự mã điều khiển/placeholder, **0 lỗi**. Bản ZIP checkpoint 007 chứa đủ 33 JSONL và file thuật ngữ/xưng hô.
+- **Chưa** thêm font tiếng Việt, patch ROM hay kiểm thử giả lập/máy thật; độ rộng dòng vẫn cần kiểm chứng.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **2.903 patch records** từ các đợt 001–006, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **3.388 patch records** từ các đợt 001–007, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_006_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_007_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
