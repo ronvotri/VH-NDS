@@ -398,3 +398,15 @@ Giữ mã `<C3000>` bất thường ở index 80, 163, 180, 183, 300 của file 
 - **Gin ↔ người chơi:** ta/cậu, khen năng lực và trao Knight's Spirit chứa bí thuật Knight. Không mặc định giới tính người chơi dù bản Anh có một đại từ “his”.
 - **Ngôi tên động:** giữ nguyên `<CFFFB>` và `<CFFF8>`. Toàn bộ `<CFFF1>`, `<CFFF2>`, `<CFFEF>`, `<CFFF4>`, `<CFFFC>`, `<CFFFD>`, `<C3000>` đúng thứ tự nguồn.
 - **Nguồn USA bất thường:** index 83, 172, 348 có `<C3000>` giữa nội dung; index 406 chỉ có nhãn Misha và không có chữ. QA cấu trúc 0 lỗi, chưa kiểm chứng font/hiển thị NDS.
+
+
+## Đợt 024 — Gin, Marie, Fritz, Jenny và vai trò phụ
+
+- **Gin ↔ người chơi:** ta/cậu; khi nhờ săn `Hydrolancer` đòi có Knight trong đội, nhiệm vụ thưởng Job Exp. `Knight's Spirit` là thông báo thưởng trước tuyến nhiệm vụ này.
+- **Marie ↔ người chơi:** tôi/cậu; giỏi phép nhưng nói nhẹ chuyện triệu hồi cả nghìn ác quỷ; khi Guild cần ngăn Magician trẻ thì nghiêm túc, cảnh báo nhất định phải dẫn Wizard.
+- **Young Magician → Magician trẻ:** là nhân vật nữ (nguồn dùng she); xưng ta/ngươi khi chống đối. Cô muốn triệu hồi rồi cảm hóa ác quỷ, không chấp nhận cảnh báo, thua thì chạy.
+- **Fritz ↔ người chơi:** ta/cậu; muốn giấu việc trùm cướp từng là Thief của Guild, yêu cầu Assassin trong đội để đánh kín đáo tại Sograt Desert - South.
+- **Bandit Boss → Trùm cướp:** xưng ta/ngươi, kiêu căng, hai lần không chịu đầu thú; nhân vật chính tha mạng, không giết, hắn dùng bom chớp trốn đi. **Underling → Đàn em**, xưng với Boss bằng “Rõ!”.
+- **Jenny ↔ người chơi:** tôi/cậu; vui tính, nhiệm vụ Priest trừ ma tại Somatology Laboratory. Khi nhắc “Halzen” không tự sửa tên địa điểm trong lời thoại, nhưng có thể làm rõ Lighthalzen trong câu đáp gốc.
+- **Đồng đội động `<CFFF8>` ↔ nhân vật chính động `<CFFFB>`:** tôi/cậu; tránh ngôi nam/nữ cố định vì có nhiều lời thoại thay thế trong cùng ID.
+- **Kỹ thuật:** Giữ nguyên `<CFFFD>`, `<CFFFC>`, `<C3000>`, `<CFFF1>`, `<CFFF2>`, `<CFFF4>`, `<CFFEF>`. Đã QA cú pháp toàn bộ ID, chưa kiểm chứng font hay ROM trên NDS.
