@@ -1,0 +1,30 @@
+{
+  "game": "Jump Ultimate Stars (Japan) AJUJ",
+  "checkpoint": "026",
+  "date": "2026-11-19",
+  "total_rows": 34919,
+  "translated_rows": 16329,
+  "pending_rows": 18590,
+  "prior_025_translated": 15666,
+  "new_026_rows": 663,
+  "changed": {
+    "05-thu-vien-nhan-vat-009.jsonl": "0–11 (12 new; file complete)",
+    "06-jquiz-001.jsonl": "0–650 (651 new; next starts 651)"
+  },
+  "source_ja_modified": 0,
+  "previous_translations_modified": 0,
+  "duplicate_ids": 0,
+  "control_tag_errors": 0,
+  "printf_placeholder_errors": 0,
+  "unicode_nfc_errors": 0,
+  "static_comparison_base": "Checkpoint 025 translation files from ZIP",
+  "long_unicode_strings_gt37": 6329,
+  "glossary_terms": 1497,
+  "glossary_added": 16,
+  "font_implemented": false,
+  "rom_patch_built": false,
+  "pixel_width_qa": false,
+  "gameplay_tested": false,
+  "quiz_correct_answer_verified": false,
+  "quiz_notes": "Some source questions/options lack context or may require on-screen images. Preserve original options and order; do not claim answer-key validation."
+}
