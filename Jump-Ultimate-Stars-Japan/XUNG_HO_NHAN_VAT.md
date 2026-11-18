@@ -62,13 +62,23 @@
 - Câu trích manga không đương nhiên do nhân vật đang được giới thiệu phát ngôn. Chỉ suy giọng từ ngữ pháp Nhật rõ ràng; **không khóa speaker_id** khi chưa kiểm tra Koma/nguồn manga.
 - `すれちがい通信` của NDS **không phải StreetPass 3DS**; diễn đạt là kết nối/trao đổi dữ liệu khi đi ngang nhau.
 
-## Checkpoint 006 — Info Character, Shaman King, JoJo, Hunter × Hunter và Yu Yu Hakusho
 
-- `02-thoai-tro-giup-002` dòng 0–1: cuối nhóm `info/hk`; chưa xác nhận danh tính.
-- Dòng 2–114, chủ yếu `info/hs`: giọng `っス`, hoạt bát, thân thiện. Dùng **tớ – cậu** nếu ngữ cảnh yêu cầu; không tự gán tên từ mã `hs`.
-- Dòng 115–227, chủ yếu `info/ig`: lịch thiệp, có `あたし` tại dòng 157. Có thể dùng **tôi – cậu**, thi thoảng chọc ghẹo nhẹ theo nguyên tác.
-- Dòng 228–305, chủ yếu `info/is`: vui, gần gũi; ưu tiên **tớ – cậu** khi rõ xưng hô, hạn chế gán người nói ở chuỗi dùng chung.
-- Dòng 306–360, chủ yếu `info/jj`: điềm tĩnh, hơi kiểu cách; dùng **tôi – cậu** hoặc bỏ ngôi ở câu hướng dẫn.
-- `04-koma-chieu-thuc-001` dòng 704–963: **Shaman King**, **JoJo's Bizarre Adventure**, **Hunter × Hunter**, **Yu Yu Hakusho**. Văn bản mô tả cơ chế không cần xưng hô; lời trích nhân vật được giữ sắc thái nhưng chưa khóa `speaker_id` nếu dữ liệu thiếu căn cứ.
-- Các Skill romanized/provisional chưa phải English chính thức. Giữ các thẻ `<IDEOSP>`, `<PERCENT_FULL>` đúng thứ tự; không biến NDS thành StreetPass 3DS.
+## Checkpoint 006 — các nhóm Info Character, Shaman King, JoJo, Hunter × Hunter và Yu Yu Hakusho
 
+- `02-thoai-tro-giup-002` dòng 0–1: cuối nhóm `info/hk`; chưa tự gán danh tính.
+- Dòng 2–114, chủ yếu `info/hs`: lối nói `っス`, thân thiện, hơi nhí nhảnh; dùng **tớ – cậu** nếu cần xưng hô, không xác định tên từ mã `hs`.
+- Dòng 115–227, chủ yếu `info/ig`: lịch thiệp, tự xưng `あたし` tại dòng 157; có thể dùng **tôi – cậu**, một số đoạn chọc ghẹo nhẹ theo gốc.
+- Dòng 228–305, chủ yếu `info/is`: trẻ trung, chọc nhẹ, dùng **tớ – cậu** khi ngữ cảnh cho phép; hạn chế tự xưng ở dòng đa dụng.
+- Dòng 306–360, chủ yếu `info/jj`: điềm đạm và hơi kiểu cách, dùng **tôi – cậu** và câu hỏi lịch sự.
+- `04-koma-chieu-thuc-001` dòng 704–963: nhóm **Shaman King**, **JoJo's Bizarre Adventure**, **Hunter × Hunter** và **Yu Yu Hakusho**. Các mô tả cơ chế không có nhân xưng; thoại nhân vật có thể giữ sắc thái riêng nếu câu Nhật thể hiện rõ, nhưng chưa gán speaker từ vị trí kế bên trong tệp.
+- Giữ nguyên các dấu phân mảnh `IDEOSP` và `PERCENT_FULL` theo thứ tự Nhật; thuật ngữ phiên âm được ghi cờ cần đối chiếu.
+
+## Checkpoint 007 — Wi-Fi / Info Character và các manga mới
+
+- `02-thoai-tro-giup-002`, dòng **361–387**, chủ yếu tệp `info/jj.bin`: giọng điềm đạm, hơi kiểu cách; ưu tiên **tôi – cậu** hoặc lược chủ ngữ. Dòng 370 có tự xưng **Kishibe Rohan** từ chính lời thoại, không tự áp tên này cho những câu dùng lại ở tài nguyên khác.
+- Dòng **388–573**: các mảng hướng dẫn hệ thống (Jump Galaxy, Koma, Deck, Friend, Wi-Fi, Quiz và giao diện Deck Make). Nhiều câu bị cắt giữa hai ID: giữ đúng thứ tự và dấu phân cách; không thêm xưng hô vào mô tả cơ chế.
+- Dòng **574–683**: kiểu nói Kansai với `うち` và `～やで`, chuyển thành giọng **tui – cậu** thân thiện, nhịp nhanh, trêu nhẹ, **không** tự gán nhân vật qua mã tài nguyên.
+- Dòng **684–764**: phong cách hướng dẫn động viên, có `ユー` (you) và `セコンド` (người hỗ trợ); dùng **tôi – cậu** khi cần; thuật ngữ kết nối giữ đúng công nghệ NDS.
+- Dòng **765–853**: giọng thô, hơi bất cần (`～やがれ`, `～ねぇ`), dùng câu gọn, cà khịa vừa phải; không thêm tục tĩu mới vào bản dịch.
+- `04-koma-chieu-thuc-001`, dòng **964–1133**: **Yu-Gi-Oh!**, **Rurouni Kenshin**, **Black Cat**, **Bleach**. Tên người và Skill giữ tiếng Anh/phiên âm. **Phần mô tả gameplay không phải lời nhân vật**, không gán người nói theo vị trí. Lời trích manga giữ sắc thái nhưng `speaker=unverified` nếu không có metadata.
+- Các tên Skill có `status=romanized_japanese_qa` hoặc `provisional_literal_jp_qa` cần QA trước khi chốt bản patch; chúng **không mặc nhiên là tên tiếng Anh chính thức**.
