@@ -232,15 +232,27 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - ZIP checkpoint 022 có 33 JSONL, patch, thuật ngữ, danh bạ NPC, bảng ngôi xưng và báo cáo QA; vẫn **chưa nhúng font hay patch ROM, chưa test giả lập/NDS**.
 - **Đợt 023** tiếp `05-hoi-thoai-021.jsonl` với **454 mục**.
 
+## Checkpoint 023 — 18/11/2026
+
+- **+454 mục**, hoàn thành toàn bộ `05-hoi-thoai-021.jsonl` (454/454). Patch: `translation/PATCH-DOT023.jsonl`.
+- **Tích lũy 9.867/14.616 mục (67,51%)**; còn **4.749 mục `vi=null`**. Giữ nguyên 9.413 bản dịch đã hoàn thành trước đó.
+- Tuyến truyện: Biger giao Merchant Guild lấy 15 Zargon từ Beetles và 5 Ogre Tooth từ Hi Orcs; Guy tổ chức bài kiểm tra Taekwon Kid phối hợp hai người ở Mt. Mjolnir - East; Clay trao kiếm Executioner gia truyền khi giao 20 Garlets; Sopborough sưu tầm Alice Card rồi trao Dark Lord Card; Attar tìm kho báu Aghill và thần khí Mjolnir, khu hầm sập và hồn ma xuất hiện; Misha gửi người chơi đến Somatology Laboratory và trả Rosario; Gin trao Knight's Spirit.
+- **QA chính thức nguồn gốc `tools/check_handoff.py`**: `source_rows=14616`, `translated=9867`, `unfinished=4749`, `errors=[]`. Giữ nguyên ID, EN và thứ tự mã NDS, tên động, màu và placeholder.
+- **Độ dài:** sau khi biên tập batch 023, không có phần chữ nào dài quá 36 ký tự Unicode giữa các mã ngắt. Chưa đo độ rộng font thật hoặc xác nhận bằng giả lập/NDS.
+- **Bất thường từ bản USA:** index 83, 172, 348 có `<C3000>` chen trong nội dung; index 406 chỉ chứa `Misha<C3000><CFFFD>` (không có lời). Bảo toàn nguồn; không tự thêm/bỏ mã.
+- Đã bổ sung thuật ngữ/nhãn NPC về Guy, Clay, Sopborough, Executioner, Garlets, Andre, Alice Card, Mjolnir, Rosario và Knight's Spirit; trong ZIP checkpoint 023 có 33 JSONL, patch, 374 thuật ngữ, ma trận ngôi xưng, danh bạ và QA.
+- **Chưa build ROM hay bổ sung font tiếng Việt**, cần kiểm thử giả lập và máy NDS thật.
+- **Đợt 024:** tiếp `05-hoi-thoai-022.jsonl`.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **9.413 patch records** từ các đợt 001–022, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **9.867 patch records** từ các đợt 001–023, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_022_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_023_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
