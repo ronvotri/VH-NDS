@@ -155,3 +155,16 @@
 - **Ichigo → Byakuya**: căng thẳng, nói thẳng; **Renji → Byakuya**: vẫn tôn trọng chức đội trưởng trong lời gọi chính thức, dù quyết vượt qua; **Toshiro → Gin**: cảnh cáo gay gắt khi Momo gặp nguy hiểm.
 - **Rukia → Ichigo**: thân thiết nhưng có lối nói hơi cổ; **Kon → Rukia**: ngưỡng mộ quá mức, nên giữ sự lố bịch kiểu nguyên tác.
 - Những ngôi xưng này là **quy tắc dịch theo cảnh**; từng trích dẫn thư viện cần soát nguồn manga trước khi xác định speaker chắc chắn.
+
+
+## CP015 — Bleach / Buso Renkin / Cobra / Captain Tsubasa / Dragon Ball
+
+- **Thư viện nhân vật**: phần tiểu sử dùng giọng kể thứ ba, không suy ra nhân vật đang tự nói; chỉ dùng đại từ khi có lời thoại trực tiếp được trích dẫn.
+- **Uryu Ishida**: kín đáo, tự trọng, lời thề với Mayuri mạnh nhưng không văng tục; giữ tên Quincy, Ransotengai và Ashisogi Jizo.
+- **Chad**: trầm, ít nói, với Shunsui dùng “tôi”, thái độ kiên định nhưng có lễ. **Orihime**: thân mật với Tatsuki, cảm xúc rõ mà không biến thành lời nói nhõng nhẽo tùy tiện.
+- **Yoruichi**: điềm nhiên, tự tin, trêu chọc khi thích hợp; trong lời đối đầu Soi Fon có thể xưng “ta”, không mặc định mọi cảnh. **Byakuya**: lời ngắn, lạnh và trang trọng; không dùng slang tùy tiện. **Aizen**: lịch thiệp, lạnh nhẫn. **Kon**: lố, háo sắc theo nguyên tác nhưng tránh tự thêm lời tục.
+- **Kazuki → Tokiko**: Kazuki trẻ, thẳng thắn, gọi “chị Tokiko” khi lời Nhật cho thấy sự kính trọng (斗貴子さん); lời kể bên ngoài không tự áp quan hệ. **Papillon**: khoa trương nhưng vẫn giữ sự u ám của tiểu sử.
+- **Cobra**: tự tin, bông đùa kiểu giang hồ không gian; với Crystal Boy dùng “ta – ngươi” ở lời đe dọa. **Lady**: thông minh, chuyên nghiệp; robot hầu gái nói vụng thì dịch vụng có chủ đích.
+- **Captain Tsubasa**: Tsubasa/Misaki dùng “tớ – cậu” trong cảnh đồng đội; Hyuga mạnh mẽ, hiếu thắng; nhân vật trẻ không bị lão hóa giọng.
+- **Goku**: vô tư, giản dị, hồn nhiên kể cả khi kết hôn; lúc nổi giận chuyển giọng dữ dội có căn cứ. **Vegeta**: kiêu ngạo “ta – ngươi” khi nói với kẻ thù; câu thoại của Vegeta không pha hài trừ khi Nhật gốc đã hài.
+- Các nguyên tắc trên là **đề xuất theo cảnh đã dịch**, không coi là speaker ID cố định; cần QA với ảnh thực tế trên NDS.
