@@ -80,15 +80,24 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - **Cảnh báo nguồn đã ghi nhận:** mục thứ 240 của file 006 (ID `RDS-c6841bc81e9fbac4b907`, xem bản ZIP/QA) bị dính tên người nói ngay sau `Headdress" is here.Dark Knight`. Bản dịch bảo toàn số/thứ tự mã; cần kiểm tra thủ công khi patch ROM.
 - Chưa thay font, chưa làm ROM, chưa test giả lập/NDS hoặc kiểm tra glyph tràn khung. Mọi phát biểu đạt QA chỉ áp dụng **cấu trúc dữ liệu**.
 
+## Checkpoint 009 — 18/11/2026
+
+- **+328 ID mới**, hoàn thành `05-hoi-thoai-007.jsonl` (328/328), lưu ở `translation/PATCH-DOT009.jsonl`.
+- **Tích lũy 4.177/14.616 mục (28,58%)**: 3.981 bản có `vi` khác `en`, 196 mục kiểm tra và giữ nguyên; còn 10.439 mục `vi=null`.
+- Nội dung: nghi lễ hồi sinh Nữ thần, cô bé mong được sống, lựa chọn của nhân vật chính, hồi tưởng Father/Mother và Gales về Ymir's Heart Piece, hậu truyện và lời thoại NPC/Job/Limit Break.
+- **QA nguồn chính thức:** 14.616 ID, 4.177 bản dịch, 10.439 chưa dịch, **0 lỗi**. Bảo toàn `en`, tên động, placeholder, mã màu và thứ tự các mã game.
+- Cảnh báo nguồn: tệp 007 có nhãn người nói dính vào nội dung tại các index 123, 203, 211, 234, 240 (0-based); không thay token, cần xem lại khi patch ROM. Nguồn USA dùng cả `Skol` và `Skal`; giữ đúng nguyên văn mỗi vị trí.
+- Chưa thay font tiếng Việt, chưa patch ROM, chưa thử giả lập/máy NDS hoặc đo tràn khung chữ.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **3.849 patch records** từ các đợt 001–008, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **4.177 patch records** từ các đợt 001–009, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_008_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_009_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
