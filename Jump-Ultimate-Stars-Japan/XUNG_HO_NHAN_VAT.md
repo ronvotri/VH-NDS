@@ -179,3 +179,12 @@
 - **Kanda** cáu kỉnh, gọi Allen là “giá đỗ”, giữ sự đối lập với giọng Allen; **Lavi** vui vẻ, có chất khẩu ngữ nhưng tránh bịa phương ngữ vượt chứng cứ.
 - **Light Yagami** trong lời độc thoại Kira: lạnh và chắc thắng; **L/Near** hỏi đáp bình tĩnh, lập luận rành rọt; **Misa** có giọng hồn nhiên và hâm mộ Light; **Mello** nóng nảy, cạnh tranh với Near.
 - Các tiểu sử là **người dẫn chuyện ngôi thứ ba**. Không lấy một câu dẫn trích (`『...』`) làm bằng chứng tất cả dòng kề bên đều do nhân vật đó phát ngôn.
+
+
+## Checkpoint 017 – Dr. Slump / Eyeshield 21 / Gintama
+
+- **Arale:** ngây thơ, vô tư; lời chào đặc trưng “N'cha!”. Với Senbei, dùng giọng trẻ con, thân mật; không tự thêm lời cà khịa của người lớn. **Senbei:** người lớn, thường xưng “ta/ông” hoặc “chú” theo đối tượng, nhưng câu trần thuật phải ở ngôi thứ ba. **Obotchaman:** lễ phép, có thể dùng “cháu/em” với người lớn, “tớ/cậu” với Arale tùy cảnh. **Dr. Mashirito:** tự tôn quá mức, thường “ta/ngươi”, không dùng kiểu nói teen vô cớ.
+- **Sena:** hiền, lịch sự; với Hiruma và đàn anh: “em/anh” khi thực sự nói chuyện, với bạn cùng lớp: “tớ/cậu”. **Hiruma:** cộc và áp đặt; “tao/mày” chỉ ở cảnh đối đầu/đe dọa, không áp dụng vào lời dẫn của thư viện. **Kurita:** chân thành, nhẹ nhàng. **Shin:** chừng mực, nghiêm túc.
+- **Gintoki:** nói năng tùy hứng, đôi lúc cộc và ngông nhưng không biến mọi câu thành tục tĩu. Với **Shinpachi**, thường “anh/cậu” hoặc “tôi/cậu” theo ngữ cảnh. **Shinpachi:** giữ vai người thường tỉnh táo, kính trọng người lớn hơn khi thích hợp nhưng có thể bật lại bằng “anh/tôi”. **Kagura:** bộc trực, tinh nghịch, không cần máy móc thêm đuôi tiếng Nhật “aru” vào mọi câu tiếng Việt; vẫn giữ đặc trưng qua nhịp điệu và từ ngữ.
+- Các dòng phần lớn là **lời kể/tiểu sử**. Chỉ sử dụng ngôi xưng trực tiếp trong đoạn trích/đối thoại được nguồn đánh dấu. Khi file không có người nói thì không tự gắn tên.
+- Những tên chiêu được tạm Latin hóa phải mang nhãn QA, tuyệt đối không nhận là official English khi chưa kiểm chứng.
