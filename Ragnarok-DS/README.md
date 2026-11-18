@@ -255,15 +255,26 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - ZIP checkpoint 024 có 33 tệp JSONL tích lũy, patch mới, 385 thuật ngữ, quy tắc xưng hô, danh bạ nhân vật và báo cáo QA.
 - **Đợt 025:** tiếp `05-hoi-thoai-023.jsonl` với **517 mục** đang `vi=null`.
 
+## Checkpoint 025 — 18/11/2026
+
+- **+517/517 mục**, dịch hết `05-hoi-thoai-023.jsonl` (513 mục có chữ Việt khác EN, 4 mục giữ nguyên). Patch: `translation/PATCH-DOT025.jsonl`.
+- **Tích lũy 10.895/14.616 mục (74,54%)**; còn **3.721 mục `vi=null`**. 10.378 mục có trước được bảo toàn đúng từng tệp/ID.
+- Nội dung theo nguồn: Jenny nhờ Priest dọn ma ở `Somatology Laboratory` lần nữa; Jazz yêu cầu Hunter săn `Vagabond Wolf` rồi trao `Hunter's Spirit`; Bughill của Merchant Guild giao nhiệm vụ 6 đá quý (`Sapphire`, `Topaz`, `Sardonyx`, `Aquamarine`, `Opal`, `Emerald`) + kiếm `Flamberge` trị giá `30000 zenies` tới nhà trọ `Juno` cùng Blacksmith, trao `Blacksmith's Spirit`; Master Li sợ tối nhờ người chơi và Taekwon Master đi đấu với học trò cũ `Immortal Fighter` ở `Mjolnir Dead Pit`, trao `Taekwon Master's Spirit`.
+- **QA chính thức `tools/check_handoff.py`:** `source_rows=14616`, `translated=10895`, `unfinished=3721`, `errors=[]`. Giữ nguyên ID, `en`, context, uses, group, thứ tự mã NDS, biến tên động và mã màu.
+- **Cảnh báo nguồn:** index 300, 302, 304 của file 023 ghi nhãn `Begell` thay vì `Bughill`, không có `<C3000>` đi kèm. Giữ nguyên theo nguyên tác, chưa thay font/kiểm thử ROM.
+- **QA độ dài:** 0 phần chữ vượt 36 ký tự Unicode giữa các mã ngắt (chưa đo độ rộng glyph). Có 8 cảnh báo tương đối, một số do tên động được tính không chính xác; đều chưa phải lỗi tràn khung đã xác nhận.
+- ZIP checkpoint 025 có 33 JSONL tích lũy, patch 025, 398 thuật ngữ, quy tắc xưng hô, danh bạ nhân vật và báo cáo QA. **Chưa tạo ROM hay bổ sung font tiếng Việt**.
+- **Đợt 026:** `05-hoi-thoai-024.jsonl` có **491 mục** chưa dịch.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **10.378 patch records** từ các đợt 001–024, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **10.895 patch records** từ các đợt 001–025, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_024_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_025_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
