@@ -421,3 +421,16 @@ Giữ mã `<C3000>` bất thường ở index 80, 163, 180, 183, 300 của file 
 - **Immortal Fighter → Võ sĩ bất tử:** nhãn vai trò NPC không phải tên riêng; xưng ta/ngươi. Là học trò cũ của Master Li, muốn thách đấu người mạnh hơn, bị đồng đội Taekwon Master của người chơi đánh bại. Khi thắng, nhận Taekwon Master's Spirit.
 - **Tên động:** `<CFFF8>` là đồng đội, `<CFFFB>` là nhân vật chính; nói tôi/cậu, tránh áp ngôi giới tính cố định. Giữ nguyên thứ tự `<CFFFD>`, `<CFFFC>`, `<C3000>`, `<CFFF1>`, `<CFFF2>`, `<CFFEF>`, `<CFFF4>`.
 - **Bất thường nguồn USA:** ba dòng index **300/302/304** ghi **Begell** thay vì **Bughill**, thiếu `<C3000>`. Không tự sửa `en` hoặc thẻ game; cần xác minh khi thử ROM/font Việt.
+
+
+## Đợt 026 — Allen/Kate, Nina, Dark Knight và Shaman
+
+- **Allen ↔ Kate:** tớ/cậu, bạn từ nhỏ. Hộp thời gian chứa thư cả hai viết “muốn cưới cậu”, nhưng không tự chuyển thành một lời cầu hôn chính thức ngoài lời gốc. **Allen ↔ người chơi:** tôi/cậu; người chơi tôi/cậu; thưởng 3 Butterfly Wings khi tìm được hộp, túi đầy thì quay lại.
+- **Nina ↔ người chơi:** tôi/cậu, tự xưng “Merchant Chính Nghĩa”; chưa được nhận vào Guild chỉ vì lời người chơi bảo “cậu ở phe tôi” trong lúc cứu cô. Có nhánh cho vào Guild hoặc hứa nhận khi còn chỗ trống. **Hoodlum (Đầu gấu):** ta/ngươi với người chơi, gọi Nina “cô em”.
+- **Commander (Chỉ huy) ↔ người chơi:** ta/cậu, người chơi tôi/thưa Chỉ huy; giải thích Bloody Sword bị nguyền vì chủ cũ dùng cấm thuật và cho kiểm tra sức mạnh Dark Knight tại Glast Heim. Đừng coi lời giải thích của nhân vật thành định luật gameplay.
+- **Mysterious Magician (Magician bí ẩn):** ngươi/ta, danh tính chưa xác nhận; không đồng nhất với Dark Magician hay cha nhân vật chính. **Dark Magician:** ta/ngươi, cộc cằn; giao nhiệm vụ diệt ác long tại Glast Heim để có rune blade Tyrfing.
+- **Lucifi, Lisir, Viselc ↔ người chơi:** tôi/cậu, giữ giọng riêng: Lucifi sợ ma, Lisir khịa, Viselc suy xét thận trọng. Dấu tên động `<CFFFA>` và `<CFFFB>` không bị thay bằng tên hoặc giới tính cố định.
+- **Mysterious Woman (Phụ nữ bí ẩn):** ta/ngươi; chỉ thứ tự hành hương Eternal Sands → East Prontera Woods → Mt. Mjolnir - East → Ant Hell để lấy Yggdrasil Branch. Không tự đoán nghĩa các âm tiết cố tình đứt đoạn.
+- **Shaman tại Yusidra Caves:** ta/ngươi, người chơi tôi/bà. Shaman nói sức mạnh có thể che chở hoặc làm tổn thương người thân, khích lệ người chơi dám đối mặt nỗi sợ mất bạn bè, trao Ancient Shaman Documents. Tên Job Shaman và Dark Knight giữ tiếng Anh.
+- **Nhãn NPC:** Young Woman → “Cô gái trẻ”, Hoodlum → “Đầu gấu”, Mysterious Magician → “Magician bí ẩn”, Mysterious Woman → “Phụ nữ bí ẩn”, Commander → “Chỉ huy”; Guildmaster, Knight, Dark Magician, Shaman là danh xưng/Job chính giữ nguyên.
+- **Kỹ thuật:** Tất cả `<CFFFD>`, `<CFFFC>`, `<C3000>`, `<CFFFB>`, `<CFFFA>`, `<CFFF8>`, `<CFFF9>` và mã màu khớp thứ tự nguyên tác. Những chỗ lạ ở nguồn được bảo toàn, chưa có kiểm thử font và ROM NDS.
