@@ -802,5 +802,131 @@
     "vi": "Milika",
     "status": "confirmed-in-checkpoint-011",
     "note": "Tên riêng NPC tại Prontera."
+  },
+  {
+    "en": "Roni",
+    "vi": "Roni",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên NPC làm vũ khí"
+  },
+  {
+    "en": "Shiva",
+    "vi": "Shiva",
+    "status": "verified-in-checkpoint-012",
+    "note": "Cậu bé xin thuốc cho mẹ"
+  },
+  {
+    "en": "Sherry",
+    "vi": "Sherry",
+    "status": "verified-in-checkpoint-012",
+    "note": "Magician nghiên cứu phép"
+  },
+  {
+    "en": "Jack",
+    "vi": "Jack",
+    "status": "verified-in-checkpoint-012",
+    "note": "Chủ tiệm vũ khí Geffen"
+  },
+  {
+    "en": "Liam",
+    "vi": "Liam",
+    "status": "verified-in-checkpoint-012",
+    "note": "NPC tiết lộ đường bí mật"
+  },
+  {
+    "en": "Joyce",
+    "vi": "Joyce",
+    "status": "verified-in-checkpoint-012",
+    "note": "Merchant ở Morocc"
+  },
+  {
+    "en": "Daksten",
+    "vi": "Daksten",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên NPC"
+  },
+  {
+    "en": "Iron Ore",
+    "vi": "Iron Ore",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên item"
+  },
+  {
+    "en": "Red Herbs",
+    "vi": "Red Herbs",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên item"
+  },
+  {
+    "en": "Panacea",
+    "vi": "Panacea",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên item"
+  },
+  {
+    "en": "Empty Bottles",
+    "vi": "Empty Bottles",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên item"
+  },
+  {
+    "en": "Mastela Fruit",
+    "vi": "Mastela Fruit",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên item"
+  },
+  {
+    "en": "Monster Hides",
+    "vi": "Monster Hides",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên item"
+  },
+  {
+    "en": "Desert Wolves",
+    "vi": "Desert Wolves",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên quái"
+  },
+  {
+    "en": "Thief Bugs",
+    "vi": "Thief Bugs",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên quái"
+  },
+  {
+    "en": "Secret Pathway",
+    "vi": "Secret Pathway",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên đường bí mật"
+  },
+  {
+    "en": "Labyrinth Forest",
+    "vi": "Labyrinth Forest",
+    "status": "verified-in-checkpoint-012",
+    "note": "Tên địa danh"
+  },
+  {
+    "en": "Mysterious Old Woman",
+    "vi": "Bà lão bí ẩn",
+    "status": "verified-in-checkpoint-012",
+    "note": "Nhãn vai trò chung"
+  },
+  {
+    "en": "Spirit of the Forest",
+    "vi": "Linh hồn rừng",
+    "status": "verified-in-checkpoint-012",
+    "note": "Nhãn vai trò chung"
+  },
+  {
+    "en": "Swordswoman",
+    "vi": "Nữ kiếm sĩ",
+    "status": "verified-in-checkpoint-012",
+    "note": "Nhãn NPC, không phải Job Swordsman"
+  },
+  {
+    "en": "Barfly",
+    "vi": "Khách nhậu",
+    "status": "verified-in-checkpoint-012",
+    "note": "Nhãn NPC"
   }
 ]
