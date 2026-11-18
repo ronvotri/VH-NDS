@@ -188,3 +188,10 @@
 - **Gintoki:** nói năng tùy hứng, đôi lúc cộc và ngông nhưng không biến mọi câu thành tục tĩu. Với **Shinpachi**, thường “anh/cậu” hoặc “tôi/cậu” theo ngữ cảnh. **Shinpachi:** giữ vai người thường tỉnh táo, kính trọng người lớn hơn khi thích hợp nhưng có thể bật lại bằng “anh/tôi”. **Kagura:** bộc trực, tinh nghịch, không cần máy móc thêm đuôi tiếng Nhật “aru” vào mọi câu tiếng Việt; vẫn giữ đặc trưng qua nhịp điệu và từ ngữ.
 - Các dòng phần lớn là **lời kể/tiểu sử**. Chỉ sử dụng ngôi xưng trực tiếp trong đoạn trích/đối thoại được nguồn đánh dấu. Khi file không có người nói thì không tự gắn tên.
 - Những tên chiêu được tạm Latin hóa phải mang nhãn QA, tuyệt đối không nhận là official English khi chưa kiểm chứng.
+
+## Checkpoint 018 – Gintama / Hunter × Hunter / Fist of the North Star / Hoshin Engi
+- **Gintama:** Phần dẫn tiểu sử trung tính; câu thoại xét người nói. Katsura nghiêm túc, hay sửa “Zura” thành “Katsura”. Sacchan thường đùa lố với Gin; Hijikata nghiêm và mê mayonnaise; Okita bình thản mà hiểm; Kondo chân thành nhưng ngốc nghếch, bám Otae. Không tự chuyển câu kể thành lời nhân vật.
+- **Hunter × Hunter:** Gon bộc trực, thân với Killua; Killua nói nhanh, sắc sảo nhưng không tùy tiện tục tĩu. Kurapika kiềm chế; Hisoka đùa cợt nguy hiểm; Chrollo lạnh lùng. Tên Nen/Skill giữ English hoặc phiên âm nhất quán.
+- **Fist of the North Star:** Kenshiro/Raoh trực diện, uy nghiêm; Toki trầm tĩnh, Rei nghĩa hiệp. Trích thoại dùng ngôi xưng theo cảnh và quan hệ, không ép một kiểu cho toàn bộ phần.
+- **Hoshin Engi:** Taikobo vừa lười biếng, hài hước vừa sắc sảo khi nghiêm túc; tránh thêm trò đùa ngoài tiếng Nhật. Giữ Taikobo, Dakki, Taikyokuzu, Paopei theo phiên âm/English; tên chưa chắc phải QA.
+- Đã dịch hết `05-thu-vien-nhan-vat-003.jsonl`; file `05-thu-vien-nhan-vat-004.jsonl` đã dịch dòng 0–299, tiếp từ dòng 300.
