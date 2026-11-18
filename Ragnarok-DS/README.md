@@ -89,15 +89,26 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 - Cảnh báo nguồn: tệp 007 có nhãn người nói dính vào nội dung tại các index 123, 203, 211, 234, 240 (0-based); không thay token, cần xem lại khi patch ROM. Nguồn USA dùng cả `Skol` và `Skal`; giữ đúng nguyên văn mỗi vị trí.
 - Chưa thay font tiếng Việt, chưa patch ROM, chưa thử giả lập/máy NDS hoặc đo tràn khung chữ.
 
+## Checkpoint 010 — 18/11/2026
+
+- **+161 mục** trong `translation/PATCH-DOT010.jsonl`, hoàn thành `05-hoi-thoai-008.jsonl` (161/161), gồm 155 bản dịch khác tiếng Anh và 6 tên riêng giữ nguyên.
+- **Tích lũy 4.338/14.616 mục (29,68%)**; 10.278 mục `vi=null`. Giữ nguyên toàn bộ 4.177 bản ghi đã có từ checkpoint 009.
+- Phần này là hội thoại chức năng, không phải tuyến cốt truyện mới: đổi Job, Limit Break (điều kiện Base Level/Job Level), Tavern Master giao/nhận nhiệm vụ, Guild Menu/Kafra, nhân viên và tính cách.
+- `Guildmaster` giữ nguyên nhãn để đồng bộ đợt trước; `Tavern Master` → `Chủ quán`, `Suspicious Man` → `Gã khả nghi`, `Kafra Staff` → `Nhân viên Kafra`. Ngôi xưng tương ứng tôi/bạn, ta/ngươi, tôi/bạn.
+- Giữ nguyên item/Job/skill, các thẻ game và mã màu. Lưu ý bản USA có khi ghi điều kiện `over 30` và lúc `at least 30`: giữ đúng từng vị trí, chưa kiểm chứng cơ chế bằng mã chương trình.
+- **QA bằng chính `tools/check_handoff.py` trong gói bàn giao:** 14.616 source rows, 4.338 mục có `vi`, 10.278 chưa dịch, **0 errors** về cấu trúc, ID và mã điều khiển.
+- Chưa đo độ rộng glyph tiếng Việt trên khung NDS, chưa patch ROM, chưa test giả lập/máy thật. Bản ZIP checkpoint 010 đã có `QA_KHUNG_CHU_010.json` ghi những dòng dài nên chú ý.
+- **Kế tiếp:** `05-hoi-thoai-009.jsonl` có 244 mục.
+
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **4.177 patch records** từ các đợt 001–009, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **4.338 patch records** từ các đợt 001–010, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_009_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_010_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
