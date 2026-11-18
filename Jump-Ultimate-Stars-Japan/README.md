@@ -1,17 +1,16 @@
-# Jump Ultimate Stars (Japan) — Checkpoint 025
+# Jump Ultimate Stars (Japan) — Checkpoint 026
 
-**Đã dịch: 15.666 / 34.919 chuỗi (44,86%).** Thêm 633 câu, còn 19.253.
+**Đã dịch: 16.329 / 34.919 chuỗi (46.76%).** Đợt này thêm **663 câu**, còn **18.590**.
 
-- Hoàn thành **05-thu-vien-nhan-vat-008.jsonl**: 633 dòng 322–954, từ Inui/Atobe (Prince of Tennis), Reborn!, Taizo Mote King Saga, Yu Yu Hakusho tới Yu-Gi-Oh!.
-- **Trong ZIP bàn giao**, `translation/` chứa 30 file JSONL đầy đủ, cùng ID/tiếng Nhật với CP024; dòng chưa dịch `vi=null`. **Trên GitHub**, lưu bản dịch mới và file hợp nhất có ID; không tải toàn bộ 30 file vào nhánh.
-- `BAN_DICH_025.jsonl`: 633 dòng mới có file, row_index, id, ja, vi.
-- `BAN_DICH_TONG_HOP_001-025.jsonl`: 15.666 dòng hợp nhất.
-- `THUAT_NGU.json`: 1481 thuật ngữ; tên phiên âm chưa kiểm chứng vẫn được đánh dấu provisional.
-- `XUNG_HO_NHAN_VAT.md`: bổ sung quy tắc giọng cho các bộ mới.
-- `QA_025.json`: so sánh với checkpoint 024, **0 lỗi ID, token, nguồn Nhật, placeholder, Unicode**; không ghi đè 15.033 câu cũ.
-- `CAU_DAI_CAN_SOI_025.tsv`: 6212 câu dài hơn 37 ký tự Unicode; chưa phải đo theo pixel.
-- Một số ký tự Nhật ở đoạn Ma giới và Poison Cooking chưa giải mã ngữ nghĩa hoàn toàn; được đánh dấu trong hồ sơ xưng hô, không đoán tên.
+- Đã hoàn thành `05-thu-vien-nhan-vat-009.jsonl` (12 dòng): phần cuối của Honda và Anzu Mazaki (*Yu-Gi-Oh!*).
+- Dịch `06-jquiz-001.jsonl` dòng **0–650** (651 dòng): câu hỏi/đáp án **Bobobo-bo Bo-bobo**, tiếp đến đầu phần **Black Cat**. Checkpoint 027 bắt đầu ở dòng **651**.
+- `translation/` có **30 file JSONL** đủ nguồn Nhật, đúng ID, metadata và bản Việt từ CP001–CP026; `vi=null` ở 18.590 câu chưa dịch.
+- `BAN_DICH_026.jsonl` gồm đúng 663 câu mới. `BAN_DICH_TONG_HOP_001-026.jsonl` gồm 16.329 câu có bản Việt.
+- Giữ nguyên 15.666 bản dịch cũ, không thay tiếng Nhật/ID, không mất token điều khiển. Xem `QA_026.json`.
+- `THUAT_NGU.json` có 1497 mục; các tên/skill chưa có bản English xác nhận được đánh dấu QA, không khẳng định là tên chính thức.
+- **Giới hạn quan trọng:** câu hỏi J-Quiz có đáp án với hình, dữ liệu cắt giữa ID và vài phần bất thường ở nguồn; **chưa có answer-key QA, chưa kiểm thử game**.
+- Có 6329 dòng Việt dài hơn 37 ký tự Unicode trong toàn bộ bản dịch: cần đo bằng font pixel thực tế.
 
-**Chưa có font Việt, chưa chèn ROM và chưa QA gameplay. ZIP không phải patch chơi được.**
+**Không phải bản vá ROM:** chưa chèn font Việt, chưa vá ROM NDS và chưa QA trong trò chơi.
 
-Checkpoint 026 bắt đầu ở dòng **0** của `05-thu-vien-nhan-vat-009.jsonl`.
+Repo mục tiêu: `ronvotri/VH-NDS`, nhánh `vh/jump-ultimate-stars-japan`, thư mục `Jump-Ultimate-Stars-Japan/`. Trạng thái đồng bộ GitHub phải xác nhận riêng sau khi tải lên và so SHA.
