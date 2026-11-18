@@ -2128,5 +2128,119 @@
     "vi": "Peco Peco",
     "status": "reviewed-dot022",
     "note": "Quái săn bốn con trong thử thách Archer"
+  },
+  {
+    "en": "Guy",
+    "vi": "Guy",
+    "status": "reviewed-dot023",
+    "note": "Tên riêng sư phụ Taekwon Kid, không phải nhãn vô danh"
+  },
+  {
+    "en": "Guy's Student",
+    "vi": "Học trò của Guy",
+    "status": "reviewed-dot023",
+    "note": "Nhãn người nói không phải tên riêng"
+  },
+  {
+    "en": "Clay",
+    "vi": "Clay",
+    "status": "reviewed-dot023",
+    "note": "Thợ rèn cần 20 Garlets và trao Executioner"
+  },
+  {
+    "en": "Beetles",
+    "vi": "Beetles",
+    "status": "reviewed-dot023",
+    "note": "Tên quái rơi Zargon"
+  },
+  {
+    "en": "Hi Orcs",
+    "vi": "Hi Orcs",
+    "status": "reviewed-dot023",
+    "note": "Tên quái rơi Ogre Tooth"
+  },
+  {
+    "en": "Garlet",
+    "vi": "Garlet",
+    "status": "reviewed-dot023",
+    "note": "Tên item nguyên liệu rèn kiếm"
+  },
+  {
+    "en": "Garlets",
+    "vi": "Garlets",
+    "status": "reviewed-dot023",
+    "note": "Dạng số nhiều theo nguồn USA"
+  },
+  {
+    "en": "Andre",
+    "vi": "Andre",
+    "status": "reviewed-dot023",
+    "note": "Quái kiến rơi Garlets"
+  },
+  {
+    "en": "Executioner",
+    "vi": "Executioner",
+    "status": "reviewed-dot023",
+    "note": "Kiếm gia truyền của Clay"
+  },
+  {
+    "en": "Alice Card",
+    "vi": "Alice Card",
+    "status": "reviewed-dot023",
+    "note": "Card cho bài thử Sopborough"
+  },
+  {
+    "en": "Dark Lord Card",
+    "vi": "Dark Lord Card",
+    "status": "reviewed-dot023",
+    "note": "Phần thưởng Card hiếm"
+  },
+  {
+    "en": "Mjolnir",
+    "vi": "Mjolnir",
+    "status": "reviewed-dot023",
+    "note": "Thần khí búa ở kho báu Aghill"
+  },
+  {
+    "en": "Rosario",
+    "vi": "Rosario",
+    "status": "reviewed-dot023",
+    "note": "Phần thưởng nhiệm vụ Misha"
+  },
+  {
+    "en": "Misha",
+    "vi": "Misha",
+    "status": "reviewed-dot023",
+    "note": "NPC Acolyte"
+  },
+  {
+    "en": "Gin",
+    "vi": "Gin",
+    "status": "reviewed-dot023",
+    "note": "NPC trao Knight's Spirit"
+  },
+  {
+    "en": "Knight's Spirit",
+    "vi": "Knight's Spirit",
+    "status": "reviewed-dot023",
+    "note": "Item chứa bí thuật Knight"
+  },
+  {
+    "en": "Taekwon Guild",
+    "vi": "Taekwon Guild",
+    "status": "reviewed-dot023",
+    "note": "Tên Guild"
+  },
+  {
+    "en": "Card Collector",
+    "vi": "Card Collector",
+    "status": "reviewed-dot023",
+    "note": "Thuật ngữ của Sopborough"
+  },
+  {
+    "en": "B3F",
+    "vi": "B3F",
+    "status": "reviewed-dot023",
+    "note": "Tầng hầm, giữ nguyên ký hiệu"
   }
 ]
