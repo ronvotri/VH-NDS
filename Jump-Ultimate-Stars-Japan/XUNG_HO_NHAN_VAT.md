@@ -82,3 +82,15 @@
 - Dòng **765–853**: giọng thô, hơi bất cần (`～やがれ`, `～ねぇ`), dùng câu gọn, cà khịa vừa phải; không thêm tục tĩu mới vào bản dịch.
 - `04-koma-chieu-thuc-001`, dòng **964–1133**: **Yu-Gi-Oh!**, **Rurouni Kenshin**, **Black Cat**, **Bleach**. Tên người và Skill giữ tiếng Anh/phiên âm. **Phần mô tả gameplay không phải lời nhân vật**, không gán người nói theo vị trí. Lời trích manga giữ sắc thái nhưng `speaker=unverified` nếu không có metadata.
 - Các tên Skill có `status=romanized_japanese_qa` hoặc `provisional_literal_jp_qa` cần QA trước khi chốt bản patch; chúng **không mặc nhiên là tên tiếng Anh chính thức**.
+
+
+## Checkpoint 009 — Info Character và Koma/Skill (18/11/2026)
+
+- `02-thoai-tro-giup-003.jsonl` 0–129 (`info/pj.bin`): giọng **tsundere**, hơi hách dịch và ngượng ngùng. Dùng **tôi–cậu**, không tự đặt thêm tên người nói; tiếng lóng vừa phải, câu nhiều ID ghép liền.
+- Dòng 130–227 (`info/rb.bin`): giọng **mạnh mẽ, trực tính**, nói gọn, có thể tự xưng **ta**, gọi người chơi **cậu**; không suy nhân vật.
+- Dòng 228–279 (`info/rk.bin`): giọng **nữ tự tin**, bình tĩnh, hơi khịa nhẹ, dùng **tôi–cậu** khi tự xưng.
+- Dòng 280–353 (`info/sd.bin`): lịch thiệp, chậm rãi, có tiếng cười `ほっほっ`; ưu tiên lời chỉ dẫn rõ, không tự xác định danh tính.
+- Dòng 354–421 (`info/sk.bin`): giọng **trẻ, hơi rụt rè**, câu ngắn, dùng **mình–cậu** khi nguyên tác có ngôi.
+- Dòng 422–504 (`info/ss.bin`): trang trọng, hướng dẫn hùng hồn, thuật ngữ **Cosmo** theo Saint Seiya; có thể dùng **ta–ngươi** khi gốc có chủ ngữ. Chưa xác định người nói ở những câu dùng chung.
+- `04-koma-chieu-thuc-002.jsonl` 0–165: các dòng **Skill/Ability** giữ tên tiếng Anh/romanized; các dòng mô tả là trung tính. Lời trích manga giữ dấu hiệu giọng Nhật; vị trí gần tên nhân vật không tự chứng minh danh tính người nói.
+- Các mục `provisional_english_qa` trong bảng thuật ngữ không phải tuyên bố về tên dịch chính thức. Đoạn Nhật bị cắt giữa từ (như `けを締め切った`, `しれない`) cần QA theo cảnh game khi có ROM writer.
