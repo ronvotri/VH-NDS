@@ -1,0 +1,27 @@
+{
+  "checkpoint": "011",
+  "date": "2026-11-18",
+  "rom_code": "AJUJ",
+  "source_zip": "JumpUltimateStars_VietHoa_Checkpoint_010.zip",
+  "total": 34919,
+  "previous_translated": 6022,
+  "new_in_011": 689,
+  "translated": 6711,
+  "pending": 28208,
+  "changed_files": {
+    "04-koma-chieu-thuc-002.jsonl": 689
+  },
+  "duplicate_ids": 0,
+  "source_modified": 0,
+  "old_translation_overwritten": 0,
+  "control_token_errors": 0,
+  "format_placeholder_errors": 0,
+  "non_nfc_errors": 0,
+  "glossary_total": 586,
+  "long_segments_over_37_unicode_chars": 1308,
+  "next_file": "04-koma-chieu-thuc-002.jsonl",
+  "next_row_index": 1055,
+  "qa_scope": "Static JSONL, source JA, metadata, old translations, token order, NFC. No graphical/font/ROM runtime QA.",
+  "font_integration": "not_done",
+  "nds_rom_patch": "not_done"
+}
