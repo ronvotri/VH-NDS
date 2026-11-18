@@ -1,22 +1,25 @@
-# Jump Ultimate Stars – Checkpoint 017
+# Jump Ultimate Stars — Checkpoint 018
 
-Bản Nhật AJUJ. Dịch trực tiếp từ tiếng Nhật, giữ Item, Skill và tên đặc trưng bằng English/Latin; nội dung thoại/truyện dùng tiếng Việt gần gũi, vừa phải.
+Dịch trực tiếp từ bản Nhật AJUJ; giữ tên nhân vật, manga, Item, Skill, thuật ngữ chính bằng English/phiên âm; hội thoại và lời kể bằng tiếng Việt tự nhiên, hài vừa đủ.
 
 ## Tiến độ
-- **10.602/34.919** chuỗi có bản Việt (**30,36%**), còn **24.317**.
-- Đợt mới: **658** chuỗi từ Dr. Slump, Eyeshield 21 và Gintama; trước đó 9.944.
-- File `05-thu-vien-nhan-vat-002.jsonl`: đã xong 13 dòng cuối (950–962).
-- File `05-thu-vien-nhan-vat-003.jsonl`: đã dịch 645 dòng đầu (0–644). Tiếp từ dòng **645**.
+- **11.202 / 34.919** ID đã có bản Việt (**32,08%**); còn **23.717** chưa dịch.
+- Checkpoint 018: **600 ID mới**, giữ nguyên **10.602 câu** Checkpoint 017.
+- Hoàn thành `05-thu-vien-nhan-vat-003.jsonl`, các dòng 645–944.
+- Tiếp tục `05-thu-vien-nhan-vat-004.jsonl`, các dòng 0–299.
+- **Điểm tiếp theo:** `05-thu-vien-nhan-vat-004.jsonl`, `row_index=300`.
 
-## Dữ liệu
-- `translation/`: 30 file JSONL có đủ ID/ja gốc; `vi=null` nếu chưa dịch.
-- `BAN_DICH_017.jsonl`: 658 bản dịch mới có file, row_index, ID, ja và vi.
-- `BAN_DICH_TONG_HOP_001-017.jsonl`: 10.602 câu hợp nhất.
-- `THUAT_NGU.json`: 1352 mục, tên chiêu chưa xác nhận có nhãn QA.
-- `XUNG_HO_NHAN_VAT.md`: quy tắc vai vế, tên manga và xưng hô.
-- `QA_017.json` và `CAU_DAI_CAN_SOI_017.tsv`: báo cáo QA tĩnh và các dòng cần kiểm tra độ dài.
+## Dữ liệu GitHub
+- `BAN_DICH_018.jsonl`: 600 câu mới, giữ `file`, `row_index`, `id`, `ja`, `vi`.
+- `BAN_DICH_TONG_HOP_001-018.jsonl`: đủ 11.202 câu Việt hóa đã hợp nhất.
+- `THUAT_NGU.json`: **1.367 mục**, có thêm thuật ngữ Gintama, Hunter × Hunter, Hokuto và Hoshin.
+- `XUNG_HO_NHAN_VAT.md`: cập nhật cách xưng hô theo từng tác phẩm.
+- `QA_018.json`: kết quả kiểm tra tĩnh.
 
-## Giới hạn
-- 0 ID trùng/mất, 0 lỗi `<IDEOSP>`/thẻ biến, 0 câu cũ bị ghi đè theo đối chiếu ZIP 016.
-- **3139** đoạn dài hơn 37 ký tự Unicode cần rà sau tích hợp font, chưa đo chiều rộng pixel thật.
-- **Chưa chèn ROM, chưa hỗ trợ font Việt, chưa thử trên máy NDS**. Đây chưa phải patch chơi được.
+## Dữ liệu nguồn đầy đủ
+ZIP `JumpUltimateStars_VietHoa_Checkpoint_018.zip` bàn giao trong cuộc trò chuyện gồm toàn bộ 30 file trong `translation/`, đủ 34.919 chuỗi. Những chuỗi chưa dịch có `vi=null`. Bản GitHub là các file sai biệt/hợp nhất để tiết kiệm dung lượng; dùng ZIP làm nguồn đầy đủ khi làm tiếp.
+
+## Kết quả kiểm tra và giới hạn
+- 34.919 ID duy nhất; **0 lỗi mã điều khiển và placeholder, 0 câu cũ bị ghi đè**.
+- **3.385** đoạn dài hơn 37 ký tự cần QA độ rộng khi tích hợp font thực tế.
+- **Chưa chèn ROM, chưa tích hợp font Việt, chưa kiểm thử máy NDS.** Đây chưa phải patch chơi được.
