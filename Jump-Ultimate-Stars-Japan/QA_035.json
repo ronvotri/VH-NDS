@@ -1,0 +1,41 @@
+{
+  "game": "Jump Ultimate Stars (Japan) AJUJ",
+  "checkpoint": "035",
+  "date": "2026-11-19",
+  "total_rows": 34919,
+  "translated_rows": 22318,
+  "pending_rows": 12601,
+  "prior_034_translated": 21662,
+  "new_035_rows": 656,
+  "changed": {
+    "06-jquiz-004.jsonl": "0–655 (656 new; Hokuto no Ken / Hoshin Engi; CP036 starts row 656)"
+  },
+  "source_ja_modified": 0,
+  "source_metadata_modified": 0,
+  "previous_translations_modified": 0,
+  "duplicate_ids": 0,
+  "control_tag_errors": 0,
+  "printf_placeholder_errors": 0,
+  "unicode_nfc_errors": 0,
+  "raw_control_char_errors": 0,
+  "quiz_option_positions_modified": 0,
+  "quiz_question_groups_touched": 120,
+  "quiz_answer_groups_touched": 127,
+  "quiz_answers_validated_in_game": false,
+  "source_image_questions_validated": false,
+  "long_unicode_strings_gt37": 6815,
+  "glossary_terms": 1705,
+  "glossary_added": 42,
+  "font_implemented": false,
+  "rom_patch_built": false,
+  "pixel_width_qa": false,
+  "gameplay_tested": false,
+  "source_anomalies": [
+    "Line 164 has corrupt name 真￠中: marked for verification; no invented official skill name.",
+    "Line 507 has blank placeholder 〔〕 in source; preserved blank rather than inventing a name.",
+    "Line 534 楊‐ and lines 611/635/643/650 女｛ appear corrupt; Yozen/Nüwa are working normalizations supported by surrounding context and glossary.",
+    "Some quiz groups have only partial options or question lines in exported strings; no missing options added.",
+    "Several Hokuto and Hoshin martial-arts/Paopei romanizations provisional, flagged _qa in glossary.",
+    "Question and answer semantic correctness and image prompts not tested in ROM."
+  ]
+}
