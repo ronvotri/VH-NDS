@@ -386,3 +386,13 @@ Các tên Romanization có trạng thái `working_romanization_qa` cần so lạ
 - **JoJo:** giữ Hamon, Stand, Stone Mask, Pillar Men, Red Stone of Aja, Mode, Star Platinum, Silver Chariot, v.v. Tên Stand Latin nhất quán; tên kỹ năng/loài bọ chưa chắc chính thức đánh dấu `_qa`.
 - **Quiz có hình hoặc đáp án thiếu:** một số câu chỉ có một vài lựa chọn trong dữ liệu, hoặc dựa vào tranh game; không thêm đáp án ngoài nguồn và chưa xác minh đáp án đúng.
 - **Nguồn lỗi:** `女｛` ở câu Hoshin Engi; `怖油汰両虎` là tên gây nhiễu; tên riêng nhìn giống nhau ở I''s / Ichigo có giữ chữ Hán trong ngoặc để phân biệt.
+
+
+## CP037 — JoJo Part 3–7 & Weekly Shonen Jump J-Quiz
+
+- **Nguyên tắc J-Quiz:** người dẫn đặt câu hỏi trung tính, không tự gán ngôi xưng cho nhân vật dù câu có trích tình tiết. Mỗi `id` giữ nguyên `quiz_context` và vị trí đáp án; mọi đáp án sai có chủ ý phải được dịch đúng nguồn.
+- **JoJo:** giữ nguyên Stand, tên nhân vật và các tên Stand chính thức như The World, Star Platinum, Heaven's Door, King Crimson, Whitesnake, C-MOON, Gyro Zeppeli, Funny Valentine. Với những câu chỉ khác chữ Hán, giữ nguyên chuỗi chữ Hán của từng phương án.
+- **Stone Ocean:** câu hỏi về Jolyne, Pucci, Weather Report, Anasui, F.F. dùng lối trần thuật trung tính; không thêm câu thoại không có trong gốc.
+- **Steel Ball Run:** giữ tên địa danh và thuật ngữ cuộc đua; những chỗ nguồn mất vế câu hỏi, giữ ý hợp lệ từ ID có sẵn mà không tự thêm phương án.
+- **Lịch sử Jump:** các số liệu và tên tạp chí là câu hỏi lịch sử theo mốc game năm 2006; giữ nguyên ngày tháng và lựa chọn trong nguồn, không thay bằng sự kiện hiện nay.
+- **Cần QA:** một số lựa chọn thiếu trong dữ liệu trích xuất, câu hỏi có tranh, các tên ít gặp (tên chuyên mục Jump, nhân vật phụ Steel Ball Run). Không kết luận đáp án đúng khi chưa có bảng đáp án hoặc kiểm thử trong ROM.
