@@ -335,3 +335,13 @@ Các tên Romanization có trạng thái `working_romanization_qa` cần so lạ
 - Giữ nguyên mã `<IDEOSP>` và `<PERCENT_FULL>` trong đúng ID, không hoán đổi thứ tự câu hỏi hoặc đáp án.
 - Lời chào “N'cha” và các chi tiết hài đặc trưng của Dr. Slump giữ tính dí dỏm gốc, không tự chế meme hay bổ sung đáp án không tồn tại.
 - Một số câu chỉ có một hay hai đáp án trong nguồn trích xuất, cần QA khi ghép ROM; không suy đoán đáp án đúng khi thiếu ảnh.
+
+
+## Checkpoint 032 — J-Quiz Dr. Slump / Eyeshield 21
+
+- Đây là **câu dẫn quiz trung tính**, không phải phát ngôn của nhân vật; dùng “ai”, “vì sao”, “đội nào”, tránh gán xưng hô từ hồ sơ nhân vật sang người đố.
+- Với *Dr. Slump*, giữ sự dí dỏm của nguồn; giữ tên Arale, Senbei Norimaki, Gatchan, Obotchaman, Suppaman, Penguin Village.
+- Với *Eyeshield 21*, giữ tên đội và chiêu ở dạng Latin: Deimon Devil Bats, Ojo White Knights, NASA Aliens, Death March, Devil Bat Dive, Wishbone, Blitz.
+- Các câu hỏi chữ Hán phân biệt đáp án chỉ khác một nét **giữ nguyên chữ Hán trong ngoặc**, không dịch thành cùng một phương án giống hệt nhau.
+- Ký tự nguồn `≪` ở tên đội và số tháng có dấu hiệu bất thường; diễn giải phần số tháng như thông thường, riêng tên đội được ghi cần soát, không công bố là tên chính thức.
+- Các câu quiz chỉ hiện 1–2 phương án trong trích xuất và câu cần hình **chưa kiểm thử trong ROM**. Không tự thêm lựa chọn bị thiếu, không tự đổi đáp án đúng.
