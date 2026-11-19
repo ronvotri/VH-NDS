@@ -1,0 +1,33 @@
+{
+  "game": "Jump Ultimate Stars (Japan) AJUJ",
+  "checkpoint": "030",
+  "date": "2026-11-19",
+  "total_rows": 34919,
+  "translated_rows": 19038,
+  "pending_rows": 15881,
+  "prior_029_translated": 18317,
+  "new_030_rows": 721,
+  "changed": {
+    "06-jquiz-002.jsonl": "708–1428 (721 new; Dragon Ball, D.Gray-man; stops before Death Note)"
+  },
+  "source_ja_modified": 0,
+  "source_metadata_modified": 0,
+  "previous_translations_modified": 0,
+  "duplicate_ids": 0,
+  "control_tag_errors": 0,
+  "printf_placeholder_errors": 0,
+  "unicode_nfc_errors": 0,
+  "quiz_option_positions_modified": 0,
+  "quiz_question_groups_touched": 143,
+  "quiz_answer_groups_touched": 153,
+  "quiz_answers_validated_in_game": false,
+  "source_image_questions_validated": false,
+  "long_unicode_strings_gt37": 6539,
+  "glossary_terms": 1571,
+  "glossary_added": 29,
+  "font_implemented": false,
+  "rom_patch_built": false,
+  "pixel_width_qa": false,
+  "gameplay_tested": false,
+  "notes": "Static QA covers IDs, exact source/metadata, old vi, control tags, placeholders, quiz answer positions and Unicode. Does not confirm correctness of quiz choices, missing source options, official English spellings, image questions or physical ROM font width."
+}
