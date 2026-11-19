@@ -1,0 +1,104 @@
+{
+  "game": "Jump Ultimate Stars (Japan)",
+  "checkpoint": "046",
+  "date": "2026-11-20",
+  "source_zip": "JumpUltimateStars_Japan_BanGiao_Cloud.zip",
+  "sources": [
+    {
+      "file": "06-jquiz-007.jsonl",
+      "sha256": "7a3626e87b306549920522da086508c695a6dcfe6cb6d19c0c2ee95fe2997aec",
+      "source_rows": 1909,
+      "from": 1724,
+      "to": 1908
+    },
+    {
+      "file": "06-jquiz-008.jsonl",
+      "sha256": "48c26ae8eb63b3d3272741f93683312ff435ac8fc8995479f96a42045acd0dfc",
+      "source_rows": 2012,
+      "from": 0,
+      "to": 517
+    }
+  ],
+  "reference_quiz_questions": 3006,
+  "new_translations": 703,
+  "previous_total": 29198,
+  "translated_total": 29901,
+  "total_source_ids": 34919,
+  "remaining": 5018,
+  "progress_percent": 85.63,
+  "roles": {
+    "question_line": 259,
+    "answer_option": 444
+  },
+  "manga_codes": {
+    "39": 100,
+    "15": 256,
+    "12": 296,
+    "16": 51
+  },
+  "max_vi_unicode_chars": 37,
+  "new_unique_ids": 703,
+  "cumulative_deltas_038_046": 6305,
+  "checks": {
+    "source_ja_identical": true,
+    "source_quiz_context_identical": true,
+    "reference_quiz_position_identical": true,
+    "id_unique": true,
+    "no_dup_with_038_045": true,
+    "control_tokens_preserved": true,
+    "vi_nonempty": true,
+    "all_vi_at_most_37_unicode_chars": true,
+    "checkpoint_boundary_after_complete_question": true,
+    "correct_answer_tested": false,
+    "visual_pixel_font_tested": false,
+    "nds_rom_tested": false,
+    "translation_accuracy_human_review_complete": false
+  },
+  "new_delta_sha256": "d1a158b3c18172b1b892df34d9987ae1a26b828c375ea3bde7ca43a5bb036c13",
+  "new_merged_sha256": "b6d7dbd889b2f58affddf9cef09dec017d15911a0a155a7cfb34e8d321f0d56b",
+  "source_unusual_char_flags": [
+    {
+      "file": "06-jquiz-007.jsonl",
+      "row_index": 1837,
+      "ja": "富≪丘中学校",
+      "vi": "THCS Tomigaoka",
+      "note": "Ký hiệu bất thường trong nguồn gốc; không tự sửa JA"
+    },
+    {
+      "file": "06-jquiz-008.jsonl",
+      "row_index": 310,
+      "ja": "十祭司シルバが、葉とファウスト♯世の",
+      "vi": "Vì sao tư tế Silva đến muộn",
+      "note": "Ký hiệu bất thường trong nguồn gốc; không tự sửa JA"
+    },
+    {
+      "file": "06-jquiz-008.jsonl",
+      "row_index": 337,
+      "ja": "メフィスト♯世",
+      "vi": "Mephisto VIII",
+      "note": "Ký hiệu bất thường trong nguồn gốc; không tự sửa JA"
+    },
+    {
+      "file": "06-jquiz-008.jsonl",
+      "row_index": 338,
+      "ja": "ファウスト♯世",
+      "vi": "Faust VIII",
+      "note": "Ký hiệu bất thường trong nguồn gốc; không tự sửa JA"
+    }
+  ],
+  "preserved_kanji": [
+    {
+      "file": "06-jquiz-008.jsonl",
+      "row_index": 408,
+      "ja": "衛楠狩罵亜",
+      "vi": "衛楠狩罵亜",
+      "note": "Giữ Hán tự để phân biệt tên/đáp án"
+    }
+  ],
+  "next_checkpoint": {
+    "checkpoint": "047",
+    "file": "06-jquiz-008.jsonl",
+    "row_index": 518
+  },
+  "notes": "Dịch thủ công từ nguồn JA; QA kỹ thuật tĩnh đạt, chưa test pixel/ROM/đáp án đúng. Một số tên romanized dùng quy ước làm việc, chưa xác thực bản English chính thức."
+}
