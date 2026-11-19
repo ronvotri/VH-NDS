@@ -1,39 +1,33 @@
-# Jump Ultimate Stars (Japan) — Checkpoint 046 🇻🇳
+# Jump Ultimate Stars (Japan) — Checkpoint 047 🇻🇳
 
-**Tiến độ: 29.901 / 34.919 (85,63%)** — thêm **703 chuỗi Nhật–Việt mới** so với CP045; còn **5.018 chuỗi**.
+**Tiến độ: 30.601 / 34.919 (87,63%)** — thêm **700 chuỗi Nhật–Việt mới** so với CP046; còn **4.318 chuỗi**.
 
-## Mới nhất — Checkpoint 046 (20/11/2026)
+## Mới nhất — Checkpoint 047 (20/11/2026)
 
-Nguồn gốc đã kiểm tra: `JumpUltimateStars_Japan_BanGiao_Cloud.zip` → `translation/` (dữ liệu trích xuất thực tế).
+Nguồn: `JumpUltimateStars_Japan_BanGiao_Cloud.zip` → `translation/06-jquiz-008.jsonl`; SHA256 `48c26ae8eb63b3d3272741f93683312ff435ac8fc8995479f96a42045acd0dfc` xác minh khớp CP046.
 
-- `06-jquiz-007.jsonl`: **row_index 1724–1908 (185 ID)**, phần cuối *Rurouni Kenshin*, mở đầu *Slam Dunk*. Đã hết tệp 007.
-- `06-jquiz-008.jsonl`: **row_index 0–517 (518 ID)**, nối câu hỏi về giày của Sakuragi, kết thúc phần *Slam Dunk*, tiếp *Shaman King* và mở đầu *Saint Seiya*.
-- Theo mã manga trong nguồn: *Rurouni Kenshin* **100 ID**, *Slam Dunk* **256 ID**, *Shaman King* **296 ID**, *Saint Seiya* **51 ID**.
-- **Checkpoint 047 bắt đầu tại `06-jquiz-008.jsonl`, `row_index=518`**, câu hỏi tiếp theo về *Saint Seiya*.
-- [BAN_DICH_046.jsonl](BAN_DICH_046.jsonl) — bản dịch mới 703 mục, bảo toàn nguyên văn Nhật và metadata.
-- [QA_046.json](QA_046.json) — QA tĩnh nguyên văn, ID, vị trí quiz, SHA256 và ký hiệu bất thường.
-- [BAN_GIAO_046.md](BAN_GIAO_046.md) — hướng dẫn và lưu ý kiểm thử.
-- [BAN_DICH_TONG_HOP_038-046.jsonl](BAN_DICH_TONG_HOP_038-046.jsonl) — **6.305 ID riêng của CP038–046**, **không phải bản gộp 001–046**.
+- `06-jquiz-008.jsonl`: **row_index 518–1217 (700 ID)**, trong đó *Saint Seiya* **575 ID** và *Jungle no Ōja Tar-chan* **125 ID**.
+- Đối chiếu `reference/quiz-questions.jsonl` để giữ đúng vị trí câu hỏi/đáp án; không tự thay đáp án đúng.
+- **CP048 bắt đầu `06-jquiz-008.jsonl`, `row_index=1218`, `question_index=2628`** (*Jungle no Ōja Tar-chan*).
+- [BAN_DICH_047.jsonl](BAN_DICH_047.jsonl) — 700 chuỗi mới, giữ JA/ID/metadata từ nguồn.
+- [BAN_DICH_047.tsv](BAN_DICH_047.tsv) — bảng Nhật–Việt thuận tiện soát.
+- [QA_047.json](QA_047.json) — 700/700 ID qua QA tĩnh, SHA256, ranh giới quiz, token và nguồn bất thường.
+- [BAN_GIAO_047.md](BAN_GIAO_047.md) — bàn giao, giới hạn QA và mốc tiếp.
+- [BAN_DICH_TONG_HOP_038-047.jsonl](BAN_DICH_TONG_HOP_038-047.jsonl) — **7.005 ID riêng CP038–047**, đã tích hợp sửa tên Shunrei ở CP046A. **Không gồm** CP001–037.
 
 ## Khôi phục toàn bộ tiến độ
 
 1. Khôi phục CP001–037 (**23.596 ID**) theo [PHUC_HOI_TONG_HOP_037.md](PHUC_HOI_TONG_HOP_037.md).
-2. Ghép bản tổng hợp CP038–046 (**6.305 ID**) theo ID, từ chối trùng ID. Tổng cần có **29.901 bản ghi duy nhất**.
-3. Áp sửa QA [BAN_DINH_CHINH_037B.jsonl](BAN_DINH_CHINH_037B.jsonl), [BAN_DINH_CHINH_037C.jsonl](BAN_DINH_CHINH_037C.jsonl) và [BAN_DINH_CHINH_046A.jsonl](BAN_DINH_CHINH_046A.jsonl) **bằng ghi đè trường `vi` theo ID**; không nối thêm các overlay.
-4. Giữ quy tắc [THUAT_NGU.json](THUAT_NGU.json), [XUNG_HO_NHAN_VAT.md](XUNG_HO_NHAN_VAT.md).
-
-## Đính chính tên riêng (CP046A, 20/11/2026)
-
-- [BAN_DINH_CHINH_046A.jsonl](BAN_DINH_CHINH_046A.jsonl): tên **Shunrei (春麗)** trong *Saint Seiya*, không dùng `Chun-Li` làm tên canonical. [QA_046A.json](QA_046A.json) ghi rõ 1 ID sửa, **0 ID tăng thêm**.
-- Khi tái tạo bản dịch, overlay thay giá trị `vi` theo ID; file gốc CP046, SHA256 và bản gộp 038–046 đang lưu là snapshot **trước khi áp đính chính này**.
-- [TRANG_THAI_CHUAN_BI_047.md](TRANG_THAI_CHUAN_BI_047.md): mốc tiếp theo từ `06-jquiz-008.jsonl` row 518. [CHUAN_BI_NGUON_047.py](CHUAN_BI_NGUON_047.py) trích nguồn Nhật từ ZIP và kiểm SHA256/điểm nối. **CP047 chưa có bản dịch mới**, tiến độ vẫn là 29.901 / 34.919.
+2. Ghép bản tổng hợp CP038–047 (**7.005 ID**) theo ID, từ chối trùng ID; tổng phải **30.601 bản ghi**.
+3. Áp overlay [BAN_DINH_CHINH_037B.jsonl](BAN_DINH_CHINH_037B.jsonl) và [BAN_DINH_CHINH_037C.jsonl](BAN_DINH_CHINH_037C.jsonl) **bằng ghi đè `vi` theo ID**, không cộng bản ghi. Sửa CP046A **đã có** trong bản gộp 038–047 nên không cần áp lại; với file CP046 cũ, có thể dùng [BAN_DINH_CHINH_046A.jsonl](BAN_DINH_CHINH_046A.jsonl).
+4. Duy trì [THUAT_NGU.json](THUAT_NGU.json) và [XUNG_HO_NHAN_VAT.md](XUNG_HO_NHAN_VAT.md).
 
 ## Trạng thái QA
 
-- **703/703 ID** không trùng, không rỗng, không trùng với các đợt 038–045; trường gốc `ja`, `id`, `quiz_context` và metadata khác được giữ từ ZIP.
-- Đối chiếu từng vị trí câu hỏi–đáp án với `reference/quiz-questions.jsonl`, bảo toàn token như `<IDEOSP>`.
-- Bản Việt không vượt **37 ký tự Unicode/dòng**; đây không phải QA chiều rộng font pixel.
-- Có **4 dòng nguồn Nhật** chứa ký hiệu cần xem lại và **1 đáp án** tạm giữ Hán tự để phân biệt với lựa chọn khác. Tên phiên âm Latin cần soát lại khi tích hợp ROM.
-- **Chưa kiểm thử đáp án đúng, hình minh họa, font tiếng Việt, ROM hay gameplay NDS.** Đây là **dữ liệu dịch văn bản**, chưa phải ROM patch chơi được.
+- **700/700** chuỗi CP047: JA, ID, metadata và `quiz_context` giữ từ nguồn; đối chiếu đúng các vị trí trong `reference/quiz-questions.jsonl`.
+- Không có ID trùng với 6.305 ID CP038–046; `vi` không rỗng và tối đa **37 ký tự Unicode/dòng** (thực tế CP047 tối đa **36**).
+- Token điều khiển như `<IDEOSP>` được giữ nguyên. Nguồn Nhật tại `row_index=936` có ký hiệu `≪` bất thường, giữ nguyên trường JA và báo trong QA.
+- **Chưa kiểm tra đáp án đúng/sai, bản hiển thị quiz có ảnh, font pixel, bản vá ROM hay gameplay NDS.** Tên phiên âm hiếm cần rà trước khi phát hành patch hoàn chỉnh.
+- Bản gộp 038–047 đã đổi `春麗` từ `Chun-Li` thành **Shunrei** (đính chính CP046A).
 
 Repository: `ronvotri/VH-NDS`, nhánh `vh/jump-ultimate-stars-japan`, thư mục `Jump-Ultimate-Stars-Japan/`.
