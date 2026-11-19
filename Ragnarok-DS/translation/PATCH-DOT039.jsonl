@@ -1,0 +1,545 @@
+{"id": "RDS-21e69bbdb95764ea9946", "vi": "Viselc<C3000><CFFFD><CFFFB>, Guild của chúng ta vẫn<CFFFD>chẳng ai biết tới."}
+{"id": "RDS-c99f161f74a3b7ddcf18", "vi": "<CFFFB><CFFFD>Ừ, nhưng Guild mình<CFFFD>vừa được công nhận mà."}
+{"id": "RDS-e239be5ea43bad36ce27", "vi": "Viselc<C3000><CFFFD>Thiếu danh tiếng thế này<CFFFD>sẽ bất lợi đấy."}
+{"id": "RDS-fbc358576c48a1928635", "vi": "<CFFFB><CFFFD>Bất lợi sao?"}
+{"id": "RDS-10d5c44e4df19f2d60b2", "vi": "Viselc<C3000><CFFFD>Mọi người thường tin tưởng<CFFFD>các Guild có tên tuổi hơn.<CFFFC>Viselc<C3000><CFFFD>Chúng ta có thể mất Quest<CFFFD>vì chưa tạo được uy tín."}
+{"id": "RDS-ae5ea89f21331a052f2f", "vi": "<CFFFB><CFFFD>Vậy giờ tính sao?"}
+{"id": "RDS-c5908aa49654bd3c7e4d", "vi": "Viselc<C3000><CFFFD>Hãy đi quanh thành phố<CFFFD>tìm Quest có thể nhận.<CFFFC>Viselc<C3000><CFFFD>Từng bước xây dựng<CFFFD>danh tiếng cho Guild."}
+{"id": "RDS-1344a6f76d5f1098c033", "vi": "Viselc<C3000><CFFFD>Càng được mọi người tin cậy,<CFFFD>Guild càng nổi tiếng.<CFFFC>Viselc<C3000><CFFFD>Khi ấy, họ sẽ tự tìm đến<CFFFD>nhờ chúng ta giúp đỡ."}
+{"id": "RDS-07c12f4821928ccdc40e", "vi": "Viselc<C3000><CFFFD>Ừm...<CFFFC>Viselc<C3000><CFFFD>Đạt hạng \"Rumored\"<CFFFD>là ổn rồi."}
+{"id": "RDS-4fd3366101284896391e", "vi": "Viselc<C3000><CFFFD>Danh tiếng hiện tại<CFFFC>Viselc<C3000><CFFFD>có thể xem ở menu<CFFFD>thông tin Guild hoặc tại Guild."}
+{"id": "RDS-4f52ae296bb1bec2a6f3", "vi": "<CFFFB><CFFFD>Được! Đi tìm<CFFFD>việc làm thôi!"}
+{"id": "RDS-8af6d9c27bc9de96db77", "vi": "Viselc<C3000><CFFFD><CFFFB>,<CFFFD>cứ nhận thêm Quest nhé.<CFFFC>Viselc<C3000><CFFFD>Cho đến khi Guild<CFFFD>đạt hạng \"Rumored\"."}
+{"id": "RDS-13790cbe95a9c6882dd2", "vi": "<CFFFB><CFFFD>Nghe hợp lý đấy!"}
+{"id": "RDS-b933b71e1233d86df810", "vi": "<CFFFB><CFFFD>*Phù*... Sắp lên hạng<CFFFD>\"Rumored\" rồi nhỉ?"}
+{"id": "RDS-27cd9bd708e715a07c21", "vi": "<CFFFD>Danh tiếng Guild đã tăng!"}
+{"id": "RDS-48090eef534e705f53a2", "vi": "<CFFFB><CFFFD>Vậy là Guild mình<CFFFD>đã đạt hạng \"Rumored\".<CFFFC><CFFFB><CFFFD>Mong là khách sẽ tự<CFFFD>tìm đến giao Quest.<CFFFC><CFFFB><CFFFD>Về Guild thôi!"}
+{"id": "RDS-7d38e4a58f171e742ac2", "vi": "Lisir<C3000><CFFFD><CFFFB>!<CFFFD>Chúng ta chưa đủ nổi tiếng đâu!"}
+{"id": "RDS-77f1e291178fea3badcb", "vi": "<CFFFA><CFFFD>?<CFFFC><CFFFB><CFFFD>Sao? Vì sao chứ?"}
+{"id": "RDS-e7e1e400761ca4046365", "vi": "Lisir<C3000><CFFFD>Cứ thế này thì<CFFFD>chẳng có khách nào tới.<CFFFC>Lisir<C3000><CFFFD>Guild mà không có khách<CFFFD>thì tồn tại làm gì!"}
+{"id": "RDS-0ff194c5829ec13011ed", "vi": "Lisir<C3000><CFFFD>Phải đi tìm thêm<CFFFD>những Quest có thể nhận<CFFFC>Lisir<C3000><CFFFD>để tăng danh tiếng!"}
+{"id": "RDS-f0831983251414acacdf", "vi": "<CFFFB><CFFFD>Ừ-ừ..."}
+{"id": "RDS-4541739882f6fe0a0213", "vi": "Lisir<C3000><CFFFD>Hừm...<CFFFC>Lisir<C3000><CFFFD>Ít ra Guild phải đạt<CFFFD>hạng \"Competent\" đã.<CFFFC>Lisir<C3000><CFFFD>Khách mới đủ tin<CFFFD>để giao việc cho mình."}
+{"id": "RDS-bd18ec1963bbf5dfd9ea", "vi": "<CFFFB><CFFFD>...Được rồi.<CFFFC><CFFFB><CFFFD>Có lẽ nên sang<CFFFD>các thành phố khác tìm việc."}
+{"id": "RDS-50e23c7a727ae5f66277", "vi": "Lisir<C3000><CFFFD>Có thế chứ!"}
+{"id": "RDS-0c1c7286b157832c4cab", "vi": "<CFFFA><CFFFD>Được, nhanh lên nào!"}
+{"id": "RDS-5bdd3df315b4b6d087e5", "vi": "Lisir<C3000><CFFFD>Danh tiếng hiện tại<CFFFC>Lisir<C3000><CFFFD>có thể xem trong menu<CFFFD>thông tin Guild hoặc tại Guild."}
+{"id": "RDS-565dcd2b4521a0cda3e2", "vi": "Lisir<C3000><CFFFD><CFFFB>,<CFFFD>cố thêm chút nữa nhé.<CFFFC>Lisir<C3000><CFFFD>Đưa danh tiếng Guild<CFFFD>lên hạng \"Competent\"."}
+{"id": "RDS-a0f8130c07b272ec9959", "vi": "<CFFFB><CFFFD>Ừ, tôi biết rồi."}
+{"id": "RDS-ffc74c1aceb67d52f43d", "vi": "<CFFFA><CFFFD>Cùng cố gắng nhé!"}
+{"id": "RDS-77bac1cbb564ce2c1140", "vi": "<CFFFB><CFFFD>Phải làm thêm Quest<CFFFD>để lên hạng \"Competent\"."}
+{"id": "RDS-791e65160ead9365ef7f", "vi": "<CFFFB><CFFFD>Chỉ vài Quest nữa là<CFFFD>đạt hạng \"Competent\".<CFFFC><CFFFB><CFFFD>Nào, đi tìm việc tiếp!"}
+{"id": "RDS-e57fe5f6604d286a5e8a", "vi": "<CFFFB><CFFFD>Danh tiếng Guild đã tăng!"}
+{"id": "RDS-f8d67f66f17f75fe0ca7", "vi": "<CFFFB><CFFFD>Vậy là Guild mình<CFFFD>đã đạt hạng \"Competent\".<CFFFC><CFFFB><CFFFD>Hy vọng sẽ nhận thêm Quest.<CFFFC><CFFFB><CFFFD>Về Guild thôi!"}
+{"id": "RDS-b8c46c69140c2997d8a9", "vi": "Milika"}
+{"id": "RDS-ee044b324cd345f6a1eb", "vi": "Knight"}
+{"id": "RDS-aa83954970cd37e5dedc", "vi": "Roni"}
+{"id": "RDS-664a0d7a83a4e3cb4284", "vi": "Chủ quán rượu"}
+{"id": "RDS-3ed6dbace7f86233d947", "vi": "Người dân"}
+{"id": "RDS-e27936e79eeb87555780", "vi": "Cậu bé"}
+{"id": "RDS-9649d02574ff02da56b4", "vi": "Magician"}
+{"id": "RDS-4ddb3f5a9cb9979fb0e4", "vi": "Cô gái ở nhà trọ"}
+{"id": "RDS-61906fe584a2f3818aa3", "vi": "Người ở tiệm vũ khí"}
+{"id": "RDS-14fae6731c369ee9cc76", "vi": "Cô gái"}
+{"id": "RDS-3dd929b63dcac9781bbd", "vi": "Joyce"}
+{"id": "RDS-f0798b01e4c543b95424", "vi": "Daksten"}
+{"id": "RDS-c42184da481cce62b6af", "vi": "Sedi"}
+{"id": "RDS-663bd2ee8c728ee23c23", "vi": "Lily"}
+{"id": "RDS-1e7a52e3f89f5bb16055", "vi": "Dogerel"}
+{"id": "RDS-ea70cb2ac653a6579ab2", "vi": "Sa'ab"}
+{"id": "RDS-6670f9505eac094ea31c", "vi": "Karen"}
+{"id": "RDS-f32772af874840d03cad", "vi": "Rich"}
+{"id": "RDS-1930958de3f05a606aca", "vi": "Stefan"}
+{"id": "RDS-7829cb91e63a1342fa36", "vi": "Guildmaster"}
+{"id": "RDS-e8aa937913929d5122d2", "vi": "Thầy hướng dẫn Thief"}
+{"id": "RDS-dfa1c34e2285cfe6a631", "vi": "Thầy hướng dẫn Archer"}
+{"id": "RDS-97ab5a70a0739349427d", "vi": "Thầy hướng dẫn Merchant"}
+{"id": "RDS-4d62c06a76e894159943", "vi": "Taekwon Master"}
+{"id": "RDS-73a23a8be3f0dd116dd5", "vi": "Gordon"}
+{"id": "RDS-3b8fa04f092ff007ae14", "vi": "Lime"}
+{"id": "RDS-f62c49e3422bcd07c455", "vi": "Allen"}
+{"id": "RDS-acf01af296898d633b5b", "vi": "Brent"}
+{"id": "RDS-e15268975266451f61e9", "vi": "Sarah"}
+{"id": "RDS-7681e3bb31bcf3d0d565", "vi": "Olav"}
+{"id": "RDS-d88ae9ea35f3f3d3aa26", "vi": "Lughill"}
+{"id": "RDS-f7e5aa535e5b45935646", "vi": "Prontera Order of Knights"}
+{"id": "RDS-22d93594ddeb204858f8", "vi": "Viselc"}
+{"id": "RDS-aa362fd5d46e9623b4b0", "vi": "Yolanda"}
+{"id": "RDS-3808dd3e9ae8aac4866a", "vi": "Lisir"}
+{"id": "RDS-e0f69ec7d7f5b42e7d55", "vi": "Gale"}
+{"id": "RDS-fbd46ffdd2c7ea911dec", "vi": "Skal"}
+{"id": "RDS-06f1c88673de71575001", "vi": "Binh lính"}
+{"id": "RDS-6dd04543d5a0cbfeab03", "vi": "Thợ rèn"}
+{"id": "RDS-596f7a62e802aaea052b", "vi": "Sonya"}
+{"id": "RDS-ac190da34815d20fdfb3", "vi": "Sopborough"}
+{"id": "RDS-9e301e315117cf6ae129", "vi": "Ông chủ"}
+{"id": "RDS-608c250e636411574fde", "vi": "Mint"}
+{"id": "RDS-394eeb1661c510331cd4", "vi": "Cliff"}
+{"id": "RDS-da8198f946e7e2ce1d4c", "vi": "Malone"}
+{"id": "RDS-4b76da24db5e576a483a", "vi": "Rick"}
+{"id": "RDS-f87d136732ab10a0cafc", "vi": "Zeeter"}
+{"id": "RDS-3dadf663bf226e3fadc0", "vi": "Lucifi"}
+{"id": "RDS-0a643e153abcc4d04018", "vi": "Attar"}
+{"id": "RDS-a45a9ba32921a7129156", "vi": "Barghill"}
+{"id": "RDS-8d3442b3f89ea9ad6c69", "vi": "Ashley"}
+{"id": "RDS-da8124d556c95f7d75c2", "vi": "Master Phuong"}
+{"id": "RDS-20c1a6afe9ecb47740e3", "vi": "Gabera"}
+{"id": "RDS-cc94696e0bd901392934", "vi": "Natsume"}
+{"id": "RDS-768d6e287f1f843b2bbc", "vi": "Pott"}
+{"id": "RDS-7d869f7877f82629e29a", "vi": "Lilac"}
+{"id": "RDS-580947ffba136ac6e7ee", "vi": "Sogard"}
+{"id": "RDS-5cbc852f2d95967fcce3", "vi": "Người phụ nữ bí ẩn"}
+{"id": "RDS-98fbaff82e3ea74e980d", "vi": "Dark Magician"}
+{"id": "RDS-53f63aa0404ec463a95a", "vi": "Oscar"}
+{"id": "RDS-485d7a8bde4852b55b12", "vi": "Shiva"}
+{"id": "RDS-78ef7dbe004375090967", "vi": "Sherry"}
+{"id": "RDS-35af6a0f6cf7d67d2539", "vi": "Rachel"}
+{"id": "RDS-6b4f1ddde135b080a1b8", "vi": "Jack"}
+{"id": "RDS-c2bb41d1d54f8afc39b1", "vi": "Liam"}
+{"id": "RDS-5a27c3ba7ae693b642f0", "vi": "Chủ tiệm Item"}
+{"id": "RDS-9cd21cbeea7db85be94f", "vi": "Thương nhân Morocc"}
+{"id": "RDS-dd225e454c1688daa1c5", "vi": "Thẩm phán"}
+{"id": "RDS-acbb0314cfd54c587836", "vi": "Setsuna"}
+{"id": "RDS-db4e22af5f651be5567b", "vi": "Jiro"}
+{"id": "RDS-e04e027b4d3dfa3fa70e", "vi": "Marco"}
+{"id": "RDS-fce563c21aad2a7ffa1a", "vi": "Jim"}
+{"id": "RDS-40c04e74daebc2e5cf00", "vi": "Thầy hướng dẫn Magician"}
+{"id": "RDS-89c547aa583ff9c83e40", "vi": "Thầy hướng dẫn Swordsman"}
+{"id": "RDS-65719badb48705193360", "vi": "Clay"}
+{"id": "RDS-8b427980e8adcc90283e", "vi": "Tiệm vũ khí"}
+{"id": "RDS-62b1c970d7d7f5bec813", "vi": "Không có"}
+{"id": "RDS-291b0082e6e2a2388bd1", "vi": "Ông lão khả nghi"}
+{"id": "RDS-aed5f6e49368fb4e26dd", "vi": "Chàng trai"}
+{"id": "RDS-add437159f179e976a4a", "vi": "Misha"}
+{"id": "RDS-a6f7da025fde70a26634", "vi": "Julietta"}
+{"id": "RDS-a8fa0c3b9051c87e0f45", "vi": "Edwin"}
+{"id": "RDS-2560821fefac612cd6e1", "vi": "Chỉ huy"}
+{"id": "RDS-78578a0b5424fbfd484a", "vi": "Nhân viên Guild"}
+{"id": "RDS-46d3b5af70f9bddbaf10", "vi": "Biger"}
+{"id": "RDS-fb69fb2c7a42ca59d649", "vi": "Người đàn ông"}
+{"id": "RDS-0116c2f5ba163250c79e", "vi": "Gin"}
+{"id": "RDS-88418efd641fd818088b", "vi": "Marie"}
+{"id": "RDS-34ba3e2fd5c03d9496ef", "vi": "Fritz"}
+{"id": "RDS-156d4d5074bba54554c9", "vi": "Jenny"}
+{"id": "RDS-a11448e1075a9d14da85", "vi": "Jazz"}
+{"id": "RDS-e21af4fa6e6908f5e565", "vi": "Bughill"}
+{"id": "RDS-89514d049ecea53732ad", "vi": "Master Li"}
+{"id": "RDS-3b86268a52b1ab529908", "vi": "Rolek"}
+{"id": "RDS-46cc9e049ecf93aacd80", "vi": "Merchant"}
+{"id": "RDS-53bebbf74b0c359987ba", "vi": "Akari"}
+{"id": "RDS-979dd1b3fea6d1d11f68", "vi": "Nina"}
+{"id": "RDS-1cd5907eb82151913371", "vi": "Giao Item"}
+{"id": "RDS-8e44b6fb8920b34275ce", "vi": "Tiêu diệt quái"}
+{"id": "RDS-6f8e732fc07d37f74641", "vi": "Quảng cáo tiệm vũ khí"}
+{"id": "RDS-c97adc261be40e44dcfa", "vi": "Nói chuyện với cô gái"}
+{"id": "RDS-3eb4c477ff97c0653d95", "vi": "Báo cáo"}
+{"id": "RDS-30230cbd37f21419c2b2", "vi": "Vứt bỏ Item"}
+{"id": "RDS-7fa7d24ccb26bfaa5c49", "vi": "Tìm viên đá phát sáng"}
+{"id": "RDS-bb45b6b679ebb5b089b6", "vi": "Đến Prontera"}
+{"id": "RDS-c6d552bdd08673ca31e7", "vi": "Tìm Dog Tag"}
+{"id": "RDS-105dd9031a418a72a4a1", "vi": "Tìm ông lão"}
+{"id": "RDS-7f673bd9b442bfae09df", "vi": "Tìm Colm"}
+{"id": "RDS-141465ffa25dcab9c9c2", "vi": "Tìm kho báu của Aghill"}
+{"id": "RDS-fe9da5a4c355f1fe13de", "vi": "Săn quái ở Prontera Culvert"}
+{"id": "RDS-172d303ace54d1404166", "vi": "Quái vật sa mạc"}
+{"id": "RDS-9fd74bfdc05183602fb6", "vi": "Tìm Popi"}
+{"id": "RDS-a1dbf3988ae390d4b23e", "vi": "Báo thù"}
+{"id": "RDS-c7010869715be0043fe1", "vi": "Tài liệu nghiên cứu thất lạc"}
+{"id": "RDS-3e80e71b5b9b9f3760b2", "vi": "Tìm High Orc Helm"}
+{"id": "RDS-94be3bb13350ffa21247", "vi": "F File thất lạc"}
+{"id": "RDS-1c203a02390091296f53", "vi": "Item"}
+{"id": "RDS-9732aefb6c1e2bf6ad1a", "vi": "Tìm người"}
+{"id": "RDS-b0b289fc4a6609891806", "vi": "Đến địa điểm chỉ định"}
+{"id": "RDS-1a1deef9381003d668dd", "vi": "Đấu một chọi một"}
+{"id": "RDS-1ea6c3257f1caa90ddeb", "vi": "Hộ tống"}
+{"id": "RDS-beccb25f59f6dbbc93e1", "vi": "Đến khu vực chỉ định"}
+{"id": "RDS-032eed4aba9c196e7318", "vi": "Nói chuyện với người chỉ định"}
+{"id": "RDS-128b6b94c3d055cc85c4", "vi": "Đột nhập khu vực chỉ định"}
+{"id": "RDS-b7938213ad7d06831730", "vi": "Đưa Colm về nhà"}
+{"id": "RDS-462ecc0099cecec65082", "vi": "Tìm Boss"}
+{"id": "RDS-c7710642b496cac9b595", "vi": "Thu thập Item chỉ định"}
+{"id": "RDS-3b829216ac4425259816", "vi": "Tiêu diệt Frione"}
+{"id": "RDS-728cfe7cf910c6cc44af", "vi": "Tiêu diệt rồng"}
+{"id": "RDS-bfcbf396a7a4468ea6d8", "vi": "Đuổi theo Lisir"}
+{"id": "RDS-68e36fb3b111422adcaf", "vi": "Giúp bạn cũ của Viselc"}
+{"id": "RDS-fa8a8b9ad75899afdc8a", "vi": "Hoàn thành yêu cầu tiệm Item"}
+{"id": "RDS-9f7ba3628479b4b332ff", "vi": "Gặp Lisir"}
+{"id": "RDS-0f76c4cef81c68628b69", "vi": "Tìm nguồn cơn bệnh dịch"}
+{"id": "RDS-8a10d707b45690919055", "vi": "Giải bí ẩn khu rừng"}
+{"id": "RDS-9aebc990bc9932b5d328", "vi": "Tìm Card Key"}
+{"id": "RDS-5c1be4fd0f0ad2b0561e", "vi": "Thoát qua đèo"}
+{"id": "RDS-e6e258fe172a31ddc30d", "vi": "Tìm lối bí mật vào phòng thí nghiệm"}
+{"id": "RDS-5253ea1b925d20354012", "vi": "Khắc phục tai họa trong rừng"}
+{"id": "RDS-098ec87388537a253477", "vi": "Săn phù thủy"}
+{"id": "RDS-98376278d164050d5af0", "vi": "Giành chiến thắng"}
+{"id": "RDS-3dc4a29e43a7a47488fc", "vi": "Điều tra ốc đảo"}
+{"id": "RDS-5907c668bf36b0a90aad", "vi": "Cứu cha"}
+{"id": "RDS-547199a79cc189961de4", "vi": "Đến Order of Knights"}
+{"id": "RDS-45323dedf140296ac1db", "vi": "Gặp bạn cũ của Viselc"}
+{"id": "RDS-8735e68c7f6be9e741a3", "vi": "Hoàn thành nhiều yêu cầu"}
+{"id": "RDS-4a0a60a9cff68f37ecec", "vi": "Bước đầu thành nhà phiêu<CFFFD>lưu: tìm một Clean Stone<CFFFD>trong Yusidra Caves."}
+{"id": "RDS-00ed20d8b8278e1e6044", "vi": "Rời khỏi hang động."}
+{"id": "RDS-758f04f1d2673988a388", "vi": "Đến Prontera,<CFFFD>thành phố nằm phía<CFFFD>nam hang động."}
+{"id": "RDS-0d3f6222d40f717c7090", "vi": "Đến Order of Knights<CFFFD>để tìm hiểu tình hình<CFFFD>tại Prontera Culvert."}
+{"id": "RDS-8267e44b42374b43ffe3", "vi": "Tìm Dog Tag cần để tham<CFFFD>gia chiến dịch diệt<CFFFD>quái ở Prontera Culvert."}
+{"id": "RDS-35693f3c5f54304005a7", "vi": "Mang Dog Tag trở lại<CFFFD>Order of Knights."}
+{"id": "RDS-1a984439d7da42fb81b0", "vi": "Nghe nói ông lão đang ở<CFFFD>quán rượu. Hãy tìm ông ấy."}
+{"id": "RDS-0d2a88bf70ce956fe7b8", "vi": "Tìm cậu bé mất tích. Trước<CFFFD>hết, kiểm tra Prontera Woods."}
+{"id": "RDS-0fe8661229f9a8263168", "vi": "Đã tìm thấy Colm an<CFFFD>toàn. Đưa cậu bé về<CFFFD>gặp Olav ở quán rượu."}
+{"id": "RDS-056eb033ef50fdd625d7", "vi": "Đến Geffen, thành phố<CFFFD>phép thuật, để hỏi thêm<CFFFD>về công việc Olav đã kể."}
+{"id": "RDS-5b47479edd61f5d976d0", "vi": "Đường tới Geffen đang thi<CFFFD>công. Hãy tìm đốc công<CFFFD>ở quán rượu Prontera."}
+{"id": "RDS-b32e3ed996afa6f5627a", "vi": "Nghe nói đốc công đi về<CFFFD>phía hồ tại East Prontera<CFFFD>Woods. Hãy tìm ông ấy!"}
+{"id": "RDS-038ecfa7e555dd64d2ec", "vi": "Đường đến Geffen đã<CFFFD>thông! Lên đường thôi!"}
+{"id": "RDS-08167d40a888d11f034b", "vi": "Đến Mjolnir Dead Pit để tìm<CFFFD>kho báu Aghill cất giấu."}
+{"id": "RDS-214f909474bd74c21c89", "vi": "Đường tới Mjolnir Dead Pit<CFFFD>bị lở đất chặn. Tìm các<CFFFD>Item Viselc cần để mở đường!"}
+{"id": "RDS-7dfe727f9f939ba732a5", "vi": "Đường tới Mjolnir Dead<CFFFD>Pit đã mở! Hãy vào hầm mỏ!"}
+{"id": "RDS-6aa97aad39d844e90855", "vi": "Nghe nói kho báu nằm<CFFFD>sâu trong hầm mỏ. Hãy<CFFFD>tiến vào tận trong cùng."}
+{"id": "RDS-c569427381239c2ac819", "vi": "Kho báu của Aghill chỉ là trò<CFFFD>lừa! Tìm Lughill để tra hỏi."}
+{"id": "RDS-25d577cd51b58b7fb400", "vi": "Người biết chỗ tìm<CFFFD>Emperium có vẻ đang<CFFFD>ở quán rượu Prontera."}
+{"id": "RDS-39bb2bcdc668b1a2aeb8", "vi": "Đến Order of Knights kiểm<CFFFD>tra việc chuẩn bị cho<CFFFD>chiến dịch diệt quái."}
+{"id": "RDS-5c3f6f8b9a15be34bf14", "vi": "Các Knight đã xuất phát.<CFFFD>Hãy cùng họ vào Prontera<CFFFD>Culvert diệt quái!"}
+{"id": "RDS-1e57e1113db72e4ae1c5", "vi": "Boss đã bỏ trốn! Bắt<CFFFD>nó trước khi thoát<CFFFD>khỏi Prontera Culvert!"}
+{"id": "RDS-d55f0576dec2f36307a7", "vi": "Đã hạ Boss. Trở về<CFFFD>báo cáo cho chỉ huy."}
+{"id": "RDS-002b4f8f7a915ed57067", "vi": "Đoàn xe của Viselc bị<CFFFD>quái tấn công tại Sograt<CFFFD>Desert. Tìm và hạ chúng!"}
+{"id": "RDS-d3141503576eaa33560c", "vi": "Đã diệt lũ quái tấn<CFFFD>công đoàn xe của Viselc.<CFFFD>Tiếp tục đến Morocc."}
+{"id": "RDS-b7c5ca1a7b94568a0ee3", "vi": "Đến hầm ngục Ant<CFFFD>Hell và tìm con<CFFFD>quái tên Frione."}
+{"id": "RDS-d63746cb91c40bc23144", "vi": "Đã lấy được Frione Tear.<CFFFD>Mang đến cho Aldo!"}
+{"id": "RDS-389b62728a8bc9b8f917", "vi": "Nghe nói có Emperium<CFFFD>trong Yusidra Caves.<CFFFD>Nhưng hãy coi chừng rồng!"}
+{"id": "RDS-d2bfd6af7dcb271575eb", "vi": "Đã hạ rồng và tìm được<CFFFD>Emperium. Trước tiên<CFFFD>mang thư cho Aldo."}
+{"id": "RDS-ad35bcc17b07198ba2d3", "vi": "Mang Emperium đến<CFFFD>Order of Knights để<CFFFD>xin thành lập Guild!"}
+{"id": "RDS-d554fb8b39c5a79e16a8", "vi": "Popi yêu quý của cô<CFFFD>Yolanda bị mất tích trong<CFFFD>Ant Hell. Mau tìm nó!"}
+{"id": "RDS-48622508147ce98a779a", "vi": "Dù kết quả thế nào, Popi<CFFFD>đã được tìm thấy an toàn.<CFFFD>Báo cho cô Yolanda."}
+{"id": "RDS-981e2d94ecd9358048a9", "vi": "Đã xong yêu cầu của cô Yolanda.<CFFFD>Tạm thời về Guild thôi."}
+{"id": "RDS-7d58f67eaeb020b30f12", "vi": "Order triệu tập.<CFFFD>Hãy cùng Lucifi đến<CFFFD>Order of Knights."}
+{"id": "RDS-79deeea92b51cb23f0c7", "vi": "Hợp tác với Order,<CFFFD>giúp Lucifi vượt<CFFFD>qua nỗi sợ ma."}
+{"id": "RDS-20953be43c39d8e48587", "vi": "Lucifi đã chống lại<CFFFD>được con ma. Trở<CFFFD>về báo cáo Order!"}
+{"id": "RDS-eed677e0babc62294a66", "vi": "Rốt cuộc Lucifi<CFFFD>vẫn sợ ma... Thôi<CFFFD>thì về Guild vậy."}
+{"id": "RDS-8fbf4262acd74406f21b", "vi": "Lisir hành động lạ quá...<CFFFD>Cô ấy đến Prontera<CFFFD>Woods. Đuổi theo!"}
+{"id": "RDS-79caa66a92f0c3f160fc", "vi": "Lisir đi về Sograt<CFFFD>Desert. Mau đuổi theo!"}
+{"id": "RDS-c4322b10c03b348e6f21", "vi": "Lisir đã vào Ant Hell.<CFFFD>Tìm cô ấy trong hầm ngục."}
+{"id": "RDS-a89eae741bc96d472107", "vi": "Ừm... Bám đuôi người<CFFFD>khác chẳng hay ho<CFFFD>gì. Về Guild thôi."}
+{"id": "RDS-2583c608424fae76768e", "vi": "Cùng Viselc<C3000><CFFFD>đến quán rượu nghe lời<CFFFD>nhờ vả của bạn cũ."}
+{"id": "RDS-aa62ea63cd2ad6a48fae", "vi": "Tìm thủ phạm thật<CFFFD>trong Prontera Culvert<CFFFD>để cứu bạn Viselc!"}
+{"id": "RDS-efa6caccb7c2879ae718", "vi": "Đã xử lý tên trộm ảo<CFFFD>ảnh và báo Order. Đến<CFFFD>quán rượu báo Pott!"}
+{"id": "RDS-ec538463626d45ec4be9", "vi": "Bạn cũ Viselc đã<CFFFD>được cứu. Anh ấy vui<CFFFD>lắm. Về Guild thôi!"}
+{"id": "RDS-d033c097b4da0ae42fe4", "vi": "Nhận thêm nhiều Quest để<CFFFD>nâng danh tiếng Guild!"}
+{"id": "RDS-04296a24d08435a738db", "vi": "Danh tiếng Guild<CFFFD>tạm đủ rồi. Về<CFFFD>Guild bàn tính tiếp."}
+{"id": "RDS-56fc837586ad2ff5a461", "vi": "Đến tiệm Item ở<CFFFD>Geffen, thay Edwin<CFFFD>hoàn thành yêu cầu."}
+{"id": "RDS-2d6d293e62b8af4453d4", "vi": "Đã hoàn thành Quest<CFFFD>Edwin giao lại.<CFFFD>Trở về Guild."}
+{"id": "RDS-0bf9c8030ba0f0d7c22a", "vi": "Lisir có gì đó không ổn. Theo<CFFFD>cô ấy đến Mjolnir Dead Pit."}
+{"id": "RDS-b3cf28e3ba15a654df96", "vi": "Đã gặp lại Lisir an<CFFFD>toàn. Về Guild thôi."}
+{"id": "RDS-313852aae21f6deb796b", "vi": "Nhận thêm Quest để<CFFFD>tăng danh tiếng Guild!"}
+{"id": "RDS-12bcd450b45aca767aea", "vi": "Chắc danh tiếng<CFFFD>Guild đã đủ rồi.<CFFFD>Trở về thôi."}
+{"id": "RDS-fa3cb7e9f80971c77e16", "vi": "Thương nhân từ Morocc<CFFFD>nhờ giúp! Đến đó tìm<CFFFD>nguyên nhân dịch bệnh!"}
+{"id": "RDS-93f33cf1c8e422b3edc2", "vi": "Tìm Phantom Oasis trong<CFFFD>Eternal Sand theo lời<CFFFD>đồn để cứu Morocc!"}
+{"id": "RDS-9bf71d52a0b551494c03", "vi": "Đã loại bỏ nguyên<CFFFD>nhân căn bệnh bí<CFFFD>ẩn. Trở về Morocc."}
+{"id": "RDS-eef6286298ac83ca9f7e", "vi": "Quest đã hoàn thành.<CFFFD>Trở về Guild thôi."}
+{"id": "RDS-53a4c3e367198be4b656", "vi": "East Prontera Woods xảy<CFFFD>ra chuyện lạ. Tìm nguyên<CFFFD>nhân và giải quyết."}
+{"id": "RDS-5f3007dcd5f47f0a6c51", "vi": "Đã hạ những con quái<CFFFD>gây tai họa. Trở về<CFFFD>báo cáo cho Order."}
+{"id": "RDS-4c9b8943ab919e634a72", "vi": "Đã nộp báo cáo, Quest<CFFFD>hoàn tất. Về Guild thôi."}
+{"id": "RDS-271cee1e17070082dc1a", "vi": "Gặp Skal ở tiệm rèn<CFFFD>Juno để lấy Card Key."}
+{"id": "RDS-805eccf326fe25c95e07", "vi": "Đến El Mes Gorge<CFFFD>lấy High Orc Helm<CFFFD>từ một con High Orc."}
+{"id": "RDS-0f9e02dfb3045d2fa8a5", "vi": "Đã lấy được High<CFFFD>Orc Helm. Mang về<CFFFD>Juno cho Skal."}
+{"id": "RDS-084478e23cc6a5d31c23", "vi": "Đã có Card Key.<CFFFD>Về Guild hỏi Gales<C3000><CFFFD>tài liệu nghiên cứu ở đâu."}
+{"id": "RDS-dcc2d84b1610c5c12562", "vi": "Đột nhập Somatology Laboratory<CFFFD>ở Lighthalzen để lấy F File!"}
+{"id": "RDS-204f5c28f85ece7e0e1e", "vi": "Chúng ta đã mắc bẫy.<CFFFD><CFFFA> gặp nguy rồi!<CFFFD>Mau quay về Guild!"}
+{"id": "RDS-2059579e876c827f7bf9", "vi": "Airship rơi sau khi bị<CFFFD>tấn công. Con đèo này dẫn<CFFFD>về vương quốc. Mau đi!"}
+{"id": "RDS-ce2734e5086ccd51dbd0", "vi": "Đã vượt qua con đèo<CFFFD>an toàn, về đến vương<CFFFD>quốc rồi. Trở về Guild!"}
+{"id": "RDS-43dbf97a51a73012c41d", "vi": "<CFFFA> mất tích rồi.<CFFFD>Nghe nói cô ấy đã đến<CFFFD>Somatology Laboratory..."}
+{"id": "RDS-52b195fa17568f2da7c0", "vi": "Dường như có lối sau<CFFFD>vào phòng thí nghiệm tại<CFFFD>Lighthalzen. Tìm thôi."}
+{"id": "RDS-f06baff2836f2338a06e", "vi": "Rouche ở quán rượu bảo<CFFFD>hãy gặp người trong<CFFFD>tiệm vũ khí. Đi nào."}
+{"id": "RDS-4b50ad3ae116f3d639c0", "vi": "Lần này phải đến nhà<CFFFD>trọ. Được thôi, đi nào."}
+{"id": "RDS-443d02c417d6a4ca5ec4", "vi": "Nghe nói có người đang đợi<CFFFD>ở tiệm Item. Hãy đến đó."}
+{"id": "RDS-cf187ba48f0989349c18", "vi": "Tìm thấy lối sau<CFFFD>rồi! Vào thôi!"}
+{"id": "RDS-b6ced5c2014912cff9ff", "vi": "Đã vào phòng thí nghiệm.<CFFFD><CFFFA> ở đâu?"}
+{"id": "RDS-cdc105a45992845d9067", "vi": "Phải cứu <CFFFA>!<CFFFD>Về Guild tìm thêm thông tin<CFFFD>về Glast Heim."}
+{"id": "RDS-74ae454d6e7498ea6900", "vi": "Đã tìm thấy Glast Heim!<CFFFD>Đi cứu <CFFFA> thôi!"}
+{"id": "RDS-3783926167727870ef33", "vi": "Đường tới Glast Heim bị<CFFFD>chặn. Có lẽ do tai họa<CFFFD>ở Labyrinth Forest..."}
+{"id": "RDS-4d9dc346e842c160e706", "vi": "Đã giải quyết tai họa<CFFFD>trong rừng! Đường tới<CFFFD>Glast Heim mở rồi. Mau đi!"}
+{"id": "RDS-300f88b637f79dbc812f", "vi": "Đây là Glast Heim...<CFFFD><CFFFA> ở đâu?"}
+{"id": "RDS-5c08c59604b08c0b0675", "vi": "Hình như có thêm lối đi.<CFFFD>Hãy tiến sâu vào trong!"}
+{"id": "RDS-4970be4792f9dc13c45a", "vi": "Cha mình đã...<CFFFD>Khốn thật! Chẳng còn<CFFFD>lựa chọn nào khác!"}
+{"id": "RDS-2db97ca34b240f8f9fcb", "vi": "Không do dự nữa!<CFFFD>Tôi sẽ cứu <CFFFA>!<CFFFD>Đến tế đàn!"}
+{"id": "RDS-7c645885596fa9bd98bb", "vi": "Dù ngươi là Freya cũng vậy!<CFFFD>Ta sẽ ngăn ngươi và cứu<CFFFD><CFFFA>!"}
+{"id": "RDS-1c2a3f940584cf0d1b96", "vi": "Lên đường phiêu lưu thôi! Đó<CFFFD>mới là việc của nhà phiêu lưu!"}
+{"id": "RDS-c8d7b65a4d76664ac436", "vi": "Thu thập 10 Jellopy<CFFFD>rồi giao cho Milika."}
+{"id": "RDS-b0063f3d205a479ffadf", "vi": "Thu thập 10 Red Herb rồi<CFFFD>giao cho Knight của Order."}
+{"id": "RDS-c2500451549a95dc0166", "vi": "Thu thập 5 Iron Ore<CFFFD>rồi giao cho Roni."}
+{"id": "RDS-f1fef10928f29fadc428", "vi": "Thu thập 10 Empty Bottle rồi<CFFFD>giao cho Jade ở quán rượu Morocc."}
+{"id": "RDS-78a8228fa13463b4a665", "vi": "Quest phụ bắt buộc."}
+{"id": "RDS-92e777ba32cbe5baff3a", "vi": "Mang Mastela Fruit cho Shiva<CFFFD>để chữa bệnh cho mẹ anh ấy."}
+{"id": "RDS-0db231d9bfc492c1fb81", "vi": "Mang 5 Frog Egg, 5 Insect Hide<CFFFD>và 1 Little Evil Horn cho Sherry."}
+{"id": "RDS-7b42770ac612408a32f1", "vi": "Giới thiệu tiệm vũ khí cho<CFFFD>các Swordsman khắp nơi."}
+{"id": "RDS-63b5033bc4298c387563", "vi": "Lắng nghe cô bé nói chuyện."}
+{"id": "RDS-b858790fc38af818cbcd", "vi": "Mang 10 Monster<CFFFD>Hide cho Joyce."}
+{"id": "RDS-5c791606fb0afb9c1ca0", "vi": "Thu thập 10 Zargon<CFFFD>rồi giao cho Daksten."}
+{"id": "RDS-ebf3f67ea7865daf0617", "vi": "Lấy lại Pocket Watch từ<CFFFD>con quái ở Sograt Desert."}
+{"id": "RDS-e39b43210671aae1b710", "vi": "Nói với chủ tiệm<CFFFD>Item ở Juno về Lily."}
+{"id": "RDS-83d2d81ca3ee24c6c67a", "vi": "Giao Skull cần cho<CFFFD>công trình nghiên cứu."}
+{"id": "RDS-36d257fe595039befd04", "vi": "Thu thập 10 Wolf Claw,<CFFFD>Bear's Footskin và Ogre<CFFFD>Teeth, rồi giao Sa'ab."}
+{"id": "RDS-60f8fa59358d17f3edda", "vi": "Lấy Laimis Flower trên đỉnh<CFFFD>Mt. Mjolnir - East cho Karen."}
+{"id": "RDS-a14e40eb0361135113b9", "vi": "Giao lại món đồ<CFFFD>khách để quên ở<CFFFD>tiệm Item Juno."}
+{"id": "RDS-4a7d406ea18a011c279d", "vi": "Vứt bỏ thanh kiếm<CFFFD>đáng sợ được giao giữ."}
+{"id": "RDS-d7ccd0e153c6134e4125", "vi": "Hạ con quái chỉ chịu<CFFFD>sát thương phép ở<CFFFD>West Prontera Woods."}
+{"id": "RDS-d99c9d17c39d8f198038", "vi": "Tìm Black Carpet trong Ant<CFFFD>Hell rồi giao cho Setsuna."}
+{"id": "RDS-5ab36b67eab2032c508e", "vi": "Hạ Owl Baron, chúa<CFFFD>tể Prontera Woods."}
+{"id": "RDS-8521388672431a69288b", "vi": "Thu thập vật quý<CFFFD>và giao cho Marco."}
+{"id": "RDS-40d34983e7cf298243a2", "vi": "Hạ Grizzly trên đỉnh<CFFFD>Mt. Mjolnir - East."}
+{"id": "RDS-b51869c369daf6debd6d", "vi": "Giao các viên đá quý<CFFFD>theo yêu cầu cho Gordon."}
+{"id": "RDS-f6144cbcb0f05e029e18", "vi": "Sửa Music Box bị<CFFFD>hỏng và trả lại Lime."}
+{"id": "RDS-d2504e077b154c292945", "vi": "Tìm chiếc hộp kỷ niệm<CFFFD>Allen chôn từ thời thơ ấu."}
+{"id": "RDS-07ea3db2967915658661", "vi": "Lấy Four-Leaf Clover cho Brent."}
+{"id": "RDS-d3eb004cd839482e8a79", "vi": "Cứu cha của Sarah<CFFFD>khỏi Mjolnir Dead Pit."}
+{"id": "RDS-8c1e1cab8f7f1b1cb734", "vi": "Mang Aquamarine cho Sonya để<CFFFD>giải lời nguyền trên cha cô ấy."}
+{"id": "RDS-4f1d9807ef3f8fdce9f2", "vi": "Tìm Card được yêu cầu<CFFFD>rồi giao cho Sopborough."}
+{"id": "RDS-bc307a9796faa501e21f", "vi": "Đến Mjolnir Dead Pit<CFFFD>cứu các thợ mỏ mắc kẹt."}
+{"id": "RDS-8c7c21d606006f3998dc", "vi": "Tìm Popi (chú chó)<CFFFD>rồi báo cho Yolanda."}
+{"id": "RDS-6bca28e3c1c930016efb", "vi": "Nghe lời nhờ vả của Rolek."}
+{"id": "RDS-71e369b44e5ffd6811ff", "vi": "Lắng nghe Julietta."}
+{"id": "RDS-b79ca0ef6c10824b46fb", "vi": "Thách đấu và hạ kiếm sư<CFFFD>tại West Prontera Woods."}
+{"id": "RDS-668c8727333307c1cdbe", "vi": "Hạ phù thủy trên Geffen Bridge."}
+{"id": "RDS-ef3140622dda6c2333ee", "vi": "Đến Yusidra Caves<CFFFD>để lấy đá quý."}
+{"id": "RDS-78cdf0b994b5510ee802", "vi": "Tiêu diệt lũ quái<CFFFD>đang phá hệ sinh<CFFFD>thái ở Prontera."}
+{"id": "RDS-41be072c6d5691e0d36d", "vi": "Đến đỉnh Mt. Mjolnir<CFFFD>để cầu nguyện."}
+{"id": "RDS-e71c6c71596fe4aedb09", "vi": "Tìm thông tin về<CFFFD>kho báu của Aghill."}
+{"id": "RDS-b778ed769e2f9fbb7b48", "vi": "Mang kim cương quý về Guild."}
+{"id": "RDS-779ccce9e63148152dc2", "vi": "Tiêu diệt đám quỷ<CFFFD>tại Mjolnir Dead Pit."}
+{"id": "RDS-55adca6effa148e327ae", "vi": "Hạ con quái khổng<CFFFD>lồ ở Sograt Desert."}
+{"id": "RDS-111e1e0e1b142f5aab65", "vi": "Hãy đánh bại Natsume<C3000><CFFFD>trên Geffen Bridge."}
+{"id": "RDS-15a18f0548565e931a7c", "vi": "Học một phép thuật bí truyền<CFFFD>từ sư phụ trên Geffen Bridge."}
+{"id": "RDS-58cce8512b95f3dd1f1b", "vi": "Đánh bại bọn trộm<CFFFD>đang nhắm đến Morocc."}
+{"id": "RDS-0a4708c108cd5b423e5b", "vi": "Thu thập Item để hóa giải<CFFFD>tác dụng của thuốc cùng<CFFFD><CFFFA> và Lisir."}
+{"id": "RDS-f8ab9a43b8b2b1affe1c", "vi": "Đánh bại con quái<CFFFD>nhỏ trong Ant Hell."}
+{"id": "RDS-5946cecffc12b9a26318", "vi": "Tìm lý do nước ốc đảo<CFFFD>cạn kiệt để giải quyết<CFFFD>cơn khát ở Morocc."}
+{"id": "RDS-fcaa7f95b4fff766730a", "vi": "Tìm băng trộm đang<CFFFD>nhắm vào Morocc."}
+{"id": "RDS-ac00f62cbbe33234c971", "vi": "Hạ những con quái xuất<CFFFD>hiện ở East Prontera Woods."}
+{"id": "RDS-df54d34b2da572f603bf", "vi": "Tìm manh mối về rương<CFFFD>kho báu ở đâu đó<CFFFD>trong Eternal Sands."}
+{"id": "RDS-e816acce942eddc575e8", "vi": "Đánh bại Sohee xuất hiện<CFFFD>tại Prontera Culvert - B4F."}
+{"id": "RDS-9cc4cf141200f64b01f1", "vi": "Tìm hiểu bí ẩn thanh kiếm<CFFFD>cổ và ông lão. Hỏi chuyện<CFFFD>ông ấy trong thành phố."}
+{"id": "RDS-1331323f15b732233dab", "vi": "Giúp Dan đang đi săn quái<CFFFD>ở Sograt Desert - North."}
+{"id": "RDS-f0c3fef554c4e9bbd1ed", "vi": "Tìm Book of Abstinence được<CFFFD>giấu tại Mjolnir Dead Pit - B3F."}
+{"id": "RDS-99430cac38c4aab40445", "vi": "Tìm tên trộm không để lại dấu vết."}
+{"id": "RDS-95d7d84037a9de1e76ff", "vi": "Đánh bại Boss ở sâu<CFFFD>trong Prontera Culvert."}
+{"id": "RDS-837c729cdde78ffda1ee", "vi": "Đi cùng người đã nhận<CFFFD>Quest để hạ quái ở<CFFFD>West Prontera Woods."}
+{"id": "RDS-9ff5c70a81342f7e56d7", "vi": "Chỉ mang người đã<CFFFD>nhận Quest đi hạ<CFFFD>quái ở Geffen Bridge."}
+{"id": "RDS-a56d6e9326e3a1f20145", "vi": "Đi cùng người đã nhận<CFFFD>Quest giao nhật ký<CFFFD>cho Thieves Guild."}
+{"id": "RDS-200a76b816d87483c9fa", "vi": "Chỉ mang người đã nhận<CFFFD>Quest đi hạ quái trong<CFFFD>Prontera Culvert."}
+{"id": "RDS-8a1ff0d6ba6b15eab640", "vi": "Đi cùng người đã nhận<CFFFD>Quest diệt chim khổng lồ<CFFFD>ở East Prontera Woods."}
+{"id": "RDS-f86e0992cb0ff1bfea57", "vi": "Chỉ mang người đã nhận<CFFFD>Quest đến Juno giao<CFFFD>dịch với thương nhân."}
+{"id": "RDS-4347fc04026d2b3f0932", "vi": "Chỉ mang người đã nhận<CFFFD>Quest để trị học trò<CFFFD>ngỗ nghịch của Guy."}
+{"id": "RDS-dfe27def629a3a6cc365", "vi": "Thu thập 20 Garlet rồi giao<CFFFD>cho Clay tại Order of Knights."}
+{"id": "RDS-a9d9f242435db7006a60", "vi": "Tìm vị trí kho báu của Aghill<CFFFD>trong Mjolnir Dead Pit."}
+{"id": "RDS-86fa45f042fe92d7ea76", "vi": "Đánh bại quái trong<CFFFD>Somatology Laboratory."}
+{"id": "RDS-1eb5d109ac003a64651a", "vi": "Mang người đã nhận<CFFFD>Quest đi hạ rồng<CFFFD>ở El Mes Gorge."}
+{"id": "RDS-27b78f91d6d33e338a7f", "vi": "Mang người đã nhận Quest<CFFFD>đi ngăn nghi lễ nguy hiểm<CFFFD>tại Somatology Laboratory."}
+{"id": "RDS-8845d46055074f8dcf12", "vi": "Đi cùng người đã nhận<CFFFD>Quest hạ thủ lĩnh bọn<CFFFD>trộm ở Sograt Desert."}
+{"id": "RDS-d49f0b9ccdf31bc19059", "vi": "Đi cùng người đã nhận<CFFFD>Quest diệt ma tại<CFFFD>Somatology Laboratory."}
+{"id": "RDS-dea84ee6408fd9f2c5b0", "vi": "Đi cùng người đã<CFFFD>nhận Quest hạ sói tại<CFFFD>West Prontera Woods."}
+{"id": "RDS-a8497cdc7f98a9cd0fbb", "vi": "Đi cùng người đã nhận<CFFFD>Quest đến Juno giao 6<CFFFD>loại đá quý khác nhau."}
+{"id": "RDS-241b9eea7da375b983a6", "vi": "Đi cùng người nhận<CFFFD>Quest từ Master Li để<CFFFD>đấu với đệ tử của ông."}
+{"id": "RDS-d4bd930c25ea6054e7b3", "vi": "Tìm rồi giao lại<CFFFD>chiếc hộp ký ức."}
+{"id": "RDS-d111046b079014a51d0c", "vi": "Cho Nina, người muốn thành<CFFFD>nữ anh hùng, gia nhập Guild."}
+{"id": "RDS-3e5dff6914a16a00a375", "vi": "Tìm bóng ma đen xuất<CFFFD>hiện tại Glast Heim."}
+{"id": "RDS-fede1c173d058d04a172", "vi": "Đến các địa điểm theo<CFFFD>đúng thứ tự người<CFFFD>phụ nữ bí ẩn đã kể."}
+{"id": "RDS-1cdf8dc51aedf1e5c5e9", "vi": "Hạ con rồng tà ác thức<CFFFD>tỉnh ở Glast Heim."}
+{"id": "RDS-86034fa0433fd753b1ea", "vi": "Gặp Shaman trong<CFFFD>Yusidra Caves."}
+{"id": "RDS-2b608c458ac32f17fe52", "vi": "Tìm Falphone."}
+{"id": "RDS-f9ca73798f7f141a85e6", "vi": "Dẫn <CFFFA> tới<CFFFD>Freya's Altar."}
+{"id": "RDS-933c40f4950671e99cf7", "vi": "Đánh bại quái vật ở<CFFFD>East Prontera Woods."}
+{"id": "RDS-20e37da5c10b8348f10a", "vi": "Tìm và giao món<CFFFD>Item Skal yêu cầu."}
+{"id": "RDS-76f697ec75cbda88703b", "vi": "Hạ quái ở<CFFFD>El Mes Gorge cùng Viselc<C3000><CFFFD>và <CFFFA>."}
+{"id": "RDS-fd37bb7fd2634e65b133", "vi": "Đánh bại Dark Magician<CFFFD>trong Glast Heim."}
+{"id": "RDS-4d3ce369b701b3fb7c8f", "vi": "Giúp Shaman tại<CFFFD>East Prontera Woods."}
+{"id": "RDS-e1424432bed7133f3048", "vi": "Giao Diamond 3ct. cho<CFFFD>tiệm vũ khí ở Prontera."}
+{"id": "RDS-c666978cbe3311fdf1e6", "vi": "Đánh bại bọn côn đồ<CFFFD>ở Mt. Mjolnir - East."}
+{"id": "RDS-6f470c8f678c4ef59e0c", "vi": "Tìm quà cho người<CFFFD>yêu của khách hàng."}
+{"id": "RDS-9957a8aec5c17cf4bc54", "vi": "Giao Bear's Footskin cho<CFFFD>chủ tiệm vũ khí ở Juno."}
+{"id": "RDS-d77151c22ca7c9245358", "vi": "Giao Cursed Ruby cần<CFFFD>rèn kiếm phép cho tiệm<CFFFD>vũ khí ở Lighthalzen."}
+{"id": "RDS-10ba13557e1f5acf60bc", "vi": "Tiêu diệt quái hệ Fire<CFFFD>tại Sograt Dessert."}
+{"id": "RDS-285303cff7c2897c758c", "vi": "Giúp nam tước giải lời nguyền<CFFFD>khiến ông ấy phải nói dối."}
+{"id": "RDS-8e9c57a8b465c53708b9", "vi": "Tìm cha mẹ ruột của Colm."}
+{"id": "RDS-070cd438b2a52b167edd", "vi": "Giao viên đá quý<CFFFD>để làm nhẫn cưới."}
+{"id": "RDS-9bc02280a656cbcf8dc2", "vi": "Tiêu diệt quái vật<CFFFD>trên Geffen Bridge."}
+{"id": "RDS-3ee28bf52b16707a9b3a", "vi": "Chuyến phiêu lưu đầu tiên"}
+{"id": "RDS-8bb0aa7fdd01a1d8677f", "vi": "Rời hang động"}
+{"id": "RDS-f58849554fd9d95e9acf", "vi": "Lần đầu đến Prontera"}
+{"id": "RDS-c277c91bff5abd97e470", "vi": "Lễ gia nhập"}
+{"id": "RDS-34f4d363478d548be9fc", "vi": "Báo cáo cùng Dog Tag"}
+{"id": "RDS-25cba20383245a103c04", "vi": "Ông lão đâu rồi?"}
+{"id": "RDS-b56cf06d98444ecaae23", "vi": "Cha và con"}
+{"id": "RDS-c4a01987a6ea1e1936b2", "vi": "Đưa đứa trẻ về nhà"}
+{"id": "RDS-343ecaf2a9b580958565", "vi": "Đến Geffen, thành phố phép thuật"}
+{"id": "RDS-c9d8e79b1bfaddf32080", "vi": "Con đường đến Geffen"}
+{"id": "RDS-5430267c7a8c1e4877a3", "vi": "Tìm đốc công!"}
+{"id": "RDS-3725659002c6ed4a6f96", "vi": "Đến Geffen"}
+{"id": "RDS-5086dc1fa469e7f95db7", "vi": "Kho báu của tên trộm huyền thoại"}
+{"id": "RDS-11b6b411912deccba2a3", "vi": "Đường tới Mt. Mjolnir"}
+{"id": "RDS-384d5e498704422bd53f", "vi": "Đến Mjolnir Dead Pit"}
+{"id": "RDS-e0fab47bebf61d09900f", "vi": "Tìm kho báu!"}
+{"id": "RDS-2091b816876fb681e73f", "vi": "Phần thưởng giả"}
+{"id": "RDS-1887d3547c657da27257", "vi": "Nơi có Emperium"}
+{"id": "RDS-0b8bc240ebab2db5946f", "vi": "Tiêu diệt quái vật!"}
+{"id": "RDS-34ce6bd5bbf9268b0822", "vi": "Boss bỏ trốn"}
+{"id": "RDS-585497b2491ad0191657", "vi": "Tiêu diệt hoàn tất!"}
+{"id": "RDS-8052399ef3846a5d8b79", "vi": "Hiểm họa ẩn trong sa mạc"}
+{"id": "RDS-a894e987e762e5dd8722", "vi": "Đến Morocc"}
+{"id": "RDS-860637131dc7a34ba3c5", "vi": "Frione Tear là gì?"}
+{"id": "RDS-f08fc28e69d61d4584cb", "vi": "Frione Tear"}
+{"id": "RDS-ce7d87030f202041f853", "vi": "Rồng ở Yusidra"}
+{"id": "RDS-fd5a083dce5cbf892342", "vi": "Đã lấy được Emperium!"}
+{"id": "RDS-106c1ba973b9e06f6cb0", "vi": "Thành lập Guild"}
+{"id": "RDS-19307d88d22c3f23f8f6", "vi": "Người mất tích?"}
+{"id": "RDS-92dc9f2144c9f34b4fc4", "vi": "Gia đình"}
+{"id": "RDS-ac275db088b848b2cf2f", "vi": "Về Guild"}
+{"id": "RDS-1bfecec9fbc4800cd4ff", "vi": "Đến Order of Knights"}
+{"id": "RDS-8396b214d3096190f469", "vi": "Yêu cầu từ Order"}
+{"id": "RDS-cae56f2c1f26db196326", "vi": "Nỗi sợ lớn nhất của Lucifi"}
+{"id": "RDS-7ad13f0be07b08def3a0", "vi": "Không có kết quả"}
+{"id": "RDS-734f22ecb32b3bbc444b", "vi": "Lisir đi đâu vậy? 1"}
+{"id": "RDS-172453a636fa6747c65d", "vi": "Lisir đi đâu vậy? 2"}
+{"id": "RDS-a16d2423e02c035e04d6", "vi": "Lisir đi đâu vậy? 3"}
+{"id": "RDS-da85b9e1b6abc00ab487", "vi": "Cư xử cho phải phép"}
+{"id": "RDS-b6e5d22e831eb4e85469", "vi": "Gặp lại"}
+{"id": "RDS-b006599f49712bbfa604", "vi": "Cứu người bạn cũ!"}
+{"id": "RDS-8f15bdaddb6a1e84f054", "vi": "Giải cứu thành công!"}
+{"id": "RDS-65488fd26b1011a352d1", "vi": "Đã bắt được tên trộm ảo ảnh!"}
+{"id": "RDS-bceb05d13aaab14e786e", "vi": "Làm Guild nổi tiếng!"}
+{"id": "RDS-5cabb76da69398bd6d97", "vi": "Guild đạt hạng Rumored"}
+{"id": "RDS-bff0161800e195859f4b", "vi": "Yêu cầu của Edwin"}
+{"id": "RDS-d95c37c8124eba363745", "vi": "Hoàn thành yêu cầu"}
+{"id": "RDS-33f8dd8b3d80f71825f8", "vi": "Chuyện kiếm và phép thuật"}
+{"id": "RDS-1ea01261659325e0d314", "vi": "Trở về Guild"}
+{"id": "RDS-5def3bbabd7345ba4670", "vi": "Tăng danh tiếng!"}
+{"id": "RDS-1b7cbc022b719d958c51", "vi": "Guild đáng tin cậy"}
+{"id": "RDS-d3062a2f75780c425ff4", "vi": "Căn bệnh bí ẩn"}
+{"id": "RDS-fcd38ac5968b5a953cd3", "vi": "Ốc đảo ảo ảnh"}
+{"id": "RDS-09abc7a169aaedd8dcd4", "vi": "Đã loại bỏ nguyên nhân!"}
+{"id": "RDS-4141cce6b0eac3b16787", "vi": "Giấc mơ của Dreameater"}
+{"id": "RDS-668c5813b3a24e0d49f9", "vi": "Tai họa đã qua!"}
+{"id": "RDS-dc2ff997570e82a03689", "vi": "Hoàn thành Quest rồi về"}
+{"id": "RDS-f41a0576498c0ba9de99", "vi": "Đến Juno"}
+{"id": "RDS-58b710f9332c52105410", "vi": "Nhà sưu tầm"}
+{"id": "RDS-52488732e87d3f7d9f42", "vi": "Đã lấy được Helm"}
+{"id": "RDS-ffa766debfc122a6faa2", "vi": "Đã có Card Key"}
+{"id": "RDS-e0fe218bccc831533946", "vi": "Lấy lại F File"}
+{"id": "RDS-5c91462114f5349a9148", "vi": "Cạm bẫy"}
+{"id": "RDS-00fbe63a21abf280f8d8", "vi": "Airship bị tấn công"}
+{"id": "RDS-50bc93a6d2a4cbb71097", "vi": "Mau trở về Guild"}
+{"id": "RDS-49b17994a2c9349e9f2c", "vi": "Cô gái mất tích"}
+{"id": "RDS-a5cd75f04e108732268c", "vi": "Lối sau phòng thí nghiệm 1"}
+{"id": "RDS-763f9f5951648b107a01", "vi": "Lối sau phòng thí nghiệm 2"}
+{"id": "RDS-6f3411cc45cf91fe2eb6", "vi": "Lối sau phòng thí nghiệm 3"}
+{"id": "RDS-f6e2d4e752b8c948d863", "vi": "Lối sau phòng thí nghiệm 4"}
+{"id": "RDS-62fb8f655beb5e3f5c56", "vi": "Đã tìm thấy lối sau!"}
+{"id": "RDS-649599c0c77b6dae15df", "vi": "Somatology Laboratory"}
+{"id": "RDS-c7fcd67121ce8f1757c8", "vi": "Quyết tâm"}
+{"id": "RDS-20edc3d8eed8475792df", "vi": "Đến Glast Heim"}
+{"id": "RDS-9bb919492a77547e3fb9", "vi": "Con đường tới Glast Heim"}
+{"id": "RDS-59f8c26b7498ac940a1f", "vi": "Đường đã thông"}
+{"id": "RDS-23bb9808e1f568121b66", "vi": "Khám phá Glast Heim"}
+{"id": "RDS-a4bf0fd49523a3274b3f", "vi": "Vào sâu trong Glast Heim"}
+{"id": "RDS-1ffba12710e2b6f14a7e", "vi": "Cha"}
+{"id": "RDS-687a42d410d131f3a138", "vi": "Đến tế đàn"}
+{"id": "RDS-8e3909d994498670aba4", "vi": "Trận chiến cuối cùng"}
+{"id": "RDS-f0ac27c7f63c995bfbb5", "vi": "Tiếp tục phiêu lưu!"}
+{"id": "RDS-d5c4b7b8fa75f613ca25", "vi": "Yêu cầu của người học việc"}
+{"id": "RDS-09a739007c88730e10cc", "vi": "Yêu cầu của Knight"}
+{"id": "RDS-6a9746b4a864d92ecb9b", "vi": "Yêu cầu của tiệm vũ khí"}
+{"id": "RDS-eaa07b46ec1ad29b33a4", "vi": "Giao hàng cho quán rượu"}
+{"id": "RDS-bd6f38fed8b873e0d18b", "vi": "Cậu bé thương mẹ"}
+{"id": "RDS-083a13757147849aabba", "vi": "Yêu cầu của Magician"}
+{"id": "RDS-f18cb9e9b155dfbed528", "vi": "Giết thời gian"}
+{"id": "RDS-8b30b8c0ed6a94ba7d4d", "vi": "Ý thích của khách quý"}
+{"id": "RDS-6eaa087d3ba5ca6c8eeb", "vi": "Đại lý đoàn lữ hành"}
+{"id": "RDS-b5739d743e5bc1a28288", "vi": "Chiếc đồng hồ ký ức"}
+{"id": "RDS-f51a767d747413672e3a", "vi": "Vận may"}
+{"id": "RDS-9562a8ea7aea44a8670d", "vi": "Thần dược cổ đại"}
+{"id": "RDS-0cc4470fd9f3f9579c9e", "vi": "Nghiên cứu của Sage"}
+{"id": "RDS-cf62ae0995206f49a01a", "vi": "Hoa trên đỉnh núi"}
+{"id": "RDS-f31c2275ad7a1c1ff3e9", "vi": "Ai đánh rơi đồ?"}
+{"id": "RDS-1df91b10b22a15d4d3a5", "vi": "Vũ khí bị nguyền rủa"}
+{"id": "RDS-336428dbaf0c91344ae3", "vi": "Đường đến Mt. Mjolnir"}
+{"id": "RDS-5e61ff1ede8f834fdae8", "vi": "Điệu valse phép thuật"}
+{"id": "RDS-360313b960f15b86ae82", "vi": "Săn kho báu trong Ant Hell"}
+{"id": "RDS-d33c3956d894bfa3397e", "vi": "Cung tên và chúa tể rừng"}
+{"id": "RDS-73d63f328bf83bab57c0", "vi": "Bộ sưu tập hiếm"}
+{"id": "RDS-d9ffa35faa3a196e633d", "vi": "Đối đầu gấu"}
+{"id": "RDS-841e14c11e391ab42893", "vi": "Thú vui của người giàu"}
+{"id": "RDS-d117ce7e2193ad784756", "vi": "Ký ức về lời ru"}
+{"id": "RDS-a5a4a3a89d583881d877", "vi": "Ký ức tuổi thơ"}
+{"id": "RDS-f8b66d4b23bb71323b32", "vi": "Niềm vui của người u sầu"}
+{"id": "RDS-2484ac7caed92e58a8bf", "vi": "Tiếng gọi trong Dead Pit"}
+{"id": "RDS-bd4115ab90893eadcf0a", "vi": "Cửa sau phòng thí nghiệm"}
+{"id": "RDS-abbc02306727ace2b38a", "vi": "Giày của Dancer"}
+{"id": "RDS-cb795001f81cf54e3ee5", "vi": "Nhà sưu tầm Card"}
+{"id": "RDS-9f3a7194656dcb38ce63", "vi": "Thoát khỏi Dead Pit"}
+{"id": "RDS-0351476d0235b69a60b5", "vi": "Tìm cô dâu hiền"}
+{"id": "RDS-a0b73a04b18abe1395ca", "vi": "Monk nhút nhát"}
+{"id": "RDS-ac3d72acdf92372de1ea", "vi": "Nhà sưu tầm Card: Tiếp theo"}
+{"id": "RDS-bc9846e682ddb7a28d20", "vi": "Archer nhút nhát"}
+{"id": "RDS-851e19f0f28f9a324040", "vi": "Swordsman"}
+{"id": "RDS-10a624254cad893c2dc6", "vi": "Kho báu quý hơn mạng sống"}
+{"id": "RDS-aa0e8db8663d7953e22c", "vi": "Quy tắc của Hunter"}
+{"id": "RDS-3cf564ef55932e39160d", "vi": "Lisir đi đâu vậy?"}
+{"id": "RDS-0060f3f0c2db39727548", "vi": "Phép màu của lời cầu nguyện"}
+{"id": "RDS-22474bf81cbec2368752", "vi": "Dấu vết kho báu"}
+{"id": "RDS-c05d53df0d773ef64792", "vi": "Kỹ năng của Merchant"}
+{"id": "RDS-834186d4dac161cbf767", "vi": "Nhiệm vụ của thánh nhân"}
+{"id": "RDS-00803a3232f32ee484c6", "vi": "Thiết Quyền"}
+{"id": "RDS-db10d18013207885f9c9", "vi": "Thầy và trò"}
+{"id": "RDS-d49d390013c64d57f9ca", "vi": "Thầy và trò 2"}
+{"id": "RDS-9086b6c6d64639a24438", "vi": "Thương nhân vùng cát nóng"}
+{"id": "RDS-45597487d3fa7fcd2e22", "vi": "Giấc mơ của Dreameater"}
+{"id": "RDS-3d908e1cff3b0d359d8a", "vi": "Thần dược của Lisir"}
+{"id": "RDS-b385781de2dcb2a1ae24", "vi": "Bọ Scarab mê trứng"}
+{"id": "RDS-c32b4cb506af04963f31", "vi": "Nước từ ốc đảo"}
+{"id": "RDS-d403ffe415f0ed55ab1c", "vi": "Anh hùng sa mạc"}
+{"id": "RDS-27928032f900fd76f7bb", "vi": "Rừng ảo ảnh"}
+{"id": "RDS-922a95f203c5b1389d6c", "vi": "Bản đồ kho báu"}
+{"id": "RDS-21f1bebdc3228806c874", "vi": "Chữa chứng sợ ma của Lucifi"}
+{"id": "RDS-80c77e64d90ad8bf625c", "vi": "Linh hồn kiếm ma"}
+{"id": "RDS-2c3dd669c9f17c436086", "vi": "Chiến binh nhiệt huyết"}
+{"id": "RDS-f80eb926489afb407a1a", "vi": "Con đường thành Wizard"}
+{"id": "RDS-403b5b5f917ee654c1b7", "vi": "Con đường thành Assassin"}
+{"id": "RDS-988dab974807e3726089", "vi": "Con đường thành Knight"}
+{"id": "RDS-50a74fc10c67718cc1d2", "vi": "Bí ẩn của thanh kiếm"}
+{"id": "RDS-953a9181c9d3f0a0043a", "vi": "Con đường Magician"}
+{"id": "RDS-4bc6aecebb7784693610", "vi": "Nguồn cội của Thief"}
+{"id": "RDS-71549933cca855ad797a", "vi": "Bằng chứng của thánh nhân"}
+{"id": "RDS-dbfaf1aa7f7a25cac0ee", "vi": "Chim quỷ trong rừng"}
+{"id": "RDS-19cac2eee1567da7a5d6", "vi": "Công việc của Merchant"}
+{"id": "RDS-b954965b5a255949f330", "vi": "Thiết Quyền"}
+{"id": "RDS-02ce94c5c13d40c8a869", "vi": "Tôi luyện kiếm"}
+{"id": "RDS-ced793592117681cf8cb", "vi": "Nhà sưu tầm Card: Kết thúc"}
+{"id": "RDS-99ad9c498695e0690b26", "vi": "Sự thật về Aghill, tên trộm"}
+{"id": "RDS-cda75e24213b1df9bc9a", "vi": "Nhịp đập phép thuật"}
+{"id": "RDS-75a715ec91370223794d", "vi": "Con đường Knight"}
+{"id": "RDS-537274f07a93c0507e52", "vi": "Magician tương lai tài ba"}
+{"id": "RDS-ffa8e04ca48a48d1d6b7", "vi": "Sống trong bóng tối"}
+{"id": "RDS-ed7ec3ea1f36ac2e53a7", "vi": "Linh hồn thánh nhân"}
+{"id": "RDS-dc94b3428c95d3a9cca8", "vi": "Sói lang thang"}
+{"id": "RDS-d7588ba9457ecfcb9acc", "vi": "Viên đá lấp lánh"}
+{"id": "RDS-ae37028afa8e0636a3a7", "vi": "Quyền Vương"}
+{"id": "RDS-66028fb429c8652b06ef", "vi": "Tình cảm thời thơ ấu"}
+{"id": "RDS-2171f6274cc3a7ece4da", "vi": "Merchant chính nghĩa"}
+{"id": "RDS-216c76c38623016544e0", "vi": "Bóng ma ở Glast Heim"}
+{"id": "RDS-b35de40162ede7abd9d4", "vi": "Cành cây cổ thụ"}
+{"id": "RDS-6f3ffca86cfb9fc11723", "vi": "Thanh kiếm ma"}
+{"id": "RDS-19a1e3585ffd3102d522", "vi": "Shaman trong hang động"}
+{"id": "RDS-40794f263287dfec5acd", "vi": "Golden Eagle cải tà quy chính?"}
+{"id": "RDS-07e4c41d18a78e22087e", "vi": "Nụ cười của nữ thần"}
+{"id": "RDS-9149b4da08dadf022949", "vi": "Rừng ảo ảnh 2"}
+{"id": "RDS-604b60c85ca51f836eca", "vi": "Bộ sưu tập đồ hiếm của Skal"}
+{"id": "RDS-cc0e41c0204bd45d07c7", "vi": "Chim đỏ già"}
+{"id": "RDS-ae7e6cce6d4e721cf881", "vi": "Điểm tối"}
+{"id": "RDS-3f32794ff789e978a0b8", "vi": "Điểm sáng"}
+{"id": "RDS-ab22ac57ef6adc06d902", "vi": "Tìm kim cương"}
+{"id": "RDS-f169a1b62b522137f49e", "vi": "Nổi loạn trên núi"}
+{"id": "RDS-853818f6d02d35faab6e", "vi": "Quà cho người thương"}
+{"id": "RDS-5361d3ba12da48635332", "vi": "Gấu trong rừng"}
+{"id": "RDS-69f7e241601b2b3debc4", "vi": "Sự thật về thanh kiếm phép"}
+{"id": "RDS-16c70224a1367329dd57", "vi": "Lễ hội lửa sa mạc"}
+{"id": "RDS-af113d6dffa8e1af2bef", "vi": "Nước sạch và nam tước nói dối"}
+{"id": "RDS-3467375d194df160c346", "vi": "Cha mẹ của Colm"}
+{"id": "RDS-f12863df84a6ce4fc7c2", "vi": "Nhẫn cưới"}
+{"id": "RDS-779550dbb5fb51c9c9e8", "vi": "Yêu cầu từ nhà trọ"}
