@@ -1,0 +1,43 @@
+{
+  "game": "Jump Ultimate Stars (Japan) AJUJ",
+  "checkpoint": "037",
+  "date": "2026-11-19",
+  "total_rows": 34919,
+  "translated_rows": 23596,
+  "pending_rows": 11323,
+  "prior_036_translated": 22920,
+  "new_037_rows": 676,
+  "changed": {
+    "06-jquiz-004.jsonl": "1258–1929 (672 new; JoJo Part 3–7, Weekly Shonen Jump trivia; finished file)",
+    "06-jquiz-005.jsonl": "0–3 (4 new; closing cross-file question about Weekly Shonen Jump price)"
+  },
+  "source_ja_modified": 0,
+  "source_metadata_modified": 0,
+  "previous_translations_modified": 0,
+  "duplicate_ids": 0,
+  "control_tag_errors": 0,
+  "printf_placeholder_errors": 0,
+  "unicode_nfc_errors": 0,
+  "raw_control_char_errors": 0,
+  "quiz_option_positions_modified": 0,
+  "quiz_question_groups_touched": 115,
+  "quiz_answer_groups_touched": 132,
+  "quiz_answers_validated_in_game": false,
+  "source_image_questions_validated": false,
+  "long_unicode_strings_gt37": 6894,
+  "new_long_unicode_strings_gt37": 0,
+  "glossary_terms": 1797,
+  "glossary_added": 53,
+  "font_implemented": false,
+  "rom_patch_built": false,
+  "pixel_width_qa": false,
+  "gameplay_tested": false,
+  "source_anomalies": [
+    "J-Quiz 004 có một số ID đáp án bị thiếu trong bản trích xuất; không tạo thêm phương án (ví dụ 1401, 1905 chỉ ghi một phương án tại chỗ).",
+    "Các câu hỏi dựa vào hình (ví dụ 1398–1401, 1665–1671) chưa được đối chiếu với ảnh trong ROM.",
+    "Một số ID câu hỏi bị đứt đoạn ở phần trích xuất (ví dụ 1422–1423, 1600, 1603); bản dịch giữ ý gắn được với các ID nguồn, cần xác minh trong game.",
+    "Các đáp án tên riêng chỉ khác chữ Hán (1447–1450) được giữ nguyên để không làm mất khả năng phân biệt.",
+    "Dữ liệu lịch sử Weekly Shonen Jump mang bối cảnh phát hành năm 2006, không cập nhật theo hiện tại.",
+    "Tác phẩm/thuật ngữ ít gặp và cách Latin hóa chưa chắc chính thức cần tiếp tục rà soát; QA tĩnh không xác nhận đáp án đúng."
+  ]
+}
