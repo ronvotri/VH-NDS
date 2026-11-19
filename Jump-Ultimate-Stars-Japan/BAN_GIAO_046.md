@@ -4,9 +4,9 @@
 
 ## Phạm vi dịch
 
-- Nguồn ZIP **JumpUltimateStars_Japan_BanGiao_Cloud.zip**; `606-jquiz-007.jsonl` **row_index 1724–1908** (**185 ID**), phần cuối *Rurouni Kenshin* và mở đầu *Slam Dunk*.
-- `606-jquiz-008.jsonl` **row_index 0–517** (**518 ID**), nối câu hỏi giày của Sakuragi từ file 007, hoàn tất *Slam Dunk*, tiếp *Shaman King* và mở đầu *Saint Seiya*.
-- **Checkpoint 047 bắt đầu `606-jquiz-008.jsonl`, row_index 518** (câu tiếp theo về *Saint Seiya*).
+- Nguồn ZIP **JumpUltimateStars_Japan_BanGiao_Cloud.zip**; `06-jquiz-007.jsonl` **row_index 1724–1908** (**185 ID**), phần cuối *Rurouni Kenshin* và mở đầu *Slam Dunk*.
+- `06-jquiz-008.jsonl` **row_index 0–517** (**518 ID**), nối câu hỏi giày của Sakuragi từ file 007, hoàn tất *Slam Dunk*, tiếp *Shaman King* và mở đầu *Saint Seiya*.
+- **Checkpoint 047 bắt đầu `06-jquiz-008.jsonl`, row_index 518** (câu tiếp theo về *Saint Seiya*).
 
 ## Tệp
 
