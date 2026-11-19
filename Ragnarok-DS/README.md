@@ -2,15 +2,14 @@
 
 Nhánh độc lập `vh/ragnarok-ds-usa` của kho `VH-NDS`. Không trộn với các dự án Ni no Kuni, Magician’s Quest hoặc Ragnarok Odyssey ACE.
 
-## Trạng thái mới nhất — Checkpoint 038 (20/11/2026)
+## Trạng thái mới nhất — Checkpoint 039 (20/11/2026)
 
-- **14.071/14.616 ID đã xử lý (96,27%)**; còn **545 Quest**.
-- **Job/Skill hoàn tất 529/529 mục**: patch 001 có 54 mục, patch 038 thêm 475 mục (282 mô tả/hướng dẫn được Việt hóa, 193 tên Skill và nhãn kỹ thuật giữ nguyên).
-- Patch 038 đã đồng bộ và so SHA blob GitHub với ZIP gốc: `371a5017c1800bde8845e893a6304e9d46e0d0f6`. Đối chiếu 54 ID Job/Skill cũ và 475 ID mới: **0 trùng ID**.
-- Nhóm Item trước đó đã hoàn thành 1.074/1.074 mục ở checkpoint 037; các patch 027–029 và 034–038 hiện ở cùng nhánh.
-- **Không áp dụng patch 030** vì nội dung hệ thống/credit đã xử lý ở đợt 001–002.
-- Còn **545 Quest** trong `04-nhiem-vu-001.jsonl`. Chi tiết: [CHECKPOINT_038_AUDIT.md](CHECKPOINT_038_AUDIT.md).
-- Chưa nhúng font tiếng Việt, chưa vá ROM hoặc kiểm thử bằng NDS.
+- **14.616/14.616 ID đã xử lý (100% phạm vi dữ liệu nguồn)**, còn **0 ID `vi=null` sau khi áp dụng đầy đủ patch GitHub**; **đây chưa phải bản ROM có thể chơi**.
+- Quest hoàn tất **545/545 mục** trong `04-nhiem-vu-001.jsonl`: 33 hội thoại danh tiếng Guild, 97 nhãn NPC, 49 điều kiện, 183 mô tả và 183 tên Quest. Trong đó 469 mục được Việt hóa, 76 mục giữ nguyên tên riêng/thuật ngữ.
+- Patch mới: `translation/PATCH-DOT039.jsonl`, **545 ID**; đã xác minh GitHub blob SHA `8d3f2442bf2c7888d79a1147322509ae24410c45` khớp file ZIP hiệu đính.
+- Bản vá trên nhánh gồm **patch 001–029, 034–039**. **Không áp dụng patch 030** vì trùng 815 ID hệ thống/credit đã xử lý từ checkpoint 001–002.
+- QA nguồn riêng trên ZIP checkpoint 039: 14.616 ID nguồn, 3.230 ID mới có `vi` trong bản ZIP cục bộ và **0 lỗi**. Để có đủ 14.616 `vi` phải áp dụng thêm patch 001–026 trực tiếp từ GitHub.
+- **Chưa nhúng font tiếng Việt, chưa sửa ảnh UI, chưa vá ROM hay kiểm thử hiển thị trên NDS.** Chi tiết: [CHECKPOINT_039_AUDIT.md](CHECKPOINT_039_AUDIT.md).
 
 ## Nguồn dữ liệu
 - Bàn giao: `RagnarokDS_USA_BanGiao_Cloud.zip` (ROM USA, mã YRBE).
@@ -288,13 +287,13 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **14.071 patch records** từ các đợt 001–029 và 034–037 (bỏ qua đợt 030 vì trùng nhóm hệ thống/credit), không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **14.616 patch records** từ các đợt 001–029 và 034–039 (bỏ qua đợt 030 vì trùng nhóm hệ thống/credit), không trùng ID theo phân vùng nguồn và kiểm toán patch; cần chạy công cụ hợp nhất để xác nhận file đầu ra 100%. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_038_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_039_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
@@ -305,4 +304,11 @@ Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không x
 python tools/check_handoff.py --source INPUT/translation --translation KET_QUA/translation
 ```
 
-Không dùng `--require-complete` cho các đợt chưa dịch xong. Nhớ đối chiếu tên/mô tả và ảnh UI trước khi đóng gói vào game.
+Tại checkpoint 039, sau khi ghép đủ patch 001–029 và 034–039, có thể chạy QA với `--require-complete`; kiểm tra tên/mô tả và ảnh UI trước khi đóng gói vào game.
+
+## Checkpoint 039 — 20/11/2026
+
+- **+545 Quest**, hoàn tất toàn bộ `04-nhiem-vu-001.jsonl`; tổng **14.616/14.616 ID đã xử lý**.
+- Đã giữ nguyên ID, EN, ngữ cảnh, thứ tự mã điều khiển NDS; bảo lưu tên NPC, Item, Skill và địa danh. Đã hiệu đính cách ngắt dòng để tránh chia đôi tên riêng.
+- Git blob SHA patch 039: `8d3f2442bf2c7888d79a1147322509ae24410c45`.
+- Trạng thái tiếp theo: **merge đầy đủ → QA 100% → kiểm tra giới hạn pixel/font → nhúng font/asset → vá ROM → test giả lập và máy thật**. Không có ROM hay font được tạo trong checkpoint này.
