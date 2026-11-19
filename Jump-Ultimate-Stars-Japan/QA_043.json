@@ -1,0 +1,403 @@
+{
+  "game": "Jump Ultimate Stars (Japan)",
+  "checkpoint": "043",
+  "date": "2026-11-19",
+  "source_zip": "JumpUltimateStars_Japan_BanGiao_Cloud.zip",
+  "sources": {
+    "06-jquiz-006.jsonl": {
+      "file_rows": 2001,
+      "range": [
+        1617,
+        2000
+      ],
+      "new": 384,
+      "sha256": "8947105300fd2853922ed9704e742d0718316db3c83cb86700245c7398f102c5"
+    },
+    "06-jquiz-007.jsonl": {
+      "file_rows": 1909,
+      "range": [
+        0,
+        324
+      ],
+      "new": 325,
+      "sha256": "7a3626e87b306549920522da086508c695a6dcfe6cb6d19c0c2ee95fe2997aec"
+    }
+  },
+  "new_translations": 709,
+  "previous_translated": 27090,
+  "translated_total": 27799,
+  "total_source_ids": 34919,
+  "remaining": 7120,
+  "progress_percent": 79.61,
+  "batch_roles": {
+    "question_line": 317,
+    "answer_option": 392
+  },
+  "qa": {
+    "all_unique_ids": true,
+    "no_duplicate_with_cp038_042": true,
+    "identical_ja_as_source": true,
+    "identical_quiz_context_as_source": true,
+    "control_tags_unchanged": true,
+    "no_empty_vi": true,
+    "all_vi_max_37_unicode_chars": true,
+    "cross_file_question_2066_complete": true,
+    "start_next_at_new_question_2122": true,
+    "pixel_width_tested": false,
+    "rom_tested": false,
+    "correct_answers_verified": false
+  },
+  "new_delta_sha256": "dfb958a940c77cd03587d6f20be43fc630936b403451989754b735b3cad829f9",
+  "longest_vi_length": 37,
+  "source_flags": [
+    {
+      "file": "006",
+      "row_index": 1633,
+      "source": "囚嶽旅行",
+      "vi": "囚嶽旅行",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "006",
+      "row_index": 1634,
+      "source": "生類哀れみの儀",
+      "vi": "生類哀れみの儀",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "006",
+      "row_index": 1681,
+      "source": "愕怨祭",
+      "vi": "愕怨祭",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "006",
+      "row_index": 1682,
+      "source": "武運火災",
+      "vi": "武運火災",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "006",
+      "row_index": 1683,
+      "source": "我苦炎祭",
+      "vi": "我苦炎祭",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "006",
+      "row_index": 1684,
+      "source": "雄勇義会",
+      "vi": "雄勇義会",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "006",
+      "row_index": 1688,
+      "source": "羅惧美偉",
+      "vi": "羅惧美偉",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "006",
+      "row_index": 1689,
+      "source": "腐呂霊須",
+      "vi": "腐呂霊須",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "006",
+      "row_index": 1690,
+      "source": "亞女怖斗",
+      "vi": "亞女怖斗",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "006",
+      "row_index": 1741,
+      "source": "頂極大巣火噴関",
+      "vi": "頂極大巣火噴関",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "006",
+      "row_index": 1742,
+      "source": "頂上火口噴火関",
+      "vi": "頂上火口噴火関",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "006",
+      "row_index": 1743,
+      "source": "頭頂蜘蛛灼炎関",
+      "vi": "頭頂蜘蛛灼炎関",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "006",
+      "row_index": 1744,
+      "source": "天頂縄網炎舞関",
+      "vi": "天頂縄網炎舞関",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "006",
+      "row_index": 1760,
+      "source": "大威；八連制覇",
+      "vi": "Daiishin Paaren Seiha",
+      "reason": "Lỗi hoặc ký tự hiếm sẵn có trong nguồn Nhật; chưa thay ja."
+    },
+    {
+      "file": "006",
+      "row_index": 1764,
+      "source": "大威；八連制覇は男塾最大の修羅業行。",
+      "vi": "Daiishin Paaren là thử thách",
+      "reason": "Lỗi hoặc ký tự hiếm sẵn có trong nguồn Nhật; chưa thay ja."
+    },
+    {
+      "file": "006",
+      "row_index": 1793,
+      "source": "愛",
+      "vi": "愛",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "006",
+      "row_index": 1794,
+      "source": "誠",
+      "vi": "誠",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "006",
+      "row_index": 1795,
+      "source": "毛",
+      "vi": "毛",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "006",
+      "row_index": 1868,
+      "source": "という、大威；八連制覇の儀式で使う",
+      "vi": "Thanh gậy dùng trong nghi thức",
+      "reason": "Lỗi hoặc ký tự hiếm sẵn có trong nguồn Nhật; chưa thay ja."
+    },
+    {
+      "file": "006",
+      "row_index": 1874,
+      "source": "大威；八連制覇に出発する桃たちを",
+      "vi": "Để cổ vũ nhóm Momo lên đường",
+      "reason": "Lỗi hoặc ký tự hiếm sẵn có trong nguồn Nhật; chưa thay ja."
+    },
+    {
+      "file": "006",
+      "row_index": 1881,
+      "source": "大威；八連制覇に参加する一号生を",
+      "vi": "Xe nào đến đón học viên năm nhất",
+      "reason": "Lỗi hoặc ký tự hiếm sẵn có trong nguồn Nhật; chưa thay ja."
+    },
+    {
+      "file": "006",
+      "row_index": 1887,
+      "source": "大威；八連制覇、第一戦が行われる",
+      "vi": "Trận đầu Daiishin Paaren tại",
+      "reason": "Lỗi hoặc ký tự hiếm sẵn có trong nguồn Nhật; chưa thay ja."
+    },
+    {
+      "file": "006",
+      "row_index": 1890,
+      "source": "何と読む？",
+      "vi": "Tên '青陽磁靴' đọc thế nào?",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "006",
+      "row_index": 1895,
+      "source": "大威；八連制覇の出発地点、起龍門は",
+      "vi": "Cổng khởi hành Kiryu-mon của",
+      "reason": "Lỗi hoặc ký tự hiếm sẵn có trong nguồn Nhật; chưa thay ja."
+    },
+    {
+      "file": "006",
+      "row_index": 1908,
+      "source": "大威；八連制覇の第二闘場へ向かう途中",
+      "vi": "Trên đường tới đấu trường số 2,",
+      "reason": "Lỗi hoặc ký tự hiếm sẵn có trong nguồn Nhật; chưa thay ja."
+    },
+    {
+      "file": "006",
+      "row_index": 1920,
+      "source": "大威；八連制覇、竜盆浮敲闘にて",
+      "vi": "Ở màn Ryubon Fukuto thuộc",
+      "reason": "Lỗi hoặc ký tự hiếm sẵn có trong nguồn Nhật; chưa thay ja."
+    },
+    {
+      "file": "006",
+      "row_index": 1925,
+      "source": "大威；八連制覇にて、男爵ディーノの",
+      "vi": "Ở trận Daiishin Paaren, từ mũ",
+      "reason": "Lỗi hoặc ký tự hiếm sẵn có trong nguồn Nhật; chưa thay ja."
+    },
+    {
+      "file": "006",
+      "row_index": 1932,
+      "source": "大威；八連制覇第三闘で、仲間を助ける",
+      "vi": "Trận thứ ba Daiishin Paaren,",
+      "reason": "Lỗi hoặc ký tự hiếm sẵn có trong nguồn Nhật; chưa thay ja."
+    },
+    {
+      "file": "006",
+      "row_index": 1941,
+      "source": "大威；八連制覇最終闘、天雷響針闘場。",
+      "vi": "Trận cuối Daiishin Paaren tại",
+      "reason": "Lỗi hoặc ký tự hiếm sẵn có trong nguồn Nhật; chưa thay ja."
+    },
+    {
+      "file": "006",
+      "row_index": 1949,
+      "source": "＾家の家訓",
+      "vi": "Gia huấn của dòng họ ＾",
+      "reason": "Lỗi hoặc ký tự hiếm sẵn có trong nguồn Nhật; chưa thay ja."
+    },
+    {
+      "file": "006",
+      "row_index": 1954,
+      "source": "喊烈武道大会",
+      "vi": "喊烈武道大会",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "006",
+      "row_index": 1955,
+      "source": "観烈武道大会",
+      "vi": "観烈武道大会",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "006",
+      "row_index": 1963,
+      "source": "大威；八連制覇後、桃達がはじめて",
+      "vi": "Sau Daiishin Paaren, nhóm Momo",
+      "reason": "Lỗi hoặc ký tự hiếm sẵn có trong nguồn Nhật; chưa thay ja."
+    },
+    {
+      "file": "007",
+      "row_index": 4,
+      "source": "『蜒琉菲』という名の老人の役職は？",
+      "vi": "tên '蜒琉菲' giữ chức vụ gì?",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "007",
+      "row_index": 10,
+      "source": "搴兜稜萃",
+      "vi": "搴兜稜萃",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "007",
+      "row_index": 11,
+      "source": "寒汰虚巣",
+      "vi": "寒汰虚巣",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "007",
+      "row_index": 12,
+      "source": "拳蛇迂路棲",
+      "vi": "拳蛇迂路棲",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "007",
+      "row_index": 13,
+      "source": "謙太菟櫨守",
+      "vi": "謙太菟櫨守",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "007",
+      "row_index": 14,
+      "source": "大豪院邪鬼の宿敵、聖紆麈の持つ",
+      "vi": "Kẻ thù Jaki Daigouin, 聖紆麈,",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "007",
+      "row_index": 27,
+      "source": "颱眩法師",
+      "vi": "颱眩法師",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "007",
+      "row_index": 28,
+      "source": "囀笑法師",
+      "vi": "囀笑法師",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "007",
+      "row_index": 60,
+      "source": "初戦、鄧≒傑を闘場と共に奈落の底へと",
+      "vi": "J hất 鄧≒傑 lẫn sàn đấu",
+      "reason": "Lỗi hoặc ký tự hiếm sẵn có trong nguồn Nhật; chưa thay ja."
+    },
+    {
+      "file": "007",
+      "row_index": 60,
+      "source": "初戦、鄧≒傑を闘場と共に奈落の底へと",
+      "vi": "J hất 鄧≒傑 lẫn sàn đấu",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "007",
+      "row_index": 67,
+      "source": "宝竜黒蓮珠主席、鄧≒傑との戦いの後に",
+      "vi": "Sau trận với 鄧≒傑 đứng đầu",
+      "reason": "Lỗi hoặc ký tự hiếm sẵn có trong nguồn Nhật; chưa thay ja."
+    },
+    {
+      "file": "007",
+      "row_index": 67,
+      "source": "宝竜黒蓮珠主席、鄧≒傑との戦いの後に",
+      "vi": "Sau trận với 鄧≒傑 đứng đầu",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "007",
+      "row_index": 114,
+      "source": "顎＿洙が戦いのときに乗っていた",
+      "vi": "Olympia tên 顎＿洙 cưỡi gì",
+      "reason": "Lỗi hoặc ký tự hiếm sẵn có trong nguồn Nhật; chưa thay ja."
+    },
+    {
+      "file": "007",
+      "row_index": 114,
+      "source": "顎＿洙が戦いのときに乗っていた",
+      "vi": "Olympia tên 顎＿洙 cưỡi gì",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "007",
+      "row_index": 197,
+      "source": "眠冥書房",
+      "vi": "眠冥書房",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    },
+    {
+      "file": "007",
+      "row_index": 198,
+      "source": "罠瞑書房",
+      "vi": "罠瞑書房",
+      "reason": "Giữ nguyên chữ Hán khi lựa chọn khác nhau về mặt chữ/không chắc tên riêng."
+    }
+  ],
+  "next_checkpoint": {
+    "checkpoint": "044",
+    "file": "06-jquiz-007.jsonl",
+    "row_index": 325
+  },
+  "caution": "Text QA only; never treat answer order as verification of correct answers. Uncertain proper names require in-game/localized-name QA."
+}
