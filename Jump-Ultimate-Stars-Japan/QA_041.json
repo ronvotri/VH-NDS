@@ -1,0 +1,259 @@
+{
+  "game": "Jump Ultimate Stars (Japan)",
+  "checkpoint": "041",
+  "date": "2026-11-19",
+  "translation_source": "JumpUltimateStars_Japan_BanGiao_Cloud.zip",
+  "source_member": "translation/06-jquiz-006.jsonl",
+  "source_member_sha256": "8947105300fd2853922ed9704e742d0718316db3c83cb86700245c7398f102c5",
+  "source_total_ids": 34919,
+  "previous_completed": 25691,
+  "new_translations": 701,
+  "translated_total": 26392,
+  "remaining": 8527,
+  "percentage": 75.58,
+  "new_file": {
+    "file": "06-jquiz-006.jsonl",
+    "row_index_start": 218,
+    "row_index_end": 918,
+    "new_count": 701,
+    "file_total": 2001,
+    "file_complete": false
+  },
+  "next_checkpoint": {
+    "checkpoint": "042",
+    "file": "06-jquiz-006.jsonl",
+    "row_index": 919
+  },
+  "checks": {
+    "new_count": 701,
+    "unique_new_ids": 701,
+    "unique_cp038_041": 2796,
+    "source_ja_exact_match": true,
+    "quiz_reference_role_position_exact_match": true,
+    "total_reference_roles_checked": 800,
+    "control_tags_preserved": true,
+    "all_vi_present": true,
+    "all_vi_up_to_37_unicode_codepoints": true,
+    "max_vi_unicode_codepoints": 37,
+    "question_role_usage_counts": {
+      "question_line": 272,
+      "answer_option": 528
+    },
+    "manga_code_usage_counts": {
+      "36": 30,
+      "41": 7,
+      "34": 1,
+      "16": 9,
+      "37": 2,
+      "24": 737,
+      "18": 1,
+      "17": 1,
+      "38": 1,
+      "11": 11
+    },
+    "source_with_odd_symbols": [
+      {
+        "row_index": 424,
+        "ja": "水∴系忍術と、大刀『鮫肌』を操る忍者",
+        "vi": "Ninja dùng Thủy độn và thanh kiếm",
+        "reason": "Nguồn Nhật có dấu/ký tự bất thường; phải đối chiếu màn hình game gốc trước khi sửa."
+      },
+      {
+        "row_index": 645,
+        "ja": "木∴忍術",
+        "vi": "Mộc độn",
+        "reason": "Nguồn Nhật có dấu/ký tự bất thường; phải đối chiếu màn hình game gốc trước khi sửa."
+      },
+      {
+        "row_index": 646,
+        "ja": "土∴忍術",
+        "vi": "Thổ độn",
+        "reason": "Nguồn Nhật có dấu/ký tự bất thường; phải đối chiếu màn hình game gốc trước khi sửa."
+      },
+      {
+        "row_index": 647,
+        "ja": "雷∴忍術",
+        "vi": "Lôi độn",
+        "reason": "Nguồn Nhật có dấu/ký tự bất thường; phải đối chiếu màn hình game gốc trước khi sửa."
+      },
+      {
+        "row_index": 648,
+        "ja": "水∴忍術",
+        "vi": "Thủy độn",
+        "reason": "Nguồn Nhật có dấu/ký tự bất thường; phải đối chiếu màn hình game gốc trước khi sửa."
+      },
+      {
+        "row_index": 725,
+        "ja": "木∴系の忍術を使える理由として、",
+        "vi": "Mộc độn vốn chỉ Hokage Đệ Nhất có?",
+        "reason": "Nguồn Nhật có dấu/ký tự bất thường; phải đối chiếu màn hình game gốc trước khi sửa."
+      },
+      {
+        "row_index": 736,
+        "ja": "『火影式耳順術廓庵入〈垂手』を",
+        "vi": "Yamato dùng thuật Hokage-shiki",
+        "reason": "Nguồn Nhật có dấu/ký tự bất thường; phải đối chiếu màn hình game gốc trước khi sửa."
+      },
+      {
+        "row_index": 742,
+        "ja": "『火影式耳順術廓庵入〈垂手』とは、",
+        "vi": "Hokage-shiki Jijun Jutsu",
+        "reason": "Nguồn Nhật có dấu/ký tự bất thường; phải đối chiếu màn hình game gốc trước khi sửa."
+      },
+      {
+        "row_index": 770,
+        "ja": "木∴忍術極意書の写し",
+        "vi": "Bản sao bí kíp Mộc độn",
+        "reason": "Nguồn Nhật có dấu/ký tự bất thường; phải đối chiếu màn hình game gốc trước khi sửa."
+      },
+      {
+        "row_index": 830,
+        "ja": "土∴術",
+        "vi": "Thổ độn",
+        "reason": "Nguồn Nhật có dấu/ký tự bất thường; phải đối chiếu màn hình game gốc trước khi sửa."
+      },
+      {
+        "row_index": 831,
+        "ja": "火∴術",
+        "vi": "Hỏa độn",
+        "reason": "Nguồn Nhật có dấu/ký tự bất thường; phải đối chiếu màn hình game gốc trước khi sửa."
+      }
+    ],
+    "kept_CJK_for_distinguishing_answers": [
+      {
+        "row_index": 554,
+        "ja": "押",
+        "vi": "押 (Ấn)",
+        "reason": "Giữ chữ Hán để phân biệt phương án gần giống hoặc tên kỹ năng; test font NDS."
+      },
+      {
+        "row_index": 555,
+        "ja": "抑",
+        "vi": "抑 (Ức)",
+        "reason": "Giữ chữ Hán để phân biệt phương án gần giống hoặc tên kỹ năng; test font NDS."
+      },
+      {
+        "row_index": 556,
+        "ja": "制",
+        "vi": "制 (Chế)",
+        "reason": "Giữ chữ Hán để phân biệt phương án gần giống hoặc tên kỹ năng; test font NDS."
+      },
+      {
+        "row_index": 622,
+        "ja": "珂矢久",
+        "vi": "珂矢久",
+        "reason": "Giữ chữ Hán để phân biệt phương án gần giống hoặc tên kỹ năng; test font NDS."
+      },
+      {
+        "row_index": 633,
+        "ja": "蝶柔擬蛾",
+        "vi": "Chojyu Giga (蝶柔擬蛾)",
+        "reason": "Giữ chữ Hán để phân biệt phương án gần giống hoặc tên kỹ năng; test font NDS."
+      },
+      {
+        "row_index": 634,
+        "ja": "鳥銃蟻牙",
+        "vi": "Chojyu Giga (鳥銃蟻牙)",
+        "reason": "Giữ chữ Hán để phân biệt phương án gần giống hoặc tên kỹ năng; test font NDS."
+      },
+      {
+        "row_index": 635,
+        "ja": "腸汁戯雅",
+        "vi": "Chojyu Giga (腸汁戯雅)",
+        "reason": "Giữ chữ Hán để phân biệt phương án gần giống hoặc tên kỹ năng; test font NDS."
+      },
+      {
+        "row_index": 739,
+        "ja": "座",
+        "vi": "座 (Tọa)",
+        "reason": "Giữ chữ Hán để phân biệt phương án gần giống hoặc tên kỹ năng; test font NDS."
+      },
+      {
+        "row_index": 740,
+        "ja": "討",
+        "vi": "討 (Thảo)",
+        "reason": "Giữ chữ Hán để phân biệt phương án gần giống hoặc tên kỹ năng; test font NDS."
+      },
+      {
+        "row_index": 741,
+        "ja": "誅",
+        "vi": "誅 (Tru)",
+        "reason": "Giữ chữ Hán để phân biệt phương án gần giống hoặc tên kỹ năng; test font NDS."
+      },
+      {
+        "row_index": 789,
+        "ja": "朱",
+        "vi": "朱 (Chu)",
+        "reason": "Giữ chữ Hán để phân biệt phương án gần giống hoặc tên kỹ năng; test font NDS."
+      },
+      {
+        "row_index": 790,
+        "ja": "青",
+        "vi": "青 (Thanh)",
+        "reason": "Giữ chữ Hán để phân biệt phương án gần giống hoặc tên kỹ năng; test font NDS."
+      },
+      {
+        "row_index": 791,
+        "ja": "玉",
+        "vi": "玉 (Ngọc)",
+        "reason": "Giữ chữ Hán để phân biệt phương án gần giống hoặc tên kỹ năng; test font NDS."
+      },
+      {
+        "row_index": 792,
+        "ja": "亥",
+        "vi": "亥 (Hợi)",
+        "reason": "Giữ chữ Hán để phân biệt phương án gần giống hoặc tên kỹ năng; test font NDS."
+      },
+      {
+        "row_index": 915,
+        "ja": "鵺野鳴介",
+        "vi": "鵺野鳴介 (Meisuke Nueno)",
+        "reason": "Giữ chữ Hán để phân biệt phương án gần giống hoặc tên kỹ năng; test font NDS."
+      },
+      {
+        "row_index": 916,
+        "ja": "鵺野慶介",
+        "vi": "鵺野慶介 (Keisuke Nueno)",
+        "reason": "Giữ chữ Hán để phân biệt phương án gần giống hoặc tên kỹ năng; test font NDS."
+      },
+      {
+        "row_index": 917,
+        "ja": "縫江野鳴介",
+        "vi": "縫江野鳴介 (Meisuke Nue-no)",
+        "reason": "Giữ chữ Hán để phân biệt phương án gần giống hoặc tên kỹ năng; test font NDS."
+      },
+      {
+        "row_index": 918,
+        "ja": "縫江野慶介",
+        "vi": "縫江野慶介 (Keisuke Nue-no)",
+        "reason": "Giữ chữ Hán để phân biệt phương án gần giống hoặc tên kỹ năng; test font NDS."
+      }
+    ],
+    "illustrated_quiz_context_ids": [
+      1750,
+      1751,
+      1763,
+      1773,
+      1783,
+      1793,
+      1803,
+      1813,
+      1823,
+      1833,
+      1842,
+      1852,
+      1862,
+      1872,
+      2111
+    ],
+    "illustrated_quiz_unique_count": 15,
+    "static_check_only": true,
+    "correct_answer_semantics_unverified": true,
+    "nds_font_pixel_width_unverified": true,
+    "rom_patch_or_gameplay_unverified": true
+  },
+  "sha256": {
+    "delta_041": "fb2f4a9b3739540758416f9a8d5023e02a807573fbaf014fd6b9a4b04376e8d9",
+    "merged_038_041": "1250d22577153f0856b1690e2c028bed9548804e08bdd4dd493a68c71e81a069"
+  }
+}
