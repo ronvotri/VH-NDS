@@ -1,0 +1,706 @@
+row_index	id	manga_code	question_index	role	position	ja	vi
+1218	JUS-39a85cb504ebe9e1c81b	13	2628	question_line	0	ヂェーンがいつも心待ちにしている、	Jane luôn mong ngóng
+1219	JUS-a703d06101c4ea26e6f8	13	2628	question_line	1	一年に一度ケニアの町からやってくる	phiên chợ từ thị trấn Kenya
+1220	JUS-b797292e73b6b2bf1418	13	2628	question_line	2	移動マーケット。その経営者である、	ghé mỗi năm một lần. Ông lão
+1221	JUS-c40ebf09bbc5f51ae9e3	13	2628	question_line	3	じいさんの名前は？	chủ phiên chợ đó tên gì?
+1222	JUS-42e1dd93249ad0ff94ac	13	2628	answer_option	0	チュベット	Chubetto
+1223	JUS-dee06c60ae2090fb8207	13	2628	answer_option	1	チャベス	Chavez
+1224	JUS-71f770ecf905793b6ab1	13	2628	answer_option	2	チャブダイ	Chabudai
+1225	JUS-fa4564aca9dc2f2c4cb2	13	2628	answer_option	3	茶柱よし夫	Yoshio Chabashira
+1226	JUS-6ff639b147abf8326d64	13	2629	question_line	0	母親代わりとしてターちゃんを育てた	Con tinh tinh nuôi Tar-chan
+1227	JUS-8c58d5de3dc179a28bbc	13	2629	question_line	1	チンパンジーの名前は？	như mẹ ruột tên gì?
+1228	JUS-946e8a871fccf2a4a4a4	13	2629	answer_option	0	エテ子	Eteko
+1229	JUS-85f3c46e519b231e2185	13	2629	answer_option	1	エテリーナ	Eterina
+1230	JUS-acc40211ba57fb7d05f1	13	2629	answer_option	2	エテ美	Etemi
+1231	JUS-688afdf7ce7f21b369db	13	2629	answer_option	3	よし子さん	Bà Yoshiko
+1232	JUS-c9284ed76a6ce577166f	13	2630	question_line	0	アフリカの動物たちがターちゃんにくれ	Sức mạnh thú rừng châu Phi
+1233	JUS-6c88131dfcc9de497c39	13	2630	question_line	1	る力のことを何という？	trao cho Tar-chan gọi là gì?
+1234	JUS-00a74039cc4890197f1e	13	2630	answer_option	0	動物パワー	Sức mạnh động vật
+1235	JUS-6e461eb863294154e779	13	2630	answer_option	1	アニマル・フォース	Animal Force
+1236	JUS-215049a545268bde11be	13	2630	answer_option	2	地球エネルギー	Năng lượng Trái Đất
+1237	JUS-9afdd322f2136ae29c17	13	2630	answer_option	3	生態気	Sinh khí
+1238	JUS-442ce57e8dc9de178bdd	22	2631	question_line	0	追手内くんが日本一美しい中学生と	Theo Tsuetenai, cô bé đẹp nhất
+1239	JUS-dc0a3d643563cb0f10c3	22	2631	question_line	1	評する女の子の名前はどれ？	trường cấp hai Nhật là ai?
+1240	JUS-bfde6653094bed0a4ded	22	2631	answer_option	0	奇麗田見代	Miyo Kireidami
+1241	JUS-9a80bdba4dc9074a1a48	22	2631	answer_option	1	美市杉代	Sugi Miyoichi
+1242	JUS-e74fe0f418f0216133ae	22	2631	answer_option	2	加愛玲奈	Rena Kaa
+1243	JUS-665e4314e0c7acc21c2d	22	2631	answer_option	3	可憐田奈々	Nana Karendana
+1244	JUS-b03098bdcdb07fab2876	22	2632	question_line	0	追手内くんが日本一醜い中学生と評する	Theo Tsuetenai, cô bé xấu nhất
+1245	JUS-df4bfbe070d850cbee24	22	2632	question_line	1	女の子の名前はどれ？	trường cấp hai Nhật là ai?
+1246	JUS-19beb8b61336e219d6d7	22	2632	answer_option	0	不細工です代	Desuyo Busaiku
+1247	JUS-b105c3cfb7e7f98766b2	22	2632	answer_option	1	不美人よう子	Yoko Fubijin
+1248	JUS-382708152b91c52f8f89	22	2632	answer_option	2	河合久内代	Iyo Kawaikunai
+1249	JUS-31a86261273861eb9a87	22	2632	answer_option	3	武巣たま子	Tamako Busu
+1250	JUS-22d0105d122ae095b674	22	2633	question_line	0	ラッキーマンに変身する少年の	Cậu bé hóa Lucky Man là ai?
+1251	JUS-3c5ebb5859cd1e4700bd	22	2633	answer_option	0	追手内洋一	Yoichi Tsuetenai
+1252	JUS-40433b807c72af16f5a3	22	2633	answer_option	1	不運田武史	Takeshi Fuunida
+1253	JUS-7c7210789ba0b7ef0cb0	22	2633	answer_option	2	津木梨憂介	Yusuke Tsukinashi
+1254	JUS-6621dd84b54f27b5dbd9	22	2633	answer_option	3	常仁駄目男	Dameo Jonin
+1255	JUS-358142b1f2b6d14368dc	22	2634	question_line	0	ラッキーマンのふるさと『幸運の星』が	Khi hành tinh may mắn của
+1256	JUS-5cb86933bb24d318c717	22	2634	question_line	1	雲などで隠れてしまうと、	Lucky Man bị mây che khuất,
+1257	JUS-805ad2e00798b96660c5	22	2634	question_line	2	ラッキーマンの胸のマークはどうなる？	biểu tượng trên ngực ra sao?
+1258	JUS-5e6da5d4cf8a3b0495b1	22	2634	answer_option	0	『凶』になる	Đổi thành chữ Đại Hung
+1259	JUS-db87ff0b0c5e105766c8	22	2634	answer_option	1	文字が消えてしまう	Chữ trên ngực biến mất
+1260	JUS-617246c7274f8f3d0569	22	2634	answer_option	2	『降参』になる	Đổi thành chữ Đầu Hàng
+1261	JUS-8aa1d881de4f8d7797a1	22	2634	answer_option	3	赤く点滅する	Nhấp nháy màu đỏ
+1262	JUS-daa648a070bf2c27995d	22	2635	question_line	0	ラッキーマン２号の正体といえば？	Danh tính Lucky Man số 2?
+1263	JUS-10125bdcb7f0ddecb206	22	2636	question_line	0	追手内くんはラッキーマンと合体する	Khi hợp thể với Lucky Man,
+1264	JUS-6dc29fe4fbbfba69f931	22	2636	question_line	1	ことになった時死んでいたが、	Tsuetenai đã chết rồi. Vì sao
+1265	JUS-7135aa860f4ffa036df9	22	2636	question_line	2	その死因はどれ？	cậu ấy mất mạng?
+1266	JUS-7d1f004aa442694d325e	22	2636	answer_option	0	落ちてきたＵＦＯの下敷き	Bị UFO rơi trúng
+1267	JUS-cfdaabfe1516d324d4fe	22	2636	answer_option	1	突如できた地割れに落下	Rơi xuống khe nứt bất ngờ
+1268	JUS-a3101e06ce68e7a171a7	22	2636	answer_option	2	自分のおならでガス中毒	Ngộ độc khí do tự đánh rắm
+1269	JUS-e0cdbf336f95e592d3ae	22	2636	answer_option	3	日本一醜い中学生の水着姿でショック死	Sốc chết vì bộ đồ bơi quá xấu
+1270	JUS-dfed806378285cb3a362	22	2637	question_line	0	このヒーローの名前は？	Anh hùng này tên gì?
+1271	JUS-22a7e2c66678cdf7d21f	22	2637	answer_option	0	努力マン	Effort Man
+1272	JUS-7bbd23812df51998d515	22	2637	answer_option	1	根性マン	Guts Man
+1273	JUS-3ab5ae722d8318e3b61f	22	2637	answer_option	2	涙マン	Tears Man
+1274	JUS-2b484c4809b78a0edb20	22	2637	answer_option	3	書道マン	Calligraphy Man
+1275	JUS-f5858302609a5d5bcbec	22	2638	question_line	0	追手内くんがラッキーマンに変身する	Tsuetenai ăn gì để
+1276	JUS-7a4fcb1133fc166c39de	22	2638	question_line	1	ために食べるものはどれ？	biến hình thành Lucky Man?
+1277	JUS-d98a92bef14629f5ab1b	22	2638	answer_option	0	らっきょ	Củ kiệu
+1278	JUS-85aa5748387051cf34c1	22	2638	answer_option	1	クッキー	Bánh quy
+1279	JUS-48373555469275d7a54e	22	2638	answer_option	2	落花生	Đậu phộng
+1280	JUS-10b552f14e1e7a5b6620	22	2638	answer_option	3	梅干し	Mơ muối
+1281	JUS-eb57d5755ef146533817	22	2639	question_line	0	杉田努力が努力マンに変身するために	Sugita Doryoku làm gì để
+1282	JUS-d4156a3b0c9aba449773	22	2639	question_line	1	することといえばどれ？	biến thành Effort Man?
+1283	JUS-dc4e3ed69b1bbb22cfff	22	2639	answer_option	0	努力という字を紙に書き胸に貼る	Viết 'Nỗ lực' dán lên ngực
+1284	JUS-f1e0a251b7685ab3c0b0	22	2639	answer_option	1	腕立て伏せを５０回行う	Chống đẩy 50 lần
+1285	JUS-f46132547092e066d028	22	2639	answer_option	2	『努力』と１００回唱える	Hô 'Nỗ lực' 100 lần
+1286	JUS-e1292193177e2e357d02	22	2639	answer_option	3	手と頭で瓦割りをする	Dùng tay và đầu đập ngói
+1287	JUS-f35828080a9abeb8d943	22	2640	question_line	0	日本一目立ちたがる中学生、目立くんが	Cậu học sinh thích nổi nhất
+1288	JUS-f06760e9fcd2d9bf1945	22	2640	question_line	1	変身するヒーローの名前はどれ？	Nhật biến thành anh hùng nào?
+1289	JUS-2330fef663fc33e8e126	22	2640	answer_option	0	スーパースターマン	Superstar Man
+1290	JUS-801d815d114ec22388af	22	2640	answer_option	1	ゴールデンマン	Golden Man
+1291	JUS-30ffe879af24d96d9aeb	22	2640	answer_option	2	スペシャルヒーローマン	Special Hero Man
+1292	JUS-f9d20cd037bc92606a23	22	2640	answer_option	3	学級委員長マン	Class President Man
+1293	JUS-0ce1906fe35c8191e70e	22	2641	question_line	0	勝利マンは、努力マンが作ったあるもの	Victory Man từng suýt chết
+1294	JUS-adb60e5d661f878589e4	22	2641	question_line	1	のために、１週間生死の境をさまよった	suốt một tuần vì thứ
+1295	JUS-d2074bf3260f3df17f0d	22	2641	question_line	2	ことがある。その“作ったもの”と	Effort Man làm ra. Đó
+1296	JUS-3a95529692abc1b727c3	22	2641	question_line	3	いえばどれ？	là thứ gì vậy?
+1297	JUS-3f456e2cf22fcc3b43ae	22	2641	answer_option	1	ダジャレ	Một câu đùa nhạt
+1298	JUS-f0f05b80ac78e8f8e8ee	22	2641	answer_option	2	石膏像	Tượng thạch cao
+1299	JUS-507565c8e7cf0043cbb3	22	2641	answer_option	3	勝利マンのコスチューム	Bộ đồ của Victory Man
+1300	JUS-3080de05aeeaad1d553f	22	2642	question_line	0	天才マンの光線といえば？	Tia sáng của Genius Man là gì?
+1301	JUS-92640ed78e8cb804bd4f	22	2642	answer_option	0	カッ	Ka!
+1302	JUS-26cc451b69fd2216310b	22	2642	answer_option	1	キッ	Ki!
+1303	JUS-1021b1cce39fbada9078	22	2642	answer_option	2	ビッ	Bi!
+1304	JUS-3e2207ca469241aa3db0	22	2642	answer_option	3	フッ	Fu!
+1305	JUS-a43c66ded6f47e99245b	22	2643	question_line	0	勝利マンと友情マンの弟は誰？	Em trai Victory và Friendship Man?
+1306	JUS-ecf001c884adc2ed894f	22	2643	answer_option	1	ラッキーマン	Lucky Man
+1307	JUS-56c5f900a89b446dd84e	22	2643	answer_option	3	天才マン	Genius Man
+1308	JUS-a61a1a0217fff4caab2f	22	2644	question_line	0	この人物の肩書きは	Chức danh người này là gì?
+1309	JUS-fd6f1551b230dd49f1aa	22	2644	answer_option	0	ヒーロー協会会長	Chủ tịch Hiệp hội Anh hùng
+1310	JUS-f05531c44add24d39239	22	2644	answer_option	1	ヒーロー神	Thần Anh hùng
+1311	JUS-f3932690b7391b67a14a	22	2644	answer_option	2	ヒーロー戦隊隊長	Đội trưởng Biệt đội Anh hùng
+1312	JUS-c3ce7bb5b13a99846fea	22	2644	answer_option	3	ラッキーマンの父	Bố của Lucky Man
+1313	JUS-5b9926d27cc666030ee6	22	2645	answer_option	1	キザーマン	Kiza Man
+1314	JUS-70f933774503502e0fee	22	2645	answer_option	2	美男子マン	Handsome Man
+1315	JUS-e58d02b4df40bf79a3b4	22	2645	answer_option	3	素敵マン	Wonderful Man
+1316	JUS-c24ed27bdcb1f8e67559	22	2646	question_line	0	スーパースターマンは、どのようにして	Superstar Man trở thành
+1317	JUS-cccc90d1ef253868a6c0	22	2646	question_line	1	ヒーローになった？	anh hùng bằng cách nào?
+1318	JUS-c67b960d4a8d8f44db33	22	2646	answer_option	0	ヒーロー製作所で改造してもらった	Được cải tạo tại xưởng Anh hùng
+1319	JUS-fa43a46045cf2fd0bc5b	22	2646	answer_option	1	ひたすら努力してヒーローになった	Nỗ lực cật lực để thành anh hùng
+1320	JUS-4ab50b818b2219f02c75	22	2646	answer_option	2	ヒーロー認定証を拾った	Nhặt được chứng nhận Anh hùng
+1321	JUS-32579a33601dd040ac00	22	2646	answer_option	3	生まれつきヒーローだった	Sinh ra đã là anh hùng
+1322	JUS-626e52a19491cd2c7367	22	2647	question_line	0	みっちゃんを殺されて怒った	Mitchan bị giết khiến Lucky Man
+1323	JUS-de032c178124a97ece0f	22	2647	question_line	1	ラッキーマンは何になった？	nổi giận và biến thành gì?
+1324	JUS-de599d91317ccafa2f05	22	2647	answer_option	0	プラチナラッキーマン	Platinum Lucky Man
+1325	JUS-34fff0b1c43e0cc6557f	22	2647	answer_option	1	最強ラッキーマン	Ultimate Lucky Man
+1326	JUS-ea9287ab9a4d10292b38	22	2647	answer_option	2	黄金ラッキーマン	Golden Lucky Man
+1327	JUS-91dc2d32ecdcc0a4ddc8	22	2647	answer_option	3	スペシャルラッキーマン	Special Lucky Man
+1328	JUS-766ef52f4be12eb147a8	22	2648	question_line	0	努力マンが恋した女性の“族名”は？	Tên tộc của người Effort Man yêu?
+1329	JUS-0f596f2a32d1a54571e8	22	2648	answer_option	0	麻理亜	Maria
+1330	JUS-6e57bc814387b2ded4c7	22	2648	answer_option	1	エミリ	Emily
+1331	JUS-641ed181ba38ac0c0795	22	2648	answer_option	2	留美	Rumi
+1332	JUS-b16cb236287025087554	22	2648	answer_option	3	輝代	Teruyo
+1333	JUS-1840dec3502af86ce174	22	2649	question_line	0	Ｈ－１グランプリ第一回戦で	Ở vòng đầu H-1 Grand Prix,
+1334	JUS-2cdb26b56a9ec75dd381	22	2649	question_line	1	ラッキーマンが戦った相手は誰？	Lucky Man đấu với ai?
+1335	JUS-674f701f69b04edb0c6a	22	2649	answer_option	1	勝利マン	Victory Man
+1336	JUS-fea3bc0d64b4e9720cd6	22	2649	answer_option	2	友情マン	Friendship Man
+1337	JUS-dd5372b485686954e30e	22	2649	answer_option	3	ぼっちゃんマン	Rich Boy Man
+1338	JUS-99ee44f5630631be54b1	22	2650	question_line	0	勝利マンの頭の側面についているもの	Hai bên đầu Victory Man gắn gì?
+1339	JUS-1c93abd87dc5fc7ac903	22	2650	answer_option	1	串カツ	Thịt xiên tẩm bột chiên
+1340	JUS-7f9f398f733ea12b9090	22	2650	answer_option	2	メンチカツ	Thịt băm tẩm bột chiên
+1341	JUS-dc06e0584385e3dd781b	22	2650	answer_option	3	ハムカツ	Giăm bông tẩm bột chiên
+1342	JUS-93d939dc9b4db8552825	22	2651	question_line	0	勝利マンたちの父親の名前はどれ？	Bố của Victory Man tên gì?
+1343	JUS-21cec3a126382b5b8792	22	2651	answer_option	0	三本柱マン	Three-Pillar Man
+1344	JUS-8076fd01a19d997002bd	22	2651	answer_option	1	親父マン	Dad Man
+1345	JUS-579ac75423645d996e52	22	2651	answer_option	2	完璧マン	Perfect Man
+1346	JUS-fa9d778cac536bcbca52	22	2651	answer_option	3	愛情マン	Love Man
+1347	JUS-f920aae09995df23a9f6	22	2652	question_line	0	救世主マンを含めたヒーロー１６人の	Khi 16 anh hùng, gồm cả
+1348	JUS-1128915ffecec8e2a16e	22	2652	question_line	1	心がひとつになった時にうまれる	Savior Man, đồng lòng,
+1349	JUS-5b8b94a088cd9f62d190	22	2652	question_line	2	パワーをなんという？	sức mạnh sinh ra gọi là gì?
+1350	JUS-7723f353946edfa978bd	22	2652	answer_option	0	ナイナイ１６	Nai Nai 16
+1351	JUS-e2692c2cbc2a3d983cf3	22	2652	answer_option	1	パワーオブ１６	Power of 16
+1352	JUS-5be1b85f7776abe991bc	22	2652	answer_option	2	ミラクル１６	Miracle 16
+1353	JUS-cd67639f7097804b8e29	22	2652	answer_option	3	１６レジェンド	16 Legend
+1354	JUS-5c3316a67eea28553b86	22	2653	question_line	0	勝利マンたちの父親を殺した	Kẻ thống trị vũ trụ ngược
+1355	JUS-999b6f4828fdd11fd4cc	22	2653	question_line	1	裏宇宙支配者の名前はどれ？	đã giết bố Victory Man tên gì?
+1356	JUS-2f0dc4d1dff2f820fee3	22	2653	answer_option	0	バックコスモス・サミット１６世	Backcosmos Summit XVI
+1357	JUS-b59b08d2b7b11d164764	22	2653	answer_option	1	バッドモンスター・レイ	Badmonster Ray
+1358	JUS-18737bea9cf8418caa57	22	2653	answer_option	2	サザンクロス・ゼンダ７世	Southern Cross Zenda VII
+1359	JUS-e1bcb28776d8141168bd	22	2653	answer_option	3	悪徳教皇マン	Evil Pope Man
+1360	JUS-8bd1f06d69234f14e0a1	22	2654	question_line	0	ヒーロー神様よりラッキーマンが	Thần Anh hùng đã bổ nhiệm
+1361	JUS-6737d850e69ab8b3a59c	22	2654	question_line	1	任命された役職といえばどれ？	Lucky Man vào chức vụ nào?
+1362	JUS-0f81f58107e83a2d8162	22	2654	answer_option	0	大宇宙神	Thần Đại Vũ Trụ
+1363	JUS-9bcae4e95ba5fda98791	22	2654	answer_option	2	地球大使	Đại sứ Trái Đất
+1364	JUS-e45cdb2932554b46f7dc	22	2654	answer_option	3	太陽系大神	Đại Thần Hệ Mặt Trời
+1365	JUS-4c501daee3b157266ae5	22	2655	question_line	0	ラッキーマンと追手内くんを分離する	Để tách Lucky Man và Tsuetenai,
+1366	JUS-39c39c765560052dac6c	22	2655	question_line	1	時に使った道具はどれ？	người ta dùng vật gì?
+1367	JUS-9555bbd45583b9a8a1b3	22	2655	answer_option	0	大宇宙神指輪	Nhẫn Thần Đại Vũ Trụ
+1368	JUS-ce4076e8a23652ab5376	22	2655	answer_option	1	水晶玉	Quả cầu pha lê
+1369	JUS-1b34a139edb4e4878faa	22	2655	answer_option	2	銀のメガネ	Kính bạc
+1370	JUS-3faa8117f2f0198589b1	22	2655	answer_option	3	知恵の輪	Vòng giải đố
+1371	JUS-6ba742daeeffbc39d918	18	2656	question_line	0	リョーマたちの通う学校、通称“青学”	Trường của Ryoma, gọi là Seigaku,
+1372	JUS-b5cf91a4d8a2dbc76df1	18	2656	question_line	1	の正式名称はどれ？	có tên chính thức là gì?
+1373	JUS-a31d8faa94693b5ba065	18	2656	answer_option	0	青春学園	Seishun Gakuen
+1374	JUS-28cb2ca0df3c3010d04e	18	2656	answer_option	1	青葉学園	Aoba Gakuen
+1375	JUS-393ccdf76c1b3b94ae24	18	2656	answer_option	2	青山学園	Aoyama Gakuen
+1376	JUS-db27b06a9556069d9659	18	2656	answer_option	3	青島テニス専門学校	Aoshima Tennis Academy
+1377	JUS-fefff984928be338c9a5	18	2657	question_line	0	小学校時代、リョーマが柿ノ木坂ジュニ	Hồi tiểu học, Ryoma từng đấu
+1378	JUS-e2afed4885fa008d19c3	18	2657	question_line	1	アテニストーナメント会場で対戦したこ	với ai ở giải quần vợt trẻ
+1379	JUS-389835146b48b1a8e9ca	18	2657	question_line	2	とのある相手は誰？	Kakinokizaka?
+1380	JUS-7fcef82cd27718c3410a	18	2657	answer_option	0	佐々部	Sasabe
+1381	JUS-fc728728f9cf6e1d3875	18	2657	answer_option	1	佐々木	Sasaki
+1382	JUS-5cb510249d78a17d3b1b	18	2657	answer_option	2	佐々原	Sasahara
+1383	JUS-71d50b9f81c6fe02deef	18	2657	answer_option	3	佐々野	Sasano
+1384	JUS-922b24c79ebc9aee6631	18	2658	question_line	0	リョーマの父親の名前は？	Bố của Ryoma tên là gì?
+1385	JUS-dc59933a4e3b1615d750	18	2658	answer_option	0	越前南次郎	Nanjiro Echizen
+1386	JUS-8bd051b04c50fee983b3	18	2658	answer_option	1	越中南次郎	Nanjiro Etsunaka
+1387	JUS-6f3aeadba11e5e59dbc0	18	2658	answer_option	2	越後南次郎	Nanjiro Echigo
+1388	JUS-39cc1990b716cb282141	18	2658	answer_option	3	越山南次郎	Nanjiro Koshiyama
+1389	JUS-bd499522e17a1b04e5ee	18	2659	question_line	0	竜崎先生と桜乃の関係は？	Cô Ryuzaki và Sakuno có quan hệ gì?
+1390	JUS-fcfcaeee40832229155b	18	2659	answer_option	0	祖母と孫	Bà và cháu gái
+1391	JUS-bbc3fd46367a481a5228	18	2659	answer_option	1	母と娘	Mẹ và con gái
+1392	JUS-590e8bdb9273f0c1625c	18	2659	answer_option	2	伯母と姪	Cô và cháu gái
+1393	JUS-2488557b9a3eeba137a1	18	2659	answer_option	3	実は他人	Thật ra chẳng liên quan
+1394	JUS-6e755d942eb9e24ddfcd	18	2660	question_line	0	青学テニス部のメンバーの中で、最初に	Trong đội tennis Seigaku, ai
+1395	JUS-548a5a0b780dba6cce17	18	2660	question_line	1	リョーマと試合形式で対戦したのは誰？	đấu tập với Ryoma đầu tiên?
+1396	JUS-914531533b0e0fadb7c1	18	2660	answer_option	0	桃城	Momoshiro
+1397	JUS-61f78c43659dcd2a109a	18	2660	answer_option	1	乾	Inui
+1398	JUS-e09ad819b508d7532bdb	18	2660	answer_option	2	荒井	Arai
+1399	JUS-92f0c3d3cbfd2f42b630	18	2660	answer_option	3	海堂	Kaido
+1400	JUS-b70f63495093d263bab0	18	2661	question_line	0	海堂のニックネームと言えば？	Biệt danh của Kaido là gì?
+1401	JUS-d187763f749d65595de1	18	2661	answer_option	0	マムシ	Rắn lục Mamushi
+1402	JUS-6e7270ad1f5b53f88fee	18	2661	answer_option	2	ガラガラヘビ	Rắn đuôi chuông
+1403	JUS-dc379c71330348a713f7	18	2661	answer_option	3	青大将	Rắn Aodaisho
+1404	JUS-38191b520b27c8db1065	18	2662	question_line	0	竜崎先生の担当教科はどれ？	Cô Ryuzaki dạy môn nào?
+1405	JUS-a9085544b50af56cc509	18	2662	answer_option	0	数学	Toán
+1406	JUS-e158239bd15932044d2b	18	2662	answer_option	1	国語	Quốc ngữ
+1407	JUS-baccc4064dcaf4ce8f46	18	2662	answer_option	2	保健体育	Giáo dục thể chất
+1408	JUS-b105d68d82c6ef7fc264	18	2662	answer_option	3	英語	Tiếng Anh
+1409	JUS-dc835723ffb8151cf534	18	2663	question_line	0	リョーマ、桃城のダブルスが初めて公式	Lần đầu Ryoma và Momoshiro
+1410	JUS-fac705e7781a3c5c38be	18	2663	question_line	1	戦に出た際に見せた「かけ声」はどれ？	đánh đôi chính thức, họ hô gì?
+1411	JUS-7be91fccdf7de3bfe829	18	2663	answer_option	0	阿・吽	A - Un
+1412	JUS-1c9496a7c14eb4f69591	18	2663	answer_option	1	ツー・カー	Tsu - Ka
+1413	JUS-cf7b90055feb61a2b90a	18	2663	answer_option	2	風神・雷神	Phong Thần - Lôi Thần
+1414	JUS-47205efa8c3a69224c6c	18	2663	answer_option	3	山・川	Núi - Sông
+1415	JUS-0e3b7ca086cc5cc01dcd	18	2664	question_line	0	リョーマが加わった青学テニス部の、	Đội Seigaku cùng Ryoma
+1416	JUS-c257899a56f03d65616c	18	2664	question_line	1	初の公式戦の対戦校はどこ？	gặp trường nào ở trận đầu?
+1417	JUS-8af1898598f19ff0d9c1	18	2664	answer_option	0	玉林	Gyokurin
+1418	JUS-8b841c6a3ae4e9326b6a	18	2664	answer_option	1	柿ノ木坂東	Kakinokizaka Higashi
+1419	JUS-d9b5007daedad91ca349	18	2664	answer_option	2	不動峰	Fudomine
+1420	JUS-e0ae92beb1cf4ead439e	18	2664	answer_option	3	水ノ淵	Mizunofuchi
+1421	JUS-68d72155d07171a2cd21	18	2665	question_line	0	リョーマのクラスメイト	Cậu bạn cùng lớp Ryoma
+1422	JUS-a3be630116e3f05dc3e6	18	2665	question_line	1	でもある、彼の名前は？	trong hình tên gì?
+1423	JUS-2b410891df910701e983	18	2665	answer_option	0	堀尾	Horio
+1424	JUS-02110c4f177a42b96116	18	2665	answer_option	1	森尾	Morio
+1425	JUS-08becc5e775e5b44c845	18	2665	answer_option	2	水尾	Mizuo
+1426	JUS-88251ee701c1247c51ef	18	2665	answer_option	3	九尾	Kyuubi
+1427	JUS-7c7b7bd8e22c342fd26c	18	2666	question_line	0	「お前は決して弱くない<IDEOSP>オレが強かっ	Cậu đâu yếu!<IDEOSP>Tôi mạnh hơn!
+1428	JUS-dc6f20237b073239806c	18	2666	question_line	1	ただけの話だ！！」とは、誰のセリフ？	Câu nói đó là của ai?
+1429	JUS-855f6ab03bcec75c334e	18	2666	answer_option	0	柿ノ木・九鬼	Kuki (Kakinoki)
+1430	JUS-c3ecada7e380bc7c7200	18	2666	answer_option	1	玉林・布川	Nunokawa (Gyokurin)
+1431	JUS-627e25c5c84dfe989f55	18	2666	answer_option	2	立海大付属・切原	Kirihara (Rikkai)
+1432	JUS-fc630d5c5ced6669f7a8	18	2666	answer_option	3	不動峰・伊武	Ibu (Fudomine)
+1433	JUS-cd443f755cb514a68ddf	18	2667	question_line	0	神尾の口グセといえば？	Câu cửa miệng của Kamio là gì?
+1434	JUS-c280abf80e1cd7440f3b	18	2667	answer_option	0	リズムにのるぜ♪	Bắt nhịp nào ♪
+1435	JUS-c935141613ea2280c50b	18	2667	answer_option	1	加速するぜ	Tăng tốc nào!
+1436	JUS-00beb1658a1d974cc54b	18	2667	answer_option	2	ビートを刻むぜ	Quẩy theo beat nào!
+1437	JUS-07d31163cf60e0597f14	18	2667	answer_option	3	テンション上げるぜ	Lên mood nào!
+1438	JUS-180483aa419840bc0122	18	2668	question_line	0	青学のメンバーで、実家がすし屋といえ	Nhà thành viên nào của Seigaku
+1439	JUS-4686fbf5c9f2f8c657f8	18	2668	question_line	1	ば誰？	mở tiệm sushi?
+1440	JUS-7a63e34efcec8bf8a29f	18	2668	answer_option	0	河村	Kawamura
+1441	JUS-b5ccaa0ee8e180b22fb3	18	2668	answer_option	1	大石	Oishi
+1442	JUS-2f7098620a45e173cef2	18	2668	answer_option	2	菊丸	Kikumaru
+1443	JUS-66115ab26fc34fd6eb81	18	2669	question_line	0	リョーマが地区予選のシングルスで最初	Đối thủ đơn đầu tiên của Ryoma
+1444	JUS-ca898d6c6efe0f785bcc	18	2669	question_line	1	に戦った相手は誰？	ở vòng loại khu vực là ai?
+1445	JUS-1c64632fe77be678513f	18	2669	answer_option	1	玉林・泉	Izumi (Gyokurin)
+1446	JUS-bc8aab7a67bdb77b95db	18	2669	answer_option	2	不動峰・神尾	Kamio (Fudomine)
+1447	JUS-1780a2ef899661119df8	18	2670	question_line	0	乾特製野菜汁。最初の犠牲者は誰？	Ai nếm nước rau Inui đầu tiên?
+1448	JUS-0c9150792ef551e2b1fe	18	2671	question_line	0	リョーマの家の猫の名前は？	Mèo nhà Ryoma tên gì?
+1449	JUS-f0af6c6be3a8b3b9a0d1	18	2671	answer_option	0	カルピン	Karupin
+1450	JUS-d866941c3ede2d021f9b	18	2671	answer_option	1	カルバン	Karuban
+1451	JUS-3ba101320f7a944dbcf6	18	2671	answer_option	2	カルビン	Karubin
+1452	JUS-4b0a4b9b845053ed77b0	18	2671	answer_option	3	カルパン	Karupan
+1453	JUS-0fad7c3b07b9846c6898	18	2672	question_line	0	不二の姉の名は？	Chị của Fuji tên gì?
+1454	JUS-6e9c9aaab239bc55baad	18	2672	answer_option	0	由美子	Yumiko
+1455	JUS-89c9a74e5c401b1c2042	18	2672	answer_option	1	スミレ	Sumire
+1456	JUS-cbc20afca2971b221f9d	18	2672	answer_option	2	朋	Tomo
+1457	JUS-0949754ded2bb3fe9579	18	2672	answer_option	3	藤子	Fujiko
+1458	JUS-ab0a9e4def906cef2eca	18	2673	question_line	0	リョーマが手塚の公式戦でのプレイを	Lần đầu Ryoma xem Tezuka
+1459	JUS-51e1d7fc50add550f6fc	18	2673	question_line	1	初めて見た際の対戦校はどれ？	thi đấu, đối thủ là trường nào?
+1460	JUS-8125ee681b2f360d1939	18	2673	answer_option	0	鎌田	Kamada
+1461	JUS-e07fff47d1335e8cc5e9	18	2673	answer_option	1	辰巳台東	Tatsumidai Higashi
+1462	JUS-5fbf7eb126b5192e9b6a	18	2673	answer_option	2	日々野五	Hibino Go
+1463	JUS-a6098bfa7bab026f6952	18	2673	answer_option	3	秋山三	Akiyama San
+1464	JUS-0d86d863bd7a22d6d347	18	2674	question_line	0	対聖ルドルフ戦のオーダーで、ダブルス	Trong trận gặp St. Rudolph,
+1465	JUS-34b1c1b6010a63c05c9b	18	2674	question_line	1	の試合を戦ったペアはどれ？	cặp nào thi đấu đôi?
+1466	JUS-879d4b88b0e9ab84ffd8	18	2674	answer_option	0	桃城・海堂	Momoshiro - Kaido
+1467	JUS-eb73c48b8f0d0e75f3b7	18	2674	answer_option	1	乾・海堂	Inui - Kaido
+1468	JUS-eb25f900fa8edbf1822d	18	2674	answer_option	2	桃城・リョーマ	Momoshiro - Ryoma
+1469	JUS-8840c12b1e61c7410e98	18	2674	answer_option	3	不二・河村	Fuji - Kawamura
+1470	JUS-6406f0de9bf076f3e55f	18	2675	question_line	0	聖ルドルフのこの男、海	Đám Kaido gọi anh chàng
+1471	JUS-920d39e24b80fac57932	18	2675	question_line	1	堂たちには何と呼ばれて	ở St. Rudolph này
+1472	JUS-efaec1739340a6bf6d03	18	2675	question_line	2	いる？	bằng biệt danh gì?
+1473	JUS-c0d86d4d0dfc097a824b	18	2675	answer_option	0	アヒル	Vịt
+1474	JUS-806d172e62209dd5080d	18	2675	answer_option	2	ダチョウ	Đà điểu
+1475	JUS-35f80afa2a37fb59dcee	18	2675	answer_option	3	ヤナギ	Yanagi
+1476	JUS-8af302736c9f7e9cd89b	18	2676	question_line	0	聖ルドルフ・赤澤の『ブレ球』。菊丸に	Cú bóng rung của Akazawa
+1477	JUS-9759aace8731f2d2e002	18	2676	question_line	1	はいくつに見えていた？	trông như mấy quả với Kikumaru?
+1478	JUS-21de68d3ba6880fee006	18	2676	answer_option	0	８個	8 quả
+1479	JUS-441c83f23c7e3e32f8d0	18	2676	answer_option	1	５個	5 quả
+1480	JUS-57c3ba1eded0933d5915	18	2676	answer_option	2	６個	6 quả
+1481	JUS-e565febfcd1078c8c266	18	2676	answer_option	3	７個	7 quả
+1482	JUS-07d2387f001538dad69b	18	2677	question_line	0	大石の必殺技といえば？	Tuyệt kỹ của Oishi là gì?
+1483	JUS-b324317631e1b2e0f343	18	2677	answer_option	0	ムーンボレー	Moon Volley
+1484	JUS-38dcb1bebee318cf6b3c	18	2677	answer_option	1	波動球	Hadokyu
+1485	JUS-665f05ebd1da1bba48fa	18	2677	answer_option	2	零式ドロップショット	Zero-Shiki Drop Shot
+1486	JUS-1710831187c5393ad3eb	18	2677	answer_option	3	音速弾	Sonic Bullet
+1487	JUS-5ecbe070793a2bdb45f2	18	2678	question_line	0	大石・菊丸のダブルスペアが対聖ルドル	Oishi và Kikumaru dùng đội hình
+1488	JUS-352ca7fc16d64f12534f	18	2678	question_line	1	フ戦で見せた、変形フォーメーションと	biến thể nào gặp St. Rudolph?
+1489	JUS-702c7c1de1836dda1a12	18	2678	answer_option	0	オーストラリアンフォーメーション	Australian Formation
+1490	JUS-b5588fe6427766b64007	18	2678	answer_option	1	オーストリアンフォーメーション	Austrian Formation
+1491	JUS-e3d7a15e55d986856cc9	18	2678	answer_option	2	オーフトラリアンフォーメーション	Ouftralian Formation
+1492	JUS-e57df0ff86c0d0b7bb2c	18	2678	answer_option	3	オーフトリアンフォーメーション	Ouftrian Formation
+1493	JUS-239a769bcdf755d4bc7a	18	2679	question_line	0	菊丸の決めゼリフである「残念無念また	Kikumaru hay nói: 'Tiếc quá,
+1494	JUS-fb3fa57291ab4d2611d3	18	2679	question_line	1	○○」。○○に入る言葉は？	hẹn ○○'. Điền gì vào ○○?
+1495	JUS-6ab5733cab27e7844809	18	2679	answer_option	0	来週	tuần sau
+1496	JUS-f8ba73fd244c031c54f0	18	2679	answer_option	2	来年	năm sau
+1497	JUS-50809780b69c1cf5a641	18	2679	answer_option	3	今度	lần sau
+1498	JUS-2b6085660989da1a7099	18	2680	question_line	0	不二裕太の『ツイストスピンショット』	Ryoma dùng chiêu nào đánh bại
+1499	JUS-1f540a4ab6b1d428d0ba	18	2680	question_line	1	をうち破った、リョーマの技といえば	Twist Spin Shot của Yuta Fuji?
+1500	JUS-c7a65bac1d9dac3d3d1c	18	2680	answer_option	0	ドライブＢ	Drive B
+1501	JUS-ea42bc3dd4edee8164b0	18	2680	answer_option	1	ツイストスマッシュ	Twist Smash
+1502	JUS-f434805f3a6f17e367c1	18	2680	answer_option	2	超ライジング	Super Rising
+1503	JUS-246392bc01c1a86243e1	18	2680	answer_option	3	ＣＯＯＬドライブ	COOL Drive
+1504	JUS-557d3dc44ae5450e91cc	18	2681	question_line	0	観月の口グセと言えば？	Câu cửa miệng của Mizuki là gì?
+1505	JUS-2d1c50f0fb2c3776392f	18	2681	answer_option	0	んふっ	Nfu!
+1506	JUS-9b99f866699f48a58a59	18	2681	answer_option	1	ぬはっ	Nuha!
+1507	JUS-fbb4053d45cfe6a96f09	18	2681	answer_option	2	ぬほっ	Nuho!
+1508	JUS-7214047f42c2a298913b	18	2681	answer_option	3	むひっ	Muhi!
+1509	JUS-7a9ad39234b541a281a0	18	2682	question_line	0	不二の『四種の返し球』、リョーマが	Trong 4 cú phản đòn của Fuji,
+1510	JUS-b2d409baec174b373472	18	2682	question_line	1	最初にくらったのはどれ？	Ryoma ăn cú nào đầu tiên?
+1511	JUS-b2d553de3ca6830a8431	18	2682	answer_option	0	羆落とし	Higuma Otoshi
+1512	JUS-b7a6d0edb49c33cf3480	18	2682	answer_option	1	つばめ返し	Tsubame Gaeshi
+1513	JUS-da4c6f4f3cb8aa3dc31a	18	2682	answer_option	2	白鯨	Hakugei
+1514	JUS-3b286f03a4d1ce609fb6	18	2682	answer_option	3	蜉蝣包み	Kagero Zutsumi
+1515	JUS-1fe4cb553ed3a554517d	18	2683	question_line	0	六角中の面々を悶絶させた、乾特製ドリ	Thức uống Inui pha khiến
+1516	JUS-7302e70c6ac89d7eadfc	18	2683	question_line	1	ンクといえば？	cả đội Rokkaku phát khiếp là gì?
+1517	JUS-152c2cfc63b949e8d2df	18	2683	answer_option	0	イワシ水	Nước cá mòi
+1518	JUS-99ad02f5a52c64bc71b1	18	2683	answer_option	1	サンマ水	Nước cá thu đao
+1519	JUS-a1f64f6db92aa4ed17c7	18	2683	answer_option	2	アナゴ水	Nước cá chình biển
+1520	JUS-eb5295ef41e4790f0110	18	2683	answer_option	3	マグロ水	Nước cá ngừ
+1521	JUS-5b179dd60f2e8a3ae31f	18	2684	question_line	0	都大会準決勝、銀華の対戦結果は？	Bán kết giải đô thành, Ginka ra sao?
+1522	JUS-296e4c641e5529a5a5c9	18	2684	answer_option	0	不戦敗	Thua do bỏ cuộc
+1523	JUS-92ac765fdee23f1de2ac	18	2684	answer_option	1	３対０で勝ち	Thắng 3-0
+1524	JUS-895d99b3f3f8b5263dc8	18	2684	answer_option	2	０対３で負け	Thua 0-3
+1525	JUS-a5ccfd120d9df0603e93	18	2684	answer_option	3	不戦勝	Thắng do đối thủ bỏ cuộc
+1526	JUS-73bfee33a47f80245503	18	2685	question_line	0	山吹中のこの二人の呼び	Bộ đôi Yamabuki này
+1527	JUS-babe151528aef75214d6	18	2685	question_line	1	名といえば？	có biệt danh gì?
+1528	JUS-34df5aabb3dbba6dad4e	18	2685	answer_option	0	地味’Ｓ（ジミーズ）	Jimi's (Bộ đôi mờ nhạt)
+1529	JUS-227fd010437152e06800	18	2685	answer_option	1	根暗’Ｓ（ネクラーズ）	Nekura's (Bộ đôi u ám)
+1530	JUS-d000591406e5ded72ba7	18	2685	answer_option	2	無口’Ｓ（ムクチーズ）	Mukuchi's (Bộ đôi ít nói)
+1531	JUS-7972b4f930d164fed1a2	18	2685	answer_option	3	無色ｅｒ’Ｓ（ムショッカーズ）	Mushokka's (Bộ đôi vô sắc)
+1532	JUS-483c5dc8d176127c3ca3	18	2686	question_line	0	乾の必殺サーブと言えば？	Cú giao bóng đặc biệt của Inui?
+1533	JUS-e48916ed6dbbfe566b86	18	2686	answer_option	0	ウォーターフォール	Waterfall
+1534	JUS-5d9370594a8d49d39fcc	18	2686	answer_option	1	スカッドサーブ	Scud Serve
+1535	JUS-9daeddbd760d36dd04e0	18	2686	answer_option	2	バーニングサーブ	Burning Serve
+1536	JUS-aef1f6e433af109f961b	18	2686	answer_option	3	ビッグバン	Big Bang
+1537	JUS-0e427f482617c3dc4c07	18	2687	question_line	0	関東大会対氷帝・樺地戦において、	Trận Kawamura gặp Kabaji
+1538	JUS-f14b9a7bb49b35ded09d	18	2687	question_line	1	河村が叫んでいない掛け声はどれ？	ở Hyotei, cậu KHÔNG hét câu nào?
+1539	JUS-c19a41fb5bb14d4037cd	18	2687	answer_option	0	ブレーイクッ！！	Breeeak!!
+1540	JUS-fc5f61c97f5098177312	18	2687	answer_option	1	構うもんかヒィート！！	Kệ luôn! Heaaat!!
+1541	JUS-2af091d474ecc31ca3d1	18	2687	answer_option	2	グレイトォーッ！！	Greeeat!!
+1542	JUS-d53eabb4c3e46a20ce48	18	2687	answer_option	3	ナッシィーング！！	Nothiiing!!
+1543	JUS-049fad7cf362c0008c37	18	2688	question_line	0	関東大会対氷帝戦、芥川と対戦した不二	Trận gặp Jiro Akutagawa,
+1544	JUS-2a1cb866221e75460f42	18	2688	question_line	1	が、リョーマに初めて見せた『三種の返	Fuji lần đầu cho Ryoma thấy
+1545	JUS-270218cb4dee5adf7945	18	2688	question_line	2	し球（当時）』のひとつはどれ？	cú nào trong bộ ba phản đòn?
+1546	JUS-1fd014ce722d1edc0bfa	18	2689	question_line	0	関東大会対氷帝戦、手塚と跡部の対戦は	Trận Tezuka gặp Atobe ở giải
+1547	JUS-ba801e12221d24fa90d0	18	2689	question_line	1	何回目？	Kanto là lần chạm trán thứ mấy?
+1548	JUS-0b5c4a4077c436869489	18	2689	answer_option	0	実は初対戦	Thật ra là lần đầu
+1549	JUS-58e7ffcb46ba7cd19c7f	18	2689	answer_option	1	２回目	Lần thứ 2
+1550	JUS-85d150dba554a4a5322a	18	2689	answer_option	2	４回目	Lần thứ 4
+1551	JUS-664adb77de3fed38d55f	18	2689	answer_option	3	６回目	Lần thứ 6
+1552	JUS-154412bb2a93dc382d34	18	2690	question_line	0	手塚との対戦時に放った、跡部の	Khi đấu Tezuka, Atobe
+1553	JUS-7edf73872880db183d30	18	2690	question_line	1	決めセリフといえばどれ？	thốt câu cửa miệng nào?
+1554	JUS-aea0a307cb3f423f6adb	18	2690	answer_option	0	俺様の美技に酔いな	Say mê tuyệt kỹ của ta đi!
+1555	JUS-1e2f2e786edc8c634d0b	18	2690	answer_option	1	俺様にひざまずきな	Quỳ trước ta đi!
+1556	JUS-a295429d7046093d9f43	18	2690	answer_option	2	俺様に死角なし	Ta chẳng có điểm mù!
+1557	JUS-560e87d6f1eea5752b76	18	2690	answer_option	3	俺様の世界へようこそ	Chào mừng tới thế giới của ta!
+1558	JUS-b60cb33d6660358e8501	18	2691	question_line	0	関東大会対氷帝・跡部戦。手塚が	Trong trận gặp Atobe,
+1559	JUS-653b80a5b21699435c1a	18	2691	question_line	1	繰り出した、決まったところにボールを	Tezuka khiến bóng luôn bay
+1560	JUS-0e3416d396b39f97254c	18	2691	question_line	2	打ち返させる技といえばどれ？	về một chỗ bằng chiêu nào?
+1561	JUS-f417faf2a6be3f58a43f	18	2691	answer_option	0	手塚ゾーン	Tezuka Zone
+1562	JUS-47dd8ed84a30af230cf6	18	2691	answer_option	1	手塚エリア	Tezuka Area
+1563	JUS-0e161d00e73ce4e069b0	18	2691	answer_option	2	手塚の領域	Tezuka Domain
+1564	JUS-3ca23160ac82073780ad	18	2691	answer_option	3	手塚のてのひら	Lòng bàn tay Tezuka
+1565	JUS-b64a2342167037d5f384	18	2692	question_line	0	立海大付属の真田をして、「たまらん	Chiêu khiến Sanada phải
+1566	JUS-69168d22b594f4ffb094	18	2692	question_line	1	スマッシュ」と言わしめる技は？	thốt 'Cú smash ghê thật!' là gì?
+1567	JUS-dea69aa320b2aa9cdf14	18	2692	answer_option	0	跡部の『破滅への輪舞曲』	Rondo Towards Destruction
+1568	JUS-776e60107b68b629e458	18	2692	answer_option	1	桃城の『ダンクスマッシュ』	Dunk Smash của Momoshiro
+1569	JUS-19fb5c6af7941a503057	18	2692	answer_option	2	菊丸の『菊丸バズーカ』	Kikumaru Bazooka
+1570	JUS-6e109294bd2f2db736b1	18	2692	answer_option	3	リョーマの『ジャンピングスマッシュ』	Jumping Smash của Ryoma
+1571	JUS-3ac9008e43e76e307a7b	18	2693	question_line	0	以下の中で、関東大会において『羆落と	Ai sử dụng thành thạo
+1572	JUS-f339628a02537b459de3	18	2693	question_line	1	し』を使いこなしていたのは誰？	Higuma Otoshi ở giải Kanto?
+1573	JUS-53bbdd20f61a4e7ae92c	18	2693	answer_option	0	氷帝・忍足	Oshitari (Hyotei)
+1574	JUS-f0668fe832d3f7c8a136	18	2693	answer_option	1	立海大付属・柳生	Yagyu (Rikkai)
+1575	JUS-f32ad373fc553d338737	18	2693	answer_option	2	立海大付属・柳	Yanagi (Rikkai)
+1576	JUS-b669bef6e94ddffde699	18	2693	answer_option	3	氷帝・向日	Mukahi (Hyotei)
+1577	JUS-059385e26520a3808df1	18	2694	question_line	0	手塚たちが新入生のころの青学テニス部	Khi Tezuka mới vào Seigaku,
+1578	JUS-1af6befa1cf30fd9e55f	18	2694	question_line	1	部長は誰？	đội trưởng tennis là ai?
+1579	JUS-785099d48fd7cbd7426a	18	2694	answer_option	0	大和	Yamato
+1580	JUS-c0136fb86dfa295b2fd0	18	2694	answer_option	1	武蔵	Musashi
+1581	JUS-83f328f1c8acf5e6ab92	18	2694	answer_option	2	長門	Nagato
+1582	JUS-ea5f698f5aa149aef4c4	18	2695	question_line	0	リョーマと公式戦で対戦	Anh chàng từng đấu chính thức
+1583	JUS-4749ac5ee6ca59b983db	18	2695	question_line	1	したことのある、彼の名	với Ryoma trong hình
+1584	JUS-61cf2a7aa0a8be2e709c	18	2695	question_line	2	前は？	tên là gì?
+1585	JUS-daf8cb8b2b3455f776ec	18	2695	answer_option	0	日吉若	Wakashi Hiyoshi
+1586	JUS-0ff42b55b6af93867b82	18	2695	answer_option	1	不二裕太	Yuta Fuji
+1587	JUS-f432b62e7e3ab9909dfb	18	2695	answer_option	2	亜久津仁	Jin Akutsu
+1588	JUS-38dae94f8401e690f9b8	18	2695	answer_option	3	季楽靖幸	Yasuyuki Kira
+1589	JUS-8c8019fc89640a28375b	18	2696	question_line	0	関東大会、銀華は初戦敗退したが、彼ら	Ginka bị loại ngay vòng đầu Kanto.
+1590	JUS-ef99c4c229f1d8a6848a	18	2696	question_line	1	を倒したのは何だった？	Ai đã đánh bại họ?
+1591	JUS-509c3aadeb3c4ce3ba7c	18	2696	answer_option	0	乾の試作品野菜汁	Nước rau thử nghiệm của Inui
+1592	JUS-0c4f7224106ef50ba2cc	18	2696	answer_option	1	立海大付属	Rikkai
+1593	JUS-a34ecc34c58f3f100cb9	18	2696	answer_option	2	全員日射病	Cả đội bị say nắng
+1594	JUS-84b91527042e467f972c	18	2696	answer_option	3	六角	Rokkaku
+1595	JUS-e3f919d1a0dc918c9465	18	2697	question_line	0	以下の中で、関東大会において	Cặp đôi nào dưới đây
+1596	JUS-ac5f2cc875c023b81e12	18	2697	question_line	1	ダブルスで公式戦に出場していない	KHÔNG thi đấu chính thức
+1597	JUS-e64e6187e513094e7ccd	18	2697	question_line	2	ペアはどれ？	ở giải Kanto?
+1598	JUS-c10d3a19338917591982	18	2697	answer_option	1	河村・桃城	Kawamura - Momoshiro
+1599	JUS-e205085c3a98d9f40fa0	18	2697	answer_option	2	不二・菊丸	Fuji - Kikumaru
+1600	JUS-fbc0d7731aa59e3032ee	18	2697	answer_option	3	菊丸・桃城	Kikumaru - Momoshiro
+1601	JUS-296e2d39f22e5bb5eaac	18	2698	question_line	0	対六角戦、菊丸が繰り出した『菊丸印の	Đối đầu Rokkaku, bước nhảy mới
+1602	JUS-18456745d8bbcae67f05	18	2698	question_line	1	新ステップ』。その効果とは？	của Kikumaru có tác dụng gì?
+1603	JUS-0cf4e0ec842cffc47f1a	18	2698	answer_option	0	菊丸が二人に見える	Trông như có hai Kikumaru
+1604	JUS-582e60cff9f13a26c5bf	18	2698	answer_option	1	土煙でボールが見えなくなる	Bụi bay mù cả quả bóng
+1605	JUS-56056bd3ff986957d178	18	2698	answer_option	2	菊丸が消える	Kikumaru biến mất
+1606	JUS-7ca3b06d5e810a67c71d	18	2698	answer_option	3	菊丸が止まったままに見える	Trông như Kikumaru đứng yên
+1607	JUS-67a5c43ff98e8aac41d1	18	2699	question_line	0	関東大会準決勝、不動峰・橘に勝利した	Ai hạ Tachibana (Fudomine)
+1608	JUS-47982b4d3febc44d582e	18	2699	answer_option	0	切原	Kirihara
+1609	JUS-4e1f00851c830c88bbb3	18	2699	answer_option	1	真田	Sanada
+1610	JUS-ad142425320e154010c0	18	2699	answer_option	2	柳	Yanagi
+1611	JUS-6c392fd6ec0644d59c18	18	2699	answer_option	3	丸井	Marui
+1612	JUS-f96c969980bb14f858c0	18	2700	question_line	0	対六角戦、海堂をコードボールで苦しめ	Ai dùng bóng chạm lưới hại Kaido?
+1613	JUS-384ae18402703adeef74	18	2700	answer_option	0	葵剣太郎	Kentaro Aoi
+1614	JUS-61ae9c54bbda14eb7487	18	2700	answer_option	1	佐伯虎次郎	Kojiro Saeki
+1615	JUS-da749b12b7670fcb3302	18	2700	answer_option	2	天根ヒカル	Hikaru Amane
+1616	JUS-8ae3715a12402d3f77fb	18	2700	answer_option	3	黒羽春風	Harukaze Kurobane
+1617	JUS-640c45b90aead7d7fe3c	18	2701	question_line	0	乾が調べたデータにある、葵剣太郎の失	Tỉ lệ thất tình của Aoi theo Inui?
+1618	JUS-e5788beb87654e04962c	18	2701	question_line	1	恋率は？	Là bao nhiêu?
+1619	JUS-18a6189b6557f827f69c	18	2702	question_line	0	対立海大付属戦を前に、竜崎先生は対戦	Trước trận gặp Rikkai, cô Ryuzaki
+1620	JUS-37779ead2a49dcff2d67	18	2702	question_line	1	相手を評し、誰が７人いると思えと言っ	nói cứ xem như có 7 ai trên sân?
+1621	JUS-13f7d0a906d2eeba816d	18	2702	answer_option	0	手塚	Tezuka
+1622	JUS-583be6fec24aca1d04e3	18	2702	answer_option	1	跡部	Atobe
+1623	JUS-b1c1b50b1afe410bb131	18	2702	answer_option	3	越前	Echizen
+1624	JUS-9fe1fb8033e318a96fe0	18	2703	question_line	0	対立海大付属戦を前に、リョーマのひざ	Trước trận gặp Rikkai,
+1625	JUS-b701ed55f3adcccea38d	18	2703	question_line	1	を狙い撃ちにした切原のサーブはどれ？	Kirihara giao bóng nhắm đầu gối?
+1626	JUS-a45ab18411a4b7ac3062	18	2703	answer_option	0	ナックルサーブ	Knuckle Serve
+1627	JUS-0d918f9e1739f2871bef	18	2703	answer_option	1	ツイストサーブ	Twist Serve
+1628	JUS-7cbf8b3444769e9e5061	18	2703	answer_option	2	弾丸サーブ	Bullet Serve
+1629	JUS-4038b7505c75caffd5d7	18	2703	answer_option	3	プロネーションサーブ	Pronation Serve
+1630	JUS-c4efc05199b3d55304d5	18	2704	question_line	0	リョーマとの対戦で明らかになった、切	Đấu với Ryoma mới biết
+1631	JUS-68ee26836aac0b521a8a	18	2704	question_line	1	原の苦手科目といえば？	Kirihara dở môn gì?
+1632	JUS-a2f43903141a232ade73	18	2704	answer_option	3	家庭科	Công nghệ gia đình
+1633	JUS-50a3c90159c547b2ce55	18	2705	question_line	0	彼女が編集記者を務める	Cô ấy làm phóng viên biên tập
+1634	JUS-f52cdee67dd5452eb9c2	18	2705	question_line	1	雑誌はどれ？	cho tạp chí nào?
+1635	JUS-cdef6410580504573b0f	18	2705	answer_option	0	月刊プロテニス	Monthly Pro Tennis
+1636	JUS-776b63d7c3e4356f08a5	18	2705	answer_option	1	週刊テニス	Weekly Tennis
+1637	JUS-ebda23bfb8e583baf1ae	18	2705	answer_option	2	月刊プレイテニス	Monthly Play Tennis
+1638	JUS-290f0eb96af510e620e9	18	2705	answer_option	3	週刊エンジョイテニス	Weekly Enjoy Tennis
+1639	JUS-0d03c9be888bf3c173e8	18	2706	question_line	0	リョーマの決めセリフである「Ｙｏｕ	Ryoma nói: 'You
+1640	JUS-ec302ab497fbcecd3ac6	18	2706	question_line	1	ｓｔｉｌｌ<IDEOSP>ｈａｖｅ<IDEOSP>ｌｏｔｓ	still<IDEOSP>have<IDEOSP>lots
+1641	JUS-5bbed0eaef2d788a9a8e	18	2706	question_line	2	ｍｏｒｅ<IDEOSP>ｔｏ<IDEOSP>○○○<IDEOSP>ｏｎ・・・」	more<IDEOSP>to<IDEOSP>○○○<IDEOSP>on
+1642	JUS-216ff5ec521573810c4a	18	2706	question_line	3	○○○に入る単語は？	Từ nào điền vào ○○○?
+1643	JUS-cc792dcf34ca0203e4c0	18	2706	answer_option	0	ｗｏｒｋ	work
+1644	JUS-134b46f1103282b51326	18	2706	answer_option	1	ｇｏｉｎｇ	going
+1645	JUS-7e197b9385b86904131e	18	2706	answer_option	2	ｋｅｅｐ	keep
+1646	JUS-cbff2d91eb0cb66ed14c	18	2706	answer_option	3	ｓｔａｎｄｉｎｇ	standing
+1647	JUS-050d36856b5e47c62ea4	18	2707	question_line	0	切原が試合中に集中しはじめると見せる	Khi Kirihara tập trung thi đấu,
+1648	JUS-aeaff6cc2e8b63e35f64	18	2707	question_line	1	身体的特徴とは？	cơ thể cậu biến đổi thế nào?
+1649	JUS-5055ff8fcaf0f348cf52	18	2707	answer_option	0	目が充血する	Mắt đỏ ngầu
+1650	JUS-85e0dfd3eba254eabae7	18	2707	answer_option	1	鼻水が止まらなくなる	Nước mũi chảy không ngừng
+1651	JUS-07f8a2c13e20ee105fd8	18	2707	answer_option	2	髪の毛が逆立って金髪になる	Tóc dựng đứng, chuyển màu vàng
+1652	JUS-971a7dc3930c7b21a739	18	2707	answer_option	3	口が開きっぱなしになる	Miệng cứ há mãi
+1653	JUS-3a992d8ce23e4e3e446b	18	2708	question_line	0	真田たち３年生が在籍する立海大付属中	Nếu Rikkai của Sanada
+1654	JUS-95d51d64daaafa7bb896	18	2708	question_line	1	が、全国大会を制覇すると何連覇？	vô địch quốc gia, là mấy lần liền?
+1655	JUS-ce69b9fae82706c9b14d	18	2708	answer_option	0	３連覇	3 lần liên tiếp
+1656	JUS-b96edb6df397f3b26993	18	2708	answer_option	1	２連覇	2 lần liên tiếp
+1657	JUS-c034516ec5b41f21e819	18	2708	answer_option	2	１５連覇	15 lần liên tiếp
+1658	JUS-6b8785bda543e41be07b	18	2708	answer_option	3	１６連覇	16 lần liên tiếp
+1659	JUS-e7a31da9b00f692441d4	18	2709	question_line	0	関東大会対立海大付属戦、その３日前に	Ba ngày trước trận với Rikkai,
+1660	JUS-0da91539de228681b322	18	2709	question_line	1	乾がはじき出した『青学が負ける確率』	Inui tính xác suất Seigaku thua.
+1661	JUS-ec0451c7cb8222b9dcf7	18	2709	question_line	2	は何<PERCENT_FULL>？	là bao nhiêu<PERCENT_FULL>?
+1662	JUS-623eefd06d84877b94e6	18	2710	question_line	0	関東大会決勝２日前、桃城が目を充血さ	Hai ngày trước chung kết Kanto,
+1663	JUS-0fe963d8a3774030cfbf	18	2710	question_line	1	せていた理由は？	vì sao Momoshiro đỏ mắt?
+1664	JUS-be738a1e43faf7910773	18	2710	answer_option	0	名犬ラッキーで泣き明かした	Khóc suốt đêm vì chú chó Lucky
+1665	JUS-dfe53e195087bcd46e43	18	2710	answer_option	1	ゲームをやりすぎてドライアイ	Chơi game quá nhiều, khô mắt
+1666	JUS-adad5a9f0570fc8c4109	18	2710	answer_option	2	サボテンが目に入った	Bị xương rồng đâm vào mắt
+1667	JUS-79d20c587590a600e109	18	2710	answer_option	3	バーニング！！	Burning!!
+1668	JUS-5f7cfb992fac2b49c6f7	18	2711	question_line	0	『虎砲』とは、誰のどんな技？	Kohou là chiêu gì của ai?
+1669	JUS-dac5bdb4fa46e577f280	18	2711	answer_option	0	千石清純のサーブ	Cú giao bóng của Sengoku
+1670	JUS-beff1d6c497fb7545a31	18	2711	answer_option	1	福士ミチルのフィニッシュショット	Đòn kết liễu của Fukushi
+1671	JUS-0ec3eec75198dae1e996	18	2711	answer_option	2	亜久津仁のフィニッシュショット	Đòn kết liễu của Akutsu
+1672	JUS-080420f8edd3f6399b8d	18	2711	answer_option	3	佐伯虎次郎のサーブ	Cú giao bóng của Saeki
+1673	JUS-05b21e8893d4cf4a9a58	18	2712	question_line	0	小学生の頃、乾は柳のことを	Hồi tiểu học, Inui gọi Yanagi
+1674	JUS-95d122c28f824f657834	18	2712	question_line	1	何と呼んでいた？	bằng biệt danh nào?
+1675	JUS-351f3c9b332984293182	18	2712	answer_option	0	教授	Giáo sư
+1676	JUS-497b8c647334e0f83dab	18	2712	answer_option	1	博士	Tiến sĩ
+1677	JUS-5bf4ee68dea5dc23bc92	18	2712	answer_option	2	先生	Thầy giáo
+1678	JUS-e4d58cc1c1fb4b33be0f	18	2713	question_line	0	４つの肺を持つ男といえば？	Ai được gọi là người có 4 lá phổi?
+1679	JUS-5f54543e8bb52d80e0af	18	2713	answer_option	0	ジャッカル桑原	Jackal Kuwahara
+1680	JUS-97599624fb1745ba337a	18	2713	answer_option	1	海堂薫	Kaoru Kaido
+1681	JUS-ae0b2844f6c1bab0464f	18	2713	answer_option	2	神尾アキラ	Akira Kamio
+1682	JUS-a1bc31d00ab31a828d34	18	2713	answer_option	3	甲斐裕次郎	Yujiro Kai
+1683	JUS-14de1349f546180d6f39	18	2714	question_line	0	桃城と海堂がダブルスで臨んだ対立海大	Khi Momoshiro và Kaido đánh đôi
+1684	JUS-1c284cab61c29cd1b05f	18	2714	question_line	1	付属戦。このゲームで、最初のポイント	gặp Rikkai, đòn nào ghi
+1685	JUS-3e8f24e7ee154007b605	18	2714	question_line	2	を決めた技は？	điểm đầu tiên của trận?
+1686	JUS-a0f3a9011ffea6e65ce0	18	2714	answer_option	0	綱渡り	Tightrope Walking
+1687	JUS-cb748b683e0cbe537952	18	2714	answer_option	1	ジャックナイフ	Jack Knife
+1688	JUS-8e70595c3c5dc841dc9b	18	2714	answer_option	2	ブーメランスネイク	Boomerang Snake
+1689	JUS-e2842fb05d713010c478	18	2714	answer_option	3	鉄柱当て	Đánh bóng trúng cột sắt
+1690	JUS-2f7a068dbc47fecf4443	18	2715	question_line	0	左の乾のセリフで、●、	Trong câu của Inui bên trái,
+1691	JUS-db7fb360be7e4f6ef28b	18	2715	question_line	1	■、▲に入る数字の組み	bộ số thay ●, ■, ▲
+1692	JUS-6f813e17707b3a92b0f6	18	2715	question_line	2	合わせはどれ？	là đáp án nào?
+1693	JUS-ce5898924564bd6b163c	18	2716	question_line	0	関東大会対立海大付属戦で、菊丸・大石	Đánh đôi với Rikkai ở Kanto,
+1694	JUS-2e81ae8c47afe1c78973	18	2716	question_line	1	ペアが見せた超攻撃型陣形とは？	Oishi và Kikumaru dùng đội hình nào?
+1695	JUS-e70eda6cdf128a566527	18	2716	answer_option	0	大石の領域	Oishi Domain
+1696	JUS-92cda0f35675559722fb	18	2716	answer_option	3	菊丸の牙城	Kikumaru Fortress
+1697	JUS-e05aaf2908da48ea550e	18	2717	question_line	0	関東大会対立海大付属戦、	Trong trận Fuji gặp Kirihara
+1698	JUS-eca0b6f31944ff9b14e3	18	2717	question_line	1	切原と対戦する不二に起こった	ở giải Kanto, Fuji gặp
+1699	JUS-eb40734971839940010b	18	2717	question_line	2	アクシデントとは？	sự cố nào?
+1700	JUS-11b35cc4252f25476cfa	18	2717	answer_option	0	一時的に視力が低下	Tạm thời giảm thị lực
+1701	JUS-7c22f4dc9831e89022ae	18	2717	answer_option	1	鼻水が止まらない	Chảy nước mũi không ngừng
+1702	JUS-82e9fb2f96278bb2884d	18	2717	answer_option	2	一時的に聴力が低下	Tạm thời giảm thính lực
+1703	JUS-a28118d4c06ff4b3277c	18	2717	answer_option	3	左ふくらはぎの肉離れ	Rách cơ bắp chân trái
+1704	JUS-43b47c7db48e046feadb	18	2718	question_line	0	関東大会の不二対切原戦。	Fuji đấu Kirihara ở Kanto.
+1705	JUS-15932a91f1cdfcb303b1	18	2718	question_line	1	『無我の境地』に達した切原が	Khi vào trạng thái Muga,
+1706	JUS-8b4aa238bbeec25eff19	18	2718	question_line	2	出していない技はどれ？	Kirihara KHÔNG tung chiêu nào?
+1707	JUS-b20275fe070edbd6a588	18	2718	answer_option	2	かまいたち	Kamaitachi
+1708	JUS-0e2fe6785214ab362b74	18	2719	question_line	0	以下の中で、立海大付属・真田が	Trong trận chung kết Kanto,
+1709	JUS-3bc9ba4f961f043c4b29	18	2719	question_line	1	関東大会決勝戦において、リョーマから	Sanada thắng Ryoma 4 game,
+1710	JUS-a6d9db33e88d028a13f6	18	2719	question_line	2	４ゲーム奪った際に言った決めゼリフは	rồi thốt câu nào?
+1711	JUS-6ca7efd0b9818004b5e6	18	2719	answer_option	0	絶望と共に散るがいい！	Tan biến trong tuyệt vọng đi!
+1712	JUS-9d90624bc178aa420452	18	2719	answer_option	1	哀れなり、弱者！	Kẻ yếu, đáng thương thật!
+1713	JUS-b0f24cf5e7c96c068fdd	18	2719	answer_option	2	我に死角なし！	Ta không có góc chết!
+1714	JUS-50f9d80d27985fbe4e68	18	2719	answer_option	3	俺様に平伏しな！	Quỳ xuống trước ta!
+1715	JUS-90c839fdbe3ff2bebd66	18	2720	question_line	0	関東大会のリョーマ対真田戦において、	Trận Ryoma gặp Sanada ở Kanto,
+1716	JUS-e3d165eef9a59e235d07	18	2720	question_line	1	『無我の境地』を使いこなせる３人	Sanada kể 3 người dùng được
+1717	JUS-1de010fde4f660092885	18	2720	question_line	2	として真田が挙げていない人物は？	Muga. Ai KHÔNG được nhắc tới?
+1718	JUS-9c2806e91050fbf213d2	18	2720	answer_option	1	幸村	Yukimura
+1719	JUS-1392acb46d6bbc2808f3	18	2721	question_line	0	関東大会リョーマ対真田戦、試合を	Trong trận Ryoma gặp Sanada,
+1720	JUS-d9fd8d2d1ba15176f554	18	2721	question_line	1	決めたフィニッシュショットは？	cú đánh kết thúc là gì?
+1721	JUS-1667bf529ccbcad22473	18	2721	answer_option	2	風林火山の火	Fuurinkazan: Lửa
+1722	JUS-457cae300ac35ab934c3	18	2721	answer_option	3	風林火山の風	Fuurinkazan: Gió
+1723	JUS-044b0d898f1e6e64f3fb	18	2722	question_line	0	関東大会で３位に入賞した学校はどれ？	Trường nào đứng thứ ba ở Kanto?
+1724	JUS-9a72b068960a676c4b45	18	2722	answer_option	3	氷帝	Hyotei
+1725	JUS-7c37b010109d41bf3ce9	18	2723	question_line	0	六角との合同合宿で、乾特製ドリンクの	Trong trại chung với Rokkaku,
+1726	JUS-4460e7a8bc29ebfd75da	18	2723	question_line	1	最初の犠牲者になったのは誰？	ai là nạn nhân đầu của nước Inui?
+1727	JUS-31ef430794200993778e	18	2723	answer_option	0	首藤	Shudo
+1728	JUS-987eaa1d2bdc1f287bff	18	2723	answer_option	2	樹	Itsuki
+1729	JUS-b589d9713aed773700e4	18	2723	answer_option	3	オジイ	Oji
+1730	JUS-73136523b56cb975b53c	18	2724	question_line	0	オジイ杯ビーチバレートーナメントにて	Trong giải bóng chuyền bãi biển
+1731	JUS-a269e501defde2f27ba6	18	2724	question_line	1	リョーマとチームを組んだのは誰？	Oji Cup, ai chung đội với Ryoma?
+1732	JUS-fa7715b862af50deed6f	18	2724	answer_option	0	葵	Aoi
+1733	JUS-30965db4f77a4a8c6d5d	18	2724	answer_option	1	天根	Amane
+1734	JUS-026e01a28fa5b1c1d377	18	2724	answer_option	2	黒羽	Kurobane
+1735	JUS-f37ee05dc59049ca5999	18	2724	answer_option	3	佐伯	Saeki
+1736	JUS-7ee5d440502520e2d58f	18	2725	question_line	0	海堂の隣にいるのは誰？	Ai đứng cạnh Kaido?
+1737	JUS-af5099664b2cee4c3537	18	2725	answer_option	0	柳生	Yagyu
+1738	JUS-bb607a62f9f8a928b7d2	18	2725	answer_option	2	仁王	Niou
+1739	JUS-93bb4239741b00331192	18	2725	answer_option	3	忍足（氷帝）	Oshitari (Hyotei)
+1740	JUS-89200839e610b31d467b	18	2726	question_line	0	六角中のオジイは、噂ではいつから	Theo lời đồn, ông Oji của
+1741	JUS-848d7302ce5ab6a9b7dc	18	2726	question_line	1	オジイだった？	Rokkaku đã già từ thời nào?
+1742	JUS-4d225e2ed8541b58b684	18	2726	answer_option	0	黒船来航の頃から	Từ lúc tàu đen đến Nhật
+1743	JUS-54807cf857686cbb2fc3	18	2726	answer_option	1	大化の改新の頃から	Từ Cải cách Taika
+1744	JUS-27c92eb42b04ff1e9d22	18	2726	answer_option	2	戊辰戦争の頃から	Từ Chiến tranh Boshin
+1745	JUS-07888c27d090d2bc62d4	18	2726	answer_option	3	東京オリンピックの頃から	Từ Olympic Tokyo
+1746	JUS-d21ddd627751a6eefd92	18	2727	question_line	0	橘の家の犬の名前は？	Chó nhà Tachibana tên gì?
+1747	JUS-e623c9719d02a31a2252	18	2727	answer_option	0	ゴクトラ	Gokutora
+1748	JUS-1d602ccabfbe78c548c4	18	2727	answer_option	1	リキマル	Rikimaru
+1749	JUS-4d6f794d0db42818b062	18	2727	answer_option	3	水兵リーベ	Suihei Riebe
+1750	JUS-0644a39fe2894b226a7b	18	2728	question_line	0	遠山金太郎が全国大会会場に向かう	Trên đường tới giải quốc gia,
+1751	JUS-c086b32139c8857ed896	18	2728	question_line	1	途中で、誤って新幹線を降りてしまった	Kintaro Tooyama xuống nhầm ga nào?
+1752	JUS-995225ae87237a9658a3	18	2728	answer_option	0	静岡	Shizuoka
+1753	JUS-adf59e71f13428a075df	18	2728	answer_option	2	横浜	Yokohama
+1754	JUS-f237dd59b11ab69c9385	18	2728	answer_option	3	小田原	Odawara
+1755	JUS-543e284eda91e0d684c5	18	2729	question_line	0	全国大会六角対比嘉戦。オジイにボール	Trận Rokkaku gặp Higa,
+1756	JUS-7266e2384f046acec2b3	18	2729	question_line	1	をぶつけたのは誰？	ai ném bóng trúng ông Oji?
+1757	JUS-1dc6a75eee8765bbe1ce	18	2729	answer_option	0	甲斐	Kai
+1758	JUS-65c4664920ae4a4950df	18	2729	answer_option	1	知念	Chinen
+1759	JUS-83eedad82fbdcce5018e	18	2729	answer_option	2	平古場	Hirakoba
+1760	JUS-3d6ddf82b846de9846ec	18	2729	answer_option	3	新垣	Aragaki
+1761	JUS-e3e839436ad55d4bdf59	18	2730	question_line	0	千石は桃城のことをなんと呼んでいる？	Sengoku gọi Momoshiro là gì?
+1762	JUS-cae6b9bf27ac46ea9da0	18	2730	answer_option	0	オモシロ君	Cậu chàng hài hước
+1763	JUS-9f0d4901d3d072f461ba	18	2730	answer_option	1	モモタロ君	Momotaro
+1764	JUS-1f833300b460a95d2ee0	18	2730	answer_option	2	モモちん	Momo-chan
+1765	JUS-958db7c41cb5673544c2	18	2730	answer_option	3	桃城君	Momoshiro
+1766	JUS-820bec37d93eb551ddfc	18	2731	question_line	0	比嘉のメンバーに共通する経歴はどれ？	Đội Higa có chung quá khứ nào?
+1767	JUS-5292ca0d528927b6a2f6	18	2731	answer_option	0	沖縄武術経験者	Từng tập võ Okinawa
+1768	JUS-599e30727536ea19573d	18	2731	answer_option	1	元陸上部	Từng tham gia đội điền kinh
+1769	JUS-e4ffa05247baa46fb14b	18	2731	answer_option	2	元水泳部	Từng tham gia đội bơi
+1770	JUS-5474400b222125c767bc	18	2731	answer_option	3	ＵＦＯを目撃したことがある	Từng nhìn thấy UFO
+1771	JUS-cd7b02d815b6191a532c	18	2732	question_line	0	対比嘉・田仁志戦、リョーマが最初の	Đấu Tanishi của Higa,
+1772	JUS-c91ffe3354dcca198e8b	18	2732	question_line	1	ポイントをとった技は？	Ryoma ghi điểm đầu bằng chiêu gì?
+1773	JUS-8c188bf64b534c69cb9e	18	2732	answer_option	0	ドライブＣ	Drive C
+1774	JUS-caf299b994a24527c642	18	2733	question_line	0	対比嘉・田仁志戦、リョーマは	Gặp Tanishi, Ryoma
+1775	JUS-cc7afb356130a3003018	18	2733	question_line	1	『ＣＯＯＬドライブ』をどのタイミング	dùng COOL Drive khi nào
+1776	JUS-1680bbcc56fb05db5c1c	18	2733	question_line	2	で何発放った？	và đánh mấy lần?
+1777	JUS-b5c310174f82f0fc27e1	18	2733	answer_option	0	最後に１発	Một lần ở cuối trận
+1778	JUS-163618dafe64964b3166	18	2733	answer_option	1	実は１発も打っていない	Thật ra không đánh lần nào
+1779	JUS-6cf5f47e95eff18d9f78	18	2733	answer_option	2	３ゲーム目を取った時と最後の２発	Hai lần: game 3 và cuối trận
+1780	JUS-3c0a505c0d0542a2659b	18	2733	answer_option	3	８ゲーム目を取った時と最後の２発	Hai lần: game 8 và cuối trận
+1781	JUS-32170d9c0cff39f29cd0	18	2734	question_line	0	河村のハードヒットをあと一歩のところ	Cú Habū của Hirakoba suýt
+1782	JUS-1bb452c2bd5614a4a504	18	2734	question_line	1	まで封じこめた平古場の『飯匙倩』。	khóa được đòn mạnh Kawamura.
+1783	JUS-764651cca0dd52ac9300	18	2734	question_line	2	ところで『飯匙倩』はなんと読む？	Chữ '飯匙倩' đọc thế nào?
+1784	JUS-8d34446babcc0ce0a2a3	18	2734	answer_option	0	はぶ	Habu
+1785	JUS-72eac2a668b403dc7d7b	18	2734	answer_option	1	まむし	Mamushi
+1786	JUS-9084d4163858c581e979	18	2734	answer_option	2	まんぐーす	Mongoose
+1787	JUS-3d9761003357fd1d9741	18	2734	answer_option	3	いりおもてやまねこ	Iriomote Yamaneko
+1788	JUS-904a0f5684ae2b055a2c	18	2735	question_line	0	手塚のこの状態を	Trạng thái này của Tezuka
+1789	JUS-c17241df684768572413	18	2735	answer_option	0	百練自得の極み	Hyakuren Jitoku no Kiwami
+1790	JUS-d8e02b2ffd8ac045a5a6	18	2735	answer_option	1	無我の境地	Muga no Kyouchi
+1791	JUS-4b852377dd8ea6f3460e	18	2735	answer_option	2	変幻自在の極致	Hengen Jizai no Kyokuchi
+1792	JUS-c56b5f7eb7c05983ea3a	18	2735	answer_option	3	スーパー手塚３	Super Tezuka 3
+1793	JUS-3eaf12349b5f8c04d677	18	2736	question_line	0	平古場の『大飯匙倩』を攻略したのは	Ai phá được cú Dai Habū
+1794	JUS-dfb746a6609fec97bd01	18	2736	question_line	1	誰のどの技？	của Hirakoba bằng chiêu nào?
+1795	JUS-c967e8db1aa65dddc74e	18	2736	answer_option	0	不二の『蜉蝣包み』	Kagero Zutsumi của Fuji
+1796	JUS-61f50d8fe0f4744f946d	18	2736	answer_option	1	河村の『片手波動球』	Hadokyu một tay của Kawamura
+1797	JUS-579daa00f60cbd3a113f	18	2736	answer_option	2	河村の『両手波動球』	Hadokyu hai tay của Kawamura
+1798	JUS-071e93256947d879f9c8	18	2736	answer_option	3	不二の『羆落とし』	Higuma Otoshi của Fuji
+1799	JUS-68e2ae8433900e425cd5	18	2737	question_line	0	対比嘉・甲斐戦、菊丸が見せた	Khi đấu Kai của Higa, Kikumaru
+1800	JUS-d391d55d38cf0131615b	18	2737	question_line	1	『信じられない光景』とは？	làm nên điều khó tin gì?
+1801	JUS-039b216289876f6d7a88	18	2737	answer_option	0	ひとりダブルス	Một mình đánh đôi
+1802	JUS-5b5b2590bb2e5a32bc75	18	2737	answer_option	1	無我の境地に達した	Đạt cảnh giới Muga
+1803	JUS-5b95f093b07aef6af03a	18	2737	answer_option	2	高く飛びすぎて大気圏突破	Nhảy vọt ra khỏi khí quyển
+1804	JUS-8fa5246ca24a1466b30f	18	2737	answer_option	3	早すぎて見えなくなった	Nhanh tới mức tàng hình
+1805	JUS-801c1dfdad6bd464cae4	18	2738	question_line	0	全国大会対氷帝・忍足戦。試合開始直後	Đầu trận Momoshiro đấu Oshitari,
+1806	JUS-d4d07b116c1d61829ace	18	2738	question_line	1	サービスエースを決めた桃城だが、	cậu ghi ace giao bóng.
+1807	JUS-1e098d975cec65338c1e	18	2738	question_line	2	忍足が返せなかった要因は？	Vì sao Oshitari không đỡ được?
+1808	JUS-24151a89dc02884cc426	18	2738	answer_option	0	桃城が小石を狙って打った	Momoshiro ngắm vào viên sỏi
+1809	JUS-c0685f8d88fcb6a12b35	18	2738	answer_option	1	桃城の『ツイストサーブ』が決まった	Momoshiro dùng Twist Serve
+1810	JUS-3cd46ac3fae06edcd126	18	2738	answer_option	2	早すぎて追いつけなかった	Bóng nhanh quá, không kịp đỡ
+1811	JUS-f0bd0a7773ed0f12da59	18	2738	answer_option	3	メガネがズレていた	Kính bị lệch
+1812	JUS-f9c07c8f6529754b10bf	18	2739	question_line	0	全国大会対氷帝戦、海堂が繰り出した	Gặp Hyotei ở giải quốc gia,
+1813	JUS-af16173c21ebaebd4d74	18	2739	question_line	1	新しい技はどれ？	Kaido tung chiêu mới nào?
+1814	JUS-09aaa0bb27c7c0d7fce6	18	2739	answer_option	0	トルネードスネイク	Tornado Snake
+1815	JUS-5096566fd837f105d44a	18	2739	answer_option	1	ハリケーンスネイク	Hurricane Snake
+1816	JUS-faa184670aaf9df6bd40	18	2739	answer_option	2	タイフーンスネイク	Typhoon Snake
+1817	JUS-46f704c7274cd7f6ac8b	18	2739	answer_option	3	サイクロンスネイク	Cyclone Snake
+1818	JUS-2991e16540924fa65449	18	2740	question_line	0	全国大会対氷帝戦、手塚が樺地に	Vì sao Tezuka thắng Kabaji
+1819	JUS-06b6f0528cf664b86b51	18	2740	question_line	1	勝利した要因はどれ？	ở giải quốc gia?
+1820	JUS-8f5bcc133be415121804	18	2740	answer_option	0	樺地の雨への対処技術不足	Kabaji không xử lý nổi trời mưa
+1821	JUS-6e2474c76b26a9eeb384	18	2740	answer_option	1	樺地のスタミナ切れ	Kabaji cạn sức
+1822	JUS-06c805ed8dc098653471	18	2740	answer_option	2	樺地の肉離れによる棄権	Kabaji rách cơ, phải bỏ cuộc
+1823	JUS-b7bbc5feeb4aa159f4fc	18	2740	answer_option	3	手塚の新技が炸裂	Tezuka tung chiêu mới
+1824	JUS-4b63b59437fd75543329	18	2741	question_line	0	全国大会対氷帝戦で大石・菊丸ペアが	Đánh đôi với Hyotei, Oishi
+1825	JUS-f916a09668ea4782b6d2	18	2741	question_line	1	見せた、合図もなしにパートナーの	và Kikumaru không cần ra dấu
+1826	JUS-d3bc9c823812e1750968	18	2741	question_line	2	動きが手にとるようにわかってしまう	vẫn hiểu rõ động tác của nhau.
+1827	JUS-e48ffdf12455144c40da	18	2741	question_line	3	状態を何という？	Trạng thái ấy gọi là gì?
+1828	JUS-7f511fd7487e9b5b8295	18	2741	answer_option	0	同調（シンクロ）	Synchro
+1829	JUS-ef12d5d68bbff62ec0f7	18	2741	answer_option	1	フュージョン	Fusion
+1830	JUS-cf4e8276d8ea5caaf653	18	2741	answer_option	2	完全調和	Hòa hợp hoàn toàn
+1831	JUS-28efcdb233bd3b6c31c4	18	2741	answer_option	3	一心同体の極み	Cảnh giới đồng tâm
+1832	JUS-4030b2cc855512a0e6c2	18	2742	question_line	0	リョーマの『ＣＯＯＬドライブ』と同じ	Chiêu giao bóng của Atobe nào
+1833	JUS-651cfd53d15ffc96b339	18	2742	question_line	1	挙動をする、跡部のサーブは？	di chuyển giống COOL Drive?
+1834	JUS-dc79a93747618dd80af0	18	2742	answer_option	0	タンホイザーサーブ	Tannhauser Serve
+1835	JUS-e4e2f9a0a47d66004dca	18	2742	answer_option	1	ローエングリンサーブ	Lohengrin Serve
+1836	JUS-c2e9b9ea5ca09045c85c	18	2742	answer_option	2	トリスタンサーブ	Tristan Serve
+1837	JUS-727b8439368fb34e2fd4	18	2742	answer_option	3	ニーベルングサーブ	Nibelung Serve
+1838	JUS-3d1058cc294bed9cec5a	18	2743	question_line	0	跡部がリョーマとの試合で見せた、相手	Atobe dùng chiêu nào nhằm vào
+1839	JUS-78b7f1524c367ecbbf59	18	2743	question_line	1	の死角を突く技をなんという？	điểm mù của đối thủ gặp Ryoma?
+1840	JUS-a2137fee3d0d6abc9c29	18	2743	answer_option	0	氷の世界	World of Ice
+1841	JUS-17acff2b0134ef59cc1f	18	2743	answer_option	1	帝王の槍	Emperor's Spear
+1842	JUS-9ded8ba9360ac8cdda82	18	2743	answer_option	2	トリスタンショット	Tristan Shot
+1843	JUS-e686f1656b27a07a37ef	18	2743	answer_option	3	跡部の領域	Atobe Domain
+1844	JUS-b0a820dc202e4638eeeb	18	2744	question_line	0	「無我の境地では何でもやれんのか？」	Atobe hỏi: 'Muga dùng mọi chiêu?'
+1845	JUS-05924eacf18988544891	18	2744	question_line	1	という跡部の質問に対し、真田が答えた	Sanada đáp rằng chỉ có một
+1846	JUS-eeda5c538bd1fbc57dcf	18	2744	question_line	2	唯一使えないという技は？	chiêu không thể dùng, đó là gì?
+1847	JUS-6e4545892034e82eda97	18	2744	answer_option	2	菊丸印のステップ	Kikumaru Step
+1848	JUS-bf075fa47b4c69146b8a	18	2744	answer_option	3	大飯匙倩	Dai Habu
+1849	JUS-09995a7e7fe06d01af53	18	2745	question_line	0	不二は何にやられた？	Fuji bị thứ gì hạ gục?
+1850	JUS-8e3d40704e747f54ed9d	18	2745	answer_option	0	青酢	Giấm xanh
+1851	JUS-701f0f397bbe94bd7396	18	2745	answer_option	1	日射病	Say nắng
+1852	JUS-e5b63e0b411a1ef79e1e	18	2745	answer_option	2	野菜汁	Nước rau
+1853	JUS-158c6224bf96d04c8bc9	18	2745	answer_option	3	ブーメランスネイク直撃	Trúng Boomerang Snake
+1854	JUS-fba503a1a36bbd38613f	18	2746	question_line	0	リョーマが跡部から４ゲーム目を	Ryoma giành game thứ tư
+1855	JUS-78c821aeba3bcc80a944	18	2746	question_line	1	奪った際に決めた技は？	trước Atobe bằng chiêu nào?
+1856	JUS-3df2e53f7c4624acd9d8	18	2746	answer_option	0	破滅への輪舞曲	Rondo Towards Destruction
+1857	JUS-37f76e21fd63c9709e79	18	2747	question_line	0	全国大会リョーマ対跡部戦にて、ふたり	Ở trận Ryoma gặp Atobe,
+1858	JUS-2739976bb013189c8147	18	2747	question_line	1	を襲ったアクシデントとは？	sự cố bất ngờ nào xảy ra?
+1859	JUS-305a7c6711ded3422571	18	2747	answer_option	0	照明が落下	Đèn chiếu sáng rơi xuống
+1860	JUS-e44bdf34ac3e70cf05da	18	2747	answer_option	1	隕石が落下	Thiên thạch rơi xuống
+1861	JUS-840ba181efbdc6e422ee	18	2747	answer_option	2	人工衛星が墜落	Vệ tinh nhân tạo rơi xuống
+1862	JUS-4c5b51dd79bc5b30ddce	18	2747	answer_option	3	取材ヘリが墜落	Trực thăng báo chí rơi xuống
+1863	JUS-2b26636b406113e943e8	18	2748	question_line	0	全国大会対氷帝戦、リョーマと跡部の	Trong tie-break Ryoma đấu Atobe,
+1864	JUS-a611fe35872bddddfb39	18	2748	question_line	1	タイブレークで、リョーマが最後に	sau cú Twist Serve cuối của Ryoma,
+1865	JUS-0fcacca066021f520ecc	18	2748	question_line	2	放った『ツイストサーブ』により、	kết quả lúc ấy
+1866	JUS-c2d8a63cd69502b7ae84	18	2748	question_line	3	スコアはどうなった？	là bao nhiêu?
+1867	JUS-22dd3036f21d9acf078f	18	2748	answer_option	0	１１８－１１７でリョーマリード	Ryoma dẫn 118-117
+1868	JUS-aa35617982f914633c90	18	2748	answer_option	1	１１０－１０９でリョーマリード	Ryoma dẫn 110-109
+1869	JUS-48295fc6d481a4bb4843	18	2748	answer_option	2	９０－８９でリョーマリード	Ryoma dẫn 90-89
+1870	JUS-107c42d679bd2b9d5f40	18	2748	answer_option	3	１１２－１１１でリョーマリード	Ryoma dẫn 112-111
+1871	JUS-bc658e5c5348a9120a53	18	2749	question_line	0	リョーマとの試合に負け、丸坊主に	Ai thua Ryoma rồi bị
+1872	JUS-563e62df199e4f17c672	18	2749	question_line	1	されたのは誰？	cạo trọc đầu?
+1873	JUS-18f96e625a6a0a347dfc	18	2749	answer_option	2	宍戸	Shishido
+1874	JUS-3a63be8ecdbfe9781d70	18	2749	answer_option	3	伊武	Ibu
+1875	JUS-09bf4c6ab90e2d148564	18	2750	question_line	0	『氷帝１００人斬り』をやってのけた	Ai bị đồn đã quật ngã
+1876	JUS-e30274e7dddbd66c36fa	18	2750	question_line	1	という噂のある男といえば？	100 thành viên Hyotei?
+1877	JUS-ca880c1afc3d35370609	18	2750	answer_option	1	千石	Sengoku
+1878	JUS-51b4e2ef2e90fa9cc14c	18	2751	question_line	0	関東大会対氷帝戦の後の	Sau trận Hyotei ở Kanto,
+1879	JUS-e2b3a6970b7af1416f07	18	2751	question_line	1	ボウリング大会。	trong giải bowling,
+1880	JUS-b66da6f0d0888c59e1f3	18	2751	question_line	2	マイグローブを持参していたのは、	ngoài cô Ryuzaki, ai
+1881	JUS-66b5a27eea67192fdbc1	18	2751	question_line	3	竜崎先生と誰？	mang găng tay riêng?
+1882	JUS-71e3d7505b183f45e50d	18	2752	question_line	0	全国大会準々決勝戦までに、	Trước tứ kết quốc gia,
+1883	JUS-3cd52ebbe31e82a727bd	18	2752	question_line	1	『手塚ゾーン』と同じ技を	ai từng thực hiện chiêu
+1884	JUS-eefbf3a864d3c5758f63	18	2752	question_line	2	実践したのは誰？	giống Tezuka Zone?
+1885	JUS-684a7c46e448967a94bf	18	2752	answer_option	0	樺地	Kabaji
+1886	JUS-47a95d37fc4d712be7d0	18	2753	question_line	0	忍足侑士の『Ｆ＆Ｄ』について、	Về chiêu F&D của Oshitari,
+1887	JUS-bf071092cfbd322ea255	18	2753	question_line	1	『Ｄ』はドロップショットを意味するが	D là Drop Shot,
+1888	JUS-bdb331e03da2de3399ff	18	2753	question_line	2	『Ｆ』は何を指す？	còn F là gì?
+1889	JUS-01b0591e9d73bfd92a8c	18	2753	answer_option	0	フェイク	Fake
+1890	JUS-8fd3d92491b7a8e29232	18	2753	answer_option	1	フェイス	Face
+1891	JUS-4f296d60d45b2f54f8d8	18	2753	answer_option	2	フロント	Front
+1892	JUS-6240ccfa10b9b9a51e32	18	2753	answer_option	3	フルスイング	Full Swing
+1893	JUS-56cf982bae5cd5818406	18	2754	question_line	0	手塚を「ドロボウの兄ちゃん」と呼ぶ	Cô bé gọi Tezuka là
+1894	JUS-c83831d1cd4b4e4158a5	18	2754	question_line	1	女の子の名前は？	'anh trộm cắp' tên gì?
+1895	JUS-73d52e9582e0713faf12	18	2754	answer_option	0	ミユキ	Miyuki
+1896	JUS-9f5b43d1aac72d20de61	18	2754	answer_option	1	ヒロミ	Hiromi
+1897	JUS-9287d786ed42a70934b3	18	2754	answer_option	2	ユキコ	Yukiko
+1898	JUS-e870950fc2fa6bcef528	18	2754	answer_option	3	ヒロコ	Hiroko
+1899	JUS-196836542318b1f336fe	18	2755	answer_option	0	田仁志	Tanishi
+1900	JUS-f936f93153c5cd6e2660	18	2755	answer_option	3	ハート様	Heart-sama
+1901	JUS-32adac2f19c12d969264	4	2756	question_line	0	リボーンが日本に来る前に	Trước khi tới Nhật, Reborn
+1902	JUS-9434de3447009b8affda	4	2756	question_line	1	暮らしていた場所はどこ？	sống ở đâu?
+1903	JUS-07645c9af6d443a1c6ff	4	2756	answer_option	1	ロシア	Nga
+1904	JUS-e89ae4e1a83d5246c0bb	4	2756	answer_option	3	魔界	Ma giới
+1905	JUS-2824efc92c1559bc9760	4	2757	question_line	0	ツナの家のポストにリボーンが入れた	Reborn bỏ tờ quảng cáo gia sư
+1906	JUS-82f5940e26ce499c3b47	4	2757	question_line	1	家庭教師のチラシ。	vào hòm thư nhà Tsuna.
+1907	JUS-324ea31b6543361ccc0b	4	2757	question_line	2	『お子様を○○に育てます』	'Đào tạo con bạn thành ○○'.
+1908	JUS-46081f31a816e40ec52c	4	2757	question_line	3	○○に書かれていたことは何？	Trong ○○ viết gì?
+1909	JUS-40f4526f288e784ad51c	4	2757	answer_option	0	次世代のニューリーダー	Lãnh đạo thế hệ mới
+1910	JUS-8ae387ddce5ca71eba9e	4	2757	answer_option	1	今世紀最高の天才	Thiên tài xuất sắc nhất thế kỷ
+1911	JUS-f440e11d7e1c71868810	4	2757	answer_option	2	学校一のスーパースター	Siêu sao số một trường
+1912	JUS-0837e2ba6cb27f671776	4	2757	answer_option	3	ウワサの芸達者	Người đa tài nổi như cồn
+1913	JUS-e202b939da23114c3335	4	2758	question_line	0	リボーンの本職は何？	Nghề chính của Reborn là gì?
+1914	JUS-2f45fd718f67af2422bf	4	2758	answer_option	1	国際警察	Cảnh sát quốc tế
+1915	JUS-6a4e67c442f4195b38b8	4	2758	answer_option	2	ピザ屋	Chủ tiệm pizza
+1916	JUS-7e9d389c887301311bc5	4	2758	answer_option	3	サッカーの審判	Trọng tài bóng đá
+1917	JUS-3b88289d7f1c66cd4ed0	4	2759	question_line	0	リボーンがツナのもとに	Vì sao Reborn đến gặp
+1918	JUS-bdfd11589eed3499ee12	4	2759	question_line	1	現れたのはなぜ？	Tsuna?
+1919	JUS-92613941a2d3836148ec	4	2759	answer_option	0	ツナをマフィアのボスに教育するため	Đào tạo Tsuna thành trùm mafia
+1920	JUS-6d1ffa69ad774b2c20e3	4	2759	answer_option	1	ツナと友達になるため	Để kết bạn với Tsuna
+1921	JUS-d0f7ecf55133a7e2b356	4	2759	answer_option	2	平凡な日本の中学生の調査のため	Nghiên cứu học sinh Nhật bình thường
+1922	JUS-214bdf295e140c4124fd	4	2759	answer_option	3	たまたまばったり出会った	Tình cờ chạm mặt
