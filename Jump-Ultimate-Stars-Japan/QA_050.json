@@ -1,0 +1,109 @@
+{
+  "game": "Jump Ultimate Stars (Japan)",
+  "checkpoint": "050",
+  "date": "2026-11-20",
+  "source_zip": "JumpUltimateStars_Japan_BanGiao_Cloud.zip",
+  "source_file": "translation/06-jquiz-009.jsonl",
+  "source_sha256": "ad517ab9020ebaaaf24d3b0be0bca8b6bbd1c9f975f1c3b745f1b249fd23d1e1",
+  "source_rows": 1351,
+  "from_row_index": 616,
+  "to_row_index": 1350,
+  "reference_quiz_questions": 3006,
+  "first_quiz_question_index": 2884,
+  "last_quiz_question_index": 3005,
+  "new_translations": 735,
+  "previous_total": 32011,
+  "translated_total": 32746,
+  "total_source_ids": 34919,
+  "remaining": 2173,
+  "progress_percent": 93.78,
+  "manga_codes": {
+    "38": 405,
+    "37": 330
+  },
+  "roles": {
+    "question_line": 321,
+    "answer_option": 414
+  },
+  "control_tokens": {
+    "<IDEOSP>": 5
+  },
+  "max_vi_unicode_chars": 37,
+  "kanji_preserved_for_disambiguation": [
+    {
+      "row_index": 947,
+      "ja": "首縊島",
+      "vi": "Đảo Kubikukuri (首縊)",
+      "note": "Giữ Hán tự trong đáp án để phân biệt lựa chọn viết khác chữ nhưng dễ trùng âm"
+    },
+    {
+      "row_index": 948,
+      "ja": "首括島",
+      "vi": "Đảo Kubikukuri (首括)",
+      "note": "Giữ Hán tự trong đáp án để phân biệt lựa chọn viết khác chữ nhưng dễ trùng âm"
+    },
+    {
+      "row_index": 949,
+      "ja": "首締島",
+      "vi": "Đảo Kubishime (首締)",
+      "note": "Giữ Hán tự trong đáp án để phân biệt lựa chọn viết khác chữ nhưng dễ trùng âm"
+    },
+    {
+      "row_index": 950,
+      "ja": "首長島",
+      "vi": "Đảo Kubinaga (首長)",
+      "note": "Giữ Hán tự trong đáp án để phân biệt lựa chọn viết khác chữ nhưng dễ trùng âm"
+    },
+    {
+      "row_index": 1335,
+      "ja": "尾瀬呂港",
+      "vi": "Cảng Osero (尾瀬呂)",
+      "note": "Giữ Hán tự trong đáp án để phân biệt lựa chọn viết khác chữ nhưng dễ trùng âm"
+    },
+    {
+      "row_index": 1336,
+      "ja": "歌留多港",
+      "vi": "Cảng Karuta (歌留多)",
+      "note": "Giữ Hán tự trong đáp án để phân biệt lựa chọn viết khác chữ nhưng dễ trùng âm"
+    },
+    {
+      "row_index": 1337,
+      "ja": "智栄洲港",
+      "vi": "Cảng Chiesu (智栄洲)",
+      "note": "Giữ Hán tự trong đáp án để phân biệt lựa chọn viết khác chữ nhưng dễ trùng âm"
+    },
+    {
+      "row_index": 1338,
+      "ja": "戸蘭符港",
+      "vi": "Cảng Toranpu (戸蘭符)",
+      "note": "Giữ Hán tự trong đáp án để phân biệt lựa chọn viết khác chữ nhưng dễ trùng âm"
+    }
+  ],
+  "unusual_source_chars": [],
+  "checks": {
+    "original_japanese_sha256_matches_previous_cp": true,
+    "source_id_and_ja_unchanged": true,
+    "quiz_reference_id_and_ja_positions_match": true,
+    "quiz_context_preserved": true,
+    "ids_unique_within_cp050": true,
+    "no_duplicate_ids_against_cp038_049": true,
+    "control_tokens_preserved": true,
+    "vi_nonempty": true,
+    "vi_max_37_unicode_codepoints": true,
+    "last_question_3005_complete": true,
+    "entire_06_jquiz_009_source_complete": true,
+    "CP046A_shunrei_correction_retained": true,
+    "correct_answers_verified": false,
+    "pixel_font_width_verified": false,
+    "rom_patch_tested": false,
+    "human_linguistic_review_independent": false
+  },
+  "next_checkpoint": {
+    "checkpoint": "051",
+    "note": "06-jquiz-009.jsonl đã hết; xác định file văn bản chưa dịch kế tiếp từ chỉ mục bàn giao gốc và diff ID",
+    "new_translations": 0
+  },
+  "new_delta_sha256": "07048a53c3040fffb8befc993eb0368201f3eaa5690b1591a0dc75b5d51c7c87",
+  "new_merged_sha256": "0b25bff6b7ba94c887ecb663474e82008835320f7f362762a5a2455b3d9868e7",
+  "notes": "QA tĩnh: cần soát các tên phiên âm hiếm, câu hỏi gắn hình và đúng/sai đáp án khi tích hợp bản vá; chưa kiểm tra pixel font hay ROM."
+}
