@@ -318,3 +318,11 @@ Các tên Romanization có trạng thái `working_romanization_qa` cần so lạ
 - **Captain Tsubasa:** Dùng tên Latin nhất quán: Tsubasa, Wakabayashi, Hyuga, Misaki, Ishizaki, Wakashimazu; tên đội Nankatsu, Toho, Furano, Hamburg. Tên kỹ thuật *Tiger Shot*, *Drive Shoot*, *Sky Love Hurricane*, *Eagle Shot* và *Kamisori Shoot* giữ Latin/English. Giữ nguyên cả lựa chọn sai về tên người/đội, không "chữa" thành đáp án đúng.
 - **Dragon Ball:** Tên Goku, Krillin, Piccolo, Gohan, Vegeta, Bulma, Trunks, Majin Buu, Kaio; dùng Kamehameha, Potara, Tenkaichi Budokai, Dragon Ball, Saiyan; chỉ Việt hóa lời hỏi, mô tả và các thuật ngữ phổ thông. Nhắc đến Quy Lão và Phòng Tinh Thần và Thời Gian theo cách gọi phổ biến.
 - **QA:** Câu hỏi kèm ảnh hoặc không đủ đáp án trong dải JSONL cần kiểm tra nguyên gói quiz; không đoán đáp án đúng dựa trên trí nhớ manga. Một số tên riêng viết phiên âm vẫn chờ kiểm chứng bằng nguồn chính thức.
+
+
+## Checkpoint 030 — chú ý J-Quiz Dragon Ball / D.Gray-man
+
+- Nội dung kỳ này là câu đố, không phải lời thoại trực tiếp; giữ ngôi dẫn chuyện trung tính.
+- Với đáp án trích lời thoại của Goku, Vegeta hoặc Cell, giữ đúng thái độ nhân vật, không tùy tiện thêm tiếng lóng.
+- Giữ nguyên tên riêng, tên chiêu quan trọng và trật tự của mọi đáp án. Tên phiên âm chưa có nguồn chính thức phải gắn `_qa` trong thuật ngữ.
+- Những dòng nguồn đứt mạch hoặc thiếu lựa chọn được dịch nguyên trạng, không suy đoán phần bị thiếu.
