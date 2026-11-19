@@ -9688,5 +9688,149 @@
     "vi": "Mushanokoji Shion",
     "status": "character_name_qa",
     "note": "CP032 J-Quiz Dr. Slump / Eyeshield 21; _qa: kiểm chứng phiên âm trước khi khóa glossary."
+  },
+  {
+    "ja": "寺田綾乃",
+    "vi": "Terada Ayano",
+    "status": "character_name",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "ジャスタウェイ",
+    "vi": "Justaway",
+    "status": "item_name",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "春雨",
+    "vi": "Harusame",
+    "status": "group_name",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "宇宙海賊",
+    "vi": "Space Pirates",
+    "status": "group_name",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "鬼兵隊",
+    "vi": "Kiheitai",
+    "status": "group_name",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "お庭番衆",
+    "vi": "Oniwabanshu",
+    "status": "group_name",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "服部全蔵",
+    "vi": "Hattori Zenzo",
+    "status": "character_name",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "孔雀姫",
+    "vi": "Kujaku-hime",
+    "status": "character_name_qa",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "華陀",
+    "vi": "Kada",
+    "status": "character_name_qa",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "柳生真影流",
+    "vi": "Yagyu Shinkage-ryu",
+    "status": "fighting_style",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "猩猩星",
+    "vi": "Shojo Planet",
+    "status": "place_name",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "快援隊",
+    "vi": "Kaientai",
+    "status": "group_name",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "洞爺湖",
+    "vi": "Lake Toya",
+    "status": "kanji_text",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "万事屋",
+    "vi": "Yorozuya",
+    "status": "group_name",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "天空闘技場",
+    "vi": "Heavens Arena",
+    "status": "place_name",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "ゾルディック",
+    "vi": "Zoldyck",
+    "status": "family_name",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "水見式",
+    "vi": "Mizumishiki",
+    "status": "technique",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "絶",
+    "vi": "Zetsu",
+    "status": "nen_technique",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "凝",
+    "vi": "Gyo",
+    "status": "nen_technique",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "発",
+    "vi": "Hatsu",
+    "status": "nen_technique",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "念糸縫合",
+    "vi": "Nen Thread Suturing",
+    "status": "technique",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "グリードアイランド",
+    "vi": "Greed Island",
+    "status": "game_title",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "デメちゃん",
+    "vi": "Deme-chan",
+    "status": "object_name",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "ククルーマウンテン",
+    "vi": "Mount Kukuroo",
+    "status": "place_name",
+    "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
   }
 ]

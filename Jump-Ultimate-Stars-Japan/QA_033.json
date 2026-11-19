@@ -1,0 +1,40 @@
+{
+  "game": "Jump Ultimate Stars (Japan) AJUJ",
+  "checkpoint": "033",
+  "date": "2026-11-19",
+  "total_rows": 34919,
+  "translated_rows": 21056,
+  "pending_rows": 13863,
+  "prior_032_translated": 20406,
+  "new_033_rows": 650,
+  "changed": {
+    "06-jquiz-003.jsonl": "865–1514 (650 new; Gintama and Hunter × Hunter; Greed Island; CP034 start 1515)"
+  },
+  "source_ja_modified": 0,
+  "source_metadata_modified": 0,
+  "previous_translations_modified": 0,
+  "duplicate_ids": 0,
+  "control_tag_errors": 0,
+  "printf_placeholder_errors": 0,
+  "unicode_nfc_errors": 0,
+  "raw_control_char_errors": 0,
+  "quiz_option_positions_modified": 0,
+  "quiz_question_groups_touched": 124,
+  "quiz_answer_groups_touched": 142,
+  "quiz_answers_validated_in_game": false,
+  "source_image_questions_validated": false,
+  "long_unicode_strings_gt37": 6742,
+  "glossary_terms": 1639,
+  "glossary_added": 24,
+  "font_implemented": false,
+  "rom_patch_built": false,
+  "pixel_width_qa": false,
+  "gameplay_tested": false,
+  "source_anomalies": [
+    "Gintama 868–871 and 986–989: quiz depends on exact Japanese kanji; preserved.",
+    "Gintama 1179–1182 and Hunter × Hunter 1417–1420: kanji-sensitive option set preserved.",
+    "Some extracted questions omit options or refer to images, e.g. Gintama 926–927, 1034–1036, 1150–1154.",
+    "Character names transliterated from Japanese need spot-check vs franchise official romanization."
+  ],
+  "notes": "Static QA only: all 34919 original IDs and source metadata preserved, all 20406 prior translations unchanged; tag/placeholder and quiz slots preserved. No semantic answer-key / image-dependent / in-game validation performed."
+}

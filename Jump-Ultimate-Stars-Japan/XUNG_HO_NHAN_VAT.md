@@ -345,3 +345,13 @@ Các tên Romanization có trạng thái `working_romanization_qa` cần so lạ
 - Các câu hỏi chữ Hán phân biệt đáp án chỉ khác một nét **giữ nguyên chữ Hán trong ngoặc**, không dịch thành cùng một phương án giống hệt nhau.
 - Ký tự nguồn `≪` ở tên đội và số tháng có dấu hiệu bất thường; diễn giải phần số tháng như thông thường, riêng tên đội được ghi cần soát, không công bố là tên chính thức.
 - Các câu quiz chỉ hiện 1–2 phương án trong trích xuất và câu cần hình **chưa kiểm thử trong ROM**. Không tự thêm lựa chọn bị thiếu, không tự đổi đáp án đúng.
+
+
+## Checkpoint 033 — J-Quiz Gintama / Hunter × Hunter
+
+- Đây là **câu dẫn quiz trung tính**, không phải phát ngôn của Gintoki, Kagura, Katsura, Gon, Killua; không gán đại từ đặc thù cho người hỏi.
+- Với *Gintama*, giữ chất lầy ở lựa chọn đùa nhưng không bịa đáp án; những nhóm/tên riêng được giữ Latin như Shinsengumi, Kiheitai, Justaway, Benizakura, Yorozuya, Kaientai.
+- Với *Hunter × Hunter*, giữ Nen, Aura, Ten, Zetsu, Gyo, Hatsu, Heaven(s) Arena, Phantom Troupe, Greed Island; tên lựa chọn đánh đố như địa danh hoặc họ nhân vật dịch từng mục đúng nguyên bản.
+- Riêng câu hỏi **phân biệt cách viết kanji** (Shinsengumi: 868–871; băng nhóm: 986–989; Yagyu: 1179–1182; ma thú Kiriko: 1417–1420) cố ý giữ kanji để các lựa chọn không bị mất dấu hiệu phân biệt.
+- Mỗi ID giữ nguyên số lượng thẻ `<IDEOSP>`; một số nguồn chỉ còn 1–3 phương án hoặc dựa hình minh họa, không bịa thêm lựa chọn.
+- Tên phiên âm chưa chắc và câu hỏi thiếu hình **cần QA so nguồn chính thức và ROM**, không coi kiểm tra cấu trúc là kiểm chứng đáp án đúng.
