@@ -1,0 +1,115 @@
+{
+  "game": "Jump Ultimate Stars (Japan)",
+  "checkpoint": "049",
+  "date": "2026-11-20",
+  "source_zip": "JumpUltimateStars_Japan_BanGiao_Cloud.zip",
+  "source_files": [
+    {
+      "file": "translation/06-jquiz-008.jsonl",
+      "sha256": "48c26ae8eb63b3d3272741f93683312ff435ac8fc8995479f96a42045acd0dfc",
+      "source_rows": 2012,
+      "from": 1923,
+      "to": 2011
+    },
+    {
+      "file": "translation/06-jquiz-009.jsonl",
+      "sha256": "ad517ab9020ebaaaf24d3b0be0bca8b6bbd1c9f975f1c3b745f1b249fd23d1e1",
+      "source_rows": 1351,
+      "from": 0,
+      "to": 615
+    }
+  ],
+  "reference_quiz_questions": 3006,
+  "new_translations": 705,
+  "previous_total": 31306,
+  "translated_total": 32011,
+  "total_source_ids": 34919,
+  "remaining": 2908,
+  "progress_percent": 91.67,
+  "first_question_index": 2760,
+  "last_question_index": 2883,
+  "next_checkpoint": {
+    "checkpoint": "050",
+    "file": "06-jquiz-009.jsonl",
+    "row_index": 616,
+    "question_index": 2884
+  },
+  "manga_codes": {
+    "4": 409,
+    "17": 273,
+    "38": 23
+  },
+  "roles": {
+    "question_line": 253,
+    "answer_option": 452
+  },
+  "control_tokens": {
+    "<IDEOSP>": 4
+  },
+  "max_vi_unicode_chars": 37,
+  "unusual_ja": [],
+  "review_recommendations": [
+    {
+      "file": "06-jquiz-009.jsonl",
+      "rows": [
+        326,
+        327,
+        328,
+        329
+      ],
+      "note": "Tên Sado/Chado đồng âm khác Hán tự; giữ Hán tự trong ngoặc để tránh bốn lựa chọn giống nhau"
+    },
+    {
+      "file": "06-jquiz-009.jsonl",
+      "rows": [
+        295,
+        296,
+        297,
+        298
+      ],
+      "note": "Tên tổ chức Vindice canonical, ba lựa chọn giả âm Nhật chưa xác minh canonical Latin"
+    },
+    {
+      "file": "06-jquiz-009.jsonl",
+      "rows": [
+        370,
+        371,
+        372,
+        373
+      ],
+      "note": "Tên các cổng trong Taizo có chơi chữ Hán tự; phiên âm dự kiến, cần duyệt thuật ngữ manga"
+    },
+    {
+      "file": "06-jquiz-009.jsonl",
+      "rows": [
+        612,
+        613,
+        614,
+        615
+      ],
+      "note": "Tên kiếm trong Yu Yu Hakusho giữ romaji tạm; cần xác minh tên Anh chính thức khi vá ROM"
+    }
+  ],
+  "checks": {
+    "source_sha256_verified": true,
+    "reference_quiz_position_and_ja_identical": true,
+    "source_ja_unchanged": true,
+    "source_id_unchanged": true,
+    "quiz_context_and_metadata_preserved": true,
+    "unique_new_ids": true,
+    "no_duplicate_against_CP038_048": true,
+    "identical_ja_consistent_with_CP038_048": true,
+    "control_tokens_preserved": true,
+    "vi_nonempty": true,
+    "all_vi_at_most_37_unicode_chars": true,
+    "checkpoint_boundary_after_complete_question": true,
+    "CP046A_shunrei_overlay_retained": true,
+    "correct_answer_tested": false,
+    "visual_pixel_font_tested": false,
+    "nds_rom_tested": false,
+    "translation_accuracy_human_review_complete": false
+  },
+  "new_delta_sha256": "885c5ceb643f1ed948c90da99746c76c03c90e61a52f8a9b25814b497409e57a",
+  "new_merged_sha256": "6427b22f5183eb2a3871b6b376b59083b5839572e7dfb3ad70edd24c6f77b1da",
+  "notes": "QA tĩnh: chưa xác nhận đáp án chuẩn, độ rộng pixel font hay ROM NDS. Phiên âm tên lạ và các lựa chọn chơi chữ cần QA độc lập."
+}
