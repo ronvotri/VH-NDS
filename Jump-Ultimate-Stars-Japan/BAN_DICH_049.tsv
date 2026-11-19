@@ -1,0 +1,706 @@
+file	row_index	id	manga_code	question_index	role	position	ja	vi
+06-jquiz-008.jsonl	1923	JUS-b6d01c938381d9cc681c	4	2760	question_line	0	リボーンの挨拶といえば次のうちどれ？	Câu chào quen thuộc của Reborn là gì?
+06-jquiz-008.jsonl	1924	JUS-f4fc0187cb4a6b02b7ff	4	2760	answer_option	0	ちゃおっス	Ciaossu!
+06-jquiz-008.jsonl	1925	JUS-64655b9f9251673d07ec	4	2760	answer_option	1	ういっス	Uissu!
+06-jquiz-008.jsonl	1926	JUS-0569abe01770bca8e245	4	2760	answer_option	2	そぉいっス	Soissu!
+06-jquiz-008.jsonl	1927	JUS-9d7d3abb0263a617a97a	4	2760	answer_option	3	ちゅっス	Chussu!
+06-jquiz-008.jsonl	1928	JUS-9519b32ca62537384dde	4	2761	question_line	0	リボーンに死ぬ気弾を初めて撃たれた	Lần đầu Reborn bắn Đạn Quyết Tử,
+06-jquiz-008.jsonl	1929	JUS-bc4e94b2fe5ccde6b6f6	4	2761	question_line	1	ツナは死ぬ気になって何をした？	Tsuna liều mạng làm chuyện gì?
+06-jquiz-008.jsonl	1930	JUS-79111123f100f611f19d	4	2761	answer_option	0	笹川京子に告白した	Tỏ tình với Kyoko Sasagawa
+06-jquiz-008.jsonl	1931	JUS-3be4308a8c72c4947569	4	2761	answer_option	1	剣道部主将と試合をし勝った	Đấu thắng đội trưởng CLB kiếm đạo
+06-jquiz-008.jsonl	1932	JUS-bee4f34bd79635ca4437	4	2761	answer_option	2	溺れてる子供を助けた	Cứu một đứa trẻ đuối nước
+06-jquiz-008.jsonl	1933	JUS-860904eb7e7518a368b5	4	2761	answer_option	3	ケンカをとめた	Can một vụ đánh nhau
+06-jquiz-008.jsonl	1934	JUS-c4f98fca184e7037a113	4	2762	question_line	0	リボーンにツナをマフィアのボスに	Ai đã nhờ Reborn huấn luyện Tsuna
+06-jquiz-008.jsonl	1935	JUS-a9685100f5ee1a75e30c	4	2762	question_line	1	教育するよう依頼したのは誰？	thành ông trùm mafia?
+06-jquiz-008.jsonl	1936	JUS-bca1bc6389fa3ba83424	4	2762	answer_option	0	ボンゴレ９世	Vongola Đệ Cửu
+06-jquiz-008.jsonl	1937	JUS-927c4ee99075d610af8a	4	2762	answer_option	1	トマゾ７世	Tomaso Đệ Thất
+06-jquiz-008.jsonl	1938	JUS-e43e9c6d850ccf3f20d0	4	2762	answer_option	2	ペンネ１９世	Penne Đệ Thập Cửu
+06-jquiz-008.jsonl	1939	JUS-0414fdfc56cd89139c4c	4	2762	answer_option	3	キャバッローネ２７世	Cavallone Đệ Nhị Thập Thất
+06-jquiz-008.jsonl	1940	JUS-a37499c928479866b66e	4	2763	question_line	0	ツナが憧れているクラスメイトの	Cô bạn cùng lớp mà Tsuna
+06-jquiz-008.jsonl	1941	JUS-fa04350a1b6eb0eadee8	4	2763	question_line	1	女の子の名前は次のうちどれ？	thầm thương trộm nhớ tên gì?
+06-jquiz-008.jsonl	1942	JUS-10d7877624e0a316db48	4	2763	answer_option	0	笹川京子	Kyoko Sasagawa
+06-jquiz-008.jsonl	1943	JUS-e33ec466d7fc1b34f218	4	2763	answer_option	1	笠井今日子	Kyoko Kasai
+06-jquiz-008.jsonl	1944	JUS-c75231daf664253094e4	4	2763	answer_option	2	飯田恭子	Kyoko Iida
+06-jquiz-008.jsonl	1945	JUS-395ef76e385e9567cbec	4	2763	answer_option	3	五十嵐キョウ	Kyo Igarashi
+06-jquiz-008.jsonl	1946	JUS-b1bf83e5d7909ed85067	4	2764	question_line	0	リボーンがイタリアから呼んだ	Reborn gọi Hayato Gokudera
+06-jquiz-008.jsonl	1947	JUS-c5df400783e60c06882b	4	2764	question_line	1	獄寺隼人。	từ Ý sang.
+06-jquiz-008.jsonl	1948	JUS-7272aec1da4952491118	4	2764	question_line	2	彼は体中にダイナマイトを持っている	Cậu mang thuốc nổ đầy người,
+06-jquiz-008.jsonl	1949	JUS-4649106cc0a5dce17ad4	4	2764	question_line	3	ことから何と呼ばれている？	nên có biệt danh gì?
+06-jquiz-008.jsonl	1950	JUS-adaefc4ef89b6e036284	4	2764	answer_option	0	スモーキン・ボム隼人	Smokin' Bomb Hayato
+06-jquiz-008.jsonl	1951	JUS-b66ef9299e2ccee6ebf6	4	2764	answer_option	1	ハイパー・ボンズ隼人	Hyper Bonds Hayato
+06-jquiz-008.jsonl	1952	JUS-b1985a480308088f1b05	4	2764	answer_option	2	ボンバー・ボーイ隼人	Bomber Boy Hayato
+06-jquiz-008.jsonl	1953	JUS-5fd20002366209368862	4	2764	answer_option	3	サルバトーレ・ボンバー隼人	Salvatore Bomber Hayato
+06-jquiz-008.jsonl	1954	JUS-445e993e459bcda5256f	4	2765	question_line	0	標的４で学歴詐称が発覚して	Ở mục tiêu 4, thầy dạy khoa học
+06-jquiz-008.jsonl	1955	JUS-e4d211c7a060fbad2dcd	4	2765	question_line	1	解任となった理科の教師の名前は何？	nào bị đuổi vì khai gian học vấn?
+06-jquiz-008.jsonl	1956	JUS-7c363040687745bac36a	4	2765	answer_option	0	根津銅八郎	Dohachiro Nezu
+06-jquiz-008.jsonl	1957	JUS-321d902492c35e2e4573	4	2765	answer_option	1	根津金八	Kinpachi Nezu
+06-jquiz-008.jsonl	1958	JUS-84f19ae1beeacca0be79	4	2765	answer_option	2	根津銀一郎	Ginichiro Nezu
+06-jquiz-008.jsonl	1959	JUS-4f840420dbca0b51a835	4	2765	answer_option	3	根津ミトリ	Mitori Nezu
+06-jquiz-008.jsonl	1960	JUS-07760cfd3813c1c72090	4	2766	question_line	0	標的６でサイフを忘れたリボーンが	Ở mục tiêu 6, Reborn quên ví.
+06-jquiz-008.jsonl	1961	JUS-9aa485c5c030b69fc25e	4	2766	question_line	1	コーヒー屋でエスプレッソを買おうと	Cậu định mua espresso ở quán
+06-jquiz-008.jsonl	1962	JUS-61623111c6cf193e7f7b	4	2766	question_line	2	した方法は次のうちどれ？	bằng cách nào?
+06-jquiz-008.jsonl	1963	JUS-c0a537fa7db8ce2bfe2b	4	2766	answer_option	0	ツケにしてくれと頼んだ	Xin mua chịu
+06-jquiz-008.jsonl	1964	JUS-b717a4b3d01760bcc47f	4	2766	answer_option	1	店員をナイフで脅した	Lấy dao dọa nhân viên
+06-jquiz-008.jsonl	1965	JUS-127da587ab1c958b1af1	4	2766	answer_option	2	ママに頼まれたと嘘をついた	Nói dối mẹ nhờ mua
+06-jquiz-008.jsonl	1966	JUS-6263a2caf17447c47f32	4	2766	answer_option	3	ダイヤの指輪と交換と言った	Đòi đổi bằng nhẫn kim cương
+06-jquiz-008.jsonl	1967	JUS-f029219990d96baa7642	4	2767	question_line	0	ツナの家に初めて遊びに来た京子。	Kyoko lần đầu ghé nhà Tsuna.
+06-jquiz-008.jsonl	1968	JUS-c16fd6f29cd22b5418fb	4	2767	question_line	1	ツナはリボーンを自分の何と紹介した？	Tsuna giới thiệu Reborn là ai?
+06-jquiz-008.jsonl	1969	JUS-13f414a01fc92569092a	4	2767	answer_option	1	家庭教師	Gia sư
+06-jquiz-008.jsonl	1970	JUS-ef5134af31970db02839	4	2767	answer_option	3	近所のかぎっ子	Đứa trẻ hàng xóm hay ở nhà một mình
+06-jquiz-008.jsonl	1971	JUS-f4b9b83fde59d1acebde	4	2768	question_line	0	ツナの家に初めて来た京子に	Khi Kyoko đến nhà Tsuna lần đầu,
+06-jquiz-008.jsonl	1972	JUS-b17350ccde1c192bbb7c	4	2768	question_line	1	リボーンが提案した遊びは何？	Reborn rủ chơi trò gì?
+06-jquiz-008.jsonl	1973	JUS-5f39efe56f96f7eaecde	4	2768	answer_option	0	ロシアンルーレット	Russian Roulette
+06-jquiz-008.jsonl	1974	JUS-07e27e1ed668b858642c	4	2768	answer_option	1	ババぬき	Rút lá bà già
+06-jquiz-008.jsonl	1975	JUS-ccb3637564e629809c79	4	2768	answer_option	3	チェス	Cờ vua
+06-jquiz-008.jsonl	1976	JUS-7f5c2da58c3a20fc193a	4	2769	question_line	0	初めて死ぬ気弾を撃たれた京子。	Kyoko lần đầu trúng Đạn Quyết Tử.
+06-jquiz-008.jsonl	1977	JUS-1bfae437e72713a1ab2f	4	2769	question_line	1	彼女の後悔は次のうちどれだった？	Cô hối tiếc chuyện gì?
+06-jquiz-008.jsonl	1978	JUS-082d585f5148d85856fe	4	2769	answer_option	0	ツナをダメ息子だと決めつけられた事	Nghe Tsuna bị chê là con bất tài
+06-jquiz-008.jsonl	1979	JUS-9790bb771b6800308462	4	2769	answer_option	1	チョコを思い切り食べられなかった事	Chưa được ăn chocolate thỏa thích
+06-jquiz-008.jsonl	1980	JUS-68f341ed957244eb497e	4	2769	answer_option	2	３キロ太ってしまった事	Lỡ tăng 3 kg
+06-jquiz-008.jsonl	1981	JUS-3d982d94e84a35f68bfd	4	2769	answer_option	3	先輩に告白できなかった事	Chưa tỏ tình với đàn anh
+06-jquiz-008.jsonl	1982	JUS-206ae8fbe466cf550c73	4	2770	question_line	0	死ぬ気弾を無効化する	Chiếc búa có thể vô hiệu hóa
+06-jquiz-008.jsonl	1983	JUS-99468505f3d57dfb5668	4	2770	question_line	1	力のあるこのハンマー	Đạn Quyết Tử này
+06-jquiz-008.jsonl	1984	JUS-f035ede4b9cae961ba66	4	2770	question_line	2	の名前は何？	tên là gì?
+06-jquiz-008.jsonl	1985	JUS-7787cc921bba9c1ec23a	4	2770	answer_option	0	リバース１トン	Reverse 1 Ton
+06-jquiz-008.jsonl	1986	JUS-796174160bb29c417dfd	4	2770	answer_option	1	取消しハンマー	Búa Hủy Bỏ
+06-jquiz-008.jsonl	1987	JUS-6749126c2d5885cd36af	4	2770	answer_option	2	リターンウェポン	Return Weapon
+06-jquiz-008.jsonl	1988	JUS-daa3c41c23bae3215348	4	2770	answer_option	3	ストーン７	Stone 7
+06-jquiz-008.jsonl	1989	JUS-c92f0658919b0254b1a2	4	2771	question_line	0	ランボ登場時、リボーンにむけて撃った	Khi Lambo xuất hiện, khẩu súng
+06-jquiz-008.jsonl	1990	JUS-db7b9a6b0f9ba599511c	4	2771	question_line	1	銃の弾が入ってなかった理由は何？	bắn Reborn hết đạn vì sao?
+06-jquiz-008.jsonl	1991	JUS-5ef0f2ea77762d37d5f1	4	2771	answer_option	0	ヨーイドンごっこをして全部使ったから	Đã bắn hết khi chơi đua xuất phát
+06-jquiz-008.jsonl	1992	JUS-e2c2b39136d22bdd9d9d	4	2771	answer_option	1	銃の手入れを忘れてＴＶを見たため	Mải xem TV, quên chăm súng
+06-jquiz-008.jsonl	1993	JUS-9e754a6fd92f4cd509bf	4	2771	answer_option	2	ひこうき雲にむかって全弾撃ったから	Bắn sạch đạn lên vệt máy bay
+06-jquiz-008.jsonl	1994	JUS-cabae8aca331e20f841a	4	2771	answer_option	3	犬に追われて逃げる時に使いきったから	Bắn hết khi bị chó rượt
+06-jquiz-008.jsonl	1995	JUS-116d2e3c5c9d0ae3612a	4	2772	question_line	0	ランボの大好物といえば何？	Món khoái khẩu của Lambo là gì?
+06-jquiz-008.jsonl	1996	JUS-f5647914a561ccbd8de5	4	2772	answer_option	0	ブドウとあめ玉	Nho và kẹo viên
+06-jquiz-008.jsonl	1997	JUS-06e1e1796dc65e6d75dc	4	2772	answer_option	1	メロンとチョコ	Dưa lưới và chocolate
+06-jquiz-008.jsonl	1998	JUS-acbc8cb62fe1303d2ed6	4	2772	answer_option	2	リンゴとはちみつ	Táo và mật ong
+06-jquiz-008.jsonl	1999	JUS-139fc2e8727e27149b68	4	2772	answer_option	3	イチゴと風船ガム	Dâu tây và kẹo cao su
+06-jquiz-008.jsonl	2000	JUS-18037203178b441adb71	4	2773	question_line	0	痛い目にあったり	Mỗi khi bị đau
+06-jquiz-008.jsonl	2001	JUS-ffbc24fe5db7a68f70b2	4	2773	question_line	1	無視された時に	hoặc bị phớt lờ,
+06-jquiz-008.jsonl	2002	JUS-d8fa80af2642f20b62f1	4	2773	question_line	2	ランボが毎回言うセリフ	Lambo hay lẩm bẩm
+06-jquiz-008.jsonl	2003	JUS-c8ab1bfee80ef635cf23	4	2773	question_line	3	は次のうちどれ？	câu nào?
+06-jquiz-008.jsonl	2004	JUS-32067251ec8cf719feec	4	2773	answer_option	0	が・ま・ん	Nhịn... nhịn nào!
+06-jquiz-008.jsonl	2005	JUS-a26671a445b3d627b634	4	2773	answer_option	1	ファ・イ・ト	Cố... lên nào!
+06-jquiz-008.jsonl	2006	JUS-a7c1b2b9da985b3a363b	4	2773	answer_option	2	ま・け・な・い	Không... chịu thua!
+06-jquiz-008.jsonl	2007	JUS-46d50cc37bc94c9fc615	4	2773	answer_option	3	根・性	Ý... chí thép!
+06-jquiz-008.jsonl	2008	JUS-920886f4cc584bb9a81c	4	2774	question_line	0	ランボがボスから借りてきた武器	Lambo mượn của sếp món vũ khí
+06-jquiz-008.jsonl	2009	JUS-d0554738ea80b621b45c	4	2774	question_line	1	『１０年バズーカ』。	"""Bazooka 10 Năm""."
+06-jquiz-008.jsonl	2010	JUS-4dbe5934b60c2bb402c9	4	2774	question_line	2	撃たれた人はどうなる？	Người trúng đạn sẽ thế nào?
+06-jquiz-008.jsonl	2011	JUS-bc5364264c6891a4cb42	4	2774	answer_option	0	５分間１０年後の自分と入れかわる	Đổi với mình 10 năm sau trong 5 phút
+06-jquiz-009.jsonl	0	JUS-74a96783dd21a6268ee5	4	2774	answer_option	1	１０年間石となり動けなくなる	Hóa đá suốt 10 năm
+06-jquiz-009.jsonl	1	JUS-8dc305a4eeeb2a6cdb1c	4	2774	answer_option	2	３分間１０年若くなる	Trẻ lại 10 tuổi trong 3 phút
+06-jquiz-009.jsonl	2	JUS-300636d14edf7e3e7923	4	2774	answer_option	3	１０年間笑いを取れなくなる	Mất duyên hài suốt 10 năm
+06-jquiz-009.jsonl	3	JUS-998785d9f0effc84e93d	4	2775	question_line	0	標的７でランボが泣きながら	Ở mục tiêu 7, Lambo vừa khóc
+06-jquiz-009.jsonl	4	JUS-3bfaed8eee9a2ac51170	4	2775	question_line	1	ツナに話した彼の夢とはファミリーの	vừa kể Tsuna nghe giấc mơ:
+06-jquiz-009.jsonl	5	JUS-e935c0dbb7b2a9fb2ce3	4	2775	question_line	2	ボスになって何をすること？	thành trùm Family để làm gì?
+06-jquiz-009.jsonl	6	JUS-bb7dbb356c127beca356	4	2775	answer_option	0	全人類をひざまずかせること	Khiến toàn nhân loại quỳ gối
+06-jquiz-009.jsonl	7	JUS-e3bd30da8821a80bc97c	4	2775	answer_option	1	お腹いっぱいブドウを食べること	Ăn nho no căng bụng
+06-jquiz-009.jsonl	8	JUS-e35effcd5e4ab3fff380	4	2775	answer_option	2	マフィア募金活動をすること	Quyên tiền từ thiện cho mafia
+06-jquiz-009.jsonl	9	JUS-1dbb17f8ec307edc2ec1	4	2775	answer_option	3	コネでフィレンツェ大学に入ること	Nhờ quan hệ vào ĐH Florence
+06-jquiz-009.jsonl	10	JUS-4eb08923e4c9bde201b5	4	2776	question_line	0	ツナの本名は次のうちどれ？	Tên thật của Tsuna là gì?
+06-jquiz-009.jsonl	11	JUS-3721b31f7efedb9c1924	4	2776	answer_option	0	沢田綱吉	Tsunayoshi Sawada
+06-jquiz-009.jsonl	12	JUS-052e1f8eb637d7a0ddbb	4	2776	answer_option	1	上杉綱丸	Tsunamaru Uesugi
+06-jquiz-009.jsonl	13	JUS-01c984c76c84ecb3bb18	4	2776	answer_option	2	綱川翔太	Shota Tsunagawa
+06-jquiz-009.jsonl	14	JUS-35a0fb8b0a584712aae5	4	2776	answer_option	3	佐々木ミツナ	Mitsuna Sasaki
+06-jquiz-009.jsonl	15	JUS-7b0046bf579312fc4822	4	2777	question_line	0	ツナのクラスメイトで野球が得意。	Bạn cùng lớp giỏi bóng chày,
+06-jquiz-009.jsonl	16	JUS-91d18f4569d26bc59dcd	4	2777	question_line	1	２番目にツナファミリーに入ることに	gia nhập Family của Tsuna thứ hai
+06-jquiz-009.jsonl	17	JUS-85f84f4e03048df11adc	4	2777	question_line	2	なった男の子は次のうち誰？	là chàng trai nào?
+06-jquiz-009.jsonl	18	JUS-7a2fbdf4bd90aa5911bc	4	2777	answer_option	0	山本武	Takeshi Yamamoto
+06-jquiz-009.jsonl	19	JUS-a056d3e9c982680e5956	4	2777	answer_option	1	山本宏	Hiroshi Yamamoto
+06-jquiz-009.jsonl	20	JUS-d9ff060db90ade6c2a41	4	2777	answer_option	2	山内猛	Takeshi Yamauchi
+06-jquiz-009.jsonl	21	JUS-8511624e38fe74908fca	4	2777	answer_option	3	山木ベン	Ben Yamaki
+06-jquiz-009.jsonl	22	JUS-a064174afb88759742ad	4	2778	question_line	0	ビアンキの得意技といえば何？	Sở trường của Bianchi là gì?
+06-jquiz-009.jsonl	23	JUS-66f224eb440658fbae3f	4	2778	answer_option	0	ポイズンクッキング	Poison Cooking
+06-jquiz-009.jsonl	24	JUS-9f96a6a8c52be4780932	4	2778	answer_option	1	デビルディッシュ	Devil Dish
+06-jquiz-009.jsonl	25	JUS-d2cbb4de3ba9edabad63	4	2778	answer_option	2	恐怖の晩餐会	Bữa tiệc kinh hoàng
+06-jquiz-009.jsonl	26	JUS-b85251c237978e972c3d	4	2778	answer_option	3	セクシーダイナマイツ	Sexy Dynamites
+06-jquiz-009.jsonl	27	JUS-0c3b9a77ed5201d52c4b	4	2779	question_line	0	ビアンキがツナの家庭教師として	Bianchi phụ trách dạy Tsuna
+06-jquiz-009.jsonl	28	JUS-2b960ed2ddf416ba874d	4	2779	question_line	1	担当することになった科目は何？	những môn gì?
+06-jquiz-009.jsonl	29	JUS-0ebe9dd35d263e1d0b82	4	2779	answer_option	0	家庭科と美術	Nữ công và mỹ thuật
+06-jquiz-009.jsonl	30	JUS-2e21a99fd031a6e0209b	4	2779	answer_option	1	イタリア語と音楽	Tiếng Ý và âm nhạc
+06-jquiz-009.jsonl	31	JUS-da41d9e8daca2a3656a8	4	2779	answer_option	2	英語と数学	Tiếng Anh và toán
+06-jquiz-009.jsonl	32	JUS-6e5e9ed23ff8324be205	4	2779	answer_option	3	国語と体育	Ngữ văn và thể dục
+06-jquiz-009.jsonl	33	JUS-801a7bcba883ff84cf07	4	2780	question_line	0	ビアンキと獄寺の関係は？	Bianchi và Gokudera có quan hệ gì?
+06-jquiz-009.jsonl	34	JUS-b9440dbc1a185eb005db	4	2780	answer_option	0	腹ちがいの姉弟	Chị em cùng cha khác mẹ
+06-jquiz-009.jsonl	35	JUS-5555f291ff9dd1a9ae99	4	2780	answer_option	1	元フィアンセ	Từng đính hôn
+06-jquiz-009.jsonl	36	JUS-8b97eabc44a09a471394	4	2781	question_line	0	ポイズンクッキング１号となった、	Món Poison Cooking số 1
+06-jquiz-009.jsonl	37	JUS-76441efc3168c5b490aa	4	2781	question_line	1	獄寺のためにビアンキが初めて	Bianchi lần đầu nấu cho
+06-jquiz-009.jsonl	38	JUS-d0c8099253a187439740	4	2781	question_line	2	作ったものは何？	Gokudera là món gì?
+06-jquiz-009.jsonl	39	JUS-ae8839bca163fa5ccb8b	4	2781	answer_option	3	ポトフ	Pot-au-feu
+06-jquiz-009.jsonl	40	JUS-426fd2b781b9121bde1b	4	2782	question_line	0	ビアンキが見ると殺したくなる	Gặp lại tình cũ là Bianchi
+06-jquiz-009.jsonl	41	JUS-4b9328c93c5517e0c267	4	2782	question_line	1	元彼の名前は何？	chỉ muốn giết! Anh ta tên gì?
+06-jquiz-009.jsonl	42	JUS-0216be96a034fefd5611	4	2782	answer_option	0	ロメオ	Romeo
+06-jquiz-009.jsonl	43	JUS-f76fddc5615def22d731	4	2782	answer_option	1	レミオ	Remio
+06-jquiz-009.jsonl	44	JUS-fb5961594e8384b692a7	4	2782	answer_option	2	ロミオ	Romio
+06-jquiz-009.jsonl	45	JUS-f8c65d5f190fe32ce4fa	4	2782	answer_option	3	ドナオ	Donao
+06-jquiz-009.jsonl	46	JUS-438ad2f21c20ba16a94d	4	2783	question_line	0	リボーンに告白してきた	Cô gái từng tỏ tình
+06-jquiz-009.jsonl	47	JUS-b701413e1a0fdaa01254	4	2783	question_line	1	この女の子の名前は何？	với Reborn tên gì?
+06-jquiz-009.jsonl	48	JUS-1953ecc220fcb9112108	4	2783	answer_option	0	三浦ハル	Haru Miura
+06-jquiz-009.jsonl	49	JUS-1277250cbc1318a1be6b	4	2783	answer_option	1	田中小春	Koharu Tanaka
+06-jquiz-009.jsonl	50	JUS-b085bc15f88ce92be4ea	4	2783	answer_option	2	竹田ハルカ	Haruka Takeda
+06-jquiz-009.jsonl	51	JUS-d2067edb8b30bb8d8f34	4	2783	answer_option	3	晴川ケイ	Kei Harukawa
+06-jquiz-009.jsonl	52	JUS-b2e3b8f0cfcc8543bace	4	2784	question_line	0	夏休みの補習でだされた全問正解しない	Bài phụ đạo hè: sai một câu
+06-jquiz-009.jsonl	53	JUS-db3d71e27f0c2f12a5cc	4	2784	question_line	1	と落第になるという宿題のプリント。	là ở lại lớp!
+06-jquiz-009.jsonl	54	JUS-681e6b21b21540916cac	4	2784	question_line	2	皆が苦戦した問７を解いたのは誰？	Ai giải được câu 7 hóc búa?
+06-jquiz-009.jsonl	55	JUS-02999970da0dc9d371d8	4	2784	answer_option	0	リボーン	Reborn
+06-jquiz-009.jsonl	56	JUS-aaf41d0e0b9861a5482d	4	2784	answer_option	1	ビアンキ	Bianchi
+06-jquiz-009.jsonl	57	JUS-2eeb53f60bbd2fc8a33b	4	2784	answer_option	2	ハルの父親	Bố của Haru
+06-jquiz-009.jsonl	58	JUS-5c2e59f016a200ef1899	4	2784	answer_option	3	獄寺	Gokudera
+06-jquiz-009.jsonl	59	JUS-9f3292a3fd5dfb7a6450	4	2785	question_line	0	リボーンへの攻撃返しで入江家に	Bị Reborn phản đòn, Lambo
+06-jquiz-009.jsonl	60	JUS-cd84def303fd5d341116	4	2785	question_line	1	飛び込んだランボ。直後に届けられた	bay vào nhà Irie. Ngay sau đó,
+06-jquiz-009.jsonl	61	JUS-e698c2f141afa72c7939	4	2785	question_line	2	おわびの品の中身は『牛柄の袋』	đồ tạ lỗi được gửi tới gồm túi bò,
+06-jquiz-009.jsonl	62	JUS-d7ae1cf7d396dd02a38c	4	2785	question_line	3	『札束』『ワイン』『パスタ』と何？	tiền, rượu, pasta và gì nữa?
+06-jquiz-009.jsonl	63	JUS-4b814ba03c840c504bf2	4	2785	answer_option	0	オリーブオイル	Dầu ô liu
+06-jquiz-009.jsonl	64	JUS-6a20de7aafb90fb43619	4	2785	answer_option	1	トマト	Cà chua
+06-jquiz-009.jsonl	65	JUS-8340932a6fb00205d543	4	2785	answer_option	2	バラの花束	Bó hoa hồng
+06-jquiz-009.jsonl	66	JUS-d89aec65dd5a1e83729b	4	2785	answer_option	3	バルサミコ酢	Giấm balsamic
+06-jquiz-009.jsonl	67	JUS-79eaa2c4c1dfddcabd12	4	2786	question_line	0	京子の兄、笹川了平。	Ryohei Sasagawa, anh trai Kyoko,
+06-jquiz-009.jsonl	68	JUS-ed0286ae2c60481059bf	4	2786	question_line	1	彼の座右の銘は何？	có câu cửa miệng nào?
+06-jquiz-009.jsonl	69	JUS-213ab1d19eb596c2cd92	4	2786	answer_option	0	極限	Cực hạn!
+06-jquiz-009.jsonl	70	JUS-ce9d464e551eae1ed63d	4	2786	answer_option	2	スタミナ	Sức bền!
+06-jquiz-009.jsonl	71	JUS-91476e63d21d37f2687d	4	2786	answer_option	3	ど根性	Ý chí bất khuất!
+06-jquiz-009.jsonl	72	JUS-82fc9591b21d34d3d8e4	4	2787	question_line	0	タイのムエタイの長老として	Reborn cải trang thành trưởng lão
+06-jquiz-009.jsonl	73	JUS-28b321f8f8332484fee9	4	2787	question_line	1	リボーンが変装する人物の名前は何？	Muay Thai ở Thái Lan, tên gì?
+06-jquiz-009.jsonl	74	JUS-ffa54ffe6be72cfd5810	4	2787	answer_option	0	パオパオ老師	Lão sư Pao Pao
+06-jquiz-009.jsonl	75	JUS-08f962f7626943af5268	4	2787	answer_option	1	パオーン老人	Ông lão Paon
+06-jquiz-009.jsonl	76	JUS-4fd8a9d016839cc29f82	4	2787	answer_option	2	象丸元帥	Nguyên soái Zomaru
+06-jquiz-009.jsonl	77	JUS-a09044de02365e9e1d77	4	2787	answer_option	3	ミスターパオコッタ	Mr. Paocotta
+06-jquiz-009.jsonl	78	JUS-fc59d35971f0d60fd6b4	4	2788	question_line	0	死ぬ気弾を１０回うけたツナがかかった	Trúng 10 viên Đạn Quyết Tử,
+06-jquiz-009.jsonl	79	JUS-b59148733168e8b28a9a	4	2788	question_line	1	不治の病『ドクロ病』の別名は何？	"Tsuna mắc ""Bệnh Đầu Lâu"" còn gọi gì?"
+06-jquiz-009.jsonl	80	JUS-f8fb8f5665112362c0fd	4	2788	answer_option	0	死に恥をさらす病	Bệnh tự bêu xấu tới chết
+06-jquiz-009.jsonl	81	JUS-6c7b222ef9b7d6162ccf	4	2788	answer_option	1	ガリガリに痩せる病	Bệnh gầy trơ xương
+06-jquiz-009.jsonl	82	JUS-d4c440a9b0045d27343e	4	2788	answer_option	2	死ぬ前に悪魔になる病	Bệnh hóa quỷ trước khi chết
+06-jquiz-009.jsonl	83	JUS-422bdef5745255f9d3f0	4	2788	answer_option	3	雨が降ると死ぬ病	Bệnh gặp mưa là chết
+06-jquiz-009.jsonl	84	JUS-1f08a4083421982302d0	4	2789	question_line	0	Ｄｒ．シャマルがツナのドクロ病の	Vì sao Dr. Shamal từ chối
+06-jquiz-009.jsonl	85	JUS-9650c33e4919b84391ff	4	2789	question_line	1	治療を断った理由は何？	chữa Bệnh Đầu Lâu cho Tsuna?
+06-jquiz-009.jsonl	86	JUS-4dec21e9775b1842b346	4	2789	answer_option	0	男は診ないから	Không chữa cho đàn ông
+06-jquiz-009.jsonl	87	JUS-cf72fb6f381730934aa4	4	2789	answer_option	1	歯科専門だったから	Vì chỉ chuyên khoa răng
+06-jquiz-009.jsonl	88	JUS-a70033b4ab81f9d0fa54	4	2789	answer_option	2	断れない先客がいたから	Vì có khách không thể từ chối
+06-jquiz-009.jsonl	89	JUS-c69b2f6168166c0f5993	4	2789	answer_option	3	悪質な伝染病だから	Vì là bệnh truyền nhiễm nguy hiểm
+06-jquiz-009.jsonl	90	JUS-2a128d3e2e338ac24acc	4	2790	question_line	0	普段は医者のシャマル。	Shamal thường là bác sĩ.
+06-jquiz-009.jsonl	91	JUS-d032101b44f3a13a0033	4	2790	question_line	1	殺し屋での通称は何？	Tên sát thủ của anh là gì?
+06-jquiz-009.jsonl	92	JUS-e5bbfd14a06fa44f8133	4	2790	answer_option	0	トライデント・シャマル	Trident Shamal
+06-jquiz-009.jsonl	93	JUS-247c028aa8eedb7af5bb	4	2790	answer_option	1	デスドクター・Ｓ	Death Doctor S
+06-jquiz-009.jsonl	94	JUS-9ad8d7d368f74f81929e	4	2790	answer_option	2	メディカルハンター	Medical Hunter
+06-jquiz-009.jsonl	95	JUS-9a347f697c57c0cbc495	4	2790	answer_option	3	路地裏のお医者さん	Bác sĩ trong hẻm
+06-jquiz-009.jsonl	96	JUS-15456b8d92d0228fbd8b	4	2791	question_line	0	標的１６でリボーンが秋の隠密用	Ở mục tiêu 16, Reborn bảo đang mặc
+06-jquiz-009.jsonl	97	JUS-3327422bbd01962dbd85	4	2791	question_line	1	カモフラージュスーツだといって	đồ ngụy trang mùa thu.
+06-jquiz-009.jsonl	98	JUS-8d6fe62c48be27e07fce	4	2791	question_line	2	着ていたのは次のうちどれ？	Thật ra đó là thứ gì?
+06-jquiz-009.jsonl	99	JUS-99de3c87eee353bc982b	4	2791	answer_option	0	栗	Hạt dẻ
+06-jquiz-009.jsonl	100	JUS-7756184cbd9b0c231468	4	2791	answer_option	1	さんま	Cá thu đao
+06-jquiz-009.jsonl	101	JUS-5b3372e002d6aa7abf92	4	2791	answer_option	2	松茸	Nấm matsutake
+06-jquiz-009.jsonl	102	JUS-3a206e30ca62651a43cf	4	2791	answer_option	3	なす	Cà tím
+06-jquiz-009.jsonl	103	JUS-1c1c0c65c8f7046af799	4	2792	question_line	0	風紀委員長でありながら不良の頂点に	Đứng đầu ban kỷ luật và cả
+06-jquiz-009.jsonl	104	JUS-ad2bbd225a5b801dfeb1	4	2792	question_line	1	君臨するヒバリの本名は何？	đám bất lương, Hibari tên thật gì?
+06-jquiz-009.jsonl	105	JUS-6484f15aa26f30241c1b	4	2792	answer_option	0	雲雀恭弥	Kyoya Hibari
+06-jquiz-009.jsonl	106	JUS-4afcc3a7aa8d9fd1e474	4	2792	answer_option	1	高梨ひばり	Hibari Takanashi
+06-jquiz-009.jsonl	107	JUS-2026a8ac7a748acad92b	4	2792	answer_option	2	雨宮ヒバリ	Hibari Amamiya
+06-jquiz-009.jsonl	108	JUS-dba89c0934eacb6d81c8	4	2792	answer_option	3	ひばり屋裕太郎	Yutaro Hibariya
+06-jquiz-009.jsonl	109	JUS-c9eab49717c5314a1853	4	2793	question_line	0	体育祭での棒倒し。Ａ組総大将のツナに	Lễ hội thể thao, Tsuna chỉ huy A.
+06-jquiz-009.jsonl	110	JUS-acb6977e49a8c128f3ee	4	2793	question_line	1	対し、急きょＢＣ合同チームの総大将に	Ai bất ngờ dẫn đội liên minh B-C?
+06-jquiz-009.jsonl	111	JUS-a1db60cd2616e4d050af	4	2793	answer_option	0	ヒバリ	Hibari
+06-jquiz-009.jsonl	112	JUS-3e171b93e2372ba63f07	4	2793	answer_option	1	笹川了平	Ryohei Sasagawa
+06-jquiz-009.jsonl	113	JUS-ee261d9b6a2c616f7054	4	2793	answer_option	2	押切主将	Đội trưởng Oshikiri
+06-jquiz-009.jsonl	114	JUS-e1f9d25954a11c8fa980	4	2794	question_line	0	自分の意思で仮死状態になれる	Đặc vụ Vongola có thể tự
+06-jquiz-009.jsonl	115	JUS-9d3ca37dc306814adf2f	4	2794	question_line	1	ボンゴレの特殊工作員『殺され屋』の	"giả chết, gọi là ""Kẻ bị giết"", là ai?"
+06-jquiz-009.jsonl	116	JUS-862d98c9c6391bb63dfb	4	2794	answer_option	0	モレッティ	Moretti
+06-jquiz-009.jsonl	117	JUS-becd4717f0e37117bc40	4	2794	answer_option	1	ゲルド	Gerudo
+06-jquiz-009.jsonl	118	JUS-1bb0ce5268e92d0b5c13	4	2794	answer_option	2	ジラルディーノ	Giraldino
+06-jquiz-009.jsonl	119	JUS-99761c43d68ee217db9e	4	2794	answer_option	3	トレンディ	Trendy
+06-jquiz-009.jsonl	120	JUS-747488c4a7fd8e32d80d	4	2795	question_line	0	山本の実家は何屋さん？	Nhà Yamamoto kinh doanh gì?
+06-jquiz-009.jsonl	121	JUS-2043233a23849892e04e	4	2795	answer_option	0	すし屋	Quán sushi
+06-jquiz-009.jsonl	122	JUS-b56064c654b69a5e5402	4	2795	answer_option	1	酒屋	Tiệm rượu
+06-jquiz-009.jsonl	123	JUS-f5eb6cc04b7ea853f8ca	4	2795	answer_option	2	自転車屋	Tiệm xe đạp
+06-jquiz-009.jsonl	124	JUS-247e9e7b88f39fe9f545	4	2795	answer_option	3	和菓子屋	Tiệm bánh Nhật
+06-jquiz-009.jsonl	125	JUS-633ceb1b33cfde45a992	4	2796	question_line	0	この青年は誰の	Chàng trai này là dáng vẻ
+06-jquiz-009.jsonl	126	JUS-342e633d4fb720c7f219	4	2796	question_line	1	１０年後の姿？	10 năm sau của ai?
+06-jquiz-009.jsonl	127	JUS-d9027a8c87a3f1cb95c1	4	2796	answer_option	0	ランボ	Lambo
+06-jquiz-009.jsonl	128	JUS-bc30efdd0bd9a889f8fc	4	2796	answer_option	1	イーピン	I-Pin
+06-jquiz-009.jsonl	129	JUS-c4173f3bc750defc359e	4	2796	answer_option	2	リーボン	Reebon
+06-jquiz-009.jsonl	130	JUS-375793ee6ab9b9e0c013	4	2796	answer_option	3	コロネロ	Colonello
+06-jquiz-009.jsonl	131	JUS-57527a5878ecf3af4848	4	2797	question_line	0	この殺し屋の名前は何？	Tên sát thủ này là gì?
+06-jquiz-009.jsonl	132	JUS-e3c1063747c423a8c003	4	2797	answer_option	1	ワオライ	Waorai
+06-jquiz-009.jsonl	133	JUS-bb303e9d7830a020ee62	4	2797	answer_option	2	セーロン	Seiron
+06-jquiz-009.jsonl	134	JUS-6710028c434be3ebc6d5	4	2798	question_line	0	イーピンの箇子時限超爆の	Điều gì khởi động đếm ngược
+06-jquiz-009.jsonl	135	JUS-7bab73cbe44d9d860461	4	2798	question_line	1	カウントダウンが始まるきっかけとなる	Gyoza Time Bomb
+06-jquiz-009.jsonl	136	JUS-35c203da8e8f3e023026	4	2798	question_line	2	ものは次のうちどれ？	của I-Pin?
+06-jquiz-009.jsonl	137	JUS-25bdc2d5625850d023c1	4	2798	answer_option	0	恥ずかしい出来事があった時	Khi gặp chuyện ngượng chín mặt
+06-jquiz-009.jsonl	138	JUS-a2889c0466d74e51cb2d	4	2798	answer_option	1	誰かがムダ使いをした時	Khi có người tiêu tiền phung phí
+06-jquiz-009.jsonl	139	JUS-c5ecaa251b204122b1fa	4	2798	answer_option	2	違う人に間違えられたとき	Khi bị nhận nhầm là người khác
+06-jquiz-009.jsonl	140	JUS-a6bf4d86c4692d1a5e61	4	2798	answer_option	3	顔のほくろを押したとき	Khi bị ấn nốt ruồi trên mặt
+06-jquiz-009.jsonl	141	JUS-bb7a0c4097e18590a28d	4	2799	question_line	0	イーピンはランボを初めて見た時	Lần đầu thấy Lambo, I-Pin
+06-jquiz-009.jsonl	142	JUS-9c730f5e5ca97614f60c	4	2799	question_line	1	何の化け物と言った？	tưởng đó là quái vật gì?
+06-jquiz-009.jsonl	143	JUS-6eda43f72948eafb2311	4	2799	answer_option	0	ブロッコリー	Bông cải xanh
+06-jquiz-009.jsonl	144	JUS-9c660a6f10c7c55a8e62	4	2799	answer_option	1	わたアメ	Kẹo bông gòn
+06-jquiz-009.jsonl	145	JUS-867e7d104db10c5d2bf9	4	2799	answer_option	2	カリフラワー	Súp lơ trắng
+06-jquiz-009.jsonl	146	JUS-b96dfba9d6a43b5dfb55	4	2799	answer_option	3	ちょんまげ	Tóc búi kiểu samurai
+06-jquiz-009.jsonl	147	JUS-0a2d79c83b45074bc60b	4	2800	question_line	0	ド近眼のイーピンはハルを最初に見た時	I-Pin cận nặng, nhìn Haru ra thứ gì?
+06-jquiz-009.jsonl	148	JUS-0517c48620211c7fed00	4	2800	answer_option	0	シューマイ	Bánh shumai
+06-jquiz-009.jsonl	149	JUS-ef1a740e5dca0bdc6c29	4	2800	answer_option	1	ギョウザ	Bánh gyoza
+06-jquiz-009.jsonl	150	JUS-73d24117a8a987f51132	4	2800	answer_option	2	春巻き	Chả giò
+06-jquiz-009.jsonl	151	JUS-56c78f38b8b8000e133f	4	2800	answer_option	3	ゴマ団子	Bánh nếp mè
+06-jquiz-009.jsonl	152	JUS-7aa8a805f3113749077a	4	2801	question_line	0	目の悪いイーピンがメガネをかけてない	I-Pin nhìn kém nhưng không đeo kính.
+06-jquiz-009.jsonl	153	JUS-870fe6ba1d109d2a63a8	4	2801	question_line	1	理由は何？	Tại sao?
+06-jquiz-009.jsonl	154	JUS-d469ca698d1308da5abf	4	2801	answer_option	0	耳がないから	Vì không có tai
+06-jquiz-009.jsonl	155	JUS-e199dc64c47ee2318bce	4	2801	answer_option	1	彼に似合わないと言われたから	Vì bị bảo đeo kính không hợp
+06-jquiz-009.jsonl	156	JUS-1489b56b30d95b031a29	4	2801	answer_option	2	ラーメンを食べるとくもるから	Vì kính mờ khi ăn ramen
+06-jquiz-009.jsonl	157	JUS-afe51307dc1a7fc48454	4	2801	answer_option	3	メガネの存在を知らなかったから	Vì không biết kính tồn tại
+06-jquiz-009.jsonl	158	JUS-ad751aa67c3a5079ae71	4	2802	question_line	0	ディーノは何というファミリーの	Dino là ông trùm đời thứ mười
+06-jquiz-009.jsonl	159	JUS-e92d6179571b34a192f9	4	2802	question_line	1	１０代目ボス？	của Family nào?
+06-jquiz-009.jsonl	160	JUS-0d0ea9685f9bfc6972d0	4	2802	answer_option	0	キャバッローネ	Cavallone
+06-jquiz-009.jsonl	161	JUS-e4ac94f9e435596cec6f	4	2802	answer_option	1	エストラーネオ	Estraneo
+06-jquiz-009.jsonl	162	JUS-09a5a348b35db31d3740	4	2802	answer_option	3	サルトビ	Sarutobi
+06-jquiz-009.jsonl	163	JUS-2a363465e247fc3f419c	4	2803	question_line	0	ディーノの飼っているカメの名前は何？	Rùa cưng của Dino tên gì?
+06-jquiz-009.jsonl	164	JUS-3fab23cabe8f51e9b2fd	4	2803	answer_option	0	エンツィオ	Enzio
+06-jquiz-009.jsonl	165	JUS-dd05a2e7979ef9b1c2d9	4	2803	answer_option	1	バンディオ	Bandio
+06-jquiz-009.jsonl	166	JUS-63600681dbf732f3a265	4	2803	answer_option	2	レスターニャ	Restagna
+06-jquiz-009.jsonl	167	JUS-ea9291f402862561f9fe	4	2803	answer_option	3	かめ次郎	Kamejiro
+06-jquiz-009.jsonl	168	JUS-3363079ee2ea35f09ac5	4	2804	question_line	0	ディーノの弱点といえば	Điểm yếu của Dino là gì?
+06-jquiz-009.jsonl	169	JUS-25dc7384cc4f3ea8a38c	4	2804	answer_option	0	部下がいないと運動音痴	Vụng về khi không có thuộc hạ
+06-jquiz-009.jsonl	170	JUS-1307481838ee6552d1d8	4	2804	answer_option	1	暗くて狭い所が苦手	Sợ nơi tối và chật
+06-jquiz-009.jsonl	171	JUS-377f3f5ad323183fd45e	4	2804	answer_option	2	女の子に泣かれると何もできない	Bó tay khi con gái khóc
+06-jquiz-009.jsonl	172	JUS-7cc961e6b29a7091c0bb	4	2804	answer_option	3	お気に入りのムチがないと戦えない	Không có roi cưng thì không đánh
+06-jquiz-009.jsonl	173	JUS-727e60f33ac51c911ef6	4	2805	question_line	0	標的２９で入院したツナに大人ランボが	Mục tiêu 29, Lambo lớn mang gì
+06-jquiz-009.jsonl	174	JUS-b8fa11731ad430724746	4	2805	question_line	1	お見舞いとして持ってきた物は何？	đến thăm Tsuna đang nằm viện?
+06-jquiz-009.jsonl	175	JUS-c8c75cace55f43b88e40	4	2805	answer_option	0	トイレそうじがんばったで賞トロフィー	"Cúp ""Siêng lau nhà vệ sinh"""
+06-jquiz-009.jsonl	176	JUS-65fd54361b52bd54838f	4	2805	answer_option	1	彼女いない歴２０年記念トロフィー	"Cúp ""20 năm chưa có bạn gái"""
+06-jquiz-009.jsonl	177	JUS-ae0858dce695fe20b982	4	2805	answer_option	2	ラジオ体操皆勤賞トロフィー	"Cúp ""Tập thể dục đủ buổi"""
+06-jquiz-009.jsonl	178	JUS-8a6679cc63a221f6d792	4	2805	answer_option	3	入院患者１万人目記念トロフィー	"Cúp ""Bệnh nhân thứ 10.000"""
+06-jquiz-009.jsonl	179	JUS-5bb36c522d7cfe950f9b	4	2806	question_line	0	標的２９で入院したツナのお見舞いに	I-Pin đến thăm Tsuna nằm viện
+06-jquiz-009.jsonl	180	JUS-7236e5ce3cda025900fd	4	2806	question_line	1	来たイーピン。彼女の箇子時限超爆の	ở mục tiêu 29. Sao Gyoza Time Bomb
+06-jquiz-009.jsonl	181	JUS-f6065c3cb495b5fb5788	4	2806	question_line	2	カウントダウンが始まったのはなぜ？	của cô lại bắt đầu đếm ngược?
+06-jquiz-009.jsonl	182	JUS-71fd8e3c3a47a824fc2e	4	2806	answer_option	0	ヒバリに惚れたから	Vì phải lòng Hibari
+06-jquiz-009.jsonl	183	JUS-62989bf9f8c54d6451a3	4	2806	answer_option	1	シャマルにキスされたから	Vì Shamal hôn cô
+06-jquiz-009.jsonl	184	JUS-30126c79f2e86a475183	4	2806	answer_option	2	お見舞いのメロンをランボが食べたから	Vì Lambo ăn dưa cô mang đến
+06-jquiz-009.jsonl	185	JUS-d329653887f9602fa2e6	4	2806	answer_option	3	看護士から怒られたから	Vì bị y tá mắng
+06-jquiz-009.jsonl	186	JUS-5d19d81a8e5d978cc089	4	2807	question_line	0	ボンゴレ式ファミリー対抗正月合戦で	Ở cuộc đấu Tết giữa các Family
+06-jquiz-009.jsonl	187	JUS-394d15ca5873738658aa	4	2807	question_line	1	勝敗を決めた最終種目は何？	Vongola, môn cuối quyết thắng là gì?
+06-jquiz-009.jsonl	188	JUS-923dd74cc93d2a3ec478	4	2807	answer_option	0	もちつき	Giã bánh mochi
+06-jquiz-009.jsonl	189	JUS-a47f19d148ff684aa1c3	4	2807	answer_option	1	はねつき	Đánh cầu lông hanetsuki
+06-jquiz-009.jsonl	190	JUS-338febc42e352a708580	4	2807	answer_option	2	おみくじ	Bốc quẻ đầu năm
+06-jquiz-009.jsonl	191	JUS-40c5ec6571f9d8b3a75f	4	2807	answer_option	3	福笑い	Ghép mặt Fukuwarai
+06-jquiz-009.jsonl	192	JUS-1129b3cc4fc72fcd9c06	4	2808	question_line	0	授業参観でリボーンが代打教師になった	Khi Reborn dạy thay trong giờ
+06-jquiz-009.jsonl	193	JUS-2563d9f5a055e1bfdbba	4	2808	question_line	1	時に名乗った名前は何？	họp phụ huynh, cậu xưng tên gì?
+06-jquiz-009.jsonl	194	JUS-c8ed0e95680baa181422	4	2808	answer_option	0	リボ山	Riboyama
+06-jquiz-009.jsonl	195	JUS-8bf4450c92d9df622102	4	2808	answer_option	1	ボン田	Bonda
+06-jquiz-009.jsonl	196	JUS-c0ad6bd9b84ba98d6782	4	2808	answer_option	2	リン林	Rinrin
+06-jquiz-009.jsonl	197	JUS-fbbbcd60480396bb8e57	4	2808	answer_option	3	ボーン渡辺	Born Watanabe
+06-jquiz-009.jsonl	198	JUS-fa95722b2d7ab56fa63f	4	2809	question_line	0	この少年は誰？	Cậu bé này là ai?
+06-jquiz-009.jsonl	199	JUS-5c0cc08fa3cbfa6620c5	4	2809	answer_option	0	ランキングフゥ太	Ranking Futa
+06-jquiz-009.jsonl	200	JUS-327f447f335927d3fd5f	4	2809	answer_option	1	ゲームハンターユゥ太	Game Hunter Yuta
+06-jquiz-009.jsonl	201	JUS-34619bd69ef7639d8898	4	2809	answer_option	2	タロットソゥ太	Tarot Sota
+06-jquiz-009.jsonl	202	JUS-6bb727a3b2c5432647fe	4	2809	answer_option	3	マジックコゥ太	Magic Kota
+06-jquiz-009.jsonl	203	JUS-f4d48e5aeefcad7efcfe	4	2810	question_line	0	ランキングフゥ太は、ランボを	Ranking Futa xếp Lambo số một
+06-jquiz-009.jsonl	204	JUS-3159861d6889bd478df6	4	2810	question_line	1	『うざいマフィア』と何のランキングで	"hạng ""mafia phiền phức"" và"
+06-jquiz-009.jsonl	205	JUS-8bd7194fbf3e9f50887d	4	2810	question_line	2	第１位だと言った？	còn hạng gì nữa?
+06-jquiz-009.jsonl	206	JUS-46b972d879aa7f33195e	4	2810	answer_option	0	殺して座布団にしたい	Muốn giết lấy da làm nệm nhất
+06-jquiz-009.jsonl	207	JUS-59da035f9e3900496d7b	4	2810	answer_option	1	犬かきが上手そう	Có vẻ bơi kiểu chó giỏi nhất
+06-jquiz-009.jsonl	208	JUS-0bfc296bab30181db470	4	2810	answer_option	2	できれば死んでほしい	Cầu cho chết đi cho rồi
+06-jquiz-009.jsonl	209	JUS-2dba581be4b984d55fc0	4	2810	answer_option	3	チワワより弱そう	Trông yếu hơn Chihuahua
+06-jquiz-009.jsonl	210	JUS-5c9c17487d7d1ff80869	4	2811	question_line	0	京子の親友黒川花がツナに紹介して	Hana Kurokawa, bạn thân Kyoko,
+06-jquiz-009.jsonl	211	JUS-a3df0a57e2fde7a3cee0	4	2811	question_line	1	ほしいと頼んだイケメンは誰？	muốn Tsuna giới thiệu anh chàng nào?
+06-jquiz-009.jsonl	212	JUS-14c73cd5bd0056689b98	4	2811	answer_option	0	大人ランボ	Lambo trưởng thành
+06-jquiz-009.jsonl	213	JUS-82f6d0166c8b538e6859	4	2811	answer_option	1	シャマル	Shamal
+06-jquiz-009.jsonl	214	JUS-2d27cf156774fdeb1fba	4	2811	answer_option	2	ディーノ	Dino
+06-jquiz-009.jsonl	215	JUS-19e0037538c04e8e84c7	4	2811	answer_option	3	大人イーピン	I-Pin trưởng thành
+06-jquiz-009.jsonl	216	JUS-e895e430f7fbb6c76069	4	2812	question_line	0	リボーンの愛銃の名前は何？	Khẩu súng cưng của Reborn tên gì?
+06-jquiz-009.jsonl	217	JUS-e3bc0b313aa584b94d39	4	2812	answer_option	0	ＣＺ７５の１ＳＴ	CZ75 1st
+06-jquiz-009.jsonl	218	JUS-a1ce560eec7bb6991424	4	2812	answer_option	1	Ａ００７の２ＶＲ	A007 2VR
+06-jquiz-009.jsonl	219	JUS-912ddbef4be3c297d0af	4	2812	answer_option	2	コルトＰＰ８３	Colt PP83
+06-jquiz-009.jsonl	220	JUS-fbac2074fea33afe04b0	4	2812	answer_option	3	ベルベットＷＺ９	Velvet WZ9
+06-jquiz-009.jsonl	221	JUS-d0ebaf8f9e208f2f5660	4	2813	question_line	0	シャマルがヒバリにかけた病気で	Shamal truyền Hibari bệnh gì
+06-jquiz-009.jsonl	222	JUS-bc250d6b3f918a10461d	4	2813	question_line	1	桜に囲まれると立っていられなくなる	khiến cậu chẳng đứng nổi
+06-jquiz-009.jsonl	223	JUS-0c2c02330ccd0654bcd1	4	2813	question_line	2	病気の名前は何？	nếu xung quanh đầy hoa anh đào?
+06-jquiz-009.jsonl	224	JUS-9b7ab9e6dd51819b28f3	4	2813	answer_option	0	桜クラ病	Bệnh Sakura Kura
+06-jquiz-009.jsonl	225	JUS-974a1d405ecd76ccc7a0	4	2813	answer_option	1	舞い散る乙女桜病	Bệnh Nữ Sinh Sakura Rơi
+06-jquiz-009.jsonl	226	JUS-fa6de199e8e37e210f00	4	2813	answer_option	2	桜ブルブル病	Bệnh Sakura Run Rẩy
+06-jquiz-009.jsonl	227	JUS-a9aa58c8202c2f8086aa	4	2813	answer_option	3	薄桃色脱力病	Bệnh Hồng Nhạt Rã Rời
+06-jquiz-009.jsonl	228	JUS-2f361a863feaf7f52a45	4	2814	question_line	0	トマゾファミリーの持つ	Tên loại đạn bí mật
+06-jquiz-009.jsonl	229	JUS-729cd74fb2f51c8696c0	4	2814	question_line	1	秘弾の名前は何？	của Family Tomaso là gì?
+06-jquiz-009.jsonl	230	JUS-54a1f350e172b9dcdbb4	4	2814	answer_option	0	嘆き弾	Đạn Than Khóc
+06-jquiz-009.jsonl	231	JUS-d196df5c92d32f3de791	4	2814	answer_option	1	憩い弾	Đạn Nghỉ Ngơi
+06-jquiz-009.jsonl	232	JUS-bfc71d93aabd3cbfdbf3	4	2814	answer_option	2	喜び弾	Đạn Vui Mừng
+06-jquiz-009.jsonl	233	JUS-f91d097441c2f7079760	4	2814	answer_option	3	勢い弾	Đạn Xung Lực
+06-jquiz-009.jsonl	234	JUS-06d4a73d5c24e02125c1	4	2815	question_line	0	トマゾファミリー８代目	Cậu nhóc ứng viên đời thứ tám
+06-jquiz-009.jsonl	235	JUS-9bcc064c8d0153c28433	4	2815	question_line	1	候補のこの少年の名は？	của Family Tomaso tên gì?
+06-jquiz-009.jsonl	236	JUS-f90d10ce255657d41697	4	2815	answer_option	0	内藤ロンシャン	Longchamp Naito
+06-jquiz-009.jsonl	237	JUS-937187db60b10a8b214e	4	2815	answer_option	1	伊藤シャンソン	Chanson Ito
+06-jquiz-009.jsonl	238	JUS-e5fa1a4becc312adc72c	4	2815	answer_option	2	斉藤クリステル	Christel Saito
+06-jquiz-009.jsonl	239	JUS-1cadbafdc1da48ae1288	4	2815	answer_option	3	ジャック武藤	Jack Muto
+06-jquiz-009.jsonl	240	JUS-c82752c6bcd03ed91968	4	2816	question_line	0	次のうちロンシャンが集めているもの	Longchamp sưu tập thứ gì?
+06-jquiz-009.jsonl	241	JUS-cd56c1248773dbe5d9c0	4	2816	answer_option	0	弁当についてくるしょう油	Gói xì dầu trong hộp cơm
+06-jquiz-009.jsonl	242	JUS-5cb191f4ea9900c04647	4	2816	answer_option	1	ペットボトルのふた	Nắp chai nhựa
+06-jquiz-009.jsonl	243	JUS-ef43915ae751e46c4815	4	2816	answer_option	2	使用済みのプリペイドカード	Thẻ trả trước đã dùng
+06-jquiz-009.jsonl	244	JUS-43a18d6c5a0bef590147	4	2816	answer_option	3	使わなかったお手拭	Khăn ướt chưa dùng
+06-jquiz-009.jsonl	245	JUS-df31d5e75bd874c46914	4	2817	question_line	0	マフィアランドで紹介状のないツナが	Ở Mafia Land, Tsuna thiếu giấy mời.
+06-jquiz-009.jsonl	246	JUS-c479de9b53b0bc12819a	4	2817	question_line	1	受けたマフィア審査の内容は何？	Cậu bị kiểm tra mafia bằng gì?
+06-jquiz-009.jsonl	247	JUS-392c2aa604ba6ecac280	4	2817	answer_option	0	正しいワイロの渡し方	Cách đưa hối lộ cho chuẩn
+06-jquiz-009.jsonl	248	JUS-a40b53d5f568c485e628	4	2817	answer_option	1	５分で銃の組み立て	Lắp súng trong 5 phút
+06-jquiz-009.jsonl	249	JUS-38362d584b2e751b822a	4	2817	answer_option	2	逃げ足の速さ	Tốc độ chạy trốn
+06-jquiz-009.jsonl	250	JUS-cadcbb3a31b6b561cebc	4	2817	answer_option	3	イカサマギャンブルのやり方	Cách gian lận cờ bạc
+06-jquiz-009.jsonl	251	JUS-8e569bcc0085cf5c49ae	4	2818	question_line	0	標的６０でお盆に行った肝だめし。	Ở mục tiêu 60, trò thử gan lễ Obon,
+06-jquiz-009.jsonl	252	JUS-31629c578aff0265c2e4	4	2818	question_line	1	ツナのペアとなったのは誰？	ai ghép cặp với Tsuna?
+06-jquiz-009.jsonl	253	JUS-68aa031707f9fa13b638	4	2818	answer_option	2	京子	Kyoko
+06-jquiz-009.jsonl	254	JUS-58b3f1576e7284ab1cd3	4	2818	answer_option	3	ハル	Haru
+06-jquiz-009.jsonl	255	JUS-4ffc435442d331064b02	4	2819	question_line	0	標的６０での肝だめし。	Trong trò thử gan ở mục tiêu 60,
+06-jquiz-009.jsonl	256	JUS-b05306fbdfce2ff55153	4	2819	question_line	1	驚かす側になったハルが化けた物は何？	Haru đóng giả ma gì để dọa bạn?
+06-jquiz-009.jsonl	257	JUS-f495fae0375579c80d7f	4	2819	answer_option	0	ナマハゲ	Namahage
+06-jquiz-009.jsonl	258	JUS-160bea33ce0302dcaebd	4	2819	answer_option	1	一つ目小僧	Yêu quái một mắt
+06-jquiz-009.jsonl	259	JUS-325370d06e17ce08ca5e	4	2819	answer_option	2	きりたんぽのオバケ	Ma bánh kiritanpo
+06-jquiz-009.jsonl	260	JUS-304646abd3c025e3265f	4	2819	answer_option	3	ゾンビ	Zombie
+06-jquiz-009.jsonl	261	JUS-f17eb22915c479189158	4	2820	question_line	0	話を盗み聞きしていた	Gokudera đang nghe lén,
+06-jquiz-009.jsonl	262	JUS-d6fc2270fb1aa473ae4e	4	2820	question_line	1	獄寺が気付かれそうに	suýt nữa bị phát hiện
+06-jquiz-009.jsonl	263	JUS-5dba55a42c14cba2c229	4	2820	question_line	2	なって鳴き声をまねした	nên giả tiếng kêu
+06-jquiz-009.jsonl	264	JUS-c8ae1ac503ab1c60a56a	4	2820	question_line	3	動物は何？	của con gì?
+06-jquiz-009.jsonl	265	JUS-f0020423fd96ed829514	4	2820	answer_option	0	キツネ	Cáo
+06-jquiz-009.jsonl	266	JUS-e7c9424e6417df69ac24	4	2820	answer_option	3	ハト	Bồ câu
+06-jquiz-009.jsonl	267	JUS-4571c974e04756d4811f	4	2821	question_line	0	ヒバリの携帯電話の着うたは何？	Nhạc chuông Hibari là bài nào?
+06-jquiz-009.jsonl	268	JUS-33361afd91f4ab9cc129	4	2821	answer_option	0	校歌	Bài ca của trường
+06-jquiz-009.jsonl	269	JUS-519ed29b7e2c888771ea	4	2821	answer_option	1	国歌	Quốc ca
+06-jquiz-009.jsonl	270	JUS-02c1b4d30975f35a4dea	4	2821	answer_option	2	ドレミのうた	Bài hát Do-Re-Mi
+06-jquiz-009.jsonl	271	JUS-356bbf14af06a888fd2b	4	2821	answer_option	3	かえるのうた	Bài hát Chú Ếch
+06-jquiz-009.jsonl	272	JUS-581c51a755b2e07c5409	4	2822	question_line	0	標的６５で発表された	Bảng xếp hạng nhân vật lần 1
+06-jquiz-009.jsonl	273	JUS-11d37d67b7c8d23fb06d	4	2822	question_line	1	『第１回キャラクター人気ランキング』	được công bố ở mục tiêu 65.
+06-jquiz-009.jsonl	274	JUS-98bc5d7f7553265b78ba	4	2822	question_line	2	第１位になったのは誰？	Ai đứng hạng nhất?
+06-jquiz-009.jsonl	275	JUS-b2896b8f3d2fba61fe26	4	2822	answer_option	0	獄寺隼人	Hayato Gokudera
+06-jquiz-009.jsonl	276	JUS-a3282ca046a645bc88c6	4	2822	answer_option	1	ツナ	Tsuna
+06-jquiz-009.jsonl	277	JUS-bd7d6bdc0e0d8c453768	4	2823	question_line	0	ボンゴレ９代目から六道骸たち脱獄囚の	Vongola Đệ Cửu ra lệnh Tsuna bắt
+06-jquiz-009.jsonl	278	JUS-c670ce046f62c4a4af5f	4	2823	question_line	1	捕獲と人質救出の指令を受けたツナ。	nhóm Mukuro và cứu con tin.
+06-jquiz-009.jsonl	279	JUS-b651a2feb8582749ec60	4	2823	question_line	2	成功したあかつきに送ると言われた	Nếu thành công, cậu được tặng gì?
+06-jquiz-009.jsonl	280	JUS-766d23fa141a4a33bc86	4	2823	answer_option	0	トマト１００年分	Cà chua đủ dùng 100 năm
+06-jquiz-009.jsonl	281	JUS-c328e5d81c8f59e42277	4	2823	answer_option	1	ぺペロンチーノ１００人前	100 phần peperoncino
+06-jquiz-009.jsonl	282	JUS-90a6ae2b37fed6002cac	4	2823	answer_option	2	ちょい悪オヤジの胸毛	Lông ngực của ông chú ngầu
+06-jquiz-009.jsonl	283	JUS-3b55c6f912d6e9754023	4	2823	answer_option	3	ワインを搾り終えたあとのブドウ	Nho đã vắt hết rượu
+06-jquiz-009.jsonl	284	JUS-90ff0d5210a4f1e8b65c	4	2824	question_line	0	ビアンキの特技のひとつ。	Một tuyệt kỹ của Bianchi:
+06-jquiz-009.jsonl	285	JUS-b62dc4b59b9d3f8ea917	4	2824	question_line	1	ドアや門の施錠を溶かす技は何？	món nào làm tan ổ khóa cửa?
+06-jquiz-009.jsonl	286	JUS-749d598735f5fdfe0534	4	2824	answer_option	0	溶解さくらもち	Sakuramochi tan chảy
+06-jquiz-009.jsonl	287	JUS-80b817408dd45d00a10e	4	2824	answer_option	1	高熱ようかん	Yokan siêu nóng
+06-jquiz-009.jsonl	288	JUS-a0d3829383f02399dbaf	4	2824	answer_option	2	マグマ大福	Daifuku dung nham
+06-jquiz-009.jsonl	289	JUS-63843745008d3afd97b0	4	2824	answer_option	3	灼熱きびだんご	Kibidango rực lửa
+06-jquiz-009.jsonl	290	JUS-e68065a0ac43da1c1819	4	2825	question_line	0	憑依弾を自分に撃った骸が	Mukuro tự bắn Đạn Nhập Hồn,
+06-jquiz-009.jsonl	291	JUS-b55887ffccf036bbed4b	4	2825	question_line	1	最初にのりうつったのは誰？	rồi chiếm thân xác ai đầu tiên?
+06-jquiz-009.jsonl	292	JUS-a17846e1510bb584e20f	4	2825	answer_option	3	山本	Yamamoto
+06-jquiz-009.jsonl	293	JUS-55498a56f47b0679df62	4	2826	question_line	0	マフィア界の掟の番人で	Kẻ giữ luật thế giới mafia,
+06-jquiz-009.jsonl	294	JUS-8453b13c5a778ccd6676	4	2826	question_line	1	法で裁けないものを裁く者の名前は？	trị kẻ luật không xử được, là ai?
+06-jquiz-009.jsonl	295	JUS-c82a07f80eaef64b59ae	4	2826	answer_option	0	復讐者	Vindice
+06-jquiz-009.jsonl	296	JUS-29e5e472fe731b1cdb3c	4	2826	answer_option	1	死祭者	Tử tế giả
+06-jquiz-009.jsonl	297	JUS-88631646230db02a2859	4	2826	answer_option	2	弦影者	Ảo ảnh giả
+06-jquiz-009.jsonl	298	JUS-bfc51cb2b1d74ee35502	4	2826	answer_option	3	非審者	Vô thẩm giả
+06-jquiz-009.jsonl	299	JUS-466cdeb6599cb5024f50	4	2827	question_line	0	２年ぶりに帰ってきたツナの父親が	Bố Tsuna về nhà sau hai năm,
+06-jquiz-009.jsonl	300	JUS-aed8db195e910831fd87	4	2827	question_line	1	ツナに最初にかけた言葉は何？	câu đầu nói với con là gì?
+06-jquiz-009.jsonl	301	JUS-66daf29aad8c8a3ee02b	4	2827	answer_option	0	朝メシ獲りに行かねーか	Đi săn bữa sáng với bố không?
+06-jquiz-009.jsonl	302	JUS-c8a36d5e13e8c5c38d42	4	2827	answer_option	1	相変わらず頭ボサボサだな	Tóc con vẫn rối như mọi khi!
+06-jquiz-009.jsonl	303	JUS-ab54485744bca86349f5	4	2827	answer_option	2	母さんには内緒な	Đừng để mẹ biết nhé!
+06-jquiz-009.jsonl	304	JUS-07c40de59c543c26ef63	4	2827	answer_option	3	えっと・・息子か？	Ờ... con trai bố đấy à?
+06-jquiz-009.jsonl	305	JUS-47e51c46fd554d5b8bd0	4	2828	question_line	0	並盛町メンバーのうち、雲のハーフ	Ai trong nhóm Namimori nhận
+06-jquiz-009.jsonl	306	JUS-c0f6adebaceb8525db81	4	2828	question_line	1	ボンゴレリングを手にしたのは誰？	nửa Vongola Ring thuộc hệ Mây?
+06-jquiz-009.jsonl	307	JUS-e2229e81599d9438b75b	4	2829	question_line	0	ツナの父家光のボンゴレファミリーでの	Trong Vongola Family, Iemitsu,
+06-jquiz-009.jsonl	308	JUS-6f36617da2a7b770fbde	4	2829	question_line	1	役職は何？	bố Tsuna, giữ chức gì?
+06-jquiz-009.jsonl	309	JUS-7f461254b456df55bb2e	4	2829	answer_option	0	門外顧問	Cố vấn bên ngoài
+06-jquiz-009.jsonl	310	JUS-624ea94e55be097d0fce	4	2829	answer_option	1	給湯室長	Trưởng phòng nước nóng
+06-jquiz-009.jsonl	311	JUS-47c2fe3cc107ca283fd5	4	2829	answer_option	2	人事派遣人	Nhân viên điều phái
+06-jquiz-009.jsonl	312	JUS-972c75cf2b034ba3a88f	4	2829	answer_option	3	秘書補佐	Phụ tá thư ký
+06-jquiz-009.jsonl	313	JUS-278120a30b340aa1c4d7	4	2830	question_line	0	ツナとボンゴレ１０代目の座を	Ai tranh ngôi Vongola Đệ Thập
+06-jquiz-009.jsonl	314	JUS-b2471b94535115816ec6	4	2830	question_line	1	争うことになったボンゴレ９代目の	với Tsuna, tự nhận là con trai
+06-jquiz-009.jsonl	315	JUS-6843d8d06598de955a82	4	2830	question_line	2	息子の名前は何？	của Vongola Đệ Cửu?
+06-jquiz-009.jsonl	316	JUS-93a315243d430c21eb81	4	2830	answer_option	0	ＸＡＮＸＵＳ	XANXUS
+06-jquiz-009.jsonl	317	JUS-500db8a93f7a2e4b3dd8	4	2830	answer_option	1	ロージモ	Rogimo
+06-jquiz-009.jsonl	318	JUS-386616442c4d3bec9a66	4	2830	answer_option	2	ジグザス	Zigzas
+06-jquiz-009.jsonl	319	JUS-354c54addce0035b9dcd	4	2830	answer_option	3	ゼィーノ	Zeno
+06-jquiz-009.jsonl	320	JUS-836adf95d1e942f4bdae	17	2831	question_line	0	太臓と悠が転校してきた学校の名前は	Trường Taizo và Yu chuyển đến tên gì?
+06-jquiz-009.jsonl	321	JUS-234c3251e89d3334f8b1	17	2831	answer_option	0	ドキドキ学園	Học viện Doki Doki
+06-jquiz-009.jsonl	322	JUS-f597cdd05df9e6a00206	17	2831	answer_option	1	ワクワク学園	Học viện Waku Waku
+06-jquiz-009.jsonl	323	JUS-6805eadce064b6bb1959	17	2831	answer_option	2	ハラハラ学園	Học viện Hara Hara
+06-jquiz-009.jsonl	324	JUS-3639e33f6faf1d4bd896	17	2831	answer_option	3	ウキウキ学園	Học viện Uki Uki
+06-jquiz-009.jsonl	325	JUS-5d197d96388c682ec400	17	2832	question_line	0	あいすが実界で使っている名前の苗字は	Họ của Aisu ở thế giới thật là gì?
+06-jquiz-009.jsonl	326	JUS-dfd8ec64d7adf8568b6f	17	2832	answer_option	0	佐渡	Sado (佐渡)
+06-jquiz-009.jsonl	327	JUS-00544785993e47f34565	17	2832	answer_option	1	茶渡	Chado (茶渡)
+06-jquiz-009.jsonl	328	JUS-fd8c439d2ca07ba4a497	17	2832	answer_option	2	左戸	Sado (左戸)
+06-jquiz-009.jsonl	329	JUS-e4ddbdf495899cabf666	17	2832	answer_option	3	砂戸	Sado (砂戸)
+06-jquiz-009.jsonl	330	JUS-d596b204d57c4e20fd63	17	2833	question_line	0	太臓と悠が転入してきたクラスはどれ？	Taizo và Yu chuyển vào lớp nào?
+06-jquiz-009.jsonl	331	JUS-1238635a258a4ea6b9f8	17	2833	answer_option	0	１－Ｈ	1-H
+06-jquiz-009.jsonl	332	JUS-8e00a9c1bb30613fd83a	17	2833	answer_option	1	２－Ａ	2-A
+06-jquiz-009.jsonl	333	JUS-e89f6d87f4e716e2e075	17	2833	answer_option	2	３－Ｃ	3-C
+06-jquiz-009.jsonl	334	JUS-e7e2cf6209163b9a5823	17	2833	answer_option	3	２－Ｅ	2-E
+06-jquiz-009.jsonl	335	JUS-a5a56a46e772c6dba510	17	2834	question_line	0	太臓の実界でのフルネームはどれ？	Tên đầy đủ của Taizo ngoài đời là gì?
+06-jquiz-009.jsonl	336	JUS-63387c45091c934b4ce1	17	2834	answer_option	0	百手太臓	Taizo Momote
+06-jquiz-009.jsonl	337	JUS-e56e0d617c7bd1b3add7	17	2834	answer_option	1	佐々木太臓	Taizo Sasaki
+06-jquiz-009.jsonl	338	JUS-4571cc2e92795e81588b	17	2834	answer_option	2	太臓次郎	Jiro Taizo
+06-jquiz-009.jsonl	339	JUS-9bde4a6f8dd6d8afe514	17	2834	answer_option	3	内田太臓	Taizo Uchida
+06-jquiz-009.jsonl	340	JUS-ff91c6256bab81a0efb0	17	2835	question_line	0	悠の実界でのフルネームは	Tên đầy đủ của Yu ngoài đời là gì?
+06-jquiz-009.jsonl	341	JUS-348a40ce30040ec221d2	17	2835	answer_option	0	安骸寺悠	Yu Angaiji
+06-jquiz-009.jsonl	342	JUS-bed71a69696ca8ab32c4	17	2835	answer_option	1	小室悠	Yu Komuro
+06-jquiz-009.jsonl	343	JUS-cb3f2b70163dfb461efc	17	2835	answer_option	2	大川内悠矢	Yuya Okawauchi
+06-jquiz-009.jsonl	344	JUS-35bd5135f270950b59d0	17	2835	answer_option	3	獄沢悠一	Yuichi Gokuzawa
+06-jquiz-009.jsonl	345	JUS-50820634dd5f1b6019dc	17	2836	question_line	0	太臓と悠はどこから実界へ来た？	Taizo và Yu từ đâu đến thế giới thật?
+06-jquiz-009.jsonl	346	JUS-988f0ad058050c7d48a1	17	2836	answer_option	0	間界	Makai
+06-jquiz-009.jsonl	347	JUS-34d143d8ec76d81d15de	17	2836	answer_option	1	夢界	Yumekai
+06-jquiz-009.jsonl	348	JUS-439e3bc28aa7a6785b69	17	2836	answer_option	2	幻界	Genkai
+06-jquiz-009.jsonl	349	JUS-730d8aeef5984b8723a9	17	2836	answer_option	3	眼界	Genkai (眼界)
+06-jquiz-009.jsonl	350	JUS-fc05a799f73d3a81c46a	17	2837	question_line	0	太臓が間界でふられた人数は何人？	Ở Makai, Taizo bị mấy cô từ chối?
+06-jquiz-009.jsonl	351	JUS-704ae7278ae5d5ff9c99	17	2837	answer_option	0	２千５人	2.005 người
+06-jquiz-009.jsonl	352	JUS-adad5328e879df3961b7	17	2837	answer_option	1	２０５人	205 người
+06-jquiz-009.jsonl	353	JUS-bcfe364a1b48b158b6e7	17	2837	answer_option	2	２万５人	20.005 người
+06-jquiz-009.jsonl	354	JUS-cb462af6f425b2ea9f88	17	2837	answer_option	3	２５人	25 người
+06-jquiz-009.jsonl	355	JUS-8b2a4e1525d4f49379bc	17	2838	question_line	0	太臓が実界へきた理由はどれ？	Vì sao Taizo đến thế giới thật?
+06-jquiz-009.jsonl	356	JUS-8d7e3a12ea478018a1ff	17	2838	answer_option	0	ハーレムランド建設のため	Để xây Harem Land
+06-jquiz-009.jsonl	357	JUS-eff526aec972695a1365	17	2838	answer_option	1	生き別れた妹を探すため	Để tìm em gái thất lạc
+06-jquiz-009.jsonl	358	JUS-f06f600d69a0a08b6abd	17	2838	answer_option	2	飼っていた鳥が実界へ逃げたから	Vì chim cưng chạy sang đây
+06-jquiz-009.jsonl	359	JUS-4fa109ef1d9cde5be62c	17	2838	answer_option	3	道に迷ってしまったため	Vì bị lạc đường
+06-jquiz-009.jsonl	360	JUS-b693bc3d47bdfb93a1eb	17	2839	question_line	0	７人集めるとどんな願いでも一つ叶えて	Tương truyền, tìm đủ 7 Dragon Girl
+06-jquiz-009.jsonl	361	JUS-b6839537a5064547720b	17	2839	question_line	1	くれるという伝説の女性	sẽ được ban một điều ước.
+06-jquiz-009.jsonl	362	JUS-e5fb25391f0f0122cd52	17	2839	question_line	2	『ドラゴンガール』とは、	Các cô gái ấy
+06-jquiz-009.jsonl	363	JUS-e24f545674648dc9276b	17	2839	question_line	3	どんな特徴を持っている？	có dấu hiệu gì?
+06-jquiz-009.jsonl	364	JUS-72c571e78ffc651e84cf	17	2839	answer_option	0	星形の乳首を持つ	Núm vú hình ngôi sao
+06-jquiz-009.jsonl	365	JUS-8f63803bca7b692f50dc	17	2839	answer_option	1	おしりに星形のあざを持つ	Vết bớt ngôi sao trên mông
+06-jquiz-009.jsonl	366	JUS-e8299699fe93fe26ae46	17	2839	answer_option	2	おへそが星形	Rốn hình ngôi sao
+06-jquiz-009.jsonl	367	JUS-5f11938545123342d757	17	2839	answer_option	3	胸に星形のほくろがある	Nốt ruồi ngôi sao trên ngực
+06-jquiz-009.jsonl	368	JUS-9270891112d1cea197f1	17	2840	question_line	0	太臓のおしりにある、契約した人や動物	Trên mông Taizo có cổng triệu hồi
+06-jquiz-009.jsonl	369	JUS-caeeae1578c3665df03c	17	2840	question_line	1	を召喚することのできる門の名前は何？	người, thú đã ký khế ước. Tên là gì?
+06-jquiz-009.jsonl	370	JUS-bd4574cc89804f890b70	17	2840	answer_option	0	アスタリスク・ゲート	Asterisk Gate
+06-jquiz-009.jsonl	371	JUS-ebb91aa57d1865e401b2	17	2840	answer_option	1	アットマーク・ゲート	Atmark Gate
+06-jquiz-009.jsonl	372	JUS-16ff2726d46157f2cd14	17	2840	answer_option	2	来々門	Rairai Gate
+06-jquiz-009.jsonl	373	JUS-e5dc7b750b6965b1044c	17	2840	answer_option	3	乞門	Koumon
+06-jquiz-009.jsonl	374	JUS-1d2eb5e0d413ca02596d	17	2841	question_line	0	『大木の制服』を盗んだ更衣室荒らしと	Để đánh kẻ trộm đồng phục
+06-jquiz-009.jsonl	375	JUS-ab07ab6e2cbe2d08414b	17	2841	question_line	1	戦うために、太臓が召喚したのはどれ？	của Oki, Taizo triệu hồi ai?
+06-jquiz-009.jsonl	376	JUS-3974fd6158573bd7614f	17	2841	answer_option	0	ドライマン	Dryman
+06-jquiz-009.jsonl	377	JUS-f90e8c1b6a76721a6f8c	17	2841	answer_option	1	にゅ～ぼ～	Nyubo
+06-jquiz-009.jsonl	378	JUS-f774f6372ffa6aa36a4d	17	2841	answer_option	2	アスナロＤ	Asunaro D
+06-jquiz-009.jsonl	379	JUS-e45716ae5cbda667de9c	17	2841	answer_option	3	猫ドラ（イマン）くん	Nekodora(iman)-kun
+06-jquiz-009.jsonl	380	JUS-99162143043be026919d	17	2842	question_line	0	阿久津のフルネームはどれ？	Tên đầy đủ của Akutsu là gì?
+06-jquiz-009.jsonl	381	JUS-49ad09b5a40121d41b05	17	2842	answer_option	0	阿久津宏海	Komi Akutsu
+06-jquiz-009.jsonl	382	JUS-5ea9ca7c64e477dc0aff	17	2842	answer_option	1	阿久津信次	Shinji Akutsu
+06-jquiz-009.jsonl	383	JUS-3a971ca5ca986a1dd6d9	17	2842	answer_option	2	阿久津レオン	Leon Akutsu
+06-jquiz-009.jsonl	384	JUS-dc567cf2b54754018496	17	2842	answer_option	3	阿久津元	Gen Akutsu
+06-jquiz-009.jsonl	385	JUS-1d6a3e5bd69736af960d	17	2843	question_line	0	実は間界人だったあいす。	Aisu hóa ra là người Makai.
+06-jquiz-009.jsonl	386	JUS-d9cacd46ccb129f5ae1c	17	2843	question_line	1	彼女のニックネームといえば？	Biệt danh của cô là gì?
+06-jquiz-009.jsonl	387	JUS-4c37037e264cd5b3e76c	17	2843	answer_option	0	氷の微笑女	Nụ cười băng giá
+06-jquiz-009.jsonl	388	JUS-dd4c8e88dd2e66fa9404	17	2843	answer_option	1	歩く氷河期	Kỷ băng hà di động
+06-jquiz-009.jsonl	389	JUS-9bf918485db946412f88	17	2843	answer_option	2	絶対麗奴	Nô lệ xinh đẹp tuyệt đối
+06-jquiz-009.jsonl	390	JUS-bea24ddfaac5cf1872cd	17	2843	answer_option	3	地球温暖化対策最終兵器	Vũ khí tối thượng chống nóng lên
+06-jquiz-009.jsonl	391	JUS-7f317a6873f0fda0ab2c	17	2844	question_line	0	あいすが実界で就いている	"Aisu làm ""Lãnh sự Makai"""
+06-jquiz-009.jsonl	392	JUS-cd33863a076587d92743	17	2844	question_line	1	『間界領事』の仕事内容として	ở thế giới thật, phụ trách việc gì?
+06-jquiz-009.jsonl	393	JUS-6b1808c4cdacb6fd064f	17	2844	answer_option	0	間界関係のトラブルの処理	Xử lý rắc rối liên quan Makai
+06-jquiz-009.jsonl	394	JUS-68fd90a1055759f6a84f	17	2844	answer_option	1	実界から人間をスカウトする	Tuyển mộ người từ thế giới thật
+06-jquiz-009.jsonl	395	JUS-bca98f5ade46f6778fab	17	2844	answer_option	2	間界へ行く人間の審査	Duyệt người muốn vào Makai
+06-jquiz-009.jsonl	396	JUS-77da0ef5f7edb74fe9c6	17	2844	answer_option	3	実界での魂集め	Thu thập linh hồn ngoài đời
+06-jquiz-009.jsonl	397	JUS-7ae70e112988c5278b95	17	2845	question_line	0	討魔師でもある生徒会長の名前はどれ？	Chủ tịch hội học sinh trừ ma tên gì?
+06-jquiz-009.jsonl	398	JUS-c5ba3578a82005f4ff6f	17	2845	answer_option	0	百手矢射子	Yaiko Momote
+06-jquiz-009.jsonl	399	JUS-0d74c8d73bdf776a365d	17	2845	answer_option	1	百手鯛代	Taiyo Momote
+06-jquiz-009.jsonl	400	JUS-5222d61ffa98de67785b	17	2845	answer_option	2	百手杉子	Sugiko Momote
+06-jquiz-009.jsonl	401	JUS-4669980949717bbe40c6	17	2845	answer_option	3	百手魔破	Maha Momote
+06-jquiz-009.jsonl	402	JUS-20408c6f3ee65d8b9468	17	2846	question_line	0	太臓が占いができるという事にして悠が	Yu khoe Taizo biết bói, rồi gọi
+06-jquiz-009.jsonl	403	JUS-8c39a815ccd03af6c1f5	17	2846	question_line	1	呼んだ、純情そうな大和撫子でバスト	một cô gái đoan trang vòng ngực
+06-jquiz-009.jsonl	404	JUS-80a3cf5fa4d8a303f82e	17	2846	question_line	2	１３０センチの娘といえば？	130 cm đến. Cô là ai?
+06-jquiz-009.jsonl	405	JUS-7aad7ba1736231ce6b11	17	2846	answer_option	0	大木杉音	Sugine Oki
+06-jquiz-009.jsonl	406	JUS-95fb28849b555f29bb5c	17	2846	answer_option	1	大木杉代	Sugiyo Oki
+06-jquiz-009.jsonl	407	JUS-5c51e15db3c0eabf1381	17	2846	answer_option	2	大木伊乃	Ino Oki
+06-jquiz-009.jsonl	408	JUS-7444f7f30f1b953359e4	17	2846	answer_option	3	大木伊代	Iyo Oki
+06-jquiz-009.jsonl	409	JUS-19fdfd808e8a306dcc23	17	2847	question_line	0	この二人の関係は？	Hai người này có quan hệ gì?
+06-jquiz-009.jsonl	410	JUS-018d50aa0fe52da75d1c	17	2847	answer_option	0	姉弟	Chị em
+06-jquiz-009.jsonl	411	JUS-b67fb1af3062ff430bbf	17	2847	answer_option	1	部長と部員	Đội trưởng và thành viên
+06-jquiz-009.jsonl	412	JUS-74ddaf33c99f9d1f84c8	17	2847	answer_option	2	フィアンセ	Hôn phu và hôn thê
+06-jquiz-009.jsonl	413	JUS-b582e11df44972e1ec77	17	2847	answer_option	3	フォークダンスの相手	Bạn nhảy dân vũ
+06-jquiz-009.jsonl	414	JUS-765dac8513d0b45c59dd	17	2848	question_line	0	水泳の授業中に盗まれた制服を、太臓が	Taizo từng giành lại bộ đồng phục
+06-jquiz-009.jsonl	415	JUS-54b8b9df8c23df8223bc	17	2848	question_line	1	泥棒の手から取り返したことがあるが、	bị lấy cắp trong giờ bơi.
+06-jquiz-009.jsonl	416	JUS-b94bcc5f3eac7208a25c	17	2848	question_line	2	その制服の持ち主は誰？	Chủ nhân bộ đồng phục là ai?
+06-jquiz-009.jsonl	417	JUS-c569b8dbad1f60e7c5fc	17	2848	answer_option	0	大木玲夜	Reiya Oki
+06-jquiz-009.jsonl	418	JUS-0c06218b938222e0129f	17	2848	answer_option	1	木嶋剣	Ken Kijima
+06-jquiz-009.jsonl	419	JUS-ba1bb76e2eb3bee2f97f	17	2848	answer_option	3	あいすの家のおばあちゃん	Bà của Aisu
+06-jquiz-009.jsonl	420	JUS-9a66f2ac830c718ddea5	17	2849	question_line	0	あいすはどちらに脈があるか勝負する	Taizo và Mashiragi thi xem
+06-jquiz-009.jsonl	421	JUS-1be1e6139396821768e3	17	2849	question_line	1	ことになった太臓と真白木。この時、	Aisu thích ai hơn. Lúc ấy,
+06-jquiz-009.jsonl	422	JUS-d47e42ef38462f04b0f1	17	2849	question_line	2	図書室にいたあいすが読んでいた本の	ở thư viện, cô đang đọc sách gì?
+06-jquiz-009.jsonl	423	JUS-ab96bf1aad5942cc0999	17	2849	question_line	3	タイトルはどれ？	Tên cuốn sách ấy là gì?
+06-jquiz-009.jsonl	424	JUS-73e2c12696962de38ace	17	2849	answer_option	0	世界拷問大全	Bách khoa tra tấn thế giới
+06-jquiz-009.jsonl	425	JUS-ff0d3d08f638fed0263a	17	2849	answer_option	1	ランジェリーカタログ２００５	Catalog đồ lót 2005
+06-jquiz-009.jsonl	426	JUS-99ebcba656fa54802a8d	17	2849	answer_option	2	完全犯罪マニュアル	Cẩm nang phạm tội hoàn hảo
+06-jquiz-009.jsonl	427	JUS-062db4ffd49a50b55e11	17	2849	answer_option	3	殺しても罪にならない方法	Cách giết người mà không bị tội
+06-jquiz-009.jsonl	428	JUS-5db612bf34f87575c975	17	2850	question_line	0	太臓に弟子入りを願い出た、１年Ａ組の	Học sinh lớp 1-A thuộc hội học sinh
+06-jquiz-009.jsonl	429	JUS-0dd363fb145a541abcde	17	2850	question_line	1	生徒会役員の名前はどれ？	nào xin bái Taizo làm sư phụ?
+06-jquiz-009.jsonl	430	JUS-5d51984301d235c404b1	17	2850	answer_option	0	乾一	Hajime Inui
+06-jquiz-009.jsonl	431	JUS-922e6274a3940c9bcd14	17	2850	answer_option	1	鈴木廉	Ren Suzuki
+06-jquiz-009.jsonl	432	JUS-3dd34344deedd64080d2	17	2850	answer_option	2	角悟	Satoru Kaku
+06-jquiz-009.jsonl	433	JUS-f5d55c36832025225ea6	17	2850	answer_option	3	竹田修	Osamu Takeda
+06-jquiz-009.jsonl	434	JUS-84b3ba4651246ebcfcb0	17	2851	question_line	0	サイボーグに生まれ変わった乾！	Inui hóa thành cyborg!
+06-jquiz-009.jsonl	435	JUS-46dc40a395023a6c28be	17	2851	question_line	1	その身体能力は何をベースに	Thể lực được cường hóa
+06-jquiz-009.jsonl	436	JUS-4667de562e5c2cd9b9ff	17	2851	question_line	2	強化されている？	dựa trên loài gì?
+06-jquiz-009.jsonl	437	JUS-a1201a2e0555500be916	17	2851	answer_option	1	バッタ	Châu chấu
+06-jquiz-009.jsonl	438	JUS-f08f3b87a6d2c2ab470d	17	2851	answer_option	2	ミジンコ	Bọ chét nước
+06-jquiz-009.jsonl	439	JUS-f06ebbb90654c08727c2	17	2852	answer_option	0	麻仁温子	Atsuko Mani
+06-jquiz-009.jsonl	440	JUS-5df8137d133925837cea	17	2852	answer_option	1	吉下千里	Chisato Yoshimoto
+06-jquiz-009.jsonl	441	JUS-f39d290907ce445378ed	17	2852	answer_option	2	一口夕利	Yuri Iguchi
+06-jquiz-009.jsonl	442	JUS-8cb1924c0ad92675c65c	17	2852	answer_option	3	日比木静	Shizuka Hibiki
+06-jquiz-009.jsonl	443	JUS-d178a323638350b019b6	17	2853	question_line	0	悠の『サウザン・アイズ』の能力の	"Một năng lực ""Thousand Eyes"" của Yu"
+06-jquiz-009.jsonl	444	JUS-93e8688ce4a106dbbe96	17	2853	question_line	1	ひとつで目を合わせた相手に	khiến ai nhìn vào mắt cậu
+06-jquiz-009.jsonl	445	JUS-56fa9052f341cd09c2d0	17	2853	question_line	2	幻覚を見せる技を何という？	đều thấy ảo giác. Chiêu tên gì?
+06-jquiz-009.jsonl	446	JUS-914f84c846bc8c904400	17	2853	answer_option	0	眼夢	Ganmu
+06-jquiz-009.jsonl	447	JUS-36cd2a642dd88d7ea6ed	17	2853	answer_option	1	蛇眼	Snake Eye
+06-jquiz-009.jsonl	448	JUS-b39e0457ea2513bf2438	17	2853	answer_option	2	眼奴裏威夢	Gannuraimu
+06-jquiz-009.jsonl	449	JUS-21a8f9337c293ae88d08	17	2853	answer_option	3	顕微鏡写輪眼	Sharingan Kính Hiển Vi
+06-jquiz-009.jsonl	450	JUS-5d66c02e7543e46536b5	17	2854	question_line	0	太臓たちが通う学校のモットーは	Khẩu hiệu trường Taizo học là gì?
+06-jquiz-009.jsonl	451	JUS-efb0a33623eb71730f9c	17	2854	answer_option	0	毎日がドキドキの学園生活	Ngày nào đi học cũng hồi hộp
+06-jquiz-009.jsonl	452	JUS-3c3ddcbf1a122c10c64e	17	2854	answer_option	1	ドキドキ高鳴る希望の日々	Ngày hy vọng tràn đầy háo hức
+06-jquiz-009.jsonl	453	JUS-9568a7b503e1c26257bf	17	2854	answer_option	2	ドキドキ青春スクールライフ	Thanh xuân trường lớp thót tim
+06-jquiz-009.jsonl	454	JUS-a0b8140c6f9115b79d23	17	2854	answer_option	3	くもりドキドキ晴れ	Mây mù hồi hộp rồi trời quang
+06-jquiz-009.jsonl	455	JUS-e4c3782b261880f342c8	17	2855	question_line	0	「好きな娘とストロー２本差しで何か	"""Cắm hai ống hút uống cùng crush"
+06-jquiz-009.jsonl	456	JUS-1d9a560a6788dd054b9e	17	2855	question_line	1	飲むと両想いになれる」という	"thì thành đôi"". Phần thưởng"
+06-jquiz-009.jsonl	457	JUS-4e0a276bd6b050e5e5fd	17	2855	question_line	2	『もて野郎コンテスト』の優勝賞品は	"quán quân ""Mote Guy Contest"" là gì?"
+06-jquiz-009.jsonl	458	JUS-d65d384a4c5f96ea6347	17	2855	answer_option	0	金玉杯	Cúp Kintama
+06-jquiz-009.jsonl	459	JUS-5280bdff999acc38efd3	17	2855	answer_option	1	喪手真繰杯	Cúp Motemakuri
+06-jquiz-009.jsonl	460	JUS-ec8e7665cdeb354cb1f3	17	2855	answer_option	2	香門杯	Cúp Komon
+06-jquiz-009.jsonl	461	JUS-6ee98763a72c1f2f4698	17	2855	answer_option	3	珍満杯	Cúp Chinman
+06-jquiz-009.jsonl	462	JUS-f27722afcf1ae7ad0127	17	2856	question_line	0	彼の下の名前はどれ？	Tên riêng của cậu ấy là gì?
+06-jquiz-009.jsonl	463	JUS-7d165f630e57b6d21d4c	17	2856	answer_option	0	宇月	Utsuki
+06-jquiz-009.jsonl	464	JUS-384d75e2e5077d1d79b0	17	2856	answer_option	1	紋貴	Monki
+06-jquiz-009.jsonl	465	JUS-b1cef2db5bd82a8633be	17	2856	answer_option	2	武美	Takemi
+06-jquiz-009.jsonl	466	JUS-ef63453cd49c5962aa98	17	2856	answer_option	3	流沙	Rusa
+06-jquiz-009.jsonl	467	JUS-05edfc123e3114509c4a	17	2857	question_line	0	『もて野郎コンテスト』で太臓が	"Ở ""Mote Guy Contest"", Taizo"
+06-jquiz-009.jsonl	468	JUS-5ef1468b6f302240ca91	17	2857	question_line	1	女子２０人を集めるために使った技は	dùng chiêu gì gom đủ 20 cô gái?
+06-jquiz-009.jsonl	469	JUS-cab264661b182faca9bf	17	2857	answer_option	0	サイレントナイトショー	Silent Night Show
+06-jquiz-009.jsonl	470	JUS-0f238bc735b5e7c35af5	17	2857	answer_option	1	間界の風	Gió Makai
+06-jquiz-009.jsonl	471	JUS-fce8489b080a364d362e	17	2857	answer_option	2	ハーロウィーン	Halloween
+06-jquiz-009.jsonl	472	JUS-984e97fac43e9b970e02	17	2857	answer_option	3	ゴムゴムの油揚げ	Gomu Gomu no Aburaage
+06-jquiz-009.jsonl	473	JUS-461e042ae98eba5adac5	17	2858	question_line	0	『もて野郎コンテスト』の司会進行と	Trưởng CLB phát thanh làm MC
+06-jquiz-009.jsonl	474	JUS-837ad1ec79c08a0637a6	17	2858	question_line	1	実況を担当した放送部部長の名前は何？	"""Mote Guy Contest"" tên gì?"
+06-jquiz-009.jsonl	475	JUS-b51176595c88d8534fc7	17	2858	answer_option	0	明石サマンサ	Samantha Akashi
+06-jquiz-009.jsonl	476	JUS-ac66cec09eeacccee837	17	2858	answer_option	1	古田チイ子	Chiiko Furuta
+06-jquiz-009.jsonl	477	JUS-679b8d61a64e0e651588	17	2858	answer_option	2	森田カズミ	Kazumi Morita
+06-jquiz-009.jsonl	478	JUS-c31271e0ec3d052eaf72	17	2858	answer_option	3	石橋アキタカ	Akitaka Ishibashi
+06-jquiz-009.jsonl	479	JUS-f290a22d28cbe5136d61	17	2859	question_line	0	『もて野郎コンテスト』本戦の競技	Tại vòng chính Mote Guy Contest,
+06-jquiz-009.jsonl	480	JUS-26c86874d8252bc2460a	17	2859	question_line	1	「カウンセリングで元気やでっ」にて、	"mục ""Tư vấn cho đời lên hương"","
+06-jquiz-009.jsonl	481	JUS-21c4cf9488934448bdbd	17	2859	question_line	2	相談者が語った夢はどれ？	người cần tư vấn mơ điều gì?
+06-jquiz-009.jsonl	482	JUS-9577357b6adf24e34b1e	17	2859	answer_option	0	恋人にお姫様抱っこされること	Được người yêu bế kiểu công chúa
+06-jquiz-009.jsonl	483	JUS-1688722bd36f45419ead	17	2859	answer_option	1	レースクィーンになること	Trở thành người mẫu đua xe
+06-jquiz-009.jsonl	484	JUS-8cbc58a731c5c690c54c	17	2859	answer_option	2	初めてキスした人と結婚すること	Cưới người hôn đầu tiên
+06-jquiz-009.jsonl	485	JUS-28e22293e9927e82a94a	17	2859	answer_option	3	熱愛をスクープされること	Bị báo chí soi chuyện yêu đương
+06-jquiz-009.jsonl	486	JUS-afecc417f0f4d9218f16	17	2860	question_line	0	『もて野郎コンテスト』の優勝者は誰？	"Ai thắng ""Mote Guy Contest""?"
+06-jquiz-009.jsonl	487	JUS-228ce819ac405c1f80db	17	2860	answer_option	0	木嶋	Kijima
+06-jquiz-009.jsonl	488	JUS-12dbeb7ed7b3a67aaff2	17	2860	answer_option	1	太臓	Taizo
+06-jquiz-009.jsonl	489	JUS-e6dd17e37499fe839453	17	2860	answer_option	2	大木	Oki
+06-jquiz-009.jsonl	490	JUS-2f30eb11a3ed59028585	17	2862	question_line	0	運動会で赤組総大将の矢射子が考えた、	Hội thao, Yaiko dẫn đội Đỏ
+06-jquiz-009.jsonl	491	JUS-3324d477fa478687e3c7	17	2862	question_line	1	敗北チームの罰ゲームの内容はどれ？	nghĩ ra hình phạt gì cho đội thua?
+06-jquiz-009.jsonl	492	JUS-3fcab647db3513262327	17	2862	answer_option	0	太臓の処刑	Xử tử Taizo
+06-jquiz-009.jsonl	493	JUS-1e083d3a03f6a5dc93e1	17	2862	answer_option	1	太臓の性転換	Cho Taizo chuyển giới
+06-jquiz-009.jsonl	494	JUS-280740e9e3c0c150ac62	17	2862	answer_option	2	太臓のサイボーグ化	Biến Taizo thành cyborg
+06-jquiz-009.jsonl	495	JUS-da416aaef1e3084851f4	17	2862	answer_option	3	太臓の半径３ｋｍ内女子禁止	Cấm nữ trong bán kính 3 km Taizo
+06-jquiz-009.jsonl	496	JUS-ccb073c125f883dd14be	17	2863	question_line	0	出羽先生の後任として配属されてきた	Ai đến dạy mỹ thuật thay thầy Dewa?
+06-jquiz-009.jsonl	497	JUS-dca7a29ce01117fbdf7a	17	2863	question_line	1	美術担当の教師の名前はどれ？	Tên giáo viên mới đó là gì?
+06-jquiz-009.jsonl	498	JUS-751c9c064e2e9c816aaa	17	2863	answer_option	0	谷円（たに<IDEOSP>まどか）	Tani<IDEOSP>Madoka
+06-jquiz-009.jsonl	499	JUS-95738eb05ea5c9629c05	17	2863	answer_option	1	東映（あずま<IDEOSP>はるか）	Azuma<IDEOSP>Haruka
+06-jquiz-009.jsonl	500	JUS-c7f9b81b3c7ad5a33445	17	2863	answer_option	2	三田ことり（さんだ<IDEOSP>ことり）	Sanda<IDEOSP>Kotori
+06-jquiz-009.jsonl	501	JUS-caff50d4126c5ae9a018	17	2863	answer_option	3	魚津星乃（うおづ<IDEOSP>ほしの）	Uozu<IDEOSP>Hoshino
+06-jquiz-009.jsonl	502	JUS-7ca26efd30c9426f3781	17	2864	question_line	0	太臓が言った『この世で最も見たくない	Trong top 5 thứ Taizo
+06-jquiz-009.jsonl	503	JUS-52343e70670512b45b5a	17	2864	question_line	1	もの』ワースト５のうち、入っていない	ghét nhìn thấy nhất, thứ nào
+06-jquiz-009.jsonl	504	JUS-7b4a136ab417798d4dfd	17	2864	question_line	2	のは次のうちどれ？	KHÔNG nằm trong danh sách?
+06-jquiz-009.jsonl	505	JUS-82d3dd222367585e43c9	17	2864	answer_option	0	好きな子が鼻毛処理してるところ	Crush đang nhổ lông mũi
+06-jquiz-009.jsonl	506	JUS-cb76ba5f949a4becbf55	17	2864	answer_option	1	オッサンのヌード	Ông chú khỏa thân
+06-jquiz-009.jsonl	507	JUS-0a76c11784f5eb6b6a08	17	2864	answer_option	2	不細工のコスプレ	Cosplay xấu muốn xỉu
+06-jquiz-009.jsonl	508	JUS-a29787fea7fd7dc6592f	17	2864	answer_option	3	自分以外がもてているところ	Có người khác được yêu hơn mình
+06-jquiz-009.jsonl	509	JUS-63b0c5478e0d723d4205	17	2865	question_line	0	谷円がメガネをはずすと何に変身する？	Tani Madoka tháo kính sẽ hóa gì?
+06-jquiz-009.jsonl	510	JUS-84dbb58f38aa34481a92	17	2865	answer_option	0	アルティメイド	Ultimate Maid
+06-jquiz-009.jsonl	511	JUS-e572fb10a86a792a9634	17	2865	answer_option	1	羊と愛人（うーるとらまん）	Wooltorman
+06-jquiz-009.jsonl	512	JUS-981224e49c221e2d4879	17	2865	answer_option	2	白衣の茄子	Cà tím mặc áo blouse
+06-jquiz-009.jsonl	513	JUS-99b9e4e6b5a034dd8999	17	2865	answer_option	3	ネクラノミコサン	Necronomicosan
+06-jquiz-009.jsonl	514	JUS-90277e95a2a739a669ff	17	2866	question_line	0	太臓たちが見つけた『ドラゴンガール』	Dragon Girl đầu tiên
+06-jquiz-009.jsonl	515	JUS-62b1f152e5a6f9f40a62	17	2866	question_line	1	１人目は誰？	mà nhóm Taizo tìm thấy là ai?
+06-jquiz-009.jsonl	516	JUS-9cd282ba999ef54122d5	17	2866	answer_option	3	まわる	Mawaru
+06-jquiz-009.jsonl	517	JUS-715a8bdc9c229f039491	17	2867	question_line	0	太臓に初対面で告白してきたロボットが	Robot vừa gặp đã tỏ tình với Taizo
+06-jquiz-009.jsonl	518	JUS-178f76407dd6f1fdf811	17	2867	question_line	1	最初に名乗った名前はどれ？	lúc đầu tự xưng tên gì?
+06-jquiz-009.jsonl	519	JUS-97ece00d81eabb5ead4a	17	2867	answer_option	1	まき	Maki
+06-jquiz-009.jsonl	520	JUS-3bdc919d1c7b234c215e	17	2867	answer_option	2	すぴん	Spin
+06-jquiz-009.jsonl	521	JUS-b0672e091b40dee6bbb3	17	2867	answer_option	3	たあん	Turn
+06-jquiz-009.jsonl	522	JUS-ff5d0f5a4c70b5f5c427	17	2868	question_line	0	太臓がまわるとデートした場所はどこ？	Taizo hẹn hò Mawaru ở đâu?
+06-jquiz-009.jsonl	523	JUS-0fdc45a51c377dfcaa9f	17	2868	answer_option	0	デスティニーランド	Destiny Land
+06-jquiz-009.jsonl	524	JUS-7ce3f0ca2106ad48a10e	17	2868	answer_option	1	サルバーユニスタジオ	Salvayuni Studio
+06-jquiz-009.jsonl	525	JUS-ae1db9bc7c8dc5b290f4	17	2868	answer_option	2	井の尻公園	Công viên Inoshiri
+06-jquiz-009.jsonl	526	JUS-b0beb31ba9ca32edba30	17	2868	answer_option	3	吉兆塚古墳	Gò mộ Kicchozuka
+06-jquiz-009.jsonl	527	JUS-60845078648cdb386ae1	17	2869	question_line	0	太臓が住むアパートの部屋番号代わりに	Thay vì số phòng, căn hộ Taizo
+06-jquiz-009.jsonl	528	JUS-abcf7992255b31fba82c	17	2869	question_line	1	表示されているものはどれ？	lại treo dòng chữ nào?
+06-jquiz-009.jsonl	529	JUS-66b420e8f1909b8c8696	17	2869	answer_option	0	マジメな委員長がこんな大胆な事を…	Lớp trưởng nghiêm mà táo bạo quá!
+06-jquiz-009.jsonl	530	JUS-445cd3278f98f7c17f26	17	2869	answer_option	1	男物だけど濡れた服よりマシだろ	Đồ nam nhưng hơn mặc đồ ướt!
+06-jquiz-009.jsonl	531	JUS-61f946ef2eae40411409	17	2869	answer_option	2	ドジなメイドにはおしおきが必要さ	Hầu gái vụng phải bị phạt!
+06-jquiz-009.jsonl	532	JUS-dc53bc803e6a3fd2eb98	17	2869	answer_option	3	君はメガネをはずしたほうがいい	Tháo kính ra trông cậu đẹp hơn!
+06-jquiz-009.jsonl	533	JUS-a6d0144f7e108b29f0d7	17	2870	question_line	0	太臓の住むアパートの大家さんの	Tên chủ nhà trọ của Taizo là gì?
+06-jquiz-009.jsonl	534	JUS-8511b2360cabd67133bb	17	2870	answer_option	1	琴梨良子	Ryoko Kotonashi
+06-jquiz-009.jsonl	535	JUS-74b2eb1a3617e396d970	17	2870	answer_option	2	白部ひそか	Hisoka Shirabe
+06-jquiz-009.jsonl	536	JUS-cfe396d9cf9a8be9103e	17	2870	answer_option	3	浦山椎太郎	Shitaro Urayama
+06-jquiz-009.jsonl	537	JUS-2a0a5ba243fb704338d0	17	2871	question_line	0	この少女の正体は？	Cô bé này thật ra là ai?
+06-jquiz-009.jsonl	538	JUS-6334137b48bfa2c50928	17	2871	answer_option	0	座敷童子	Zashiki-warashi
+06-jquiz-009.jsonl	539	JUS-363dd7dbb17fcfda26d3	17	2871	answer_option	1	太臓の妹	Em gái Taizo
+06-jquiz-009.jsonl	540	JUS-3e17da4abb1ee5920166	17	2871	answer_option	2	大家の娘	Con gái chủ nhà
+06-jquiz-009.jsonl	541	JUS-77b1596e0fd1ffb4300b	17	2871	answer_option	3	美少女ロボ・ドリルちゃん	Robot mỹ nữ Drill-chan
+06-jquiz-009.jsonl	542	JUS-223bbd01a0f5ff8c6b9e	17	2872	question_line	0	クリスマスイブにサンタに代わり	Đêm Giáng Sinh, nhóm Taizo
+06-jquiz-009.jsonl	543	JUS-40731aea5742301e54f7	17	2872	question_line	1	プレゼントを配った太臓たち。	đi phát quà thay ông già Noel.
+06-jquiz-009.jsonl	544	JUS-d2ed67dcb44260df774f	17	2872	question_line	2	偶然見つけた矢射子の部屋で	Họ tình cờ vào phòng Yaiko.
+06-jquiz-009.jsonl	545	JUS-b56c726ffb7b1b1d1357	17	2872	question_line	3	矢射子がしていた事は何？	Yaiko đang làm gì?
+06-jquiz-009.jsonl	546	JUS-9a8e2a71d915f50876d6	17	2872	answer_option	0	ぬいぐるみ達とお話	Trò chuyện với thú bông
+06-jquiz-009.jsonl	547	JUS-8da62e04c8ef7ebe6efa	17	2872	answer_option	1	全裸でストレッチ	Khỏa thân tập giãn cơ
+06-jquiz-009.jsonl	548	JUS-f464846eea8812c40d7b	17	2872	answer_option	2	阿久津に告白する練習	Tập tỏ tình với Akutsu
+06-jquiz-009.jsonl	549	JUS-9762ea483981f7b8c870	17	2872	answer_option	3	ひとりでクリスマスパーティー	Mở tiệc Noel một mình
+06-jquiz-009.jsonl	550	JUS-e49d86f949dd29999ad1	17	2873	question_line	0	太臓が太子として参加した、間界人親睦	Taizo dự hội võ cuối năm Makai
+06-jquiz-009.jsonl	551	JUS-51fd39f462ef6e4a0707	17	2873	question_line	1	忘年会武闘大会。賞金はいくらだった？	với vai thái tử. Giải thưởng là gì?
+06-jquiz-009.jsonl	552	JUS-e50356ce66bc4cbf4121	17	2873	answer_option	0	二千五万円	20,05 triệu yen
+06-jquiz-009.jsonl	553	JUS-f0ca9c4ddda5aab62d32	17	2873	answer_option	1	二百五万円	2,05 triệu yen
+06-jquiz-009.jsonl	554	JUS-6e6ef72394c101ab5f06	17	2873	answer_option	2	二万五千円	25.000 yen
+06-jquiz-009.jsonl	555	JUS-6e7734712a13089b46ae	17	2873	answer_option	3	二億五千万円	250 triệu yen
+06-jquiz-009.jsonl	556	JUS-8b760906ea4ebb2363cb	17	2874	question_line	1	忘年会武闘大会。決勝に進出したのは	Ai lọt vào chung kết hội võ cuối năm?
+06-jquiz-009.jsonl	557	JUS-7dfef6043c9934f741ab	17	2874	answer_option	0	あいすと太臓	Aisu và Taizo
+06-jquiz-009.jsonl	558	JUS-e35e09f9f8cd05036c04	17	2874	answer_option	1	ルリーダと太臓	Rurida và Taizo
+06-jquiz-009.jsonl	559	JUS-c22b6ee98d0bae42b32d	17	2874	answer_option	2	ルリーダとあいす	Rurida và Aisu
+06-jquiz-009.jsonl	560	JUS-272429d7e2cc9bb47927	17	2874	answer_option	3	準決勝で全員棄権した	Tất cả bỏ cuộc tại bán kết
+06-jquiz-009.jsonl	561	JUS-7c64b6f84faf154667d6	17	2875	question_line	0	太臓があいすに対して使用した、	"Tuyệt kỹ ""Nishino nào cũng gục"""
+06-jquiz-009.jsonl	562	JUS-96763a9c0a5dfa88fa33	17	2875	question_line	1	「どんな西野もイチコロ」な奥義	Taizo dùng lên Aisu là gì?
+06-jquiz-009.jsonl	563	JUS-2066cf9861e2f63219d7	17	2875	answer_option	0	懸垂告白	Tỏ tình lúc hít xà
+06-jquiz-009.jsonl	564	JUS-2ded5d4cfdb91bf247e1	17	2875	answer_option	1	跳び箱告白	Tỏ tình lúc nhảy bục
+06-jquiz-009.jsonl	565	JUS-c1440ec5d8cd12ce5ba9	17	2875	answer_option	2	マラソン告白	Tỏ tình khi chạy marathon
+06-jquiz-009.jsonl	566	JUS-09d8120a5bcf20117c88	17	2875	answer_option	3	バンジージャンプ告白（命綱なし）	Tỏ tình khi nhảy bungee không dây
+06-jquiz-009.jsonl	567	JUS-aebca7b82f369216a04c	17	2876	question_line	0	阿久津の妹の下の名前はどれ？	Tên em gái Akutsu là gì?
+06-jquiz-009.jsonl	568	JUS-a2de4cdef63c9900e260	17	2876	answer_option	0	伊舞	Ibu
+06-jquiz-009.jsonl	569	JUS-bec69bc392c06eb35b94	17	2876	answer_option	1	栗須	Kurisu
+06-jquiz-009.jsonl	570	JUS-5a76c9a39fb076966852	17	2876	answer_option	2	可憐	Karen
+06-jquiz-009.jsonl	571	JUS-937a85a663c161ee6a9a	17	2876	answer_option	3	繭美	Mayumi
+06-jquiz-009.jsonl	572	JUS-823a120ecf68d31996a1	17	2877	question_line	0	太臓が１年の時のバレンタインデーに、	Valentine năm nhất, Yaiko
+06-jquiz-009.jsonl	573	JUS-6ccf1f66f251e08f75ca	17	2877	question_line	1	矢射子がチョコを渡そうとしていた	định đưa chocolate cho ai?
+06-jquiz-009.jsonl	574	JUS-4eb9e4b84284152655cd	17	2878	question_line	1	あいすの家のおばあちゃんが太臓たちに	Bà của Aisu đã cho nhóm Taizo
+06-jquiz-009.jsonl	575	JUS-2209df76c562738b0171	17	2878	question_line	2	くれたものはどれ？	món gì khi họ tới nhà?
+06-jquiz-009.jsonl	576	JUS-b38420513b0a510c108d	17	2878	answer_option	0	かりんとう	Bánh karinto
+06-jquiz-009.jsonl	577	JUS-37a2b7c5554b4978a419	17	2878	answer_option	2	チョコレートの食品サンプル	Chocolate làm mẫu trưng bày
+06-jquiz-009.jsonl	578	JUS-851652202c67b1acae7f	17	2878	answer_option	3	黒糖あめ	Kẹo đường đen
+06-jquiz-009.jsonl	579	JUS-c192511c918442478d68	17	2879	question_line	0	あいすの家において、太臓があいすの	Ở nhà Aisu, Taizo gọi
+06-jquiz-009.jsonl	580	JUS-ddd51a7c399d8b5b701e	17	2879	question_line	1	冷気を中和するために召喚した	một pháp sư lửa để khử
+06-jquiz-009.jsonl	581	JUS-87680c4ca193574b3a69	17	2879	question_line	2	炎使いの名前はどれ？	hơi lạnh của cô. Tên là gì?
+06-jquiz-009.jsonl	582	JUS-1b648b806b1e142a698d	17	2879	answer_option	0	公太郎	Kotaro
+06-jquiz-009.jsonl	583	JUS-d9a606fd8f8440f74a12	17	2879	answer_option	1	孔子くん	Koshi-kun
+06-jquiz-009.jsonl	584	JUS-6af19707bebc21b03b9a	17	2879	answer_option	2	炎魔さん	Enma-san
+06-jquiz-009.jsonl	585	JUS-d0e38bc795b475f11602	17	2879	answer_option	3	ズボンちゃん	Zubon-chan
+06-jquiz-009.jsonl	586	JUS-b0fbd8706b552dba3d74	17	2880	question_line	0	卒業生が学校の敷地内に隠した	Đồ cựu học sinh giấu trong trường:
+06-jquiz-009.jsonl	587	JUS-81346621f3bb79c5fa40	17	2880	question_line	1	第２ボタンやリボンを捜しだし、その	cúc áo thứ hai và nơ.
+06-jquiz-009.jsonl	588	JUS-06a065ee733e016dca1d	17	2880	question_line	2	持ち主とご対面できる恒例行事の名称は	Sự kiện tìm đồ và gặp chủ cũ tên gì?
+06-jquiz-009.jsonl	589	JUS-ec475f4f428af32c6911	17	2880	answer_option	0	ラブ・デスティニー	Love Destiny
+06-jquiz-009.jsonl	590	JUS-fb40d53a2280cbe298b9	17	2880	answer_option	1	スィート・グラデュエーション	Sweet Graduation
+06-jquiz-009.jsonl	591	JUS-5ae33d3f562b1ae85883	17	2880	answer_option	2	愛のサンクチュアリ	Sanctuary of Love
+06-jquiz-009.jsonl	592	JUS-b0e9a155c9b7d9d37a06	17	2880	answer_option	3	ドキドキ☆メモリアル	Doki Doki Memorial
+06-jquiz-009.jsonl	593	JUS-a46b1c88a3caae3c5b29	38	2881	question_line	0	幽助が生き返るための試練を受けている	Trong thử thách hồi sinh,
+06-jquiz-009.jsonl	594	JUS-8ff2a29cb00ec1ddd059	38	2881	question_line	1	ときに出会った、自分の飼い犬の死を受	Yusuke gặp Shota, cậu bé
+06-jquiz-009.jsonl	595	JUS-936541ad70045d73241a	38	2881	question_line	2	け入れられない弱虫少年、正太。	chưa chấp nhận chó cưng đã chết.
+06-jquiz-009.jsonl	596	JUS-9f328d140be416163d00	38	2881	question_line	3	その飼い犬の名とは？	Chú chó tên gì?
+06-jquiz-009.jsonl	597	JUS-22dde5422e4b8db12417	38	2881	answer_option	0	ジロ	Jiro
+06-jquiz-009.jsonl	598	JUS-cc4055ac022f51643539	38	2881	answer_option	1	タロ	Taro
+06-jquiz-009.jsonl	599	JUS-aa39794d27d59d9b5cef	38	2881	answer_option	2	サブロー	Saburo
+06-jquiz-009.jsonl	600	JUS-275cb3c382fbbc8654fb	38	2881	answer_option	3	ゴロー	Goro
+06-jquiz-009.jsonl	601	JUS-736f8e69663375a66452	38	2882	question_line	0	火事の中から幽助の肉体を救った螢子。	Keiko cứu thân xác Yusuke khỏi cháy.
+06-jquiz-009.jsonl	602	JUS-86e07f4e226e63443efe	38	2882	question_line	1	服も靴も焼けてボロボロになった螢子に	Quần áo, giày cô đều cháy nát.
+06-jquiz-009.jsonl	603	JUS-74430a78b0e01ece544f	38	2882	question_line	2	服を貸してあげたのは誰？	Ai cho Keiko mượn quần áo?
+06-jquiz-009.jsonl	604	JUS-2437c2ab0aa9c6382caf	38	2882	answer_option	0	桑原静流	Shizuru Kuwabara
+06-jquiz-009.jsonl	605	JUS-91cf6be103ccf79b83ae	38	2882	answer_option	1	浦飯温子	Atsuko Urameshi
+06-jquiz-009.jsonl	606	JUS-bd5bcdaa47ab34cc5e93	38	2882	answer_option	2	ぼたん	Botan
+06-jquiz-009.jsonl	607	JUS-e7c68f4c507b3319b24a	38	2882	answer_option	3	友達の夏子	Natsuko, bạn cô
+06-jquiz-009.jsonl	608	JUS-5a12b2c9cf6359107a0c	38	2883	question_line	0	霊界大秘蔵館から闇側の３大秘宝が	Ba bảo vật bóng tối bị trộm
+06-jquiz-009.jsonl	609	JUS-904a57642ce28aaa0ca5	38	2883	question_line	1	３人組の盗賊に盗まれた。	khỏi kho báu Linh Giới.
+06-jquiz-009.jsonl	610	JUS-881a0ad9836764db18bf	38	2883	question_line	2	盗まれたのは暗黒鏡と餓鬼玉。	Ngoài Gương Hắc Ám và Ngọc Gaki,
+06-jquiz-009.jsonl	611	JUS-18942cea1ff4a453c153	38	2883	question_line	3	あとひとつは？	món cuối cùng là gì?
+06-jquiz-009.jsonl	612	JUS-de6e6376bcadb6745b44	38	2883	answer_option	0	降魔の剣	Kouma no Ken
+06-jquiz-009.jsonl	613	JUS-8bf860ead41a1b53a1a5	38	2883	answer_option	1	霊魔の剣	Reima no Ken
+06-jquiz-009.jsonl	614	JUS-58f7a71aeb23e55c1a9c	38	2883	answer_option	2	悪霊の剣	Akuryo no Ken
+06-jquiz-009.jsonl	615	JUS-323b5d4ab38d93b70097	38	2883	answer_option	3	悪戯の剣	Itazura no Ken
