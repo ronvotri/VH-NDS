@@ -1,0 +1,117 @@
+{
+  "game": "Jump Ultimate Stars (Japan)",
+  "checkpoint": "040",
+  "date": "2026-11-19",
+  "translation_source": "JumpUltimateStars_Japan_BanGiao_Cloud.zip",
+  "source_total_ids": 34919,
+  "previous_completed": 24991,
+  "new_translations": 700,
+  "translated_total": 25691,
+  "remaining": 9228,
+  "percentage": 73.57,
+  "files": [
+    {
+      "file": "06-jquiz-005.jsonl",
+      "row_index_start": 1399,
+      "row_index_end": 1880,
+      "new_count": 482,
+      "file_complete": true,
+      "file_total": 1881
+    },
+    {
+      "file": "06-jquiz-006.jsonl",
+      "row_index_start": 0,
+      "row_index_end": 217,
+      "new_count": 218,
+      "file_complete": false,
+      "file_total": 2001
+    }
+  ],
+  "next_checkpoint": {
+    "checkpoint": "041",
+    "file": "06-jquiz-006.jsonl",
+    "row_index": 218
+  },
+  "checks": {
+    "new_count": 700,
+    "unique_new_ids": 700,
+    "unique_cp038_040": 2095,
+    "source_ja_exact_match": true,
+    "quiz_reference_role_position_exact_match": true,
+    "control_tags_preserved": true,
+    "all_vi_present": true,
+    "all_vi_up_to_37_unicode_codepoints": true,
+    "max_vi_unicode_codepoints": 37,
+    "question_role_counts": {
+      "question_line": 237,
+      "answer_option": 463
+    },
+    "new_source_with_strange_characters": [
+      {
+        "file": "06-jquiz-005.jsonl",
+        "row_index": 1482,
+        "ja": "ピーター≠",
+        "vi": "Peter≠",
+        "note": "Nguồn chứa ký hiệu lạ; giữ nghĩa/biệt danh cẩn trọng, kiểm tra ROM gốc trước khi sửa."
+      },
+      {
+        "file": "06-jquiz-005.jsonl",
+        "row_index": 1486,
+        "ja": "ピーター≠の弟の名前はどれ？",
+        "vi": "Em trai của Peter≠ tên gì?",
+        "note": "Nguồn chứa ký hiệu lạ; giữ nghĩa/biệt danh cẩn trọng, kiểm tra ROM gốc trước khi sửa."
+      },
+      {
+        "file": "06-jquiz-005.jsonl",
+        "row_index": 1488,
+        "ja": "ピーター‰",
+        "vi": "Peter‰",
+        "note": "Nguồn chứa ký hiệu lạ; giữ nghĩa/biệt danh cẩn trọng, kiểm tra ROM gốc trước khi sửa."
+      },
+      {
+        "file": "06-jquiz-005.jsonl",
+        "row_index": 1491,
+        "ja": "マキバオーが初めて出走したＧÅ。",
+        "vi": "Lần đầu Makibao dự giải GÅ.,",
+        "note": "Nguồn chứa ký hiệu lạ; giữ nghĩa/biệt danh cẩn trọng, kiểm tra ROM gốc trước khi sửa."
+      },
+      {
+        "file": "06-jquiz-005.jsonl",
+        "row_index": 1799,
+        "ja": "七≪瀬旅館",
+        "vi": "Nhà trọ 七≪瀬",
+        "note": "Nguồn chứa ký hiệu lạ; giữ nghĩa/biệt danh cẩn trọng, kiểm tra ROM gốc trước khi sửa."
+      },
+      {
+        "file": "06-jquiz-005.jsonl",
+        "row_index": 1800,
+        "ja": "三≪瀬旅館",
+        "vi": "Nhà trọ 三≪瀬",
+        "note": "Nguồn chứa ký hiệu lạ; giữ nghĩa/biệt danh cẩn trọng, kiểm tra ROM gốc trước khi sửa."
+      },
+      {
+        "file": "06-jquiz-005.jsonl",
+        "row_index": 1801,
+        "ja": "一≪瀬旅館",
+        "vi": "Nhà trọ 一≪瀬",
+        "note": "Nguồn chứa ký hiệu lạ; giữ nghĩa/biệt danh cẩn trọng, kiểm tra ROM gốc trước khi sửa."
+      },
+      {
+        "file": "06-jquiz-005.jsonl",
+        "row_index": 1821,
+        "ja": "平田残雪が七≪瀬温泉で出会い、",
+        "vi": "Hirata Zansetsu gặp ai tại suối nóng",
+        "note": "Nguồn chứa ký hiệu lạ; giữ nghĩa/biệt danh cẩn trọng, kiểm tra ROM gốc trước khi sửa."
+      }
+    ],
+    "hanzi_options_preserved": 46,
+    "correct_answer_not_inferred": true,
+    "source_modified": false,
+    "rom_tested": false,
+    "font_pixel_width_tested": false,
+    "complete_source_ids_reconciled_with_037": false
+  },
+  "delta_sha256": "233b4f808a8c08b800cd6b8cb802dac04d68ed68a651e3431edcbc651015015f",
+  "combined_038_040_sha256": "6e19681e32813dcc03acbf9c21aed478f25ff9e651f272321afcd76f3ad1c3b0",
+  "note": "Chỉ là QA tĩnh trên dữ liệu J-Quiz. Phương án đúng, đồ họa, font và khả năng chèn ROM chưa được kiểm thử; các chuỗi nguồn thiếu phần câu hỏi/phương án không được bịa bổ sung."
+}
