@@ -1,0 +1,736 @@
+file	row_index	id	manga_code	question_index	role	position	ja	vi
+06-jquiz-009.jsonl	616	JUS-0decf128f82777e87a1b	38	2884	question_line	0	オーラと呼ばれる霊気を指先に集中して	Tụ linh khí gọi là Aura ở đầu ngón
+06-jquiz-009.jsonl	617	JUS-909654c52575c8ca6841	38	2884	question_line	1	一気に放つ霊丸という技。	rồi bắn ra thành đòn Rei Gun.
+06-jquiz-009.jsonl	618	JUS-bf0ead005d774ef8a1a1	38	2884	question_line	2	幽助が初めて使った相手は誰？	Yusuke dùng lần đầu với ai?
+06-jquiz-009.jsonl	619	JUS-95fad1acedc486f2ddab	38	2884	answer_option	0	岩本先生	Thầy Iwamoto
+06-jquiz-009.jsonl	620	JUS-05e74438556639c73524	38	2884	answer_option	1	剛鬼	Gouki
+06-jquiz-009.jsonl	621	JUS-d84eeb3c90494ec11ee4	38	2884	answer_option	2	飛影	Hiei
+06-jquiz-009.jsonl	622	JUS-79f8a3504b50518d3cf5	38	2884	answer_option	3	蔵馬	Kurama
+06-jquiz-009.jsonl	623	JUS-911fb433fc95c7022ce9	38	2885	question_line	0	霊界大秘蔵館から秘宝を盗んだ３人組。	Ba kẻ trộm bảo vật của Linh Giới:
+06-jquiz-009.jsonl	624	JUS-a409c57a7330548ff4b6	38	2885	question_line	1	蔵馬と飛影。あとひとりは誰？	Kurama, Hiei và ai nữa?
+06-jquiz-009.jsonl	625	JUS-b574ca14ce12a5fe47cf	38	2885	answer_option	1	腐餓鬼	Fugaki
+06-jquiz-009.jsonl	626	JUS-0be8a23c23c8024c44f5	38	2885	answer_option	2	魅由鬼	Miyuki
+06-jquiz-009.jsonl	627	JUS-d392fbb4a18152d85bd2	38	2885	answer_option	3	獄門鬼	Gokumonki
+06-jquiz-009.jsonl	628	JUS-4649c48f921a3deaec2a	38	2886	question_line	0	幻海師範門下生大選考会。第一次審査の	Ở kỳ tuyển đệ tử của Genkai,
+06-jquiz-009.jsonl	629	JUS-8a4a58281f3426c42ee6	38	2886	question_line	1	方法は次のどれ？	vòng thi đầu tiên là gì?
+06-jquiz-009.jsonl	630	JUS-e77242f310af5a79bca8	38	2886	answer_option	0	クジ引き	Bốc thăm
+06-jquiz-009.jsonl	631	JUS-be8cb2274b1e3839c867	38	2886	answer_option	1	ジャンケン	Oẳn tù tì
+06-jquiz-009.jsonl	632	JUS-c31f8c08fc016b3c7aa3	38	2886	answer_option	2	カラオケ	Hát karaoke
+06-jquiz-009.jsonl	633	JUS-a9f107d1d9b99fa1ed97	38	2886	answer_option	3	座禅	Ngồi thiền
+06-jquiz-009.jsonl	634	JUS-6e103e9ea8f3c1da3027	38	2887	question_line	0	幻海師範門下生大選考会の第二次審査。	Vòng hai tuyển đệ tử Genkai:
+06-jquiz-009.jsonl	635	JUS-3755f989829f8c6d2672	38	2887	question_line	1	パンチングゲームで霊撃力を計る。	đấm máy để đo sức linh lực.
+06-jquiz-009.jsonl	636	JUS-8fc9a809a24275c28e90	38	2887	question_line	2	幽助が出したポイントはいくつ？	Yusuke ghi được bao nhiêu điểm?
+06-jquiz-009.jsonl	637	JUS-cb4791ec7a548d2a1119	38	2887	answer_option	0	１５５Ｐ	155 điểm
+06-jquiz-009.jsonl	638	JUS-9a061e37d0525c527de0	38	2887	answer_option	1	１２９Ｐ	129 điểm
+06-jquiz-009.jsonl	639	JUS-279e87a4939a3230efb1	38	2887	answer_option	2	１７５Ｐ	175 điểm
+06-jquiz-009.jsonl	640	JUS-eea81682c953f94eb423	38	2887	answer_option	3	１００Ｐ	100 điểm
+06-jquiz-009.jsonl	641	JUS-df04630c87832877b606	38	2888	question_line	0	幻海師範門下生大選考会の第三次審査は	Vòng ba tuyển đệ tử Genkai:
+06-jquiz-009.jsonl	642	JUS-564b7fdc7959eb83a9b1	38	2888	question_line	1	魔性の森に入り大木を目指す試練。	băng Rừng Ma đến cây đại thụ.
+06-jquiz-009.jsonl	643	JUS-65c43bba5f8953897741	38	2888	question_line	2	到着までの時間制限は？	Giới hạn thời gian là bao lâu?
+06-jquiz-009.jsonl	644	JUS-84ea678ce76796157764	38	2888	answer_option	0	２時間以内	Trong 2 giờ
+06-jquiz-009.jsonl	645	JUS-f195d379d4e00d0cb10e	38	2888	answer_option	1	５０分以内	Trong 50 phút
+06-jquiz-009.jsonl	646	JUS-d45153ddf2cf10484564	38	2888	answer_option	2	２４時間以内	Trong 24 giờ
+06-jquiz-009.jsonl	647	JUS-fe0181b2bc77e6d7074e	38	2888	answer_option	3	４時間３０分以内	Trong 4 giờ 30 phút
+06-jquiz-009.jsonl	648	JUS-8520234a743801c894fd	38	2889	question_line	0	幻海師範門下生大選考会。第四次審査に	Ở vòng bốn tuyển đệ tử Genkai,
+06-jquiz-009.jsonl	649	JUS-fe128812e111b59c8d49	38	2889	question_line	1	残った人数は何人？	còn lại bao nhiêu người?
+06-jquiz-009.jsonl	650	JUS-a3e3da7412a1486be7d6	38	2890	question_line	0	幻海の奥義を狙い門下生大選考会に	Nhằm cướp bí kỹ của Genkai,
+06-jquiz-009.jsonl	651	JUS-a63e59c24b5e726277b9	38	2890	question_line	1	紛れ込んだ好戦妖怪、乱童が使った	yêu quái hiếu chiến Rando trà trộn.
+06-jquiz-009.jsonl	652	JUS-2a5a87c41ec159bc7917	38	2890	question_line	2	偽名とは？	Hắn dùng tên giả nào?
+06-jquiz-009.jsonl	653	JUS-0df760280858348982d6	38	2890	answer_option	0	少林	Shorin
+06-jquiz-009.jsonl	654	JUS-63998fa54c11712f1e3e	38	2890	answer_option	1	風丸	Kazemaru
+06-jquiz-009.jsonl	655	JUS-2a1e0a2ca53e68a37dea	38	2890	answer_option	2	黒田	Kuroda
+06-jquiz-009.jsonl	656	JUS-199dbb5c56dee5895199	38	2890	answer_option	3	牙野	Kibano
+06-jquiz-009.jsonl	657	JUS-5e52e756bc09876bc5c6	38	2891	question_line	0	迷宮城で待ちかまえる四聖獣のひとり、	Trong Tứ Thánh Thú tại Mê Cung,
+06-jquiz-009.jsonl	658	JUS-997cbd8feda7df1bd048	38	2891	question_line	1	青龍と闘ったのは誰？	ai đã đấu với Seiryu?
+06-jquiz-009.jsonl	659	JUS-90fd742dc18edd92057a	38	2891	answer_option	2	桑原	Kuwabara
+06-jquiz-009.jsonl	660	JUS-fc6b239876ae6cddffc8	38	2891	answer_option	3	幽助	Yusuke
+06-jquiz-009.jsonl	661	JUS-e18d942e3f0ff245b954	38	2892	question_line	0	雷の力と妖気を融合させ『妖雷波』と	Kết hợp sấm sét và yêu khí
+06-jquiz-009.jsonl	662	JUS-b238725deb4e5ffb7fd2	38	2892	question_line	1	呼ばれる闇のエネルギーを作り出す技、	tạo luồng yêu lôi hắc ám,
+06-jquiz-009.jsonl	663	JUS-432c3009cef46637d0e8	38	2892	question_line	2	『暗黒雷迅拳』。この技は誰のもの？	Dark Lightning Fist là chiêu ai?
+06-jquiz-009.jsonl	664	JUS-665627346501dc18d26d	38	2892	answer_option	0	朱雀	Suzaku
+06-jquiz-009.jsonl	665	JUS-fe87a57c2bec3316983d	38	2892	answer_option	2	雷禅	Raizen
+06-jquiz-009.jsonl	666	JUS-39fb5fa49ab4fec59287	38	2892	answer_option	3	時雨	Shigure
+06-jquiz-009.jsonl	667	JUS-f787b793adc655409323	38	2893	question_line	0	四聖獣のリーダー朱雀	Thủ lĩnh Tứ Thánh Thú Suzaku
+06-jquiz-009.jsonl	668	JUS-66f2d479b37189804d50	38	2893	question_line	1	が脇に抱えている	luôn kẹp bên nách
+06-jquiz-009.jsonl	669	JUS-50f0c1cf34b7cb08fcce	38	2893	question_line	2	アイテムは何？	món đồ gì?
+06-jquiz-009.jsonl	670	JUS-01bea52773a0b1fe25ec	38	2893	answer_option	0	虫笛	Sáo côn trùng
+06-jquiz-009.jsonl	671	JUS-151b92f3a8621d5ac176	38	2893	answer_option	1	魔塊棒	Gậy Ma Khối
+06-jquiz-009.jsonl	672	JUS-d951e3d88c977aec8814	38	2893	answer_option	2	妖籠陣	Trận Yêu Lung
+06-jquiz-009.jsonl	673	JUS-795ea1af9c72d9750296	38	2893	answer_option	3	血杖	Trượng Máu
+06-jquiz-009.jsonl	674	JUS-9d247afe661c0c90554d	38	2894	question_line	0	その身から美しい宝石を生み出すことが	Yukina là yêu nữ tộc Băng
+06-jquiz-009.jsonl	675	JUS-fe135d71ec087a02ea55	38	2894	question_line	1	できるという妖怪の仲間、氷女の雪菜。	có thể tạo ra đá quý tuyệt đẹp.
+06-jquiz-009.jsonl	676	JUS-096aabd076314d846925	38	2894	question_line	2	宝石の源となるのは、彼女の何？	Đá quý sinh ra từ thứ gì của cô?
+06-jquiz-009.jsonl	677	JUS-b4269ef94b934c67e1d1	38	2894	answer_option	1	目玉	Nhãn cầu
+06-jquiz-009.jsonl	678	JUS-a2c35f573c301d780b39	38	2894	answer_option	3	霊気	Linh khí
+06-jquiz-009.jsonl	679	JUS-babddfb53f414942b1db	38	2895	question_line	0	筋肉操作の能力を持つ	Toguro em có khả năng
+06-jquiz-009.jsonl	680	JUS-1acd4631779a9c1c8286	38	2895	question_line	1	戸愚呂弟。	điều khiển cơ bắp.
+06-jquiz-009.jsonl	681	JUS-44ca50adf59df63ef9ef	38	2895	question_line	2	この状態で、	Ở trạng thái này,
+06-jquiz-009.jsonl	682	JUS-debf3d7f3477fe78cd61	38	2895	question_line	3	何パーセントの力？	hắn dùng bao nhiêu % sức mạnh?
+06-jquiz-009.jsonl	683	JUS-5c4c62b1e47065bf2725	38	2895	answer_option	0	６０パーセント	60%
+06-jquiz-009.jsonl	684	JUS-256bc597f1e91a052a28	38	2895	answer_option	1	４０パーセント	40%
+06-jquiz-009.jsonl	685	JUS-27160478ee21317184c0	38	2895	answer_option	2	２５パーセント	25%
+06-jquiz-009.jsonl	686	JUS-4f6e89f46cd70feff9d1	38	2895	answer_option	3	６５パーセント	65%
+06-jquiz-009.jsonl	687	JUS-4649b54964bbe0c33d55	38	2896	question_line	0	六遊怪チームの特攻隊長、鈴駒の左頬に	Má trái Rinku của đội Rokuyukai
+06-jquiz-009.jsonl	688	JUS-e3f67a7a21658483b37d	38	2896	question_line	1	並んでいる星マークの数は？	có mấy ngôi sao xếp hàng?
+06-jquiz-009.jsonl	689	JUS-977f43fa34800a26360a	38	2897	question_line	0	裏社会の実力者たちで構成された組織、	Tổ chức các ông trùm thế giới ngầm
+06-jquiz-009.jsonl	690	JUS-ae392e4ed0914be16fe9	38	2897	question_line	1	『Ｂ・Ｂ・Ｃ』。何という言葉の略？	B.B.C. là viết tắt của gì?
+06-jquiz-009.jsonl	691	JUS-61bc404b12446e1e8d33	38	2897	answer_option	0	ブラック・ブック・クラブ	Black Book Club
+06-jquiz-009.jsonl	692	JUS-d9d300ee2fd1b442baab	38	2897	answer_option	1	ブラック・ブラッディ・クラブ	Black Bloody Club
+06-jquiz-009.jsonl	693	JUS-3cf0ff0361509ebb8699	38	2897	answer_option	2	ブラック・ブレンド・クラブ	Black Blend Club
+06-jquiz-009.jsonl	694	JUS-cd39229e097b93e55eb5	38	2897	answer_option	3	ブラック・ブランド・クラブ	Black Brand Club
+06-jquiz-009.jsonl	695	JUS-f7ee04b1bc0da9c4a1c0	38	2898	question_line	0	氷系の能力を使う妖怪の中で、	Trong các yêu quái hệ băng,
+06-jquiz-009.jsonl	696	JUS-421c9b98377d71caf4cb	38	2898	question_line	1	最も位が高いのは、何という種族？	chủng tộc nào có địa vị cao nhất?
+06-jquiz-009.jsonl	697	JUS-f2516578c8058fda7a75	38	2898	answer_option	0	呪氷使い	Kẻ dùng Băng Chú
+06-jquiz-009.jsonl	698	JUS-ac28006bad3eb701f908	38	2898	answer_option	1	氷の拳士	Đấu sĩ Băng Quyền
+06-jquiz-009.jsonl	699	JUS-60396341d24bac8a2a61	38	2898	answer_option	2	氷女	Băng Nữ
+06-jquiz-009.jsonl	700	JUS-e7e48ea3a422cae0ac25	38	2898	answer_option	3	氷鬼	Quỷ Băng
+06-jquiz-009.jsonl	701	JUS-7eedfae99b40928dbd5f	38	2899	question_line	0	この絵で、桑原に	Kẻ bị Kuwabara đánh văng
+06-jquiz-009.jsonl	702	JUS-c3e91b3f5cf3563a33f7	38	2899	question_line	1	飛ばされた敵の名は？	trong hình này tên gì?
+06-jquiz-009.jsonl	703	JUS-ec3ebabf3203cdf77300	38	2899	answer_option	0	吏将	Risho
+06-jquiz-009.jsonl	704	JUS-f7787d9bb118cd62bb63	38	2899	answer_option	1	凍矢	Toya
+06-jquiz-009.jsonl	705	JUS-a3a023a9f969e9fcc4b8	38	2899	answer_option	2	怨爺	Onji
+06-jquiz-009.jsonl	706	JUS-56b51c65478c765d39ca	38	2900	question_line	0	暗黒武術会の戦闘中、伝説の極悪盗賊	Tại Dark Tournament, Kurama trở về
+06-jquiz-009.jsonl	707	JUS-b84067d1ef0339dd7915	38	2900	question_line	1	妖孤蔵馬の姿に戻った蔵馬。	hình dạng Yoko Kurama huyền thoại.
+06-jquiz-009.jsonl	708	JUS-82387299d95c39edbcf6	38	2900	question_line	2	そのキッカケを与えた闇アイテムとは？	Món đồ hắc ám nào gây ra chuyện đó?
+06-jquiz-009.jsonl	709	JUS-e4b664104e09d85d7ecd	38	2900	answer_option	0	裏浦島の逆玉手箱	Hộp nghịch thời của Ura Urashima
+06-jquiz-009.jsonl	710	JUS-1777e04004802cb13a54	38	2900	answer_option	1	死々若丸の死出の羽衣	Áo choàng tử thần Shishiwakamaru
+06-jquiz-009.jsonl	711	JUS-e445800ec9ebd65fb03b	38	2900	answer_option	2	黒桃太郎の奇美団子	Bánh Kibi kỳ dị Kuro Momotaro
+06-jquiz-009.jsonl	712	JUS-a2662df3145d82ba5845	38	2900	answer_option	3	魔金太郎の魔唆狩拳	Ma Sa Kar Ken của Makintaro
+06-jquiz-009.jsonl	713	JUS-8f9a99d9c9e5ad241ab6	38	2901	question_line	0	暗黒武術会の決勝戦を独占放送していた	Đài truyền hình nào độc quyền
+06-jquiz-009.jsonl	714	JUS-fbfeb27113597b00c10c	38	2901	question_line	1	ＴＶ局はどこ？	phát chung kết Dark Tournament?
+06-jquiz-009.jsonl	715	JUS-ac2fe9661f851b9cb0fe	38	2901	answer_option	0	サタニズムＴＶ	Satanism TV
+06-jquiz-009.jsonl	716	JUS-dbb26799b5e12b9cb389	38	2901	answer_option	1	ＴＶ首縊	TV Kubikukuri
+06-jquiz-009.jsonl	717	JUS-7c5cfcdb70962c3b05cc	38	2901	answer_option	2	悪魔テレビ	Devil TV
+06-jquiz-009.jsonl	718	JUS-a68f40edcf6ab7e50c0b	38	2901	answer_option	3	テレビ嵐	TV Arashi
+06-jquiz-009.jsonl	719	JUS-71bc6dae699961076df9	38	2902	question_line	0	裏御伽チームのリーダー、千の姿と技を	Đội trưởng đội Ura Otogi
+06-jquiz-009.jsonl	720	JUS-4da39c00b002c2d40834	38	2902	question_line	1	持つ『美しい魔闘家<IDEOSP>鈴木』が、戸愚呂	là Đấu sĩ đẹp trai<IDEOSP>Suzuki.
+06-jquiz-009.jsonl	721	JUS-eedd45a11ba32951cd66	38	2902	question_line	2	弟と戦った時に名乗っていた名前は何？	Khi đấu Toguro em, hắn tự xưng gì?
+06-jquiz-009.jsonl	722	JUS-6ea84d8699c5dcf6b59b	38	2902	answer_option	0	強い妖戦士<IDEOSP>田中	Yêu binh mạnh mẽ<IDEOSP>Tanaka
+06-jquiz-009.jsonl	723	JUS-50f5d19e827480d9ccdb	38	2902	answer_option	1	愛くるしい呪術師<IDEOSP>山田	Pháp sư đáng yêu<IDEOSP>Yamada
+06-jquiz-009.jsonl	724	JUS-90cfd803cc14940e127e	38	2902	answer_option	2	冷酷な怨舞家<IDEOSP>太田	Vũ công lạnh lùng<IDEOSP>Ota
+06-jquiz-009.jsonl	725	JUS-22c3e5798137938ff8a3	38	2902	answer_option	3	レインボー師範<IDEOSP>田上	Sư phụ Cầu Vồng<IDEOSP>Tagami
+06-jquiz-009.jsonl	726	JUS-80a8b4a234c7c0798b1e	38	2903	question_line	0	浦飯チームと戸愚呂チームの決勝戦。	Chung kết đội Urameshi - Toguro.
+06-jquiz-009.jsonl	727	JUS-23d3dc8035e0d7ad4ec6	38	2903	question_line	1	桑原の特攻服の背中に入っている文字	Sau áo đặc công của Kuwabara ghi gì?
+06-jquiz-009.jsonl	728	JUS-a2266f3232d29f4810be	38	2903	answer_option	0	健康第一	Sức khỏe số một
+06-jquiz-009.jsonl	729	JUS-ca29ac11cf8993ddd81a	38	2903	answer_option	1	七転八起	Ngã bảy lần, dậy tám lần
+06-jquiz-009.jsonl	730	JUS-45f37e863cf56615fe4d	38	2903	answer_option	2	生涯現役	Chiến đấu cả đời
+06-jquiz-009.jsonl	731	JUS-e10e219a25fbc1b8cd9b	38	2903	answer_option	3	喧嘩上等	Đánh nhau là nhất
+06-jquiz-009.jsonl	732	JUS-fe25c65b966d7fe975cf	38	2904	question_line	0	戸愚呂チームの一員、	Thành viên Karasu của đội Toguro
+06-jquiz-009.jsonl	733	JUS-0ea762ea5bf80bde0769	38	2904	question_line	1	鴉の妖気でできた	tạo ra sinh vật phụ
+06-jquiz-009.jsonl	734	JUS-c9b4347fc141c2f96853	38	2904	question_line	2	この亜生物体の名称は？	bằng yêu khí. Nó tên gì?
+06-jquiz-009.jsonl	735	JUS-34fc74b4c0a349873d38	38	2904	answer_option	0	追跡爆弾	Bom Truy Kích
+06-jquiz-009.jsonl	736	JUS-3cc8ea55535fb2d949dd	38	2904	answer_option	1	飛翔爆弾	Bom Phi Hành
+06-jquiz-009.jsonl	737	JUS-a18b98266be3aa7fd134	38	2904	answer_option	2	邪眼爆弾	Bom Tà Nhãn
+06-jquiz-009.jsonl	738	JUS-fe7787143e102b194720	38	2904	answer_option	3	蝙蝠爆弾	Bom Dơi
+06-jquiz-009.jsonl	739	JUS-4a995b58e68f402cfe01	38	2905	question_line	0	南野秀一として人間界に生きる蔵馬が	Kurama, còn gọi Shuichi Minamino,
+06-jquiz-009.jsonl	740	JUS-ece1e1f07e79fd2d8eb5	38	2905	question_line	1	通っている高校の名前は？	Cậu học trường cấp ba nào?
+06-jquiz-009.jsonl	741	JUS-d01cc90c61049bababc4	38	2905	answer_option	0	私立盟王高等学校	THPT tư Meiyo
+06-jquiz-009.jsonl	742	JUS-5e373f3aa73747f73f05	38	2905	answer_option	1	私立第一男子高等学校	THPT tư Nam Sinh Số Một
+06-jquiz-009.jsonl	743	JUS-5fae29292fb3f9740452	38	2905	answer_option	2	私立累ヶ淵高等学校	THPT tư Kasumigafuchi
+06-jquiz-009.jsonl	744	JUS-b03a54393421a533d0a3	38	2905	answer_option	3	私立忌野高等学校	THPT tư Imino
+06-jquiz-009.jsonl	745	JUS-13b6f4a27c171f8d19d5	38	2906	question_line	0	霊界裁判で執行猶予中の飛影を	Botan dùng một bảo vật Linh Giới
+06-jquiz-009.jsonl	746	JUS-c6dc3b4da37c91f9cb3d	38	2906	question_line	1	探すために、ぼたんが使った	để tìm Hiei đang được án treo.
+06-jquiz-009.jsonl	747	JUS-840d37e9151071e2e08a	38	2906	question_line	2	霊界七つ道具のアイテムは？	Đó là vật nào trong bảy bảo vật?
+06-jquiz-009.jsonl	748	JUS-c89aa1114a268b72a486	38	2906	answer_option	0	イタコ笛	Sáo gọi hồn
+06-jquiz-009.jsonl	749	JUS-a27004ddf2d0e0034332	38	2906	answer_option	1	妖気計	Máy đo yêu khí
+06-jquiz-009.jsonl	750	JUS-cd9d0ef4341bee186a78	38	2906	answer_option	2	霊透眼鏡	Kính thấu linh
+06-jquiz-009.jsonl	751	JUS-dcf694e134c9e5fe2829	38	2906	answer_option	3	霊丸輪具	Nhẫn Rei Gun
+06-jquiz-009.jsonl	752	JUS-536ffc269b5436295716	38	2907	question_line	0	霊界七つ道具のひとつ、	Một trong bảy bảo vật Linh Giới,
+06-jquiz-009.jsonl	753	JUS-e79642ab07f8cbfc3ede	38	2907	question_line	1	目印留は何枚入り？	dấu đánh dấu có bao nhiêu tờ?
+06-jquiz-009.jsonl	754	JUS-8c6d5b2691f96d41d26f	38	2907	answer_option	0	１００枚	100 tờ
+06-jquiz-009.jsonl	755	JUS-21368dd3aaec899b5e19	38	2907	answer_option	1	１０００枚	1.000 tờ
+06-jquiz-009.jsonl	756	JUS-1affdcbd892c9fb1e236	38	2907	answer_option	2	１００００枚	10.000 tờ
+06-jquiz-009.jsonl	757	JUS-8ee98a61ad97787fd4cb	38	2907	answer_option	3	１０００００枚	100.000 tờ
+06-jquiz-009.jsonl	758	JUS-c8bae57fa702368ff9c7	38	2908	question_line	0	ろくろ首町四次元屋敷の幽助誘拐事件。	Vụ Yusuke bị bắt cóc tại biệt thự
+06-jquiz-009.jsonl	759	JUS-ec8714d7d8899bcb7320	38	2908	question_line	1	この事件の黒幕は誰？	4 chiều ở Rokurokubi: ai chủ mưu?
+06-jquiz-009.jsonl	760	JUS-1614b2a17a3ee15ff9b0	38	2908	answer_option	0	幻海	Genkai
+06-jquiz-009.jsonl	761	JUS-d8ac6a9c375c0ef68232	38	2908	answer_option	1	仙水	Sensui
+06-jquiz-009.jsonl	762	JUS-210ca801964b213d333f	38	2908	answer_option	2	左京	Sakyo
+06-jquiz-009.jsonl	763	JUS-b4063670f4be340611fc	38	2908	answer_option	3	コエンマ	Koenma
+06-jquiz-009.jsonl	764	JUS-01b58e6749694c5c9500	38	2909	question_line	0	人間界と魔界をつなぐ界境トンネル。	Đường hầm nối Nhân Giới - Ma Giới.
+06-jquiz-009.jsonl	765	JUS-1ac909152810cf46c070	38	2909	question_line	1	完全に開くまでには何段階ある？	Mở hoàn toàn cần mấy giai đoạn?
+06-jquiz-009.jsonl	766	JUS-0f7d8df67a854c184174	38	2909	answer_option	0	４段階	4 giai đoạn
+06-jquiz-009.jsonl	767	JUS-1391ffd6815b785eef2d	38	2909	answer_option	1	３段階	3 giai đoạn
+06-jquiz-009.jsonl	768	JUS-eae9065aa01ca239fb8c	38	2909	answer_option	2	５段階	5 giai đoạn
+06-jquiz-009.jsonl	769	JUS-39b2742f7193075e8e1b	38	2909	answer_option	3	６段階	6 giai đoạn
+06-jquiz-009.jsonl	770	JUS-21505ebbfe0eec7fb1b6	38	2910	question_line	0	界境トンネルがある『蟲寄市』の	Thành phố Mushiyori có đường hầm
+06-jquiz-009.jsonl	771	JUS-800dd5f725189147b52c	38	2910	question_line	1	人口はどれくらい？	dân số Mushiyori khoảng bao nhiêu?
+06-jquiz-009.jsonl	772	JUS-23542004612804d175a0	38	2910	answer_option	0	２５万人	250.000 người
+06-jquiz-009.jsonl	773	JUS-cb32a1768e801efc6630	38	2910	answer_option	1	３６万人	360.000 người
+06-jquiz-009.jsonl	774	JUS-26599fb967329184d444	38	2910	answer_option	2	４４万人	440.000 người
+06-jquiz-009.jsonl	775	JUS-6ced574f46ee60800f95	38	2910	answer_option	3	１７万人	170.000 người
+06-jquiz-009.jsonl	776	JUS-6eb1ee8879e22286eee5	38	2911	question_line	0	ゲー魔王天沼と闘うためには	Để đấu Game Master Amanuma,
+06-jquiz-009.jsonl	777	JUS-60b34e95f8d9f11967fb	38	2911	question_line	1	７人のメンバーが必要。	phải lập đội đủ bảy người.
+06-jquiz-009.jsonl	778	JUS-9d49773ceeebd34f275a	38	2911	question_line	2	そのメンバーに入らなかったのは誰？	Ai KHÔNG nằm trong đội đó?
+06-jquiz-009.jsonl	779	JUS-df10fca0bb8d33f80a45	38	2911	answer_option	0	城戸	Kido
+06-jquiz-009.jsonl	780	JUS-32feff91b2840d168114	38	2911	answer_option	1	柳沢	Yanagisawa
+06-jquiz-009.jsonl	781	JUS-a5e6ba704a1453367fa1	38	2911	answer_option	2	御手洗	Mitarai
+06-jquiz-009.jsonl	782	JUS-7ba948dd8cc82d3d4f78	38	2911	answer_option	3	海藤	Kaito
+06-jquiz-009.jsonl	783	JUS-d8eb8c7c025bf769149d	38	2912	question_line	0	ゲー魔王天沼と海藤のバトルクイズ。	Trong trận quiz Amanuma - Kaito,
+06-jquiz-009.jsonl	784	JUS-1b96c5ef7d9139f45b5a	38	2912	question_line	1	クイズが得意な海藤を圧倒した天沼の	Amanuma đã áp đảo cao thủ Kaito
+06-jquiz-009.jsonl	785	JUS-c9410622bddef6921456	38	2912	question_line	2	作戦とは？	bằng mánh nào?
+06-jquiz-009.jsonl	786	JUS-adc7d3c2bccf97b8f50f	38	2912	answer_option	0	問題の順序と答えの位置を暗記した	Nhớ thứ tự câu và vị trí đáp án
+06-jquiz-009.jsonl	787	JUS-7a23d1a00b6e99eabbe9	38	2912	answer_option	1	クイズの問題をすべて暗記した	Thuộc lòng toàn bộ câu hỏi
+06-jquiz-009.jsonl	788	JUS-f3d53e7c8b48f42e7d19	38	2912	answer_option	2	超能力を使った	Dùng siêu năng lực
+06-jquiz-009.jsonl	789	JUS-9c283c2b9ceac8291505	38	2912	answer_option	3	カンニングした	Quay cóp
+06-jquiz-009.jsonl	790	JUS-2587b7272012db4ee4cd	38	2913	question_line	0	魔界植物を操る蔵馬。入魔洞窟で、	Kurama điều khiển cây Ma Giới.
+06-jquiz-009.jsonl	791	JUS-25eb94ae3117f55e187e	38	2913	question_line	1	戸愚呂（兄）を倒したときに使った	Trong hang Iruma, cậu hạ Toguro anh
+06-jquiz-009.jsonl	792	JUS-67a174d1a59b84508f76	38	2913	question_line	2	植物の名は？	bằng loài cây nào?
+06-jquiz-009.jsonl	793	JUS-49d3f261307728d5a400	38	2913	answer_option	0	邪念樹	Cây Tà Niệm
+06-jquiz-009.jsonl	794	JUS-b7b10e49cf882b0bedee	38	2913	answer_option	1	シマネキ草	Cỏ Shimaneki
+06-jquiz-009.jsonl	795	JUS-edb5b3eb23782eeb1bbc	38	2913	answer_option	2	食妖植物	Cây Ăn Yêu Quái
+06-jquiz-009.jsonl	796	JUS-21aeca0bc5ee6c626e55	38	2913	answer_option	3	寄生植物ヒトモドキ	Cây ký sinh Hitomodoki
+06-jquiz-009.jsonl	797	JUS-a1e3e3b2dde2b6ab96bc	38	2914	question_line	0	元霊界探偵の仙水。彼の中には７人の	Cựu thám tử Linh Giới Sensui
+06-jquiz-009.jsonl	798	JUS-82ae2e7846519e213cc3	38	2914	question_line	1	別人格が存在する。その中で、プライド	có bảy nhân cách. Kẻ kiêu ngạo,
+06-jquiz-009.jsonl	799	JUS-dc978c5ceed437e614a9	38	2914	question_line	2	が高く理屈屋でおしゃべりなのは誰？	lắm lý lẽ và nói nhiều là ai?
+06-jquiz-009.jsonl	800	JUS-bc03a8c0bc41319a0b6b	38	2914	answer_option	0	ミノル	Minoru
+06-jquiz-009.jsonl	801	JUS-77b410b118551829ab1c	38	2914	answer_option	1	カズヤ	Kazuya
+06-jquiz-009.jsonl	802	JUS-693fc01ba9f9ad49b6fc	38	2914	answer_option	2	ナル	Naru
+06-jquiz-009.jsonl	803	JUS-e449db42b42f7087eabb	38	2914	answer_option	3	忍	Shinobu
+06-jquiz-009.jsonl	804	JUS-a6e86f8ef3d61b15dfaa	38	2915	question_line	0	魔界の穴をふさぐため、霊界特別防衛隊	Đội Đặc nhiệm Linh Giới tới
+06-jquiz-009.jsonl	805	JUS-0de15674e5b05c239212	38	2915	question_line	1	が現れたとき、その隊長をつとめていた	để bịt lỗ Ma Giới. Ai là đội trưởng?
+06-jquiz-009.jsonl	806	JUS-3dc93b980c6582a57a77	38	2915	answer_option	0	大竹	Otake
+06-jquiz-009.jsonl	807	JUS-cf13ca5f564626db67ac	38	2915	answer_option	1	舜潤	Shunjun
+06-jquiz-009.jsonl	808	JUS-0079d679554f36a7e7da	38	2915	answer_option	2	草雷	Sorai
+06-jquiz-009.jsonl	809	JUS-89b6314e7d0b34fa7d16	38	2915	answer_option	3	才頭	Saito
+06-jquiz-009.jsonl	810	JUS-f1463a168faabbfa42b2	38	2916	question_line	0	Ａ級以上の妖怪だけができると	Yêu quái hạng A trở lên
+06-jquiz-009.jsonl	811	JUS-f51c2010925fce76b756	38	2916	question_line	1	言われる人間との遺伝交配。	có thể lai giống với người,
+06-jquiz-009.jsonl	812	JUS-96058833073f63d2dc0e	38	2916	question_line	2	代を隔てて遺伝子情報を子孫に	truyền gene cách nhiều thế hệ.
+06-jquiz-009.jsonl	813	JUS-7979a2bfabe98a808939	38	2916	question_line	3	伝える方法を何という？	Hiện tượng này gọi là gì?
+06-jquiz-009.jsonl	814	JUS-6c30593e55d5e7819965	38	2916	answer_option	0	魔族大隔世	Đại Cách Thế Ma Tộc
+06-jquiz-009.jsonl	815	JUS-31c809f4075fa518c040	38	2916	answer_option	1	魔族大覚醒	Đại Thức Tỉnh Ma Tộc
+06-jquiz-009.jsonl	816	JUS-16f64df1409bf2b6ef42	38	2916	answer_option	2	魔族大遺伝	Đại Di Truyền Ma Tộc
+06-jquiz-009.jsonl	817	JUS-555c8edf3f6939e3168d	38	2916	answer_option	3	魔族大成功	Đại Thành Công Ma Tộc
+06-jquiz-009.jsonl	818	JUS-ad9ef797adffab599ba5	38	2917	question_line	0	仙水忍に協力した能力者の中で、	Trong số tay chân của Sensui,
+06-jquiz-009.jsonl	819	JUS-febe828e43a89abc4e49	38	2917	question_line	1	その後、環境問題・国際ボランティアに	ai sau đó làm thiện nguyện quốc tế
+06-jquiz-009.jsonl	820	JUS-e72c0e20a28cc88da586	38	2917	question_line	2	従事したのは誰？	và bảo vệ môi trường?
+06-jquiz-009.jsonl	821	JUS-356fb1d480e153a77287	38	2917	answer_option	0	御手洗清志	Kiyoshi Mitarai
+06-jquiz-009.jsonl	822	JUS-380d80659cad5067dab9	38	2917	answer_option	1	天沼月人	Tsukihito Amanuma
+06-jquiz-009.jsonl	823	JUS-1330e265e0043ae6f21b	38	2917	answer_option	2	神谷実	Minoru Kamiya
+06-jquiz-009.jsonl	824	JUS-e0257450e7da67c126f9	38	2917	answer_option	3	刃霧要	Kaname Hagiri
+06-jquiz-009.jsonl	825	JUS-68813c0cca9adc4c290f	38	2918	question_line	0	初代霊界探偵の名は？	Ai là thám tử Linh Giới đầu tiên?
+06-jquiz-009.jsonl	826	JUS-72d65ec57b86bab766a3	38	2918	answer_option	0	真田黒呼	Kuroko Sanada
+06-jquiz-009.jsonl	827	JUS-0412e68041ccffd38423	38	2918	answer_option	1	真田風吹	Fubuki Sanada
+06-jquiz-009.jsonl	828	JUS-ce08810be480cc2fa332	38	2918	answer_option	2	真田快晴	Kaisei Sanada
+06-jquiz-009.jsonl	829	JUS-13353862738e60e1f7ee	38	2918	answer_option	3	真田晶吾	Shogo Sanada
+06-jquiz-009.jsonl	830	JUS-07df9222bfe752738a40	38	2919	question_line	0	北神の胸にある、	Thiết bị trên ngực Hokushin
+06-jquiz-009.jsonl	831	JUS-66cf26a49e2ae092be6c	38	2919	question_line	1	この装置はなに？	trong hình này dùng để làm gì?
+06-jquiz-009.jsonl	832	JUS-aff8846020e3a78503b5	38	2919	answer_option	0	妖力を抑える装置	Kìm hãm yêu lực
+06-jquiz-009.jsonl	833	JUS-c7813780c90c61d5b0cb	38	2919	answer_option	1	妖力を爆発させる装置	Kích nổ yêu lực
+06-jquiz-009.jsonl	834	JUS-3865ea2722c231588968	38	2919	answer_option	2	霊力を上げる装置	Tăng linh lực
+06-jquiz-009.jsonl	835	JUS-9e724647b50f4437c7c1	38	2919	answer_option	3	脳を操る装置	Điều khiển não
+06-jquiz-009.jsonl	836	JUS-40bcd28d247cacc11185	38	2920	question_line	0	幽助が魔界に行く直前、	Ngay trước lúc sang Ma Giới,
+06-jquiz-009.jsonl	837	JUS-3c22a5915a185cfcc9ca	38	2920	question_line	1	螢子に「結婚しよう」とプロポーズした	Yusuke đã cầu hôn Keiko.
+06-jquiz-009.jsonl	838	JUS-3785890293f3aaf8298a	38	2920	question_line	2	場所はどこだった？	Cậu ngỏ lời ở đâu?
+06-jquiz-009.jsonl	839	JUS-170eb2c6a1763efec754	38	2920	answer_option	0	食堂	Quán ăn
+06-jquiz-009.jsonl	840	JUS-06b6f4afb4c01bff4b9c	38	2920	answer_option	1	河原	Bờ sông
+06-jquiz-009.jsonl	841	JUS-08ad4c40be6d579e9a96	38	2920	answer_option	2	教室	Lớp học
+06-jquiz-009.jsonl	842	JUS-def5586871264805208f	38	2921	question_line	0	氷女から生まれた飛影。母親の名は？	Hiei sinh ra từ tộc Băng Nữ.
+06-jquiz-009.jsonl	843	JUS-2f5a98077f9f3b78ebad	38	2921	answer_option	0	氷菜	Mẹ cậu tên gì?
+06-jquiz-009.jsonl	844	JUS-2002807907f27ab3bb46	38	2921	answer_option	1	泪	Hina
+06-jquiz-009.jsonl	845	JUS-a1abdfa9c8e8a92f91d8	38	2921	answer_option	2	瑠架	Rui
+06-jquiz-009.jsonl	846	JUS-d64a8bc33cc1ca05d6db	38	2921	answer_option	3	静流	Ruka
+06-jquiz-009.jsonl	847	JUS-00a803fc72845a24ca94	38	2922	question_line	0	鯱を倒し、黄泉の軍事参謀総長となった	Sau khi hạ Shachi và lên chức
+06-jquiz-009.jsonl	848	JUS-1ef2c1c7d9c79b83b15a	38	2922	question_line	1	時点での、蔵馬の妖力値は？	tổng tham mưu của Yomi, Kurama
+06-jquiz-009.jsonl	849	JUS-7167e3590c818e415f2a	38	2923	question_line	0	雷禅が幽助に残した最後の言葉は？	có chỉ số yêu lực bao nhiêu?
+06-jquiz-009.jsonl	850	JUS-61a32a6db9bd767d0d7a	38	2923	answer_option	0	あーハラへったな	Ôi, đói quá đi mất!
+06-jquiz-009.jsonl	851	JUS-45873f76836478e0bedf	38	2923	answer_option	1	黄泉に気をつけろ	Cẩn thận với Yomi.
+06-jquiz-009.jsonl	852	JUS-53078e4e3ee9ef57c006	38	2923	answer_option	2	お前は間違えるな	Đừng phạm sai lầm như ta.
+06-jquiz-009.jsonl	853	JUS-cdc734642ae3c0c62ade	38	2923	answer_option	3	世話ばかりかけちまったな	Ta gây phiền cho con nhiều rồi.
+06-jquiz-009.jsonl	854	JUS-f4c676af7835f72538c3	38	2924	question_line	0	雷禅の死後、ケンカ仲間だった妖怪が	Sau khi Raizen qua đời, những
+06-jquiz-009.jsonl	855	JUS-c02c9bf01bce2ebaf659	38	2924	question_line	1	墓前に集まった。妖怪の数は何人？	bằng hữu yêu quái tụ trước mộ ông.
+06-jquiz-009.jsonl	856	JUS-eae31715160a74a828a0	38	2925	question_line	0	魔界統一トーナメントの予選会場に	Vòng loại giải Thống Nhất Ma Giới
+06-jquiz-009.jsonl	857	JUS-795a739d274fa6e0108f	38	2925	question_line	1	なったのはどこ？	được tổ chức ở đâu?
+06-jquiz-009.jsonl	858	JUS-8ff48578a9e10611314b	38	2925	answer_option	0	超巨大植物・億年樹の上	Trên cây khổng lồ Okunenju
+06-jquiz-009.jsonl	859	JUS-7dff037ee1ae3db742f8	38	2925	answer_option	1	巨大な自然式円闘場	Đấu trường tự nhiên khổng lồ
+06-jquiz-009.jsonl	860	JUS-1af04b079bb568e307ea	38	2925	answer_option	2	移動要塞・百足	Pháo đài di động Mukade
+06-jquiz-009.jsonl	861	JUS-6bd82d0ab4d21097bc4e	38	2925	answer_option	3	愚者の森・断首台の丘	Đồi Trảm Thủ, Rừng Kẻ Ngốc
+06-jquiz-009.jsonl	862	JUS-4f6548fafa0a776e11cc	38	2926	question_line	0	魔界統一トーナメントに出場した幽助は	Yusuke tham dự giải Thống Nhất
+06-jquiz-009.jsonl	863	JUS-7b82c9bf7a1580c513ed	38	2926	question_line	1	何回戦で敗退した？	Ma Giới rồi bị loại ở vòng nào?
+06-jquiz-009.jsonl	864	JUS-0805e85317182a6b8b5c	38	2926	answer_option	0	３回戦	Vòng 3
+06-jquiz-009.jsonl	865	JUS-fb7296f14714a5724719	38	2926	answer_option	1	準決勝	Bán kết
+06-jquiz-009.jsonl	866	JUS-1af8c8d235ad3d9061a7	38	2926	answer_option	2	２回戦	Vòng 2
+06-jquiz-009.jsonl	867	JUS-f1cc830b3e497ab18290	38	2926	answer_option	3	決勝	Chung kết
+06-jquiz-009.jsonl	868	JUS-763c5729990e5c0b9e3d	38	2927	question_line	0	魔界統一トーナメントの優勝者は？	Ai vô địch giải Thống Nhất Ma Giới?
+06-jquiz-009.jsonl	869	JUS-a06a041789feba95cf7d	38	2927	answer_option	0	煙鬼	Enki
+06-jquiz-009.jsonl	870	JUS-0f1631966dd1f55bda17	38	2927	answer_option	1	黄泉	Yomi
+06-jquiz-009.jsonl	871	JUS-0d393d8a8ab5bf33f631	38	2927	answer_option	2	才蔵	Saizo
+06-jquiz-009.jsonl	872	JUS-deb4dd3975be51972127	38	2927	answer_option	3	孤光	Kokou
+06-jquiz-009.jsonl	873	JUS-55b33e555c75cae69e65	38	2928	question_line	0	魔界統一トーナメント後、人間界に	Sau giải Thống Nhất Ma Giới,
+06-jquiz-009.jsonl	874	JUS-6b0b15a53024bbbac810	38	2928	question_line	1	戻ってきた幽助は屋台を引きながら	Yusuke về Nhân Giới, mở dịch vụ
+06-jquiz-009.jsonl	875	JUS-a27083b4f8fdd87e39e0	38	2928	question_line	2	始末屋を開業する。さて、なんの屋台？	việc vặt bằng xe bán món gì?
+06-jquiz-009.jsonl	876	JUS-5385ca0697e96e29529b	38	2928	answer_option	0	ラーメン	Ramen
+06-jquiz-009.jsonl	877	JUS-f3aeb72c137a9628565d	38	2928	answer_option	1	焼きそば	Yakisoba
+06-jquiz-009.jsonl	878	JUS-144e8044ee867e4d9149	38	2928	answer_option	3	クレープ	Bánh crepe
+06-jquiz-009.jsonl	879	JUS-bda5a38e5d827f960149	38	2929	question_line	0	人気急上昇中の３人娘、	Bộ ba cô gái nổi như cồn:
+06-jquiz-009.jsonl	880	JUS-69a0f2ec82331f5e5eab	38	2929	question_line	1	小兎、樹里、瑠架のユニット名は？	Koto, Juri, Ruka tên nhóm là gì?
+06-jquiz-009.jsonl	881	JUS-8f228f304d769b6cd8bc	38	2929	answer_option	1	タルト	Tart
+06-jquiz-009.jsonl	882	JUS-6a1ffe4c25cc8ce06739	38	2929	answer_option	2	ソルト	Salt
+06-jquiz-009.jsonl	883	JUS-264822fe54dee3979c9e	38	2929	answer_option	3	アルト	Alt
+06-jquiz-009.jsonl	884	JUS-9c50a7164cb805f7a911	38	2930	question_line	0	幻海師範が残した遺言状を	Ai đã đọc di chúc
+06-jquiz-009.jsonl	885	JUS-e14b742a6cc4cba2334c	38	2930	question_line	1	読みあげたのは誰？	của sư phụ Genkai?
+06-jquiz-009.jsonl	886	JUS-b6c0f2344cce8720adf9	38	2930	answer_option	1	浦飯幽助	Yusuke Urameshi
+06-jquiz-009.jsonl	887	JUS-9954b8f6180ad7d2f4fd	38	2930	answer_option	3	雪村螢子	Keiko Yukimura
+06-jquiz-009.jsonl	888	JUS-f2746c50575ada4494f6	38	2931	question_line	0	ズバリ、螢子の好きな色は何？	Nói luôn, Keiko thích màu gì?
+06-jquiz-009.jsonl	889	JUS-e515f049aaeaca069dad	38	2931	answer_option	2	黄色	Màu vàng
+06-jquiz-009.jsonl	890	JUS-9960d69d583edc2a6112	38	2932	question_line	0	竹中先生の呼び出しをすっぽかした幽助	Yusuke bùng kèo gặp thầy Takenaka.
+06-jquiz-009.jsonl	891	JUS-34d8c69d369755f7156a	38	2932	question_line	1	を探しにくる螢子。	Keiko đến tìm cậu.
+06-jquiz-009.jsonl	892	JUS-dfc92fcb699e055ed69a	38	2932	question_line	2	螢子のお小言にうんざりした幽助が	Chán nghe Keiko cằn nhằn,
+06-jquiz-009.jsonl	893	JUS-99a197d9795ed1801c44	38	2932	question_line	3	取った行動は？	Yusuke đã làm gì?
+06-jquiz-009.jsonl	894	JUS-fde59596baef52be28b6	38	2932	answer_option	0	スカートをめくった	Vén váy cô ấy
+06-jquiz-009.jsonl	895	JUS-fc2ae7d4b0feb4d4ce0d	38	2932	answer_option	1	その場を逃げ出した	Chuồn khỏi chỗ đó
+06-jquiz-009.jsonl	896	JUS-a9e970ab339e9d95558c	38	2932	answer_option	2	口答えした	Cãi lại
+06-jquiz-009.jsonl	897	JUS-23f3d7f9592b9708faca	38	2932	answer_option	3	胸にタッチ	Chạm vào ngực
+06-jquiz-009.jsonl	898	JUS-b0d0cf0dbfa705bf458f	38	2933	question_line	0	霊界にとって予定外だった幽助の死。	Cái chết của Yusuke quá bất ngờ
+06-jquiz-009.jsonl	899	JUS-e40ca2dc8da5f1db5400	38	2933	question_line	1	生き返るための試練を受ける幽助だった	với Linh Giới. Khi cậu trải qua
+06-jquiz-009.jsonl	900	JUS-a445dc98450d2b3a198d	38	2933	question_line	2	が、そもそも何が理由で死んだ？	thử thách hồi sinh, lý do chết là gì?
+06-jquiz-009.jsonl	901	JUS-1ae75e60d2231e307604	38	2933	answer_option	0	子供を助けて車にひかれた	Cứu em bé rồi bị xe tông
+06-jquiz-009.jsonl	902	JUS-694d1949e37dd29a10d4	38	2933	answer_option	1	ケンカで負けた	Thua trong một trận đánh
+06-jquiz-009.jsonl	903	JUS-a33e0ce28161894b9cd0	38	2933	answer_option	2	妖怪に襲われた	Bị yêu quái tấn công
+06-jquiz-009.jsonl	904	JUS-9a3199a1596ec3643c80	38	2933	answer_option	3	子供を助けて川でおぼれた	Cứu trẻ nhỏ rồi chết đuối
+06-jquiz-009.jsonl	905	JUS-f941f252c655777250de	38	2934	question_line	0	生き返るための試練を受ける幽助。	Yusuke phải vượt thử thách hồi sinh.
+06-jquiz-009.jsonl	906	JUS-d9caa7813acc8f9910c0	38	2934	question_line	1	ズバリ、その内容とは？	Nội dung thử thách là gì?
+06-jquiz-009.jsonl	907	JUS-5139eddb1a69ac9e4ddf	38	2934	answer_option	0	卵を無事にかえして育てる	Ấp trứng nở rồi chăm sóc
+06-jquiz-009.jsonl	908	JUS-8e126a00ec503f2c7211	38	2934	answer_option	1	困っている人を助ける	Giúp người gặp hoạn nạn
+06-jquiz-009.jsonl	909	JUS-aef50f44faf8993f7b8f	38	2934	answer_option	2	霊界水先案内人をやる	Làm người dẫn đường Linh Giới
+06-jquiz-009.jsonl	910	JUS-e6db939d3a3d72bd1237	38	2934	answer_option	3	霊界探偵になる	Trở thành thám tử Linh Giới
+06-jquiz-009.jsonl	911	JUS-481e2eb86c5f748aaf88	38	2935	question_line	0	生き返るための試練を受ける者は、	Người vượt thử thách hồi sinh
+06-jquiz-009.jsonl	912	JUS-e50cbb77fca854626b8a	38	2935	question_line	1	ある決まりを守らなければいけない。	phải tuân theo một quy tắc.
+06-jquiz-009.jsonl	913	JUS-db21601158675acdaffc	38	2935	question_line	2	そのある決まりとは！？	Quy tắc đó là gì?
+06-jquiz-009.jsonl	914	JUS-42f4e0552ca447c88186	38	2935	answer_option	0	親しい人間と話してはいけない	Không được nói với người thân
+06-jquiz-009.jsonl	915	JUS-520ae95041d345a27ae7	38	2935	answer_option	1	ケンカをしてはいけない	Không được đánh nhau
+06-jquiz-009.jsonl	916	JUS-f987ac9165df8930c174	38	2935	answer_option	2	規則正しく生活しなくてはいけない	Phải sinh hoạt điều độ
+06-jquiz-009.jsonl	917	JUS-148aacee7214475f7d19	38	2935	answer_option	3	姿を見られてはいけない	Không được để ai nhìn thấy
+06-jquiz-009.jsonl	918	JUS-b98f6d1f98b7ccca7824	38	2936	question_line	0	勉強がキライな幽助だが、実は	Yusuke ghét học, nhưng lại
+06-jquiz-009.jsonl	919	JUS-d323e171c8ebedb96cc1	38	2936	question_line	1	得意科目がある。それはなに？	giỏi một môn. Là môn nào?
+06-jquiz-009.jsonl	920	JUS-e59220599611cd3afb56	38	2936	answer_option	0	理科	Khoa học
+06-jquiz-009.jsonl	921	JUS-612f1eb4861052df12bc	38	2937	question_line	0	ケンカ無敗の幽助。その幽助が	Yusuke chưa từng thua đánh nhau.
+06-jquiz-009.jsonl	922	JUS-0defad53310a93393437	38	2937	question_line	1	はじめて負けたと思ったのは	Lần đầu cậu tưởng mình thua ai?
+06-jquiz-009.jsonl	923	JUS-6e1905426c971660fab3	38	2937	answer_option	0	さやか	Sayaka
+06-jquiz-009.jsonl	924	JUS-cddeb91d2e09d3167aa6	38	2938	question_line	0	霊界の試練を経て、いよいよ復活する	Vượt thử thách của Linh Giới,
+06-jquiz-009.jsonl	925	JUS-ea541d9430c1d3e4d8ac	38	2938	question_line	1	幽助。しかし、復活するためには	Yusuke sắp sống lại. Nhưng muốn
+06-jquiz-009.jsonl	926	JUS-c64f8b38650fe3227610	38	2938	question_line	2	生きている人間の協力が必要だという。	hồi sinh phải nhờ người còn sống.
+06-jquiz-009.jsonl	927	JUS-9ff38710d86e8b944f91	38	2938	question_line	3	その協力の内容とは？	Người đó phải giúp bằng cách nào?
+06-jquiz-009.jsonl	928	JUS-f564f9629c6bd237b50d	38	2938	answer_option	0	口うつし	Hôn truyền hơi
+06-jquiz-009.jsonl	929	JUS-6cb5641bedd72c362fd7	38	2938	answer_option	1	いけにえになる	Hy sinh làm tế phẩm
+06-jquiz-009.jsonl	930	JUS-968956b6854fc7d8818b	38	2938	answer_option	2	徳をわける	Chia sẻ công đức
+06-jquiz-009.jsonl	931	JUS-b07966a8abe92f25dab8	38	2938	answer_option	3	霊界探偵の助手になる	Làm trợ lý thám tử Linh Giới
+06-jquiz-009.jsonl	932	JUS-8dd7394160f921526bfe	38	2939	question_line	0	無類の猫好きな桑原。	Kuwabara mê mèo hết nấc.
+06-jquiz-009.jsonl	933	JUS-55e347dd038d51855c17	38	2939	question_line	1	飼っている猫の名前は？	Con mèo cậu nuôi tên gì?
+06-jquiz-009.jsonl	934	JUS-583ce0275e3d8c490f31	38	2939	answer_option	0	永吉	Eikichi
+06-jquiz-009.jsonl	935	JUS-9ab295d4b72645db4ee7	38	2939	answer_option	1	京介	Kyosuke
+06-jquiz-009.jsonl	936	JUS-7c0d5629538afe3fa3ef	38	2939	answer_option	2	徹	Toru
+06-jquiz-009.jsonl	937	JUS-1b9c3d2c877dc1ce9adf	38	2939	answer_option	3	ひろし	Hiroshi
+06-jquiz-009.jsonl	938	JUS-8f585fb113c81e3a6c29	38	2940	question_line	0	霊界に伝わる闇の三大秘宝を	Yusuke vất vả thu hồi được
+06-jquiz-009.jsonl	939	JUS-929eace01195ca804606	38	2940	question_line	1	何とか取り戻した幽助だったが、	ba bảo vật hắc ám của Linh Giới.
+06-jquiz-009.jsonl	940	JUS-dfdfcabf318cdb46e38e	38	2940	question_line	2	激怒したエンマ大王に、	Vua Enma nổi trận lôi đình,
+06-jquiz-009.jsonl	941	JUS-625daf9528d40bcefa8b	38	2940	question_line	3	コエンマが受けた罰とは？	phạt Koenma như thế nào?
+06-jquiz-009.jsonl	942	JUS-d16bf09ee405eb41ec87	38	2940	answer_option	0	おしり百たたき	Đánh mông 100 cái
+06-jquiz-009.jsonl	943	JUS-a0614e1b727eea9b3c1b	38	2940	answer_option	1	火炎地獄	Địa ngục lửa
+06-jquiz-009.jsonl	944	JUS-e233bea08af2f24b67ca	38	2940	answer_option	2	針の山	Núi kim châm
+06-jquiz-009.jsonl	945	JUS-1cb71e85e5f55cef0fb0	38	2940	answer_option	3	ごはん抜き	Cấm ăn cơm
+06-jquiz-009.jsonl	946	JUS-83dd6db70f0745f2634f	38	2941	question_line	0	暗黒武術会。その開催場所に	Dark Tournament được tổ chức
+06-jquiz-009.jsonl	947	JUS-f288add5cee0851acb0e	38	2941	answer_option	0	首縊島	Đảo Kubikukuri (首縊)
+06-jquiz-009.jsonl	948	JUS-c31a7e90591851e28af0	38	2941	answer_option	1	首括島	Đảo Kubikukuri (首括)
+06-jquiz-009.jsonl	949	JUS-06dc46f026c5544f56ac	38	2941	answer_option	2	首締島	Đảo Kubishime (首締)
+06-jquiz-009.jsonl	950	JUS-0c3b71426b100e823d1d	38	2941	answer_option	3	首長島	Đảo Kubinaga (首長)
+06-jquiz-009.jsonl	951	JUS-315bf5b33ba0bb24ec3b	38	2942	question_line	0	暗黒武術会に、浦飯チームの５人目の	Tại Dark Tournament, người thứ 5
+06-jquiz-009.jsonl	952	JUS-6eebe9a884deaae2f179	38	2942	question_line	1	メンバーとして参加した、覆面戦士の	đội Urameshi là chiến binh đeo mặt nạ
+06-jquiz-009.jsonl	953	JUS-20d3a9c297d084e60c2b	38	2943	question_line	0	Ｂ・Ｂ・Ｃのひとりであると同時に、	Một thành viên của B.B.C.,
+06-jquiz-009.jsonl	954	JUS-4f47d4171bd41d44b674	38	2943	question_line	1	戸愚呂チームのスポンサーを務める男。	đồng thời tài trợ đội Toguro là ai?
+06-jquiz-009.jsonl	955	JUS-d85cdd671c0e2ee721bd	38	2943	answer_option	1	権田原	Gondawara
+06-jquiz-009.jsonl	956	JUS-e63517aa2fdc9fbed480	38	2943	answer_option	2	垂金	Tarukane
+06-jquiz-009.jsonl	957	JUS-f39c35b0d5e12c4e3173	38	2944	question_line	0	暗黒武術会一回戦第一試合。	Trận mở màn vòng một Dark Tournament.
+06-jquiz-009.jsonl	958	JUS-6befa5352cedaabad4dc	38	2944	question_line	1	浦飯チームの先鋒は誰だった？	Ai xuất trận đầu cho đội Urameshi?
+06-jquiz-009.jsonl	959	JUS-232b0ede3ab567d0d200	38	2945	question_line	0	飛影の必殺技、邪王炎殺・黒龍波。	Hiei dùng chiêu Black Dragon Wave.
+06-jquiz-009.jsonl	960	JUS-66b607447b40aec9861d	38	2945	question_line	1	人間界での犠牲者第一号は誰？	Nạn nhân đầu tiên ở Nhân Giới là ai?
+06-jquiz-009.jsonl	961	JUS-91e87a0ecc546eb9a5a5	38	2945	answer_option	0	是流	Zeru
+06-jquiz-009.jsonl	962	JUS-75b970cfa6d5f742f765	38	2945	answer_option	1	青龍	Seiryu
+06-jquiz-009.jsonl	963	JUS-8046fb3e39f3a1878263	38	2945	answer_option	2	陣	Jin
+06-jquiz-009.jsonl	964	JUS-4bb6de21ca8b61cbea52	38	2946	question_line	0	恐るべき力を持つ、魔界の忍、	Những ninja Ma Giới mạnh đáng sợ
+06-jquiz-009.jsonl	965	JUS-be722d3d55986990fda8	38	2946	question_line	1	魔性使いチーム。	của đội Mashotsukai,
+06-jquiz-009.jsonl	966	JUS-a83d3459ba01765afe3f	38	2946	question_line	2	彼らは何を求めて暗黒武術会に	họ dự Dark Tournament
+06-jquiz-009.jsonl	967	JUS-bbc691e795907a9931b8	38	2946	question_line	3	出場していた？	để tìm kiếm thứ gì?
+06-jquiz-009.jsonl	968	JUS-7bb9a7c2d05f655a4847	38	2946	answer_option	3	闇	Bóng tối
+06-jquiz-009.jsonl	969	JUS-176310af0c114bd6ee06	38	2947	question_line	0	暗黒武術会、決勝戦。	Chung kết Dark Tournament.
+06-jquiz-009.jsonl	970	JUS-4be9a1c0719f5bd96946	38	2947	question_line	1	幻海にかわり、浦飯チームの５人目の	Thay Genkai, ai bước ra làm
+06-jquiz-009.jsonl	971	JUS-e00b9ea8948a78279a97	38	2947	question_line	2	選手として登場したのは誰だった？	thành viên thứ năm đội Urameshi?
+06-jquiz-009.jsonl	972	JUS-b917cfbfffed00e9e70d	38	2947	answer_option	2	酎	Chu
+06-jquiz-009.jsonl	973	JUS-a519dff9b84ac15de954	38	2948	question_line	0	幻海から幽助への最後の試練！	Thử thách cuối Genkai giao Yusuke!
+06-jquiz-009.jsonl	974	JUS-b3e2bc697e2d93c54f78	38	2948	question_line	1	それは、幽助へ「あるもの」を	Bà sẽ trao cho cậu
+06-jquiz-009.jsonl	975	JUS-ade881279311b2f46842	38	2948	question_line	2	渡すことだった。	một thứ cực kỳ quan trọng.
+06-jquiz-009.jsonl	976	JUS-9bee34f5dff925f919a9	38	2948	answer_option	0	霊光玉	Spirit Wave Orb
+06-jquiz-009.jsonl	977	JUS-0b7874f73d20d1d3cfda	38	2948	answer_option	1	霊丸	Rei Gun
+06-jquiz-009.jsonl	978	JUS-744350b30bedf3c427d4	38	2948	answer_option	2	聖光気	Sacred Energy
+06-jquiz-009.jsonl	979	JUS-ccf0cb9658bb701cdedf	38	2948	answer_option	3	次元刀	Dimension Sword
+06-jquiz-009.jsonl	980	JUS-906f4b67619ddf87608a	38	2949	question_line	0	暗黒武術会・準決勝で、死々若丸は	Ở bán kết Dark Tournament,
+06-jquiz-009.jsonl	981	JUS-a915b7b21096ca311f47	38	2949	question_line	1	桑原のことを何と呼んだ？	Shishiwakamaru gọi Kuwabara là gì?
+06-jquiz-009.jsonl	982	JUS-6c68b903cf0b706de812	38	2949	answer_option	0	失敗ヅラ	Mặt lỗi hệ thống
+06-jquiz-009.jsonl	983	JUS-8727a25c392ad01dcf0f	38	2949	answer_option	1	単細胞	Đồ não đơn bào
+06-jquiz-009.jsonl	984	JUS-d049c6759c16ad1eefdb	38	2949	answer_option	2	失敗リーゼント	Tóc vuốt lỗi kỹ thuật
+06-jquiz-009.jsonl	985	JUS-218c9ee544ab5444e6a5	38	2949	answer_option	3	雑魚	Đồ tép riu
+06-jquiz-009.jsonl	986	JUS-92e2a900f1b4a18b5c61	38	2950	question_line	0	人間の陰の部分を、何万時間という	Linh Giới ghi lại hàng vạn giờ
+06-jquiz-009.jsonl	987	JUS-f12c5351246e5a5e43c0	38	2950	question_line	1	単位で記録した、霊界の犯罪録。	tội ác và góc tối của con người.
+06-jquiz-009.jsonl	988	JUS-6bf0a3767270441e22eb	38	2950	question_line	2	そのビデオテープの名前は？	Cuộn băng đó tên gì?
+06-jquiz-009.jsonl	989	JUS-3424450327760a115299	38	2950	answer_option	0	黒の章	Chương Đen
+06-jquiz-009.jsonl	990	JUS-36e4ceb0744c18890e21	38	2950	answer_option	1	闇の章	Chương Bóng Tối
+06-jquiz-009.jsonl	991	JUS-267d785800b841b7c8d6	38	2950	answer_option	2	罪の章	Chương Tội Lỗi
+06-jquiz-009.jsonl	992	JUS-e5a3ee1af78b37252ec4	38	2950	answer_option	3	罰の章	Chương Trừng Phạt
+06-jquiz-009.jsonl	993	JUS-883227cb4f79d6e96555	38	2951	question_line	0	刃霧要の能力名『狙撃手』。	Hagiri dùng năng lực Sniper.
+06-jquiz-009.jsonl	994	JUS-1603acfeccc1959e125b	38	2951	question_line	1	石つぶて、刃物の次に彼が使ったのは	Sau đá và dao, hắn dùng cả ô tô.
+06-jquiz-009.jsonl	995	JUS-13381ad94861347b226a	38	2951	question_line	2	なんと車。どんな種類の車だった？	Đó là loại xe nào?
+06-jquiz-009.jsonl	996	JUS-e2700fde993865878875	38	2951	answer_option	0	タンクローリー	Xe bồn
+06-jquiz-009.jsonl	997	JUS-e4824ee741b5f1a73762	38	2951	answer_option	1	ダンプカー	Xe ben
+06-jquiz-009.jsonl	998	JUS-eb9f3f258636dba9c7eb	38	2951	answer_option	2	消防車	Xe cứu hỏa
+06-jquiz-009.jsonl	999	JUS-90acb9a76bc1f71135f4	38	2951	answer_option	3	レッカー車	Xe cứu hộ kéo xe
+06-jquiz-009.jsonl	1000	JUS-5353333fc74f56f79f79	38	2952	question_line	0	仙水が魔界に来たかった本当の	Lý do thật sự Sensui muốn
+06-jquiz-009.jsonl	1001	JUS-cced924910f6e4ed0a05	38	2952	question_line	1	理由とは？	đến Ma Giới là gì?
+06-jquiz-009.jsonl	1002	JUS-fbe6f317eaf22e473879	38	2952	answer_option	0	魔界で死にたかった	Muốn chết ở Ma Giới
+06-jquiz-009.jsonl	1003	JUS-a67fcaa5ee6d1c6387e5	38	2952	answer_option	1	魔界の王になりたかった	Muốn làm vua Ma Giới
+06-jquiz-009.jsonl	1004	JUS-bf39cf74a46712631957	38	2952	answer_option	2	人間を滅ぼすため	Muốn tiêu diệt loài người
+06-jquiz-009.jsonl	1005	JUS-54ea2d16a0acd59c8f11	38	2952	answer_option	3	強い敵と戦うため	Muốn đấu với kẻ mạnh
+06-jquiz-009.jsonl	1006	JUS-8ca2174c895d67d4e69b	38	2953	question_line	0	ものすごい顔のダメマツ	Damematsu với bộ mặt cực gắt,
+06-jquiz-009.jsonl	1007	JUS-e58fbfae29cd51ff249b	38	2953	question_line	1	こと松尾末吉。	tên thật là Suekichi Matsuo.
+06-jquiz-009.jsonl	1008	JUS-1b7f682e316e974eb73f	38	2953	question_line	2	このとき、いったい	Lúc này cậu ta
+06-jquiz-009.jsonl	1009	JUS-fa2e625fd0d0f5ba3cc6	38	2953	question_line	3	何をしていた？	đang làm gì vậy?
+06-jquiz-009.jsonl	1010	JUS-c2f44a955a6695b78e34	38	2953	answer_option	0	ガンをつけている	Lườm người ta
+06-jquiz-009.jsonl	1011	JUS-1e7a1346aa9532dec980	38	2953	answer_option	1	トイレを我慢している	Nhịn đi vệ sinh
+06-jquiz-009.jsonl	1012	JUS-20d51cddba8bad866ef7	38	2953	answer_option	2	にらめっこ	Thi đấu nhìn chằm chằm
+06-jquiz-009.jsonl	1013	JUS-f5ad9ea4ecad27cd482d	38	2953	answer_option	3	泣くのを我慢している	Cố nín khóc
+06-jquiz-009.jsonl	1014	JUS-262f9f28489fb839f847	38	2954	question_line	0	ミステリアスな占い師。	Một thầy bói đầy bí ẩn,
+06-jquiz-009.jsonl	1015	JUS-6ba7ff9439032c899730	38	2954	question_line	1	実は、幽助の知り合いが	hóa ra là người quen của Yusuke
+06-jquiz-009.jsonl	1016	JUS-afacfeda68582de36db0	38	2954	question_line	2	変装してるのであった。	đang cải trang đấy!
+06-jquiz-009.jsonl	1017	JUS-78194061c0e0e96b5520	38	2954	answer_option	1	子兎	Koto
+06-jquiz-009.jsonl	1018	JUS-8ba8348b7884034ed79e	38	2954	answer_option	2	螢子	Keiko
+06-jquiz-009.jsonl	1019	JUS-72e3a7c088db93240d00	38	2955	question_line	0	恐ろしい形相をした	Kẻ mang gương mặt hung dữ
+06-jquiz-009.jsonl	1020	JUS-16e7b274a31fedcdfbc9	38	2955	answer_option	3	ミツル	Mitsuru
+06-jquiz-009.jsonl	1021	JUS-ae50dab4e4d808af440d	37	2956	question_line	0	主人公、武藤遊戯の祖父の名前は？	Ông nội của Yugi Muto tên gì?
+06-jquiz-009.jsonl	1022	JUS-6644e02b30819cf7d4a6	37	2956	answer_option	0	武藤双六	Sugoroku Muto
+06-jquiz-009.jsonl	1023	JUS-34230840a264b2b05ac1	37	2956	answer_option	1	武藤花札	Hanafuda Muto
+06-jquiz-009.jsonl	1024	JUS-6c0c72a66488ae7802f0	37	2956	answer_option	2	武藤軽太	Keita Muto
+06-jquiz-009.jsonl	1025	JUS-3ebe8183f7d60e37a0cc	37	2956	answer_option	3	武藤芸霧	Geimu Muto
+06-jquiz-009.jsonl	1026	JUS-778d04ab951b7be301ed	37	2957	question_line	0	遊戯を、いじめから守ったので	Ushio từng bảo vệ Yugi khỏi
+06-jquiz-009.jsonl	1027	JUS-28d6fc0065d053a70503	37	2957	question_line	1	ボディーガード料を払えと迫った	bắt nạt rồi đòi tiền bảo kê.
+06-jquiz-009.jsonl	1028	JUS-f5702f8712a0cdafefd5	37	2957	question_line	2	風紀委員の牛尾。闇のゲームのルールを	Gã giám thị này đã phạm luật
+06-jquiz-009.jsonl	1029	JUS-4a27c8ef74ad4d6da9bc	37	2957	question_line	3	破って、彼が受けた運命の罰ゲームは？	Dark Game và bị phạt bằng gì?
+06-jquiz-009.jsonl	1030	JUS-5e9779257026461a8200	37	2957	answer_option	0	ＧＲＥＥＤ	GREED
+06-jquiz-009.jsonl	1031	JUS-b015a13718129b44b971	37	2957	answer_option	1	ＳＬＥＥＰ	SLEEP
+06-jquiz-009.jsonl	1032	JUS-6b32aca2f4a056295250	37	2957	answer_option	2	ＤＲＥＡＭ	DREAM
+06-jquiz-009.jsonl	1033	JUS-ae0f542a89bd9a637458	37	2957	answer_option	3	ＢＥＬＩＥＶＥ	BELIEVE
+06-jquiz-009.jsonl	1034	JUS-2cdc2d03b09f0c9d2555	37	2958	question_line	0	遊戯と同学年のＣ組の騒象寺。	Sozoji, học cùng khối với Yugi,
+06-jquiz-009.jsonl	1035	JUS-22802fdbf074d246a026	37	2958	question_line	1	彼が毎月１回行っている	mỗi tháng tổ chức một lần
+06-jquiz-009.jsonl	1036	JUS-73e5ff1083e7722d3da2	37	2958	question_line	2	迷惑度七ツ星のチョー最低行事とは？	trò quấy rầy bảy sao siêu tệ nào?
+06-jquiz-009.jsonl	1037	JUS-cfdca5ba52c4afa26496	37	2958	answer_option	0	オールナイト・ソロ・ライブ	Solo Live xuyên đêm
+06-jquiz-009.jsonl	1038	JUS-46cfab8abd7e6ae09c7d	37	2958	answer_option	1	騒象寺体育祭	Đại hội thể thao Sozoji
+06-jquiz-009.jsonl	1039	JUS-fd6d8301c530190048bf	37	2958	answer_option	2	オレをほめる集い	Hội tôn vinh chính tôi
+06-jquiz-009.jsonl	1040	JUS-da67be4ee5fb483777ec	37	2958	answer_option	3	騒象寺ボランティアクラブ	CLB tình nguyện Sozoji
+06-jquiz-009.jsonl	1041	JUS-a99705dca92e2ffdd7b5	37	2959	question_line	0	遊戯の同級生、真崎杏子が、	Anzu Mazaki, bạn cùng lớp Yugi,
+06-jquiz-009.jsonl	1042	JUS-53cd2341af0c15b00b57	37	2959	question_line	1	卒業後アメリカへ行くための資金を	muốn gom tiền sang Mỹ sau tốt nghiệp.
+06-jquiz-009.jsonl	1043	JUS-25b7824e48fb60fd6977	37	2959	question_line	2	貯めるために学校に内緒でアルバイト	Cô lén trường đi làm thêm
+06-jquiz-009.jsonl	1044	JUS-080be18e37ddd406429e	37	2959	question_line	3	していたのはどこ？	ở đâu vậy?
+06-jquiz-009.jsonl	1045	JUS-a33b2dd8515636634fea	37	2959	answer_option	0	バーガーワールド	Burger World
+06-jquiz-009.jsonl	1046	JUS-a9d5c7ff7e7f4ac72f03	37	2959	answer_option	2	童実野ベーカリー	Tiệm bánh Domino
+06-jquiz-009.jsonl	1047	JUS-0171daadc96e4b81a60d	37	2959	answer_option	3	喫茶『磨愚南無』	Quán cà phê Magnum
+06-jquiz-009.jsonl	1048	JUS-28a3835f71a629dd94b9	37	2960	question_line	0	遊戯たちの学校の先生、蝶野の	Cô giáo Chono ở trường Yugi
+06-jquiz-009.jsonl	1049	JUS-28f71e4cccdeb49e4fbe	37	2960	answer_option	0	退学魔女リン	Mụ phù thủy đuổi học Rin
+06-jquiz-009.jsonl	1050	JUS-916b9e46a7d04599f31b	37	2960	answer_option	1	リボンちゃん	Cô bé Ruy Băng
+06-jquiz-009.jsonl	1051	JUS-f87ed126da4799198f8d	37	2960	answer_option	2	悪魔の女教師	Nữ giáo viên ác quỷ
+06-jquiz-009.jsonl	1052	JUS-9df5d353b1aaf3984618	37	2960	answer_option	3	闇の蝶	Bướm bóng tối
+06-jquiz-009.jsonl	1053	JUS-ce91aed60bf0aa2a070e	37	2961	question_line	0	カードゲーム、マジック＆ウィザーズで	Trong game Magic & Wizards,
+06-jquiz-009.jsonl	1054	JUS-ccb3dd70b81d2f7b6ced	37	2961	question_line	1	遊戯の祖父の宝物である	lá bài bảo vật của ông Yugi,
+06-jquiz-009.jsonl	1055	JUS-b21db856390a3efe3000	37	2961	question_line	2	超ウルトラ級レアカードは？	siêu hiếm, là lá nào?
+06-jquiz-009.jsonl	1056	JUS-c1817199dd38e360beb7	37	2961	answer_option	0	青眼の白竜	Blue-Eyes White Dragon
+06-jquiz-009.jsonl	1057	JUS-7f5fe065291f6971e2b8	37	2961	answer_option	1	暗黒の龍王	Dark Dragon King
+06-jquiz-009.jsonl	1058	JUS-24c419c88634a6f49fa3	37	2961	answer_option	2	黄金のクリボー	Kuriboh Vàng
+06-jquiz-009.jsonl	1059	JUS-b7ed6d7bc2f2bd212a3a	37	2961	answer_option	3	白銀の魔王	Ma Vương Bạc
+06-jquiz-009.jsonl	1060	JUS-b68db03bbfa8c67c08ea	37	2962	question_line	0	仲間にならないとクラス	Một bạn du côn cũ của Jonouchi
+06-jquiz-009.jsonl	1061	JUS-db3cbb07d129e90e8920	37	2962	question_line	1	メイトをヤミ討ちすると	dọa đánh lén bạn học
+06-jquiz-009.jsonl	1062	JUS-2243e8727e126addb5c5	37	2962	question_line	2	言って脅した、城之内の	nếu Jonouchi không nhập hội.
+06-jquiz-009.jsonl	1063	JUS-760cdda5ce574626928a	37	2962	question_line	3	昔の不良仲間は？	Hắn là ai?
+06-jquiz-009.jsonl	1064	JUS-ba9cb90f5a2f2affb2d2	37	2962	answer_option	0	蛭谷	Hirutani
+06-jquiz-009.jsonl	1065	JUS-861d0ebb4ae11398af9c	37	2962	answer_option	1	蛆村	Ujimura
+06-jquiz-009.jsonl	1066	JUS-c0edcc60b3ddb00366e8	37	2962	answer_option	2	蝿野	Haeno
+06-jquiz-009.jsonl	1067	JUS-464920599e4723d33017	37	2962	answer_option	3	蛇川	Hebikawa
+06-jquiz-009.jsonl	1068	JUS-f39f12d4b3a7641229af	37	2963	question_line	0	童実野美術館の金倉館長が、	Giám đốc Kanekura của bảo tàng
+06-jquiz-009.jsonl	1069	JUS-f10bbcf71118b71469d0	37	2963	question_line	1	『真理を計る天秤』のゲームで受けた	Domino thua trò Cân Chân Lý.
+06-jquiz-009.jsonl	1070	JUS-7947606c81a091973388	37	2963	question_line	2	死の罰ゲームとは？	Ông chịu hình phạt chết chóc nào?
+06-jquiz-009.jsonl	1071	JUS-a2204d2ff07d75b5fcee	37	2963	answer_option	0	怪物の餌食になる	Bị quái vật ăn thịt
+06-jquiz-009.jsonl	1072	JUS-bec628bd34e7581a3924	37	2963	answer_option	1	石像になる	Hóa thành tượng đá
+06-jquiz-009.jsonl	1073	JUS-3fc55583eec4ec5f151e	37	2963	answer_option	2	体がロウソクになる	Cả người hóa thành nến
+06-jquiz-009.jsonl	1074	JUS-ab30e581fc4b206a182b	37	2963	answer_option	3	嘘をつくと舌がちぎれる	Nói dối là đứt lưỡi
+06-jquiz-009.jsonl	1075	JUS-c7253624a32d582e9e1f	37	2964	question_line	0	闇の千年アイテム『闇の千年錠』と	Người giữ Millennium Key
+06-jquiz-009.jsonl	1076	JUS-b0683a1a43b4bb0eb6d9	37	2964	question_line	1	『闇の千年秤』を持つ、	và Millennium Scales,
+06-jquiz-009.jsonl	1077	JUS-d6cd51f1eec77b35322a	37	2964	question_line	2	エジプトから来た男の名前は？	đến từ Ai Cập tên gì?
+06-jquiz-009.jsonl	1078	JUS-249330a97024f06bd8e4	37	2964	answer_option	0	シャーディー	Shadi
+06-jquiz-009.jsonl	1079	JUS-abe7430cbf4bc56d1be5	37	2964	answer_option	1	イシズ	Ishizu
+06-jquiz-009.jsonl	1080	JUS-b415f3e9b4dd2fb5f51c	37	2964	answer_option	2	マリク	Marik
+06-jquiz-009.jsonl	1081	JUS-262d210e5f1f7d3d1c62	37	2965	question_line	0	主人公、遊戯が首から下げている	Yugi đeo bảo vật Millennium
+06-jquiz-009.jsonl	1082	JUS-2f48c6252b82f8feaa77	37	2965	question_line	1	闇の千年アイテムとは？	nào trên cổ?
+06-jquiz-009.jsonl	1083	JUS-f94a485d03b5201d9e70	37	2965	answer_option	0	千年パズル	Millennium Puzzle
+06-jquiz-009.jsonl	1084	JUS-033591a1a65213d0ec2a	37	2965	answer_option	1	千年ピラミッド	Millennium Pyramid
+06-jquiz-009.jsonl	1085	JUS-a66e9d86d0643997ab1b	37	2965	answer_option	2	千年リング	Millennium Ring
+06-jquiz-009.jsonl	1086	JUS-3a68338c0daeb390fce2	37	2965	answer_option	3	千年ペンシル	Millennium Pencil
+06-jquiz-009.jsonl	1087	JUS-7372047f0649dca41531	37	2966	question_line	0	遊戯とシャーディーの間で	Yugi và Shadi đã đấu
+06-jquiz-009.jsonl	1088	JUS-c684b23b5f19b7115ac5	37	2966	question_line	1	杏子の命を賭けて戦われた	trong trò cược mạng sống Anzu.
+06-jquiz-009.jsonl	1089	JUS-d241f70f23375ec70c2f	37	2966	question_line	2	ゲームの名前は？	Trò đó tên gì?
+06-jquiz-009.jsonl	1090	JUS-fc725dcd148815e0d146	37	2966	answer_option	0	心理の秤り	Cân Tâm Lý
+06-jquiz-009.jsonl	1091	JUS-8baff124de5cde002905	37	2966	answer_option	1	死の観覧車	Vòng quay tử thần
+06-jquiz-009.jsonl	1092	JUS-ecd1786146233e8b159d	37	2966	answer_option	2	闇の十三階段	Mười ba bậc thang bóng tối
+06-jquiz-009.jsonl	1093	JUS-9002dff4af2ac782bd4b	37	2966	answer_option	3	恐怖の千年札	Lá bài Thiên Niên đáng sợ
+06-jquiz-009.jsonl	1094	JUS-1dfa66e650444a9b02b2	37	2967	question_line	0	遊戯たちの学校で大人気になった	Ở trường Yugi đang rộ lên
+06-jquiz-009.jsonl	1095	JUS-8212ca994d2d2d2ff870	37	2967	question_line	1	キーホルダーゲーム	trò móc khóa nuôi thú
+06-jquiz-009.jsonl	1096	JUS-95c52239ff151fed18db	37	2967	question_line	2	『デジタルペット君』	Digital Pet-kun.
+06-jquiz-009.jsonl	1097	JUS-5d9ec873e499a769716e	37	2967	question_line	3	遊戯のペットの名前は？	Thú cưng của Yugi tên gì?
+06-jquiz-009.jsonl	1098	JUS-fef6836eb4890c0ae656	37	2967	answer_option	0	Ｕ２	U2
+06-jquiz-009.jsonl	1099	JUS-c494f8409b2d76c4e7f5	37	2967	answer_option	1	パフ	Puff
+06-jquiz-009.jsonl	1100	JUS-ed5f3fb16fd88a3fdb84	37	2967	answer_option	2	クリボー	Kuriboh
+06-jquiz-009.jsonl	1101	JUS-e188b5b1e1371c7f8103	37	2968	question_line	0	遊戯の友人、花咲友也がグッズを	Hanasaki Tomoya, bạn của Yugi,
+06-jquiz-009.jsonl	1102	JUS-15dfa4b0f3cce5bc11e0	37	2968	question_line	1	コレクションしている	sưu tầm đồ của một siêu anh hùng
+06-jquiz-009.jsonl	1103	JUS-bdd79f4baa534d3bfec1	37	2968	question_line	2	アメコミヒーローは？	truyện tranh Mỹ. Là ai vậy?
+06-jquiz-009.jsonl	1104	JUS-b1fd05a876cce7fdc11b	37	2968	answer_option	0	ゾンバイア	Zombire
+06-jquiz-009.jsonl	1105	JUS-624a251ac5ade02e1d5d	37	2968	answer_option	1	グレートＵＳＡ	Great USA
+06-jquiz-009.jsonl	1106	JUS-a3d7374e1404a2d09701	37	2968	answer_option	2	デビルボーイ	Devil Boy
+06-jquiz-009.jsonl	1107	JUS-5a6111d9c62ab864220d	37	2968	answer_option	3	サバイバーマン	Survivor Man
+06-jquiz-009.jsonl	1108	JUS-83cfa2c1ae55ff2bd44b	37	2969	question_line	0	これを使い８×８マスの	Dùng bộ này để chơi trên
+06-jquiz-009.jsonl	1109	JUS-f0a73815c99ad11c8d53	37	2969	question_line	1	フィールドで行われる	bàn cờ 8 x 8 ô,
+06-jquiz-009.jsonl	1110	JUS-eeb42d3981cb0a9c6e9d	37	2969	question_line	2	チェスに似たゲームの	giống cờ vua. Trò chơi tên gì?
+06-jquiz-009.jsonl	1111	JUS-2fe33a4b4b8af6f3ffc5	37	2969	answer_option	0	カプセル・モンスター・チェス	Capsule Monster Chess
+06-jquiz-009.jsonl	1112	JUS-da0b189e3c85e55fe276	37	2969	answer_option	1	エッグ・モンスター・チェス	Egg Monster Chess
+06-jquiz-009.jsonl	1113	JUS-ecb6df4db53f86f56e42	37	2969	answer_option	2	リトル・モンスター・チェス	Little Monster Chess
+06-jquiz-009.jsonl	1114	JUS-25753e30654fc2277970	37	2969	answer_option	3	バトル・モンスター・チェス	Battle Monster Chess
+06-jquiz-009.jsonl	1115	JUS-52e07c4a7546e1fe5415	37	2970	question_line	0	海馬瀬人の弟の名前は？	Em trai của Seto Kaiba tên gì?
+06-jquiz-009.jsonl	1116	JUS-3b4e2dd2137f6fc26a01	37	2970	answer_option	0	海馬モクバ	Mokuba Kaiba
+06-jquiz-009.jsonl	1117	JUS-59d6b022cc85e347af84	37	2970	answer_option	1	海馬ケイマ	Keima Kaiba
+06-jquiz-009.jsonl	1118	JUS-e6895b0ce31443d02ceb	37	2970	answer_option	2	海馬テンマ	Tenma Kaiba
+06-jquiz-009.jsonl	1119	JUS-eea1233b32984b0f60c3	37	2970	answer_option	3	海馬ジンバ	Jinba Kaiba
+06-jquiz-009.jsonl	1120	JUS-ebda499662d3ba91555f	37	2971	question_line	0	海馬瀬人が、遊戯への復讐のため、	Để trả thù Yugi, Seto Kaiba
+06-jquiz-009.jsonl	1121	JUS-48a25ae1c9142c8d4456	37	2971	question_line	1	海馬ランド建設と共に	xây Kaiba Land cùng lúc
+06-jquiz-009.jsonl	1122	JUS-6774a2dbc01704a852ce	37	2971	question_line	2	進めたプロジェクトは？	triển khai dự án nào?
+06-jquiz-009.jsonl	1123	JUS-40133018632477cbb35c	37	2971	answer_option	0	ＤＥＡＴＨ－Ｔ	DEATH-T
+06-jquiz-009.jsonl	1124	JUS-a6e99daa03cb5c8fd73f	37	2971	answer_option	1	ＰＲＯＪＥＣＴ－Ｙ	PROJECT-Y
+06-jquiz-009.jsonl	1125	JUS-e888ac563bc716d9d961	37	2971	answer_option	2	ＤＥＳＴＲＯＹ－Ｕ	DESTROY-U
+06-jquiz-009.jsonl	1126	JUS-c5ac26d19c8e34cab73b	37	2971	answer_option	3	ＰＯＩＳＯＮ－Ｋ	POISON-K
+06-jquiz-009.jsonl	1127	JUS-586fb94ed467b24e468c	37	2972	question_line	0	海馬瀬人が遊戯たちに仕掛けた	Seto Kaiba giăng bẫy Yugi
+06-jquiz-009.jsonl	1128	JUS-f606775bdc1ebedd206b	37	2972	question_line	1	ＤＥＡＴＨ－Ｔ。	bằng trò DEATH-T.
+06-jquiz-009.jsonl	1129	JUS-8b6c18020460fc798b44	37	2972	question_line	2	最初のアトラクションは何？	Màn chơi đầu tiên là gì?
+06-jquiz-009.jsonl	1130	JUS-77b3fd4c3cdc08979151	37	2972	answer_option	0	シューティング・スターダスト	Shooting Stardust
+06-jquiz-009.jsonl	1131	JUS-20c0908ce5e375648e67	37	2972	answer_option	1	電気椅子ライド	Ghế điện cảm giác mạnh
+06-jquiz-009.jsonl	1132	JUS-c11260b738bcf96c39b0	37	2972	answer_option	2	殺人の館	Ngôi nhà sát nhân
+06-jquiz-009.jsonl	1133	JUS-02daf9061d68433078a2	37	2972	answer_option	3	デンジャラス・コースター	Tàu lượn hiểm nguy
+06-jquiz-009.jsonl	1134	JUS-8188105901aec6ee3bc6	37	2973	question_line	0	遊戯たちと共に、ＤＥＡＴＨ－Ｔに	Cậu cháu trai của Honda
+06-jquiz-009.jsonl	1135	JUS-f12810778005df4e29f5	37	2973	question_line	1	参加することになってしまった	bị cuốn vào DEATH-T cùng Yugi.
+06-jquiz-009.jsonl	1136	JUS-b896784b89ad655a5b8c	37	2973	question_line	2	本田の甥っ子の名前は？	Cậu bé tên gì?
+06-jquiz-009.jsonl	1137	JUS-db164af98bc3a5138c5c	37	2973	answer_option	1	セージ	Seiji
+06-jquiz-009.jsonl	1138	JUS-f7f923130863d0c949f1	37	2973	answer_option	2	ユージ	Yuji
+06-jquiz-009.jsonl	1139	JUS-546dc00ed49908b32ab3	37	2973	answer_option	3	コージ	Koji
+06-jquiz-009.jsonl	1140	JUS-163fab7525e3435ae5d3	37	2974	question_line	0	ＤＥＡＴＨ－Ｔのアトラクション、	Trong DEATH-T,
+06-jquiz-009.jsonl	1141	JUS-589db62db676938b0e5c	37	2974	question_line	1	『殺人の館』で待っていたのは誰？	ai chờ sẵn ở Ngôi Nhà Sát Nhân?
+06-jquiz-009.jsonl	1142	JUS-606f2d757906699d3d53	37	2974	answer_option	0	チョップマン	Chopman
+06-jquiz-009.jsonl	1143	JUS-420249624e7cc8034c51	37	2974	answer_option	1	ギロチンマン	Guillotine Man
+06-jquiz-009.jsonl	1144	JUS-d825ccb13b3c32eb06ac	37	2974	answer_option	2	ブラッドマン	Bloodman
+06-jquiz-009.jsonl	1145	JUS-c71f96113032dbdcaafc	37	2974	answer_option	3	マッチョマン	Macho Man
+06-jquiz-009.jsonl	1146	JUS-47fa92edc80228635042	37	2975	question_line	0	ＤＥＡＴＨ－Ｔの最終ステージ、	Màn cuối DEATH-T là trận
+06-jquiz-009.jsonl	1147	JUS-bf1991d81db8e2f1d9aa	37	2975	question_line	1	マジック＆ウィザーズで戦った、	Magic & Wizards giữa Yugi và Kaiba.
+06-jquiz-009.jsonl	1148	JUS-2b8319d4084e551c1a80	37	2975	question_line	2	遊戯と海馬。絶体絶命の遊戯を	Khi Yugi gần như thua chắc,
+06-jquiz-009.jsonl	1149	JUS-37201dbfe241fef798d1	37	2975	question_line	3	大逆転に導いたカードは、何？	lá bài nào giúp lật kèo ngoạn mục?
+06-jquiz-009.jsonl	1150	JUS-870d35823c94d9c1454d	37	2975	answer_option	0	封印されしエクゾディア	Exodia the Forbidden One
+06-jquiz-009.jsonl	1151	JUS-09e68c8cfbeb46a13254	37	2975	answer_option	1	青眼の白龍	Blue-Eyes White Dragon
+06-jquiz-009.jsonl	1152	JUS-7903593b098505239a98	37	2975	answer_option	2	天使の施し	Graceful Charity
+06-jquiz-009.jsonl	1153	JUS-ff31b0c73ab9ca921f93	37	2976	question_line	0	遊戯が、ゲームの直感力を養う	Để rèn trực giác chơi game,
+06-jquiz-009.jsonl	1154	JUS-d3ae36e3f0f8546732e5	37	2976	question_line	1	トレーニングとして、登校前	trước giờ học Yugi thường
+06-jquiz-009.jsonl	1155	JUS-08dedc88166b1d372eac	37	2976	question_line	2	自分の部屋でやっていたのは？	làm gì trong phòng riêng?
+06-jquiz-009.jsonl	1156	JUS-8881cc6a3527cb917d70	37	2976	answer_option	0	くつ下神経衰弱	Chơi lật đôi tất tìm cặp
+06-jquiz-009.jsonl	1157	JUS-1ddf16bbe8086691e745	37	2976	answer_option	1	鉛筆占い	Bói bằng bút chì
+06-jquiz-009.jsonl	1158	JUS-794cd80ca33a0e9ff6ae	37	2976	answer_option	2	文庫本ドミノ倒し	Xếp sách domino
+06-jquiz-009.jsonl	1159	JUS-f44e3d121bfe13c3a88f	37	2976	answer_option	3	一人じゃんけん	Tự chơi oẳn tù tì
+06-jquiz-009.jsonl	1160	JUS-5277f513fe62f779d7a3	37	2977	question_line	0	遊戯が杏子からもらった	Anzu tặng Yugi
+06-jquiz-009.jsonl	1161	JUS-f666f953c9f73fffd4bb	37	2977	question_line	1	この携帯型相性占いの	máy bói độ hợp nhau cầm tay.
+06-jquiz-009.jsonl	1162	JUS-d549013d0fce79ca116a	37	2977	answer_option	0	ラブリー二号	Lovely No. 2
+06-jquiz-009.jsonl	1163	JUS-0ad6dadd6a4577317219	37	2977	answer_option	1	恋々テスター	Love Love Tester
+06-jquiz-009.jsonl	1164	JUS-b9865f6a164a909e49a3	37	2977	answer_option	2	Ｑ－ＰＩＤ	Q-PID
+06-jquiz-009.jsonl	1165	JUS-ab40bc10f37353505080	37	2977	answer_option	3	恋占器	Máy bói tình yêu
+06-jquiz-009.jsonl	1166	JUS-f2276b1a8db1f80b3d73	37	2978	question_line	0	遊戯が杏子からもらったラブリー二号を	Thầy Tsuruoka tịch thu Lovely No. 2
+06-jquiz-009.jsonl	1167	JUS-f4bc1f5937b3cd95b3e6	37	2978	question_line	1	取り上げ、１時間以内に見つけたら返す	của Yugi, hẹn tìm được trong 1 giờ
+06-jquiz-009.jsonl	1168	JUS-cc9feda3a3b6ddfd2ef1	37	2978	question_line	2	と約束した生活指導の鶴岡先生。	thì trả. Thầy dạy kỷ luật này
+06-jquiz-009.jsonl	1169	JUS-0653bbcd9654c540b027	37	2978	question_line	3	彼はキーホルダーをどこに隠した？	đã giấu móc khóa ở đâu?
+06-jquiz-009.jsonl	1170	JUS-73fc37f555625614e2a1	37	2978	answer_option	0	自分のヅラの中	Trong bộ tóc giả của mình
+06-jquiz-009.jsonl	1171	JUS-bedc48c6aa5f693090d8	37	2978	answer_option	1	職員室の花瓶の中	Trong bình hoa phòng giáo viên
+06-jquiz-009.jsonl	1172	JUS-9dcd5ad494c49527d8f8	37	2978	answer_option	2	トイレのタンクの中	Trong két nước bồn cầu
+06-jquiz-009.jsonl	1173	JUS-7a8b0a220c6c85ba877f	37	2978	answer_option	3	校長室の金庫の中	Trong két sắt phòng hiệu trưởng
+06-jquiz-009.jsonl	1174	JUS-3fc9ae4b691f61c0c00c	37	2979	question_line	0	遊戯のクラスメイト、井守が	Imori học cùng lớp Yugi,
+06-jquiz-009.jsonl	1175	JUS-3523267fc5d573e033cc	37	2979	question_line	1	遊戯から千年パズルを奪おうとして	muốn cướp Millennium Puzzle
+06-jquiz-009.jsonl	1176	JUS-4d4b8cf51b639cf95442	37	2979	question_line	2	仕掛けた『闇』のゲームは何？	nên thách Yugi Dark Game nào?
+06-jquiz-009.jsonl	1177	JUS-04f636b66d6c607fdf33	37	2979	answer_option	0	龍札	Dragon Cards
+06-jquiz-009.jsonl	1178	JUS-2286527b97b3281a5639	37	2979	answer_option	1	龍双六	Dragon Sugoroku
+06-jquiz-009.jsonl	1179	JUS-1bd42c44b2b86e41ad2d	37	2979	answer_option	2	龍闘牌	Dragon Battle Tiles
+06-jquiz-009.jsonl	1180	JUS-8f20693f9ac09524deba	37	2979	answer_option	3	龍陣駒	Dragon Formation Pieces
+06-jquiz-009.jsonl	1181	JUS-c2166981a8dc77fb1678	37	2980	question_line	0	遊戯たちのクラスに転校してきた、	Một học sinh mới chuyển đến lớp,
+06-jquiz-009.jsonl	1182	JUS-b331f35d4bbdb8528a38	37	2980	question_line	1	闇の千年アイテム『千年リング』の	chủ sở hữu Millennium Ring, là ai?
+06-jquiz-009.jsonl	1183	JUS-cf04a729f1b6c70726e5	37	2980	answer_option	0	獏良了	Ryo Bakura
+06-jquiz-009.jsonl	1184	JUS-cfda7b1d4607a9e003e8	37	2980	answer_option	1	御伽龍児	Ryuji Otogi
+06-jquiz-009.jsonl	1185	JUS-ae316b243520b931f684	37	2980	answer_option	2	猪頭五郎	Goro Inogashira
+06-jquiz-009.jsonl	1186	JUS-6b5b7c72468974a4b558	37	2980	answer_option	3	狐蔵野巫女	Miko Kozono
+06-jquiz-009.jsonl	1187	JUS-57a9b28884de1ae4b493	37	2981	question_line	0	インダストリアル・イリュージョン社の	Người đứng đầu danh dự
+06-jquiz-009.jsonl	1188	JUS-f17837131f8864f4c3fa	37	2981	question_line	1	名誉会長で、マジック＆ウィザーズを	Industrial Illusions, thiên tài
+06-jquiz-009.jsonl	1189	JUS-eebc89bbcb037abc665e	37	2981	question_line	2	生みだした天才ゲームデザイナーとは？	sáng tạo Magic & Wizards, là ai?
+06-jquiz-009.jsonl	1190	JUS-c90c97e1b4d43670613a	37	2981	answer_option	0	ペガサス・Ｊ・クロフォード	Maximillion Pegasus
+06-jquiz-009.jsonl	1191	JUS-baf82b082c5fcf16f7de	37	2981	answer_option	1	ロバート・Ａ・キング	Robert A. King
+06-jquiz-009.jsonl	1192	JUS-5228f5b9716dfff5e1eb	37	2981	answer_option	2	ダグラス・タカハシ	Douglas Takahashi
+06-jquiz-009.jsonl	1193	JUS-0374c74bf0252ad2093f	37	2981	answer_option	3	ミスター・マジック	Mr. Magic
+06-jquiz-009.jsonl	1194	JUS-cd6094840f8b7c896061	37	2982	question_line	0	ペガサスの闇の千年アイテム『千年眼』	Millennium Eye của Pegasus
+06-jquiz-009.jsonl	1195	JUS-b60d3b32ee7ebba09383	37	2982	question_line	1	は、相手の心を見通す力を持つ。	có thể đọc suy nghĩ đối thủ.
+06-jquiz-009.jsonl	1196	JUS-6a59e0b2ef25238efe60	37	2982	answer_option	0	マインド・スキャン	Mind Scan
+06-jquiz-009.jsonl	1197	JUS-45a61028b630b6e50218	37	2982	answer_option	1	マインド・スケルトン	Mind Skeleton
+06-jquiz-009.jsonl	1198	JUS-34acf17c098c9cb5ddd5	37	2982	answer_option	2	マインド・シーカー	Mind Seeker
+06-jquiz-009.jsonl	1199	JUS-7fd14fa4315313ca2e86	37	2982	answer_option	3	マインド・アイ	Mind Eye
+06-jquiz-009.jsonl	1200	JUS-6a26227428c80cc5bff7	37	2983	question_line	0	遊戯の友人、城之内克也。	Katsuya Jonouchi là bạn Yugi.
+06-jquiz-009.jsonl	1201	JUS-aac9cd55adaa100d5ce7	37	2983	question_line	1	眼をわずらっている、彼の妹の名は？	Em gái cậu bị bệnh mắt tên gì?
+06-jquiz-009.jsonl	1202	JUS-f7adfb716946a8f136c7	37	2983	answer_option	0	静香	Shizuka
+06-jquiz-009.jsonl	1203	JUS-2129cb4c946bdbc19721	37	2983	answer_option	1	由香	Yuka
+06-jquiz-009.jsonl	1204	JUS-3c516356717584febffc	37	2983	answer_option	2	芳香	Yoshika
+06-jquiz-009.jsonl	1205	JUS-55cbe640e7b5efc3a02f	37	2983	answer_option	3	綾香	Ayaka
+06-jquiz-009.jsonl	1206	JUS-c4c40673ec89e0b8c5bd	37	2984	question_line	0	日本チャンピオンのインセクター羽蛾が	Insector Haga, vô địch Nhật Bản,
+06-jquiz-009.jsonl	1207	JUS-ba89089e5ba6705b852e	37	2984	question_line	1	『決闘者の王国』に向かう船上で	đã chơi bẩn Yugi trên tàu tới
+06-jquiz-009.jsonl	1208	JUS-cecfdc601526cdd82091	37	2984	question_line	2	遊戯に仕掛けた汚い手とは？	Duelist Kingdom như thế nào?
+06-jquiz-009.jsonl	1209	JUS-78e1b4c5125b6384beb9	37	2984	answer_option	0	『エクゾディア』を海に捨てた	Ném Exodia xuống biển
+06-jquiz-009.jsonl	1210	JUS-0caf8fade3e776228001	37	2984	answer_option	1	『青眼の白竜』を破った	Xé Blue-Eyes White Dragon
+06-jquiz-009.jsonl	1211	JUS-ffa2191ddd17541be7b8	37	2984	answer_option	2	『千年パズル』を盗んだ	Trộm Millennium Puzzle
+06-jquiz-009.jsonl	1212	JUS-c3da8eca6678a668354e	37	2984	answer_option	3	『双六』を人質にとった	Bắt cóc ông Sugoroku
+06-jquiz-009.jsonl	1213	JUS-a03a8e348d38de9c9880	37	2985	question_line	0	城之内が、『決闘者の王国』で	Ở Duelist Kingdom, Jonouchi
+06-jquiz-009.jsonl	1214	JUS-291117606db7c10c204d	37	2985	question_line	1	最初に闘った相手は？	đấu với ai đầu tiên?
+06-jquiz-009.jsonl	1215	JUS-8ad92bb880acecf3c2a7	37	2985	answer_option	0	孔雀舞	Mai Kujaku
+06-jquiz-009.jsonl	1216	JUS-3f00b007b4d586890fc8	37	2985	answer_option	1	ダイナソー竜崎	Dinosaur Ryuzaki
+06-jquiz-009.jsonl	1217	JUS-fdb6b9bf5140f016c1cc	37	2985	answer_option	2	梶木漁太	Ryota Kajiki
+06-jquiz-009.jsonl	1218	JUS-ec96fd46f945137ef2d9	37	2985	answer_option	3	インセクター羽蛾	Insector Haga
+06-jquiz-009.jsonl	1219	JUS-5d176d8af7fe7f467fb9	37	2986	question_line	0	城之内とダイナソー竜崎の決闘。	Jonouchi đấu Dinosaur Ryuzaki.
+06-jquiz-009.jsonl	1220	JUS-6bf4de54bc6910519764	37	2986	question_line	1	あと一撃で負けてしまう城之内を	Chỉ còn một đòn là thua,
+06-jquiz-009.jsonl	1221	JUS-11964770065c74397306	37	2986	question_line	2	大逆転に導いたカードは？	lá bài nào giúp cậu lật kèo?
+06-jquiz-009.jsonl	1222	JUS-10e70c9dfdc30874bc31	37	2986	answer_option	0	時の魔術師	Time Wizard
+06-jquiz-009.jsonl	1223	JUS-361f4a5c82dd22a873d0	37	2986	answer_option	1	真紅眼の黒竜	Red-Eyes Black Dragon
+06-jquiz-009.jsonl	1224	JUS-69cecb6f79bfc15a9ed1	37	2986	answer_option	2	ベビードラゴン	Baby Dragon
+06-jquiz-009.jsonl	1225	JUS-21d9d091b7845b7428e7	37	2986	answer_option	3	もけもけ	Mokey Mokey
+06-jquiz-009.jsonl	1226	JUS-4bc2a54b08b3b21759ac	37	2987	question_line	0	『決闘者の王国』にヘリで向かう海馬に	Kaiba bay đến Duelist Kingdom
+06-jquiz-009.jsonl	1227	JUS-10ede0e7473ef9641dde	37	2987	question_line	1	裏切り者の銃口が突きつけられる！	thì bị kẻ phản bội chĩa súng!
+06-jquiz-009.jsonl	1228	JUS-fce6e7e57efd05376754	37	2987	question_line	2	このとき海馬が、銃の撃鉄に挟んだ	Kaiba kẹp lá bài nào
+06-jquiz-009.jsonl	1229	JUS-79f7c1d12d1ca1a14b02	37	2987	question_line	3	カードとは？	vào búa súng?
+06-jquiz-009.jsonl	1230	JUS-91ca3d4f78f37bf1a990	37	2987	answer_option	0	逆転の女神	Goddess of Reversal
+06-jquiz-009.jsonl	1231	JUS-8d5ba397f9f9c67b74d8	37	2987	answer_option	1	運命の美神	Nữ thần Định Mệnh
+06-jquiz-009.jsonl	1232	JUS-864304244523ccffb6f9	37	2987	answer_option	2	孤独な歌姫	Nữ ca sĩ cô độc
+06-jquiz-009.jsonl	1233	JUS-d09df8135f8dbee2e31e	37	2987	answer_option	3	浪速の天才作曲家	Nhạc sĩ thiên tài Naniwa
+06-jquiz-009.jsonl	1234	JUS-850853c6bf1f59b49988	37	2988	question_line	0	バンデット・キース達に	Bandit Keith cùng đồng bọn
+06-jquiz-009.jsonl	1235	JUS-c234e38e2f7bff6163a4	37	2988	question_line	1	『墓場フィールド』に連れ込まれた	dẫn Jonouchi vào Graveyard Field.
+06-jquiz-009.jsonl	1236	JUS-76d05b75be4a9ffe93ef	37	2988	question_line	2	城之内が、決闘した相手は？	Ai đã đấu bài với Jonouchi?
+06-jquiz-009.jsonl	1237	JUS-f82fa62dd83184be7a22	37	2988	answer_option	0	ゴースト骨塚	Ghost Kotsuzuka
+06-jquiz-009.jsonl	1238	JUS-049c12d40bda669cea36	37	2988	answer_option	1	ゾンビ墓守	Zombie Gravekeeper
+06-jquiz-009.jsonl	1239	JUS-66e323c91faf951bbc57	37	2988	answer_option	2	スケルトン屍村	Skeleton Shibamura
+06-jquiz-009.jsonl	1240	JUS-564e8c688ed898780cae	37	2988	answer_option	3	ネクロマンサー呪梨	Necromancer Juri
+06-jquiz-009.jsonl	1241	JUS-163c0fb7090b7df722cf	37	2989	question_line	0	地下ダンジョンの番人で、	Ai là cặp canh giữ mê cung,
+06-jquiz-009.jsonl	1242	JUS-6ad4b6982914324174f5	37	2989	question_line	1	遊戯・城之内と二対二の変則マッチの	đã đấu trận hai chọi hai
+06-jquiz-009.jsonl	1243	JUS-8628c66682c1edae7f8b	37	2989	question_line	2	決闘を行った二人とは？	với Yugi và Jonouchi?
+06-jquiz-009.jsonl	1244	JUS-a758a5853707ce69be06	37	2989	answer_option	0	迷宮兄弟	Labyrinth Brothers
+06-jquiz-009.jsonl	1245	JUS-ecea38830de1183a9fc8	37	2989	answer_option	3	闇の仮面と光の仮面	Mask of Darkness và Light
+06-jquiz-009.jsonl	1246	JUS-a9bb2f79d3e0ce834194	37	2990	question_line	0	城之内の『真紅眼の黒竜』と	Red-Eyes Black Dragon của Jonouchi
+06-jquiz-009.jsonl	1247	JUS-7cd809183d87150d8426	37	2990	question_line	1	遊戯の『デーモンの召喚』が融合した	dung hợp với Summoned Skull của Yugi.
+06-jquiz-009.jsonl	1248	JUS-5f78732047dbc0f43c16	37	2990	question_line	2	モンスターの名前とは？	Quái vật mới tên gì?
+06-jquiz-009.jsonl	1249	JUS-fe4c9f4a529070eb358c	37	2990	answer_option	0	ブラック・デーモンズ・ドラゴン	Black Skull Dragon
+06-jquiz-009.jsonl	1250	JUS-3fc3d67c124e158a7b68	37	2990	answer_option	1	グレート・ブラック・ドラゴン	Great Black Dragon
+06-jquiz-009.jsonl	1251	JUS-a5565f0ee0cbb797aab9	37	2990	answer_option	2	魔王竜レッドアイズ・デーモン	Red-Eyes Demon Dragon
+06-jquiz-009.jsonl	1252	JUS-61c9aea4ddeec95321fd	37	2990	answer_option	3	真紅眼の黒竜皇帝	Red-Eyes Black Dragon Emperor
+06-jquiz-009.jsonl	1253	JUS-65799795ad4a0352dd80	37	2991	question_line	0	『決闘者の王国』、ペガサス城での	Tại lâu đài Pegasus ở Duelist Kingdom
+06-jquiz-009.jsonl	1254	JUS-8ea25e8be368d69174d0	37	2991	question_line	1	遊戯と海馬瀬人の決闘。	Yugi đấu với Seto Kaiba.
+06-jquiz-009.jsonl	1255	JUS-87807167e4224e5e2576	37	2991	question_line	2	賭けられた星の数は？	Họ cược bao nhiêu ngôi sao?
+06-jquiz-009.jsonl	1256	JUS-9df54334de0ae97ee213	37	2991	answer_option	1	１０個	10 ngôi sao
+06-jquiz-009.jsonl	1257	JUS-c6c43f23b7ee8e9e8e08	37	2991	answer_option	2	３個	3 ngôi sao
+06-jquiz-009.jsonl	1258	JUS-478f32ff2670526f7735	37	2991	answer_option	3	星は賭けていない	Không cược ngôi sao nào
+06-jquiz-009.jsonl	1259	JUS-99285ef15395f52989f0	37	2992	question_line	0	海馬瀬人に決闘盤での勝負を挑まれた	Kaiba thách Pegasus đấu
+06-jquiz-009.jsonl	1260	JUS-9e40c8bc7f8b660d2f37	37	2992	question_line	1	ペガサス。彼が、自分の代わりに盤を	bằng Duel Disk. Pegasus định nhờ
+06-jquiz-009.jsonl	1261	JUS-4dcc275de8826b6c2428	37	2992	question_line	2	投げさせようとしたのは誰？	ai ném đĩa thay mình?
+06-jquiz-009.jsonl	1262	JUS-32047aa1a4b958e9ddbc	37	2992	answer_option	0	モクバ	Mokuba
+06-jquiz-009.jsonl	1263	JUS-a858eea8935023e93e44	37	2992	answer_option	1	遊戯	Yugi
+06-jquiz-009.jsonl	1264	JUS-c85cd5145a4e91449e88	37	2992	answer_option	2	瀬人の母親	Mẹ Seto
+06-jquiz-009.jsonl	1265	JUS-d8c0f469c531682d8387	37	2992	answer_option	3	杏子	Anzu
+06-jquiz-009.jsonl	1266	JUS-d9136045a7bb9263dabd	37	2993	question_line	0	『決闘者の王国』の決勝戦前夜、	Đêm trước chung kết Duelist Kingdom,
+06-jquiz-009.jsonl	1267	JUS-66db9fc5ba55e5aa2b72	37	2993	question_line	1	城之内と遊戯は、参加資格の２枚の	Yugi và Jonouchi chia nhau hai
+06-jquiz-009.jsonl	1268	JUS-a725f367ef8f21c42446	37	2993	question_line	2	カードを分け合った。	lá bài đủ tư cách dự giải.
+06-jquiz-009.jsonl	1269	JUS-36bb8c54474578157241	37	2993	question_line	3	遊戯が取ったのは？	Yugi giữ lá nào?
+06-jquiz-009.jsonl	1270	JUS-8a43bc540dc2fb54d4cf	37	2993	answer_option	0	王の左手の栄光	Glory of the King's Left Hand
+06-jquiz-009.jsonl	1271	JUS-b44461be010e00487a2f	37	2993	answer_option	1	王の右手の栄光	Glory of the King's Right Hand
+06-jquiz-009.jsonl	1272	JUS-db7b957114667655d3da	37	2993	answer_option	2	決闘者のグローブ	Duelist's Glove
+06-jquiz-009.jsonl	1273	JUS-a0a1d386e09390c80a2c	37	2993	answer_option	3	王国への船出	Voyage to the Kingdom
+06-jquiz-009.jsonl	1274	JUS-ace3a1bdf58ec765e3a5	37	2994	question_line	0	『決闘者の王国』の	Ở Duelist Kingdom,
+06-jquiz-009.jsonl	1275	JUS-db70e65c65c7ffb724bb	37	2994	question_line	1	優勝者決定トーナメント一回戦。	vòng đầu giải tranh ngôi vô địch,
+06-jquiz-009.jsonl	1276	JUS-bccc006e6f9517ebcf9d	37	2994	question_line	2	遊戯の相手は？	Yugi đối đầu với ai?
+06-jquiz-009.jsonl	1277	JUS-b7bab4de496e44af0e4a	37	2994	answer_option	1	キース・ハワード	Keith Howard
+06-jquiz-009.jsonl	1278	JUS-946ff4ac04d63dc3d1c5	37	2994	answer_option	2	城之内克也	Katsuya Jonouchi
+06-jquiz-009.jsonl	1279	JUS-4f95c2afd6f750a869a3	37	2995	question_line	0	遊戯と孔雀舞の決闘。	Trong trận Yugi đấu Mai Kujaku,
+06-jquiz-009.jsonl	1280	JUS-91c85a95b562ae383237	37	2995	question_line	1	コンボで呼び出した、	Yugi triệu hồi bằng combo
+06-jquiz-009.jsonl	1281	JUS-e09d99aedf20a1b16a70	37	2995	question_line	2	遊戯の手札最強の	chiến binh mạnh nhất trên tay.
+06-jquiz-009.jsonl	1282	JUS-d6981600dd6ab57bec24	37	2995	question_line	3	この超戦士は？	Chiến binh đó tên gì?
+06-jquiz-009.jsonl	1283	JUS-94f3701fa2ef550929e7	37	2995	answer_option	0	カオス・ソルジャー	Black Luster Soldier
+06-jquiz-009.jsonl	1284	JUS-245e76996a2620636420	37	2995	answer_option	1	暗黒騎士ガイア	Gaia the Fierce Knight
+06-jquiz-009.jsonl	1285	JUS-32a84dca643281c2cda8	37	2995	answer_option	2	ホーリー・ナイト	Holy Knight
+06-jquiz-009.jsonl	1286	JUS-36e5ef5d049988d84928	37	2995	answer_option	3	エクゾディア	Exodia
+06-jquiz-009.jsonl	1287	JUS-a9901ca33b9d001c591b	37	2996	question_line	0	父親の怨みを晴らすため、	Để báo thù cho cha,
+06-jquiz-009.jsonl	1288	JUS-7b20c03c77a74a3148e0	37	2996	question_line	1	自分が開発したゲームＤ・Ｄ・Ｄで	một người thách Yugi bằng game D.D.D.
+06-jquiz-009.jsonl	1289	JUS-3361e06d0035deab99ed	37	2996	question_line	2	遊戯に挑戦してきたのは誰？	do chính mình phát triển. Là ai?
+06-jquiz-009.jsonl	1290	JUS-f7f63316e6903fea4781	37	2996	answer_option	1	名蜘蛛コージ	Koji Nagumo
+06-jquiz-009.jsonl	1291	JUS-4bd42fad6ebdde4649e1	37	2996	answer_option	2	ボブ・マクガイア	Bob McGuire
+06-jquiz-009.jsonl	1292	JUS-d40056fb3277190ab14b	37	2996	answer_option	3	高橋和希	Kazuki Takahashi
+06-jquiz-009.jsonl	1293	JUS-dbdce76e8f85987e0c31	37	2997	question_line	0	これは、幻神獣の三枚の	Đây là một trong ba lá
+06-jquiz-009.jsonl	1294	JUS-48fcc0c5d521ff4b611f	37	2997	question_line	1	レアカードの一枚だ。	Thần Bài cực hiếm.
+06-jquiz-009.jsonl	1295	JUS-9b8204801cd8cd225b60	37	2997	question_line	2	このカードは何？	Lá này tên gì?
+06-jquiz-009.jsonl	1296	JUS-7791a40086dee646064f	37	2997	answer_option	0	オベリスクの巨神兵	Obelisk the Tormentor
+06-jquiz-009.jsonl	1297	JUS-15cf466eb7f8763acf8b	37	2997	answer_option	1	オシリスの天空竜	Slifer the Sky Dragon
+06-jquiz-009.jsonl	1298	JUS-d66abb2b8e3a836653fd	37	2997	answer_option	2	ラーの翼神竜	The Winged Dragon of Ra
+06-jquiz-009.jsonl	1299	JUS-b723d7f97b526df96d79	37	2997	answer_option	3	セトの暗黒竜	Seth's Dark Dragon
+06-jquiz-009.jsonl	1300	JUS-0ea54afe586da8a59c3e	37	2998	question_line	0	レアカード強奪団、レア・ハンターを	Băng săn thẻ hiếm Rare Hunters
+06-jquiz-009.jsonl	1301	JUS-a8c5fe99826db052bbee	37	2998	question_line	1	操る闇組織の名は？	bị tổ chức bóng tối nào điều khiển?
+06-jquiz-009.jsonl	1302	JUS-051c3b8b83aca3d887e2	37	2998	answer_option	0	グールズ	Ghouls
+06-jquiz-009.jsonl	1303	JUS-043b0463754981cf8d64	37	2998	answer_option	1	ハンターズ	Hunters
+06-jquiz-009.jsonl	1304	JUS-fdada46dfcbe6de3d7ba	37	2998	answer_option	2	バンデッド	Bandit
+06-jquiz-009.jsonl	1305	JUS-b553f3580b672b1d271c	37	2998	answer_option	3	闇狩り団	Hội săn bóng tối
+06-jquiz-009.jsonl	1306	JUS-c018111d3d4175687f14	37	2999	question_line	0	七つめの千年アイテムを持つ敵、	Marik là kẻ thù sở hữu
+06-jquiz-009.jsonl	1307	JUS-f37a95265ed501cbba9e	37	2999	question_line	1	マリク。	Millennium Item thứ bảy.
+06-jquiz-009.jsonl	1308	JUS-74b63496bc8067218775	37	2999	question_line	2	彼の持つ千年アイテムは何？	Hắn giữ món nào?
+06-jquiz-009.jsonl	1309	JUS-6479bcf2cbb3f199e1ca	37	2999	answer_option	0	千年錫杖	Millennium Rod
+06-jquiz-009.jsonl	1310	JUS-04da17de2244c600b534	37	2999	answer_option	1	千年王冠	Millennium Crown
+06-jquiz-009.jsonl	1311	JUS-40933f50f83d51c254a0	37	2999	answer_option	2	千年聖衣	Millennium Cloth
+06-jquiz-009.jsonl	1312	JUS-a16cf104255f25f9cf4f	37	2999	answer_option	3	千年王国	Millennium Kingdom
+06-jquiz-009.jsonl	1313	JUS-6a3fd820f2998dcefa8d	37	3000	question_line	0	遊戯と闘ったレア・ハンターで、	Rare Hunter từng đấu với Yugi,
+06-jquiz-009.jsonl	1314	JUS-2d08b13582e31a9ed1b6	37	3000	question_line	1	『ブラック・マジシャン使いの奇術師』	được mệnh danh pháp sư điều khiển
+06-jquiz-009.jsonl	1315	JUS-71e7387c4563fb75552e	37	3000	question_line	2	の別名を持つのは？	Dark Magician là ai?
+06-jquiz-009.jsonl	1316	JUS-1ae386a3ca402ac0a212	37	3000	answer_option	1	エスパー絽場	Espa Roba
+06-jquiz-009.jsonl	1317	JUS-3936ac6d88852bb5f458	37	3000	answer_option	2	闇の仮面	Mask of Darkness
+06-jquiz-009.jsonl	1318	JUS-5799ca7f15710358d41f	37	3000	answer_option	3	リシド	Rishid
+06-jquiz-009.jsonl	1319	JUS-09363ccbb8ee08b1442a	37	3001	question_line	0	遊戯とパンドラの決闘で使われた、	Trong trận Yugi đấu Pandora,
+06-jquiz-009.jsonl	1320	JUS-f1b0cf1b937d6bbdbb93	37	3001	question_line	1	ブラック・マジシャンの弟子の	lá bài học trò của Dark Magician
+06-jquiz-009.jsonl	1321	JUS-f297328ed8c1108db3e3	37	3001	question_line	2	カードは何？	là lá nào?
+06-jquiz-009.jsonl	1322	JUS-e80f1755cd9b7984d862	37	3001	answer_option	0	ブラック・マジシャン・ガール	Dark Magician Girl
+06-jquiz-009.jsonl	1323	JUS-2834ed0a3824644b7ba7	37	3001	answer_option	1	ブラック・マジシャン・Ｊｒ	Dark Magician Jr.
+06-jquiz-009.jsonl	1324	JUS-9529414d1bb0fbb8dd0c	37	3001	answer_option	2	ブラック・マジシャン・ボーイ	Dark Magician Boy
+06-jquiz-009.jsonl	1325	JUS-0e59c754fc3ce7414507	37	3001	answer_option	3	ブラック・マジシャン・リトル	Dark Magician Little
+06-jquiz-009.jsonl	1326	JUS-240c4af66d86abf51da2	37	3002	question_line	0	童実野町で『バトル・シティ』の	Khi Battle City diễn ra ở Domino,
+06-jquiz-009.jsonl	1327	JUS-10e679cd82edc2293748	37	3002	question_line	1	開催中、本田は御伽と一緒に町を出た。	Honda và Otogi rời thành phố.
+06-jquiz-009.jsonl	1328	JUS-53df3b59ebef9160c0d9	37	3002	question_line	2	その目的は？	Họ đi vì mục đích gì?
+06-jquiz-009.jsonl	1329	JUS-647fd97fa8dc5e5b52ac	37	3002	answer_option	0	城之内の妹を迎えに行った	Đón em gái Jonouchi
+06-jquiz-009.jsonl	1330	JUS-7a44df03693a4dfd5305	37	3002	answer_option	1	『バトル・シティ』の黒幕探し	Tìm kẻ giật dây Battle City
+06-jquiz-009.jsonl	1331	JUS-12f509211d949d929094	37	3002	answer_option	2	孔雀舞を探すため	Đi tìm Mai Kujaku
+06-jquiz-009.jsonl	1332	JUS-8e3d9422f9308ac1f53a	37	3002	answer_option	3	傷心ナンパ旅行	Du lịch tán gái giải sầu
+06-jquiz-009.jsonl	1333	JUS-6b944f5125199ba23bbf	37	3003	question_line	0	童実野町より、東に８０ｋｍの所にある	Cách Domino 80 km về phía đông
+06-jquiz-009.jsonl	1334	JUS-c4d78d969c6c4cbe5336	37	3003	question_line	1	港の名前は？	có một cảng tên gì?
+06-jquiz-009.jsonl	1335	JUS-6ffa0656fcf242cd2baf	37	3003	answer_option	0	尾瀬呂港	Cảng Osero (尾瀬呂)
+06-jquiz-009.jsonl	1336	JUS-fa2a2266fe54bff81dd4	37	3003	answer_option	1	歌留多港	Cảng Karuta (歌留多)
+06-jquiz-009.jsonl	1337	JUS-a6ba86d8edbd554f83df	37	3003	answer_option	2	智栄洲港	Cảng Chiesu (智栄洲)
+06-jquiz-009.jsonl	1338	JUS-22a858bb8dcb95530041	37	3003	answer_option	3	戸蘭符港	Cảng Toranpu (戸蘭符)
+06-jquiz-009.jsonl	1339	JUS-661ba60bf17f0828dc5a	37	3004	question_line	0	『バトル・シティ』の最中、	Trong Battle City, Yugi
+06-jquiz-009.jsonl	1340	JUS-f154f6f975d6868200c1	37	3004	question_line	1	マリクの操るレア・ハンタ－と決闘し、	đấu Rare Hunter do Marik điều khiển.
+06-jquiz-009.jsonl	1341	JUS-fd0f3104f81e4b45ce77	37	3004	question_line	2	遊戯が手に入れた神のカードは何？	Lá Thần nào cậu giành được?
+06-jquiz-009.jsonl	1342	JUS-dc2881fd7011dc0ec1db	37	3004	answer_option	3	セトの暗黒兵	Dark Soldier of Seth
+06-jquiz-009.jsonl	1343	JUS-7e42df07922ec9871c4e	37	3005	question_line	0	闇の仮面・光の仮面のコンビが	Mask of Darkness và Mask of Light
+06-jquiz-009.jsonl	1344	JUS-1268a02f1c8a7777d148	37	3005	question_line	1	海馬・遊戯とのタッグマッチで、	đấu đôi với Kaiba và Yugi.
+06-jquiz-009.jsonl	1345	JUS-e7717391a1c9a69275a9	37	3005	question_line	2	神のカード封じのために	Để khóa sức mạnh Thần Bài,
+06-jquiz-009.jsonl	1346	JUS-3ce1d3c43e4fc2553932	37	3005	question_line	3	使ったカードは何？	họ đã dùng lá bài nào?
+06-jquiz-009.jsonl	1347	JUS-ca7ace16f0657b63e47b	37	3005	answer_option	0	生贄封じの仮面	Mask of Restrict
+06-jquiz-009.jsonl	1348	JUS-8404397077f3e6f5cd2c	37	3005	answer_option	1	凶暴化の仮面	Mask of Brutality
+06-jquiz-009.jsonl	1349	JUS-b84d2e35f5bb9b44631a	37	3005	answer_option	2	呪恨の仮面	Mask of Grudge
+06-jquiz-009.jsonl	1350	JUS-6672aaeeb12756f2295a	37	3005	answer_option	3	仮面魔獣の儀式	Ritual of the Masked Beast
