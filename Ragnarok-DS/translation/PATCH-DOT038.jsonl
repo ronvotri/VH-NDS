@@ -1,0 +1,475 @@
+{"id":"RDS-681be7429dabf7a8028f","vi":"Dựng gai nhọn<CFFFD>từ mặt đất<CFFFD>trong vùng chọn."}
+{"id":"RDS-d57fb0182c99f2be84d1","vi":"Giảm AGL,<CFFFD>DEX và tốc<CFFFD>độ di chuyển<CFFFD>của địch<CFFFD>trong vùng<CFFFD>chọn."}
+{"id":"RDS-e438583f3a9f00eca22e","vi":"Hiển thị<CFFFD>thông tin của<CFFFD>quái vật mục tiêu."}
+{"id":"RDS-94f3eef994217d2a9623","vi":"Triệu hồi bão<CFFFD>băng tấn công<CFFFD>địch trong<CFFFD>vùng chọn."}
+{"id":"RDS-58a4faaec2da8b2212ee","vi":"Dùng phép<CFFFD>phi nguyên tố<CFFFD>cực mạnh đánh<CFFFD>vào địch trong<CFFFD>vùng chọn."}
+{"id":"RDS-2ed6f3c4a0a276c8bacd","vi":"Tăng DEX."}
+{"id":"RDS-49c3dd192ccb3ec04bbe","vi":"Tăng tầm bắn và<CFFFD>độ chính xác<CFFFD>của Bow."}
+{"id":"RDS-588ab7a38802fcda0e1b","vi":"Tăng DEX và AGL<CFFFD>của người<CFFFD>thi triển."}
+{"id":"RDS-1f889e7ea9ec42d52397","vi":"Bắn liên tiếp hai<CFFFD>Arrow vào mục<CFFFD>tiêu từ xa."}
+{"id":"RDS-89713efc952052165a1c","vi":"Bắn mưa<CFFFD>Arrow<CFFFD>vào toàn bộ<CFFFD>vùng chọn."}
+{"id":"RDS-c563cd39338f809b3db2","vi":"Tăng ATK của<CFFFD>Arrow đang<CFFFD>trang bị."}
+{"id":"RDS-41c238ffc1d6ae3fb83e","vi":"Bắn đòn tầm xa<CFFFD>cực mạnh,<CFFFD>đẩy lùi<CFFFD>mục tiêu."}
+{"id":"RDS-19f4378c03650d348398","vi":"Tăng sát thương<CFFFD>lên quái hệ<CFFFD>Animal và<CFFFD>Insect."}
+{"id":"RDS-b8a77186c2a58c56c1b4","vi":"Bẫy gây sát<CFFFD>thương hệ<CFFFD>Earth cho<CFFFD>địch đi vào<CFFFD>phạm vi."}
+{"id":"RDS-a179fdd9aaa2707f0f1a","vi":"Bẫy giữ chân kẻ<CFFFD>địch đi vào phạm<CFFFD>vi."}
+{"id":"RDS-67fed8f1309d25ee7c8a","vi":"Bẫy khiến kẻ địch<CFFFD>đi vào phạm vi bị<CFFFD>Blind."}
+{"id":"RDS-5da4bf31ffcc61498e79","vi":"Bẫy gây sát<CFFFD>thương hệ<CFFFD>Water cho<CFFFD>địch đi vào<CFFFD>phạm vi."}
+{"id":"RDS-d2756a208c68cdfd07c9","vi":"Bẫy khiến kẻ<CFFFD>địch đi vào phạm<CFFFD>vi bị Sleep."}
+{"id":"RDS-8a27503b55165e3373f5","vi":"Bẫy gây sát<CFFFD>thương hệ Wind<CFFFD>cho địch<CFFFD>đi vào phạm<CFFFD>vi."}
+{"id":"RDS-e0332817aacd0ba521f2","vi":"Bẫy gây sát<CFFFD>thương hệ Fire<CFFFD>cho địch<CFFFD>đi vào phạm<CFFFD>vi."}
+{"id":"RDS-80e521a0a10e50f5485c","vi":"Gỡ bỏ bẫy được<CFFFD>chọn."}
+{"id":"RDS-f83135b6dc91896b10d4","vi":"Bắn Arrow<CFFFD>cực mạnh đẩy<CFFFD>lùi một mục<CFFFD>tiêu và gây hiệu<CFFFD>ứng trạng thái."}
+{"id":"RDS-a35811279785e2828d5c","vi":"Ra lệnh<CFFFD>cho Falcon<CFFFD>tấn công mọi<CFFFD>mục tiêu theo<CFFFD>hướng<CFFFD>chỉ định."}
+{"id":"RDS-016babca003214661d1d","vi":"Ra lệnh<CFFFD>cho Falcon<CFFFD>phát hiện<CFFFD>kẻ địch<CFFFD>đang ẩn nấp."}
+{"id":"RDS-f57ca2931b01423edafe","vi":"Ra<CFFFD>lệnh cho<CFFFD>Falcon kích<CFFFD>hoạt bẫy."}
+{"id":"RDS-6032a21eb002999369ef","vi":"Bắn<CFFFD>Arrow liên<CFFFD>tục theo<CFFFD>hướng đã<CFFFD>chọn."}
+{"id":"RDS-11f1236d18aed1b8346e","vi":"Bắn loạt<CFFFD>Arrow xuyên thấu<CFFFD>theo hướng<CFFFD>chỉ định."}
+{"id":"RDS-000622ec4b990a3cfbb7","vi":"Chỉ dùng với<CFFFD>Dagger.<CFFFD>Phối hợp<CFFFD>Falcon tung<CFFFD>chuỗi đòn đánh<CFFFD>nhanh."}
+{"id":"RDS-143c46e4303536550424","vi":"Giảm sát thương<CFFFD>nhận<CFFFD>từ quái<CFFFD>Undead và<CFFFD>Demon."}
+{"id":"RDS-6ebfa036aef2feb0d018","vi":"Tăng sát<CFFFD>thương gây ra<CFFFD>lên quái<CFFFD>Undead và<CFFFD>Demon."}
+{"id":"RDS-7eeb3de4cbcf51d0ccd0","vi":"Tăng DEF của<CFFFD>các thành viên<CFFFD>Party trong<CFFFD>vùng chọn."}
+{"id":"RDS-e45eb2a63e5e3060574c","vi":"Tăng mọi chỉ số<CFFFD>của mục tiêu;<CFFFD>nếu dùng lên<CFFFD>Undead hay Demon<CFFFD>thì các chỉ số<CFFFD>bị giảm một nửa."}
+{"id":"RDS-7b584e022bf5d0dba899","vi":"Hồi HP. Nếu<CFFFD>dùng lên quái<CFFFD>Undead hoặc<CFFFD>Demon thì gây<CFFFD>sát thương."}
+{"id":"RDS-e81a756e7f633f7f758f","vi":"Chữa mọi trạng thái<CFFFD>bất thường trừ<CFFFD>Poison, Undead<CFFFD>và Curse."}
+{"id":"RDS-bd901a860309d65ac9b8","vi":"Tăng AGL và tốc<CFFFD>độ di chuyển<CFFFD>cho mục tiêu."}
+{"id":"RDS-873ba7a65a484db12350","vi":"Làm lộ kẻ<CFFFD>địch<CFFFD>ẩn nấp; kẻ bị<CFFFD>phát hiện<CFFFD>trúng đòn hệ<CFFFD>Holy."}
+{"id":"RDS-a077568e2df2899695c6","vi":"Dịch chuyển<CFFFD>tức thì về<CFFFD>thành phố<CFFFD>từng ghé<CFFFD>trong cùng<CFFFD>quốc gia."}
+{"id":"RDS-6bbc7f52e50b28e0d57d","vi":"Tạo kết<CFFFD>giới chặn<CFFFD>mọi đòn đánh<CFFFD>tầm xa quanh<CFFFD>vùng chọn."}
+{"id":"RDS-2cc34375d83c798a10d7","vi":"Triệu hồi ánh<CFFFD>sáng Holy tấn<CFFFD>công mục tiêu."}
+{"id":"RDS-9d60bcd1f85bd5d24c0d","vi":"Tăng sát thương<CFFFD>của Mace."}
+{"id":"RDS-33b5a68713994c42ade4","vi":"Tăng ATK cho<CFFFD>nhân vật<CFFFD>mục tiêu."}
+{"id":"RDS-87c66d0c8f57d533669a","vi":"Ban thuộc tính<CFFFD>Holy cho mục<CFFFD>tiêu;<CFFFD>gây sát thương<CFFFD>lên quái<CFFFD>Undead."}
+{"id":"RDS-a61857545b63a8423b0d","vi":"Tạo vùng<CFFFD>thánh hồi HP<CFFFD>cho đồng minh<CFFFD>và gây sát<CFFFD>thương lên<CFFFD>Undead."}
+{"id":"RDS-6dc638ddd80ac1b5577a","vi":"Hồi sinh<CFFFD>đồng minh<CFFFD>đã gục; gây sát<CFFFD>thương lên<CFFFD>quái Undead."}
+{"id":"RDS-5ab3491d183723c62280","vi":"Tạo kết giới<CFFFD>bảo vệ mục<CFFFD>tiêu khỏi đòn<CFFFD>đánh vật<CFFFD>lý."}
+{"id":"RDS-473c10bae011fe21c21f","vi":"Tăng tốc độ<CFFFD>tự hồi<CFFFD>SP cho đồng<CFFFD>minh trong<CFFFD>vùng chọn."}
+{"id":"RDS-5d944934fed6f36b5fe9","vi":"Tăng LUCK cho<CFFFD>đồng<CFFFD>minh trong<CFFFD>vùng chọn."}
+{"id":"RDS-918572d2c351bcfcdd4a","vi":"Gây Silence cho<CFFFD>kẻ địch trong<CFFFD>vùng chọn."}
+{"id":"RDS-a7ea8df6a8e57e2c7c89","vi":"Mục tiêu chịu<CFFFD>sát thương gấp<CFFFD>đôi từ đòn đánh<CFFFD>kế tiếp."}
+{"id":"RDS-1200f2d33c6952df6638","vi":"Tạo tường<CFFFD>chắn mọi đòn<CFFFD>đánh tầm xa<CFFFD>trong vùng<CFFFD>chọn."}
+{"id":"RDS-b6e7526a63f4112de543","vi":"Triệu<CFFFD>hồi Grand<CFFFD>Cross gây sát<CFFFD>thương lên<CFFFD>Undead và<CFFFD>Demon."}
+{"id":"RDS-e1ca184991c9b6ad9c0c","vi":"Phóng luồng<CFFFD>năng lượng<CFFFD>xuyên thấu<CFFFD>theo hướng<CFFFD>chỉ định."}
+{"id":"RDS-1cfdb3b4fd830ff77230","vi":"Có cơ hội<CFFFD>đánh kép bằng<CFFFD>Dagger; trang<CFFFD>bị Katar<CFFFD>sẽ tăng<CFFFD>sát thương."}
+{"id":"RDS-970278c4aa9713c05e50","vi":"Tăng tỉ lệ né<CFFFD>đòn."}
+{"id":"RDS-96ef7f5b286919b33b71","vi":"Đánh cắp Item<CFFFD>từ quái vật<CFFFD>mục tiêu."}
+{"id":"RDS-94dfb6683889029910f6","vi":"Ẩn thân để né<CFFFD>đòn; Steal<CFFFD>cấp cao<CFFFD>cho phép di<CFFFD>chuyển<CFFFD>khi đang ẩn."}
+{"id":"RDS-c721cf9282beaee24e61","vi":"Tấn công<CFFFD>mục tiêu<CFFFD>và gây<CFFFD>Poison."}
+{"id":"RDS-03f485b6f39dc5058265","vi":"Chữa trạng thái<CFFFD>Poison cho mục<CFFFD>tiêu."}
+{"id":"RDS-64b9c04ea9032fb90556","vi":"Đòn đánh hệ<CFFFD>Earth có thể<CFFFD>gây Blind cho<CFFFD>mục tiêu."}
+{"id":"RDS-0bbb1e2b4c35fca932d1","vi":"Tăng sức<CFFFD>mạnh đòn<CFFFD>tay phải<CFFFD>khi cầm hai<CFFFD>vũ khí."}
+{"id":"RDS-8ef05cc2de373e945ff6","vi":"Tăng sức<CFFFD>mạnh đòn<CFFFD>tay trái<CFFFD>khi cầm hai<CFFFD>vũ khí."}
+{"id":"RDS-f80b1ac38eb99a8be1de","vi":"Tăng sát<CFFFD>thương<CFFFD>của vũ khí<CFFFD>Katar."}
+{"id":"RDS-f1d5ca70bfb5b6a700b0","vi":"Chỉ dùng với<CFFFD>Katar. Tung<CFFFD>tám đòn<CFFFD>liên tiếp và<CFFFD>gây Stun<CFFFD>cho mục tiêu."}
+{"id":"RDS-dfd9a3b0dfdb5555dee3","vi":"Chỉ dùng với<CFFFD>Katar khi<CFFFD>đang Stealth;<CFFFD>giảm tốc độ<CFFFD>di chuyển<CFFFD>của mục tiêu."}
+{"id":"RDS-5ab30c30e3517dcad36c","vi":"Ban khả năng<CFFFD>gây Poison<CFFFD>cho vũ<CFFFD>khí của mục<CFFFD>tiêu."}
+{"id":"RDS-2a7cfddccb94b41f2eee","vi":"Tạo mây độc<CFFFD>khiến<CFFFD>địch bước<CFFFD>vào phạm<CFFFD>vi bị<CFFFD>Poison."}
+{"id":"RDS-e6c6a9c45d06881914fe","vi":"Tăng ACR và<CFFFD>ATK của<CFFFD>Sonic Blow."}
+{"id":"RDS-a746156f04bf68f17f60","vi":"Gây sát thương<CFFFD>cực lớn và<CFFFD>Stun cho<CFFFD>địch trong<CFFFD>vùng chọn."}
+{"id":"RDS-2aef359409e93ab180d1","vi":"Phát tán độc<CFFFD>theo hướng<CFFFD>chỉ định."}
+{"id":"RDS-f8d0217401cf4a075f02","vi":"Tung chuỗi<CFFFD>nhát chém<CFFFD>xuyên<CFFFD>thấu mọi vật<CFFFD>trên đường theo<CFFFD>hướng đã chọn."}
+{"id":"RDS-c719016fdf4f5e865536","vi":"Tăng sức<CFFFD>chứa<CFFFD>tối đa<CFFFD>cho Item<CFFFD>và Card."}
+{"id":"RDS-d324339d6eadf2139320","vi":"Cho phép mua<CFFFD>Item trong cửa<CFFFD>hàng với giá<CFFFD>giảm."}
+{"id":"RDS-93278ec25727bad36f64","vi":"Cho phép bán<CFFFD>Item cho<CFFFD>cửa hàng<CFFFD>với giá cao<CFFFD>hơn."}
+{"id":"RDS-76bd3327fc49641d60a1","vi":"Ném Zeny vào<CFFFD>kẻ địch để<CFFFD>gây sát thương."}
+{"id":"RDS-25247d06aa511b888cd9","vi":"Tăng STR."}
+{"id":"RDS-820fe2d2bb8b3bb616b1","vi":"Dùng Cart tấn<CFFFD>công kẻ địch trong<CFFFD>vùng chọn."}
+{"id":"RDS-dc7dc1946631c616b08b","vi":"Tăng tỉ<CFFFD>lệ rèn vũ khí<CFFFD>thành công."}
+{"id":"RDS-98b5f63c8e2a96947123","vi":"Tăng tỉ lệ<CFFFD>quái vật<CFFFD>đánh<CFFFD>rơi Ore."}
+{"id":"RDS-a49e5f1aea21c7982399","vi":"Chế tạo Iron,<CFFFD>Steel và<CFFFD>Elemental Ore."}
+{"id":"RDS-47c37a68c68158a8ed2b","vi":"Tăng ACR<CFFFD>và DEX."}
+{"id":"RDS-5a7562bf3aacf49c0994","vi":"Tăng RES<CFFFD>trước phép hệ<CFFFD>Fire và phi<CFFFD>nguyên tố."}
+{"id":"RDS-4f64ebdd6525b0569e87","vi":"Chỉ dùng với Axe<CFFFD>hoặc Mace;<CFFFD>gây Stun cho<CFFFD>địch trong<CFFFD>vùng chọn."}
+{"id":"RDS-ea6c3fb3e30bbf3b702a","vi":"Tăng tốc độ<CFFFD>đánh của đồng<CFFFD>minh dùng<CFFFD>Mace hoặc<CFFFD>Axe trong<CFFFD>vùng chọn."}
+{"id":"RDS-5ea70dec0954c9f4f0f4","vi":"Tăng ATK cho<CFFFD>đồng minh dùng<CFFFD>Mace hoặc<CFFFD>Axe trong<CFFFD>vùng chọn."}
+{"id":"RDS-405140905517322e8473","vi":"Gây sát thương<CFFFD>tối đa<CFFFD>mỗi đòn đánh, nhưng tiêu<CFFFD>hao SP."}
+{"id":"RDS-e50e4c9e9632126a10ef","vi":"Giảm lượng Zeny<CFFFD>cần dùng<CFFFD>cho Mammonite."}
+{"id":"RDS-1a7169f9c91a7aa04b60","vi":"Tăng tốc độ đánh<CFFFD>cho đồng minh<CFFFD>trong<CFFFD>vùng chọn."}
+{"id":"RDS-bbf498f62525bebf8833","vi":"Chỉ dùng với<CFFFD>Axe;<CFFFD>lao theo<CFFFD>hướng chỉ<CFFFD>định và vung<CFFFD>rìu tấn công."}
+{"id":"RDS-ca3d0851f4e0321a81e0","vi":"Tạo địa<CFFFD>chấn theo<CFFFD>hướng chỉ<CFFFD>định."}
+{"id":"RDS-3ef02b1984e4392ec95d","vi":"Chỉ dùng khi<CFFFD>tay không;<CFFFD>tăng ATK."}
+{"id":"RDS-950188331e2fde33458d","vi":"Phải nạp đầy<CFFFD>mới dùng được;<CFFFD>xoay người<CFFFD>tung liên tiếp<CFFFD>nhiều cú đá<CFFFD>vào vùng chọn."}
+{"id":"RDS-74e3e3daa356d6fd589e","vi":"Đá bổ xuống<CFFFD>mục tiêu<CFFFD>và gây Stun."}
+{"id":"RDS-a4830bb0ed1b92556ae4","vi":"Xoay người<CFFFD>đá trúng địch<CFFFD>trong vùng chọn."}
+{"id":"RDS-b5cf0b5d7a292feea56a","vi":"Đá mục tiêu<CFFFD>bật<CFFFD>lên không<CFFFD>trung."}
+{"id":"RDS-c4aac8cadad9d803a876","vi":"Nhảy đá vào<CFFFD>kẻ địch mục tiêu."}
+{"id":"RDS-b749ebfcc11644f25050","vi":"Hồi HP."}
+{"id":"RDS-8f0b2115678fd7c18dcc","vi":"Hồi SP."}
+{"id":"RDS-de458356b24bb0536d00","vi":"Thay đổi nguyên tố của<CFFFD>đòn tấn công."}
+{"id":"RDS-1aad63d626d97e79a577","vi":"Giảm sát<CFFFD>thương từ quái<CFFFD>Solar; thay thế<CFFFD>Lunar Heat và<CFFFD>Stellar Heat."}
+{"id":"RDS-792dea86ec0112c11ff8","vi":"Giảm sát<CFFFD>thương từ quái<CFFFD>Lunar; thay thế<CFFFD>Solar Heat và<CFFFD>Stellar Heat."}
+{"id":"RDS-6fb2ea60cf634260109d","vi":"Giảm sát<CFFFD>thương từ quái<CFFFD>Stellar; thay thế<CFFFD>Solar Heat và<CFFFD>Lunar Heat."}
+{"id":"RDS-2a5ba8e9b8209af0761d","vi":"Tăng ATK khi<CFFFD>đánh quái Solar;<CFFFD>thay thế<CFFFD>Lunar Wrath và<CFFFD>Stellar Wrath."}
+{"id":"RDS-211f2437f49dc50b9754","vi":"Tăng ATK khi<CFFFD>đánh quái Lunar;<CFFFD>thay thế<CFFFD>Solar Wrath và<CFFFD>Stellar Wrath."}
+{"id":"RDS-8ba90e2b6b3168c4809d","vi":"Tăng ATK khi<CFFFD>đánh quái Stellar;<CFFFD>thay thế<CFFFD>Solar Wrath và<CFFFD>Lunar Wrath."}
+{"id":"RDS-e8b1bf3bb60e29818251","vi":"Chỉ dùng trong<CFFFD>Solar Day<CFFFD>(ngày số chẵn);<CFFFD>tăng DEF."}
+{"id":"RDS-aea5bb607e1960922cb7","vi":"Chỉ dùng trong<CFFFD>Lunar Day<CFFFD>(ngày số lẻ);<CFFFD>tăng EVD."}
+{"id":"RDS-b7c106583d6cc191a177","vi":"Chỉ dùng trong<CFFFD>Stellar Day (ngày<CFFFD>chia hết cho<CFFFD>3); tăng SPD."}
+{"id":"RDS-8495d11f0d48544b5fe2","vi":"Tăng<CFFFD>EXP khi hạ<CFFFD>quái Solar<CFFFD>vào Solar<CFFFD>Day (ngày<CFFFD>số chẵn)."}
+{"id":"RDS-54cd90876303e3558591","vi":"Tăng<CFFFD>EXP khi hạ<CFFFD>quái Lunar<CFFFD>vào Lunar<CFFFD>Day (ngày<CFFFD>số lẻ)."}
+{"id":"RDS-ceae1ad5865d196b1e7f","vi":"Tăng EXP<CFFFD>khi hạ quái<CFFFD>Stellar vào<CFFFD>Stellar Day<CFFFD>(ngày chia<CFFFD>hết cho 3)."}
+{"id":"RDS-6c0e9b9e989c9ee26914","vi":"Tấn công liên<CFFFD>tục bằng Axe Kick,<CFFFD>Round Kick và<CFFFD>Counter Kick."}
+{"id":"RDS-664a0060de3d235ab487","vi":"Tung liên<CFFFD>hoàn cước vào<CFFFD>một kẻ địch."}
+{"id":"RDS-87eccafd3cc9dbbdd03e","vi":"Phóng sóng<CFFFD>xung kích<CFFFD>xuyên thấu<CFFFD>theo<CFFFD>hướng chọn."}
+{"id":"RDS-2c0e334dfb87e042139a","vi":"Tăng ATK cho<CFFFD>Dagger và<CFFFD>Sword một tay."}
+{"id":"RDS-9c8e3b4dbcd27f1a0587","vi":"Tăng ATK cho<CFFFD>Sword hai tay."}
+{"id":"RDS-7e39dfdd5cd607e3fd11","vi":"Tăng ATK cho<CFFFD>Axe."}
+{"id":"RDS-c55d018df23a57ec2b63","vi":"Tăng CRT."}
+{"id":"RDS-086d586e4968a60b480c","vi":"Chặn đòn<CFFFD>tấn công<CFFFD>và tự động<CFFFD>phản kích."}
+{"id":"RDS-5cf08e41898b23d2f1c2","vi":"Tăng STR nhưng liên<CFFFD>tục tiêu hao HP<CFFFD>khi hiệu lực còn tác dụng."}
+{"id":"RDS-d0fa0b40b548bca56d49","vi":"Tăng SPD nhưng liên<CFFFD>tục tiêu hao HP<CFFFD>khi hiệu lực còn tác dụng."}
+{"id":"RDS-73bb92e52d04cfe88dda","vi":"Ban hiệu ứng<CFFFD>Blind cho vũ khí<CFFFD>mục tiêu."}
+{"id":"RDS-70367e9c219c77e59f75","vi":"Hút HP theo<CFFFD>lượng<CFFFD>sát thương<CFFFD>gây ra<CFFFD>cho địch."}
+{"id":"RDS-806a33a080444d550635","vi":"Cần Axe; tấn<CFFFD>công một mục<CFFFD>tiêu và gây<CFFFD>Stun."}
+{"id":"RDS-803aca3d4bc4ed92f9e3","vi":"Tấn công hệ<CFFFD>Blind vào vùng<CFFFD>chọn và khiến<CFFFD>mọi kẻ địch trong<CFFFD>đó bị Blind."}
+{"id":"RDS-68b242e9ecd5d50655ca","vi":"Tập trung<CFFFD>năng lượng hắc<CFFFD>ám vào vùng<CFFFD>chọn để gây<CFFFD>Confusion."}
+{"id":"RDS-27a292584bd9ea92f612","vi":"Cần Sword; phóng<CFFFD>sóng hắc ám<CFFFD>từ thanh<CFFFD>kiếm đang<CFFFD>cầm."}
+{"id":"RDS-22903712f595f5dabbab","vi":"Cần Sword; triệu<CFFFD>hồi kiếm bóng<CFFFD>tối tấn<CFFFD>công mục tiêu."}
+{"id":"RDS-252097197b6249590307","vi":"Cần Axe; tạo<CFFFD>sóng xung kích<CFFFD>cực mạnh vào<CFFFD>vùng chọn."}
+{"id":"RDS-cd15b247054e7dec1c5b","vi":"Hồi HP<CFFFD>cho mục tiêu."}
+{"id":"RDS-828a059deda5d6609c46","vi":"Hồi SP<CFFFD>cho mục tiêu."}
+{"id":"RDS-62f8f722d63721ecfb89","vi":"Tăng DEF<CFFFD>và RES của<CFFFD>mục tiêu."}
+{"id":"RDS-c8b0cd8c3953a1c34f2b","vi":"Hồi sinh đồng<CFFFD>minh đã gục."}
+{"id":"RDS-1b912832dd9e119f841a","vi":"Tăng MAG cho<CFFFD>mục tiêu."}
+{"id":"RDS-b141fe03368116ae3daa","vi":"Ban sức mạnh<CFFFD>Spirit cho<CFFFD>vũ khí của<CFFFD>mục tiêu."}
+{"id":"RDS-8520daa15346ac043d6f","vi":"Tăng sức mạnh<CFFFD>của các đòn<CFFFD>đánh hệ<CFFFD>Water."}
+{"id":"RDS-7d5ab619d031d36ad7b4","vi":"Tăng sức mạnh<CFFFD>của các đòn<CFFFD>đánh hệ<CFFFD>Wind."}
+{"id":"RDS-71d456752e9afc0a8694","vi":"Triệu hồi năng<CFFFD>lượng Spirit<CFFFD>từ lòng đất<CFFFD>đánh mục tiêu."}
+{"id":"RDS-dcec7f4ba1bd1617a866","vi":"Triệu hồi Fire<CFFFD>Spirit tấn công<CFFFD>và gây Confusion<CFFFD>cho mục tiêu."}
+{"id":"RDS-419cd1821e43f6b42844","vi":"Triệu hồi Earth<CFFFD>Spirit tấn công<CFFFD>và gây Petrify<CFFFD>cho mục tiêu."}
+{"id":"RDS-b64dac77c2bc0cfa3a41","vi":"Bao phủ mục<CFFFD>tiêu trong Water<CFFFD>Spirit và<CFFFD>gây Silence<CFFFD>cho kẻ địch."}
+{"id":"RDS-0ea524573783f161d064","vi":"Phóng Wind<CFFFD>Spirit vào<CFFFD>mục tiêu<CFFFD>và gây Sleep."}
+{"id":"RDS-d7e12500cad8fba69e7c","vi":"Triệu hồi<CFFFD>Grand Spirit<CFFFD>từ thiên giới<CFFFD>liên tục đánh<CFFFD>mục tiêu."}
+{"id":"RDS-c410b284fbd12513351e","vi":"Hồi một ít<CFFFD>HP cho<CFFFD>người thi triển."}
+{"id":"RDS-4f66e821f06c6622b7de","vi":"Chém<CFFFD>một mục<CFFFD>tiêu và đẩy<CFFFD>lùi."}
+{"id":"RDS-614c64ffd95ab8da2b84","vi":"<CFFEF>Sword Mastery<CFFF4> Lv. 5.<CFFFD>Tăng sát thương của Sword hai tay."}
+{"id":"RDS-1e4eed3a07dc289aa3b8","vi":"<CFFEF>Bash<CFFF4> Lv. 5.<CFFFD>Đòn đánh hệ Fire gây sát thương cho<CFFFD>mọi địch trong vùng chọn."}
+{"id":"RDS-66a1867bfac2fb2807a7","vi":"<CFFEF>Bash<CFFF4> Lv. 8.<CFFFD>Bash có thể gây Stun."}
+{"id":"RDS-b7db44665f14b8948c7e","vi":"<CFFEF>Spear Mastery<CFFF4> Lv. 3.<CFFFD>Chỉ dùng với<CFFFD>Spear; đánh một mục tiêu nhiều lần."}
+{"id":"RDS-6a89dd1cb348336dd046","vi":"<CFFEF>Pierce<CFFF4> Lv. 5.<CFFFD>Chỉ dùng với<CFFFD>Spear; đẩy lùi một kẻ địch."}
+{"id":"RDS-c90cb586be0ce61cb2d3","vi":"<CFFEF>Provoke<CFFF4> Lv. 5.<CFFFD><CFFEF>Spear Stab<CFFF4> Lv. 5.<CFFFD>Chỉ dùng với<CFFFD>Spear; quét thương gây sát<CFFFD>thương lên địch trong vùng."}
+{"id":"RDS-1df11a9450eb26cbd322","vi":"<CFFEF>Pierce<CFFF4> Lv. 3.<CFFFD>Chỉ dùng<CFFFD>với Spear; tấn<CFFFD>công từ xa."}
+{"id":"RDS-a0f35c201a8b6731a141","vi":"<CFFEF>2-handed Sword Mastery<CFFF4> Lv. 5.<CFFFD>Chỉ dùng với Sword hai<CFFFD>tay; tăng tốc độ đánh."}
+{"id":"RDS-4a1e679dc5558e83abce","vi":"<CFFEF>2-handed Sword Mastery<CFFF4> Lv. 8.<CFFFD>Tự động phản đòn<CFFFD>của kẻ địch."}
+{"id":"RDS-ba0c3b403fca6f9ebf64","vi":"<CFFEF>2-handed Quicken<CFFF4> Lv. 5.<CFFFD><CFFEF>Auto Counter<CFFF4> Lv. 5.<CFFFD><CFFEF>Magnum Break<CFFF4> Lv. 5.<CFFFD>Đẩy lùi một địch, gây sát thương<CFFFD>cho các địch khác bị va trúng."}
+{"id":"RDS-be8a1c7844707bfacebc","vi":"<CFFEF>Spear Mastery<CFFF4> Lv. 5.<CFFFD>Lao tới tức thì để tấn công<CFFFD>một kẻ địch ở xa."}
+{"id":"RDS-fddc90ade60694297ad9","vi":"<CFFEF>2-handed Quicken<CFFF4> Lv. 5.<CFFFD>Chỉ dùng với Sword một<CFFFD>tay; tăng tốc độ đánh."}
+{"id":"RDS-c69b924821669e824b74","vi":"<CFFEF>Bowling Bash<CFFF4> Lv. 8.<CFFFD><CFFEF>Fatal Blow<CFFF4> Lv. 5.<CFFFD>Tuyệt kỹ <CFFEF>Knight's Sprit<CFFF4>.<CFFFD>Chỉ dùng với<CFFFD>Sword; tung tuyệt kỹ kiếm<CFFFD>vào vùng chọn."}
+{"id":"RDS-18b92299d03d1e514b9a","vi":"<CFFEF>Brandish Spear<CFFF4> Lv. 8.<CFFFD><CFFEF>Charge Attack<CFFF4> Lv. 5.<CFFFD>Tuyệt kỹ <CFFEF>Knight's Sprit<CFFF4>.<CFFFD>Chỉ dùng với<CFFFD>Spear; tung tuyệt kỹ thương<CFFFD>hệ Fire vào vùng chọn."}
+{"id":"RDS-84d01294e92a16b9ac20","vi":"<CFFEF>Fire Bolt<CFFF4> Lv. 5.<CFFFD>Tạo tường lửa trong<CFFFD>vùng chọn."}
+{"id":"RDS-1f7b9d0a4cfbfac7a20e","vi":"<CFFEF>Cold Bolt<CFFF4> Lv. 5.<CFFFD>Tạo cột băng trong<CFFFD>vùng chọn."}
+{"id":"RDS-411c5371bbbca5692e2b","vi":"<CFFEF>Lightning Bolt<CFFF4> Lv. 5.<CFFFD>Dùng tia sét tấn<CFFFD>công nhiều mục tiêu."}
+{"id":"RDS-d8aedc8efb00e6216203","vi":"<CFFEF>Fire Wall<CFFF4> Lv. 1.<CFFFD><CFFEF>Frost Diver<CFFF4> Lv. 1.<CFFFD><CFFEF>Thunder Storm<CFFF4> Lv. 1.<CFFFD>Triệu hồi linh hồn cổ<CFFFD>đại tấn công mục tiêu."}
+{"id":"RDS-af19ac52a443c6ac2c79","vi":"<CFFEF>Soul Strike<CFFF4> Lv. 5.<CFFFD>Tạo tường phòng thủ tại<CFFFD>vị trí chọn."}
+{"id":"RDS-3497e98bf5eaced13a07","vi":"<CFFEF>Safety Wall<CFFF4> Lv. 8.<CFFFD>Tập trung năng<CFFFD>lượng quanh người để giảm<CFFFD>sát thương vật lý."}
+{"id":"RDS-0539f064b4c79fa912e1","vi":"<CFFEF>Fire Wall<CFFF4> Lv. 3.<CFFFD>Tạo cột lửa trong<CFFFD>vùng chọn."}
+{"id":"RDS-d40bfceb877e0d53c490","vi":"<CFFEF>Sight<CFFF4> Lv. 5.<CFFFD><CFFEF>Thunder Storm<CFFF4> Lv. 5.<CFFFD>Triệu hồi thiên thạch đánh mọi<CFFFD>kẻ địch trong vùng chọn."}
+{"id":"RDS-a84b2aa0adcfdbefb74a","vi":"<CFFEF>Thunder Storm<CFFF4> Lv. 3.<CFFFD>Đánh một mục tiêu<CFFFD>bằng quả cầu sét."}
+{"id":"RDS-a87590614d8dc44862a5","vi":"<CFFEF>Jupiter Thunder<CFFF4> Lv. 8.<CFFFD>Giáng đòn sét cực mạnh<CFFFD>xuống vùng chọn."}
+{"id":"RDS-f3c1ec06067a28ccc99f","vi":"<CFFEF>Frost Diver<CFFF4> Lv. 3.<CFFFD>Tạo tường băng trong<CFFFD>vùng chọn."}
+{"id":"RDS-115689c42129622fa94c","vi":"<CFFEF>Earth Spike<CFFF4> Lv. 3.<CFFFD>Dựng gai nhọn từ mặt đất<CFFFD>theo hướng chỉ định."}
+{"id":"RDS-11782e0b8d5751635e53","vi":"<CFFEF>Heaven's Drive<CFFF4> Lv. 5.<CFFFD>Giảm AGL, DEX và tốc độ<CFFFD>di chuyển của địch trong<CFFFD>vùng chọn."}
+{"id":"RDS-ec62eed05aaf538b1b58","vi":"<CFFEF>Ice Wall<CFFF4> Lv. 8.<CFFFD>Triệu hồi bão băng tấn công<CFFFD>địch trong vùng chọn."}
+{"id":"RDS-0a8d711378ac70114e1a","vi":"<CFFEF>Meteor Storm<CFFF4> Lv. 8.<CFFFD><CFFEF>Lord of Vermillion<CFFF4> Lv. 8.<CFFFD><CFFEF>Storm Gust<CFFF4> Lv. 8.<CFFFD>Tuyệt kỹ <CFFEF>Wizard's Spirit<CFFF4>.<CFFFD>Dùng phép phi nguyên tố cực mạnh<CFFFD>đánh vào địch trong vùng chọn."}
+{"id":"RDS-40043efb2066b890353e","vi":"<CFFEF>Owl's Eye<CFFF4> Lv. 3.<CFFFD>Tăng tầm bắn và ACR của Bow."}
+{"id":"RDS-2bea67f240138d0bfbfa","vi":"<CFFEF>Vulture's Eye<CFFF4> Lv. 3.<CFFFD>Tăng DEX và AGL của người thi triển."}
+{"id":"RDS-4dc2daee5d92cbf0f774","vi":"<CFFEF>Double Strafing<CFFF4> Lv. 5.<CFFFD>Bắn mưa Arrow<CFFFD>vào toàn bộ vùng chọn."}
+{"id":"RDS-3c1a15b3839b44b2ff5f","vi":"<CFFEF>Arrow Shower<CFFF4> Lv. 5.<CFFFD>Bắn đòn tầm xa cực<CFFFD>mạnh, đẩy lùi mục tiêu."}
+{"id":"RDS-24a198b2854959ed30f5","vi":"<CFFEF>Flasher<CFFF4> Lv. 1.<CFFFD>Bẫy gây sát thương hệ Water<CFFFD>cho địch đi vào phạm vi."}
+{"id":"RDS-ccc4154925245987e57a","vi":"<CFFEF>Flasher<CFFF4> Lv. 1.<CFFFD><CFFEF>Sandman<CFFF4> Lv. 1.<CFFFD><CFFEF>Freezing Trap<CFFF4> Lv. 1.<CFFFD>Bẫy gây sát thương hệ<CFFFD>Wind cho địch đi vào phạm vi."}
+{"id":"RDS-7170bc8c85c699cf2eef","vi":"<CFFEF>Blast Mine<CFFF4> Lv. 1.<CFFFD>Bẫy gây sát thương hệ<CFFFD>Fire cho địch đi vào phạm vi."}
+{"id":"RDS-73169f6862f556d399ca","vi":"<CFFEF>Land Mine<CFFF4> Lv. 1.<CFFFD>Gỡ bỏ bẫy được chọn."}
+{"id":"RDS-aae40090c72cae5f7566","vi":"<CFFEF>Charge Arrow<CFFF4> Lv. 5.<CFFFD>Bắn Arrow cực mạnh đẩy lùi một<CFFFD>mục tiêu và gây hiệu ứng<CFFFD>trạng thái."}
+{"id":"RDS-722f39295b0dfc56e847","vi":"<CFFEF>Improve Concentration<CFFF4> Lv. 3.<CFFFD><CFFEF>Blitz Beat<CFFF4> Lv. 3.<CFFFD>Ra lệnh cho Falcon phát hiện kẻ địch<CFFFD>đang ẩn nấp."}
+{"id":"RDS-c247b71516a97522b871","vi":"<CFFEF>Remove Trap<CFFF4> Lv. 1.<CFFFD><CFFEF>Blitz Beat<CFFF4> Lv. 5.<CFFFD>Ra lệnh cho Falcon kích<CFFFD>hoạt bẫy."}
+{"id":"RDS-0735cf5eab61e93f8a57","vi":"<CFFEF>Double Strafing<CFFF4> Lv. 8.<CFFFD><CFFEF>Charge Arrow<CFFF4> Lv. 5.<CFFFD>Tuyệt kỹ <CFFEF>Hunter's Spirit<CFFF4>.<CFFFD>Bắn Arrow liên tục theo<CFFFD>hướng đã chọn."}
+{"id":"RDS-af6a629066d78cceddee","vi":"<CFFEF>Improve Concentration<CFFF4> Lv. 8.<CFFFD><CFFEF>Spring Trap<CFFF4> Lv. 5.<CFFFD>Tuyệt kỹ <CFFEF>Hunter's Spirit<CFFF4>.<CFFFD>Chỉ dùng với<CFFFD>Dagger. Phối hợp Falcon tung<CFFFD>chuỗi đòn đánh nhanh."}
+{"id":"RDS-deb157b4f1a6b8120429","vi":"<CFFEF>Divine Protection<CFFF4> Lv. 1.<CFFFD>Tăng sát thương gây ra lên<CFFFD>quái Undead và Demon."}
+{"id":"RDS-d0b4c961d9b79e8a3c99","vi":"<CFFEF>Divine Protection<CFFF4> Lv. 3.<CFFFD>Tăng DEF của các thành viên Party<CFFFD>trong vùng chọn."}
+{"id":"RDS-4758a4bcd8abb6781306","vi":"<CFFEF>Divine Protection<CFFF4> Lv. 5.<CFFFD>Tăng mọi chỉ số của mục tiêu;<CFFFD>nếu dùng lên Undead hay Demon<CFFFD>thì các chỉ số bị giảm một nửa."}
+{"id":"RDS-2501e6324129fe83a281","vi":"<CFFEF>Heal<CFFF4> Lv. 3.<CFFFD>Chữa mọi trạng thái bất thường trừ<CFFFD>Poison, Undead và Curse."}
+{"id":"RDS-af6985ccd5c365949d7e","vi":"<CFFEF>Heal<CFFF4> Lv. 5.<CFFFD>Tăng AGL và tốc độ di chuyển<CFFFD>cho mục tiêu."}
+{"id":"RDS-a58b6261b0e60311a732","vi":"<CFFEF>Heal<CFFF4> Lv. 5.<CFFFD>Làm lộ kẻ địch ẩn<CFFFD>nấp; kẻ bị phát hiện<CFFFD>trúng đòn hệ Holy."}
+{"id":"RDS-627326b4f2a59c08e2d3","vi":"<CFFEF>Pneuma<CFFF4> Lv. 1.<CFFFD>Dịch chuyển tức thì về<CFFFD>thành phố từng ghé<CFFFD>trong cùng quốc gia."}
+{"id":"RDS-0252e6178e90cbffd35e","vi":"<CFFEF>Cure<CFFF4> Lv. 1.<CFFFD><CFFEF>Ruwach<CFFF4> Lv. 1.<CFFFD>Tạo kết giới chặn mọi đòn<CFFFD>đánh tầm xa quanh vùng chọn."}
+{"id":"RDS-203fbe6275c469455039","vi":"<CFFEF>Blessing<CFFF4> Lv. 5.<CFFFD><CFFEF>Increase Agility<CFFF4> Lv. 5.<CFFFD><CFFEF>Pneuma<CFFF4> Lv. 1.<CFFFD>Triệu hồi ánh sáng Holy tấn<CFFFD>công mục tiêu."}
+{"id":"RDS-6a426179375a5a72f598","vi":"<CFFEF>Impositio Manus<CFFF4> Lv. 3.<CFFFD>Ban thuộc tính Holy cho mục tiêu;<CFFFD>gây sát thương lên quái<CFFFD>Undead."}
+{"id":"RDS-0ac2471806116b6b697d","vi":"<CFFEF>Heal<CFFF4> Lv. 5.<CFFFD>Tạo vùng thánh hồi<CFFFD>HP cho đồng minh và<CFFFD>gây sát thương lên<CFFFD>Undead."}
+{"id":"RDS-0aa4875d5cef029b902b","vi":"<CFFEF>SP Recovery UP<CFFF4> Lv. 5.<CFFFD><CFFEF>Cure<CFFF4> Lv. 1.<CFFFD>Hồi sinh đồng minh đã<CFFFD>gục; gây sát thương lên quái<CFFFD>Undead."}
+{"id":"RDS-bf06083cf46136870528","vi":"<CFFEF>Angelus<CFFF4> Lv. 3.<CFFFD>Tạo kết giới bảo vệ mục<CFFFD>tiêu khỏi đòn đánh vật<CFFFD>lý."}
+{"id":"RDS-49e87c38e842789ce782","vi":"<CFFEF>Magnificat<CFFF4> Lv. 3.<CFFFD><CFFEF>Kyrie Eleison<CFFF4> Lv. 3.<CFFFD>Tăng LUCK cho đồng minh trong<CFFFD>vùng chọn."}
+{"id":"RDS-76d5de773b99e8d660dc","vi":"<CFFEF>Ruwach<CFFF4> Lv. 1.<CFFFD>Gây Silence cho kẻ địch<CFFFD>trong vùng chọn."}
+{"id":"RDS-03871d2a8bf1cbb18590","vi":"<CFFEF>Lex Divina<CFFF4> Lv. 5.<CFFFD>Mục tiêu chịu sát thương gấp<CFFFD>đôi từ đòn đánh kế tiếp."}
+{"id":"RDS-da9cfc90e67c686adcef","vi":"<CFFEF>Aspersio<CFFF4> Lv. 5.<CFFFD><CFFEF>Sanctuary<CFFF4> Lv. 5.<CFFFD>Tạo tường chắn mọi đòn<CFFFD>đánh tầm xa trong vùng chọn."}
+{"id":"RDS-4a9b350c05489407e35a","vi":"<CFFEF>Resurrection<CFFF4> Lv. 5.<CFFFD><CFFEF>Safety Wall<CFFF4> Lv. 5.<CFFFD>Triệu hồi Grand Cross gây<CFFFD>sát thương lên Undead<CFFFD>và Demon."}
+{"id":"RDS-4d1adeb52048d6671ca0","vi":"<CFFEF>Holy Light<CFFF4> Lv. 5.<CFFFD><CFFEF>Magnus Exorcismus<CFFF4> Lv. 8.<CFFFD>Tuyệt kỹ <CFFEF>Priest's Spirit<CFFF4>.<CFFFD>Phóng luồng năng lượng xuyên thấu<CFFFD>theo hướng chỉ định."}
+{"id":"RDS-eb3f094f6bbd08ee8999","vi":"<CFFEF>Steal<CFFF4> Lv. 5.<CFFFD>Ẩn thân để né đòn; Steal<CFFFD>cấp cao cho phép di<CFFFD>chuyển khi đang ẩn."}
+{"id":"RDS-0a7ac566f8e6d15219e1","vi":"<CFFEF>Envenom<CFFF4> Lv. 3.<CFFFD>Chữa trạng thái Poison cho mục tiêu."}
+{"id":"RDS-c98634bd4d3097be14b2","vi":"<CFFEF>Stealth<CFFF4> Lv. 3.<CFFFD>Đòn đánh hệ Earth có thể gây<CFFFD>Blind cho mục tiêu."}
+{"id":"RDS-e61aa91fd6c8a7fc8915","vi":"<CFFEF>Right-Hand Mastery<CFFF4> Lv. 3.<CFFFD>Tăng sức mạnh đòn tay trái<CFFFD>khi cầm hai vũ khí."}
+{"id":"RDS-b04e723498eea7882739","vi":"<CFFEF>Katar Mastery<CFFF4> Lv. 5.<CFFFD>Chỉ dùng với<CFFFD>Katar. Tung tám đòn liên tiếp<CFFFD>và gây Stun cho mục tiêu."}
+{"id":"RDS-e587340878e41451362f","vi":"<CFFEF>Stealth<CFFF4> Lv. 5.<CFFFD><CFFEF>Sonic Blow<CFFF4> Lv. 5.<CFFFD>Chỉ dùng với<CFFFD>Katar khi đang Stealth;<CFFFD>giảm tốc độ di chuyển của mục tiêu."}
+{"id":"RDS-2d8f10159e14682e7204","vi":"<CFFEF>Envenom<CFFF4> Lv. 5.<CFFFD>Ban khả năng gây Poison<CFFFD>cho vũ khí của mục tiêu."}
+{"id":"RDS-a145e4692e673addfb9e","vi":"<CFFEF>Enchant Poison<CFFF4> Lv. 5.<CFFFD>Tạo mây độc khiến địch bước<CFFFD>vào phạm vi bị Poison."}
+{"id":"RDS-39507a19bf0d8ef18143","vi":"<CFFEF>Sonic Blow<CFFF4> Lv. 5.<CFFFD><CFFEF>Venom Dust<CFFF4> Lv. 5.<CFFFD>Tăng ACR và ATK của<CFFFD>Sonic Blow."}
+{"id":"RDS-413456e9a0690445f517","vi":"<CFFEF>Grimtooth<CFFF4> Lv. 8.<CFFFD><CFFEF>Venom Dust<CFFF4> Lv. 8.<CFFFD>Tuyệt kỹ <CFFEF>Assassin's Spirit<CFFF4>.<CFFFD>Gây sát thương cực lớn và<CFFFD>Stun cho địch trong vùng chọn."}
+{"id":"RDS-75b3dd2e808d27f1a012","vi":"<CFFEF>Stealth<CFFF4> Lv. 8.<CFFFD><CFFEF>Sonic Blow<CFFF4> Lv. 8.<CFFFD>Tuyệt kỹ <CFFEF>Assassin's Spirit<CFFF4>.<CFFFD>Tung chuỗi nhát chém xuyên<CFFFD>thấu mọi vật trên đường theo<CFFFD>hướng đã chọn."}
+{"id":"RDS-4593595e2766e92c1108","vi":"<CFFEF>Discount<CFFF4> Lv. 3.<CFFFD>Cho phép bán Item cho cửa hàng với<CFFFD>giá cao hơn."}
+{"id":"RDS-0831595351cec6dc8fe5","vi":"<CFFEF>Mammonite<CFFF4> Lv. 3.<CFFFD>Tăng STR."}
+{"id":"RDS-d348603cd3395791911a","vi":"<CFFEF>Crazy Uproar<CFFF4> Lv. 3.<CFFFD>Dùng Cart tấn công kẻ địch trong<CFFFD>vùng chọn."}
+{"id":"RDS-90ead7eeb8a634e72c33","vi":"<CFFEF>Hilt Binding<CFFF4> Lv. 1.<CFFFD>Tăng ACR và DEX."}
+{"id":"RDS-8d188bf8b24e395dbad6","vi":"<CFFEF>Hammer Fall<CFFF4> Lv. 3.<CFFFD>Tăng tốc độ đánh của đồng<CFFFD>minh dùng Mace hoặc Axe trong<CFFFD>vùng chọn."}
+{"id":"RDS-32450c34b8d7b1de3dbb","vi":"<CFFEF>Adrenaline Rush<CFFF4> Lv. 3.<CFFFD>Tăng ATK cho đồng minh dùng<CFFFD>Mace hoặc Axe trong vùng chọn."}
+{"id":"RDS-a5c7b60c2dc39bb23d5d","vi":"<CFFEF>Over Thrust<CFFF4> Lv. 3.<CFFFD>Gây sát thương tối đa mỗi đòn<CFFFD>đánh, nhưng tiêu hao SP."}
+{"id":"RDS-45b2d24bec0be9e2979d","vi":"<CFFEF>Mammonite<CFFF4> Lv. 5.<CFFFD>Giảm phí Zeny của Mammonite."}
+{"id":"RDS-5481873793e457bc6586","vi":"<CFFEF>Adrenaline Rush<CFFF4> Lv. 5.<CFFFD><CFFEF>Maximize Power<CFFF4> Lv. 5.<CFFFD>Tăng tốc độ đánh cho đồng minh<CFFFD>trong vùng chọn."}
+{"id":"RDS-418ff9c6ed4b7e60a24f","vi":"<CFFEF>Weapon Research<CFFF4> Lv. 8.<CFFFD><CFFEF>Full Adrenaline Rush<CFFF4> Lv. 8.<CFFFD>Tuyệt kỹ <CFFEF>Blacksmith's Spirit<CFFF4>.<CFFFD>Chỉ dùng với Axe; lao<CFFFD>theo hướng chỉ<CFFFD>định và vung rìu tấn công."}
+{"id":"RDS-022f22bc632b057b9fb1","vi":"<CFFEF>Crazy Uproar<CFFF4> Lv. 8.<CFFFD><CFFEF>Hammer Fall<CFFF4> Lv. 8.<CFFFD>Tuyệt kỹ <CFFEF>Blacksmith's Spirit<CFFF4>.<CFFFD>Tạo địa chấn theo<CFFFD>hướng chỉ định."}
+{"id":"RDS-66777ca79faf154d4d9d","vi":"<CFFEF>Peaceful Rest<CFFF4> Lv. 5.<CFFFD><CFFEF>Enjoyable Rest<CFFF4> Lv. 5.<CFFFD>Thay đổi nguyên tố của đòn tấn công."}
+{"id":"RDS-e034d4636affb98c5d37","vi":"<CFFEF>Solar Heat<CFFF4> Lv. 1.<CFFFD>Tăng ATK khi đánh quái Solar;<CFFFD>thay thế Lunar<CFFFD>Wrath và Stellar Wrath."}
+{"id":"RDS-f7a51522950a88dd9eca","vi":"<CFFEF>Lunar Heat<CFFF4> Lv. 1.<CFFFD>Tăng ATK khi đánh quái Lunar;<CFFFD>thay thế Solar<CFFFD>Wrath và Stellar Wrath."}
+{"id":"RDS-4309be9e2522771034ad","vi":"<CFFEF>Stellar Heat<CFFF4> Lv. 1.<CFFFD>Tăng ATK khi đánh quái Stellar;<CFFFD>thay thế Solar<CFFFD>Wrath và Lunar Wrath."}
+{"id":"RDS-6fad57eaf999b2c842b7","vi":"<CFFEF>Solar Wrath<CFFF4> Lv. 1.<CFFFD>Chỉ dùng trong Solar Day<CFFFD>(ngày số chẵn);<CFFFD>tăng DEF."}
+{"id":"RDS-4ec6a9b569f77c1c0db9","vi":"<CFFEF>Lunar Wrath<CFFF4> Lv. 1.<CFFFD>Chỉ dùng trong Lunar<CFFFD>Day (ngày số lẻ);<CFFFD>tăng EVD."}
+{"id":"RDS-576ed3189d7c14242c1e","vi":"<CFFEF>Stellar Wrath<CFFF4> Lv. 1.<CFFFD>Chỉ dùng trong Stellar Day<CFFFD>(ngày chia hết cho<CFFFD>3); tăng SPD."}
+{"id":"RDS-d3a90dd8f68eb280f141","vi":"<CFFEF>Solar Heat<CFFF4> Lv. 3.<CFFFD><CFFEF>Solar Wrath<CFFF4> Lv. 3.<CFFFD><CFFEF>Solar Protection<CFFF4> Lv. 3.<CFFFD>Tăng EXP khi hạ<CFFFD>quái Solar vào Solar<CFFFD>Day (ngày số chẵn)."}
+{"id":"RDS-36e7592e47e30bec08d7","vi":"<CFFEF>Lunar Heat<CFFF4> Lv. 3.<CFFFD><CFFEF>Lunar Wrath<CFFF4> Lv. 3.<CFFFD><CFFEF>Lunar Protection<CFFF4> Lv. 3.<CFFFD>Tăng EXP khi hạ<CFFFD>quái Lunar vào Lunar<CFFFD>Day (ngày số lẻ)."}
+{"id":"RDS-222d6ad5ad4404f8dbfd","vi":"<CFFEF>Stellar Heat<CFFF4> Lv. 3.<CFFFD><CFFEF>Stellar Wrath<CFFF4> Lv. 3.<CFFFD><CFFEF>Stellar Protection<CFFF4> Lv. 3.<CFFFD>Tăng EXP khi hạ quái<CFFFD>Stellar vào Stellar Day<CFFFD>(ngày chia hết cho 3)."}
+{"id":"RDS-3567e4865902dd46f4f5","vi":"<CFFEF>Whirlwind Kick<CFFF4>, <CFFEF>Axe Kick<CFFF4>,<CFFFD><CFFEF>Round Kick<CFFF4>, and <CFFEF>Counter Kick<CFFF4> Lv. 5.<CFFFD>Tung liên hoàn cước vào<CFFFD>một kẻ địch."}
+{"id":"RDS-51c9cb1298e6346cab98","vi":"<CFFEF>Warm Wind<CFFF4> Lv. 4.<CFFFD><CFFEF>Solar Protection<CFFF4>, <CFFEF>Lunar Protection<CFFF4>,<CFFFD>and <CFFEF>Stellar Protection<CFFF4> Lv. 5.<CFFFD>Tuyệt kỹ <CFFEF>Taekwon Master's Spirit<CFFF4>.<CFFFD>Phóng sóng xung kích xuyên<CFFFD>thấu theo hướng chọn."}
+{"id":"RDS-3c85c3f1e1d42916c7bc","vi":"<CFFEF>Sword Mastery<CFFF4> Lv. 1.<CFFFD>Tăng ATK cho Sword hai tay."}
+{"id":"RDS-146ef2876a3460dcb65d","vi":"<CFFEF>Sword Mastery<CFFF4> Lv. 3.<CFFFD><CFFEF>2-handed Sword Mastery<CFFF4> Lv. 3.<CFFFD>Tăng ATK cho Axe."}
+{"id":"RDS-f3480b78c76462e30247","vi":"<CFFEF>Sword Mastery<CFFF4> Lv. 5.<CFFFD><CFFEF>2-handed Sword Mastery<CFFF4> Lv. 5.<CFFFD><CFFEF>Axe Mastery<CFFF4> Lv. 5.<CFFFD>Tăng CRT."}
+{"id":"RDS-1b76c9c9bfb6ccf5ce76","vi":"<CFFEF>2-handed Sword Mastery<CFFF4> Lv. 8.<CFFFD>Chặn đòn tấn công và<CFFFD>tự động phản kích."}
+{"id":"RDS-d9c19207a98e4b658625","vi":"<CFFEF>Critical Rate UP<CFFF4> Lv. 5.<CFFFD>Tăng STR nhưng liên tục tiêu<CFFFD>hao HP khi hiệu lực còn tác dụng."}
+{"id":"RDS-e696e1eb0f88def06c91","vi":"<CFFEF>Dark Breath<CFFF4> Lv. 3.<CFFFD>Tăng SPD nhưng liên tục tiêu<CFFFD>hao HP khi hiệu lực còn tác dụng."}
+{"id":"RDS-def07323fd9bda88b573","vi":"<CFFEF>Bloody Crash<CFFF4> Lv. 3.<CFFFD>Cần Axe; tấn<CFFFD>công một mục tiêu và gây Stun."}
+{"id":"RDS-5b004a556ad146d855b5","vi":"<CFFEF>Guillotine<CFFF4> Lv. 5.<CFFFD>Tấn công hệ Blind vào vùng<CFFFD>chọn và khiến mọi kẻ địch trong<CFFFD>đó bị Blind."}
+{"id":"RDS-a62e3d9f726ddb8f0ae6","vi":"<CFFEF>Genocide<CFFF4> Lv. 5.<CFFFD>Tập trung năng lượng hắc ám vào<CFFFD>vùng chọn để gây Confusion."}
+{"id":"RDS-f3f33040c26b44eb0dc9","vi":"<CFFEF>Chaos<CFFF4> Lv. 5.<CFFFD>Cần Sword;<CFFFD>phóng sóng hắc ám từ<CFFFD>thanh kiếm đang cầm."}
+{"id":"RDS-694db1ee2f737bedd26b","vi":"<CFFEF>Sword Mastery<CFFF4> Lv. 5.<CFFFD><CFFEF>2-handed Sword Mastery<CFFF4> Lv. 5.<CFFFD><CFFEF>Blind Wave<CFFF4> Lv. 5.<CFFFD>Tuyệt kỹ <CFFEF>Dark Spirit<CFFF4>.<CFFFD>Cần Sword; triệu hồi kiếm<CFFFD>bóng tối tấn công mục tiêu."}
+{"id":"RDS-5dc1d7d91f1f5fa07b11","vi":"<CFFEF>Axe Mastery<CFFF4> Lv. 5.<CFFFD><CFFEF>Dark Weapon<CFFF4> Lv. 5.<CFFFD><CFFEF>Guillotine<CFFF4> Lv. 5.<CFFFD>Tuyệt kỹ <CFFEF>Dark Spirit<CFFF4>.<CFFFD>Cần Axe; tạo sóng xung kích<CFFFD>cực mạnh vào vùng chọn."}
+{"id":"RDS-06ef248f6377a3f55eee","vi":"<CFFEF>Spiritual Comfort<CFFF4> Lv. 3.<CFFFD>Hồi SP cho mục tiêu."}
+{"id":"RDS-70245a396aedea75a4c8","vi":"<CFFEF>Spiritual Blessing<CFFF4> Lv. 3.<CFFFD>Tăng DEF và RES của mục tiêu."}
+{"id":"RDS-8e964b5fa9960a7e6303","vi":"<CFFEF>Spiritual Comfort<CFFF4> Lv. 5.<CFFFD><CFFEF>Spiritual Blessing<CFFF4> Lv. 5.<CFFFD>Hồi sinh đồng minh đã gục."}
+{"id":"RDS-0597baf8a609548730e7","vi":"<CFFEF>Spiritual Protection<CFFF4> Lv. 5.<CFFFD>Tăng MAG cho mục tiêu."}
+{"id":"RDS-c75a672bbbef9d78d76a","vi":"<CFFEF>Spiritual Wrath<CFFF4> Lv. 3.<CFFFD>Ban sức mạnh Spirit<CFFFD>cho vũ khí của mục tiêu."}
+{"id":"RDS-3013a0fe30ff47640451","vi":"<CFFEF>Auto Heal<CFFF4> Lv. 5.<CFFFD>Tăng sức mạnh của các đòn<CFFFD>đánh hệ Water."}
+{"id":"RDS-9772ac4f347cecdd97fb","vi":"<CFFEF>Rain Dance<CFFF4> Lv. 3.<CFFFD>Tăng sức mạnh của các<CFFFD>đòn đánh hệ Wind."}
+{"id":"RDS-3f2ab6ad4283c5da3666","vi":"<CFFEF>Summon<CFFF4> Lv. 5.<CFFFD>Triệu hồi Fire Spirit tấn công<CFFFD>và gây Confusion cho mục tiêu."}
+{"id":"RDS-2e3f806af67db36ead56","vi":"<CFFEF>Summon<CFFF4> Lv. 5.<CFFFD>Triệu hồi Earth Spirit tấn<CFFFD>công và gây Petrify cho mục tiêu."}
+{"id":"RDS-c63b23fca809f12cd050","vi":"<CFFEF>Rain Dance<CFFF4> Lv. 3.<CFFFD><CFFEF>Summon<CFFF4> Lv. 3.<CFFFD>Bao phủ mục tiêu trong Water Spirit<CFFFD>và gây Silence cho kẻ địch."}
+{"id":"RDS-639c0f3f1715b6b7220b","vi":"<CFFEF>Southeast Wind<CFFF4> Lv. 3.<CFFFD><CFFEF>Summon<CFFF4> Lv. 3.<CFFFD>Phóng Wind Spirit vào<CFFFD>mục tiêu và gây Sleep."}
+{"id":"RDS-053a8ebdae76e65a93a6","vi":"<CFFEF>Spirit of Fire<CFFF4>, <CFFEF>Spirit of Earth<CFFF4>,<CFFFD><CFFEF>Spirit of Water<CFFF4>, and <CFFEF>Spirit of Wind<CFFF4> Lv. 5.<CFFFD>Tuyệt kỹ <CFFEF>Shaman's Spirit<CFFF4>.<CFFFD>Triệu hồi Grand Spirit từ<CFFFD>thiên giới liên tục đánh<CFFFD>mục tiêu."}
+{"id":"RDS-43df45f1408f75768e23","vi":"Skill bị động"}
+{"id":"RDS-96fe52dc67c174449429","vi":"Chém kẻ địch"}
+{"id":"RDS-2d993858e881767e6676","vi":"Chạm mục tiêu"}
+{"id":"RDS-9fbcd6c4efff45b3b05a","vi":"Chạm vào vùng"}
+{"id":"RDS-fa9f1ad0c3369fc26e21","vi":"Chạm đồng minh"}
+{"id":"RDS-73499a133b9f7006e9ba","vi":"Chạm bản thân"}
+{"id":"RDS-c27347175dd136441abd","vi":"Giữ để nạp"}
+{"id":"RDS-2dcb865bf23a36cef781","vi":"Giữ rồi thả"}
+{"id":"RDS-965960fe853585aa510b","vi":"Giữ chọn vị trí"}
+{"id":"RDS-48a3f1120e0020d2abb5","vi":"Giữ chọn hướng"}
+{"id":"RDS-8fdc897a5e9745ce6a9e","vi":"Giữ chọn vùng"}
+{"id":"RDS-e2cf68ab8ab62a6404f1","vi":"Giữ rồi chọn"}
+{"id":"RDS-9628e94ade3bd0701328","vi":"Chạm kẻ địch"}
+{"id":"RDS-61e45c15e40d81d487e9","vi":"Chạm bẫy"}
+{"id":"RDS-12a1cf03e58707a5dcd4","vi":"Chạm vị trí"}
+{"id":"RDS-a74302eb25405fae400a","vi":"Vẽ đường dưới đất"}
+{"id":"RDS-d41a3d4ced16ff5da8bf","vi":"Vẽ vòng trên đất"}
+{"id":"RDS-75f7b3bce7fd0261a9a4","vi":"Chạm vào chỗ bất kỳ"}
+{"id":"RDS-247725afe3bf3138655d","vi":"Nạp tối đa"}
+{"id":"RDS-26a995c1943479fe787d","vi":"Sword Mastery"}
+{"id":"RDS-5ea79afef4f6bbb2154f","vi":"2-Hand Sword Mastery"}
+{"id":"RDS-f55fe490c2a90803b3d5","vi":"HP Recovery UP"}
+{"id":"RDS-2ae5ac9b055f8c939914","vi":"Bash"}
+{"id":"RDS-bb8518503e32e1625ccc","vi":"Magnum Break"}
+{"id":"RDS-c2242e18cf5addc7342f","vi":"Provoke"}
+{"id":"RDS-ca3b04e18e84c53a0c65","vi":"Fatal Blow"}
+{"id":"RDS-fdc823707e561122ead1","vi":"Moving HP Recovery"}
+{"id":"RDS-20188999470f49812728","vi":"Spear Mastery"}
+{"id":"RDS-069b326337eb871e08c1","vi":"Pierce"}
+{"id":"RDS-432159935945a0d7b159","vi":"Spear Stab"}
+{"id":"RDS-21fe2951b2efe7f95353","vi":"Brandish Spear"}
+{"id":"RDS-c22344c7bd2c7b523c50","vi":"Spear Boomerang"}
+{"id":"RDS-2910a24c4739240ffa05","vi":"2-Hand Quicken"}
+{"id":"RDS-eec6a5d5b8b58d4498fa","vi":"Auto Counter"}
+{"id":"RDS-ad8a420f3853c9146fc9","vi":"Bowling Bash"}
+{"id":"RDS-2cc70cb663c365125061","vi":"Charge Attack"}
+{"id":"RDS-9f619f2f1379acdb3a5a","vi":"1-Hand Quicken"}
+{"id":"RDS-00deb27ff0d832ff7260","vi":"Shining Sword"}
+{"id":"RDS-929212a9eeeb6e7a4515","vi":"Flame Burst"}
+{"id":"RDS-6e2860b25ba8b74081f2","vi":"SP Recovery UP"}
+{"id":"RDS-2dc4daceb5086f47fb51","vi":"Sight"}
+{"id":"RDS-996f7c0ecc17166c29b5","vi":"Fire Bolt"}
+{"id":"RDS-cfe8cb44008c8ecaab2d","vi":"Fire Wall"}
+{"id":"RDS-a4c619bae60ea9f9c89e","vi":"Cold Bolt"}
+{"id":"RDS-63c12f1e388361c71973","vi":"Frost Diver"}
+{"id":"RDS-d9f0dd05894be9f87a33","vi":"Lightning Bolt"}
+{"id":"RDS-51a0510a9f4aff2004b3","vi":"Thunder Storm"}
+{"id":"RDS-f003877fd9338819fb2d","vi":"Soul Strike"}
+{"id":"RDS-30d7930972ce7c8ca982","vi":"Safety Wall"}
+{"id":"RDS-18a91e19fd94f8508e2c","vi":"Energy Coat"}
+{"id":"RDS-8d7997a5c7a676c7a681","vi":"Fire Pillar"}
+{"id":"RDS-a86499685b2a07b8028c","vi":"Meteor Storm"}
+{"id":"RDS-43abcff59813d98fef38","vi":"Jupiter Thunder"}
+{"id":"RDS-e746ce2b1c1ac0fc9902","vi":"Lord of Vermillion"}
+{"id":"RDS-6b297633103305972112","vi":"Ice Wall"}
+{"id":"RDS-7e56379bc8345bcebbe1","vi":"Earth Spike"}
+{"id":"RDS-ebfaba38161d58c216ec","vi":"Heaven's Drive"}
+{"id":"RDS-c512e5ab7de69a52a780","vi":"Quagmire"}
+{"id":"RDS-fd37f6195620de36f01b","vi":"Monster Property"}
+{"id":"RDS-1b32e491d9798a6451a5","vi":"Storm Gust"}
+{"id":"RDS-eab39e93433fbff74b97","vi":"Doomsday"}
+{"id":"RDS-2f059085a92fdab93c47","vi":"Owl's Eye"}
+{"id":"RDS-316cab761668c0189fd6","vi":"Vulture's Eye"}
+{"id":"RDS-ed4e3c65a1d8f4f45ee8","vi":"Improve Concentration"}
+{"id":"RDS-60ce2946f7285f9e8d45","vi":"Double Strafing"}
+{"id":"RDS-4517425b443c7b9ed275","vi":"Arrow Shower"}
+{"id":"RDS-8e412573e6e2b3d295f1","vi":"Arrow Crafting"}
+{"id":"RDS-7fd1260361936f74ab26","vi":"Charge Arrow"}
+{"id":"RDS-41988f8bb5b8417da346","vi":"Beast Bane"}
+{"id":"RDS-de202eb44815d7d072d5","vi":"Land Mine"}
+{"id":"RDS-87aaac7cc0e601da0076","vi":"Ankle Snare"}
+{"id":"RDS-4699524d3c1faddf1638","vi":"Flasher"}
+{"id":"RDS-86b64b2eddf7c9a197dd","vi":"Freezing Trap"}
+{"id":"RDS-6055e0c833137e0eb87d","vi":"Sandman"}
+{"id":"RDS-3a602a5462a36ad36bd1","vi":"Blast Mine"}
+{"id":"RDS-1240e3552ab4d5e5d462","vi":"Claymore Trap"}
+{"id":"RDS-d8ffc71e23b7875ad9ee","vi":"Remove Trap"}
+{"id":"RDS-2fbf34132b85560d09d2","vi":"Phantasmic Arrow"}
+{"id":"RDS-5f45c56f81d58107aca3","vi":"Blitz Beat"}
+{"id":"RDS-d12a6f74fde2e8961ceb","vi":"Detecting"}
+{"id":"RDS-530b3d205eaa06ea8869","vi":"Spring Trap"}
+{"id":"RDS-09ea0928f7bd901b1de4","vi":"Machine Gun Arrow"}
+{"id":"RDS-b1274153e9b94dd2940c","vi":"Penetration"}
+{"id":"RDS-8fe362b2257a8e9cc5d3","vi":"Falcon Arrow"}
+{"id":"RDS-add3a7432908c304d503","vi":"Divine Protection"}
+{"id":"RDS-49375e6e24a7880cebac","vi":"Demon Bane"}
+{"id":"RDS-03ce80bb62ed346434a9","vi":"Angelus"}
+{"id":"RDS-a9a2e2f512645c271da4","vi":"Blessing"}
+{"id":"RDS-d67aa29c72959cca7123","vi":"Heal"}
+{"id":"RDS-440fab6cc03b1a3bf170","vi":"Cure"}
+{"id":"RDS-5576ed07ac640529e77c","vi":"Increase Agility"}
+{"id":"RDS-007f39f1bb7b3472a271","vi":"Ruwach"}
+{"id":"RDS-9ff9116a26aa3697f03a","vi":"Teleportation"}
+{"id":"RDS-30c787236644383d0c85","vi":"Pneuma"}
+{"id":"RDS-13c2ee8b26ab1d229246","vi":"Holy Light"}
+{"id":"RDS-e60d81e458ec0c157cab","vi":"Mace Mastery"}
+{"id":"RDS-f78e113f0c750350975f","vi":"Impositio Manus"}
+{"id":"RDS-0d48dd87fdd8d3373094","vi":"Aspersio"}
+{"id":"RDS-c5b3bbda5917e45e6999","vi":"Sanctuary"}
+{"id":"RDS-b8fe43ac1b2a8883cff2","vi":"Resurrection"}
+{"id":"RDS-0aef97de4dd48238d374","vi":"Kyrie Eleison"}
+{"id":"RDS-8da9c8a5e3740294913e","vi":"Magnificat"}
+{"id":"RDS-a2cd7cdd371cd8650a95","vi":"Gloria"}
+{"id":"RDS-a1be7ac6359e6a8d1146","vi":"Lex Divina"}
+{"id":"RDS-7e9a4bc5c8baaedf3df3","vi":"Lex Aeterna"}
+{"id":"RDS-e4b0ce2246e9dbceb100","vi":"Magnus Exorcismus"}
+{"id":"RDS-b7f1bf598d7a0cd30146","vi":"Maelstrom"}
+{"id":"RDS-57140cb36978bc54078a","vi":"Double Attack"}
+{"id":"RDS-1da0d580a5b84e0a4ef7","vi":"Increase Evasion"}
+{"id":"RDS-cd81aa2a25fd8d982378","vi":"Steal"}
+{"id":"RDS-b50caf674dfd1c95a581","vi":"Stealth"}
+{"id":"RDS-a16f2ed4957891d712bc","vi":"Envenom"}
+{"id":"RDS-3276b64ac6324a8fd305","vi":"Detoxify"}
+{"id":"RDS-26293fbf7cedf066f741","vi":"Sand Attack"}
+{"id":"RDS-64c20fdd73680e8ab07b","vi":"Right-Hand Mastery"}
+{"id":"RDS-cfac034d4541f0ddc4c7","vi":"Left-Hand Mastery"}
+{"id":"RDS-e54ea0911093873e6c07","vi":"Katar Mastery"}
+{"id":"RDS-36d6a877a7cc7e9e0e73","vi":"Sonic Blow"}
+{"id":"RDS-7f3e6c959df6d742ce0a","vi":"Grimtooth"}
+{"id":"RDS-58905aad737f70191179","vi":"Enchant Poison"}
+{"id":"RDS-0514dbf9aa2769179092","vi":"Venom Dust"}
+{"id":"RDS-b86922fd494d95a87415","vi":"Sonic Acceleration"}
+{"id":"RDS-3b49151c9d93be3b4411","vi":"Giga Slave"}
+{"id":"RDS-1d24208f76fc4a4a4ff3","vi":"Deadly Poison"}
+{"id":"RDS-e35f17f9293d3fb20f06","vi":"Cyclone"}
+{"id":"RDS-155b2312e474fdfecdca","vi":"Increase Weight Limit"}
+{"id":"RDS-2ff284c1a4f0997d699e","vi":"Discount"}
+{"id":"RDS-d7010b7b0cefc705f21d","vi":"Overcharge"}
+{"id":"RDS-733508197053712da2e8","vi":"Mammonite"}
+{"id":"RDS-4bf10d779c55f9792c5c","vi":"Crazy Uproar"}
+{"id":"RDS-925bb1c7c1a838e78254","vi":"Cart Revolution"}
+{"id":"RDS-23419b92dc5d8c98a8cb","vi":"Weapon Production"}
+{"id":"RDS-1633be11fed10e2bf932","vi":"Hilt Binding"}
+{"id":"RDS-8cd5899945a6ef831858","vi":"Finding Ore"}
+{"id":"RDS-1886570bc2b915007e2a","vi":"Manufacture Ore"}
+{"id":"RDS-a3fc9b8bf59f4610e16c","vi":"Weapon Research"}
+{"id":"RDS-ade80e19857bf6a7e8f3","vi":"Skin Tempering"}
+{"id":"RDS-633ec3fa6134aa791da1","vi":"Hammer Fall"}
+{"id":"RDS-6957c66881afc741f8fd","vi":"Adrenaline Rush"}
+{"id":"RDS-e906c2b6a1f6ccffdadf","vi":"Over Thrust"}
+{"id":"RDS-9c41af71671af19e1a83","vi":"Maximize Power"}
+{"id":"RDS-515742c18527a6899e64","vi":"Unfair Skill"}
+{"id":"RDS-c1a8acaa920313fa56bb","vi":"Full Adrenaline Rush"}
+{"id":"RDS-c2eb48382bfeb98dfbd4","vi":"Ancient Blow"}
+{"id":"RDS-d513833df7b75b3138b4","vi":"Magnitude"}
+{"id":"RDS-85ac4439b130049fc8b8","vi":"Running"}
+{"id":"RDS-651c6bae66355a5cc16d","vi":"Whirlwind Kick"}
+{"id":"RDS-50bdb1dab4ce42a12d20","vi":"Axe Kick"}
+{"id":"RDS-1703c09c75b5a5b13d3b","vi":"Round Kick"}
+{"id":"RDS-c79c0172982cf7a4fb7d","vi":"Counter Kick"}
+{"id":"RDS-1c25c0083e667fd4c0d3","vi":"Flying Side Kick"}
+{"id":"RDS-9a0a9f5903de4d8e7ef5","vi":"Peaceful Rest"}
+{"id":"RDS-3480780f4b3926c58d15","vi":"Enjoyable Rest"}
+{"id":"RDS-f738715fabae3a3d67f2","vi":"Warm Wind"}
+{"id":"RDS-56fd03e5d720dbd97380","vi":"Solar Heat"}
+{"id":"RDS-aa5983ec55a29d0dd6c9","vi":"Lunar Heat"}
+{"id":"RDS-f1429a3d86e7f1ea3f1a","vi":"Stellar Heat"}
+{"id":"RDS-4d75fda73a3677087836","vi":"Solar Wrath"}
+{"id":"RDS-b885ade5d2c47757888a","vi":"Lunar Wrath"}
+{"id":"RDS-74c56faa669e5fec7635","vi":"Stellar Wrath"}
+{"id":"RDS-c3b003ed9d232183ab14","vi":"Solar Protection"}
+{"id":"RDS-3ae2cdd6b1d5b729071b","vi":"Lunar Protection"}
+{"id":"RDS-30866d5a4ab766e59bee","vi":"Stellar Protection"}
+{"id":"RDS-cc22d4b44c3876949b47","vi":"Solar Blessing"}
+{"id":"RDS-a4cfa3cb7847646cecbd","vi":"Lunar Blessing"}
+{"id":"RDS-670e82e135a7e90bece4","vi":"Stellar Blessing"}
+{"id":"RDS-a8a47f3c39397e68ed86","vi":"Union"}
+{"id":"RDS-14b22f33e7429bba5fa3","vi":"Phoenix Wing"}
+{"id":"RDS-7e3494fdb7d6286dd4af","vi":"Spirit Bomb"}
+{"id":"RDS-ba050e95997c84ddbc33","vi":"Axe Mastery"}
+{"id":"RDS-0358169da9c6209eea88","vi":"Critical Rate UP"}
+{"id":"RDS-3dc5caeea91b88b276ce","vi":"Dark Breath"}
+{"id":"RDS-f00c361041be6aac5751","vi":"Shadow Quicken"}
+{"id":"RDS-4c4b13cbb1f4fcb65a5b","vi":"Dark Weapon"}
+{"id":"RDS-e46e6fe5029b76d7da41","vi":"Bloody Crash"}
+{"id":"RDS-f9f52122c0abcfa996cf","vi":"Guillotine"}
+{"id":"RDS-8d433947801a12388cd6","vi":"Genocide"}
+{"id":"RDS-d8694777d10ddbef602b","vi":"Chaos"}
+{"id":"RDS-d60f4f785a3fbcbd80a4","vi":"Blind Wave"}
+{"id":"RDS-b3295913be33691ebebc","vi":"Death Blade"}
+{"id":"RDS-bae523f069b496e6f5ab","vi":"Hell Impact"}
+{"id":"RDS-6d0c7089e99f3fd23d1e","vi":"Auto Heal"}
+{"id":"RDS-370916324a900493d9a3","vi":"Spiritual Comfort"}
+{"id":"RDS-72db7e7b4d482f0c4e35","vi":"Spiritual Blessing"}
+{"id":"RDS-6921b87f65fcc2adaa96","vi":"Spiritual Protection"}
+{"id":"RDS-487f468c8983c01a590a","vi":"Spiritual Prayer"}
+{"id":"RDS-9f49fc13c669e94c3688","vi":"Spiritual Wrath"}
+{"id":"RDS-3b8715661747009268aa","vi":"Mistletoe"}
+{"id":"RDS-e41b26273740ba5d9265","vi":"Rain Dance"}
+{"id":"RDS-c8dd048a32cb6b3a9f7e","vi":"Southeast Wind"}
+{"id":"RDS-39e680a1e27980b929d9","vi":"Summon"}
+{"id":"RDS-26c353d4abc82f305baa","vi":"Spirit of Fire"}
+{"id":"RDS-f78786b33b74705f3e1c","vi":"Spirit of Earth"}
+{"id":"RDS-1df6a34e1b5ef7a04bef","vi":"Spirit of Water"}
+{"id":"RDS-5126831b29dad2db3bd8","vi":"Spirit of Wind"}
+{"id":"RDS-79a5b1171223daa87a38","vi":"Divine Judgment"}
+{"id":"RDS-ff360ffd28b2e94fb9dc","vi":"First-Aid"}
+{"id":"RDS-09f768f5191d9ca3e8b5","vi":"Novice Attack"}
+{"id":"RDS-35b28d088f4ea265248b","vi":"uラスボス遠距離攻撃"}
+{"id":"RDS-a56db439138fbde1b8f5","vi":"uラスボスビーム攻撃"}
+{"id":"RDS-aeb537bd8793099380f0","vi":"uラスボス全体攻撃"}
+{"id":"RDS-e033d578428c0ea27d3b","vi":"u毒攻撃"}
+{"id":"RDS-57e70dda45417d52c8da","vi":"u沈黙攻撃"}
+{"id":"RDS-dbcb69c780f0ef923ebc","vi":"uスタン攻撃"}
+{"id":"RDS-f8827e47f23c6953f88e","vi":"u呪い攻撃"}
+{"id":"RDS-942cc8135cd56679ca45","vi":"u睡眠攻撃"}
+{"id":"RDS-8dd62537a22ae955dfaf","vi":"u石化攻撃"}
+{"id":"RDS-623b3b654096d3c80eb9","vi":"u凍結攻撃"}
+{"id":"RDS-1f36b8f6266b21acbefa","vi":"u混乱攻撃"}
+{"id":"RDS-7e95430485ba6158d00d","vi":"u暗闇攻撃"}
+{"id":"RDS-e8512d9160e75fe32517","vi":"u不死攻撃"}
+{"id":"RDS-ee7df4e48bcb4c933221","vi":"u触手攻撃"}
