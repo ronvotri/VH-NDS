@@ -1,0 +1,160 @@
+{
+  "game": "Jump Ultimate Stars (Japan)",
+  "checkpoint": "042",
+  "date": "2026-11-19",
+  "source_zip": "JumpUltimateStars_Japan_BanGiao_Cloud.zip",
+  "source_file": "translation/06-jquiz-006.jsonl",
+  "source_sha256": "8947105300fd2853922ed9704e742d0718316db3c83cb86700245c7398f102c5",
+  "source_rows": 2001,
+  "row_index_start": 919,
+  "row_index_end": 1616,
+  "new_translations": 698,
+  "previous_translated": 26392,
+  "translated_total": 27090,
+  "total_source_ids": 34919,
+  "remaining": 7829,
+  "progress_percent": 77.58,
+  "roles_in_new_batch": {
+    "question_line": 269,
+    "answer_option": 429
+  },
+  "qa": {
+    "all_id_unique": true,
+    "matched_source_japanese": true,
+    "matched_source_quiz_context": true,
+    "no_empty_vi": true,
+    "all_vi_unicode_len_max_37": true,
+    "new_ids_not_in_cp038_041": true,
+    "previous_boundary_918_then_919": true,
+    "next_batch_starts_at_new_question": true,
+    "control_tags_unchanged": true,
+    "romanized_names_need_in_game_review": true,
+    "pixel_width_tested": false,
+    "rom_tested": false,
+    "correct_quiz_answers_verified": false
+  },
+  "new_translation_sha256": "cc0d6580f1ec4551d8a480be4b06ce58ffc027c7fc2474b00a2b496e7fb17f7e",
+  "longest_vi_length": 37,
+  "source_flags": [
+    {
+      "row_index": 1054,
+      "source": "藍｜が育て、橙次が飼っていた",
+      "translated": "Chú chim cánh cụt do Aicho nuôi,",
+      "reason": "abnormal Japanese source; preserved ja unchanged"
+    },
+    {
+      "row_index": 1076,
+      "source": "藍｜",
+      "translated": "Aicho",
+      "reason": "abnormal Japanese source; preserved ja unchanged"
+    },
+    {
+      "row_index": 1104,
+      "source": "陽紅",
+      "translated": "陽紅 (Yoko)",
+      "reason": "kept original kanji to distinguish names/options or avoid uncertain reading"
+    },
+    {
+      "row_index": 1105,
+      "source": "曜子",
+      "translated": "曜子 (Yoko)",
+      "reason": "kept original kanji to distinguish names/options or avoid uncertain reading"
+    },
+    {
+      "row_index": 1106,
+      "source": "長江",
+      "translated": "長江 (Nagae)",
+      "reason": "kept original kanji to distinguish names/options or avoid uncertain reading"
+    },
+    {
+      "row_index": 1107,
+      "source": "教皇",
+      "translated": "教皇 (Giáo hoàng)",
+      "reason": "kept original kanji to distinguish names/options or avoid uncertain reading"
+    },
+    {
+      "row_index": 1124,
+      "source": "藍｜と橙次",
+      "translated": "Aicho và Toji",
+      "reason": "abnormal Japanese source; preserved ja unchanged"
+    },
+    {
+      "row_index": 1151,
+      "source": "風助の両親を殺した典桃という男は",
+      "translated": "典桃, kẻ giết bố mẹ Fusuke,",
+      "reason": "kept original kanji to distinguish names/options or avoid uncertain reading"
+    },
+    {
+      "row_index": 1173,
+      "source": "夜叉蝎",
+      "translated": "夜叉蝎",
+      "reason": "kept original kanji to distinguish names/options or avoid uncertain reading"
+    },
+    {
+      "row_index": 1190,
+      "source": "脳噛ネウロ",
+      "translated": "脳噛ネウロ (Neuro Nogami)",
+      "reason": "kept original kanji to distinguish names/options or avoid uncertain reading"
+    },
+    {
+      "row_index": 1191,
+      "source": "骨髄ネウロ",
+      "translated": "骨髄ネウロ (Neuro Kotsuzui)",
+      "reason": "kept original kanji to distinguish names/options or avoid uncertain reading"
+    },
+    {
+      "row_index": 1192,
+      "source": "魔脳祢雨露",
+      "translated": "魔脳祢雨露 (Mano Neuro)",
+      "reason": "kept original kanji to distinguish names/options or avoid uncertain reading"
+    },
+    {
+      "row_index": 1297,
+      "source": "石垣筍",
+      "translated": "石垣筍 (Takenoko Ishigaki)",
+      "reason": "kept original kanji to distinguish names/options or avoid uncertain reading"
+    },
+    {
+      "row_index": 1298,
+      "source": "石垣敬介",
+      "translated": "石垣敬介 (Keisuke Ishigaki)",
+      "reason": "kept original kanji to distinguish names/options or avoid uncertain reading"
+    },
+    {
+      "row_index": 1299,
+      "source": "石垣優一",
+      "translated": "石垣優一 (Yuichi Ishigaki)",
+      "reason": "kept original kanji to distinguish names/options or avoid uncertain reading"
+    },
+    {
+      "row_index": 1300,
+      "source": "石垣保",
+      "translated": "石垣保 (Tamotsu Ishigaki)",
+      "reason": "kept original kanji to distinguish names/options or avoid uncertain reading"
+    },
+    {
+      "row_index": 1604,
+      "source": "絵石家塔湖",
+      "translated": "絵石家塔湖",
+      "reason": "kept original kanji to distinguish names/options or avoid uncertain reading"
+    },
+    {
+      "row_index": 1605,
+      "source": "真栗利参",
+      "translated": "真栗利参",
+      "reason": "kept original kanji to distinguish names/options or avoid uncertain reading"
+    },
+    {
+      "row_index": 1606,
+      "source": "鬼頭五十六",
+      "translated": "鬼頭五十六",
+      "reason": "kept original kanji to distinguish names/options or avoid uncertain reading"
+    }
+  ],
+  "next_checkpoint": {
+    "checkpoint": "043",
+    "file": "06-jquiz-006.jsonl",
+    "row_index": 1617
+  },
+  "caution": "Static text QA only. Source snippets may be incomplete and image-based quizzes require gameplay validation."
+}
