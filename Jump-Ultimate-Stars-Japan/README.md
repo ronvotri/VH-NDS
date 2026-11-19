@@ -1,32 +1,31 @@
-# Jump Ultimate Stars (Japan) — Checkpoint 044 🇻🇳
+# Jump Ultimate Stars (Japan) — Checkpoint 045 🇻🇳
 
-**Tiến độ: 28.497 / 34.919 (81,61%)** — mới dịch thêm **698 ID**, còn **6.422 ID**.
+**Tiến độ: 29.198 / 34.919 (83,62%)** — thêm **701 chuỗi Nhật–Việt mới** so với CP044, còn **5.721 chuỗi**.
 
-## Mới nhất: Checkpoint 044 — 19/11/2026
+## Mới nhất — Checkpoint 045 (19/11/2026)
 
-- Nguồn gốc: `JumpUltimateStars_Japan_BanGiao_Cloud.zip` → `translation/06-jquiz-007.jsonl`.
-- Đã dịch **row_index 325–1022** (**698 ID**), gồm 620 mục *One Piece* và 78 mục *Pyu to Fuku! Jaguar*.
-- *One Piece*: Baratie, Arlong Park, Alabasta, Skypiea, Water Seven, Enies Lobby. Kết thúc phần One Piece ở row_index 944.
-- *Pyu to Fuku! Jaguar*: 945–1022, kết thúc toàn bộ câu hỏi 2240 (đủ phương án).
-- **Checkpoint 045 tiếp tục tại `06-jquiz-007.jsonl`, row_index 1023**, bắt đầu câu hỏi 2241 về nghề của cha Piyohiko.
-- [BAN_DICH_044.jsonl](BAN_DICH_044.jsonl) — 698 bản ghi Nhật–Việt mới, giữ ID và metadata gốc.
-- [QA_044.json](QA_044.json) — QA tĩnh đối chiếu ZIP nguồn, vai trò đáp án, SHA256, số ký tự.
-- [BAN_GIAO_044.md](BAN_GIAO_044.md) — bàn giao và hướng dẫn phục hồi.
-- [BAN_DICH_TONG_HOP_038-044.jsonl](BAN_DICH_TONG_HOP_038-044.jsonl) — **gộp riêng CP038–044, 4.901 ID**, không bao gồm CP001–037.
+- Nguồn gốc thực tế: `JumpUltimateStars_Japan_BanGiao_Cloud.zip` → `translation/06-jquiz-007.jsonl`.
+- Hoàn thành **row_index 1023–1723**, **701 ID mới**, dừng sau đủ 4 phương án câu đố 2363 để không cắt ngang câu hỏi.
+- Chủ đề: *Pyu to Fuku! Jaguar* **359 ID** (1023–1381), *Rokudenashi Blues* **132 ID** (1382–1513), *Rurouni Kenshin* **210 ID** (1514–1723).
+- **Checkpoint 046 tiếp tục tại `06-jquiz-007.jsonl`, `row_index=1724`**, câu hỏi 2364 (*Rurouni Kenshin*).
+- [BAN_DICH_045.jsonl](BAN_DICH_045.jsonl) — delta mới 701 bản ghi Nhật–Việt.
+- [QA_045.json](QA_045.json) — QA đối chiếu 3.006 câu hỏi gốc, SHA256, vị trí phương án, các ký hiệu nguồn cần xem lại.
+- [BAN_GIAO_045.md](BAN_GIAO_045.md) — tài liệu bàn giao.
+- [BAN_DICH_TONG_HOP_038-045.jsonl](BAN_DICH_TONG_HOP_038-045.jsonl) — chỉ là **bản gộp CP038–045 (5.602 ID)**, **không bao gồm CP001–037**.
 
 ## Phục hồi đủ tiến độ
 
 1. Khôi phục CP001–037 (**23.596 ID**) theo [PHUC_HOI_TONG_HOP_037.md](PHUC_HOI_TONG_HOP_037.md).
-2. Nối CP038–044 (**4.901 ID**) theo ID, từ chối trùng ID → **28.497 ID**.
-3. Áp bản sửa [BAN_DINH_CHINH_037B.jsonl](BAN_DINH_CHINH_037B.jsonl) và [BAN_DINH_CHINH_037C.jsonl](BAN_DINH_CHINH_037C.jsonl) bằng **ghi đè trường `vi` theo ID**, không thêm ID.
-4. Giữ thuật ngữ nhất quán theo [THUAT_NGU.json](THUAT_NGU.json), ngôi xưng theo [XUNG_HO_NHAN_VAT.md](XUNG_HO_NHAN_VAT.md).
+2. Nối bản gộp CP038–045 (**5.602 ID**), từ chối trùng ID; tổng phải **29.198 ID**.
+3. Áp QA overlay [BAN_DINH_CHINH_037B.jsonl](BAN_DINH_CHINH_037B.jsonl) và [BAN_DINH_CHINH_037C.jsonl](BAN_DINH_CHINH_037C.jsonl) bằng **thay giá trị `vi` theo ID**, tuyệt đối không thêm bản ghi tạo ID trùng.
+4. Tuân thủ [THUAT_NGU.json](THUAT_NGU.json) và [XUNG_HO_NHAN_VAT.md](XUNG_HO_NHAN_VAT.md).
 
 ## QA và giới hạn
 
-- **698/698** bản ghi có ID duy nhất, không trùng các checkpoint mới trước đó; nguyên văn tiếng Nhật, `group`, `context`, `uses` và `quiz_context` giữ nguyên theo ZIP.
-- Không thay đổi thẻ điều khiển hoặc thứ tự đáp án. Không tự thêm đáp án bị thiếu do nguồn dùng chung chuỗi.
-- Bản Việt không vượt **37 ký tự Unicode/dòng**; đây **không phải QA độ rộng font theo pixel**.
-- Giữ Hán tự ở **14 dòng** để tránh mất phân biệt phương án/ tên riêng. Cần QA lại tên riêng trước khi ghép ROM.
-- **Chưa kiểm thử đáp án đúng, độ rộng pixel, font Việt, ROM NDS hay gameplay.** Đây là dữ liệu bản dịch, chưa phải bản vá ROM đã chơi được.
+- **701/701 ID mới** độc nhất, không trùng với CP038–044, không rỗng, `ja`, `id`, `group`, `context`, `uses`, `quiz_context` bảo toàn đúng từ ZIP.
+- Đã đối chiếu mỗi ID và vị trí câu hỏi / phương án với tệp nguồn `reference/quiz-questions.jsonl`. Các mã điều khiển như `<IDEOSP>` được bảo toàn.
+- Bản Việt không vượt **37 ký tự Unicode/dòng**, **chưa phải QA độ rộng font pixel**.
+- **9 bản ghi** giữ nguyên Hán tự để phân biệt đáp án/tên khó và **1 dòng nguồn** có ký tự bất thường; xem [QA_045.json](QA_045.json). Tên phiên âm chưa mặc định là tên bản địa hóa chính thức.
+- **Chưa kiểm tra đáp án đúng, font tiếng Việt trên NDS, hình minh họa hay ROM/gameplay thực tế.** Đây là dữ liệu bản dịch, chưa phải bản vá ROM chơi được.
 
-Repository: `ronvotri/VH-NDS`, nhánh `vh/jump-ultimate-stars-japan`, thư mục `Jump-Ultimate-Stars-Japan/`.
+Repo: `ronvotri/VH-NDS`, nhánh `vh/jump-ultimate-stars-japan`, thư mục `Jump-Ultimate-Stars-Japan/`.
