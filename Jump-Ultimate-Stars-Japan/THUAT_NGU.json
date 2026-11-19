@@ -9250,5 +9250,179 @@
     "vi": "thép Katchin",
     "status": "material_name_qa",
     "note": "CP029 J-Quiz: Dragon Ball"
+  },
+  {
+    "ja": "ランファン",
+    "vi": "Ranfan",
+    "status": "character_name_qa",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "パンプット",
+    "vi": "Pamput",
+    "status": "character_name_qa",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "チャパ王",
+    "vi": "Vua Chappa",
+    "status": "character_name_qa",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "武泰斗",
+    "vi": "Mutaito",
+    "status": "character_name_qa",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "筋斗雲",
+    "vi": "Kintoun",
+    "status": "item_name",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "仙豆",
+    "vi": "Senzu",
+    "status": "item_name",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "スカウター",
+    "vi": "Scouter",
+    "status": "equipment_name",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "栽培マン",
+    "vi": "Saibaman",
+    "status": "character_name",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "ヤードラット星",
+    "vi": "hành tinh Yardrat",
+    "status": "place_name",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "ナメック星",
+    "vi": "Namek",
+    "status": "place_name",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "魔人ダーブラ",
+    "vi": "Dabura",
+    "status": "character_name_qa",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "ゼットソード",
+    "vi": "Z Sword",
+    "status": "item_name",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "フュージョン",
+    "vi": "Fusion",
+    "status": "skill_term",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "狼牙風風拳",
+    "vi": "Rogafufuken",
+    "status": "skill_name_qa",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "天判",
+    "vi": "Ten Han",
+    "status": "skill_name_qa",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "木判",
+    "vi": "Moku Han",
+    "status": "skill_name_qa",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "火判",
+    "vi": "Hi Han",
+    "status": "skill_name_qa",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "水枷",
+    "vi": "Mizu Kase",
+    "status": "skill_name_qa",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "咎落ち",
+    "vi": "Fallen One",
+    "status": "condition_name_qa",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "千年伯爵",
+    "vi": "Millennium Earl",
+    "status": "character_name",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "ティムキャンピー",
+    "vi": "Timcanpy",
+    "status": "character_name",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "黒い靴（ダークブーツ）",
+    "vi": "Black Boots",
+    "status": "weapon_name_qa",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "蝋花",
+    "vi": "Rohfa",
+    "status": "character_name_qa",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "セル・ロロン",
+    "vi": "Cell Roron",
+    "status": "character_name_qa",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "アジッサ",
+    "vi": "Ajissa",
+    "status": "plant_name_qa",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "ブルーツ波",
+    "vi": "sóng Blutz",
+    "status": "energy_term_qa",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "ドラゴンボール",
+    "vi": "Dragon Ball",
+    "status": "item_name",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "フー",
+    "vi": "For",
+    "status": "character_name_qa",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
+  },
+  {
+    "ja": "神狩り",
+    "vi": "Săn thần",
+    "status": "inscription_qa",
+    "note": "CP030 J-Quiz; những mục có _qa cần đối chiếu cách phiên âm chính thức"
   }
 ]
