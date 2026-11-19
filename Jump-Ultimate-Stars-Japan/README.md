@@ -1,34 +1,34 @@
-# Jump Ultimate Stars (Japan) — Checkpoint 048 🇻🇳
+# Jump Ultimate Stars (Japan) — Checkpoint 049 🇻🇳
 
-**Tiến độ: 31.306 / 34.919 (89,65%)** — thêm **705 chuỗi Nhật–Việt mới** so với CP047; còn **3.613 chuỗi**.
+**Tiến độ: 32.011 / 34.919 (91,67%)** — thêm **705 chuỗi Nhật–Việt mới** so với CP048; còn **2.908 chuỗi**.
 
-## Mới nhất — Checkpoint 048 (20/11/2026)
+## Mới nhất — Checkpoint 049 (20/11/2026)
 
-Nguồn gốc: `JumpUltimateStars_Japan_BanGiao_Cloud.zip` → `translation/06-jquiz-008.jsonl`; SHA256 **`48c26ae8eb63b3d3272741f93683312ff435ac8fc8995479f96a42045acd0dfc`** khớp báo cáo CP047.
+Nguồn Nhật gốc: `JumpUltimateStars_Japan_BanGiao_Cloud.zip`. Đã kiểm SHA256 của từng JSONL trước khi dịch.
 
-- `06-jquiz-008.jsonl`: **row_index 1218–1922 (705 ID)**.
-- Theo mã manga: *Jungle no Ōja Tar-chan* **20**, *Tottemo! Luckyman* **133**, *The Prince of Tennis* **530**, *Katekyo Hitman Reborn!* **22**.
-- **Checkpoint 049 bắt đầu `06-jquiz-008.jsonl`, `row_index=1923`, câu hỏi `question_index=2760`**, phần *Katekyo Hitman Reborn!*.
-- [BAN_DICH_048.jsonl](BAN_DICH_048.jsonl) — 705 chuỗi Nhật–Việt mới, bảo toàn ID, JA và metadata.
-- [BAN_DICH_048.tsv](BAN_DICH_048.tsv) — bảng đối chiếu trực quan.
-- [QA_048.json](QA_048.json) — QA tĩnh và SHA256 bản xuất.
-- [BAN_GIAO_048.md](BAN_GIAO_048.md) — phạm vi và hướng dẫn tích hợp.
-- [BAN_DICH_TONG_HOP_038-048.jsonl](BAN_DICH_TONG_HOP_038-048.jsonl) — **7.710 ID CP038–048**, bao gồm sửa tên **Shunrei** CP046A; không gồm CP001–037.
+- `06-jquiz-008.jsonl`: **row_index 1923–2011 (89 ID)**, SHA256 `48c26ae8eb63b3d3272741f93683312ff435ac8fc8995479f96a42045acd0dfc`, hoàn tất tệp 008.
+- `06-jquiz-009.jsonl`: **row_index 0–615 (616 ID)**, SHA256 `ad517ab9020ebaaaf24d3b0be0bca8b6bbd1c9f975f1c3b745f1b249fd23d1e1`, nối câu hỏi *Bazooka 10 Năm* qua ranh giới file.
+- Mã manga: *Katekyo Hitman Reborn!* **409 ID**, *Taizō Mote King Saga* **273 ID**, *Yu Yu Hakusho* **23 ID**.
+- **Checkpoint 050 bắt đầu `06-jquiz-009.jsonl`, `row_index=616`, `question_index=2884`**, phần *Yu Yu Hakusho*.
+- [BAN_DICH_049.jsonl](BAN_DICH_049.jsonl) — 705 bản ghi mới, bảo toàn ID, JA và metadata gốc.
+- [BAN_DICH_049.tsv](BAN_DICH_049.tsv) — đối chiếu vị trí câu hỏi–đáp án.
+- [QA_049.json](QA_049.json) — SHA, QA tĩnh, ghi chú trường hợp cần duyệt tên riêng.
+- [BAN_GIAO_049.md](BAN_GIAO_049.md) — bàn giao và mốc CP050.
+- [BAN_DICH_TONG_HOP_038-049.jsonl](BAN_DICH_TONG_HOP_038-049.jsonl) — **8.415 ID CP038–049**, đã giữ bản sửa tên Shunrei từ CP046A. **Không chứa CP001–037.**
 
 ## Khôi phục toàn bộ tiến độ
 
 1. Khôi phục CP001–037 (**23.596 ID**) theo [PHUC_HOI_TONG_HOP_037.md](PHUC_HOI_TONG_HOP_037.md).
-2. Ghép [BAN_DICH_TONG_HOP_038-048.jsonl](BAN_DICH_TONG_HOP_038-048.jsonl) (**7.710 ID**) bằng ID; tổng phải **31.306 ID duy nhất**.
-3. Áp overlay [BAN_DINH_CHINH_037B.jsonl](BAN_DINH_CHINH_037B.jsonl) và [BAN_DINH_CHINH_037C.jsonl](BAN_DINH_CHINH_037C.jsonl) **bằng ghi đè `vi` theo ID**, không nối thành ID mới. Overlay [BAN_DINH_CHINH_046A.jsonl](BAN_DINH_CHINH_046A.jsonl) **đã áp trong bản gộp 038–048**.
-4. Tuân thủ [THUAT_NGU.json](THUAT_NGU.json) và [XUNG_HO_NHAN_VAT.md](XUNG_HO_NHAN_VAT.md).
+2. Ghép bản gộp CP038–049 (**8.415 ID**) theo ID, từ chối trùng, phải có tổng **32.011 bản ghi duy nhất**.
+3. Áp overlay QA [BAN_DINH_CHINH_037B.jsonl](BAN_DINH_CHINH_037B.jsonl) và [BAN_DINH_CHINH_037C.jsonl](BAN_DINH_CHINH_037C.jsonl) **bằng ghi đè `vi` theo ID**, không nối thêm bản ghi.
+4. Overlay [BAN_DINH_CHINH_046A.jsonl](BAN_DINH_CHINH_046A.jsonl) **đã nằm trong** bản gộp CP038–049; không cộng thêm ID. Duy trì thuật ngữ theo [THUAT_NGU.json](THUAT_NGU.json) và [XUNG_HO_NHAN_VAT.md](XUNG_HO_NHAN_VAT.md).
 
 ## Trạng thái QA
 
-- **705/705 chuỗi CP048** có `vi` không rỗng, không trùng với 7.005 ID của CP038–047, giới hạn tối đa **37 ký tự Unicode/dòng** (dòng dài nhất CP048: **36**).
-- Tất cả `id`, `ja`, `quiz_context` giữ từ nguồn; từng vị trí câu hỏi/đáp án đối chiếu `reference/quiz-questions.jsonl` (**3.006 quiz**).
-- Bảo toàn **6 token `<IDEOSP>`** và **1 token `<PERCENT_FULL>`** trong các dòng tương ứng.
-- Điểm dừng CP048 nằm **sau câu hỏi hoàn chỉnh 2759**, không cắt giữa nhóm.
-- **Chưa kiểm thử đáp án đúng, quiz sử dụng ảnh, độ rộng pixel font, patch ROM hoặc gameplay NDS.** Một số tên riêng romaji ít gặp cần rà thủ công trước khi phát hành.
-- Bản CP048 mới là **dữ liệu dịch văn bản**, chưa phải bản vá ROM chơi được.
+- **705/705 ID** CP049 giữ nguyên JA, ID, quiz_context và metadata so với nguồn. Vị trí từng câu hỏi–đáp án đã đối chiếu `reference/quiz-questions.jsonl` (3.006 câu quiz).
+- Không trùng ID với 7.710 ID của CP038–048. Không có câu Việt rỗng hay vượt **37 ký tự Unicode/dòng**, bảo toàn 4 token `<IDEOSP>`.
+- Điểm dừng CP049 **sau khi kết thúc câu hỏi 2883**, không cắt nhóm; nối sang CP050 ở câu hỏi 2884.
+- Một số tên riêng đồng âm, tên skill chưa có bản English xác minh và từ chơi chữ trong *Taizō Mote King Saga* cần soát khi vá ROM; đã ghi trong `QA_049.json`.
+- **Chưa xác minh đáp án đúng/sai, độ rộng pixel font, giao diện quiz có ảnh, patch ROM hay gameplay NDS.** QA tĩnh không đồng nghĩa hoàn tất bản chơi được.
 
 Repository: `ronvotri/VH-NDS`, nhánh `vh/jump-ultimate-stars-japan`, thư mục `Jump-Ultimate-Stars-Japan/`.
