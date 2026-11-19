@@ -1,0 +1,59 @@
+{
+  "game": "Jump Ultimate Stars (Japan)",
+  "checkpoint": "047",
+  "date": "2026-11-20",
+  "source_zip": "JumpUltimateStars_Japan_BanGiao_Cloud.zip",
+  "source_file": "translation/06-jquiz-008.jsonl",
+  "source_file_sha256": "48c26ae8eb63b3d3272741f93683312ff435ac8fc8995479f96a42045acd0dfc",
+  "source_rows": 2012,
+  "from_row_index": 518,
+  "to_row_index": 1217,
+  "next_row_index": 1218,
+  "reference_quiz_questions": 3006,
+  "first_quiz_question_index": 2491,
+  "last_quiz_question_index": 2627,
+  "next_quiz_question_index": 2628,
+  "new_translations": 700,
+  "previous_total": 29901,
+  "translated_total": 30601,
+  "total_source_ids": 34919,
+  "remaining": 4318,
+  "progress_percent": 87.63,
+  "max_vi_unicode_chars": 36,
+  "manga_codes": {
+    "16": 575,
+    "13": 125
+  },
+  "roles": {
+    "question_line": 274,
+    "answer_option": 426
+  },
+  "source_unusual_char_flags": [
+    {
+      "row_index": 936,
+      "ja": "青木≪原、十風穴の死闘において、一輝",
+      "vi": "Tại Aokigahara, Ikki đâm Hyoga.",
+      "reason": "Nguồn Nhật chứa ký hiệu ≪, không sửa ja"
+    }
+  ],
+  "checks": {
+    "source_zip_sha256_verified_against_cp046": true,
+    "source_ja_identical": true,
+    "source_quiz_context_identical": true,
+    "quiz_reference_position_and_ja_identical": true,
+    "id_unique": true,
+    "no_dup_with_038_046": true,
+    "control_tokens_preserved": true,
+    "vi_nonempty": true,
+    "all_vi_at_most_37_unicode_chars": true,
+    "checkpoint_boundary_after_complete_question": true,
+    "cp046a_shunrei_overlay_applied_to_merged": true,
+    "correct_answer_tested": false,
+    "visual_pixel_font_tested": false,
+    "nds_rom_tested": false,
+    "translation_accuracy_human_review_complete": false
+  },
+  "new_delta_sha256": "84b7ee46874d145557fcb273eef0f7abca06b9ba0559a0d24ff544e2d0890317",
+  "new_merged_sha256": "fa588556e76b52414503a640a7901ba61af946e58a217abb46eacef0bcbf7a7e",
+  "notes": "QA tĩnh trên nguồn JA. Cần soát lại tên phiên âm hiếm, chú thích quiz dùng ảnh, chính xác đáp án và font ROM khi vá."
+}
