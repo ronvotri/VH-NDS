@@ -1,0 +1,98 @@
+{
+  "project": "Jump Ultimate Stars (Japan) - Vietnamese",
+  "checkpoint": "038",
+  "status": "TRANSLATED_STATIC_QA_PASS_PENDING_FONT_AND_ROM",
+  "date": "2026-11-19",
+  "file": "06-jquiz-005.jsonl",
+  "source_rows_in_file": 1881,
+  "resume_index": 4,
+  "translated_new": 701,
+  "first_row_index": 4,
+  "last_row_index": 704,
+  "previous_total": 23596,
+  "new_total": 24297,
+  "source_total": 34919,
+  "remaining": 10622,
+  "completion_pct": 69.58,
+  "source_sha256": "7b21a4baca6e3d687a8d2de6aa7e6e787755f96335d4d9be1eae9279f504fa8c",
+  "delta_sha256": "bfde37a6bbc2d826919d62b00861501f5a97f7f6d5864c8fcebcbca9482abdd8",
+  "qa": {
+    "source_anchor_ids_verified": true,
+    "701_contiguous_rows": true,
+    "701_unique_ids": true,
+    "id_in_original_34919_unique_source_strings": true,
+    "original_ja_unchanged": true,
+    "quiz_role_question_index_position_verified_against_reference": true,
+    "answer_options_unchanged_order": true,
+    "unchanged_control_token_types": true,
+    "max_vi_unicode_codepoints": 37,
+    "vi_over_37_unicode_codepoints": 0,
+    "empty_vi": 0,
+    "affected_question_indices": 150,
+    "font_width_tested": false,
+    "rom_patch_tested": false
+  },
+  "needs_source_review": [
+    {
+      "row_index": 236,
+      "id": "JUS-d151321b257c08ed7bc9",
+      "ja": "３≪月逃げとおして自ら投降",
+      "vi": "Trốn 3 tháng rồi tự ra đầu thú",
+      "note": "Nguyên văn có lỗi ３≪月; bản dịch hiểu là 3 tháng, cần đối chiếu byte gốc"
+    },
+    {
+      "row_index": 440,
+      "id": "JUS-0538c202dbe78124a720",
+      "ja": "時空≪原",
+      "vi": "時空≪原",
+      "note": "Tệp Nhật gốc đã chứa ký tự ≪ trong địa danh"
+    },
+    {
+      "row_index": 441,
+      "id": "JUS-da059d498e71d468d5a5",
+      "ja": "戦場≪谷",
+      "vi": "戦場≪谷",
+      "note": "Tệp Nhật gốc đã chứa ký tự ≪ trong địa danh"
+    },
+    {
+      "row_index": 593,
+      "id": "JUS-b0faa5eaa00107629aca",
+      "ja": "市≪谷金属株式会社",
+      "vi": "市≪谷金属株式会社",
+      "note": "Tệp Nhật gốc đã chứa ký tự ≪ trong tên doanh nghiệp"
+    },
+    {
+      "row_index": 499,
+      "id": "JUS-90df8f173ebbdac7c269",
+      "ja": "圭一",
+      "vi": "Keiichi (圭一)",
+      "note": "Các phương án cùng âm Keiichi, phải giữ chữ Hán để phân biệt"
+    },
+    {
+      "row_index": 500,
+      "id": "JUS-dbb33cf759999ed9f41c",
+      "ja": "敬一",
+      "vi": "Keiichi (敬一)",
+      "note": "Các phương án cùng âm Keiichi, phải giữ chữ Hán để phân biệt"
+    },
+    {
+      "row_index": 501,
+      "id": "JUS-d00655a8a6358a8f72d5",
+      "ja": "慶一",
+      "vi": "Keiichi (慶一)",
+      "note": "Các phương án cùng âm Keiichi, phải giữ chữ Hán để phân biệt"
+    },
+    {
+      "row_index": 502,
+      "id": "JUS-cf972374dca8e0eb2b71",
+      "ja": "恵一",
+      "vi": "Keiichi (恵一)",
+      "note": "Các phương án cùng âm Keiichi, phải giữ chữ Hán để phân biệt"
+    }
+  ],
+  "next_checkpoint_resume": {
+    "file": "06-jquiz-005.jsonl",
+    "row_index": 705
+  },
+  "note": "Không xác định đáp án đúng, không sửa Nhật gốc. Dòng bị hỏng ký tự nguồn được giữ và đánh cờ riêng."
+}
