@@ -1,14 +1,14 @@
-# Jump Ultimate Stars (Japan) — Checkpoint 034
+# Jump Ultimate Stars (Japan) — Checkpoint 035
 
-**Đã dịch: 21.662/34.919 chuỗi (62.03%)**, tăng **606 chuỗi** từ CP033; còn **13.257**.
+**Tiến độ: 22,318/34.919 câu (63.91%)**, thêm **656 câu** từ CP034; còn **12,601**.
 
-- J-Quiz `06-jquiz-003.jsonl`: dòng **1515–2120**, hoàn thành cả file (**Hunter × Hunter**, **Hokuto no Ken / Fist of the North Star**). CP035 bắt đầu `06-jquiz-004.jsonl` dòng 0.
-- Giữ nguyên **21.056 câu cũ**, mọi `ja`, `quiz_context`/metadata, số lượng và vị trí thẻ game. Không đảo các đáp án.
-- ZIP gồm **30 file JSONL** trong `translation/`, `BAN_DICH_034.jsonl` (606 câu mới), `BAN_DICH_TONG_HOP_001-034.jsonl` (21.662 câu), thuật ngữ, xưng hô, QA và danh sách câu dài.
-- QA tĩnh 0 lỗi cấu trúc trên 34.919 ID. Bảng thuật ngữ **1663 mục**, tăng **24**.
-- **6762 đoạn dài hơn 37 ký tự** cần kiểm thử độ rộng chữ bằng font game.
-- Tên chiêu Hokuto nhiều mục mang trạng thái `_qa` (phiên âm tạm). Một số câu hỏi thiếu hình hoặc đáp án trong nguồn, **không suy đoán đáp án**.
+- J-Quiz `06-jquiz-004.jsonl`: **dòng 0–655**, từ **Hokuto no Ken / Fist of the North Star** sang **Hoshin Engi**. Checkpoint 036 bắt đầu từ dòng **656**.
+- Không thay đổi **21.662 câu cũ**, bất kỳ `ja`/ID/metadata/`quiz_context` nào; giữ nguyên thứ tự `question_line` và `answer_option` và mọi thẻ game.
+- Bàn giao: **30 file JSONL** trong `translation/`; `BAN_DICH_035.jsonl` (656 câu mới), `BAN_DICH_TONG_HOP_001-035.jsonl` (22,318 câu), thuật ngữ, xưng hô, QA, danh sách câu dài.
+- QA tĩnh trên **34.919 ID** đạt 0 lỗi cấu trúc. Bảng thuật ngữ **1705 mục** (thêm 42 mục).
+- **6815 đoạn trên 37 ký tự Unicode** cần kiểm tra hiển thị ở font NDS.
+- Nguồn có dấu hiệu hỏng ký tự ở một số câu, mục thiếu tên hoặc câu hỏi không đủ đáp án; lưu trong `QA_035.json`, không tự bịa nội dung.
 
-**Chưa build patch ROM, chưa QA gameplay.**
+**Chưa có patch ROM hoặc QA gameplay.**
 
-Repo đích: `ronvotri/VH-NDS`, nhánh `vh/jump-ultimate-stars-japan`, thư mục `Jump-Ultimate-Stars-Japan/`. Chỉ báo đồng bộ GitHub khi đã thực sự xác minh SHA.
+Repo đích: `ronvotri/VH-NDS` nhánh `vh/jump-ultimate-stars-japan`, thư mục `Jump-Ultimate-Stars-Japan/`. Chỉ xác nhận đồng bộ sau khi GitHub đọc lại cho SHA khớp.
