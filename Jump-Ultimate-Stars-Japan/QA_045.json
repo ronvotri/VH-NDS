@@ -1,0 +1,118 @@
+{
+  "game": "Jump Ultimate Stars (Japan)",
+  "checkpoint": "045",
+  "date": "2026-11-19",
+  "source_zip": "JumpUltimateStars_Japan_BanGiao_Cloud.zip",
+  "source_file": "translation/06-jquiz-007.jsonl",
+  "source_file_sha256": "7a3626e87b306549920522da086508c695a6dcfe6cb6d19c0c2ee95fe2997aec",
+  "source_file_row_count": 1909,
+  "source_reference_quiz_question_count": 3006,
+  "translated_range": {
+    "first_row_index": 1023,
+    "last_row_index": 1723
+  },
+  "new_translations": 701,
+  "previous_total": 28497,
+  "translated_total": 29198,
+  "total_source_ids": 34919,
+  "remaining": 5721,
+  "progress_percent": 83.62,
+  "roles_in_source": {
+    "question_line": 259,
+    "answer_option": 442
+  },
+  "manga_codes": {
+    "27": 359,
+    "40": 132,
+    "39": 210
+  },
+  "max_vi_unicode_chars": 37,
+  "unique_id_count": 701,
+  "checks": {
+    "new_unique_ids": true,
+    "no_dup_with_CP038_044": true,
+    "source_ja_identical": true,
+    "source_quiz_context_identical": true,
+    "source_reference_quiz_identical": true,
+    "source_other_metadata_preserved": true,
+    "control_tags_identical": true,
+    "no_blank_vi": true,
+    "all_vi_at_most_37_unicode_chars": true,
+    "next_checkpoint_starts_new_question": true,
+    "correct_answer_tested": false,
+    "visual_font_width_tested": false,
+    "nds_rom_tested": false
+  },
+  "new_delta_sha256": "e89e86cd30b51e98035a3b6c88418b948da022e0a6fea4d917f26708aabd3bc9",
+  "new_merged_sha256": "7c4ee85ea843d5d04c066de5a9660bbede49340543cae50b326e71d5fa51c438",
+  "source_unusual_char_flags": [
+    {
+      "row_index": 1536,
+      "ja": "｝見に受けた毒は何？",
+      "vi": "Cậu trúng phải loại độc nào?",
+      "note": "Ký tự lạ trong nguyên bản, chưa sửa câu Nhật"
+    }
+  ],
+  "preserved_kanji_choices": [
+    {
+      "row_index": 1282,
+      "ja": "宇津久島福嗣",
+      "vi": "宇津久島福嗣",
+      "note": "Giữ chữ Hán ở đáp án/tên khó để không nhập nhằng"
+    },
+    {
+      "row_index": 1285,
+      "ja": "鬼留優",
+      "vi": "鬼留優",
+      "note": "Giữ chữ Hán ở đáp án/tên khó để không nhập nhằng"
+    },
+    {
+      "row_index": 1308,
+      "ja": "黙砂里市立図書館",
+      "vi": "黙砂里市立図書館",
+      "note": "Giữ chữ Hán ở đáp án/tên khó để không nhập nhằng"
+    },
+    {
+      "row_index": 1378,
+      "ja": "無我野喬至",
+      "vi": "無我野喬至",
+      "note": "Giữ chữ Hán ở đáp án/tên khó để không nhập nhằng"
+    },
+    {
+      "row_index": 1379,
+      "ja": "夢ノ森修仁",
+      "vi": "夢ノ森修仁",
+      "note": "Giữ chữ Hán ở đáp án/tên khó để không nhập nhằng"
+    },
+    {
+      "row_index": 1380,
+      "ja": "初夢恋三郎",
+      "vi": "初夢恋三郎",
+      "note": "Giữ chữ Hán ở đáp án/tên khó để không nhập nhằng"
+    },
+    {
+      "row_index": 1680,
+      "ja": "漣極",
+      "vi": "漣極",
+      "note": "Giữ chữ Hán ở đáp án/tên khó để không nhập nhằng"
+    },
+    {
+      "row_index": 1681,
+      "ja": "憐冴琥",
+      "vi": "憐冴琥",
+      "note": "Giữ chữ Hán ở đáp án/tên khó để không nhập nhằng"
+    },
+    {
+      "row_index": 1682,
+      "ja": "恋国",
+      "vi": "恋国",
+      "note": "Giữ chữ Hán ở đáp án/tên khó để không nhập nhằng"
+    }
+  ],
+  "next_checkpoint": {
+    "checkpoint": "046",
+    "file": "06-jquiz-007.jsonl",
+    "row_index": 1724
+  },
+  "notes": "QA text và đối chiếu vị trí quiz; chưa kiểm thử đáp án đúng, độ rộng font, hay ROM NDS. Tên riêng phiên âm chưa mặc định xác minh tên localized chính thức."
+}
