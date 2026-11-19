@@ -1,0 +1,58 @@
+{
+  "game": "Jump Ultimate Stars (Japan)",
+  "checkpoint": "048",
+  "date": "2026-11-20",
+  "source_zip": "JumpUltimateStars_Japan_BanGiao_Cloud.zip",
+  "source_file": "translation/06-jquiz-008.jsonl",
+  "source_file_sha256": "48c26ae8eb63b3d3272741f93683312ff435ac8fc8995479f96a42045acd0dfc",
+  "source_rows": 2012,
+  "from_row_index": 1218,
+  "to_row_index": 1922,
+  "next_row_index": 1923,
+  "first_quiz_question_index": 2628,
+  "last_quiz_question_index": 2759,
+  "next_quiz_question_index": 2760,
+  "reference_quiz_questions": 3006,
+  "new_translations": 705,
+  "previous_total": 30601,
+  "translated_total": 31306,
+  "total_source_ids": 34919,
+  "remaining": 3613,
+  "progress_percent": 89.65,
+  "max_vi_unicode_chars": 36,
+  "manga_codes": {
+    "13": 20,
+    "22": 133,
+    "18": 530,
+    "4": 22
+  },
+  "roles": {
+    "question_line": 263,
+    "answer_option": 442
+  },
+  "control_tokens": {
+    "<IDEOSP>": 6,
+    "<PERCENT_FULL>": 1
+  },
+  "source_unusual_char_flags": [],
+  "checks": {
+    "source_zip_sha256_verified_against_cp047": true,
+    "source_ja_identical": true,
+    "source_quiz_context_identical": true,
+    "quiz_reference_position_and_ja_identical": true,
+    "id_unique": true,
+    "no_dup_with_038_047": true,
+    "control_tokens_preserved": true,
+    "vi_nonempty": true,
+    "all_vi_at_most_37_unicode_chars": true,
+    "checkpoint_boundary_after_complete_question": true,
+    "cp046a_shunrei_overlay_retained": true,
+    "correct_answer_tested": false,
+    "visual_pixel_font_tested": false,
+    "nds_rom_tested": false,
+    "translation_accuracy_human_review_complete": false
+  },
+  "new_delta_sha256": "8c971126cca71710b3d3a696314af44ea95f439c37137765edc9b7ccffdbd4e3",
+  "new_merged_sha256": "0d8d1dc28dcafaefa69bdb9c2f9f53583ae5b68d3ec830b3e040c967a309a0da",
+  "notes": "QA tĩnh dựa trên tệp gốc JA; cần soát tên phiên âm ít gặp, ảnh quiz, câu trả lời chính xác và font ROM. Không xem là patch NDS đã hoàn thiện."
+}
