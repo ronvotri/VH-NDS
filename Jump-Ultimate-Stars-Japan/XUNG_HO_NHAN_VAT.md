@@ -365,3 +365,13 @@ Các tên Romanization có trạng thái `working_romanization_qa` cần so lạ
 - Câu hỏi **Gungi** tại dòng 1791–1794 cố ý có bốn lựa chọn chỉ khác Hán tự; giữ **kanji trong ngoặc** để tránh bốn đáp án hiển thị giống nhau.
 - Câu gốc không trọn ý tại dòng **1821** và vài bộ không đủ 4 đáp án (1538–1542, 1639–1642, 1650–1652, 1731–1733, 1821–1825, 2061–2065...) **không bịa thêm câu hỏi/đáp án**.
 - Bảo toàn số lượng và vị trí thẻ `<IDEOSP>` và `<PERCENT_FULL>` trong từng ID; chưa kiểm chứng đáp án đúng theo hình hoặc thử trong ROM.
+
+
+## Checkpoint 035 — J-Quiz Hokuto no Ken / Hoshin Engi
+
+- **J-Quiz:** người dẫn hỏi trung tính, ưu tiên câu ngắn, tự nhiên. Không đổi thứ tự `question_line`/`answer_option`, không tự tạo đáp án còn thiếu.
+- **Hokuto no Ken:** giữ **Kenshiro, Jagi, Toki, Raoh, Rei, Yuda, Souther, Shu, Yuria, Raiga, Fuga, Ein, Falco, Hokuto Shinken, Nanto Seiken**; nhiều kỹ thuật/huyệt đạo dùng phiên âm tạm và đánh dấu `_qa`.
+- **Hoshin Engi:** giữ **Taikobo, Dakki, Bunchu, Chokomei, Ki Sho, Otenkun, Ou Eki, Fuxi, Nüwa, Yozen, Su Pu Shang, Paopei**. Tên phiên âm chưa chắc chắn giữ nguyên kanji trong ngoặc để giúp nhận biết các đáp án khác nhau.
+- **ID dùng lại trong nhiều câu:** các dòng 8, 32, 47, 202, 376, 471, 613 được diễn đạt trung tính để không thay đổi nghĩa khi xuất hiện tại câu đố khác.
+- **Lỗi nguồn:** `真￠中` (dòng 164), `楊‐` (dòng 534) và `女｛` (các dòng 611/635/643/650) có dấu hiệu hỏng ký tự. `〔〕` dòng 507 không chứa tên; giữ nguyên chỗ khuyết thay vì đoán tên.
+- **Giới hạn dữ liệu:** một số câu hỏi có dưới bốn đáp án hoặc dựa vào hình; chưa kiểm chứng đáp án đúng và hình hiển thị trong ROM.
