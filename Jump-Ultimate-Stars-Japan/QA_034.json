@@ -1,0 +1,41 @@
+{
+  "game": "Jump Ultimate Stars (Japan) AJUJ",
+  "checkpoint": "034",
+  "date": "2026-11-19",
+  "total_rows": 34919,
+  "translated_rows": 21662,
+  "pending_rows": 13257,
+  "prior_033_translated": 21056,
+  "new_034_rows": 606,
+  "changed": {
+    "06-jquiz-003.jsonl": "1515–2120 (606 new; Hunter × Hunter / Hokuto no Ken; CP035 begins 06-jquiz-004.jsonl row 0)"
+  },
+  "source_ja_modified": 0,
+  "source_metadata_modified": 0,
+  "previous_translations_modified": 0,
+  "duplicate_ids": 0,
+  "control_tag_errors": 0,
+  "printf_placeholder_errors": 0,
+  "unicode_nfc_errors": 0,
+  "raw_control_char_errors": 0,
+  "quiz_option_positions_modified": 0,
+  "quiz_question_groups_touched": 97,
+  "quiz_answer_groups_touched": 120,
+  "quiz_answers_validated_in_game": false,
+  "source_image_questions_validated": false,
+  "long_unicode_strings_gt37": 6762,
+  "glossary_terms": 1663,
+  "glossary_added": 24,
+  "font_implemented": false,
+  "rom_patch_built": false,
+  "pixel_width_qa": false,
+  "gameplay_tested": false,
+  "source_anomalies": [
+    "Hunters 1515–1523: source appears to omit full preceding quiz question; preserved number of entries.",
+    "Hunter × Hunter 1791–1794 Gungi options differ only by kanji; retain kanji for disambiguation.",
+    "Hunter × Hunter 1821 appears truncated in extraction, kept as an incomplete clause rather than inventing image question.",
+    "Several quiz groups have only a subset of choices in the JSONL, and some question strings appear truncated.",
+    "Hokuto no Ken skill/hikō romanizations _qa are provisional; need franchise-name verification.",
+    "In-game pixel width and semantic answer keys not verified."
+  ]
+}

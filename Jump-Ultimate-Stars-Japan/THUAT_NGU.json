@@ -9832,5 +9832,149 @@
     "vi": "Mount Kukuroo",
     "status": "place_name",
     "note": "CP033 J-Quiz Gintama/Hunter × Hunter; các mục _qa cần kiểm chứng phiên âm; đáp án phân biệt kanji giữ nguồn."
+  },
+  {
+    "ja": "カキン国",
+    "vi": "Kakin",
+    "status": "place_name",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "キメラアント",
+    "vi": "Chimera Ant",
+    "status": "creature_name",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "シルバ",
+    "vi": "Silva",
+    "status": "character_name",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "ゴトー",
+    "vi": "Gotoh",
+    "status": "character_name",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "ナックル",
+    "vi": "Knuckle",
+    "status": "character_name",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "シュート",
+    "vi": "Shoot",
+    "status": "character_name",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "コムギ",
+    "vi": "Komugi",
+    "status": "character_name",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "メルエム",
+    "vi": "Meruem",
+    "status": "character_name",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "軍儀",
+    "vi": "Gungi",
+    "status": "board_game_name",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "完全神の不在証明",
+    "vi": "Perfect Plan",
+    "status": "skill_name_qa",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "パーフェクトプラン",
+    "vi": "Perfect Plan",
+    "status": "skill_name",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "暗い宿",
+    "vi": "Hotel Rafflesia",
+    "status": "skill_name_qa",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "ディープパープル",
+    "vi": "Deep Purple",
+    "status": "skill_name",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "マジカルエステ",
+    "vi": "Magical Esthetician",
+    "status": "skill_name",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "北斗の拳",
+    "vi": "Fist of the North Star",
+    "status": "manga_name",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "南斗水鳥拳",
+    "vi": "Nanto Suichoken",
+    "status": "martial_art",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "ジャッカル",
+    "vi": "Jackal",
+    "status": "character_name",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "牙一族",
+    "vi": "Fang Clan",
+    "status": "group_name",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "華山群狼拳",
+    "vi": "Kazan Gunroken",
+    "status": "skill_name_qa",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "二指真空把",
+    "vi": "Nishi Shinkūha",
+    "status": "skill_name_qa",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "南斗獄屠拳",
+    "vi": "Nanto Gokutoken",
+    "status": "skill_name_qa",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "華山鋼鎧呼法",
+    "vi": "Kazan Kogai Koho",
+    "status": "skill_name_qa",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "転龍呼吸法",
+    "vi": "Tenryu Kokyuho",
+    "status": "skill_name_qa",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
+  },
+  {
+    "ja": "秘孔",
+    "vi": "Hikō",
+    "status": "term",
+    "note": "CP034 Hunter × Hunter / Fist of the North Star; mục _qa cần kiểm tra phiên âm chính thức trước khi chèn ROM."
   }
 ]

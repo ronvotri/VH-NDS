@@ -355,3 +355,13 @@ Các tên Romanization có trạng thái `working_romanization_qa` cần so lạ
 - Riêng câu hỏi **phân biệt cách viết kanji** (Shinsengumi: 868–871; băng nhóm: 986–989; Yagyu: 1179–1182; ma thú Kiriko: 1417–1420) cố ý giữ kanji để các lựa chọn không bị mất dấu hiệu phân biệt.
 - Mỗi ID giữ nguyên số lượng thẻ `<IDEOSP>`; một số nguồn chỉ còn 1–3 phương án hoặc dựa hình minh họa, không bịa thêm lựa chọn.
 - Tên phiên âm chưa chắc và câu hỏi thiếu hình **cần QA so nguồn chính thức và ROM**, không coi kiểm tra cấu trúc là kiểm chứng đáp án đúng.
+
+
+## Checkpoint 034 — J-Quiz: Hunter × Hunter / Fist of the North Star
+
+- Giữ **người dẫn quiz trung tính**, không biến câu hỏi thành thoại của Gon, Killua hay Kenshiro.
+- *Hunter × Hunter*: giữ **Gon, Killua, Ging, Kurapika, Leorio, Biscuit, Phantom Troupe, Greed Island, Nen, Hatsu, Ren, Zetsu, Gyo, Heavens Arena, Chimera Ant**. Các đáp án sai tên riêng có chủ ý vẫn giữ cách viết phân biệt.
+- *Fist of the North Star (Hokuto no Ken)*: giữ **Kenshiro, Yuria, Shin, Raoh, Rei, Mamiya, Bat, Lin, Hokuto Shinken, Nanto Suichoken**. Tên quyền pháp/huyệt đạo được **phiên âm Latin tạm**, nhiều mục đánh dấu `_qa` để đối chiếu tên chính thức; không tự nhận đây là bản Latin được cấp phép.
+- Câu hỏi **Gungi** tại dòng 1791–1794 cố ý có bốn lựa chọn chỉ khác Hán tự; giữ **kanji trong ngoặc** để tránh bốn đáp án hiển thị giống nhau.
+- Câu gốc không trọn ý tại dòng **1821** và vài bộ không đủ 4 đáp án (1538–1542, 1639–1642, 1650–1652, 1731–1733, 1821–1825, 2061–2065...) **không bịa thêm câu hỏi/đáp án**.
+- Bảo toàn số lượng và vị trí thẻ `<IDEOSP>` và `<PERCENT_FULL>` trong từng ID; chưa kiểm chứng đáp án đúng theo hình hoặc thử trong ROM.
