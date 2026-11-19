@@ -1,0 +1,134 @@
+{
+  "game": "Jump Ultimate Stars (Japan)",
+  "checkpoint": "044",
+  "date": "2026-11-19",
+  "source_zip": "JumpUltimateStars_Japan_BanGiao_Cloud.zip",
+  "source_file": "translation/06-jquiz-007.jsonl",
+  "source_file_sha256": "7a3626e87b306549920522da086508c695a6dcfe6cb6d19c0c2ee95fe2997aec",
+  "source_file_row_count": 1909,
+  "source_reference_quiz_question_count": 3006,
+  "translated_range": {
+    "first_row_index": 325,
+    "last_row_index": 1022
+  },
+  "new_translations": 698,
+  "previous_total": 27799,
+  "translated_total": 28497,
+  "total_source_ids": 34919,
+  "remaining": 6422,
+  "progress_percent": 81.61,
+  "roles_in_source": {
+    "question_line": 295,
+    "answer_option": 403
+  },
+  "max_vi_unicode_chars": 37,
+  "unique_id_count": 698,
+  "checks": {
+    "new_unique_ids": true,
+    "no_dup_with_CP038_043": true,
+    "source_ja_identical": true,
+    "source_quiz_context_identical": true,
+    "source_other_metadata_preserved": true,
+    "control_tags_identical": true,
+    "no_blank_vi": true,
+    "all_vi_at_most_37_unicode_chars": true,
+    "next_checkpoint_starts_new_question": true,
+    "correct_answer_tested": false,
+    "visual_font_width_tested": false,
+    "nds_rom_tested": false
+  },
+  "new_delta_sha256": "846d0a755368f09c88e81ea7e09deb217ddeeca1700a69cbecfeaf561554e9b5",
+  "source_unusual_char_flags": [],
+  "preserved_kanji_choices": [
+    {
+      "row_index": 463,
+      "ja": "記録指針",
+      "vi": "記録指針",
+      "type": "Japanese_kanji_kept_for_answer_distinction"
+    },
+    {
+      "row_index": 464,
+      "ja": "磁録羅針",
+      "vi": "磁録羅針",
+      "type": "Japanese_kanji_kept_for_answer_distinction"
+    },
+    {
+      "row_index": 465,
+      "ja": "偉大羅針儀",
+      "vi": "偉大羅針儀",
+      "type": "Japanese_kanji_kept_for_answer_distinction"
+    },
+    {
+      "row_index": 466,
+      "ja": "航路記針",
+      "vi": "航路記針",
+      "type": "Japanese_kanji_kept_for_answer_distinction"
+    },
+    {
+      "row_index": 649,
+      "ja": "ある。『貝』と書いて何と読む？",
+      "vi": "vỏ sò. Chữ '貝' đọc là gì?",
+      "type": "Japanese_kanji_kept_for_answer_distinction"
+    },
+    {
+      "row_index": 956,
+      "ja": "酒留清彦",
+      "vi": "酒留清彦",
+      "type": "Japanese_kanji_kept_for_answer_distinction"
+    },
+    {
+      "row_index": 958,
+      "ja": "清田彦麿",
+      "vi": "清田彦麿",
+      "type": "Japanese_kanji_kept_for_answer_distinction"
+    },
+    {
+      "row_index": 1002,
+      "ja": "乙女心ゆれ子",
+      "vi": "乙女心ゆれ子",
+      "type": "Japanese_kanji_kept_for_answer_distinction"
+    },
+    {
+      "row_index": 1003,
+      "ja": "恋待どき子",
+      "vi": "恋待どき子",
+      "type": "Japanese_kanji_kept_for_answer_distinction"
+    },
+    {
+      "row_index": 1004,
+      "ja": "夢心地まり",
+      "vi": "夢心地まり",
+      "type": "Japanese_kanji_kept_for_answer_distinction"
+    },
+    {
+      "row_index": 1005,
+      "ja": "月影さおり",
+      "vi": "月影さおり",
+      "type": "Japanese_kanji_kept_for_answer_distinction"
+    },
+    {
+      "row_index": 1019,
+      "ja": "白川高菜",
+      "vi": "白川高菜",
+      "type": "Japanese_kanji_kept_for_answer_distinction"
+    },
+    {
+      "row_index": 1021,
+      "ja": "高梨まどか",
+      "vi": "高梨まどか",
+      "type": "Japanese_kanji_kept_for_answer_distinction"
+    },
+    {
+      "row_index": 1022,
+      "ja": "中原チムリー",
+      "vi": "中原チムリー",
+      "type": "Japanese_kanji_kept_for_answer_distinction"
+    }
+  ],
+  "next_checkpoint": {
+    "checkpoint": "045",
+    "file": "06-jquiz-007.jsonl",
+    "row_index": 1023
+  },
+  "notes": "Chỉ kiểm tra QA tĩnh. Giữ các phương án thiếu trong nguồn, không tự sáng tác. Bản gộp 038–044 chỉ chứa 4901 ID, không bao gồm 001–037."
+}
