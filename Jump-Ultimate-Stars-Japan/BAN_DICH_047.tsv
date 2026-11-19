@@ -1,0 +1,701 @@
+row_index	id	manga_code	question_index	role	position	ja	vi
+518	JUS-9ed4ca6a341392ed2f8d	16	2491	question_line	0	紫龍が聖闘士の修行をしたのは、	Shiryu đã tu luyện thành Saint
+519	JUS-0afc0bb8fc32465cefb4	16	2491	question_line	1	中国の何という土地？	ở vùng đất nào của Trung Quốc?
+520	JUS-deeaaf627650759bbac8	16	2491	answer_option	0	五老峰	Ngũ Lão Phong
+521	JUS-421fcd6373dec4ab741b	16	2491	answer_option	1	天竜嶽	Thiên Long Nhạc
+522	JUS-1e03b8ac1dd41483cb05	16	2491	answer_option	2	千龍渓谷	Thung lũng Thiên Long
+523	JUS-9075906f4f0ed7d61ff5	16	2491	answer_option	3	昆明石林	Rừng đá Côn Minh
+524	JUS-293b44e54c5c33aeb2ce	16	2492	question_line	0	星矢が聖闘士になった理由は？	Vì sao Seiya trở thành Saint?
+525	JUS-b13164476fccc4f49d08	16	2492	answer_option	0	姉と再会するため	Để gặp lại chị gái
+526	JUS-1032a6277c70c86c3008	16	2492	answer_option	1	自分の育った施設を建て直すため	Để xây lại cô nhi viện cũ
+527	JUS-4c9c454e5cd549b2a3e2	16	2492	answer_option	2	両親の仇を倒すため	Để báo thù cho cha mẹ
+528	JUS-ba36e200c734213af2b5	16	2492	answer_option	3	趣味と実益を兼ねて	Vừa đam mê vừa kiếm sống
+529	JUS-9c9c23e0feb125ed152f	16	2493	question_line	0	星矢が見破った、紫龍の技	Seiya phát hiện điểm yếu của
+530	JUS-947c7170afcdda2b8a5e	16	2493	question_line	1	『廬山昇龍覇』の弱点とは？	chiêu Rozan Shoryuha là gì?
+531	JUS-74f6f6476b8558c25bfa	16	2493	answer_option	0	心臓の位置がガラ空きになる	Để hở hoàn toàn vị trí tim
+532	JUS-ea4263e9bc6d0aae4b85	16	2493	answer_option	1	右側に死角ができる	Lộ điểm mù bên phải
+533	JUS-e432cd47a3ac1cb90197	16	2493	answer_option	2	クセで撃つ瞬間がわかる	Đoán được lúc tung đòn qua thói quen
+534	JUS-6e644b50d26f9092deb8	16	2493	answer_option	3	思ったほどの威力はない	Uy lực không mạnh như tưởng
+535	JUS-1fb64336d120e7b60271	16	2494	question_line	0	死んでいる聖衣をよみがえらせるのに	Muốn hồi sinh một bộ Cloth đã chết,
+536	JUS-4b47d5079668d06735af	16	2494	question_line	1	必要なものは？	cần phải có gì?
+537	JUS-b97777a8c37c1c062ce4	16	2494	answer_option	0	聖闘士の大量の血液	Một lượng lớn máu của các Saint
+538	JUS-8b3dc574182ca175b521	16	2494	answer_option	1	水瓶座の聖水	Nước thánh của Aquarius
+539	JUS-2869fba1812f6d71f704	16	2494	answer_option	2	女神の涙	Nước mắt nữ thần
+540	JUS-c8cdc6c6c18e913d4742	16	2494	answer_option	3	聖衣用瞬間接着剤	Keo dán siêu tốc dành cho Cloth
+541	JUS-5d28fb9645cc972ec8d5	16	2495	question_line	0	次の星矢の技の内、存在しないものは、	Chiêu nào của Seiya không tồn tại?
+542	JUS-892b16d64353af78c7f2	16	2495	answer_option	0	ペガサス天翔蹴	Pegasus Tensho Kick
+543	JUS-c602174a7b82500599c2	16	2495	answer_option	1	ペガサス彗星拳	Pegasus Comet Fist
+544	JUS-8be162f832e1ab9170f3	16	2495	answer_option	2	ペガサスローリングクラッシュ	Pegasus Rolling Crash
+545	JUS-c59fbfbb9bba61cbfc90	16	2495	answer_option	3	ペガサス流星拳	Pegasus Meteor Fist
+546	JUS-4bb59c6b42b6b125cdf4	16	2496	question_line	0	次の内、城戸光政の実の子でないのは、	Ai không là con ruột Mitsumasa Kido?
+547	JUS-18887c9d33d7b41d085f	16	2496	answer_option	0	城戸沙織	Saori Kido
+548	JUS-bc4f64d76f5025ea3c1f	16	2496	answer_option	1	鳳凰星座の一輝	Ikki (Phoenix)
+549	JUS-636681d4a0f3f77f160b	16	2496	answer_option	3	龍星座の紫龍	Shiryu (Dragon)
+550	JUS-e787db69c84ffefb17ac	16	2497	question_line	0	次の内、白銀聖闘士でないのは誰？	Ai KHÔNG phải Silver Saint?
+551	JUS-21a9e21ef97d1c96a30a	16	2497	answer_option	0	海蛇星座の市	Ichi (Hydra)
+552	JUS-a549510bff3773dd2147	16	2497	answer_option	1	鷲星座の魔鈴	Marin (Eagle)
+553	JUS-cd61a15948c6c068d907	16	2497	answer_option	2	猟犬星座のアステリオン	Asterion (Hound)
+554	JUS-8507a7d85193d2091321	16	2497	answer_option	3	銀蠅座のディオ	Dio (Musca)
+555	JUS-11a748593edfddbf99ce	16	2498	question_line	0	白銀聖闘士との闘いにおいて、	Trong trận chiến với Silver Saint,
+556	JUS-ce814d84716b7088fa81	16	2498	question_line	1	紫龍の両目をつぶしたのは誰？	ai đã làm Shiryu mù cả hai mắt?
+557	JUS-6b595fa5b28bb418f25d	16	2498	answer_option	0	紫龍自身	Chính Shiryu
+558	JUS-ff9c1f7837ee498b8688	16	2498	answer_option	1	ペルセウス座のアルゴル	Algol (Perseus)
+559	JUS-8b4d459dbdd43bc9f156	16	2498	answer_option	2	地獄の番犬星座のダンテ	Dante (Cerberus)
+560	JUS-0e7efc7d83c4dcfa4bf4	16	2498	answer_option	3	御者座のカペラ	Capella (Auriga)
+561	JUS-a454d69ee461ce2047b5	16	2499	question_line	0	沙織を城戸光政に託した黄金聖闘士は	Gold Saint nào gửi Saori cho Kido?
+562	JUS-8f2f22bbefbb97b55e0b	16	2499	answer_option	0	射手座のアイオロス	Aiolos (Sagittarius)
+563	JUS-82fafe6407947f62a1d0	16	2499	answer_option	1	獅子座のアイオリア	Aiolia (Leo)
+564	JUS-918d32a67e30531571ca	16	2499	answer_option	2	乙女座のシャカ	Shaka (Virgo)
+565	JUS-5c8f45f372350b2668ad	16	2499	answer_option	3	天秤座の童虎	Dohko (Libra)
+566	JUS-320eb062cd430b21c7e7	16	2500	question_line	0	次の内、獅子座アイオリアの技は？	Chiêu nào thuộc về Leo Aiolia?
+567	JUS-a050712bb174ebcc0a78	16	2500	answer_option	0	ライトニングボルト	Lightning Bolt
+568	JUS-9ab86baeafdbd143e135	16	2500	answer_option	1	ライオネットボンバー	Lionet Bomber
+569	JUS-b000039263a3f8270200	16	2500	answer_option	2	デッドハウリング	Dead Howling
+570	JUS-64bd82d40cbe75e4d95b	16	2500	answer_option	3	ひたすら我慢	Cắn răng chịu đựng
+571	JUS-f71f0e8e0557e08d66b2	16	2501	question_line	0	黄金聖闘士同士が闘って膠着状態に陥る	Khi hai Gold Saint đấu bế tắc,
+572	JUS-f19f881c31edf40a9e92	16	2501	question_line	1	ことを何という？	người ta gọi đó là gì?
+573	JUS-b13b895bd666c942a0e0	16	2501	answer_option	0	千日戦争	Cuộc chiến nghìn ngày
+574	JUS-edbe2577d3c13503d932	16	2501	answer_option	1	千年戦争	Cuộc chiến nghìn năm
+575	JUS-e0844d23cdaef8218212	16	2501	answer_option	2	一年戦争	Cuộc chiến một năm
+576	JUS-806f6b51997a8b88cad6	16	2501	answer_option	3	倦怠期	Giai đoạn chán nhau
+577	JUS-87e9ffebc6b0601c6cff	16	2502	question_line	0	氷河の師は誰？	Sư phụ của Hyoga là ai?
+578	JUS-656a9648d413fa7259f4	16	2502	answer_option	0	水瓶座のカミュ	Camus (Aquarius)
+579	JUS-7078d2e5dede46a26fb9	16	2502	answer_option	2	白鯨星座のモーゼス	Moses (Whale)
+580	JUS-8d70974dfc00a4b34e56	16	2502	answer_option	3	魚座のアフロディーテ	Aphrodite (Pisces)
+581	JUS-de5575a038324a61c458	16	2503	question_line	0	城戸沙織の付き人の名前は？	Tên người hầu cận của Saori Kido?
+582	JUS-ee25e32f1f50abd3d0cd	16	2503	answer_option	0	辰巳徳丸	Tokumaru Tatsumi
+583	JUS-8cc08bc8cec7df5d78f1	16	2503	answer_option	1	辰巳辰郎	Tatsuro Tatsumi
+584	JUS-9359e6a9b2160d97114e	16	2503	answer_option	2	辰巳厳徳	Gento Tatsumi
+585	JUS-b186549a2b4627f20afc	16	2503	answer_option	3	辰巳＝ピエール＝竜一	Tatsumi Pierre Ryuichi
+586	JUS-539a3ce5dccea923395e	16	2504	question_line	0	城戸沙織の心臓に黄金の矢を突き刺した	Ai bắn mũi tên vàng vào tim Saori?
+587	JUS-6eea270de4d6689a3387	16	2504	answer_option	0	矢座のトレミー	Ptolemy (Sagitta)
+588	JUS-e42cf35a31e0c8d534a6	16	2504	answer_option	3	蟹座のデスマスク	Deathmask (Cancer)
+589	JUS-a1c3350bfd64418745a8	16	2505	question_line	0	牡牛座アルデバランの角を折ったのは	Ai đã bẻ gãy sừng Taurus Aldebaran?
+590	JUS-56609de130448c21f915	16	2505	answer_option	0	星矢	Seiya
+591	JUS-8070fd7813fedbdfc453	16	2505	answer_option	1	アルデバラン自身	Chính Aldebaran
+592	JUS-da2b83004391edfa3c30	16	2505	answer_option	2	氷河	Hyoga
+593	JUS-68f030d3ca4dead81453	16	2506	question_line	0	アンドロメダの星雲鎖。	Sợi xích Nebula của Andromeda.
+594	JUS-4e751fccd9873789d067	16	2506	question_line	1	その鉄壁の陣に敵が侵入すると、	Khi kẻ địch xâm nhập trận địa,
+595	JUS-84df06a267ba801fd74b	16	2506	question_line	2	どれくらいの衝撃を与える？	nó tạo ra cú sốc mạnh cỡ nào?
+596	JUS-e7f18881770771338578	16	2506	answer_option	0	一万ボルト	10.000 volt
+597	JUS-6ccaaca4f413e9df09a5	16	2506	answer_option	1	百万ボルト	1.000.000 volt
+598	JUS-20297fa50fd24485be4a	16	2506	answer_option	2	一千万ボルト	10.000.000 volt
+599	JUS-085df924db0b04e3e5f2	16	2506	answer_option	3	象５０頭分くらい？	Cỡ sức của 50 con voi?
+600	JUS-d1a626b015a6ea1e508f	16	2507	question_line	0	相手を異次元の世界へ飛ばす、	Chiêu đẩy kẻ địch sang chiều khác
+601	JUS-a79428539ea346ec9c4c	16	2507	question_line	1	双子座聖闘士の技とは？	của Gemini Saint tên gì?
+602	JUS-cc55a6f22c071d45380d	16	2507	answer_option	0	アナザーディメンション	Another Dimension
+603	JUS-6f096298ccb4c4a46696	16	2507	answer_option	1	ブラックホールＤ	Black Hole D
+604	JUS-49529e8d0a4e3de90ecd	16	2507	answer_option	2	幻影次元扉	Illusion Dimension Gate
+605	JUS-35392d5544363d73d7d1	16	2507	answer_option	3	どこでもパンチ	Cú đấm đi đâu cũng được
+606	JUS-6b167d13a914ef43017d	16	2508	question_line	0	傷ついた聖闘士が噴煙に身をひたし、	Nơi Saint bị thương ngâm hơi nóng
+607	JUS-466535f37a4d54efdadd	16	2508	question_line	1	ふたたび復活する場所とは？	để phục hồi sức lực là đâu?
+608	JUS-68ee24b5b2f60a2cc159	16	2508	answer_option	0	カノン島	Đảo Kanon
+609	JUS-1125273c834396185b6f	16	2508	answer_option	1	デスクィーン島	Đảo Death Queen
+610	JUS-1370f8ff64584102c7a1	16	2508	answer_option	3	秘湯小宇宙の湯	Suối nước nóng Cosmo bí truyền
+611	JUS-1afbe18dac7d1c36b8e6	16	2509	question_line	0	アンドロメダの星雲鎖、左手の円鎖と	Xích Nebula của Andromeda gồm
+612	JUS-52ad29f48545c6ceab35	16	2509	question_line	1	右手の角鎖の組み合わせとして	xích tròn trái và xích góc phải.
+613	JUS-a9970b489d4cc692d668	16	2509	question_line	2	正しいものは、どれ？	Cách phân vai nào mới đúng?
+614	JUS-b7d9f3932c253628e221	16	2509	answer_option	0	防御の円鎖と攻撃の角鎖	Xích tròn thủ, xích góc công
+615	JUS-8816355433f80108bc0c	16	2509	answer_option	1	攻撃の円鎖と防御の角鎖	Xích tròn công, xích góc thủ
+616	JUS-77991fc9bb5d74e42254	16	2509	answer_option	2	速度の円鎖と力の角鎖	Xích tròn nhanh, xích góc mạnh
+617	JUS-97845de4666344dcfce8	16	2509	answer_option	3	力の円鎖と速度の角鎖	Xích tròn mạnh, xích góc nhanh
+618	JUS-8f9b8f1b80ea46004d66	16	2510	question_line	0	氷河がシベリアに送りこまれたのは、	Hyoga được đưa đến Siberia lúc...
+619	JUS-22d83e09709ebe6ba982	16	2510	answer_option	0	八歳	8 tuổi
+620	JUS-e5244bc8cbc7f4b50802	16	2510	answer_option	1	十歳	10 tuổi
+621	JUS-5581c6d993decabbfeb8	16	2510	answer_option	2	五歳	5 tuổi
+622	JUS-3761d7e71c16af00877e	16	2510	answer_option	3	還暦	60 tuổi
+623	JUS-d80428c7b01984200d82	16	2511	question_line	0	氷河は何のために『銀河戦争』に	Vì sao Hyoga tham gia
+624	JUS-03892d04919ac61556ef	16	2511	question_line	1	参加した？	Galaxian Wars?
+625	JUS-3a7e1602f95ac4db3a74	16	2511	answer_option	0	星矢たちを抹殺するため	Để tiêu diệt nhóm Seiya
+626	JUS-0cf6b125caa3a0099542	16	2511	answer_option	1	母の遺体を引き上げるため	Để vớt thi thể mẹ lên
+627	JUS-868146e5f0310a8cca47	16	2511	answer_option	2	行方不明の母を捜すため	Để tìm mẹ mất tích
+628	JUS-3c0913ccd42e1b3fb739	16	2511	answer_option	3	フッ、ほんの気まぐれさ…	Hừm, chỉ là nổi hứng thôi...
+629	JUS-8f0671d300f56dd49e1a	16	2512	question_line	0	蟹座のデスマスクがつくりだすことの	Deathmask (Cancer) tạo được
+630	JUS-6e7c977b18c8eb1c0a8d	16	2512	question_line	1	できる、冥界へと通ずる穴の名前は？	lối xuống âm phủ tên là gì?
+631	JUS-f81b4c7eac7a35d1d9f4	16	2512	answer_option	0	積尸気	Sekishiki
+632	JUS-30015d7704f11d0cb607	16	2512	answer_option	1	冥黄道	Meikodo
+633	JUS-466cf0c54e4c6b8b39a1	16	2512	answer_option	2	冥府百八穴	108 lỗ âm phủ
+634	JUS-1044977e8a55400fdebb	16	2512	answer_option	3	奈落	Vực sâu vô tận
+635	JUS-45b8a43b7a27d7fedf2c	16	2513	question_line	0	この時、デスマスクが	Lúc này, tiếng Deathmask
+636	JUS-63b1855c7ca92efc2898	16	2513	question_line	1	発しているうめき声は、	đang rên rỉ là gì?
+637	JUS-2a8d6587ad5ba85e9df3	16	2513	answer_option	0	あじゃぱアーッ！！	Ajapaa!!
+638	JUS-90218f741bf0ca7522f5	16	2513	answer_option	1	ぬぐふるわっ！！	Ngu-furuwa!!
+639	JUS-3bb193dcf74d6466b725	16	2513	answer_option	2	ちぇこすろばきあーっ！！	Tiệp Khắc ơiii!!
+640	JUS-e01664e8a393b15c51ba	16	2513	answer_option	3	うびゃあ！！	Ú oà!!
+641	JUS-bbe4e389140b0472d266	16	2514	question_line	0	教皇の幻朧魔皇拳によって悪鬼と化した	Aiolia bị chiêu Genro Mao Ken
+642	JUS-b3dcee2188f6580670ca	16	2514	question_line	1	アイオリアから、星矢を守ったのは誰？	khống chế. Ai đã bảo vệ Seiya?
+643	JUS-d5653caeaf472660ac48	16	2515	question_line	0	次の内、乙女座シャカの技『六道輪廻』	Trong sáu cõi luân hồi do
+644	JUS-fa406cf2cb578ff9ed59	16	2515	question_line	1	によって送られる六つの世界に含まれな	chiêu Rikudo Rinne của Shaka tạo ra,
+645	JUS-59db2734cdb9d9ab55e9	16	2515	question_line	2	いものは？	cõi nào KHÔNG có?
+646	JUS-e1c03cd8bb9cff71b4f3	16	2515	answer_option	0	菩薩界	Cõi Bồ Tát
+647	JUS-978cafc91a3dad805d36	16	2515	answer_option	1	人界	Cõi Người
+648	JUS-1c72118d5b2ea7bda5c8	16	2515	answer_option	2	畜生界	Cõi Súc Sinh
+649	JUS-3967f46f8bc0664391bb	16	2515	answer_option	3	餓鬼界	Cõi Ngạ Quỷ
+650	JUS-cec8d2cffe26cfc3a258	16	2516	question_line	0	鳳凰星座の聖衣を砕かれた一輝。	Cloth Phoenix của Ikki bị phá nát.
+651	JUS-42077db17391fda2d05f	16	2516	question_line	1	シャカの攻撃から逃れるために、	Để thoát đòn của Shaka,
+652	JUS-3695ff1af1d5630a109b	16	2516	question_line	2	どれだけの距離を移動したと	Ikki tưởng mình đã bay đi
+653	JUS-02157efea6b74645c8ae	16	2516	question_line	3	思いこんでいた？	một khoảng cách bao xa?
+654	JUS-b39f0d2725a2690caca1	16	2516	answer_option	0	那由他	Nayuta
+655	JUS-bc5c1097e89699ff1461	16	2516	answer_option	1	京	Kei
+656	JUS-9b791efea8ec2d7d433c	16	2516	answer_option	2	恒河沙	Gogasha
+657	JUS-b8db22af008a18ade900	16	2516	answer_option	3	無量大数	Muryotaisu
+658	JUS-a1cac3360b73a3aea466	16	2517	question_line	0	黄金聖衣にもそなわっていない、	Cloth Phoenix có sức mạnh nào
+659	JUS-d3618b94435dffcde64f	16	2517	question_line	1	鳳凰星座の聖衣の能力とは何？	mà cả Gold Cloth cũng không có?
+660	JUS-9b470be49aa6599f674c	16	2517	answer_option	0	自己修復能力	Tự sửa chữa
+661	JUS-c2cf7fd62c62b3d1d5db	16	2517	answer_option	1	進化能力	Tự tiến hóa
+662	JUS-3bc21c6e82fbcaf9b4a7	16	2517	answer_option	2	危機探知能力	Cảm nhận nguy hiểm
+663	JUS-e0065cb6d3796f5d19d2	16	2517	answer_option	3	自爆装置	Thiết bị tự hủy
+664	JUS-5f3adcb522cfa7109a12	16	2518	question_line	0	人の感覚を破壊する、乙女座のシャカ	Tuyệt kỹ mạnh nhất của Shaka
+665	JUS-e0aab29ecc6d60897ae0	16	2518	question_line	1	最大の奥義とは？	có thể phá hủy giác quan là gì?
+666	JUS-325c54291c024245cb14	16	2518	answer_option	0	天舞宝輪	Tenbu Horin
+667	JUS-2985b6eec172494f0483	16	2518	answer_option	1	天魔降伏	Tenma Kofuku
+668	JUS-7e11cb72793dbd92391f	16	2518	answer_option	2	転法輪印	Tenporin-in
+669	JUS-fc3867a9e74021e0e722	16	2518	answer_option	3	天地無用	Tenchi Muyo
+670	JUS-faa988918c3bf355c364	16	2519	question_line	0	天秤座の聖衣にそなわっている、	Cloth Libra có khả năng gì
+671	JUS-e9fb598d16fedfcf57f9	16	2519	question_line	1	他の黄金聖衣と大きく異なる能力とは？	khác hẳn các Gold Cloth khác?
+672	JUS-ee864fa6706e25194bf0	16	2519	answer_option	0	パーツが武器になる	Các bộ phận biến thành vũ khí
+673	JUS-b984ae6b86bb4befd3f5	16	2519	answer_option	2	乗り物に変形する	Biến hình thành xe cộ
+674	JUS-c9a921b2c600d98fc4e7	16	2519	answer_option	3	実は白銀聖衣	Thật ra là Silver Cloth
+675	JUS-3720a652d0e7588ae610	16	2520	question_line	0	天秤座の聖衣を分解してできる六種の	Trong sáu loại vũ khí tháo ra
+676	JUS-1afd567fb4b9b0f2db58	16	2520	question_line	1	武器に含まれないものは、どれ？	từ Cloth Libra, loại nào KHÔNG có?
+677	JUS-5531029059a764682014	16	2520	answer_option	0	斧	Rìu
+678	JUS-8b44ee32433884299d48	16	2520	answer_option	1	剣	Kiếm
+679	JUS-32a999ef968b0c0a5c93	16	2520	answer_option	2	双節棍	Côn nhị khúc
+680	JUS-9b85a66924cb1e85c012	16	2521	question_line	0	天秤座の聖闘士に与えられた	Saint Libra được giao
+681	JUS-ca31f54ea0cc4312c875	16	2521	question_line	1	特別な役目とは何？	nhiệm vụ đặc biệt gì?
+682	JUS-4f99fa8ca0589345a8ae	16	2521	answer_option	0	聖闘士の善悪をはかる	Cân đo thiện ác của các Saint
+683	JUS-f564c1916104b1bfde81	16	2521	answer_option	1	聖闘士の小宇宙の量をはかる	Đo lượng Cosmo của các Saint
+684	JUS-9c422e899784b769ba0e	16	2521	answer_option	2	聖闘士の等級をはかる	Xếp hạng các Saint
+685	JUS-dd78f002971cb25bf90a	16	2521	answer_option	3	聖闘士の体重を量る	Cân xem Saint nặng bao nhiêu
+686	JUS-92d1eefdf7312ed365c6	16	2522	question_line	0	水瓶座のカミュに封じられた氷河を	Ai giải cứu Hyoga bị Camus
+687	JUS-fba45afde3e9ceb3c481	16	2522	question_line	1	氷の柩から救い出したのは誰？	đóng băng trong quan tài băng?
+688	JUS-778b84e867287ae232eb	16	2522	answer_option	3	母の愛	Tình yêu của mẹ
+689	JUS-493b319c892a0ef1b7d8	16	2523	question_line	0	カミュの攻撃によって凍死しかけた	Hyoga suýt chết rét vì Camus.
+690	JUS-f63b11ab47442a50eac0	16	2523	question_line	1	氷河の体を、瞬はどうやって暖めた？	Shun đã sưởi ấm cậu bằng cách nào?
+691	JUS-97fe4d58bc9535bbd53c	16	2523	answer_option	0	自らの小宇宙を燃やした	Thiêu đốt Cosmo của bản thân
+692	JUS-46100ca1dde9226017b5	16	2523	answer_option	1	光の速さでマッサージをした	Mát-xa với tốc độ ánh sáng
+693	JUS-eb5ec630fe5926869f1e	16	2523	answer_option	2	裸で抱きしめた	Ôm chặt Hyoga khi đang khỏa thân
+694	JUS-cc7ee9ea65f4fdf080a2	16	2523	answer_option	3	溶岩の中へ突き落とした	Đẩy thẳng vào dung nham
+695	JUS-2770103088e33423cc01	16	2524	question_line	0	氷河が聖闘士になった理由とは？	Vì sao Hyoga trở thành Saint?
+696	JUS-c4bb9ddac0a267e6ed2b	16	2524	answer_option	3	原宿でスカウトされたから	Vì được tuyển mộ ở Harajuku
+697	JUS-dd70740fe62cdeba582b	16	2525	question_line	0	そこを突けば出血が止まるという、	Huyệt nào bấm vào sẽ
+698	JUS-b295b658eff50ec1a580	16	2525	question_line	1	血止めの急所とは？	giúp cầm máu ngay?
+699	JUS-8774a4fcccddc293084f	16	2525	answer_option	0	真央点	Huyệt Shin-o
+700	JUS-d9d70d6d6fa02d445131	16	2525	answer_option	1	天柱点	Huyệt Tenchu
+701	JUS-75842699c0142dbe47e8	16	2525	answer_option	2	人中点	Huyệt Jinchu
+702	JUS-a71664fe7ec2a3ded928	16	2526	question_line	0	同じ場所に十二体の黄金聖衣がそろうと	Khi cả 12 Gold Cloth tụ họp,
+703	JUS-8539c8fbf9a8de55c2c2	16	2526	question_line	1	何が起こる？	chuyện gì sẽ xảy ra?
+704	JUS-02b5e98298bb3f542887	16	2526	answer_option	0	黄金聖衣同士の共鳴	Các Gold Cloth cộng hưởng
+705	JUS-de019c56bf34ff881eff	16	2526	answer_option	1	天変地異	Thiên tai long trời lở đất
+706	JUS-7b75526352ec03cfdc12	16	2526	answer_option	2	女神の秘宝への扉が開く	Mở cửa tới bảo vật của Athena
+707	JUS-46b1dd8b04b7656b2086	16	2526	answer_option	3	特に何も起こらない	Chẳng có gì đặc biệt
+708	JUS-2d477aa1f19581ae2d26	16	2527	question_line	0	これは人馬宮の壁に刻ま	Đây là di ngôn của Aiolos
+709	JUS-bc59289bdf3ce800a98b	16	2527	question_line	1	れたアイオロスの遺言だ	khắc trên tường cung Nhân Mã.
+710	JUS-560708f32eafe9a05b52	16	2527	question_line	2	が、ギリシャ文字で何と	Vậy dòng chữ Hy Lạp đó
+711	JUS-618375ae2b6f7a461a74	16	2527	question_line	3	書かれている？	viết gì?
+712	JUS-7df0653ddb699caeae93	16	2527	answer_option	0	きみらに女神を託す	Ta giao nữ thần lại cho các cậu
+713	JUS-b1d3666044ae06c34465	16	2527	answer_option	1	教皇に気をつけろ	Hãy đề phòng Giáo hoàng
+714	JUS-52bb55597b30e88a5497	16	2527	answer_option	2	黄金聖闘士に裏切り者がいる	Có kẻ phản bội trong hàng Gold Saint
+715	JUS-ca7181a5384b1ab469b2	16	2527	answer_option	3	財産は弟に譲る	Để hết gia tài lại cho em trai
+716	JUS-e22def3874625f46acdc	16	2528	question_line	0	逃亡したアイオロスを追い、致命傷を	Gold Saint nào truy đuổi Aiolos
+717	JUS-f3af1dbd92a308aff829	16	2528	question_line	1	与えた黄金聖闘士は誰？	và khiến anh bị trọng thương?
+718	JUS-fc515a18891e601bd1b3	16	2528	answer_option	0	山羊座のシュラ	Shura (Capricorn)
+719	JUS-0d818e99fa2404384447	16	2528	answer_option	3	蠍座のミロ	Milo (Scorpio)
+720	JUS-0c701004007300b2a595	16	2529	question_line	0	山羊座シュラのいかなるものでも切り裂	Lưỡi đao tay cắt được mọi thứ
+721	JUS-4cd4bb7ee3d23ead5b61	16	2529	question_line	1	く手刀は、何と呼ばれている？	của Shura (Capricorn) tên gì?
+722	JUS-63e9cd5e34a6bab6e77a	16	2529	answer_option	0	聖剣	Excalibur
+723	JUS-dcc0c479d32f028f2f98	16	2529	answer_option	1	名刀村正	Danh đao Muramasa
+724	JUS-72723b1c48367b53ea4e	16	2529	answer_option	2	最強の矛	Ngọn giáo mạnh nhất
+725	JUS-5f1860747394567e3a02	16	2529	answer_option	3	柳刃包丁	Dao thái cá
+726	JUS-3bed333f9ca69317ac6f	16	2530	question_line	0	使えば自らの身をも滅ぼすと言われ、	Chiêu tối thượng của Shiryu
+727	JUS-bf085dfef26a017fe69a	16	2530	question_line	1	老師によって使用することを禁じられた	bị sư phụ cấm vì dùng xong
+728	JUS-db07fde6809ca023923a	16	2530	question_line	2	紫龍の究極の技とは？	có thể tự hủy diệt là gì?
+729	JUS-813fed592f1588246757	16	2530	answer_option	0	廬山亢龍覇	Rozan Koryuha
+730	JUS-5c68a85a96a3dcce3938	16	2530	answer_option	1	廬山龍飛翔	Rozan Ryu Hisho
+731	JUS-8c4bf1d051ba2edc9077	16	2530	answer_option	2	廬山百龍覇	Rozan Hyakuryuha
+732	JUS-a0f56aacee9fb3e1bb3c	16	2530	answer_option	3	ドラゴンスープレックス	Dragon Suplex
+733	JUS-8585ee26349f6662fc52	16	2531	question_line	0	青銅聖衣は何度以下で凍りつく？	Bronze Cloth đông cứng từ mấy độ?
+734	JUS-d6d42148b28f54fdb1ba	16	2531	answer_option	0	零下百五十度	Âm 150°C
+735	JUS-1445da731b7bb353ad21	16	2531	answer_option	1	絶対零度	Độ không tuyệt đối
+736	JUS-7020bdb5a6b55e4fd012	16	2531	answer_option	2	零下二百度	Âm 200°C
+737	JUS-8c0383b745b8f2ea4104	16	2531	answer_option	3	凍らない	Không bao giờ đóng băng
+738	JUS-56c6af258159a42c1934	16	2532	question_line	0	黄金聖衣は何度で凍りつく？	Gold Cloth đóng băng ở nhiệt độ nào?
+739	JUS-219740a5e399cce4070a	16	2533	question_line	0	次の内、瞬の師を倒した男は誰？	Ai đã đánh bại sư phụ của Shun?
+740	JUS-c0d2f1e204004c2eb2e3	16	2533	answer_option	3	ヘラクレス星座のアルゲティ	Algethi (Heracles)
+741	JUS-2ae29258bbf7f419329b	16	2534	question_line	0	双魚宮から教皇の間へと続く道を埋め尽	Hoa hồng cực độc phủ kín đường
+742	JUS-0059c3b36ea527e9c729	16	2534	question_line	1	くす、猛毒をもった薔薇の名は？	từ cung Song Ngư đến chỗ Giáo hoàng?
+743	JUS-9a5dba6acf2670d064f5	16	2534	answer_option	0	魔宮薔薇	Demon Rose
+744	JUS-5f104aaf7089a1082172	16	2534	answer_option	1	死妖薔薇	Death Fairy Rose
+745	JUS-677d5c66001999787f42	16	2534	answer_option	2	ブラッディローズ	Bloody Rose
+746	JUS-0fa2cc5e14df059fef56	16	2534	answer_option	3	妖紅薔薇	Demon Crimson Rose
+747	JUS-7149abe78682a7da2710	16	2535	question_line	0	アンドロメダ星座、瞬の師の名は？	Tên sư phụ của Andromeda Shun?
+748	JUS-1b56da87eac8e9a46bcd	16	2535	answer_option	0	ケフェウス星座のダイダロス	Daedalus (Cepheus)
+749	JUS-29e74959118af6bd6b80	16	2535	answer_option	2	カメレオン座のジュネ	June (Chameleon)
+750	JUS-3109b64363fc4e4ff764	16	2535	answer_option	3	蛇遣い星座のシャイナ	Shaina (Ophiuchus)
+751	JUS-bcfcd388089c21735e3a	16	2536	question_line	0	瞬が受けたアンドロメダ島最大の訓練	Bài huấn luyện khắc nghiệt nhất
+752	JUS-630039b608022a905b59	16	2536	answer_option	0	サクリファイス	Sacrifice
+753	JUS-695cf76fe20ea276e2d9	16	2536	answer_option	1	獄門鬼面洞	Hang Mặt Quỷ Địa Ngục
+754	JUS-c491ac811773403670be	16	2536	answer_option	2	デモンズロード	Demon's Road
+755	JUS-993725c93f5d2b338ba1	16	2536	answer_option	3	海魔討伐の儀	Lễ trừ diệt hải ma
+756	JUS-650e3c342a8315af6ee7	16	2537	question_line	0	『銀河戦争』時に敗れ去った青銅聖闘士	Khi các Bronze Saint từng thua
+757	JUS-182695d5cb118b8a86f9	16	2537	question_line	1	たちが沙織の危機を救いに現れた時、子	ở Galaxian Wars đến cứu Saori,
+758	JUS-a365f87307ffc27c6a0e	16	2537	question_line	2	獅子星座の蛮が思わず口にした言葉とは	Ban (Lionet) đã buột miệng câu gì?
+759	JUS-2d8d3dec392a0a411466	16	2537	answer_option	0	やった初ゼリフ！	Cuối cùng cũng được thoại!
+760	JUS-f5289550238e40ff0150	16	2537	answer_option	1	好きだ<IDEOSP>沙織さん！	Em yêu chị <IDEOSP> Saori!
+761	JUS-7178daad6f620fa37560	16	2537	answer_option	2	やっと俺たちの出番だぜ！	Đến lượt bọn tôi ra sân rồi!
+762	JUS-0679579a79f0738ba9f8	16	2537	answer_option	3	見てるか<IDEOSP>母ちゃん！	Mẹ ơi <IDEOSP> xem con nè!
+763	JUS-76d5c1018e77d610ac00	16	2538	question_line	0	無数の黒バラを放つ魚座アフロディーテ	Aphrodite tung vô vàn hoa hồng đen.
+764	JUS-c2abd004478aac569706	16	2538	question_line	1	の技の名は？	Tên chiêu này là gì?
+765	JUS-3848869bd9e25476d500	16	2538	answer_option	0	ピラニアンローズ	Piranhan Rose
+766	JUS-2a9e993eea2e6276f1b4	16	2538	answer_option	1	ブラックローズ	Black Rose
+767	JUS-d9e3b69b30bc526dd1c8	16	2538	answer_option	2	黒薔薇幻夢嵐	Bão ảo mộng hồng đen
+768	JUS-a414c51a9cd581cb8f93	16	2538	answer_option	3	死の黒バラキッス	Nụ hôn hồng đen tử thần
+769	JUS-1a728693fb6d3af74e36	16	2539	question_line	0	次の内、魚座のアフロディーテが	Aphrodite (Pisces) KHÔNG dùng
+770	JUS-308db840620991a9721c	16	2539	question_line	1	使わないバラの色は？	hoa hồng màu nào?
+771	JUS-bae86193e694a7c23d87	16	2540	question_line	0	聖闘士がまとっているのは聖衣。	Saint mặc Cloth khi chiến đấu.
+772	JUS-126e95a880617a8ffc57	16	2540	question_line	1	では海闘士がまとっているのは？	Vậy các Mariner mặc gì?
+773	JUS-11d0619844cd98d73450	16	2540	answer_option	0	鱗衣	Scale
+774	JUS-f9ee21c46861a536e45d	16	2540	answer_option	1	海衣	Sea Cloth
+775	JUS-44c7700e7a927c63e5cc	16	2540	answer_option	2	水衣	Water Cloth
+776	JUS-bbfae2ff74282e2df6f2	16	2540	answer_option	3	海パン	Quần bơi
+777	JUS-0d79b43f3a8d9eddb18e	16	2541	question_line	1	では冥闘士がまとっているのは？	Vậy các Specter mặc gì?
+778	JUS-c4f04e474837e7e39773	16	2541	answer_option	0	冥衣	Surplice
+779	JUS-7c2345acf21d571070a6	16	2541	answer_option	1	闇衣	Dark Cloth
+780	JUS-484c7395284ee7505ea8	16	2541	answer_option	2	魔衣	Demon Cloth
+781	JUS-7c0c34c57db739027861	16	2542	question_line	0	アテナに仕えるのは聖闘士。	Chiến binh phục vụ Athena là Saint.
+782	JUS-6a14131a815bd8c73b04	16	2542	question_line	1	では冥王ハーデスに仕える闘士は？	Vậy chiến binh của Hades gọi gì?
+783	JUS-b8f0dec707d02c21ca1e	16	2542	answer_option	0	冥闘士	Specter
+784	JUS-29fa1462adac8b8d1e8e	16	2542	answer_option	1	魔闘士	Demon Fighter
+785	JUS-38ac5b9dcf289d9d8293	16	2542	answer_option	2	死闘士	Death Fighter
+786	JUS-ff1f8e99f8cf54127386	16	2542	answer_option	3	聖闘士	Saint
+787	JUS-81d066d50bbe61496332	16	2543	question_line	0	胸に黄金の矢が刺さった沙織の命を救う	Muốn cứu Saori đang bị
+788	JUS-608d11f1c395f2b9b027	16	2543	question_line	1	ために、必要なものは何？	mũi tên vàng đâm vào ngực cần gì?
+789	JUS-9839b82181537b78eb55	16	2543	answer_option	0	アテナの楯	Khiên Athena
+790	JUS-6792ae1d9830f0efccab	16	2543	answer_option	1	真の聖闘士の口づけ	Nụ hôn của một Saint chân chính
+791	JUS-e215965eefe091bf6cae	16	2543	answer_option	2	教皇の血	Máu của Giáo hoàng
+792	JUS-0bd9446f91e7270d9e7f	16	2543	answer_option	3	緊急医療班	Đội cấp cứu khẩn cấp
+793	JUS-e06a9b4da1dac4bc95c1	16	2544	question_line	0	前教皇を殺害し、成り代わっていた者は	Ai giết Giáo hoàng cũ rồi giả mạo?
+794	JUS-5252209cad4433cffa9b	16	2544	answer_option	0	双子座のサガ	Saga (Gemini)
+795	JUS-1c7c67765a23ed18e421	16	2545	question_line	0	亢龍覇を放ち宇宙のチリになりかけた、	Ai cứu Shiryu suýt tan thành bụi
+796	JUS-5db512f618c053bcfb83	16	2545	question_line	1	紫龍を救ったのは誰？	vũ trụ sau khi dùng Koryuha?
+797	JUS-dd64dd55138734537f77	16	2546	question_line	0	牡牛座のアルデバランが星矢に折られた	Aldebaran bị Seiya bẻ gãy
+798	JUS-648a61840a149ff411bf	16	2546	question_line	1	のはどこ？	bộ phận nào?
+799	JUS-56ceaaa41a8f99d32b19	16	2546	answer_option	0	左の角	Sừng trái
+800	JUS-b1eaca0a347832a28f15	16	2546	answer_option	1	右の角	Sừng phải
+801	JUS-39875577c6d952598dbe	16	2547	question_line	1	では海皇ポセイドンに仕える闘士は？	Vậy chiến binh của Poseidon gọi gì?
+802	JUS-3cb2ce724f8de22fb617	16	2547	answer_option	0	海闘士	Mariner
+803	JUS-b4f31b1e93c4c1dda4b6	16	2547	answer_option	1	水闘士	Water Fighter
+804	JUS-db802bd9e9bd918251fd	16	2548	question_line	0	前教皇に次期教皇として指名された人物	Ai được chọn kế nhiệm Giáo hoàng cũ?
+805	JUS-fbdfced9fa85f398d1c6	16	2549	question_line	0	牡羊座ムウの弟子の名は？	Học trò của Aries Mu tên là gì?
+806	JUS-d57f4aba3ba10d59def2	16	2549	answer_option	0	貴鬼	Kiki
+807	JUS-31a719bda1de879b2c66	16	2549	answer_option	1	ウーム	Uum
+808	JUS-ca20ce25c04ff93675c5	16	2549	answer_option	2	ヤコフ	Yakov
+809	JUS-2ae2d63dfb09adacf845	16	2550	question_line	0	星矢と同じ施設で育った、幼なじみの少	Cô gái bạn thơ ấu từng lớn lên
+810	JUS-275cd2dd48db45e74517	16	2550	question_line	1	女の名は？	cùng cô nhi viện với Seiya là ai?
+811	JUS-221814d0e43052090d2b	16	2550	answer_option	0	美穂	Miho
+812	JUS-1ff65c296e537b3a513e	16	2551	question_line	0	仮面の下の素顔を見られた聖闘士の女子	Khi một nữ Saint bị thấy mặt
+813	JUS-8862a9b48a8544123647	16	2551	question_line	1	は、その相手を殺す以外に、もう一つの	sau mặt nạ, ngoài giết người đó,
+814	JUS-7053a92ddacac617790a	16	2551	question_line	2	選択を取るしかない。そのもう一つの	cô chỉ còn một lựa chọn.
+815	JUS-c8091cb12270118ff42c	16	2551	question_line	3	選択とは？	Đó là gì?
+816	JUS-c67ba55dd0dc88951e77	16	2551	answer_option	0	その相手を愛する	Yêu người ấy
+817	JUS-67f315acb8369e454388	16	2551	answer_option	1	自らの命を絶つ	Tự kết liễu đời mình
+818	JUS-691ae5f7379bcb4cf035	16	2551	answer_option	2	仮面を顔に縫いつける	Khâu luôn mặt nạ vào mặt
+819	JUS-8b1ee1c979015c13ed95	16	2551	answer_option	3	野良犬に噛まれたと思って忘れる	Quên đi như bị chó hoang cắn
+820	JUS-fd5b4c98242fdab48870	16	2552	question_line	0	このモーションは、氷河	Động tác này xuất hiện
+821	JUS-1137bb17fdfb338e26b4	16	2552	question_line	1	が何の技を放った時のも	khi Hyoga sử dụng
+822	JUS-c104b455a4384b776510	16	2552	question_line	2	の？	chiêu nào?
+823	JUS-4789487146c3cdf04c55	16	2552	answer_option	0	オーロラエクスキューション	Aurora Execution
+824	JUS-da43de8ef97a09459485	16	2552	answer_option	1	ホーロドニースメルチ	Kholodnyi Smerch
+825	JUS-878981f5f2426d93170e	16	2552	answer_option	3	カリツォー	Kol'tso
+826	JUS-08b595a403dcd10531f8	16	2553	question_line	0	氷河の母親の名は？	Mẹ Hyoga tên là gì?
+827	JUS-c563352704e70c07bb66	16	2553	answer_option	0	ナターシャ	Natasha
+828	JUS-f734d290e742a5a40a5b	16	2553	answer_option	1	マーマ	Mama
+829	JUS-cd8c007e8c9bca3b713b	16	2553	answer_option	2	ジュネ	June
+830	JUS-ee2e7156396a4e0c7030	16	2553	answer_option	3	雪子	Yukiko
+831	JUS-b169a21cdcd3651ddd93	16	2554	question_line	0	星矢の姉の名は？	Chị gái Seiya tên là gì?
+832	JUS-a83661f9fbd0ad4fc63f	16	2554	answer_option	0	星華	Seika
+833	JUS-f7e03b27742754c8cfb9	16	2554	answer_option	1	美星	Mihoshi
+834	JUS-f9f0b347d92adbf16cc2	16	2554	answer_option	3	星子	Hoshiko
+835	JUS-481c5a19486f57e774ed	16	2555	question_line	0	主人公、星矢の血液型は？	Nhóm máu của Seiya là gì?
+836	JUS-9dd9976b097cf78403ea	16	2556	question_line	0	主人公、星矢の誕生日は？	Seiya sinh ngày nào?
+837	JUS-450b1dcef5ae3491cf8d	16	2556	answer_option	0	１２月１日	Ngày 1 tháng 12
+838	JUS-c93fdd70ee3d109710fb	16	2556	answer_option	2	９月９日	Ngày 9 tháng 9
+839	JUS-dbc23871f43d35722af9	16	2556	answer_option	3	１０月４日	Ngày 4 tháng 10
+840	JUS-cc7f9eba8a6f30a8d034	16	2557	question_line	0	次の内、射手座の黄金聖衣をまとった	Ai từng mặc Gold Cloth
+841	JUS-269820ede80fc041b1dd	16	2557	question_line	1	ことがあるのは誰？	của Sagittarius?
+842	JUS-7e43e758c5600b2aa60f	16	2557	answer_option	3	この中にはいない	Không ai trong số này
+843	JUS-3dc4c55b139c0e6ac60b	16	2558	question_line	0	次の内、山羊座の黄金聖衣をまとった	Ai từng mặc Gold Cloth Capricorn?
+844	JUS-3c99abb91362b4211f1d	16	2558	answer_option	1	瞬	Shun
+845	JUS-f94c0700930ac11f2648	16	2558	answer_option	2	一輝	Ikki
+846	JUS-a9d2a48eea2723ef7b3f	16	2559	question_line	0	乙女座シャカの出身地はどこ？	Shaka (Virgo) sinh ra ở đâu?
+847	JUS-08bec8705e5fc4e2a4d6	16	2559	answer_option	0	インド	Ấn Độ
+848	JUS-c97cb74877bb6151f260	16	2559	answer_option	3	極楽浄土	Cõi Cực Lạc
+849	JUS-8113633e08d10681056b	16	2560	question_line	0	聖闘士と修業時代を一緒に過ごした女性	Cặp Saint và cô gái từng ở bên
+850	JUS-b4c7bcdca1513c457250	16	2560	question_line	1	の組み合わせとして、まちがっているも	nhau khi tu luyện nào sau đây
+851	JUS-06997af22131cb8a3f45	16	2560	question_line	2	のは、どれ？	bị ghép SAI?
+852	JUS-4b87748087a2ec34ace3	16	2560	answer_option	0	氷河とナターシャ	Hyoga và Natasha
+853	JUS-2934b6b96555ff48f449	16	2560	answer_option	1	紫龍と春麗	Shiryu và Shunrei
+854	JUS-54eb43cda5685f32cb5a	16	2560	answer_option	2	瞬とジュネ	Shun và June
+855	JUS-3aed8a0f40a24082660b	16	2560	answer_option	3	一輝とエスメラルダ	Ikki và Esmeralda
+856	JUS-74c9bd01e42bf77ce00c	16	2561	question_line	0	聖闘士星矢の作品中では、	Trong Saint Seiya,
+857	JUS-6010814cd08a85783004	16	2561	question_line	1	『聖域』と書いて何と読む？	chữ 'Thánh địa' đọc thế nào?
+858	JUS-9a535af695b26cb1c603	16	2561	answer_option	0	サンクチュアリ	Sanctuary
+859	JUS-0b563cf76d80cb0c3b92	16	2561	answer_option	1	セイイキ	Seiiki
+860	JUS-d107a7094774330a7602	16	2561	answer_option	2	セントゾーン	Saint Zone
+861	JUS-b649c2b3da6b0854f971	16	2561	answer_option	3	ホーリーランド	Holy Land
+862	JUS-e1fbf45de861477c4621	16	2562	question_line	0	聖衣の収められた箱は、神話の時代に何	Hộp đựng Cloth thời thần thoại
+863	JUS-aa2fbe81c90bf06c6b0d	16	2562	question_line	1	と呼ばれていた？	được gọi là gì?
+864	JUS-65482e49dbac127e8358	16	2562	answer_option	0	パンドーラ・ボックス	Pandora Box
+865	JUS-2fd8520e2910ec7cdfa6	16	2562	answer_option	1	神の柩	Quan tài của thần
+866	JUS-1794e508e8148ccd4a4a	16	2562	answer_option	2	魔封聖箱	Thánh hộp phong ma
+867	JUS-62d0cc44c57f514d3d86	16	2562	answer_option	3	ビックーリ・ボックス	Hộp giật mình
+868	JUS-796cd6b10bb99989cfba	16	2563	question_line	0	星矢と天馬星座の聖衣を懸けて戦った	Cassios từng tranh Cloth Pegasus
+869	JUS-eb532ebfe9cb4281766b	16	2563	question_line	1	カシオス。彼の師、シャイナは何星座の	với Seiya. Sư phụ cậu ta là Shaina,
+870	JUS-0ebaaa923b07ba4b75e7	16	2563	question_line	2	聖闘士？	thuộc chòm sao nào?
+871	JUS-7efdb3fd3580306f834e	16	2563	answer_option	0	蛇遣い	Ophiuchus
+872	JUS-ec9ed6626af493049439	16	2563	answer_option	1	鷲	Eagle
+873	JUS-8d067a95781232b0225f	16	2563	answer_option	3	海蛇	Hydra
+874	JUS-248e3dbdbdc7437e4dc3	16	2564	question_line	0	星矢の師、魔鈴は何星座の聖闘士？	Marin, sư phụ Seiya, thuộc sao nào?
+875	JUS-d50363e559e252a7b187	16	2565	question_line	0	主人公、星矢は何星座の聖闘士？	Seiya là Saint của chòm sao nào?
+876	JUS-84905dc864ba9d31f642	16	2565	answer_option	0	天馬	Pegasus
+877	JUS-b9daf1b1e59c472ee54e	16	2565	answer_option	1	龍	Dragon
+878	JUS-9cbb655e40c233367f73	16	2565	answer_option	2	アンドロメダ	Andromeda
+879	JUS-6d1d87c7d36fd4a9677c	16	2565	answer_option	3	鳳凰	Phoenix
+880	JUS-c42cddf0247433c3cc34	16	2566	question_line	0	紫龍が修業時代に出会った少女、春麗は	Shunrei, cô gái Shiryu gặp lúc
+881	JUS-20e72acb1e8481efb31b	16	2566	question_line	1	何星座の聖闘士？	luyện tập, là Saint chòm sao nào?
+882	JUS-dfd52a418b73ae65a5c7	16	2566	answer_option	0	聖闘士ではない	Cô ấy không phải Saint
+883	JUS-2630a0cda9043e1f1fad	16	2566	answer_option	1	乙女	Virgo
+884	JUS-811e70e0e125255e697b	16	2566	answer_option	2	蜥蜴	Lizard
+885	JUS-af633f453838f36f7c76	16	2566	answer_option	3	ケフェウス	Cepheus
+886	JUS-9b2cc345f3e825468649	16	2567	question_line	0	射手座のアイオロスが、城戸光政に女神	Aiolos (Sagittarius) mất khi
+887	JUS-4c2ce71b3c269f88b600	16	2567	question_line	1	を託し死んだのは、何歳の時？	trao Athena cho Kido lúc mấy tuổi?
+888	JUS-39418b7294a7c81bc8d2	16	2567	answer_option	0	十四歳	14 tuổi
+889	JUS-e904098abb98c5ca2756	16	2567	answer_option	1	十六歳	16 tuổi
+890	JUS-dd862e82ae7a39ef8e04	16	2567	answer_option	2	十八歳	18 tuổi
+891	JUS-ca204025fb5b27988c89	16	2567	answer_option	3	二十二歳	22 tuổi
+892	JUS-842dae99bd95a5494592	16	2568	question_line	0	黄金聖闘士の中で、唯一、前聖戦から	Gold Saint duy nhất còn sống
+893	JUS-cdbbe955543ba5c28c6c	16	2568	question_line	1	生き残っているのは誰？	từ Thánh chiến trước là ai?
+894	JUS-6b7aa364f55e5061f45a	16	2569	question_line	0	次の内、牡羊座のムウが聖衣の修繕に	Aries Mu KHÔNG dùng thứ nào
+895	JUS-eab330889ca42c1f46ce	16	2569	question_line	1	用いないものは、どれ？	để sửa Cloth?
+896	JUS-ea8d280a1a06649aafaa	16	2569	answer_option	0	龍の牙	Răng rồng
+897	JUS-8433ddf89d0d50578098	16	2569	answer_option	2	星砂粉	Bụi sao
+898	JUS-5178c5271b883b29b5ba	16	2569	answer_option	3	ガマニオン	Gamanion
+899	JUS-a722d53281e4b5160805	16	2570	question_line	0	城戸沙織の付き人、辰巳は剣道何段の	Tatsumi, người hầu của Saori,
+900	JUS-0d80d383d4a8223a23af	16	2570	question_line	1	腕前？	đạt đẳng mấy môn Kendo?
+901	JUS-bb14e573a4552bdfce40	16	2570	answer_option	0	三段	Đẳng 3
+902	JUS-2f7b715354683640292c	16	2570	answer_option	1	五段	Đẳng 5
+903	JUS-7c0307838b32c8ac97a9	16	2570	answer_option	2	十段	Đẳng 10
+904	JUS-ea3e32ef77fde175343a	16	2570	answer_option	3	剣道はしない（竹刀）	Chưa từng tập Kendo
+905	JUS-85f895ce6855f167b872	16	2571	question_line	0	『銀河戦争』で星矢と一回戦を戦った	Ai đấu với Seiya vòng đầu
+906	JUS-cda7a008743bea6dd060	16	2571	answer_option	1	一角獣星座の邪武	Jabu (Unicorn)
+907	JUS-df2dde8247e3f103f221	16	2571	answer_option	2	子獅子星座の蛮	Ban (Lionet)
+908	JUS-91f73fadd395cfe27ede	16	2571	answer_option	3	一回戦は不戦勝	Seiya được miễn vòng đầu
+909	JUS-927087b3c43b32782168	16	2572	question_line	0	『銀河戦争』開催中、アンドロメダ星座	Tại Galaxian Wars, xích
+910	JUS-bac01745d630726c1d56	16	2572	question_line	1	瞬の鎖が危機を教えるために、記した	Andromeda của Shun đã viết
+911	JUS-2b7690102d31ccb302a0	16	2572	question_line	2	文字は？	chữ gì để cảnh báo nguy hiểm?
+912	JUS-9ed87f7006874b525dcf	16	2572	answer_option	0	ＡＸＩＡ	AXIA
+913	JUS-9b2259848e8320a228d5	16	2572	answer_option	1	ＰＨＯＥＮＩＸ	PHOENIX
+914	JUS-0837c8ecae56ed0106b4	16	2572	answer_option	2	ＥＸＯＤＵＳ	EXODUS
+915	JUS-646f136db5e17e7cd45b	16	2572	answer_option	3	ＳＯＳ	SOS
+916	JUS-2982b5f332c3322fc98f	16	2573	question_line	0	週刊少年ジャンプ、Ｓ６１年２２号にて	Trong bình chọn 10 Cloth yêu thích
+917	JUS-a36c7009d3b9a530f0a9	16	2573	question_line	1	募集された『１０大聖衣人気投票』で	ở Jump số 22 năm 1986,
+918	JUS-0cecf5303022b53d434c	16	2573	question_line	2	見事、第一位に輝いたのは、どの聖衣？	Cloth nào xếp hạng nhất?
+919	JUS-7b0298f5d8889fe5761c	16	2573	answer_option	0	龍星座	Dragon
+920	JUS-6816f368b2b5359518a7	16	2573	answer_option	1	白鳥星座	Cygnus
+921	JUS-7ff680b77f85872b5008	16	2573	answer_option	2	アンドロメダ星座	Andromeda
+922	JUS-8dea37f9288d64c786b5	16	2573	answer_option	3	天馬星座	Pegasus
+923	JUS-d52116088e6837a24517	16	2574	question_line	0	青木ヶ原、十風穴における暗黒聖闘士た	Trong trận chiến với Black Saint
+924	JUS-943b3e517394b8ab512d	16	2574	question_line	1	ちとの死闘において、暗黒白鳥星座の聖	ở mười hang gió Aokigahara,
+925	JUS-217e6fe37dd969438748	16	2574	question_line	2	闘士が氷河の技を一輝に伝えるために、	Black Swan gửi cho Ikki thứ gì
+926	JUS-d4f533eeb0093985104e	16	2574	question_line	3	託したものは何？	để tiết lộ kỹ thuật của Hyoga?
+927	JUS-5bb1f5e780347f62ee3f	16	2574	answer_option	0	自分の目玉	Chính nhãn cầu của mình
+928	JUS-c7b5c69df3303fd730c9	16	2574	answer_option	1	血文字の手紙	Bức thư viết bằng máu
+929	JUS-1dee1a38927c2de73563	16	2574	answer_option	2	暗黒星座文字	Chữ viết Black Saint
+930	JUS-8cfbcb24df57ba7ea896	16	2575	question_line	0	乙女座のシャカが	Câu này do Shaka (Virgo)
+931	JUS-42bb910927e0ca7c2c8e	16	2575	question_line	1	発するこの言葉、	niệm ra là gì?
+932	JUS-ab19befab4174a485efb	16	2575	answer_option	0	オーム	Om
+933	JUS-26fa033d3845bbbaf332	16	2575	answer_option	1	カーン	Khan
+934	JUS-fa470c1c3d2dca6c3d4d	16	2575	answer_option	2	キリーク	Kirik
+935	JUS-6ef53261d4ede77a402f	16	2575	answer_option	3	タラーク	Tarak
+936	JUS-01157544664d64d461f1	16	2576	question_line	0	青木≪原、十風穴の死闘において、一輝	Tại Aokigahara, Ikki đâm Hyoga.
+937	JUS-10253779e46735e3caff	16	2576	question_line	1	に胸を貫かれた氷河の命を救ったものと	Thứ gì đã cứu mạng cậu ấy?
+938	JUS-cdb439e7aecfa1aaf62c	16	2576	answer_option	0	ノーザンクロスのロザリオ	Dây chuyền Northern Cross
+939	JUS-9cb6915aed6a297a4700	16	2576	answer_option	1	ナターシャのくれたお守り	Bùa hộ mệnh mẹ Natasha tặng
+940	JUS-1d29eeaff0a61da46d9f	16	2576	answer_option	2	師、カミュの教え	Lời dạy của Camus
+941	JUS-47bbc912fb8b804b1270	16	2576	answer_option	3	母親の写真	Ảnh mẹ
+942	JUS-5243b6c078f0df23e8e4	16	2577	question_line	0	自分が倒したことを	Dùng tấm thẻ này để
+943	JUS-18d280fe06aaef4409c2	16	2577	question_line	1	証明するために用いる、	chứng minh mình đã hạ đối thủ.
+944	JUS-7d988fb18d48111aeb31	16	2577	question_line	2	このカードの名称は？	Nó tên là gì?
+945	JUS-40a7100fd406906253a7	16	2577	answer_option	0	聖闘士カード	Saint Card
+946	JUS-7347350ebf9c29eb08f9	16	2577	answer_option	1	死の血判状	Tờ huyết thư tử thần
+947	JUS-5bda420a2ee0ea92431e	16	2577	answer_option	2	聖印符	Thánh ấn phù
+948	JUS-49de6d8a7b7642e9ba87	16	2577	answer_option	3	聖闘神符	Bùa chiến thần
+949	JUS-7a934429e06064273e05	16	2578	question_line	1	『小宇宙』と書いて何と読む？	Chữ 'Tiểu vũ trụ' đọc thế nào?
+950	JUS-e8d085fb82c6a4005876	16	2578	answer_option	0	コスモ	Cosmo
+951	JUS-ed0063a65629e3bf5846	16	2578	answer_option	1	リトルコスモス	Little Cosmos
+952	JUS-32b2ecf78f81ac149e46	16	2578	answer_option	2	ミクロスペース	Micro Space
+953	JUS-b5d92606080df8060801	16	2578	answer_option	3	ショウウチュウ	Shouchuu
+954	JUS-040f8c3834982cc30127	16	2579	question_line	0	沙織のピンチに現れた、	Bóng người xuất hiện
+955	JUS-b977f6cc61caba7199f5	16	2579	question_line	1	このシルエットの人物は	để cứu Saori là ai?
+956	JUS-ad875a3bb665e88863ea	16	2579	answer_option	2	那智	Nachi
+957	JUS-beb3998dce245e6959ee	16	2579	answer_option	3	辰巳	Tatsumi
+958	JUS-08480073b1bf805865ff	16	2580	question_line	0	これは、何座の聖衣？	Đây là Cloth của chòm sao nào?
+959	JUS-2a47173687476d36bf77	16	2580	answer_option	0	乙女座	Virgo
+960	JUS-ed5bb7a9cf08c81c0184	16	2580	answer_option	2	水瓶座	Aquarius
+961	JUS-9fe42a15eae206f27138	16	2580	answer_option	3	ケフェウス星座	Cepheus
+962	JUS-5ad830fb31b99cd5f07a	16	2581	question_line	0	この時、星矢は何故、	Vì sao lúc này Seiya
+963	JUS-8e888dc5aa5fc136e1a4	16	2581	question_line	1	仮面をかぶっている？	lại đeo mặt nạ?
+964	JUS-c9071a1d8013e967c69c	16	2581	answer_option	0	毒を吸わないようにするため	Để tránh hít phải khí độc
+965	JUS-e23c9d4e5368f377b108	16	2581	answer_option	1	敵の目をあざむくため	Để đánh lừa kẻ địch
+966	JUS-df6168480f068e949356	16	2581	answer_option	2	焼けただれた顔を隠すため	Để che gương mặt bỏng nặng
+967	JUS-3e953fb597ba5638b7be	16	2581	answer_option	3	おしゃれ	Cho sành điệu
+968	JUS-0fc2f72e7a0476c8dc66	16	2582	question_line	0	この火時計の火が	Khi lửa trên đồng hồ
+969	JUS-307137a5160f7fae3b19	16	2582	question_line	1	すべて消えた時、	đều cháy hết,
+970	JUS-a16dffb2e24075a19dae	16	2582	question_line	2	何がどうなる？	chuyện gì sẽ xảy ra?
+971	JUS-1a3d79c3a10cff3c9b36	16	2582	answer_option	0	沙織の胸の矢が心臓に刺さる	Mũi tên đâm vào tim Saori
+972	JUS-4b795617910d3c311ad8	16	2582	answer_option	1	聖闘士の時代が終わる	Thời đại của Saint kết thúc
+973	JUS-fc52746ce6fa8d41ddcf	16	2582	answer_option	2	新たなる聖戦の幕が開ける	Một Thánh chiến mới bắt đầu
+974	JUS-22fb98476166c06bb448	16	2582	answer_option	3	百八つの鐘が鳴る	108 hồi chuông vang lên
+975	JUS-403bab839aed1125fc8c	16	2583	answer_option	0	氷戦士のアレクサー	Alexei, chiến binh băng giá
+976	JUS-77f81a2aa545f8986c8d	16	2583	answer_option	2	巨犬座のシリウス	Sirius (Canis Major)
+977	JUS-a9be2580962ee31ce35e	16	2583	answer_option	3	ケンタウルス星座のバベル	Babel (Centaurus)
+978	JUS-f902661cf71f2f87040c	16	2584	question_line	0	ポセイドン神殿に向かう星矢たちに	Nhóm Seiya nhận bộ Bronze Cloth
+979	JUS-6480d2760837463ce827	16	2584	question_line	1	贈られた新生青銅聖衣。	mới trên đường tới đền Poseidon.
+980	JUS-f272c9c4aba8611af856	16	2584	question_line	2	星矢の天馬星座の聖衣は、	Cloth Pegasus của Seiya
+981	JUS-b9935e3a558f536c542c	16	2584	question_line	3	誰の血によって甦った？	sống lại nhờ máu của ai?
+982	JUS-c7e28f3e5043345a6b90	16	2584	answer_option	1	アイオロス	Aiolos
+983	JUS-b23f1fca1fdcd91ae8c3	16	2585	question_line	2	氷河の白鳥星座の聖衣は、	Cloth Cygnus của Hyoga thì sao?
+984	JUS-2803aa6f322f268a2fc9	16	2585	answer_option	0	ミロ	Milo
+985	JUS-eb2cd8dd0d48bc9a3955	16	2585	answer_option	1	カミュ	Camus
+986	JUS-0f341a92faa60ad31b98	16	2585	answer_option	2	ムウ	Mu
+987	JUS-7a85c97563423c91b325	16	2586	question_line	2	それまでと段違いに能力が上がった、	Vì sao Bronze Cloth mạnh vượt bậc?
+988	JUS-2d4e3500fcd51baec785	16	2586	answer_option	0	黄金聖闘士の血で甦ったから	Vì hồi sinh nhờ máu Gold Saint
+989	JUS-e1c3db7ca23a7953c2a8	16	2586	answer_option	1	アテナの血で甦ったから	Vì hồi sinh nhờ máu Athena
+990	JUS-923f3b912ce2d82e7fe5	16	2586	answer_option	2	黄金聖衣を溶かして造ったから	Vì luyện từ Gold Cloth nấu chảy
+991	JUS-245e8bb008a637bed9bb	16	2586	answer_option	3	経験値が貯まってレベルアップした	Vì tích EXP rồi lên cấp
+992	JUS-26f5f0f3f33373bd6b6b	16	2587	question_line	0	黄金聖闘士の域にまで小宇宙を高めても	Dù Cosmo đạt mức Gold Saint,
+993	JUS-d703adec2b913f37caeb	16	2587	question_line	1	砕けないポセイドン神殿の柱。星矢は、	Seiya vẫn khó phá các cột ở đền
+994	JUS-df4115db957856908672	16	2587	question_line	2	北大西洋の柱をどうやって砕いた？	Poseidon. Cậu phá cột đó thế nào?
+995	JUS-3f1188a67d123b5b9e94	16	2587	answer_option	0	天秤座の武器を用いた	Nhờ vũ khí Libra
+996	JUS-db6e900e424d3bf98641	16	2587	answer_option	1	体ごと彗星と化して体当たり！	Biến mình thành sao chổi lao vào!
+997	JUS-1da3e7af59f23335dede	16	2587	answer_option	2	全小宇宙を頭部に集め、頭突き！	Dồn Cosmo vào đầu rồi húc!
+998	JUS-ef8555d7c8ba79d9975d	16	2587	answer_option	3	ポセイドンの三つ叉の鉾を用いた	Dùng đinh ba của Poseidon
+999	JUS-77e5620eb634b4098e2f	16	2588	question_line	0	ポセイドン神殿で再会した、	Tại đền Poseidon, Hyoga
+1000	JUS-fa926ae3c0466386d30a	16	2588	question_line	1	氷河の兄弟子とは？	gặp lại đàn anh nào?
+1001	JUS-1a6fe28534bbf8c938a1	16	2588	answer_option	0	クラーケンのアイザック	Isaac (Kraken)
+1002	JUS-edf566ef2f9d7957182a	16	2588	answer_option	1	リュムナデスのカーサ	Kasa (Lymnades)
+1003	JUS-ebff97e144f48c88e7c8	16	2588	answer_option	2	クリュサオルのクリシュナ	Krishna (Chrysaor)
+1004	JUS-fdc12fbfde7ca4144d75	16	2588	answer_option	3	スキュラのイオ	Io (Scylla)
+1005	JUS-c265e749887571307146	16	2589	question_line	0	アテナがほどこした海皇ポセイドンの	Ai đã phá phong ấn Athena
+1006	JUS-6fb98003d1c87568f030	16	2589	question_line	1	三つ叉の鉾の封印を解いたのは誰？	trên cây đinh ba của Poseidon?
+1007	JUS-558ab2d1f6dc883f9fa5	16	2589	answer_option	0	カノン	Kanon
+1008	JUS-070f62934e8f2be7620e	16	2589	answer_option	1	サガ	Saga
+1009	JUS-d7b2bd6cfe72d7223fe8	16	2589	answer_option	2	童虎	Dohko
+1010	JUS-068fc1b9d47b1c3f4670	16	2589	answer_option	3	ジュリアン	Julian
+1011	JUS-abb54826db5a8c74da16	16	2590	question_line	0	サガに殺害された、前教皇シオンは	Giáo hoàng Shion bị Saga giết
+1012	JUS-0163ed0203292f08f350	16	2590	question_line	1	何座の黄金聖闘士だった？	vốn là Gold Saint chòm sao nào?
+1013	JUS-fe7d3a289d7c7eb88b8d	16	2590	answer_option	0	牡羊座	Aries
+1014	JUS-cea38fbc4d75865699eb	16	2590	answer_option	3	山羊座	Capricorn
+1015	JUS-55244e7fd897a9a86aa3	16	2591	answer_option	1	冥闘士ラダマンティス	Rhadamanthys, một Specter
+1016	JUS-c2b98ee1aece816b3b59	16	2591	answer_option	2	前教皇シオン	Cựu Giáo hoàng Shion
+1017	JUS-5c22d71c4338953f309b	16	2591	answer_option	3	星矢の兄、星馬	Seima, anh trai Seiya
+1018	JUS-78646ca76a791bc0fe66	16	2592	question_line	0	大いなる昔アテナによって禁じられた、	Chiêu cấm từ thời cổ đại,
+1019	JUS-3700ff50463c9933a07d	16	2592	question_line	1	黄金聖闘士が三位一体になって放つ、	khi ba Gold Saint hợp sức
+1020	JUS-88f9ef63b5fe18eb810f	16	2592	question_line	2	究極の影の闘法とは？	tung đòn tối thượng tên là gì?
+1021	JUS-8634d406c4142cf538f8	16	2592	answer_option	0	アテナ・エクスクラメーション	Athena Exclamation
+1022	JUS-713ef9e754e0a9a030e7	16	2592	answer_option	1	セイント・ビッグ・バン	Saint Big Bang
+1023	JUS-fd741fc7bcdc970118a7	16	2592	answer_option	2	デルタ・ディメンション	Delta Dimension
+1024	JUS-852b8b941a2bb5ff3200	16	2592	answer_option	3	シャドウ・ジャッジメント	Shadow Judgment
+1025	JUS-e7099496171f78f6c15a	16	2593	question_line	0	二百数十年に一度、よみがえるという	Cloth Athena hồi sinh
+1026	JUS-8753f08b7b62b2e974ca	16	2593	question_line	1	アテナの聖衣。	mỗi hơn 200 năm một lần.
+1027	JUS-91fa32bd78c5bc68dd5b	16	2593	question_line	2	よみがえる時に必要とするものとは？	Cần thứ gì để đánh thức nó?
+1028	JUS-ab340fe779a7c7f9f45d	16	2593	answer_option	0	アテナ自身の血	Máu của chính Athena
+1029	JUS-2fb486315450336a4a89	16	2593	answer_option	1	十二人の黄金聖闘士の血	Máu của 12 Gold Saint
+1030	JUS-8bab01c348977d87e3d9	16	2593	answer_option	2	黄金の短剣	Dao găm vàng
+1031	JUS-fe0d4511bc481a731a79	16	2593	answer_option	3	単三電池４本	Bốn viên pin AA
+1032	JUS-9edc93d4942971560d76	16	2594	question_line	0	海闘士との戦いで傷ついた星矢たちの	Bronze Cloth của nhóm Seiya
+1033	JUS-1b477368fe07241bde6f	16	2594	question_line	1	青銅聖衣は、何によってよみがえった？	hồi sinh nhờ đâu sau trận Mariner?
+1034	JUS-6d28a10124aab61e920f	16	2594	answer_option	0	アテナの血	Máu Athena
+1035	JUS-7b81fdfe7695755944d8	16	2594	answer_option	2	前教皇シオンの血	Máu cựu Giáo hoàng Shion
+1036	JUS-ba81ba44c21ff27c4abc	16	2594	answer_option	3	牡羊座ムウの血	Máu Aries Mu
+1037	JUS-a01e4b67a10199e7e865	16	2595	question_line	0	乙女座のシャカが、死に行く際に血で	Lúc sắp chết, Shaka dùng máu
+1038	JUS-44437a3670944c38c16d	16	2595	question_line	1	花びらにしたため、アテナに託した言葉	viết lên cánh hoa gửi Athena.
+1039	JUS-63c322c67892f2870724	16	2595	question_line	2	『阿頼耶識』とは何のこと？	'Arayashiki' nghĩa là gì?
+1040	JUS-0577d1e7bc61c903418f	16	2595	answer_option	0	エイトセンシズ	Eighth Sense
+1041	JUS-abcd33905fab66dee305	16	2595	answer_option	1	アテナの聖衣	Cloth của Athena
+1042	JUS-2178ef567cecae331703	16	2595	answer_option	3	アイラヴユー	I Love You
+1043	JUS-d728b531ea3a259afce2	16	2596	question_line	0	これは冥界の地獄門に	Dòng chữ ở cổng địa ngục
+1044	JUS-c60289c0388cb1e25152	16	2596	question_line	1	書かれている言葉だが	dưới âm phủ này
+1045	JUS-de36e76f71c51d7a3c7d	16	2596	question_line	2	その意味とは？	mang ý nghĩa gì?
+1046	JUS-d89c848245082f5a0d6a	16	2596	question_line	3	「ここに入る者…」	'Ai bước vào đây...'
+1047	JUS-086c69857864d4b0a863	16	2596	answer_option	0	一切の希望を捨てよ	Hãy từ bỏ mọi hy vọng
+1048	JUS-a2277cfb21c242a0bfdc	16	2596	answer_option	1	現世に戻ること叶わず	Không thể trở về trần gian
+1049	JUS-d4849703b2fc0d4023ec	16	2596	answer_option	2	死して屍拾う者なし	Chết rồi chẳng ai nhặt xác
+1050	JUS-fc984e1da2609e2a8443	16	2596	answer_option	3	ノックするべし	Nhớ gõ cửa nhé
+1051	JUS-88c59d6bd892c53358ba	16	2597	question_line	0	恋人ユリティースを追って冥界に堕ちた	Silver Saint huyền thoại theo
+1052	JUS-111229115a63e6280f34	16	2597	question_line	1	黄金聖闘士をもしのぐ力を持つという	người yêu Eurydice xuống âm phủ,
+1053	JUS-14750b389bf711bdbc99	16	2597	question_line	2	伝説の白銀聖闘士の名は？	mạnh hơn cả Gold Saint là ai?
+1054	JUS-5fc71e3d1156956834a8	16	2597	answer_option	0	琴座のオルフェ	Orpheus (Lyra)
+1055	JUS-a2f11f1b5bcc64d5b0e3	16	2598	question_line	0	瞬が肌身離さずつけているという、	Mặt dây chuyền hình ngôi sao
+1056	JUS-f116a10280bb6b2ac46e	16	2598	question_line	1	星形のペンダントは誰に贈られたもの？	Shun luôn mang là do ai tặng?
+1057	JUS-e7614161ec2fe3a4b10e	16	2598	answer_option	2	亡き母	Người mẹ quá cố
+1058	JUS-d03150a9cf741765d1b5	16	2599	question_line	0	ハーデスが、自らの肉体として	Hades đã chọn ai
+1059	JUS-8e2c153f3450f777a250	16	2599	question_line	1	選んだのは誰？	làm thân xác cho mình?
+1060	JUS-4d1d7159f11f3641aa62	16	2599	answer_option	0	アンドロメダ星座の瞬	Shun (Andromeda)
+1061	JUS-e79c66ab87483bfb9f16	16	2600	question_line	0	神でありながらハーデスの配下になった	Thanatos là thần nhưng theo Hades.
+1062	JUS-e5b216ca538a1a0e72af	16	2600	question_line	1	タナトスの攻撃に、手も足も出ない	Nhóm 5 Bronze Saint của Seiya
+1063	JUS-03a414a2270875cdcbc1	16	2600	question_line	2	星矢ら、５人の青銅聖闘士たち。	không chống nổi đòn của hắn.
+1064	JUS-4bb1d14f8a35f5baed10	16	2600	question_line	3	彼らの元に、黄金聖衣を送ったのは誰？	Ai gửi Gold Cloth tới cứu họ?
+1065	JUS-853af282a79fbc3a55c2	16	2600	answer_option	2	牡牛座のムウ	Mu (Taurus)
+1066	JUS-73f39da18beead32112c	16	2601	question_line	0	エリシオンで、タナトスとの戦いに	Tại Elysion, năm Bronze Saint
+1067	JUS-18f7e2ed15cab5201c51	16	2601	question_line	1	苦戦する５人の青銅聖闘士たち。	đang khổ chiến với Thanatos.
+1068	JUS-65548755af52c6370378	16	2601	question_line	2	彼らの元に届けられた黄金聖衣のうち、	Trong các Gold Cloth được gửi đến,
+1069	JUS-f3860ae2a4488d21ba8f	16	2601	question_line	3	獅子座の聖衣をまとったのは誰？	ai mặc Cloth Leo?
+1070	JUS-89b4ae613b30a0615ee8	16	2601	answer_option	2	天馬星座の星矢	Seiya (Pegasus)
+1071	JUS-3bf9877f1e07beac4873	16	2602	question_line	0	アテナの血の助けを借り、小宇宙を究極	Nhờ máu Athena và Cosmo
+1072	JUS-2399cfb528d0694bbed2	16	2602	question_line	1	まで高めることによってよみがえった、	được đẩy đến tận cùng,
+1073	JUS-870da68ae10dab442cdb	16	2602	question_line	2	全てを超越する伝説の聖衣の名は？	Cloth huyền thoại vượt mọi thứ là?
+1074	JUS-0013bbea54580caccbe1	16	2602	answer_option	0	神聖衣	God Cloth
+1075	JUS-4f8a47a85c1a80b03410	16	2602	answer_option	1	真聖衣	True Cloth
+1076	JUS-375ff9dbb4b56e990a6e	16	2602	answer_option	2	白金聖衣	Platinum Cloth
+1077	JUS-9f5daf1118553d4ca391	16	2602	answer_option	3	超聖衣	Super Cloth
+1078	JUS-e3e3b6de92d3c2441ea9	16	2603	question_line	0	冥王ハーデスに最期の一撃を与えたのは	Ai tung đòn cuối cùng vào Hades?
+1079	JUS-06541fe06d3bc16ac9f7	16	2603	answer_option	3	ハーデス自身	Chính Hades
+1080	JUS-107a20c969ba9451abf6	16	2604	question_line	0	タナトスと共にハーデスの配下となった	Vị thần nào cùng Thanatos
+1081	JUS-7fb406d00ef6c368284e	16	2604	question_line	1	神とは？	phục vụ Hades?
+1082	JUS-234477d29f5cddd74fba	16	2604	answer_option	0	ヒュプノス	Hypnos
+1083	JUS-0c3f79c06d5af7d35a99	16	2604	answer_option	1	ニュクス	Nyx
+1084	JUS-8b47bd7ce151ee5adb2c	16	2604	answer_option	2	モルペウス	Morpheus
+1085	JUS-95af91d48538d21a1352	16	2604	answer_option	3	ヘルメス	Hermes
+1086	JUS-93db7576004b5081cc52	16	2605	question_line	0	聖闘士星矢の作品中でよく目にする台詞	Trong Saint Seiya có câu:
+1087	JUS-6a99621cdee1b4a97a17	16	2605	question_line	1	「聖闘士には一度見た技は……」	'Một chiêu đã thấy một lần...'
+1088	JUS-049cf9327a2eee8e908c	16	2605	question_line	2	続く言葉は？	phần tiếp là gì?
+1089	JUS-97a22fff5c8fef3d0564	16	2605	answer_option	0	二度とは通用しない	Không thể trúng lần thứ hai
+1090	JUS-779df9b28f4891452071	16	2605	answer_option	1	百度見たのと同じこと	Như đã thấy cả trăm lần
+1091	JUS-0e2ecf54df043e8024ba	16	2605	answer_option	2	もう二度と使えない	Không dùng được lần nữa
+1092	JUS-ce279afb24dc05e3c0a4	16	2605	answer_option	3	三度の飯より朝飯前	Dễ hơn cả ăn sáng
+1093	JUS-a98dfe9bfc1b09ab316e	13	2606	question_line	0	ターちゃんのクローンを生み出した	Viện nghiên cứu tà ác nào
+1094	JUS-b5ad7294a5167ddd3f55	13	2606	question_line	1	悪の研究所とは？	đã tạo ra bản sao Tar-chan?
+1095	JUS-8239e32ed74fe5bb8f4e	13	2606	answer_option	1	ＭＡＸ	MAX
+1096	JUS-cb36d9af12b17bc6f444	13	2606	answer_option	2	外魔瑠派教団	Giáo phái Gamarupa
+1097	JUS-214c4cda4adf82ad7fe4	13	2606	answer_option	3	ＡＮＡＢＥＢＥ	ANABEBE
+1098	JUS-4ab90d0a40cf5c2b4be3	13	2607	question_line	0	幼き日のターちゃんを拾って育てた	Con vật nào đã nhặt về nuôi
+1099	JUS-745b71f65256994b6823	13	2607	question_line	1	のは、どんな動物？	Tar-chan khi còn nhỏ?
+1100	JUS-197c8c8c35c0546df361	13	2607	answer_option	0	チンパンジー	Tinh tinh
+1101	JUS-7cd267b64a89561d29ed	13	2608	question_line	0	ターちゃんの妻、ヂェーンは、昔	Jane, vợ Tar-chan, từng làm
+1102	JUS-50938c03b9f013a28d2b	13	2608	question_line	1	ニューヨークでどんな職業に就いてた？	nghề gì ở New York?
+1103	JUS-b44b9b568897dd03f96b	13	2608	answer_option	1	生物学者	Nhà sinh vật học
+1104	JUS-5ac20990aaf46008d9ce	13	2608	answer_option	2	新聞記者	Phóng viên báo chí
+1105	JUS-73857ec858afa12e467a	13	2608	answer_option	3	ニュースキャスター	Người dẫn bản tin
+1106	JUS-9c66ca8561120d0fc758	13	2609	question_line	0	ターちゃんとヂェーンが恋に落ちた	Điều gì khiến Tar-chan
+1107	JUS-800e7467e7f8c1ac15ab	13	2609	question_line	1	きっかけとは？	và Jane phải lòng nhau?
+1108	JUS-c01cfccccdd7cd8af790	13	2609	answer_option	0	ライオンからヂェーンを守った	Tar-chan cứu Jane khỏi sư tử
+1109	JUS-9db1aa06fc71adc85a48	13	2609	answer_option	1	ヂェーンがライオンから守ってくれた	Jane cứu Tar-chan khỏi sư tử
+1110	JUS-1d0362ff8b907037edd9	13	2609	answer_option	2	崖から落ちかけたヂェーンを助けた	Cứu Jane sắp rơi xuống vực
+1111	JUS-9d18471c37990723388e	13	2609	answer_option	3	お互いにひとめぼれ	Cả hai yêu từ cái nhìn đầu tiên
+1112	JUS-291967b9d3a58c216933	13	2610	question_line	0	若き日のヂェーンをめぐってターちゃん	Chiến binh mạnh nhất tộc Upopo
+1113	JUS-30191ca0363943f0fd73	13	2610	question_line	1	と戦った、ウポポ族最強の戦士の名は？	từng tranh Jane với Tar-chan là ai?
+1114	JUS-ed2449b108704ffde3a5	13	2610	answer_option	0	アナベベ	Anabebe
+1115	JUS-727ef9ec73c88154c60e	13	2610	answer_option	1	ニポポ	Nipopo
+1116	JUS-204439eeae249cd63d7e	13	2610	answer_option	3	ズベタ	Zubeta
+1117	JUS-2f77a513953c66d6f865	13	2611	question_line	0	ウポポ族の言葉で「ひさしぶり」を意味	Người Upopo nói 'lâu rồi không gặp'
+1118	JUS-8ba84f995ca7336c0d40	13	2611	question_line	1	する言葉は何？	bằng từ nào?
+1119	JUS-e5538cf06ce2ab3d3206	13	2611	answer_option	0	マラカス	Maracas
+1120	JUS-925f90ed2ed13ed50b55	13	2611	answer_option	1	デッベエーソ	Debbeeso
+1121	JUS-f50be3bcb5c579b00cee	13	2611	answer_option	2	クッサー	Kussa
+1122	JUS-944039087ef316c1319e	13	2611	answer_option	3	ウポポ	Upopo
+1123	JUS-bb3510d85233e39f02cd	13	2612	question_line	0	『外魔瑠派教団』から、梁師範の息子、	Con gái Tar-chan và Jane
+1124	JUS-0b8212c1eef5198827b3	13	2612	question_line	1	空総を守るためにやってきた、ターちゃ	đến bảo vệ con trai Ryo, Kusou,
+1125	JUS-6e7168e5b9ea71ab0ef1	13	2612	question_line	2	んとヂェーンの娘の名は？	khỏi giáo phái Gamarupa tên gì?
+1126	JUS-9155a78caa31c183719b	13	2612	answer_option	0	エンド	End
+1127	JUS-dc03bc8f8f617692ff89	13	2612	answer_option	1	ビギン	Begin
+1128	JUS-0fa3b9fd1f2eb6240f04	13	2612	answer_option	2	ラスト	Last
+1129	JUS-838b33965fe03a7e9f92	13	2612	answer_option	3	ファースト	First
+1130	JUS-3603c5df1f59f94eda66	13	2613	question_line	0	ターちゃんの格闘技の先生である、	Chú gorilla dạy võ
+1131	JUS-163c0696af776acea1b3	13	2613	question_line	1	ゴリラの名前は？	cho Tar-chan tên gì?
+1132	JUS-18ced4081d1b8015030f	13	2613	answer_option	0	ゴリさん	Gori-san
+1133	JUS-582cf10428d0de8bf31b	13	2613	answer_option	1	ジャンボ	Jumbo
+1134	JUS-fe00db46f19c8c89c317	13	2613	answer_option	3	石松	Ishimatsu
+1135	JUS-7859052e0a5383692980	13	2614	question_line	0	ターちゃんに力を貸してもらうため、	Vampire nào từ Romania
+1136	JUS-f313f7a128fe0f2040dd	13	2614	question_line	1	ルーマニアからやってきたヴァンパイア	đến nhờ Tar-chan giúp sức?
+1137	JUS-de2446a3a62ebeb33d2f	13	2614	answer_option	0	シーマ	Shima
+1138	JUS-5e2dcf0c37b4b75bab27	13	2614	answer_option	1	レーア	Rhea
+1139	JUS-62938555bcde83ff6824	13	2614	answer_option	2	ローズ	Rose
+1140	JUS-ab2bf96bf1f9b19e72c6	13	2614	answer_option	3	メロエ	Meroe
+1141	JUS-24de3374e3c9de49af4c	13	2615	question_line	0	ウポポ族の戦士、アナベベの奥さんの	Vợ của Anabebe tộc Upopo là ai?
+1142	JUS-0e5752ab6806358ae5eb	13	2615	answer_option	1	サリナ	Sarina
+1143	JUS-82ebbac49fc80cb18a56	13	2615	answer_option	2	エポポ	Epopo
+1144	JUS-5791300fd8a3511210f2	13	2615	answer_option	3	バズレー	Bazray
+1145	JUS-7c1aaa098e9328f6d4af	13	2616	question_line	0	チンパンジーのエテ吉に育てられた	Tar-chan được tinh tinh Etekichi
+1146	JUS-c604e56b22293236efdd	13	2616	question_line	1	ターちゃん。	nuôi lớn.
+1147	JUS-8e8c57e42556dba72d9e	13	2616	question_line	2	ではライオンのライ太に育てられた、	Vậy người sư tử Raita nuôi là ai?
+1148	JUS-cc355ca6239c804bb79a	13	2616	answer_option	0	レオ太	Leota
+1149	JUS-0999ce4a4df282834152	13	2616	answer_option	1	ライオ	Raio
+1150	JUS-da84e43df83160716a61	13	2616	answer_option	2	ラーちゃん	Ra-chan
+1151	JUS-ab18cb60b395165ded46	13	2616	answer_option	3	雷蔵	Raizo
+1152	JUS-d158cb8373ae2374b82c	13	2617	question_line	0	ターちゃんの父親代わりのチンパンジー	Tinh tinh làm cha nuôi Tar-chan là?
+1153	JUS-86f2afd1bf48220ce120	13	2617	answer_option	0	エテ吉	Etekichi
+1154	JUS-9d17c22deb642535c42f	13	2617	answer_option	1	モン吉	Monkichi
+1155	JUS-8d55353d29cbb27fc106	13	2617	answer_option	2	サルッキー	Sarukki
+1156	JUS-f189f3f0a696f3e87e7a	13	2617	answer_option	3	チンパン	Chimpan
+1157	JUS-23c375aa1bdcd64c9ec3	13	2618	question_line	0	ターちゃんを誘惑する魅力的な女の子、	Cô nàng Helen hay quyến rũ Tar-chan
+1158	JUS-be788e53bf6fe0b17854	13	2618	question_line	1	ヘレンちゃんのフルネームは？	có họ tên đầy đủ là gì?
+1159	JUS-1d2c542eca3e64a2813c	13	2618	answer_option	0	ヘレン野口	Helen Noguchi
+1160	JUS-e2bce1b13a55032ed94b	13	2618	answer_option	1	ヘレン＝インスブルック	Helen Innsbruck
+1161	JUS-807a8a90fc2c43f0cf55	13	2618	answer_option	2	ヘレン＝ブルックリン	Helen Brooklyn
+1162	JUS-c28611536b676a60a8f2	13	2618	answer_option	3	ヘレン＝キンスキー	Helen Kinski
+1163	JUS-c6cb9f766f6fcfd47c83	13	2619	question_line	0	手先が器用なターちゃんが直した	Tar-chan khéo tay đã sửa
+1164	JUS-1c2b1c0f1ef78927139c	13	2619	question_line	1	セスナ飛行機。その動力は何だった？	máy bay Cessna chạy bằng gì?
+1165	JUS-c6568c14f997c91bd3c9	13	2619	answer_option	2	アルコール	Rượu
+1166	JUS-b74067d7d17646a923ea	13	2619	answer_option	3	人力	Sức người
+1167	JUS-ecddcfab7056873bca33	13	2620	question_line	0	ターちゃんの妻、ヂェーンが一番大切に	Vì sao Jane, vợ Tar-chan,
+1168	JUS-9eb0081a47898f7f2d59	13	2620	question_line	1	している本は聖書。その理由とは？	quý Kinh Thánh hơn mọi sách?
+1169	JUS-ebbf7c46e82c43f668ba	13	2620	answer_option	0	中にお金を隠しているから	Vì cô giấu tiền trong đó
+1170	JUS-b3be841006aaa201c455	13	2620	answer_option	1	熱心なクリスチャンだから	Vì cô là tín đồ Kitô ngoan đạo
+1171	JUS-d2bf3e103b9e8c64b4ff	13	2620	answer_option	2	ターちゃんがくれた本だから	Vì đó là quà Tar-chan tặng
+1172	JUS-82ed6dec274a0c1e3354	13	2620	answer_option	3	ターちゃんの写真を挟んでるから	Vì cô kẹp ảnh Tar-chan vào đó
+1173	JUS-f0f2d9c6fd977e2001f1	13	2621	question_line	0	ターちゃんに何度敗れて	Gã săn tiền thưởng nào
+1174	JUS-ccb68fc25387673214bb	13	2621	question_line	1	も戦いを挑んでくる、	thua Tar-chan bao lần vẫn
+1175	JUS-1af4eb17403dc2da078c	13	2621	question_line	2	この賞金かせぎの名は？	đòi tái đấu?
+1176	JUS-d884ba89c437b50a5939	13	2621	answer_option	0	バイオレンス・マッスルパワー	Violence Muscle Power
+1177	JUS-b5ba884a456b19e09d8a	13	2621	answer_option	1	ハルク・ゴードン	Hulk Gordon
+1178	JUS-a8c0534087c595a5c9f2	13	2621	answer_option	2	アーノルド・コマンドー	Arnold Commando
+1179	JUS-ab41f1ae4990d1aa4be6	13	2621	answer_option	3	ビッグバン・タイガー	Big Bang Tiger
+1180	JUS-233ec1614276f1cf00b2	13	2622	question_line	0	ターちゃんやヂェーンに神の教えを説く	Ai là mục sư Nhà thờ Tự do
+1181	JUS-97c14c01e1dfe78a4cd1	13	2622	question_line	1	南アフリカ自由教会の伝道師とは？	Nam Phi giảng đạo cho nhà Tar-chan?
+1182	JUS-9be81d6cf38ec6f04845	13	2622	answer_option	0	フランシス牧師	Mục sư Francis
+1183	JUS-ce1800df860e9269eb93	13	2622	answer_option	1	ザビエル牧師	Mục sư Xavier
+1184	JUS-70580f3ae4a749cb1b57	13	2622	answer_option	2	ピエール牧師	Mục sư Pierre
+1185	JUS-953da3df10c17c0ef45f	13	2622	answer_option	3	マルクス牧師	Mục sư Marx
+1186	JUS-7d889cac985ed606c8fc	13	2623	question_line	0	せっかくやせたヂェーンを元の巨体に	Ai làm Jane vừa giảm cân
+1187	JUS-6aece5a2a259f69d9744	13	2623	question_line	1	戻してしまったのは誰？	lại béo như trước?
+1188	JUS-c24caef65ac671684c81	13	2623	answer_option	0	智光	Chiko
+1189	JUS-2f72edac516e68f1d6ad	13	2623	answer_option	1	梁師範	Sư phụ Ryo
+1190	JUS-4d1ddaf97f7aa1afd3ff	13	2623	answer_option	2	ペドロ	Pedro
+1191	JUS-f317182601c791d2af55	13	2623	answer_option	3	アペデマス	Apedemak
+1192	JUS-6370a599119e446a8d20	13	2624	question_line	0	ヂェーンをモデル時代の姿に戻した、脅	Thuốc giảm cân thần kỳ
+1193	JUS-5e76ae5ad64fb43af5b0	13	2624	question_line	1	威のやせ薬。梁師範の妻、蓮苞がくれた	vợ Ryo là Renpo đưa Jane,
+1194	JUS-db4dfde8defced67e8d1	13	2624	question_line	2	中国の秘薬の名は？	giúp cô lấy lại dáng tên gì?
+1195	JUS-411642424f9b5c2aa6f3	13	2624	answer_option	0	大越唐丸	Daikotsutomaru
+1196	JUS-c05fc14ff9c8777f94a3	13	2624	answer_option	1	痩身美薬	Thuốc đẹp dáng
+1197	JUS-b95cfd7f52384d18886c	13	2624	answer_option	2	夜精瑠錠	Yaseirujou
+1198	JUS-d041c33e5acb658f859a	13	2624	answer_option	3	美容１０２号	Beauty No.102
+1199	JUS-23552371ae9051888ea0	13	2625	question_line	0	ターちゃんの強さに惚れこみ弟子入り	Võ sĩ nào từ Pháp đến
+1200	JUS-88dea87bde7a920c1dcc	13	2625	question_line	1	した、フランスから来た武術家の名は？	xin bái Tar-chan làm thầy?
+1201	JUS-fe187c04b7b6acdb956e	13	2625	answer_option	1	ピエール	Pierre
+1202	JUS-2c75e4c30a71904134f5	13	2625	answer_option	2	オリバー	Oliver
+1203	JUS-46896afc775fa76b569c	13	2626	question_line	0	『外魔瑠派教団』の一員	Một thành viên giáo phái Gamarupa
+1204	JUS-9e606ee88f2299d70366	13	2626	question_line	1	が仮面を外した！	đã tháo mặt nạ!
+1205	JUS-d39c5cb7f5301a16056a	13	2626	question_line	2	その正体とは？	Hắn thật sự là ai?
+1206	JUS-a5f26951bd3160361d00	13	2626	answer_option	0	教祖“タオ”	Giáo chủ 'Tao'
+1207	JUS-d21ae1887a38502e6beb	13	2626	answer_option	1	未来のアナベベ	Anabebe từ tương lai
+1208	JUS-fb7ae0b042f340031c5d	13	2626	answer_option	2	アナベベの祖父	Ông nội Anabebe
+1209	JUS-53bbf39fe9ac18e49339	13	2626	answer_option	3	ターちゃんの父親	Cha Tar-chan
+1210	JUS-21d6fd029c15b16add33	13	2627	question_line	0	ターちゃんがハンターと戦う武器として	Tar-chan chế boomerang từ
+1211	JUS-425f332a72d73043997a	13	2627	question_line	1	ジープの鉄板を削って作った、	thép xe jeep để đánh thợ săn.
+1212	JUS-5f6d2bdd4a5f5be32ebc	13	2627	question_line	2	長さ１．５ｍ、重さ５０ｋｇの	Dài 1,5 m, nặng 50 kg.
+1213	JUS-6727c98a3c2ac3e2b2fd	13	2627	question_line	3	特製ブーメラン。その欠点とは？	Điểm yếu của nó là gì?
+1214	JUS-364a02f30d80434f23d9	13	2627	answer_option	0	もどってきた時、よけないと死ぬ	Không né lúc nó về là toi đời
+1215	JUS-c88622f315de15d7951a	13	2627	answer_option	1	重すぎて敵に届かない	Nặng quá, không tới nổi kẻ địch
+1216	JUS-8fcfaef002b802f32ccd	13	2627	answer_option	2	どこに飛んでいくかわからない	Chẳng biết nó bay đi đâu
+1217	JUS-74c02e150234455cd5a4	13	2627	answer_option	3	刃が鋭すぎて持てない	Lưỡi quá sắc, không cầm nổi
