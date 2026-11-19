@@ -2,13 +2,13 @@
 
 Nhánh độc lập `vh/ragnarok-ds-usa` của kho `VH-NDS`. Không trộn với các dự án Ni no Kuni, Magician’s Quest hoặc Ragnarok Odyssey ACE.
 
-## Trạng thái mới nhất — Checkpoint 035 (19/11/2026)
+## Trạng thái mới nhất — Checkpoint 036 (20/11/2026)
 
-- **12.682/14.616 ID đã dịch (86,76%)**; còn **1.934** ID.
-- Đã đồng bộ patch 027–029 và 034–035 trên nhánh này, kiểm tra SHA khớp ZIP bàn giao.
-- Đã đối chiếu với toàn bộ 11.386 ID cũ của patch 001–026: **0 trùng ID**.
-- **Không áp dụng patch 030** vì nội dung hệ thống/credit đã dịch ở đợt 001–002.
-- Chi tiết kiểm toán: [CHECKPOINT_035_AUDIT.md](CHECKPOINT_035_AUDIT.md).
+- **12.762/14.616 ID đã dịch (87,31%)**; còn **1.854** ID.
+- Đã đồng bộ patch 027–029, 034–036. Riêng patch 036 gồm 80 mô tả Item (mục 322–401 của `02-vat-pham-001.jsonl`), Git blob SHA `55365e1b986ac8b6ffd0a7c9b82b7bb81b944f54`, đối chiếu ZIP khớp byte-level.
+- Patch 001–026 có 11.386 ID; các patch 027–029 và 034–036 có 1.376 ID khác nhóm, không tính trùng.
+- **Không áp dụng patch 030** vì nội dung hệ thống/credit đã được xử lý ở đợt 001–002.
+- Còn 834 Item, 475 Job/Skill và 545 Quest. Chi tiết: [CHECKPOINT_036_AUDIT.md](CHECKPOINT_036_AUDIT.md).
 - Chưa nhúng font tiếng Việt, chưa vá ROM hoặc kiểm thử bằng NDS.
 
 ## Nguồn dữ liệu
@@ -287,13 +287,13 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **11.386 patch records** từ các đợt 001–026, không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **12.762 patch records** từ các đợt 001–029 và 034–036 (bỏ qua đợt 030 vì trùng nhóm hệ thống/credit), không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_026_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_036_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
