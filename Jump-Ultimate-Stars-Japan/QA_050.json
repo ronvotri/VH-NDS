@@ -103,7 +103,7 @@
     "note": "06-jquiz-009.jsonl đã hết; xác định file văn bản chưa dịch kế tiếp từ chỉ mục bàn giao gốc và diff ID",
     "new_translations": 0
   },
-  "new_delta_sha256": "07048a53c3040fffb8befc993eb0368201f3eaa5690b1591a0dc75b5d51c7c87",
-  "new_merged_sha256": "0b25bff6b7ba94c887ecb663474e82008835320f7f362762a5a2455b3d9868e7",
+  "new_delta_sha256": "40d04ad486adc061871ac990bab2a361e4149108a0606885f3a2f675371ea7c1",
+  "new_merged_sha256": "56c4eddf08923e02f9068fd0d449108ebc17dca895fa4621209f7779feaa48c6",
   "notes": "QA tĩnh: cần soát các tên phiên âm hiếm, câu hỏi gắn hình và đúng/sai đáp án khi tích hợp bản vá; chưa kiểm tra pixel font hay ROM."
 }
