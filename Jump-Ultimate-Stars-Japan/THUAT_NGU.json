@@ -9580,5 +9580,113 @@
     "vi": "Rem",
     "status": "character_name",
     "note": "CP031: câu đố Death Note / Dr. Slump; mục _qa cần kiểm chứng cách gọi chính thức."
+  },
+  {
+    "ja": "キャラメルマン３号",
+    "vi": "Caramel Man No. 3",
+    "status": "character_name",
+    "note": "CP032 J-Quiz Dr. Slump / Eyeshield 21; _qa: kiểm chứng phiên âm trước khi khóa glossary."
+  },
+  {
+    "ja": "摘突詰",
+    "vi": "Tsun Tsukutsun",
+    "status": "character_name_qa",
+    "note": "CP032 J-Quiz Dr. Slump / Eyeshield 21; _qa: kiểm chứng phiên âm trước khi khóa glossary."
+  },
+  {
+    "ja": "摘鶴燐",
+    "vi": "Tsun Tsururin",
+    "status": "character_name_qa",
+    "note": "CP032 J-Quiz Dr. Slump / Eyeshield 21; _qa: kiểm chứng phiên âm trước khi khóa glossary."
+  },
+  {
+    "ja": "デビルバッツ",
+    "vi": "Deimon Devil Bats",
+    "status": "team_name",
+    "note": "CP032 J-Quiz Dr. Slump / Eyeshield 21; _qa: kiểm chứng phiên âm trước khi khóa glossary."
+  },
+  {
+    "ja": "泥門デビルバッツ",
+    "vi": "Deimon Devil Bats",
+    "status": "team_name",
+    "note": "CP032 J-Quiz Dr. Slump / Eyeshield 21; _qa: kiểm chứng phiên âm trước khi khóa glossary."
+  },
+  {
+    "ja": "王城ホワイトナイツ",
+    "vi": "Ojo White Knights",
+    "status": "team_name",
+    "note": "CP032 J-Quiz Dr. Slump / Eyeshield 21; _qa: kiểm chứng phiên âm trước khi khóa glossary."
+  },
+  {
+    "ja": "賊学カメレオンズ",
+    "vi": "Zokugaku Chameleons",
+    "status": "team_name",
+    "note": "CP032 J-Quiz Dr. Slump / Eyeshield 21; _qa: kiểm chứng phiên âm trước khi khóa glossary."
+  },
+  {
+    "ja": "太陽スフィンクス",
+    "vi": "Taiyo Sphinx",
+    "status": "team_name",
+    "note": "CP032 J-Quiz Dr. Slump / Eyeshield 21; _qa: kiểm chứng phiên âm trước khi khóa glossary."
+  },
+  {
+    "ja": "網乃サイボーグス",
+    "vi": "Amino Cyborgs",
+    "status": "team_name",
+    "note": "CP032 J-Quiz Dr. Slump / Eyeshield 21; _qa: kiểm chứng phiên âm trước khi khóa glossary."
+  },
+  {
+    "ja": "盤戸スパイダーズ",
+    "vi": "Bando Spiders",
+    "status": "team_name",
+    "note": "CP032 J-Quiz Dr. Slump / Eyeshield 21; _qa: kiểm chứng phiên âm trước khi khóa glossary."
+  },
+  {
+    "ja": "西部ワイルドガンマンズ",
+    "vi": "Seibu Wild Gunmans",
+    "status": "team_name",
+    "note": "CP032 J-Quiz Dr. Slump / Eyeshield 21; _qa: kiểm chứng phiên âm trước khi khóa glossary."
+  },
+  {
+    "ja": "ＮＡＳＡエイリアンズ",
+    "vi": "NASA Aliens",
+    "status": "team_name",
+    "note": "CP032 J-Quiz Dr. Slump / Eyeshield 21; _qa: kiểm chứng phiên âm trước khi khóa glossary."
+  },
+  {
+    "ja": "デス・マーチ",
+    "vi": "Death March",
+    "status": "technique",
+    "note": "CP032 J-Quiz Dr. Slump / Eyeshield 21; _qa: kiểm chứng phiên âm trước khi khóa glossary."
+  },
+  {
+    "ja": "デビルバットダイブ",
+    "vi": "Devil Bat Dive",
+    "status": "skill",
+    "note": "CP032 J-Quiz Dr. Slump / Eyeshield 21; _qa: kiểm chứng phiên âm trước khi khóa glossary."
+  },
+  {
+    "ja": "ブリッツ",
+    "vi": "Blitz",
+    "status": "football_term",
+    "note": "CP032 J-Quiz Dr. Slump / Eyeshield 21; _qa: kiểm chứng phiên âm trước khi khóa glossary."
+  },
+  {
+    "ja": "ウィッシュボーン",
+    "vi": "Wishbone",
+    "status": "technique",
+    "note": "CP032 J-Quiz Dr. Slump / Eyeshield 21; _qa: kiểm chứng phiên âm trước khi khóa glossary."
+  },
+  {
+    "ja": "ロデオドライブ",
+    "vi": "Rodeo Drive",
+    "status": "skill",
+    "note": "CP032 J-Quiz Dr. Slump / Eyeshield 21; _qa: kiểm chứng phiên âm trước khi khóa glossary."
+  },
+  {
+    "ja": "武者小路紫苑",
+    "vi": "Mushanokoji Shion",
+    "status": "character_name_qa",
+    "note": "CP032 J-Quiz Dr. Slump / Eyeshield 21; _qa: kiểm chứng phiên âm trước khi khóa glossary."
   }
 ]
