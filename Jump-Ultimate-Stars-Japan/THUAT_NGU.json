@@ -10228,5 +10228,239 @@
     "vi": "Shihoken",
     "status": "paobei_name_qa",
     "note": "CP035: câu đố Hokuto no Ken / Hoshin Engi. Tên có hậu tố _qa hoặc source_glyph_corrupted_review cần đối chiếu bản game/ấn bản chính thức."
+  },
+  {
+    "ja": "竜吉公主",
+    "vi": "Ryukitsu Koshu",
+    "status": "character_name_qa",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "普賢真人",
+    "vi": "Fugen Shinjin",
+    "status": "character_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "楊任",
+    "vi": "Yojin",
+    "status": "character_name_qa",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "太乙真人",
+    "vi": "Taitsu Shinjin",
+    "status": "character_name_qa",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "雲中子",
+    "vi": "Unchushi",
+    "status": "character_name_qa",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "清虚道徳真君",
+    "vi": "Seikyo Dotoku Shinkun",
+    "status": "character_name_qa",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "玉鼎真人",
+    "vi": "Gyokutei Shinjin",
+    "status": "character_name_qa",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "道行天尊",
+    "vi": "Dokou Tenson",
+    "status": "character_name_qa",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "五光石",
+    "vi": "Gokoseki",
+    "status": "paobei_name_qa",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "打神鞭",
+    "vi": "Dashinben",
+    "status": "paobei_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "雷震子",
+    "vi": "Raishinshi",
+    "status": "character_name_qa",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "雲霄三姉妹",
+    "vi": "Unsho sisters",
+    "status": "group_name_qa",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "向井こずえ",
+    "vi": "Kozue Mukai",
+    "status": "character_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "東城遥",
+    "vi": "Haruka Tojo",
+    "status": "character_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "冬田涼子",
+    "vi": "Ryoko Fuyuta",
+    "status": "character_name_qa",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "麻生藍子",
+    "vi": "Aiko Aso",
+    "status": "character_name_qa",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "寺谷",
+    "vi": "Teratani",
+    "status": "character_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "石仮面",
+    "vi": "Stone Mask",
+    "status": "story_term",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "柱の男",
+    "vi": "Pillar Men",
+    "status": "group_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "エイジャの赤石",
+    "vi": "Red Stone of Aja",
+    "status": "story_item",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "流法",
+    "vi": "Mode",
+    "status": "power_term",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "空裂眼指驚",
+    "vi": "Space Ripper Stingy Eyes",
+    "status": "skill_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "サティポロジアビートル",
+    "vi": "Satiporoja Beetle",
+    "status": "animal_name_qa",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "真実の口",
+    "vi": "Mouth of Truth",
+    "status": "place_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "魔術師の赤",
+    "vi": "Magician's Red",
+    "status": "stand_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "法皇の緑",
+    "vi": "Hierophant Green",
+    "status": "stand_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "灰の塔",
+    "vi": "Tower of Gray",
+    "status": "stand_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "暗青の月",
+    "vi": "Dark Blue Moon",
+    "status": "stand_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "吊られた男",
+    "vi": "Hanged Man",
+    "status": "stand_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "女教皇",
+    "vi": "High Priestess",
+    "status": "stand_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "愚者",
+    "vi": "The Fool",
+    "status": "stand_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "皇帝",
+    "vi": "Emperor",
+    "status": "stand_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "死神１３",
+    "vi": "Death 13",
+    "status": "stand_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "Ｊ・ガイル",
+    "vi": "J. Geil",
+    "status": "character_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "カーズ",
+    "vi": "Kars",
+    "status": "character_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "エシディシ",
+    "vi": "Esidisi",
+    "status": "character_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "ワムウ",
+    "vi": "Wamuu",
+    "status": "character_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "イギー",
+    "vi": "Iggy",
+    "status": "character_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
+  },
+  {
+    "ja": "ポルナレフ",
+    "vi": "Polnareff",
+    "status": "character_name",
+    "note": "CP036: J-Quiz Hoshin Engi / Ichigo 100% / I''s / JoJo. Mục _qa cần đối chiếu tên/phiên âm chính thức trước khi tích hợp ROM."
   }
 ]
