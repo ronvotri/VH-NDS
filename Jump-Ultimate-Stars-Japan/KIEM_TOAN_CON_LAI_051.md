@@ -1,0 +1,22 @@
+# Jump Ultimate Stars — Kiểm toán phần còn lại sau Checkpoint 050
+
+Đã dịch **32.746/34.919 ID (93,78%)**. **2.173 ID** chưa có trong tổng số checkpoint đang theo dõi.
+
+## Đối chiếu theo cấu trúc ZIP nguồn Nhật
+
+- Tệp nguồn: `JumpUltimateStars_Japan_BanGiao_Cloud.zip`, tổng **34.919 bản ghi** trong 30 tệp `translation/*.jsonl`.
+- Các tệp nguồn từ đầu đến hết `06-jquiz-004.jsonl`, cộng 4 dòng đầu `06-jquiz-005.jsonl`: **25.340 dòng**.
+- Bản gộp CP001–037 theo `PHUC_HOI_TONG_HOP_037.md`: **23.596 ID**, kết thúc ngay trước `06-jquiz-005.jsonl` `row_index=4`. **Chênh 1.744**. Cần lấy lại bản gộp CP001–037 và thực hiện so ID để xác định chính xác các dòng bị bỏ qua; **chưa được coi là đã dịch**.
+- CP038–050: **9.150 ID**, đúng bằng số dòng liên tiếp từ `06-jquiz-005.jsonl` `row_index=4` cho đến hết `06-jquiz-009.jsonl`. Bộ J-Quiz đã kết thúc ở `question_index=3005`.
+- Phần nguồn sau J-Quiz: `07-deck-001.jsonl` **352 dòng**, SHA256 `dc52ad7a1a57f2298c576f6783c4fe2b915ff7947a0f987d643682cdfa789950`; `08-credit-001.jsonl` **77 dòng**, SHA256 `08982eb9c40751e1ce85f90349b1194e2ae12d1ca8e40c47c95b447398914224`.
+
+**Tổng cần xử lý: 1.744 + 352 + 77 = 2.173 ID.**
+
+## Bước tiếp theo — CP051
+
+1. Dịch `07-deck-001.jsonl` và `08-credit-001.jsonl` từ nguồn gốc, dùng quy tắc tên/item/skill giữ tiếng Anh.
+2. Chú ý `source_fixed_field_bytes` trong Deck/Credits. Giới hạn **37 ký tự Unicode của J-Quiz không thay thế được giới hạn byte hoặc chiều rộng font của những trường này**.
+3. Khôi phục CP001–037 theo `PHUC_HOI_TONG_HOP_037.md`. So tập ID từ ZIP gốc với tập ID CP001–037 + CP038–050; xuất danh sách ID thiếu theo `file` và `row_index`. Tránh giả định chênh lệch chỉ nằm trong một tệp hay dịch bù trùng.
+4. Chỉ cộng tỷ lệ hoàn thành khi có `vi` thật, không trùng ID, metadata đúng nguồn và QA tĩnh đạt. Kiểm tra font và ROM vẫn là một bước riêng.
+
+Bản gộp CP038–050 đã giữ sửa **Shunrei** từ CP046A. Overlay 037B/C khi phục hồi dùng **ghi đè `vi` theo ID**, không cộng bản ghi.
