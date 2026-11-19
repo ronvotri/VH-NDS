@@ -1,0 +1,41 @@
+{
+  "game": "Jump Ultimate Stars (Japan) AJUJ",
+  "checkpoint": "036",
+  "date": "2026-11-19",
+  "total_rows": 34919,
+  "translated_rows": 22920,
+  "pending_rows": 11999,
+  "prior_035_translated": 22318,
+  "new_036_rows": 602,
+  "changed": {
+    "06-jquiz-004.jsonl": "656–1257 (602 new; Hoshin Engi, Ichigo 100%, I''s, JoJo; CP037 starts row 1258)"
+  },
+  "source_ja_modified": 0,
+  "source_metadata_modified": 0,
+  "previous_translations_modified": 0,
+  "duplicate_ids": 0,
+  "control_tag_errors": 0,
+  "printf_placeholder_errors": 0,
+  "unicode_nfc_errors": 0,
+  "raw_control_char_errors": 0,
+  "quiz_option_positions_modified": 0,
+  "quiz_question_groups_touched": 108,
+  "quiz_answer_groups_touched": 133,
+  "quiz_answers_validated_in_game": false,
+  "source_image_questions_validated": false,
+  "long_unicode_strings_gt37": 6894,
+  "glossary_terms": 1744,
+  "glossary_added": 39,
+  "font_implemented": false,
+  "rom_patch_built": false,
+  "pixel_width_qa": false,
+  "gameplay_tested": false,
+  "source_anomalies": [
+    "Source rows 726, 728 contain broken Japanese glyph 女｛. Nüwa is a working reading carried from previous project glossary; needs manual review.",
+    "Row 907 is kanji string 怖油汰両虎; preserved unchanged rather than guessing a name.",
+    "Ichigo 100% rows 904–906 and I''s rows 1024–1027 contain intentionally similar name/word choices, original kanji retained to distinguish.",
+    "Some quiz questions are image-based or have incomplete option sets in exported data. No missing choices invented.",
+    "Less-familiar Hoshin Engi romanizations, JoJo skill names, and I''s character readings marked for follow-up QA.",
+    "Correct option IDs and image-question visuals not validated against ROM."
+  ]
+}
