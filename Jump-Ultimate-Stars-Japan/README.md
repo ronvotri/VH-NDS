@@ -19,8 +19,14 @@ Nguồn gốc đã kiểm tra: `JumpUltimateStars_Japan_BanGiao_Cloud.zip` → `
 
 1. Khôi phục CP001–037 (**23.596 ID**) theo [PHUC_HOI_TONG_HOP_037.md](PHUC_HOI_TONG_HOP_037.md).
 2. Ghép bản tổng hợp CP038–046 (**6.305 ID**) theo ID, từ chối trùng ID. Tổng cần có **29.901 bản ghi duy nhất**.
-3. Áp sửa QA [BAN_DINH_CHINH_037B.jsonl](BAN_DINH_CHINH_037B.jsonl) và [BAN_DINH_CHINH_037C.jsonl](BAN_DINH_CHINH_037C.jsonl) **bằng ghi đè trường `vi` theo ID**; không nối thêm các overlay.
+3. Áp sửa QA [BAN_DINH_CHINH_037B.jsonl](BAN_DINH_CHINH_037B.jsonl), [BAN_DINH_CHINH_037C.jsonl](BAN_DINH_CHINH_037C.jsonl) và [BAN_DINH_CHINH_046A.jsonl](BAN_DINH_CHINH_046A.jsonl) **bằng ghi đè trường `vi` theo ID**; không nối thêm các overlay.
 4. Giữ quy tắc [THUAT_NGU.json](THUAT_NGU.json), [XUNG_HO_NHAN_VAT.md](XUNG_HO_NHAN_VAT.md).
+
+## Đính chính tên riêng (CP046A, 20/11/2026)
+
+- [BAN_DINH_CHINH_046A.jsonl](BAN_DINH_CHINH_046A.jsonl): tên **Shunrei (春麗)** trong *Saint Seiya*, không dùng `Chun-Li` làm tên canonical. [QA_046A.json](QA_046A.json) ghi rõ 1 ID sửa, **0 ID tăng thêm**.
+- Khi tái tạo bản dịch, overlay thay giá trị `vi` theo ID; file gốc CP046, SHA256 và bản gộp 038–046 đang lưu là snapshot **trước khi áp đính chính này**.
+- [TRANG_THAI_CHUAN_BI_047.md](TRANG_THAI_CHUAN_BI_047.md): mốc tiếp theo từ `06-jquiz-008.jsonl` row 518. **CP047 chưa có bản dịch mới**, tiến độ vẫn là 29.901 / 34.919.
 
 ## Trạng thái QA
 
