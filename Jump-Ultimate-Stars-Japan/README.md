@@ -1,27 +1,28 @@
-# Jump Ultimate Stars (Japan) — Checkpoint 039 🇻🇳
+# Jump Ultimate Stars (Japan) — Checkpoint 040 🇻🇳
 
-**Tiến độ: 24.991 / 34.919 (71,57%)**. Checkpoint 039 đã dịch thêm **694 ID**; còn **9.928 ID**.
+**Tiến độ: 25.691 / 34.919 (73,57%)**. Checkpoint 040 hoàn thành **700 ID mới**; còn **9.228**.
 
-## Mới nhất: Checkpoint 039 — 19/11/2026
+## Mới nhất: Checkpoint 040 — 19/11/2026
 
-- Nguồn Nhật: ZIP `JumpUltimateStars_Japan_BanGiao_Cloud.zip`, file `translation/06-jquiz-005.jsonl`.
-- Dịch **row_index 705–1398** (694 ID mới), nối tiếp checkpoint 038 (row_index 4–704, 701 ID mới).
-- Chủ đề: *Kochikame* và *Kinnikuman*, gồm câu đố nhân vật, giải đấu Chojin, chiêu thức.
-- **Bắt đầu CP040 tại `06-jquiz-005.jsonl`, `row_index=1399`.**
-- [BAN_DICH_039.jsonl](BAN_DICH_039.jsonl) — delta 694 chuỗi.
-- [BAN_DICH_TONG_HOP_038-039.jsonl](BAN_DICH_TONG_HOP_038-039.jsonl) — **chỉ là gộp 038 và 039 (1.395 ID), không phải hợp nhất 001–039**.
-- [QA_039.json](QA_039.json) — QA tĩnh ID, vị trí đáp án, độ dài ký tự, SHA.
-- [BAN_GIAO_039.md](BAN_GIAO_039.md) — hướng dẫn khôi phục và những hạn chế chưa kiểm thử.
+Nguồn: bản ZIP gốc `JumpUltimateStars_Japan_BanGiao_Cloud.zip`, bảng trích xuất trong `translation/`.
 
-## Khôi phục đầy đủ
+- `06-jquiz-005.jsonl`: **row_index 1399–1880 (482 ID)**, hoàn tất file 005 (1.881 mục nguồn). Chủ đề: *Kinnikuman*, *Makibao*, *Muhyo & Roji*.
+- `06-jquiz-006.jsonl`: **row_index 0–217 (218 ID)**, các câu hỏi tiếp theo về *Muhyo & Roji*.
+- **Checkpoint 041 bắt đầu tại `06-jquiz-006.jsonl`, row_index 218.**
+- [BAN_DICH_040.jsonl](BAN_DICH_040.jsonl) — bản dịch CP040, 700 mục tiếng Nhật–Việt.
+- [BAN_DICH_TONG_HOP_038-040.jsonl](BAN_DICH_TONG_HOP_038-040.jsonl) — chỉ là bản gộp **CP038+CP039+CP040 (2.095 ID)**; không chứa 001–037.
+- [QA_040.json](QA_040.json) — kiểm tra vị trí câu hỏi, đáp án, ID, mã điều khiển, số ký tự, ký hiệu lạ và SHA256.
+- [BAN_GIAO_040.md](BAN_GIAO_040.md) — tài liệu bàn giao.
 
-1. Khôi phục checkpoint 037 (23.596 ID) theo [PHUC_HOI_TONG_HOP_037.md](PHUC_HOI_TONG_HOP_037.md).
-2. Thêm `BAN_DICH_038.jsonl` (+701), `BAN_DICH_039.jsonl` (+694) theo ID; đảm bảo tổng **24.991 ID duy nhất**.
-3. Áp `BAN_DINH_CHINH_037B.jsonl`, `BAN_DINH_CHINH_037C.jsonl` bằng **ghi đè trường `vi` theo ID**; không thêm bản ghi mới.
-4. Tuân thủ [THUAT_NGU.json](THUAT_NGU.json) và [XUNG_HO_NHAN_VAT.md](XUNG_HO_NHAN_VAT.md).
+## Quy trình phục hồi và kiểm tra
 
-**QA tĩnh CP039: 694/694 ID không trùng, không rỗng; tất cả các dòng Việt có tối đa 37 ký tự Unicode; vai trò/vị trí câu hỏi–đáp án khớp nguồn tham chiếu.** Một số quiz dùng chung ID nên file gốc không chứa đủ mọi phần câu hỏi/đáp án. Không tự sáng tác. **Chưa QA độ rộng font, đáp án đúng/sai, hình minh họa hoặc ROM/gameplay thực tế.**
+1. Khôi phục CP001–037 (23.596 mục) theo [PHUC_HOI_TONG_HOP_037.md](PHUC_HOI_TONG_HOP_037.md).
+2. Ghép theo ID các file `BAN_DICH_038.jsonl` (+701), `BAN_DICH_039.jsonl` (+694), `BAN_DICH_040.jsonl` (+700), kiểm tra **25.691 ID độc nhất**.
+3. Áp overlay `BAN_DINH_CHINH_037B.jsonl` và `BAN_DINH_CHINH_037C.jsonl` bằng cách **thay trường `vi` theo ID**, không nối thêm tạo ID mới.
+4. Bảo toàn metadata `quiz_context` và quy ước trong [THUAT_NGU.json](THUAT_NGU.json), [XUNG_HO_NHAN_VAT.md](XUNG_HO_NHAN_VAT.md).
 
-**Đây là bản dịch văn bản, chưa phải ROM patch chơi được.**
+**QA tĩnh CP040:** 700/700 ID không trùng, khớp chính xác `ja` của nguồn và `reference/quiz-questions.jsonl`, giữ thẻ điều khiển, tất cả bản Việt tối đa 37 ký tự Unicode. Một số ký hiệu bất thường (`≠`, `‰`, `Å`, `≪`) và tên phương án có chữ Hán giống nhau cần kiểm tra hình ảnh/ROM trước khi sửa.
 
-Repo: `ronvotri/VH-NDS` · nhánh `vh/jump-ultimate-stars-japan` · thư mục `Jump-Ultimate-Stars-Japan/`.
+**Chưa kiểm chứng đáp án đúng, độ rộng font pixel, hình trong game hoặc bản vá ROM NDS. Bản dịch là dữ liệu text, không phải ROM patch chơi được.**
+
+Repo `ronvotri/VH-NDS` · nhánh `vh/jump-ultimate-stars-japan` · thư mục `Jump-Ultimate-Stars-Japan/`.
