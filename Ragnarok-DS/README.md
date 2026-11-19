@@ -2,6 +2,15 @@
 
 Nhánh độc lập `vh/ragnarok-ds-usa` của kho `VH-NDS`. Không trộn với các dự án Ni no Kuni, Magician’s Quest hoặc Ragnarok Odyssey ACE.
 
+## Trạng thái mới nhất — Checkpoint 035 (19/11/2026)
+
+- **12.682/14.616 ID đã dịch (86,76%)**; còn **1.934** ID.
+- Đã đồng bộ patch 027–029 và 034–035 trên nhánh này, kiểm tra SHA khớp ZIP bàn giao.
+- Đã đối chiếu với toàn bộ 11.386 ID cũ của patch 001–026: **0 trùng ID**.
+- **Không áp dụng patch 030** vì nội dung hệ thống/credit đã dịch ở đợt 001–002.
+- Chi tiết kiểm toán: [CHECKPOINT_035_AUDIT.md](CHECKPOINT_035_AUDIT.md).
+- Chưa nhúng font tiếng Việt, chưa vá ROM hoặc kiểm thử bằng NDS.
+
 ## Nguồn dữ liệu
 - Bàn giao: `RagnarokDS_USA_BanGiao_Cloud.zip` (ROM USA, mã YRBE).
 - Tổng 14.616 mục trong 33 tệp JSONL: 14.597 chuỗi và 19 nhãn ảnh; không bao gồm ROM.
