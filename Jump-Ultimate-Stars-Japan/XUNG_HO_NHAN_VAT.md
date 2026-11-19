@@ -375,3 +375,14 @@ Các tên Romanization có trạng thái `working_romanization_qa` cần so lạ
 - **ID dùng lại trong nhiều câu:** các dòng 8, 32, 47, 202, 376, 471, 613 được diễn đạt trung tính để không thay đổi nghĩa khi xuất hiện tại câu đố khác.
 - **Lỗi nguồn:** `真￠中` (dòng 164), `楊‐` (dòng 534) và `女｛` (các dòng 611/635/643/650) có dấu hiệu hỏng ký tự. `〔〕` dòng 507 không chứa tên; giữ nguyên chỗ khuyết thay vì đoán tên.
 - **Giới hạn dữ liệu:** một số câu hỏi có dưới bốn đáp án hoặc dựa vào hình; chưa kiểm chứng đáp án đúng và hình hiển thị trong ROM.
+
+
+## Checkpoint 036 — J-Quiz Hoshin Engi, Ichigo 100%, I''s, JoJo
+
+- **Quy tắc chung:** Người dẫn J-Quiz dùng cách hỏi trung tính; câu hỏi và từng đáp án được giữ ở đúng ID và `quiz_context` ban đầu. Giữ các tên nhân vật, tuyệt kỹ, Stand, Paopei và thuật ngữ chính theo glossary.
+- **Hoshin Engi:** giữ Taikobo, Bunchu, Dakki, Chokomei, Ryukitsu Koshu, Fugen Shinjin, Su Pu Shang và Paopei. Các tên phiên âm ít gặp đánh dấu `_qa`; chữ nguồn hỏng `女｛` được hiểu theo ngữ cảnh là Nüwa nhưng chờ kiểm chứng.
+- **Ichigo 100%:** Junpei Manaka, Aya Tojo, Tsukasa Nishino, Satsuki Kitaoji, Yui, Amachi, Kozue Mukai. Đối thoại tình cảm (khi có) dùng tớ–cậu; câu hỏi luôn trung tính.
+- **I''s:** Ichitaka, Iori, Itsuki, Aiko Aso, Izumi; phần đáp án sai cố ý được giữ, nhất là những lựa chọn chỉ khác kanji `縁`/`緑` hoặc `び`/`ぴ`.
+- **JoJo:** giữ Hamon, Stand, Stone Mask, Pillar Men, Red Stone of Aja, Mode, Star Platinum, Silver Chariot, v.v. Tên Stand Latin nhất quán; tên kỹ năng/loài bọ chưa chắc chính thức đánh dấu `_qa`.
+- **Quiz có hình hoặc đáp án thiếu:** một số câu chỉ có một vài lựa chọn trong dữ liệu, hoặc dựa vào tranh game; không thêm đáp án ngoài nguồn và chưa xác minh đáp án đúng.
+- **Nguồn lỗi:** `女｛` ở câu Hoshin Engi; `怖油汰両虎` là tên gây nhiễu; tên riêng nhìn giống nhau ở I''s / Ichigo có giữ chữ Hán trong ngoặc để phân biệt.
