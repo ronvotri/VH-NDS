@@ -1,15 +1,14 @@
-# Jump Ultimate Stars (Japan) — Checkpoint 031
+# Jump Ultimate Stars (Japan) — Checkpoint 032
 
-**Đã dịch: 19,688 / 34.919 chuỗi (56.38%).** Đợt này thêm **650 ID**, còn **15,231**.
+**Đã dịch: 20,406/34.919 chuỗi (58.44%)**, tăng **718 chuỗi** từ CP031, còn **14,513**.
 
-- Dịch `06-jquiz-002.jsonl` dòng **1429–1931** (**503 ID**, toàn bộ phần còn lại của file); `06-jquiz-003.jsonl` dòng **0–146** (**147 ID**, kết thúc Death Note và sang Dr. Slump). **CP032 bắt đầu tại dòng 147 của `06-jquiz-003.jsonl`**.
-- Giữ nguyên toàn bộ **19.038** bản dịch trước đó và `ja`, `id`, `quiz_context`, thứ tự các lựa chọn, số lượng đáp án.
-- `translation/` có đủ **30 file JSONL**, bản diff `BAN_DICH_031.jsonl`, và bản hợp nhất `BAN_DICH_TONG_HOP_001-031.jsonl`.
-- QA toàn bộ 34.919 ID: **0 lỗi mất/trùng ID, metadata, thẻ điều khiển, placeholder, ghi đè bản cũ**.
-- Bảng thuật ngữ **1597 mục**; các cách phiên âm chưa đủ kiểm chứng gắn `_qa`.
-- **6633 đoạn dài hơn 37 ký tự Unicode** cần đo pixel-width trong bản ROM/font Việt.
-- **Chưa QA đáp án đúng hoặc câu hỏi kèm hình trong game**; không thêm câu trả lời thiếu trong nguồn.
+- Thư viện J-Quiz `06-jquiz-003.jsonl`: dòng **147–864** (718 ID) gồm **Dr. Slump** rồi đến **Eyeshield 21**. CP033 bắt đầu **dòng 865** (Gintama).
+- Toàn bộ **19.688 câu cũ** và 34.919 ID, `ja`, `quiz_context`/metadata, thẻ điều khiển giữ nguyên.
+- Có đủ **30 file JSONL** tại `translation/`; `BAN_DICH_032.jsonl` (718 câu mới) và `BAN_DICH_TONG_HOP_001-032.jsonl` (20.406 câu).
+- QA tĩnh 0 lỗi cấu trúc, mất/trùng ID, metadata, placeholder, Unicode NFC; bảng thuật ngữ **1615 mục**.
+- **6690 đoạn dài hơn 37 ký tự** cần đo pixel-width với font Việt trong ROM.
+- Một số tên đội / ký tự Nhật bị lỗi trích xuất đã ghi vào `QA_032.json`, cần soát; chưa xác minh đáp án đúng và câu hỏi kèm hình.
 
-**Đây là dữ liệu dịch, chưa phải patch ROM NDS chơi được.**
+**Chưa build patch ROM, chưa QA gameplay.**
 
-Repo mục tiêu: `ronvotri/VH-NDS`, nhánh `vh/jump-ultimate-stars-japan`, thư mục `Jump-Ultimate-Stars-Japan/`. Chỉ xác nhận trạng thái đồng bộ GitHub sau khi ghi và kiểm chứng.
+Repo mục tiêu: `ronvotri/VH-NDS`, nhánh `vh/jump-ultimate-stars-japan`, thư mục `Jump-Ultimate-Stars-Japan/`. Không báo đồng bộ thành công trước khi kiểm tra GitHub.
