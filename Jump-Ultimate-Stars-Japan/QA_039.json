@@ -1,0 +1,84 @@
+{
+  "game": "Jump Ultimate Stars (Japan)",
+  "checkpoint": "039",
+  "date": "2026-11-19",
+  "status": "TRANSLATED_STATIC_QA_PASS_PENDING_FONT_AND_ROM",
+  "file": "06-jquiz-005.jsonl",
+  "source_rows_in_file": 1881,
+  "resume_index": 705,
+  "translated_new": 694,
+  "first_row_index": 705,
+  "last_row_index": 1398,
+  "previous_total": 24297,
+  "new_total": 24991,
+  "source_total": 34919,
+  "remaining": 9928,
+  "completion_pct": 71.57,
+  "source_sha256": "7b21a4baca6e3d687a8d2de6aa7e6e787755f96335d4d9be1eae9279f504fa8c",
+  "delta_sha256": "d022774573861300cef168ff3213bcd1e81e368beebb12cf2d63727b83a01f2a",
+  "combined_cp038_039_sha256": "57210ff0197e79c906613ddaf3888a4dcd6f25afeb77384fc3f4f79101dfdec9",
+  "qa": {
+    "all_34919_original_source_ids_unique": true,
+    "source_anchor_ids_0_3_match_cp037": true,
+    "source_sha256_matches_cp038": true,
+    "694_contiguous_rows": true,
+    "694_unique_ids": true,
+    "no_overlap_cp038_ids": true,
+    "original_ja_unchanged": true,
+    "quiz_question_and_option_index_verified_against_original_reference": true,
+    "answer_option_order_unchanged": true,
+    "control_tokens_unchanged": true,
+    "empty_vi": 0,
+    "vi_over_37_unicode_codepoints": 0,
+    "max_vi_unicode_codepoints": 37,
+    "affected_question_indices": 153,
+    "question_context_entries": 344,
+    "answer_context_entries": 507,
+    "font_width_tested": false,
+    "rom_patch_tested": false,
+    "correct_answers_tested": false
+  },
+  "new_romanization_checks": {
+    "擬宝珠夏春都": {
+      "vi": "Geparuto Giboshi",
+      "rows": [
+        728,
+        754
+      ],
+      "source": "https://animeanime.jp/article/2020/09/19/56383.html"
+    },
+    "秋本飛飛丸": {
+      "vi": "Pyunpyunmaru Akimoto",
+      "rows": [
+        755
+      ],
+      "source": "https://w.atwiki.jp/charajiten/pages/27.html"
+    },
+    "汚野": {
+      "vi": "Kitano",
+      "rows": [
+        781,
+        786
+      ],
+      "source": "https://maxaydar.backdrop.jp/kame/chara/ka.html"
+    },
+    "ザ・魔雲天": {
+      "vi": "The Mountain",
+      "rows": [
+        1218
+      ],
+      "source": "https://w.atwiki.jp/niconicomugen/pages/6709.html"
+    }
+  },
+  "source_observations": [
+    "Nhiều quiz dùng lại ID đã xuất hiện ở quiz khác, vì thế file translation chỉ chứa một phần dòng hỏi hoặc một số đáp án; không tự tạo các dòng còn thiếu.",
+    "Các câu gắn hình như question_index=1499, 1615 không thể tự đối chiếu hình ảnh trong QA này.",
+    "Một số câu hỏi không có dấu hỏi hoặc câu bị cắt giữa chừng trong nguồn; bản Việt giữ đúng phạm vi câu gốc, không thay đổi thứ tự đáp án.",
+    "Những lựa chọn bằng chữ Hán ở row_index 1205–1208 và 1257–1258 được giữ đúng nguyên dạng để không làm mất tính phân biệt."
+  ],
+  "next_checkpoint": {
+    "checkpoint": "040",
+    "file": "06-jquiz-005.jsonl",
+    "row_index": 1399
+  }
+}
