@@ -326,3 +326,12 @@ Các tên Romanization có trạng thái `working_romanization_qa` cần so lạ
 - Với đáp án trích lời thoại của Goku, Vegeta hoặc Cell, giữ đúng thái độ nhân vật, không tùy tiện thêm tiếng lóng.
 - Giữ nguyên tên riêng, tên chiêu quan trọng và trật tự của mọi đáp án. Tên phiên âm chưa có nguồn chính thức phải gắn `_qa` trong thuật ngữ.
 - Những dòng nguồn đứt mạch hoặc thiếu lựa chọn được dịch nguyên trạng, không suy đoán phần bị thiếu.
+
+
+## Checkpoint 031 — J-Quiz Death Note / Dr. Slump
+
+- Bản dịch là lời người dẫn quiz, không phải thoại của Light, Near, Arale. Giữ ngôi hỏi trung tính, không áp đại từ nhân vật vào phần dẫn.
+- Những tên như Light Yagami, Near, Mello, Ryuk, Misa, Mikami, Arale và Senbei giữ dạng Latin đã thống nhất; các câu trả lời cố ý sai được giữ theo nguồn.
+- Giữ nguyên mã `<IDEOSP>` và `<PERCENT_FULL>` trong đúng ID, không hoán đổi thứ tự câu hỏi hoặc đáp án.
+- Lời chào “N'cha” và các chi tiết hài đặc trưng của Dr. Slump giữ tính dí dỏm gốc, không tự chế meme hay bổ sung đáp án không tồn tại.
+- Một số câu chỉ có một hay hai đáp án trong nguồn trích xuất, cần QA khi ghép ROM; không suy đoán đáp án đúng khi thiếu ảnh.
