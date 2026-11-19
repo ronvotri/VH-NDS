@@ -1,0 +1,834 @@
+{"id":"RDS-8fdabce56adb4d83d93c","vi":"Isilla Card"}
+{"id":"RDS-c49eb2fb5c5d8b9dc01f","vi":"Alice Card"}
+{"id":"RDS-e9c1bf6ca8d5666883f1","vi":"Andre Card"}
+{"id":"RDS-bf1baaa0bba49d2c9764","vi":"Incubus Card"}
+{"id":"RDS-f86372272066614cb94f","vi":"Whisper Card"}
+{"id":"RDS-63f1b0a4aa9f7e2a49c8","vi":"Willow Card"}
+{"id":"RDS-0406eff63247d5dff3cd","vi":"Wolf Card"}
+{"id":"RDS-3d39ecde67c5e51755cd","vi":"Elder Willow Card"}
+{"id":"RDS-9ab4ee7d02ed0992e31c","vi":"Gold Thief Bug Card"}
+{"id":"RDS-dabb35272c78777a58bc","vi":"Owl Baron Card"}
+{"id":"RDS-b3ff7edf724cc031af4c","vi":"Orc Warrior Card"}
+{"id":"RDS-1444c430c917ec64ffb9","vi":"Khalitzburg Card"}
+{"id":"RDS-7e41b9c214c15a045a51","vi":"Ghoul Card"}
+{"id":"RDS-183ab302a3a0e8e048c5","vi":"Cramp Card"}
+{"id":"RDS-a6d1155f4b99948f82c0","vi":"Grizzly Card"}
+{"id":"RDS-a13793ce69dd25ca36e7","vi":"Golem Card"}
+{"id":"RDS-85c6df643f4f015d4f50","vi":"Burly Minorous Card"}
+{"id":"RDS-643e5762f3db3fa66fca","vi":"Goblin Card"}
+{"id":"RDS-67c4c52e8cd749c126b3","vi":"Kobold Card"}
+{"id":"RDS-2b792a66b582c11eafa7","vi":"Succubus Card"}
+{"id":"RDS-345501e47be08535fe0d","vi":"Sasquatch Card"}
+{"id":"RDS-4e5b5e7b5216e8f3300f","vi":"Vagabond Wolf Card"}
+{"id":"RDS-1ea1726e54f5d29410bf","vi":"Wanderer Card"}
+{"id":"RDS-c0aa5e5d10f8628dfe8d","vi":"Sandman Card"}
+{"id":"RDS-e1dfabcb006a302323d6","vi":"Gemini Card"}
+{"id":"RDS-5d77e1685a7ad15c7e30","vi":"Zealotus Card"}
+{"id":"RDS-b45f27621dbb800d1b85","vi":"Skeleton Worker Card"}
+{"id":"RDS-950dbe93d50da934faaa","vi":"Spore Card"}
+{"id":"RDS-d50e80d7449699135822","vi":"Sohee Card"}
+{"id":"RDS-618f14291a93159b52e6","vi":"Zombie Card"}
+{"id":"RDS-6c2275cbf0e567ba1828","vi":"Dark Lord Card"}
+{"id":"RDS-e051547040f699986f09","vi":"Thara Frog Card"}
+{"id":"RDS-1d1652cad30d27171576","vi":"Tarou Card"}
+{"id":"RDS-e48103725f49b27ae629","vi":"Hoodlum Card"}
+{"id":"RDS-de1482ac58af81a41adc","vi":"Diabolique Card"}
+{"id":"RDS-6328bb62363b0d58b708","vi":"Detardeurus Card"}
+{"id":"RDS-20af87f0e6f4a3e51775","vi":"Desert Wolf Card"}
+{"id":"RDS-d82428337496f32fa316","vi":"Deviruchi Card"}
+{"id":"RDS-504dd66eb3c97d53a0af","vi":"Thief Bug Card"}
+{"id":"RDS-4a35d3993f07f1ec1d58","vi":"Dracula Card"}
+{"id":"RDS-e5097c5ba174205d39c2","vi":"Vampire Bat Card"}
+{"id":"RDS-c1ac6d4faa349e1c543f","vi":"Drops Card"}
+{"id":"RDS-dd8c6726b059e4885e5a","vi":"High Orc Card"}
+{"id":"RDS-b67f095e2b9f5d05e32b","vi":"Hydrolancer Card"}
+{"id":"RDS-32664720ded1d8a1b7d8","vi":"Baphomet Jr."}
+{"id":"RDS-c7aa0d1ae6033a936690","vi":"Beetle Card"}
+{"id":"RDS-9d8f7d3925726a211abc","vi":"Bigfoot Card"}
+{"id":"RDS-9afb8dd089fe9e20d173","vi":"Familiar Card"}
+{"id":"RDS-e95a4ceff120a88a6c01","vi":"Frione Card"}
+{"id":"RDS-d0754912495a1b8e6c68","vi":"Peco Peco Card"}
+{"id":"RDS-fab85b630ee3bfc8b2b8","vi":"Poison Spore Card"}
+{"id":"RDS-0d61ff8bf3321f169ed1","vi":"Hornet Card"}
+{"id":"RDS-2a4148ac18e45610ad92","vi":"Poporing Card"}
+{"id":"RDS-9fb08558018841c1c9bf","vi":"Poring Card"}
+{"id":"RDS-fd62e54210e4397cb3d3","vi":"Bongun Card"}
+{"id":"RDS-c4fc244033ec313b07dc","vi":"Marin Card"}
+{"id":"RDS-7f945982a3a66d78013a","vi":"Mandragora Card"}
+{"id":"RDS-e8bb30b94cdd530fbdf1","vi":"Mini Demon Card"}
+{"id":"RDS-3d4b01c69322149394c2","vi":"Minorous Card"}
+{"id":"RDS-827471d5b8142d2f305c","vi":"Mimic Card"}
+{"id":"RDS-967b71ac556aca432fa9","vi":"Munak Card"}
+{"id":"RDS-3af7fbedf9535b8974d7","vi":"Remover Card"}
+{"id":"RDS-a7157e318a338e3db325","vi":"Raydric Archer Card"}
+{"id":"RDS-bc919ce6887d8556ae58","vi":"Roda Frog Card"}
+{"id":"RDS-294d1099f0d8a464121d","vi":"Desert Wolf Cub Card"}
+{"id":"RDS-25da8c39e51506451ae2","vi":"Horde Card"}
+{"id":"RDS-f04128f1b9f4102fa831","vi":"INT +2.<CFFFD>FLEE +20."}
+{"id":"RDS-81e7ab5b35f0b57f6602","vi":"Sát thương nhận<CFFFD>từ Boss -40%.<CFFFD>Sát thương từ<CFFFD>quái thường<CFFFD>+40%."}
+{"id":"RDS-29e8183253396e768cf9","vi":"ATK +6."}
+{"id":"RDS-c67137901f4f9c0f9254","vi":"INT -2.<CFFFD>Max SP +200."}
+{"id":"RDS-44195128c7a65668dc54","vi":"FLEE +5.<CFFFD>Sát thương nhận<CFFFD>từ hệ Ghost<CFFFD>+20%."}
+{"id":"RDS-6d8b43d68eb4d77b3196","vi":"Max SP +80."}
+{"id":"RDS-273806eb66f04aa57121","vi":"ATK +4.<CFFFD>CRIT +2."}
+{"id":"RDS-aa623bae89174e992b44","vi":"INT +5"}
+{"id":"RDS-e9635007f90e824e22ac","vi":"Vô hiệu hóa mọi phép.<CFFFD>Thi triển phép<CFFFD>tốn SP gấp đôi."}
+{"id":"RDS-dc3c2aeb12c8ad7b6ca6","vi":"INT +6"}
+{"id":"RDS-dc68398bba45d2c0085c","vi":"Sát thương nhận<CFFFD>từ quái dạng<CFFFD>thú -30%."}
+{"id":"RDS-a625a1dfd4deb6b83002","vi":"Sát thương nhận<CFFFD>từ quái dạng<CFFFD>Demon -30%."}
+{"id":"RDS-7a67aa2378bc813ac57f","vi":"Kháng Poison +20%.<CFFFD>DEF +2."}
+{"id":"RDS-5d96cbb4be7113102558","vi":"Kháng Poison +30%.<CFFFD>FLEE +5."}
+{"id":"RDS-b481f5212f051fe9e852","vi":"Đòn đánh thường<CFFFD>có 10% cơ hội<CFFFD>gây trạng thái<CFFFD>Darkness."}
+{"id":"RDS-275af0477207d9ac036c","vi":"ATK +2.<CFFFD>DEF +4.<CFFFD>Max SP +10."}
+{"id":"RDS-ff18e865fe06ebc9154d","vi":"Đòn đánh thường<CFFFD>có 10% cơ hội<CFFFD>gây trạng thái<CFFFD>Stun."}
+{"id":"RDS-a3d92065ac7a30734e7e","vi":"Sát thương lên<CFFFD>quái dạng thú<CFFFD>+20%."}
+{"id":"RDS-0c321f8a40d88ece3365","vi":"STR +2.<CFFFD>CRIT +2."}
+{"id":"RDS-4ffb2547977bf0859812","vi":"Max HP +700."}
+{"id":"RDS-b2f4320256c226e940e1","vi":"Đòn đánh thường<CFFFD>có 10% cơ hội<CFFFD>gây trạng thái<CFFFD>Freeze."}
+{"id":"RDS-46a403126c3cd1fd810c","vi":"STR +5."}
+{"id":"RDS-f5f2e0a59db56d6e6a5b","vi":"FLEE +10."}
+{"id":"RDS-5956f6de1d534ded2103","vi":"Miễn nhiễm Petrify.<CFFFD>Sát thương nhận<CFFFD>từ đòn hệ<CFFFD>Earth -50%."}
+{"id":"RDS-928da87df282e9ce634a","vi":"Kháng Silence, Stun,<CFFFD>Petrify và<CFFFD>Sleep +25%."}
+{"id":"RDS-955303718ecfea5c207b","vi":"LUK +10.<CFFFD>FLEE +10."}
+{"id":"RDS-8b35bcf8085f28461c5a","vi":"ATK +4.<CFFFD>Sát thương lên<CFFFD>quái cỡ vừa<CFFFD>+10%."}
+{"id":"RDS-b55cda3fa340c0d6a377","vi":"VIT +2."}
+{"id":"RDS-90b19ec45b01bd5d5cde","vi":"Max SP +15%.<CFFFD>Tốc độ hồi SP<CFFFD>+5%."}
+{"id":"RDS-579f81e9631e2ea1615d","vi":"Max HP +3%."}
+{"id":"RDS-8cd09ff1b24aadb5bf48","vi":"Vô hiệu hóa Undead.<CFFFD>Sát thương nhận<CFFFD>từ đòn hệ<CFFFD>Dark -10%."}
+{"id":"RDS-b3a18740953c8475b64a","vi":"Sát thương nhận<CFFFD>từ quái dạng<CFFFD>người -30%."}
+{"id":"RDS-309478036d0c4610052d","vi":"STR +3%."}
+{"id":"RDS-235de8c9390111a41c84","vi":"CRIT +6."}
+{"id":"RDS-7456e694f0f32ee69781","vi":"Đánh trúng<CFFFD>quái dạng Demon<CFFFD>thành công<CFFFD>sẽ hồi 1 SP."}
+{"id":"RDS-9dc2579024bfd2f706f2","vi":"Miễn nhiễm Freeze."}
+{"id":"RDS-aefaf1a51dd6f2a5aca8","vi":"ATK +4.<CFFFD>Sát thương lên<CFFFD>quái cỡ nhỏ<CFFFD>+10%."}
+{"id":"RDS-a71b643461f6ba8d7de6","vi":"STR +1.<CFFFD>Miễn nhiễm Darkness."}
+{"id":"RDS-f96bc4b04644f1a548ae","vi":"AGI +5."}
+{"id":"RDS-6cd048463e33e5307953","vi":"10% cơ hội<CFFFD>hấp thụ<CFFFD>5% of damage<CFFFD>thành SP."}
+{"id":"RDS-9c3858d5fa46a85d9baa","vi":"Sát thương lên<CFFFD>quái hệ Water<CFFFD>+20%."}
+{"id":"RDS-1d76d6c0cb367bd386e1","vi":"DEX +5.<CFFFD>HIT +5."}
+{"id":"RDS-81a5fb75b9de4a09e11e","vi":"10% cơ hội<CFFFD>đỡ đòn tấn công<CFFFD>của kẻ địch."}
+{"id":"RDS-4143b5be727229bbfdde","vi":"Sát thương đòn<CFFFD>thuộc tính Holy<CFFFD>+10%."}
+{"id":"RDS-de61790fba3edcc58c1f","vi":"AGI +5.<CFFFD>CRIT +2."}
+{"id":"RDS-f13da7b1abf24562755b","vi":"Đánh trúng<CFFFD>quái dạng cá,<CFFFD>giáp xác hoặc Plant<CFFFD>thành công<CFFFD>sẽ hồi 1 SP."}
+{"id":"RDS-6c012b0b8d874ec3dfda","vi":"Sát thương nhận<CFFFD>từ quái dạng<CFFFD>Insect -30%."}
+{"id":"RDS-5cf0f672073ce24d77b8","vi":"ATK +2.<CFFFD>Đòn đánh thường<CFFFD>có 10% cơ hội<CFFFD>gây trạng thái<CFFFD>Darkness."}
+{"id":"RDS-979a8fb4a80c0a9e594a","vi":"HIT +100%.<CFFFD>MATK +2%.<CFFFD>Max SP +20."}
+{"id":"RDS-86a6aa00860fc8a4f365","vi":"Max HP +5%."}
+{"id":"RDS-69983d0b3f48d4748fdf","vi":"Hiệu ứng Poison."}
+{"id":"RDS-1a9f459e2359a0eb5c67","vi":"STR +3.<CFFFD>ATK +3."}
+{"id":"RDS-f0b7dda9a153974e4d05","vi":"Kháng Poison +10%."}
+{"id":"RDS-b1b43b86b46a50177e06","vi":"LUK +5."}
+{"id":"RDS-6d20b8f059214f7da41a","vi":"Sức mạnh<CFFFD>đòn vật lý +25%."}
+{"id":"RDS-049c9160d1dc03237951","vi":"Sức mạnh đòn<CFFFD>thuộc tính Water<CFFFD>+10%."}
+{"id":"RDS-7afaea009ef01778a0ad","vi":"INT +3.<CFFFD>LUK +1.<CFFFD>MATK +5."}
+{"id":"RDS-438d776c75eed2b60f16","vi":"Sát thương gây ra<CFFFD>và nhận từ<CFFFD>quái dạng thú<CFFFD>+20%."}
+{"id":"RDS-490b44d02b297b592e24","vi":"ATK +3.<CFFFD>Sát thương lên<CFFFD>quái cỡ lớn<CFFFD>+10%."}
+{"id":"RDS-dc4dadc7aa047718f542","vi":"Tỉ lệ quái<CFFFD>đánh rơi Item<CFFFD>+2%."}
+{"id":"RDS-49afadf156812fffab6a","vi":"DEF +1.<CFFFD>Kháng Petrify<CFFFD>+15%. Sát thương<CFFFD>nhận từ hệ<CFFFD>Earth -5%."}
+{"id":"RDS-8cd8421669c24b290f96","vi":"Max HP +400."}
+{"id":"RDS-be835c58d69d35ffa5f4","vi":"ATK của Bow +10%."}
+{"id":"RDS-00fa677a4e844483e582","vi":"Max HP +200.<CFFFD>Max SP +50."}
+{"id":"RDS-3ae4cb87f51cda672e8a","vi":"INT +1."}
+{"id":"RDS-3adc447d46fc9deffaca","vi":"FLEE +5.<CFFFD>Sát thương nhận<CFFFD>từ đòn hệ<CFFFD>Earth -30%."}
+{"id":"RDS-a6598ba60df0d0dfa16d","vi":"Weapon"}
+{"id":"RDS-4fd88ff1e389c59a9ded","vi":"Shield"}
+{"id":"RDS-4f42d4830cdfadaa5036","vi":"Headgear"}
+{"id":"RDS-38cac6ceb71a3350e0d6","vi":"Armor"}
+{"id":"RDS-021b0f5a1326f5859d0e","vi":"Cloak"}
+{"id":"RDS-497c975e0e8c537d8a64","vi":"Footwear"}
+{"id":"RDS-b4a5b837aa8e56f1e5e6","vi":"Accessory"}
+{"id":"RDS-36b865edd5eda8996530","vi":"Red Herb"}
+{"id":"RDS-66b8cb38d106e8892d1b","vi":"Yellow Herb"}
+{"id":"RDS-7fac78a0da1dd37fb9b4","vi":"White Herb"}
+{"id":"RDS-cac83971787e72c49959","vi":"Blue Herb"}
+{"id":"RDS-4ea99c0032e47dfab445","vi":"Green Herb"}
+{"id":"RDS-c5b452d7869625af1850","vi":"Red Potion"}
+{"id":"RDS-d3058066c5aadf1eff6e","vi":"Yellow Potion"}
+{"id":"RDS-fe906b234bd4a57d8b32","vi":"White Potion"}
+{"id":"RDS-b2ab6bf902f2dcd67d2e","vi":"Blue Potion"}
+{"id":"RDS-1d12a5f2ad2fd0fcb36d","vi":"Green Potion"}
+{"id":"RDS-f254a81777da4f5288a4","vi":"Mastela Fruit"}
+{"id":"RDS-a4fe2702caec478cf6ab","vi":"Yggdrasil Seed"}
+{"id":"RDS-2fe80e98872ca1c08906","vi":"Yggdrasil Berry"}
+{"id":"RDS-a4af5c8e50ef442ad960","vi":"Yggdrasil Leaf"}
+{"id":"RDS-fb01016938b1c2ddfdda","vi":"Holy Water"}
+{"id":"RDS-a9bffbfb8fc80f0f4f20","vi":"Panacea"}
+{"id":"RDS-7c9b412c6f99d1c6edca","vi":"Butterfly Wing"}
+{"id":"RDS-2a0c11db1da689aa171b","vi":"Speed Potion"}
+{"id":"RDS-57c0fed5a6faf70e8884","vi":"Box of Thunder"}
+{"id":"RDS-834a016614013c6521cb","vi":"Box of Resentment"}
+{"id":"RDS-7ac5d7f7b5af0bafe692","vi":"Box of Drowsiness"}
+{"id":"RDS-578784388559a4167e83","vi":"Fly Wing"}
+{"id":"RDS-d6efa70e7824c5406ff3","vi":"Món đội đầu được<CFFFD><CFFFA> mang từ<CFFFD>đầu câu chuyện."}
+{"id":"RDS-b53b8f2087d6f3723230","vi":"Giáp làm từ kim loại cứng."}
+{"id":"RDS-3c2c19ed3dd0d0e56718","vi":"Trang phục dành cho lữ khách."}
+{"id":"RDS-798ac6cd2fe3ffad81d7","vi":"Giáp của các nữ hầu<CFFFD>phụng sự Odin.<CFFFD>Tăng kháng Stun."}
+{"id":"RDS-576532195cfee8f50c07","vi":"Giáp làm từ gỗ."}
+{"id":"RDS-2d38576d7d6ac81827e7","vi":"Giáp được yểm<CFFFD>phép hệ Wind."}
+{"id":"RDS-f40e00ef82fd07faf1ea","vi":"Nay không còn sức mạnh,<CFFFD>nhưng xưa từng giúp<CFFFD>rút ngắn thời gian niệm phép."}
+{"id":"RDS-15ebd4aa9e726035cbbd","vi":"Đồ diễn nhẹ lấp lánh.<CFFFD>Có thể gây Silence<CFFFD>cho mục tiêu."}
+{"id":"RDS-404ad5fdc042649fb016","vi":"Giáp được yểm<CFFFD>phép hệ Earth."}
+{"id":"RDS-69a1e4ee3354a6867a32","vi":"Trang phục bằng vải cotton."}
+{"id":"RDS-dfa61390ccf22f6f9eb9","vi":"Quần áo siêu nhẹ.<CFFFD>Tăng nhẹ AGI."}
+{"id":"RDS-95ff5a65df0e4d9481b6","vi":"Giáp được yểm<CFFFD>phép hệ Water."}
+{"id":"RDS-0a55e7959770ebc3b86f","vi":"Áo choàng lụa dệt tinh xảo,<CFFFD>được phù phép."}
+{"id":"RDS-4169e714224a2722e573","vi":"Trang phục đắt tiền<CFFFD>bằng sợi bạc."}
+{"id":"RDS-f74b3911035d24873822","vi":"Áo khoác được ban phước<CFFFD>cho giáo sĩ mặc khi<CFFFD>cử hành nghi lễ."}
+{"id":"RDS-a74fd713ab44416de2ba","vi":"Áo choàng được ban phước."}
+{"id":"RDS-2e8dc1c0431c5fc6deed","vi":"Bộ đồ ôm sát cơ thể,<CFFFD>giúp di chuyển linh hoạt."}
+{"id":"RDS-59ead092eb4d7e737184","vi":"Bộ lễ phục vừa vặn."}
+{"id":"RDS-308ab52ae65685460cba","vi":"Áo thánh được ban phước.<CFFFD>Hiệu quả trước Demon<CFFFD>và đòn hệ Shadow."}
+{"id":"RDS-03749bfcd574846b93cb","vi":"Áo khoác thấm ma lực.<CFFFD>Tăng nhẹ INT."}
+{"id":"RDS-01ae4cb4abfcd5dad482","vi":"Áo lông làm từ<CFFFD>da thú cao cấp,<CFFFD>mềm mịn hiếm có."}
+{"id":"RDS-19aa9ec556e505883313","vi":"Áo khoác giúp dễ di chuyển."}
+{"id":"RDS-cab5cd93ed5eece742d8","vi":"Giáp được yểm<CFFFD>phép hệ Fire."}
+{"id":"RDS-5dbdf2bb1c7809557aeb","vi":"Áo khoác bằng<CFFFD>da thú rẻ tiền."}
+{"id":"RDS-a0407aebc13f840eee3a","vi":"Trang phục như hàng thiết kế<CFFFD>của nhà mốt nổi tiếng.<CFFFD>Tăng nhẹ INT."}
+{"id":"RDS-54a0b290ced2d393f395","vi":"Áo khoác dài phủ<CFFFD>xuống dưới đầu gối."}
+{"id":"RDS-b544b469982ea69d03f6","vi":"Áo choàng nữ hầu<CFFFD>phụng sự Odin.<CFFFD>Nhẹ hơn vẻ ngoài nhiều."}
+{"id":"RDS-67fea605b7f42c05ee66","vi":"Áo choàng trong suốt<CFFFD>của tiên nữ bay lượn<CFFFD>trên thiên giới."}
+{"id":"RDS-a6d3682960dd87d4c80f","vi":"Khăn choàng mềm đơn giản<CFFFD>che kín đầu và cổ."}
+{"id":"RDS-450277309b6be3f9c655","vi":"Đôi giáp vai nặng,<CFFFD>bảo vệ hiệu quả<CFFFD>khi chiến đấu."}
+{"id":"RDS-c310a153fd4c32fcd36b","vi":"Áo choàng rách tả tơi."}
+{"id":"RDS-58f6894e5c2a95dab047","vi":"Khăn quàng đơn giản."}
+{"id":"RDS-da6f6fe594718e13764c","vi":"Áo mặc ngoài dáng rộng."}
+{"id":"RDS-b15f934d3d4d65a2999c","vi":"Áo choàng được đồn là<CFFFD>của Hầu tước de Sade.<CFFFD>Tăng nhẹ AGI."}
+{"id":"RDS-4f12c537f9f586ba6424","vi":"Quả cầu sắt nặng gắn với<CFFFD>xiềng chân, ngăn tù nhân<CFFFD>trốn thoát."}
+{"id":"RDS-40bdffbc1565ce5afaf7","vi":"Ủng của nữ hầu Odin.<CFFFD>Người mang càng mạnh,<CFFFD>ủng càng phát huy sức mạnh."}
+{"id":"RDS-a3ab5460ab20ad6986b3","vi":"Ủng thép bảo vệ chân<CFFFD>đáng tin cậy."}
+{"id":"RDS-67d0b48bcdb976e25fca","vi":"Làm từ da thuộc."}
+{"id":"RDS-e38619b72ec35ed327df","vi":"Đồ đi chân êm ái."}
+{"id":"RDS-c97cb390101ad96f605d","vi":"Đặt theo tên chiến mã Odin.<CFFFD>Người mang sẽ nhận<CFFFD>hiệu ứng mới lạ."}
+{"id":"RDS-42991495c05ee41962a3","vi":"Giày cao gót nhọn."}
+{"id":"RDS-fa6c27f384d31d2d7fcb","vi":"Giày chuyên dùng để đi bộ."}
+{"id":"RDS-34b7a766d437fc3eeb72","vi":"Trang sức đeo ở dái tai.<CFFFD>Tăng nhẹ INT."}
+{"id":"RDS-c233a09598dfee33fc76","vi":"Một mảnh của Vesper.<CFFFD>Chứa sức mạnh bí ẩn<CFFFD>cường hóa trí tuệ chủ nhân."}
+{"id":"RDS-4fd35ee391573ed579fa","vi":"Một mảnh của Vesper.<CFFFD>Chứa sức mạnh bí ẩn<CFFFD>cường hóa thể chất chủ nhân."}
+{"id":"RDS-9897e424c0eb95103cf2","vi":"Một mảnh của Vesper.<CFFFD>Quyền năng bí ẩn giúp<CFFFD>cơ thể chủ nhân nhẹ hơn."}
+{"id":"RDS-de52944976d25754c437","vi":"Một mảnh của Vesper.<CFFFD>Quyền năng bí ẩn giúp<CFFFD>chủ nhân tập trung hơn."}
+{"id":"RDS-8891d4918838c3b0ed0f","vi":"Nhẫn hình đầu lâu, khắc<CFFFD>\"Ngay cả sau khi chết...\"<CFFFD>trên bề mặt."}
+{"id":"RDS-e875cc2b8896bd4f5df3","vi":"Nhẫn bằng vàng."}
+{"id":"RDS-e45c8419cda47c3ef55e","vi":"Nhẫn bằng bạc."}
+{"id":"RDS-e4e27386d712f28f51af","vi":"Phụ kiện. Tăng Max SP."}
+{"id":"RDS-b53ac7b27ce035964fe1","vi":"Khuếch đại sức mạnh<CFFFD>tiềm ẩn. Tăng CRIT."}
+{"id":"RDS-2a163610230484f45686","vi":"Găng tay. Tăng nhẹ DEX."}
+{"id":"RDS-0ed653bcf009396c33c9","vi":"Găng tay của giáo sĩ.<CFFFD>Tăng nhẹ INT."}
+{"id":"RDS-53ae335d608e1633450b","vi":"Chiếc nhẫn kỳ lạ<CFFFD>có khả năng bảo vệ chủ nhân."}
+{"id":"RDS-7d4fcb129f71b86e8566","vi":"Nhẫn đắt tiền gắn<CFFFD>một viên kim cương."}
+{"id":"RDS-9513b3a04018ca17e9ac","vi":"Dây chuyền cổ xưa.<CFFFD>Tăng nhẹ VIT."}
+{"id":"RDS-221af547b5d5fd849e2d","vi":"Trâm cài bị nữ thần<CFFFD>Fortuna nguyền rủa. Tăng<CFFFD>CRIT, nhưng giảm tốc chạy."}
+{"id":"RDS-2ba2807384892e5cca6b","vi":"Nhẫn kết bằng hoa.<CFFFD>Thơm mùi đồng quê."}
+{"id":"RDS-c2dd18de4f3ea656ed74","vi":"Dây chuyền được cho là<CFFFD>của nữ thần Freya.<CFFFD>Vừa đẹp vừa mạnh."}
+{"id":"RDS-ec9d7c4b311c01aae5ef","vi":"Phụ kiện. Tăng AGI."}
+{"id":"RDS-bc05b399902c429f3539","vi":"Giữ quần khỏi tụt,<CFFFD>nhưng chẳng giữ nổi hy vọng."}
+{"id":"RDS-69f8b239b3be22795aea","vi":"Dây buộc của Martyr.<CFFFD>Tăng nhẹ AGI."}
+{"id":"RDS-5c63b9b33ef70080c2bc","vi":"Bản sao đai sức mạnh<CFFFD>Thor đeo để tăng<CFFFD>sức mạnh phi thường."}
+{"id":"RDS-5462564fc5410e42efad","vi":"Nhẫn. Tăng nhẹ STR."}
+{"id":"RDS-59f1c1c37350b6b35b0a","vi":"Thánh giá. Tăng nhẹ LUK."}
+{"id":"RDS-fa65485a0c0de22f7a91","vi":"Tràng hạt cổ.<CFFFD>Tăng nhẹ LUK."}
+{"id":"RDS-7392876a08a785f0d13d","vi":"Knife"}
+{"id":"RDS-ceb20d72ef08d48d9bac","vi":"Cutter"}
+{"id":"RDS-6c3e5dec6cf03bda1142","vi":"Kindle Dagger"}
+{"id":"RDS-eccdd72a2bc2adbbc82a","vi":"Obsidian Dagger"}
+{"id":"RDS-03279d18029d7b35ba4e","vi":"Fisherman's Dagger"}
+{"id":"RDS-57c4877592b490d9c5c7","vi":"Jujube Dagger"}
+{"id":"RDS-f558fb499d2bab4bcec4","vi":"Main Gauche"}
+{"id":"RDS-1342f09b704cc1f32e70","vi":"Moonlight Dagger"}
+{"id":"RDS-a1b7217e4fbae9bbf1ea","vi":"Cursed Dagger"}
+{"id":"RDS-96ed0cc6c410f018b807","vi":"Dirk"}
+{"id":"RDS-dd733a98846d5f8612c3","vi":"Poison Knife"}
+{"id":"RDS-2912a25ee508cad81810","vi":"Baselard"}
+{"id":"RDS-8cf0d9ba033e9ebd890d","vi":"Dagger"}
+{"id":"RDS-9d906257ec174dbb68b7","vi":"Carving Knife"}
+{"id":"RDS-c8f6fe2d57f9d7efa4fa","vi":"Weeder Knife"}
+{"id":"RDS-afb50dc4f03f834601da","vi":"Combat Knife"}
+{"id":"RDS-a7a0771f58a62eca498e","vi":"Stabber"}
+{"id":"RDS-36e73b9d4cc6da168251","vi":"Cowardice Blade"}
+{"id":"RDS-1d5358a4578f9c3439a2","vi":"Stiletto"}
+{"id":"RDS-82662ee91944dcac1374","vi":"Fortune Sword"}
+{"id":"RDS-baa00ab658afcd220527","vi":"Exorciser"}
+{"id":"RDS-eb64772d37635a703fc3","vi":"Gladius"}
+{"id":"RDS-bab01c2a550a990629ce","vi":"Dragon Killer"}
+{"id":"RDS-7e3fd4262bf393316fa5","vi":"Damascus"}
+{"id":"RDS-458fa1c49f08cb9be14c","vi":"Assassin's Dagger"}
+{"id":"RDS-2394fb929636d5c49668","vi":"Sucsamad"}
+{"id":"RDS-ebfba244a4fca5d41c6b","vi":"Counter Dagger"}
+{"id":"RDS-8bf7c53646c0741648c7","vi":"Ginnungagap"}
+{"id":"RDS-064709a245f8bfcb5a79","vi":"Ogre Tooth"}
+{"id":"RDS-a22a859f317b64b47ec8","vi":"Sword"}
+{"id":"RDS-adb65c530c95dfdbee59","vi":"Falchion"}
+{"id":"RDS-b77163a0e35deb544e3c","vi":"Blade"}
+{"id":"RDS-5c539a8baeb39d9588ff","vi":"Rapier"}
+{"id":"RDS-e72d07c6ca04c8d67bee","vi":"Sashimi"}
+{"id":"RDS-f27ae68cf3b81886aaf9","vi":"Scimitar"}
+{"id":"RDS-c72e093698cd82f988fb","vi":"Solar Sword"}
+{"id":"RDS-80584e3246d0d782b8ba","vi":"Orcish Sword"}
+{"id":"RDS-35d1fe0178c50c4a6add","vi":"Ring Pommel Saber"}
+{"id":"RDS-b7ccad2b91b9209a4498","vi":"Ice Falchion"}
+{"id":"RDS-1f5421ebaf128bc0572c","vi":"Fireblend"}
+{"id":"RDS-96044005321b498d7d43","vi":"Jeweled Sword"}
+{"id":"RDS-beaf9330c200cd1e6b13","vi":"Saber"}
+{"id":"RDS-9eda3eef61f5c5e51ac0","vi":"Edge"}
+{"id":"RDS-78ddd5130633811624a7","vi":"Haidong Blade"}
+{"id":"RDS-8be2edc541881a650e00","vi":"Nagan"}
+{"id":"RDS-fc7eda0f8351c06d773d","vi":"Tsurugi"}
+{"id":"RDS-13c046e227af6366fbe4","vi":"Caesar's Sword"}
+{"id":"RDS-0b1ad3ad9ebb0085c1f0","vi":"Immaterial Sword"}
+{"id":"RDS-c9529c31e286f2d13c81","vi":"Gaia Sword"}
+{"id":"RDS-2a504704fa780b4bcd6c","vi":"Flamberge"}
+{"id":"RDS-e74cbf3d801f0f2455be","vi":"Cutlass"}
+{"id":"RDS-710c154818f85cd0d13b","vi":"Excalibur"}
+{"id":"RDS-f53451a728b0d60b23e1","vi":"Byul Un Blade"}
+{"id":"RDS-4238ae005b8658208975","vi":"Mysteltain"}
+{"id":"RDS-4aff19664630e40b2d6b","vi":"Tyrfing"}
+{"id":"RDS-e45daf6e7be47b95bc57","vi":"Katana"}
+{"id":"RDS-ab7b50fe0d9cb15c2cb3","vi":"Slayer"}
+{"id":"RDS-abd437b30c945a6b2079","vi":"Bastard Sword"}
+{"id":"RDS-1e45f92cb6204af5e82f","vi":"Broadsword"}
+{"id":"RDS-20cbdde8818d2b9c608f","vi":"Dragon Slayer"}
+{"id":"RDS-a9cf1bf00746458c162a","vi":"Muramasa"}
+{"id":"RDS-863bd23b6751479b2426","vi":"Executioner"}
+{"id":"RDS-bf6f5930d43d22b7ae33","vi":"Two-handed Sword"}
+{"id":"RDS-e55dbb1aa92ee7445b87","vi":"Schweizersabel"}
+{"id":"RDS-5e1ba09320eadef3ce3b","vi":"Katzbalger"}
+{"id":"RDS-a7c478cda717cef85d0e","vi":"Claymore"}
+{"id":"RDS-9972191a5b7d6247b2e7","vi":"Masamune"}
+{"id":"RDS-fe406a8e4e9bc2d3ceea","vi":"Zweihander"}
+{"id":"RDS-14342ef2fddfd4745c7b","vi":"Javelin"}
+{"id":"RDS-6d58dea32f7c199f9210","vi":"Spear"}
+{"id":"RDS-6060f22cc1455a7ec850","vi":"Pike"}
+{"id":"RDS-971e344e5db73aa96c64","vi":"Tjungkuletti"}
+{"id":"RDS-e77fcc9498fcd35042b2","vi":"Skewer"}
+{"id":"RDS-3a5fea66823698eb8055","vi":"Gungnir"}
+{"id":"RDS-bdd453c5ebd61a775b83","vi":"Geledria"}
+{"id":"RDS-2064a117d64d61622945","vi":"Pole Axe"}
+{"id":"RDS-ccb6f43b93b6ef9d512c","vi":"Guisarme"}
+{"id":"RDS-cb62e7639e0cccc8dd2a","vi":"Glaive"}
+{"id":"RDS-1daade5a80d648c3f1b6","vi":"Partisan"}
+{"id":"RDS-070c1b676bc70f4a659d","vi":"Trident"}
+{"id":"RDS-4ac100b227f9c0b14be2","vi":"Gae Bolg"}
+{"id":"RDS-808d1ff293c461c6a97b","vi":"Halberd"}
+{"id":"RDS-abfe6bd1703de15ae958","vi":"Zephyrus"}
+{"id":"RDS-ec24cd87520058f22ad3","vi":"Crescent Scythe"}
+{"id":"RDS-ea1db73e4d5a42a031d6","vi":"Longinus Spear"}
+{"id":"RDS-80c77f2ddbb821d43567","vi":"Bill Guisarme"}
+{"id":"RDS-9473fe6a90da10f6f1b9","vi":"Lance"}
+{"id":"RDS-e8a4cad513f050e79b14","vi":"Brionac"}
+{"id":"RDS-0b9b37d10bd1c8d05fb0","vi":"Hellfire"}
+{"id":"RDS-19e6c78d645b58b6a4d6","vi":"Axe"}
+{"id":"RDS-db575cec3333d69a971f","vi":"Orcish Axe"}
+{"id":"RDS-e045ba6f2eb0781eb25e","vi":"Windhawk"}
+{"id":"RDS-6b6e88aa9050f513c977","vi":"War Axe"}
+{"id":"RDS-3bdce3ced08673f013d5","vi":"Cleaver"}
+{"id":"RDS-746c2c1a62dec28f1877","vi":"Battle Axe"}
+{"id":"RDS-b42bcb3c460cadf3655b","vi":"Hammer"}
+{"id":"RDS-b115a22e0df587f56c02","vi":"Sabbath"}
+{"id":"RDS-3d265d126a021dbd8d07","vi":"Slaughter"}
+{"id":"RDS-932c6981dc49d8539ebc","vi":"Buster"}
+{"id":"RDS-4dccff5489bd8b8f9210","vi":"Tomahawk"}
+{"id":"RDS-e8c8af607ab9c3b93280","vi":"Bloody Axe"}
+{"id":"RDS-a56c8efc7bf0c81ee0f6","vi":"Light Epsilon"}
+{"id":"RDS-965e77191b275a2a5d90","vi":"Two-handed Axe"}
+{"id":"RDS-1b964195f5119e47dcc7","vi":"Great Axe"}
+{"id":"RDS-943590726ccdab68169b","vi":"Guillotine"}
+{"id":"RDS-ede6e2e1942081ceda1c","vi":"Club"}
+{"id":"RDS-e069deada0cde6da7596","vi":"Mace"}
+{"id":"RDS-409b3b5ab272582e5b71","vi":"Smasher"}
+{"id":"RDS-6655b03e028952745c62","vi":"Flail"}
+{"id":"RDS-f138f005a91c36f8c9da","vi":"Chain"}
+{"id":"RDS-590a1cf8ee2b191e2fab","vi":"Spike"}
+{"id":"RDS-c553e069b725c1163687","vi":"Morning Star"}
+{"id":"RDS-a8df51d49f219285d416","vi":"Golden Mace"}
+{"id":"RDS-b85aff8e891a3eeb2a21","vi":"Iron Driver"}
+{"id":"RDS-02e1949ca126ba2d132d","vi":"Sword Mace"}
+{"id":"RDS-03371f8bfdaa119b9156","vi":"Long Mace"}
+{"id":"RDS-58e1dc988ba7d6828a10","vi":"Stunner"}
+{"id":"RDS-d47d249274dcb89f7c3b","vi":"Grand Cross"}
+{"id":"RDS-f4ec4dfe107104e14c25","vi":"Slash"}
+{"id":"RDS-91a29b85deb7b1ac25b6","vi":"Quadrille"}
+{"id":"RDS-9b2b5deced9e0858ea00","vi":"Mjolnir"}
+{"id":"RDS-80eedd5c96cdec370771","vi":"Rod"}
+{"id":"RDS-c322c60893fc3ca7ccd3","vi":"Wand"}
+{"id":"RDS-fd3bd485ce89fd09e6c4","vi":"Staff"}
+{"id":"RDS-14814480f7711bcc2487","vi":"Bone Wand"}
+{"id":"RDS-cc88791a80b92d5ab1a6","vi":"Survival Rod D"}
+{"id":"RDS-af9aa99239d76d0c9f73","vi":"Survival Rod I"}
+{"id":"RDS-2d8f2084b76955e94c47","vi":"Arc Wand"}
+{"id":"RDS-3cb90ea014f7c37d3a34","vi":"Wing Staff"}
+{"id":"RDS-73e828cf00f5d77ca010","vi":"Holy Wand"}
+{"id":"RDS-094d994418a19534735d","vi":"Mighty Staff"}
+{"id":"RDS-78e9c3e55d9a5f759fe2","vi":"Bow"}
+{"id":"RDS-89141ccfe067ee8ed783","vi":"Composite Bow"}
+{"id":"RDS-3a3d2ada21362b51293b","vi":"Great Bow"}
+{"id":"RDS-6baa11e61066fb5b196c","vi":"Crossbow"}
+{"id":"RDS-b5857d659b8c533773b8","vi":"Thief's Bow"}
+{"id":"RDS-0a4228002f8a6d77c040","vi":"Arbalest"}
+{"id":"RDS-ee9342557c5b976e3ba5","vi":"Tribal Bow"}
+{"id":"RDS-df0248d9ac0f420aeacd","vi":"Horned Bow"}
+{"id":"RDS-693429cd8c9fda684195","vi":"Luna Bow"}
+{"id":"RDS-2dffac1da36c1f15e0e6","vi":"Dragon Wing"}
+{"id":"RDS-ffe671e2ef112877d37b","vi":"Hunter Bow"}
+{"id":"RDS-abe737e313e970bb4160","vi":"Ballista"}
+{"id":"RDS-bd8101e5d9f389b64c17","vi":"Rudra's Bow"}
+{"id":"RDS-a47a0e112a262d1f95a6","vi":"Varys Jur"}
+{"id":"RDS-344374d819290ec633c5","vi":"Katar of Cold Icicle"}
+{"id":"RDS-2d7d0dc092669abc3a39","vi":"Sharpened Leg Bone of Ghoul"}
+{"id":"RDS-93f90192aa51aa71c137","vi":"Katar of Raging Blaze"}
+{"id":"RDS-7213e6f997a7ffa412e7","vi":"Katar of Piercing Wind"}
+{"id":"RDS-14105975277e257fdd7e","vi":"Loki's Nail"}
+{"id":"RDS-23a86452c853065f24d9","vi":"Bloody Roar"}
+{"id":"RDS-b85ef247b10a729c26a6","vi":"Jur"}
+{"id":"RDS-de33081834e2f02418b4","vi":"Katar of Dusty Thornbush"}
+{"id":"RDS-c79cbef750b23ea6fa9c","vi":"Katar"}
+{"id":"RDS-c054cc64d0c68ad888f8","vi":"Death Knife"}
+{"id":"RDS-e34270262181ea59b1fb","vi":"Unholy Touch"}
+{"id":"RDS-ec8bf6928d134915943c","vi":"Jamadhar"}
+{"id":"RDS-79e07bf250056e6485fb","vi":"Girl's Diary"}
+{"id":"RDS-1164868171298f73fa17","vi":"Book"}
+{"id":"RDS-58f06e5a07b5a7db43a6","vi":"Sage's Diary"}
+{"id":"RDS-2bf844dec520a09b227c","vi":"Bible"}
+{"id":"RDS-651d6f740817f0131fdc","vi":"Book of the Apocalypse"}
+{"id":"RDS-7a39082f6eb76a12eb6d","vi":"Tablet"}
+{"id":"RDS-befae910486adcd09758","vi":"Legacy of the Dragon"}
+{"id":"RDS-857c5cc1fa6af0f043e8","vi":"Hardcover Book"}
+{"id":"RDS-184879cad15a9fa94c61","vi":"Oridecon Arrow"}
+{"id":"RDS-a04caa6ac58dffc25450","vi":"Curse Arrow"}
+{"id":"RDS-55e8f31ef17da1a32026","vi":"Shadow Arrow"}
+{"id":"RDS-ecfa3e754010a0ee1060","vi":"Wind Arrow"}
+{"id":"RDS-7c2077a75ab34f38fdff","vi":"Stone Arrow"}
+{"id":"RDS-3cd45d9080afc0ef2217","vi":"Silver Arrow"}
+{"id":"RDS-ed1eaa4cf4d0c4138699","vi":"Steel Arrow"}
+{"id":"RDS-05a901e5175323db1f9b","vi":"Freezing Arrow"}
+{"id":"RDS-a132e91506e9a5cfc7f4","vi":"Silence Arrow"}
+{"id":"RDS-b70d5edad07bc1f3b915","vi":"Rusty Arrow"}
+{"id":"RDS-d778c673a17e8c2f429b","vi":"Crystal Arrow"}
+{"id":"RDS-35d0569af81221806485","vi":"Stun Arrow"}
+{"id":"RDS-371a8364ff1e6888122e","vi":"Sleep Arrow"}
+{"id":"RDS-f615e4bf10fa1878aec0","vi":"Incisive Arrow"}
+{"id":"RDS-2ae6c7519b3eafcff018","vi":"Iron Arrow"}
+{"id":"RDS-4ae08f4790ed3e24d1b2","vi":"Poison Arrow"}
+{"id":"RDS-7c43e56cfae52c8cda61","vi":"Flash Arrow"}
+{"id":"RDS-ce8d040cbaad043ac84f","vi":"Fire Arrow"}
+{"id":"RDS-ffad9d8f33ab203c4e60","vi":"Immaterial Arrow"}
+{"id":"RDS-4c8850e68b832918bfe1","vi":"Arrow"}
+{"id":"RDS-06ca6b192d30bee31b76","vi":"Guard"}
+{"id":"RDS-59f44a8314517477d96f","vi":"Buckler"}
+{"id":"RDS-4d516a388a7d7ea706a7","vi":"Mirror Shield"}
+{"id":"RDS-80ac3506f810bf20ca7b","vi":"Memory Book"}
+{"id":"RDS-079d83bd78e9c7d4fab0","vi":"Demon Crown"}
+{"id":"RDS-3f33c69375ccc5186183","vi":"Ayam"}
+{"id":"RDS-36299419c011b3c8452b","vi":"Darkness Helm"}
+{"id":"RDS-4989e346982547edb54e","vi":"Valkyrie Helm"}
+{"id":"RDS-1e5526947f4e523fb785","vi":"Wizard Hat"}
+{"id":"RDS-ac1bc211ede8741d0f04","vi":"Bunny Band"}
+{"id":"RDS-a618637993fd0b2fee4e","vi":"Big Ribbon"}
+{"id":"RDS-f3ae5b3a788635e6cab4","vi":"Orc Helm"}
+{"id":"RDS-d7c5443f7bcddc72887c","vi":"Cloth Hat"}
+{"id":"RDS-fdc91a06c3fbc6946339","vi":"Devil Cap"}
+{"id":"RDS-c273249080811e713e85","vi":"Goggles"}
+{"id":"RDS-8282ad8232699bb153b7","vi":"Ancient Headdress"}
+{"id":"RDS-fb8c9f67c81df9589c8e","vi":"Goblin Mask"}
+{"id":"RDS-60cc69f562277c30594d","vi":"Sunglasses"}
+{"id":"RDS-593fd8966ad3acbdd6ec","vi":"Zealotus Mask"}
+{"id":"RDS-e246c63a49ba98d94e20","vi":"Bandana"}
+{"id":"RDS-0bdfd2f720f09a621cd7","vi":"Solar Helm"}
+{"id":"RDS-bbd96e84d7831d136dc0","vi":"Puppet"}
+{"id":"RDS-16cf62e991bc030aefe8","vi":"Angel Crown"}
+{"id":"RDS-fcc1e0200daf96b61c60","vi":"Pointy Hat"}
+{"id":"RDS-43e4fb4c36901bc1e87e","vi":"Ardor Headband"}
+{"id":"RDS-117c465bde62f608ee3b","vi":"Bileta"}
+{"id":"RDS-899e8dd1b191bc5932d2","vi":"Furoshiki"}
+{"id":"RDS-3fa3fb55a3622762e00d","vi":"Prontera Military Hat"}
+{"id":"RDS-e8315c10a11bcda1489f","vi":"Bone Helm"}
+{"id":"RDS-bb290d887146bcc188ec","vi":"Poring Hat"}
+{"id":"RDS-62f23868c5725c95f17c","vi":"Bongun Hat"}
+{"id":"RDS-136ff4b87c8b08e24cc9","vi":"Majestic Goat"}
+{"id":"RDS-2586e0dc261374d1b884","vi":"William Tell's Apple"}
+{"id":"RDS-62c48147f7a2a105049b","vi":"Ribbon Headband"}
+{"id":"RDS-2e40808cd2b3b872b482","vi":"Headdress"}
+{"id":"RDS-7c05030c9cad1e2b9f7a","vi":"Adventurer's Suit"}
+{"id":"RDS-00e2d7dbdb45acaf6f77","vi":"Valkyrie Armor"}
+{"id":"RDS-46d083464c4cd6ea045b","vi":"Wooden Mail"}
+{"id":"RDS-285d326a3fecf21b5813","vi":"Wind Armor"}
+{"id":"RDS-d4e170ac313e398a79a2","vi":"Robe of Casting"}
+{"id":"RDS-887ae3dfc9807f05c0f9","vi":"Glittering Cross"}
+{"id":"RDS-03e73ce598e2d16c6234","vi":"Earth Armor"}
+{"id":"RDS-bffd74b6b16a9ffdb9bf","vi":"Cotton Shirt"}
+{"id":"RDS-0cb57e8834ecc39915ed","vi":"Thief Clothes"}
+{"id":"RDS-3b16c44e3d1ebfdf535f","vi":"Water Armor"}
+{"id":"RDS-c16e014d54d8ce9b6b9c","vi":"Silk Robe"}
+{"id":"RDS-1e12aabaefa2aa8b1991","vi":"Silver Robe"}
+{"id":"RDS-35b7e096425fa57e5bf6","vi":"Scapulare"}
+{"id":"RDS-3c48cd26e7ccb0f4be83","vi":"Saint's Robe"}
+{"id":"RDS-9b02af9420069f176649","vi":"Tights"}
+{"id":"RDS-78666d3fbe404b0075d0","vi":"Formal Suit"}
+{"id":"RDS-3052633b1ca3e3fd4b99","vi":"Plate Armor"}
+{"id":"RDS-7ad74275d6178e85515c","vi":"Holy Robe"}
+{"id":"RDS-cea267639b8fa8eead3a","vi":"Magic Coat"}
+{"id":"RDS-a1b31b1c8deab3c3de25","vi":"Mink Coat"}
+{"id":"RDS-0d110ad3839c08f3f09a","vi":"Mail"}
+{"id":"RDS-739d28560f8370c6370b","vi":"Mantle"}
+{"id":"RDS-250d743fd9f75a26d51c","vi":"Fire Armor"}
+{"id":"RDS-3f85ad3a5848f470ecf7","vi":"Leather Jacket"}
+{"id":"RDS-a58a28270911b547cf1c","vi":"Lord's Clothes"}
+{"id":"RDS-afdebf78de6815b5a82b","vi":"Long Coat"}
+{"id":"RDS-b954c7b974fbc3af23c5","vi":"Valkyrie Cape"}
+{"id":"RDS-6369b19727576f3c070a","vi":"Heavenly Maiden Robe"}
+{"id":"RDS-f1887d77e27ecfc27b1e","vi":"Hood"}
+{"id":"RDS-a1694f7937a9b969b7ae","vi":"Pauldron"}
+{"id":"RDS-7c68531cebea52845815","vi":"Cheap Cape"}
+{"id":"RDS-098e11fac6b06329bc57","vi":"Scarf"}
+{"id":"RDS-63a6b9f424dca07086b7","vi":"Cape"}
+{"id":"RDS-e4cc5dbf6cc456dcc0a8","vi":"Cape of the Old Marquis"}
+{"id":"RDS-868a3063438693113bd4","vi":"Iron Boots"}
+{"id":"RDS-2521a94632cfea2ed3ea","vi":"Valkyrie Shoes"}
+{"id":"RDS-a7bb74aed04ba5b1d594","vi":"Greaves"}
+{"id":"RDS-c268abbad6d870e13358","vi":"Sandals"}
+{"id":"RDS-ca929864be6308855fba","vi":"Shoes"}
+{"id":"RDS-28528ceee48770d74c63","vi":"Sleipnir"}
+{"id":"RDS-30f8b8a4d1e45b585597","vi":"High Heels"}
+{"id":"RDS-ea5290f410faeb8b76d3","vi":"Boots"}
+{"id":"RDS-39aa24ee00a042b48e6b","vi":"Earring"}
+{"id":"RDS-b24bea44832b4d0faf9e","vi":"Vesper Core 1"}
+{"id":"RDS-095ea0fac5c8733d0663","vi":"Vesper Core 2"}
+{"id":"RDS-cde9d79e3628f0f066af","vi":"Vesper Core 3"}
+{"id":"RDS-99eb528271550d37b374","vi":"Vesper Core 4"}
+{"id":"RDS-14ccbf8d9b429a0037e4","vi":"Skull Ring"}
+{"id":"RDS-119d37158bcef841e478","vi":"Gold Ring"}
+{"id":"RDS-568b24fb63e8ed9f0e3d","vi":"Silver Ring"}
+{"id":"RDS-9ed2974b06980e053d3e","vi":"Clip"}
+{"id":"RDS-65dbb086ace5748d03a8","vi":"Critical Ring"}
+{"id":"RDS-c264880fa075f61f42bb","vi":"Gloves"}
+{"id":"RDS-8c317f689752af8cc9dd","vi":"Holy Gloves"}
+{"id":"RDS-24c14c32352655f314f2","vi":"Safety Ring"}
+{"id":"RDS-f778783b02a4ce1e4cea","vi":"Diamond Ring"}
+{"id":"RDS-75c1a6fc446e1966342f","vi":"Necklace"}
+{"id":"RDS-da4cf985d5b71d66f28a","vi":"Cursed Brooch"}
+{"id":"RDS-fe0244eca2d7335371dc","vi":"Flower Ring"}
+{"id":"RDS-0522b2cde40dbdac1600","vi":"Brisingamen"}
+{"id":"RDS-d24121a23ebb1a3487b5","vi":"Brooch"}
+{"id":"RDS-3e81b915ac3da034d522","vi":"Belt"}
+{"id":"RDS-a0d63f11fa40012d551b","vi":"Martyr's Leash"}
+{"id":"RDS-e1791abc49fcc0394eda","vi":"Megingjard"}
+{"id":"RDS-5bfb04fddd4f58ca49b0","vi":"Ring"}
+{"id":"RDS-2c18332349f1f0636d9e","vi":"Rosary"}
+{"id":"RDS-5a2dac04d72d04bfc844","vi":"Rosario"}
+{"id":"RDS-31a77d21665d51656bc3","vi":"Dog Tag"}
+{"id":"RDS-e43bc48e4678465fe0c0","vi":"White Peach"}
+{"id":"RDS-91d9536c0817fb86864b","vi":"Frione Tear"}
+{"id":"RDS-c3b7c0515cd53ef11451","vi":"Emperium"}
+{"id":"RDS-c32fe14c7dd46621dc9b","vi":"Letter to Aldo"}
+{"id":"RDS-96f9def7549e0c3b4545","vi":"Rusty Legendary Sword"}
+{"id":"RDS-4877f4d8c4d7986217cd","vi":"High Orc Helm"}
+{"id":"RDS-964770bed4925b47534b","vi":"Card Key"}
+{"id":"RDS-50071d45861eb431bfd4","vi":"Pocket Watch"}
+{"id":"RDS-c0dcc33f77717981fc73","vi":"Laimis Flower"}
+{"id":"RDS-3ea880d17cf803ace057","vi":"Forgotten Article"}
+{"id":"RDS-5816a4361528b7965c73","vi":"Glittering Ore"}
+{"id":"RDS-d42efa8febcd2d1f3396","vi":"Old Sword"}
+{"id":"RDS-10ebe1ebb6939564e65d","vi":"Black Carpet"}
+{"id":"RDS-dfe7866ba8d2df6868d5","vi":"Music Box of Memories"}
+{"id":"RDS-8212f4699285a07e9c60","vi":"Sound Crystal"}
+{"id":"RDS-661b53f80bdfe4aa3f8b","vi":"Éclair"}
+{"id":"RDS-1096770d2f0775085eb5","vi":"Thief's Glass Ball"}
+{"id":"RDS-41e9eff966758e6056b3","vi":"Treasure Map"}
+{"id":"RDS-cd44fb5f0ba691ccf0b1","vi":"Book of Abstinence"}
+{"id":"RDS-15824dc2ab6031ff88e3","vi":"Assassin Registry"}
+{"id":"RDS-21f9a48b0d9554a4986d","vi":"Merchant's Note"}
+{"id":"RDS-c85e5a21c4341dee81bc","vi":"Yellow Stalk"}
+{"id":"RDS-894701a41c12a6f1bbe7","vi":"Spring Water"}
+{"id":"RDS-c9826f44d690576d721c","vi":"Red Stone Earring"}
+{"id":"RDS-4bdaf3cdcf075f98edb7","vi":"Yggdrasil Branch"}
+{"id":"RDS-db7b5b7b3b67ad6704b8","vi":"Bloody Sword"}
+{"id":"RDS-1ef06256068c6af637f9","vi":"Knight's Spirit"}
+{"id":"RDS-92b59446a3b6932af500","vi":"Wizard's Spirit"}
+{"id":"RDS-78df74287b7dd6dce688","vi":"Hunter's Spirit"}
+{"id":"RDS-1fef6cfd9803fc392024","vi":"Priest's Spirit"}
+{"id":"RDS-2b6ad1ed23d6a905e745","vi":"Assassin's Spirit"}
+{"id":"RDS-2f33cb5d057c61a4b902","vi":"Blacksmith's Spirit"}
+{"id":"RDS-f5ce35cf0ccef6df4d39","vi":"Taekwon Master's Spirit"}
+{"id":"RDS-edc0fd362c94f057dc31","vi":"Shaman's Spirit"}
+{"id":"RDS-3bf5245e45c010884006","vi":"Dark Spirit"}
+{"id":"RDS-b07e81ad983f83c98249","vi":"Broken Sword"}
+{"id":"RDS-107784aa1940ab3eeee1","vi":"Ancient Shaman Documents"}
+{"id":"RDS-f94aa37a98b9c9621dee","vi":"Vidofnir Wing"}
+{"id":"RDS-b415038610707f095664","vi":"Gender Experimentation Gear"}
+{"id":"RDS-3d1e23ee32ed54978cb1","vi":"Wig 1"}
+{"id":"RDS-7ce288a5374460b11320","vi":"Wig 2"}
+{"id":"RDS-25ee395081268a1c4c73","vi":"Wig 3"}
+{"id":"RDS-525e383465a3025f81e0","vi":"Wig 4"}
+{"id":"RDS-79bdfeff215a033ef35e","vi":"Wig 5"}
+{"id":"RDS-0cf9626bef0feb8263b4","vi":"Wig 6"}
+{"id":"RDS-a28fd0b423c57d2f33b4","vi":"Wig 7"}
+{"id":"RDS-5517f8e825600dd990f8","vi":"Wig 8"}
+{"id":"RDS-1ec1c2fb3f262c4c84b2","vi":"Wig 9"}
+{"id":"RDS-480822002a74bf49e2a1","vi":"Wig 10"}
+{"id":"RDS-9f818a5180349f9dad24","vi":"Wig 11"}
+{"id":"RDS-43f07d0609ca3d7a4839","vi":"Hair Dye 1"}
+{"id":"RDS-8253f73f447f666f72ee","vi":"Hair Dye 2"}
+{"id":"RDS-f865ce63f8f22ba25f85","vi":"Hair Dye 3"}
+{"id":"RDS-14239d8d807432234281","vi":"Hair Dye 4"}
+{"id":"RDS-4b4f715ee1d8ffc136fc","vi":"Yusidra Caves Map"}
+{"id":"RDS-95ef08f368ebe4c4e492","vi":"West Prontera Woods Map"}
+{"id":"RDS-4768164a36eef87da737","vi":"East Prontera Woods Map"}
+{"id":"RDS-72f5162afb4fef39e945","vi":"Prontera Culvert Map"}
+{"id":"RDS-ac17b8e166f784b59714","vi":"Geffen Bridge Map"}
+{"id":"RDS-bb5b4f4872e1beef2a0c","vi":"Mt. Mjolnir - East Map"}
+{"id":"RDS-4e67a5d9c01120298763","vi":"Mt. Mjolnir - West Map"}
+{"id":"RDS-8ea54944006c71936e32","vi":"Mjolnir Dead Pit Map"}
+{"id":"RDS-d188dbd4d8bb9c702646","vi":"Sograt Desert - North Map"}
+{"id":"RDS-50bfee8d6085cb389437","vi":"Sograt Desert - South Map"}
+{"id":"RDS-98e3763ac8a6252cd73b","vi":"Eternal Sands Map"}
+{"id":"RDS-1a0f5999474433645a32","vi":"Ant Hell Map"}
+{"id":"RDS-c89831b7135ffeb32701","vi":"El Mes Gorge - North Map"}
+{"id":"RDS-0d563465ce278753d322","vi":"El Mes Gorge - South Map"}
+{"id":"RDS-1cfaeaf662d8597677fe","vi":"Somatology Lab - 1F Map"}
+{"id":"RDS-e69e29b5ea609e287316","vi":"Somatology Lab - 2F Map"}
+{"id":"RDS-d20c86a4fb798a605063","vi":"Somatology Lab - 3F Map"}
+{"id":"RDS-6ec1b67be1e3ab00d45a","vi":"Labyrinth Forest Map"}
+{"id":"RDS-8e1842621531f1534c97","vi":"Glast Heim Underground Map"}
+{"id":"RDS-5df07cfaf2216cdd7ad3","vi":"Glast Heim Map"}
+{"id":"RDS-23ff06ea59279e64a3cd","vi":"Giấy chứng nhận để vào<CFFFD>đội tiêu diệt quái vật."}
+{"id":"RDS-9b91903dfcb070f99002","vi":"Trái cây ngon lành."}
+{"id":"RDS-13fda8f5b9c4d0097d3e","vi":"Viên ngọc Frione đánh rơi."}
+{"id":"RDS-8853f341432704f88e90","vi":"Vật phẩm cần để<CFFFD>thành lập Guild."}
+{"id":"RDS-9053c09a1c6444a968a6","vi":"Thư Lodia gửi Aldo."}
+{"id":"RDS-b9113558995d626c14de","vi":"Kiếm huyền thoại từng<CFFFD>hạ rồng. Nay chỉ còn<CFFFD>khối sắt gỉ sét."}
+{"id":"RDS-a9aabcf3be11fa3208dd","vi":"Mũ giáp của High Orc.<CFFFD>Không ai hiểu sao Skal muốn nó.<CFFFD>Chắc đừng hỏi thì hơn."}
+{"id":"RDS-7a548f15a25c5e7207b1","vi":"Vật phẩm cần để<CFFFD>vào phòng thí nghiệm."}
+{"id":"RDS-f103ebb3a201bd0b111b","vi":"Kỷ vật của mẹ Sedi.<CFFFD>Hơi bẩn nhưng<CFFFD>hoa văn rất tinh xảo."}
+{"id":"RDS-7b4ccf771491d2766771","vi":"Bông hoa tuyệt đẹp.<CFFFD>Có lẽ đem tặng<CFFFD>ai đó sẽ hợp đấy?"}
+{"id":"RDS-d01a14e59583d028223d","vi":"Đồ ai đó để quên.<CFFFD>Trong đó có gì<CFFFD>đâu liên quan tới bạn."}
+{"id":"RDS-0da61c481ab3a4211d3d","vi":"Quặng khoáng lấp lánh.<CFFFD>Nghe nói có thể<CFFFD>giúp giải lời nguyền."}
+{"id":"RDS-da6f37591140076e1a5f","vi":"Tàn tích thanh kiếm<CFFFD>huyền thoại. Nay vô dụng,<CFFFD>nhưng vẫn phát ma lực bí ẩn."}
+{"id":"RDS-91f07885ccd33d7a81f4","vi":"Tấm thảm đen tuyền.<CFFFD>Bán được giá rất cao."}
+{"id":"RDS-f3eafb8533bc18869e32","vi":"Báu vật của con gái Lime.<CFFFD>Nghe nói cô bé không thể ngủ<CFFFD>nếu thiếu nó."}
+{"id":"RDS-8db1fffe59cd064c3da2","vi":"Linh kiện cần để<CFFFD>sửa hộp nhạc."}
+{"id":"RDS-922f9083b4dcdb71c4e4","vi":"Viên ngọc rất đẹp."}
+{"id":"RDS-2ab5e156dc6a7859a520","vi":"Quả cầu thủy tinh quý giá<CFFFD>bị trộm từ Thief Guild.<CFFFD>Sứt mẻ vài chỗ."}
+{"id":"RDS-7deadc0ede5a5db29a2c","vi":"Bản đồ chỉ nơi<CFFFD>kho báu của siêu trộm Aghill<CFFFD>được cất giấu."}
+{"id":"RDS-6404536d69b867949323","vi":"Sách giúp Lisir bỏ thói<CFFFD>tham lam. Gồm chuyện kể<CFFFD>về đức tự chủ."}
+{"id":"RDS-2ef4e7e57be65a2d0b79","vi":"Sổ ghi tên trộm do<CFFFD>Nicole bỏ lại, viết<CFFFD>bằng mật mã khó hiểu."}
+{"id":"RDS-77313c302cd0655523ba","vi":"Giấy nợ phát hành khi<CFFFD>Merchant giao dịch<CFFFD>với Merchant Guild."}
+{"id":"RDS-a65ececd34b062f7db8e","vi":"Thân cây màu vàng.<CFFFD>Skal đang thu thập thứ này."}
+{"id":"RDS-2514320aa432e8836cb9","vi":"Nước thánh chữa được<CFFFD>Liar's Curse."}
+{"id":"RDS-4973209ae306b17e8407","vi":"Khuyên tai Colm mang<CFFFD>từ khi còn là<CFFFD>em bé."}
+{"id":"RDS-ecfe42b9dd499e0bc22b","vi":"Cành cây thần thánh.<CFFFD>Cần để thành Shaman."}
+{"id":"RDS-19485b945dd294eaa22c","vi":"Kiếm hắc ám bị nguyền.<CFFFD>Người sống không thể sử dụng."}
+{"id":"RDS-eab3b8d9f6faa19ee27e","vi":"Cho phép dùng bí thuật<CFFFD>của Knight."}
+{"id":"RDS-055184a61e86c3223cca","vi":"Cho phép dùng bí thuật<CFFFD>của Wizard."}
+{"id":"RDS-faeb4b5f7c8849c2cf02","vi":"Cho phép dùng bí thuật<CFFFD>của Hunter."}
+{"id":"RDS-4da42fe6dbf22b93dce7","vi":"Cho phép dùng bí thuật<CFFFD>của Priest."}
+{"id":"RDS-13225a385d0cf23fa00b","vi":"Cho phép dùng bí thuật<CFFFD>của Assassin."}
+{"id":"RDS-3046fc29a607df00517c","vi":"Cho phép dùng bí thuật<CFFFD>của Blacksmith."}
+{"id":"RDS-dfeaced5b4a251de3d55","vi":"Cho phép dùng bí thuật<CFFFD>của Taekwon Master."}
+{"id":"RDS-c4ebc8ac2eb919f01090","vi":"Cho phép dùng bí thuật<CFFFD>của Shaman."}
+{"id":"RDS-1b9a57c882674ff82334","vi":"Cho phép dùng bí thuật<CFFFD>của Dark Knight."}
+{"id":"RDS-8110b422a038bddf9932","vi":"Kỷ vật của bố <CFFFB>.<CFFFD>Sao nó lại bị vỡ...?"}
+{"id":"RDS-a1de5ee3499bacab7182","vi":"Tài liệu cổ được truyền<CFFFD>qua các đời Shaman."}
+{"id":"RDS-7a459c54b8d70ad729c3","vi":"Lông đuôi chim ưng trắng."}
+{"id":"RDS-30601f1cce5403407e54","vi":"Mở khóa kiểu nhân vật nữ<CFFFD>trong Mirage Tower."}
+{"id":"RDS-c0922eb634d7fadd4011","vi":"Mở khóa kiểu tóc<CFFFD>trong Mirage Tower."}
+{"id":"RDS-3d2a1a12fa770c568648","vi":"Mở khóa màu tóc<CFFFD>trong Mirage Tower."}
+{"id":"RDS-38aa5e852753c7ff62b2","vi":"Bản đồ Yusidra Caves.<CFFFD>Hiện ở màn hình trên."}
+{"id":"RDS-a2aad7cc8f727be22d92","vi":"Bản đồ West Prontera Woods.<CFFFD>Hiện ở màn hình trên."}
+{"id":"RDS-d19636ba19aee0b204b4","vi":"Bản đồ East Prontera Woods.<CFFFD>Hiện ở màn hình trên."}
+{"id":"RDS-18e14af8c502e7761eb2","vi":"Bản đồ Prontera Culvert.<CFFFD>Hiện ở màn hình trên."}
+{"id":"RDS-f2ce579ee53417669f8b","vi":"Bản đồ Geffen Bridge.<CFFFD>Hiện ở màn hình trên."}
+{"id":"RDS-72cf850e0daa7db7d364","vi":"Bản đồ Mt. Mjolnir - East.<CFFFD>Hiện ở màn hình trên."}
+{"id":"RDS-0da1f08a62fd72aa9294","vi":"Bản đồ Mt. Mjolnir - West.<CFFFD>Hiện ở màn hình trên."}
+{"id":"RDS-27b2fcc2e5e7cbd6bf73","vi":"Bản đồ Mjolnir Dead Pit.<CFFFD>Hiện ở màn hình trên."}
+{"id":"RDS-8e5ab408b047b1354db0","vi":"Bản đồ Sograt Desert - North.<CFFFD>Hiện ở màn hình trên."}
+{"id":"RDS-55976c73aa564a221e48","vi":"Bản đồ Sograt Desert - South.<CFFFD>Hiện ở màn hình trên."}
+{"id":"RDS-71bf9005aa38e0b90ffb","vi":"Bản đồ Eternal Sands.<CFFFD>Hiện ở màn hình trên."}
+{"id":"RDS-35f2825b8c589ccf2ff2","vi":"Bản đồ Ant Hell.<CFFFD>Hiện ở màn hình trên."}
+{"id":"RDS-a0a70c078f0e55df5560","vi":"Bản đồ El Mes Gorge - North.<CFFFD>Hiện ở màn hình trên."}
+{"id":"RDS-c761c6ef81c2da5439f7","vi":"Bản đồ El Mes Gorge - South.<CFFFD>Hiện ở màn hình trên."}
+{"id":"RDS-a8cff96c1c8f1c6896a6","vi":"Bản đồ Somatology Lab - 1F.<CFFFD>Hiện ở màn hình trên."}
+{"id":"RDS-00c361c12c1b03a305c4","vi":"Bản đồ Somatology Lab - 2F.<CFFFD>Hiện ở màn hình trên."}
+{"id":"RDS-9a3a7da1612b79043e85","vi":"Bản đồ Somatology Lab - 3F.<CFFFD>Hiện ở màn hình trên."}
+{"id":"RDS-fadadf51cdfbd90e9dcf","vi":"Bản đồ Labyrinth Forest.<CFFFD>Hiện ở màn hình trên."}
+{"id":"RDS-345ebaf01a2aa779407d","vi":"Bản đồ Glast Heim Underground.<CFFFD>Hiện ở màn hình trên."}
+{"id":"RDS-09c78e87ff6cae1ba7d4","vi":"Bản đồ Glast Heim.<CFFFD>Hiện ở màn hình trên."}
+{"id":"RDS-057336dbf446e8071d68","vi":"Chạm vào nhân vật<CFFFD>muốn sử dụng Item."}
+{"id":"RDS-d5f227205f85bca707c9","vi":"キャラクター名<CFFFD>hồi ○○ HP."}
+{"id":"RDS-bdd60024e3718fd9342d","vi":"キャラクター名<CFFFD>hồi ○○ SP."}
+{"id":"RDS-3637e5adcc8ee0e45049","vi":"HP của キャラクター名<CFFFD>đã hồi đầy."}
+{"id":"RDS-cfbf958cc56ddfb879fd","vi":"SP của キャラクター名<CFFFD>đã hồi đầy."}
+{"id":"RDS-27a2bc0adba59986f2d7","vi":"Không thể dùng cho<CFFFD>キャラクター名.<CFFFD>"}
+{"id":"RDS-131946a48fddbcec5014","vi":"キャラクター名 đã hồi sinh."}
+{"id":"RDS-124c8bde8df85bbd146b","vi":"キャラクター名 được<CFFFD>hồi một nửa HP/SP."}
+{"id":"RDS-a42a1928dae28558dadf","vi":"キャラクター名 được<CFFFD>hồi đầy HP/SP."}
+{"id":"RDS-f8c14e4b277139dc9070","vi":"キャラクター名 đã<CFFFD>hết Poison."}
+{"id":"RDS-daa564cb43c4c7c46b64","vi":"キャラクター名 đã<CFFFD>hết Curse."}
+{"id":"RDS-e229c09c85046850d88b","vi":"キャラクター名 hết Confusion,<CFFFD>Poison, Silence và Darkness."}
+{"id":"RDS-fe1698f37980c21ceca6","vi":"キャラクター名<CFFFD>đã khỏi mọi trạng thái xấu."}
+{"id":"RDS-622e4f9ac64730a0598d","vi":"Attack Speed của<CFFFD>キャラクター名 đã tăng."}
+{"id":"RDS-66380f5c1c3e72c98146","vi":"Movement Speed của<CFFFD>キャラクター名 đã tăng."}
+{"id":"RDS-217516da6b8b5ef4e6bf","vi":"ATK của キャラクター名<CFFFD>đã tăng."}
+{"id":"RDS-3f2d36e49e2d3b11897f","vi":"MAG của キャラクター名<CFFFD>đã tăng."}
+{"id":"RDS-69736ed33043eb1fea3d","vi":"Chạm vào nhân vật để trang bị."}
+{"id":"RDS-5c0e873eee8086973069","vi":"Trang bị của キャラクター名<CFFFD>đã được thay."}
+{"id":"RDS-5e0d53777b0fc28cb6e2","vi":"Không thể trang bị cho<CFFFD>キャラクター名."}
+{"id":"RDS-4720d4d7248fb13019de","vi":"Túi đồ không đủ chỗ<CFFFD>để đổi trang bị."}
+{"id":"RDS-e468aded76a5da1d046a","vi":"Không thể trang bị<CFFFD>cùng vũ khí hai tay."}
+{"id":"RDS-0a4a2046d060d3e03834","vi":"Jellopy"}
+{"id":"RDS-ed424d7f01e5b86045f2","vi":"Sticky Mucus"}
+{"id":"RDS-357e4c67e285f5a72311","vi":"Frog Egg"}
+{"id":"RDS-b1abbce8dcd2b37a17ea","vi":"Insect Hide"}
+{"id":"RDS-7e5aa9040b1d248ce73a","vi":"Iron Ore"}
+{"id":"RDS-85cbc382cc9939c9be89","vi":"Bat Fang"}
+{"id":"RDS-a86c5855426d46a52c88","vi":"Monster Hide"}
+{"id":"RDS-f5d4280dfbb9d4ea4c76","vi":"Wood Chip"}
+{"id":"RDS-aec5d9df9cfeb2f4bdea","vi":"Mushroom Spore"}
+{"id":"RDS-4a4e322a979d544c1a4f","vi":"Aquamarine"}
+{"id":"RDS-2ea12ccf406857f4f8f1","vi":"Emerald"}
+{"id":"RDS-49ecafdc8b4d16527513","vi":"Wolf Claw"}
+{"id":"RDS-4aec7f47f8dbff7fddf0","vi":"Opal"}
+{"id":"RDS-1e550b6d9b1e4dff5a5b","vi":"Glass Marble"}
+{"id":"RDS-46c112eea0e908a2b0e1","vi":"Garlet"}
+{"id":"RDS-bf79b89e1bf0b01e55e3","vi":"Bear's Footskin"}
+{"id":"RDS-a4e15c463f8621536e21","vi":"Little Evil Horn"}
+{"id":"RDS-4f981b51bdb7e4bb817c","vi":"Little Evil Wing"}
+{"id":"RDS-166ee8de39144da50407","vi":"Sardonyx"}
+{"id":"RDS-f6273f43536a413dd7f3","vi":"Sapphire"}
+{"id":"RDS-ec50a106d74c3b3c3bcb","vi":"Zargon"}
+{"id":"RDS-8c5c87e8357aec805d14","vi":"Plant Stalk"}
+{"id":"RDS-76f9c3d31b770c80387b","vi":"Scell"}
+{"id":"RDS-45f5e9b166969226d520","vi":"Diamond 1ct."}
+{"id":"RDS-0c634510158af8cb0960","vi":"Diamond 2ct."}
+{"id":"RDS-81344b3801a681829bd7","vi":"Diamond 3ct."}
+{"id":"RDS-f6d0d8ca24e5e6b4be36","vi":"Poison Spore"}
+{"id":"RDS-c46152f1a1fa556534c5","vi":"Skull"}
+{"id":"RDS-7bcd506e52ecd5d58a95","vi":"Topaz"}
+{"id":"RDS-6d7bac05a61c083811c2","vi":"Rat Tail"}
+{"id":"RDS-7546712a416e1cec5318","vi":"Cursed Ruby"}
+{"id":"RDS-2784f6e55bf9a67db0a5","vi":"Sticky Web"}
+{"id":"RDS-7a2eb6d5c6d80f0e1ea9","vi":"Soft Fur"}
+{"id":"RDS-ecc4ca7e59c44faa2e85","vi":"Four-Leaf Clover"}
+{"id":"RDS-1a6074c6e6d609af4dec","vi":"Shoot"}
+{"id":"RDS-e28e494382363d3aec70","vi":"Fluff"}
+{"id":"RDS-d16b3c07e502226de254","vi":"Empty Bottle"}
+{"id":"RDS-477793558e849579c969","vi":"Clean Stone"}
+{"id":"RDS-aef2f95eeee0f8fc9dbe","vi":"Tinh thể nhỏ do<CFFFD>một số quái tạo ra."}
+{"id":"RDS-768d87ff6d3f6eacbd0d","vi":"Chất lỏng dính, phát sáng."}
+{"id":"RDS-35c0b07561ae3ececbc2","vi":"Trứng của Roda Frog."}
+{"id":"RDS-f433595171ed13bf2f74","vi":"Da dày lột<CFFFD>từ quái vật."}
+{"id":"RDS-32ab059816d672192315","vi":"Quặng dùng để luyện sắt."}
+{"id":"RDS-97d566cc390aefc29ea5","vi":"Răng nanh sắc lấy<CFFFD>từ Familiar."}
+{"id":"RDS-b86cedd3458b84ae314d","vi":"Da thú dùng may<CFFFD>quần áo và lều trại."}
+{"id":"RDS-687f8826baf797fabbd0","vi":"Mảnh gỗ nhỏ."}
+{"id":"RDS-98ec183fefbbfd6a6f75","vi":"Bào tử từ loài cây dạng nấm."}
+{"id":"RDS-f2356f65f2c00778f1a4","vi":"Đá quý xanh da trời."}
+{"id":"RDS-f36863e63c4e05fbbd90","vi":"Đá quý màu xanh lục."}
+{"id":"RDS-4b581853b996424516f7","vi":"Chiếc răng của một<CFFFD>chiến binh Orc hùng mạnh."}
+{"id":"RDS-522afa041b5e6940e2b9","vi":"Móng vuốt lấy từ sói."}
+{"id":"RDS-a776a24d495134569c05","vi":"Đá quý màu trắng."}
+{"id":"RDS-dd70de1e230296321db2","vi":"Viên bi nhỏ bằng thủy tinh.<CFFFD>Món đồ chơi khoái khẩu<CFFFD>của lũ nhóc nghịch ngợm."}
+{"id":"RDS-deaccdf50ca3cb2b4312","vi":"Tinh thể tím nhỏ<CFFFD>do một số quái tạo ra."}
+{"id":"RDS-63fff87a15556a947a1c","vi":"Bàn chân của con gấu lười.<CFFFD>Nghe đồn ăn vào<CFFFD>ngon khó cưỡng."}
+{"id":"RDS-e88d8b1bdad330a255ef","vi":"Sừng của tiểu quỷ."}
+{"id":"RDS-2c3aadc0254575a88ec8","vi":"Cánh của tiểu quỷ."}
+{"id":"RDS-dd1c2b7c9b078e6bc595","vi":"Đá quý màu đỏ."}
+{"id":"RDS-bc56cbced2b24b8d165d","vi":"Đá quý màu xanh lam."}
+{"id":"RDS-01b0332a0ac9a27f274e","vi":"Tinh thể xanh lục nhỏ<CFFFD>do một số quái tạo ra."}
+{"id":"RDS-d56c2d8eb8dc54d2e644","vi":"Thân cây dùng làm thuốc."}
+{"id":"RDS-ef2db8f73bab3c6209cf","vi":"Tinh thể vàng nhỏ<CFFFD>do một số quái tạo ra."}
+{"id":"RDS-c6430e52b1e86c959732","vi":"Đá quý trong suốt<CFFFD>phát ra ánh sáng."}
+{"id":"RDS-acc3dea11573db628e31","vi":"Đá quý trong suốt<CFFFD>phát sáng.<CFFFD>Rất có giá trị."}
+{"id":"RDS-3325a065bf43db77e50f","vi":"Đá quý trong suốt<CFFFD>phát sáng.<CFFFD>Vô giá."}
+{"id":"RDS-89a09cbb6ca4cf3dbe28","vi":"Bào tử nấm có độc."}
+{"id":"RDS-0abff80bae7a75e5cbf6","vi":"Hộp sọ người chết."}
+{"id":"RDS-4f4b6777c85b5745a277","vi":"Đá quý màu vàng."}
+{"id":"RDS-ddaa112d882b8ef057a1","vi":"Đuôi mỏng của chuột."}
+{"id":"RDS-8d32b501e08ccb679d6d","vi":"Đá quý đỏ thẫm.<CFFFD>Tỏa khí tức kỳ lạ."}
+{"id":"RDS-dfede2240707c38e42a3","vi":"Da lấy từ quái vật<CFFFD>có chân màng."}
+{"id":"RDS-8747d01748da451759bc","vi":"Bộ lông siêu mềm.<CFFFD>Thường dùng may<CFFFD>trang phục sang trọng."}
+{"id":"RDS-7484cc3e09e4d2ba9b17","vi":"Cỏ bốn lá quý hiếm.<CFFFD>Được tin là đem lại may mắn."}
+{"id":"RDS-4ce99f7f118164dcc9c7","vi":"Cây non vừa mới<CFFFD>nhú mầm."}
+{"id":"RDS-5fa06c78fc8f2fc76b4d","vi":"Lông mềm của quái nhỏ.<CFFFD>Dùng để làm sợi<CFFFD>và các loại vải."}
+{"id":"RDS-eb7cd295abf3cf260168","vi":"Chai rỗng không."}
+{"id":"RDS-5f13ab1eff4cf4e093f4","vi":"Viên đá lấp lánh."}
+{"id":"RDS-bec4427a85d0d4a315e1","vi":"Blue Grass"}
+{"id":"RDS-f8c3285d78e6c16b1f08","vi":"Green Grass"}
+{"id":"RDS-0fc2a5c3c26be68a3849","vi":"Red Grass"}
+{"id":"RDS-7c5ae61e72d81ae4d518","vi":"White Grass"}
+{"id":"RDS-e99445f59b94944eae04","vi":"Yellow Grass"}
+{"id":"RDS-249689c5c4ebdc765df5","vi":"Shiny Grass"}
+{"id":"RDS-2dd6a068d4b8a2e91f50","vi":"Black Mushroom"}
+{"id":"RDS-0a51708d03f69f610b8b","vi":"Red Mushroom"}
+{"id":"RDS-0cdecf50dae44572afb8","vi":"Bat"}
+{"id":"RDS-9f7cbd7b43640ec731ab","vi":"Vampire Bat"}
+{"id":"RDS-d8d576b7bb9dfcf6faed","vi":"Thief Bug"}
+{"id":"RDS-348111f47ec07c083828","vi":"Desert Wolf Cub"}
+{"id":"RDS-f7edf4970689b839ccee","vi":"Andre"}
+{"id":"RDS-f7e387b7c5c499a5aaab","vi":"Pierre"}
+{"id":"RDS-d42c96f9b7026653c5bd","vi":"Deniro"}
+{"id":"RDS-11473902e19050ffed8a","vi":"Deviruchi"}
+{"id":"RDS-071e0806fc0a4f048a5e","vi":"Diabolique"}
+{"id":"RDS-55f09bf360ad3bf9b052","vi":"Mini Demon"}
+{"id":"RDS-409d54385394de22ecef","vi":"Tarou"}
+{"id":"RDS-8506ecee43265fa8a3e7","vi":"Cramp"}
+{"id":"RDS-05fdd9a756b13b628a47","vi":"Whisper"}
+{"id":"RDS-e53102df398f33279aa3","vi":"Mimic"}
+{"id":"RDS-b5e0255a719592bc844e","vi":"Hornet"}
+{"id":"RDS-dc33166585349c917f5b","vi":"Beetle"}
+{"id":"RDS-3f7aac947ad856454949","vi":"Poring"}
+{"id":"RDS-cade7ccb19bffbf4e185","vi":"Drops"}
+{"id":"RDS-38d9ef9b639573ca417c","vi":"Poporing"}
+{"id":"RDS-deb2b02d395475a73530","vi":"Marin"}
+{"id":"RDS-4a1fbbf5d0f4ef8d3ed6","vi":"Willow"}
+{"id":"RDS-4734927b0c03e5280015","vi":"Elder Willow"}
+{"id":"RDS-d51a3d0a8e93e3f25c77","vi":"Zombie"}
+{"id":"RDS-e62a93c04beaa393ab12","vi":"Ghoul"}
+{"id":"RDS-c482dfbf0b110f8d0b4c","vi":"Spore"}
+{"id":"RDS-301533ed8a3e7a619064","vi":"Remover"}
+{"id":"RDS-9b054bb7ee0b37eeb216","vi":"Mandragora"}
+{"id":"RDS-43369325b08514dc9c98","vi":"Wolf"}
+{"id":"RDS-b6d2aa1fcf755af36fde","vi":"Desert Wolf"}
+{"id":"RDS-3da2f629480a009f33d0","vi":"Vagabond Wolf"}
+{"id":"RDS-4eaf61258da5c5f03452","vi":"Goblin"}
+{"id":"RDS-863d1bd301c902532b68","vi":"Orc Warrior"}
+{"id":"RDS-c595d2635d0ef0b34ab7","vi":"High Orc"}
+{"id":"RDS-96860692f3903c133a21","vi":"Munak"}
+{"id":"RDS-f9a8985bfdcb48ee6fcc","vi":"Bongun"}
+{"id":"RDS-edb6a37d27835d659a47","vi":"Kobold"}
+{"id":"RDS-27f185d9b0fbdc8a7a61","vi":"Alice"}
+{"id":"RDS-d4a016c121186959e719","vi":"Raydric Archer"}
+{"id":"RDS-e8f1f1d53aa8215a3214","vi":"Wanderer"}
+{"id":"RDS-a4855b3ed6ea3bef6414","vi":"Sohee"}
+{"id":"RDS-0725573db6ef319a28b1","vi":"Zealotus"}
+{"id":"RDS-fb2be634b7ef5a500a42","vi":"Skeleton Worker"}
+{"id":"RDS-2d317c6ad74c799882a9","vi":"Isilla"}
+{"id":"RDS-59b5d09d9ac70a47c8a8","vi":"Hoodlum"}
+{"id":"RDS-cb23ef6ca974c683ab00","vi":"Succubus"}
+{"id":"RDS-8de80c01fd1e3086bb4d","vi":"Gemini"}
+{"id":"RDS-6cfd8f81b5d33f5ae6cf","vi":"Horde"}
+{"id":"RDS-3547d9bdf6e6b2e9ac5e","vi":"Sandman"}
+{"id":"RDS-d05274d96d856dbf9da9","vi":"Incubus"}
+{"id":"RDS-239b8034322b34dce2db","vi":"Roda Frog"}
+{"id":"RDS-cf2e8e5c2174c70cabc8","vi":"Thara Frog"}
+{"id":"RDS-de884f7f5f56656214e1","vi":"Peco Peco"}
+{"id":"RDS-65d557eb7299a2bd77e4","vi":"Dracula"}
+{"id":"RDS-73cab16cec1c1d41c408","vi":"Bigfoot"}
+{"id":"RDS-13ee22f37df8bab5e48d","vi":"Sasquatch"}
+{"id":"RDS-e77cc7c5d7a33584cecc","vi":"Grizzly"}
+{"id":"RDS-2350cd86565d255deafd","vi":"Minorous"}
+{"id":"RDS-8b2b0dbf7a2f9185503d","vi":"Burly Minorous"}
+{"id":"RDS-aa9207ace46cd727261a","vi":"Owl Baron"}
+{"id":"RDS-894c08b3b5bcc2a91e36","vi":"Golem"}
+{"id":"RDS-5e0d7965f50a0d634e60","vi":"Frione"}
+{"id":"RDS-031a08517ef6e1c87d5d","vi":"Gold Thief Bug"}
+{"id":"RDS-75c7171cd59f4333558a","vi":"Detardeurus"}
+{"id":"RDS-d7acce44946de879b568","vi":"Hydrolancer"}
+{"id":"RDS-04cfe5a7942ca11597a2","vi":"Khalitzburg"}
+{"id":"RDS-f2c15d25034f4ee7e16e","vi":"Dark Lord"}
+{"id":"RDS-17f42356c4b384d6923a","vi":"Big Poring"}
+{"id":"RDS-e626d6c0428c24bfb6b4","vi":"Big Bat"}
+{"id":"RDS-2e2a0b587f216f856906","vi":"Big Elder Willow"}
+{"id":"RDS-9a06773149360ab5cdd6","vi":"Cardinal"}
+{"id":"RDS-e2cec1b1b6a447e2bf8f","vi":"Dark Knight"}
+{"id":"RDS-12923f9d51b222f8a6da","vi":"Aghill"}
+{"id":"RDS-4aacbdf243cec1b1c022","vi":"Bright Sphere"}
+{"id":"RDS-66d92c1682545d6e11c3","vi":"Float 1"}
+{"id":"RDS-caa44caf8ed881127949","vi":"Float 2"}
