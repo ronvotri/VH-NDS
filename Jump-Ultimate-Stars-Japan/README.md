@@ -1,14 +1,15 @@
-# Jump Ultimate Stars (Japan) — Checkpoint 036
+# Jump Ultimate Stars (Japan) — Checkpoint 037
 
-**Tiến độ 22,920/34.919 câu (65.64%)**, thêm **602 câu** từ CP035; còn **11,999**.
+**Tiến độ 23.596/34.919 (67,57%)**, thêm **676 ID** từ CP036; còn **11.323 ID**.
 
-- `06-jquiz-004.jsonl`: **dòng 656–1257**, từ *Hoshin Engi* qua *Ichigo 100%*, *I''s*, đến *JoJo*.
-- **Checkpoint 037** tiếp tục ở dòng **1258** của cùng file.
-- Bảo toàn **22.318 bản dịch cũ** cùng tất cả `id`, `ja`, `group`, `context`, `uses`, `quiz_context`. Không thay đổi thứ tự câu hỏi–đáp án.
-- Đủ **30 file JSONL** trong `translation/`, `BAN_DICH_036.jsonl` (602 ID mới), bản hợp nhất `BAN_DICH_TONG_HOP_001-036.jsonl`, bảng thuật ngữ, xưng hô, QA, báo cáo câu dài.
-- **1,744 mục thuật ngữ** (thêm 39 mục); **6,894 đoạn dài hơn 37 ký tự Unicode** cần QA độ rộng pixel trong ROM.
-- QA tĩnh **34.919 ID, không lỗi cấu trúc**. Một số tên Nhật, ký tự nguồn lỗi và câu hỏi dựa hình đã ghi trong `QA_036.json`.
+- `06-jquiz-004.jsonl`: **dòng 1258–1929**, hết file, câu đố *JoJo* và lịch sử Weekly Shonen Jump (**672 ID**).
+- `06-jquiz-005.jsonl`: **dòng 0–3** để hoàn tất câu đố nối qua ranh giới (**4 ID**).
+- **Checkpoint 038** bắt đầu tại dòng **4** của `06-jquiz-005.jsonl`.
+- Bảo toàn toàn bộ **22.920 bản dịch cũ**, và mọi `id`, `ja`, `group`, `context`, `uses`, `quiz_context`; không đảo vị trí đáp án.
+- Bộ ZIP chứa **30 file JSONL** trong `translation/`, `BAN_DICH_037.jsonl`, `BAN_DICH_TONG_HOP_001-037.jsonl`, bảng thuật ngữ, hướng dẫn xưng hô, `QA_037.json`, báo cáo câu dài.
+- **1797 thuật ngữ**, bổ sung **53**; **6894 chuỗi trên 37 ký tự Unicode** cần QA pixel khi chèn ROM.
+- QA tĩnh đạt trên 34.919 ID; **chưa kiểm thử đáp án, font hay gameplay thực tế**. Một số câu hỏi có hình hoặc nguồn thiếu phương án đã ghi chú trong `QA_037.json`.
 
-**Chưa có patch ROM/kiểm thử gameplay.**
+**Chưa có patch ROM NDS chơi được.**
 
-Repo đích: `ronvotri/VH-NDS`, nhánh `vh/jump-ultimate-stars-japan`, thư mục `Jump-Ultimate-Stars-Japan/`. Cần xác minh SHA trước khi nói GitHub đã đồng bộ.
+Đích GitHub: `ronvotri/VH-NDS`, nhánh `vh/jump-ultimate-stars-japan`, thư mục `Jump-Ultimate-Stars-Japan/`. Chỉ xác nhận đồng bộ sau khi đọc lại được SHA đúng từ GitHub.
