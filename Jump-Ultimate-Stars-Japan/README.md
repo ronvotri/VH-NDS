@@ -26,7 +26,7 @@ Nguồn gốc đã kiểm tra: `JumpUltimateStars_Japan_BanGiao_Cloud.zip` → `
 
 - [BAN_DINH_CHINH_046A.jsonl](BAN_DINH_CHINH_046A.jsonl): tên **Shunrei (春麗)** trong *Saint Seiya*, không dùng `Chun-Li` làm tên canonical. [QA_046A.json](QA_046A.json) ghi rõ 1 ID sửa, **0 ID tăng thêm**.
 - Khi tái tạo bản dịch, overlay thay giá trị `vi` theo ID; file gốc CP046, SHA256 và bản gộp 038–046 đang lưu là snapshot **trước khi áp đính chính này**.
-- [TRANG_THAI_CHUAN_BI_047.md](TRANG_THAI_CHUAN_BI_047.md): mốc tiếp theo từ `06-jquiz-008.jsonl` row 518. **CP047 chưa có bản dịch mới**, tiến độ vẫn là 29.901 / 34.919.
+- [TRANG_THAI_CHUAN_BI_047.md](TRANG_THAI_CHUAN_BI_047.md): mốc tiếp theo từ `06-jquiz-008.jsonl` row 518. [CHUAN_BI_NGUON_047.py](CHUAN_BI_NGUON_047.py) trích nguồn Nhật từ ZIP và kiểm SHA256/điểm nối. **CP047 chưa có bản dịch mới**, tiến độ vẫn là 29.901 / 34.919.
 
 ## Trạng thái QA
 
