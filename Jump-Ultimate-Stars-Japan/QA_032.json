@@ -1,0 +1,40 @@
+{
+  "game": "Jump Ultimate Stars (Japan) AJUJ",
+  "checkpoint": "032",
+  "date": "2026-11-19",
+  "total_rows": 34919,
+  "translated_rows": 20406,
+  "pending_rows": 14513,
+  "prior_031_translated": 19688,
+  "new_032_rows": 718,
+  "changed": {
+    "06-jquiz-003.jsonl": "147–864 (718 new; Dr. Slump and Eyeshield 21; Gintama next)"
+  },
+  "source_ja_modified": 0,
+  "source_metadata_modified": 0,
+  "previous_translations_modified": 0,
+  "duplicate_ids": 0,
+  "control_tag_errors": 0,
+  "printf_placeholder_errors": 0,
+  "unicode_nfc_errors": 0,
+  "raw_control_char_errors": 0,
+  "quiz_option_positions_modified": 0,
+  "quiz_question_groups_touched": 132,
+  "quiz_answer_groups_touched": 150,
+  "quiz_answers_validated_in_game": false,
+  "source_image_questions_validated": false,
+  "long_unicode_strings_gt37": 6690,
+  "glossary_terms": 1615,
+  "glossary_added": 18,
+  "font_implemented": false,
+  "rom_patch_built": false,
+  "pixel_width_qa": false,
+  "gameplay_tested": false,
+  "source_anomalies": [
+    "06-jquiz-003:353 恋≪浜キューピッド",
+    "06-jquiz-003:758 １年４≪月",
+    "06-jquiz-003:760 １年２≪月",
+    "Question 06-jquiz-003:330–333 differs by kanji; preserved kanji"
+  ],
+  "notes": "Static QA only: all 34919 original IDs and source metadata preserved, all 19688 prior translations unchanged; tag/placeholder and slots preserved. No semantic or answer-key / image-dependent / in-game validation performed."
+}
