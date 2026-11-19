@@ -1,0 +1,80 @@
+{"id":"RDS-0dd41687144e602c6f3a","vi":"Thảo dược chữa thương<CFFFD>loại nhẹ.<CFFFD>Hồi một ít HP."}
+{"id":"RDS-e3e288f588650087326d","vi":"Thảo dược quý giúp<CFFFD>chữa lành vết thương.<CFFFD>Hồi một ít HP."}
+{"id":"RDS-5c2e90a106268294c1e2","vi":"Thảo dược quý,<CFFFD>chữa thương rất tốt.<CFFFD>Hồi một ít HP."}
+{"id":"RDS-59710b5bacd39475f79d","vi":"Thảo dược cực quý<CFFFD>có hương thơm khoan khoái.<CFFFD>Hồi một ít SP."}
+{"id":"RDS-e47b2c17184b318eb426","vi":"Thảo dược quý<CFFFD>giúp<C00A0>giải độc<CFFFD>hiệu quả."}
+{"id":"RDS-ba4bc14ae5204d3bc690","vi":"Thuốc làm từ<CFFFD>Red Herb nghiền nhỏ.<CFFFD>Hồi một ít HP."}
+{"id":"RDS-f107606fd79716c9a780","vi":"Thuốc làm từ<CFFFD>Yellow Herb nghiền nhỏ.<CFFFD>Hồi<C00A0>một phần HP."}
+{"id":"RDS-ea0410034356f3c872c3","vi":"Thuốc làm từ<CFFFD>White Herb nghiền nhỏ.<CFFFD>Hồi<C00A0>một phần HP."}
+{"id":"RDS-672a5e4f1b98716f2833","vi":"Thuốc làm từ<CFFFD>Blue Herb nghiền nhỏ.<CFFFD>Hồi<C00A0>một ít SP."}
+{"id":"RDS-3bc953cf61040dbb2f07","vi":"Thuốc chữa<CFFFD>Poison, Silence,<C00A0>Blind,<CFFFD>và<C00A0>cả<C00A0>Confusion."}
+{"id":"RDS-5d765b72fd1fe691d36e","vi":"Quả tím bóng lấy từ<CFFFD>cành cây Mastela.<CFFFD>Hồi lượng lớn HP."}
+{"id":"RDS-9a4f28e56940231ed465","vi":"Hạt từ cây Yggdrasil.<CFFFD>Hồi một nửa<CFFFD>HP và SP tối đa."}
+{"id":"RDS-2d134572e244ab0b50f5","vi":"Quả từ cây Yggdrasil.<CFFFD>Hồi đầy HP và SP."}
+{"id":"RDS-43c78fadf425512770f4","vi":"Lá từ cây Yggdrasil.<CFFFD>Có thể hồi sinh<CFFFD>nhân vật đã gục."}
+{"id":"RDS-f5bc1c5b8f062abf43f8","vi":"Nước thánh dùng<CFFFD>trong các nghi lễ.<CFFFD>Giải trạng thái Curse."}
+{"id":"RDS-94e270bfce2f8b9ad82f","vi":"Thần dược huyền bí<CFFFD>chữa bách bệnh.<CFFFD>Giải mọi trạng thái bất thường."}
+{"id":"RDS-a84cb82f3cf132c16849","vi":"Dịch chuyển tức thì<CFFFD>về thành phố đã ghé<CFFFD>trong cùng quốc gia."}
+{"id":"RDS-324b3157cbfa39fa0354","vi":"Tăng Attack Speed<CFFFD>của nhân vật trong<CFFFD>một khoảng thời gian."}
+{"id":"RDS-16cf65a50dc596bff5a5","vi":"Tăng Movement Speed<CFFFD>của nhân vật trong<CFFFD>một khoảng thời gian."}
+{"id":"RDS-c6de1c3938baf94858c9","vi":"Tăng ATK của nhân vật<CFFFD>trong một thời gian."}
+{"id":"RDS-0b267323c02c959c8523","vi":"Tăng MATK của nhân vật<CFFFD>trong một thời gian."}
+{"id":"RDS-c56cad19825fc5226d27","vi":"Dịch chuyển tức thì<CFFFD>ra khỏi hầm ngục."}
+{"id":"RDS-e1d928baad79b96f3060","vi":"Dao găm cơ bản."}
+{"id":"RDS-bfdf8dd985a0207b26d1","vi":"Dao găm thường dùng<CFFFD>để khều lửa, rồi<CFFFD>nhiễm phép hệ Fire."}
+{"id":"RDS-a4c13507314d7954fbf1","vi":"Dao găm làm từ Obsidian.<CFFFD>Dù bằng đá, nó vẫn<CFFFD>sắc đến bất ngờ."}
+{"id":"RDS-0e22b2e6d0ae71d12a55","vi":"Dao găm của ngư dân<CFFFD>dùng để cạy sò ốc<CFFFD>dưới đáy biển."}
+{"id":"RDS-93cbbae8856a839120f6","vi":"Dao từ gỗ Jujube<CFFFD>bị sét đánh trúng.<CFFFD>Vẫn còn tích điện mạnh."}
+{"id":"RDS-bd19a0e8b50c2697767b","vi":"Dao găm mang linh hồn<CFFFD>ánh trăng. Hồi SP<CFFFD>mỗi khi đánh trúng."}
+{"id":"RDS-e1d9ce46ac42ac136b23","vi":"Dao găm bị tà ám.<CFFFD>Đôi khi khiến kẻ địch<CFFFD>dính Curse."}
+{"id":"RDS-ead6d5fd9a44f4aeb435","vi":"Dao từ một vương quốc phương Tây."}
+{"id":"RDS-6ade3b8d69ebc5068fa5","vi":"Dao găm kịch độc.<CFFFD>Mỗi đòn đánh trúng<CFFFD>đều gây Poison."}
+{"id":"RDS-37d91159ec849d829a91","vi":"Dao găm trang trí<CFFFD>chạm khắc cầu kỳ.<CFFFD>Chỉ dùng dịp đặc biệt."}
+{"id":"RDS-c9b479745c66e9a2b2ca","vi":"Dao bếp dùng để nấu ăn.<CFFFD>Có tỉ lệ CRT cao."}
+{"id":"RDS-7692182828f7ef573484","vi":"Dao chuyên chặt cỏ dại.<CFFFD>Hiệu quả với quái<CFFFD>hệ Plant."}
+{"id":"RDS-dcc51e79788173f4b8a7","vi":"Dao quân dụng chuyên<CFFFD>chiến đấu với quái<CFFFD>hình người."}
+{"id":"RDS-76c1d7efa5ccc1673fb3","vi":"Lưỡi dao hẹp, cực sắc.<CFFFD>DEF mục tiêu càng cao,<CFFFD>gây sát thương càng lớn."}
+{"id":"RDS-6b7d06dc264ab078fc80","vi":"Do một Assassin nhát gan<CFFFD>chế tạo, vì hắn luôn<CFFFD>khổ sở vì thiếu khiên."}
+{"id":"RDS-d30636292fe1af05e33a","vi":"Dao hai lưỡi."}
+{"id":"RDS-13b2f5426826bb64564d","vi":"Con dao được cho là<CFFFD>mang may mắn cho chủ.<CFFFD>Tăng FLEE."}
+{"id":"RDS-75c5a178efde795d1ae0","vi":"Dùng để trừ tà.<CFFFD>Hiệu quả trước quái<CFFFD>hệ Demon."}
+{"id":"RDS-f212c55a07b9dea3559f","vi":"Dao từ vương quốc cổ<CFFFD>với cán dài."}
+{"id":"RDS-44ad456bbcd233edfd73","vi":"Rèn từ nanh rồng.<CFFFD>Hiệu quả trước quái<CFFFD>hệ Dragon."}
+{"id":"RDS-681a0f8f8836bb105556","vi":"Dao chí mạng được<CFFFD>làm từ kim loại đặc biệt."}
+{"id":"RDS-7b15acf7b9712e979421","vi":"Dao găm thường dùng<CFFFD>của Assassin.<CFFFD>Tăng nhẹ Attack Speed."}
+{"id":"RDS-3208a24ebcbfe6094597","vi":"Dao găm đặc biệt<CFFFD>do bộ lạc bí ẩn<CFFFD>ở sa mạc chế tạo."}
+{"id":"RDS-9ebf64b03126a38a81b4","vi":"Dao găm có tỉ lệ<CFFFD>tung đòn chí mạng<CFFFD>cao hơn bình thường."}
+{"id":"RDS-60b484c67ca87a90cebc","vi":"Dao găm với lưỡi<CFFFD>đen khác thường,<CFFFD>tỏa khí tức nguy hiểm."}
+{"id":"RDS-ce22c43ef44120e7abda","vi":"Rèn từ răng Ogre.<CFFFD>DEF giảm một nửa,<CFFFD>nhưng dễ né đòn hơn."}
+{"id":"RDS-a33e4823c5ceed5dc4eb","vi":"Kiếm cơ bản, dễ dùng<CFFFD>bằng một tay."}
+{"id":"RDS-8da3974b2f6bb8241398","vi":"Kiếm một tay với<CFFFD>lưỡi được bo tròn."}
+{"id":"RDS-bd428d353fac8519faa4","vi":"Kiếm một tay với<CFFFD>lưỡi dày và phẳng."}
+{"id":"RDS-05056dd4f75b7be05dfd","vi":"Kiếm dài, mũi nhọn<CFFFD>hợp với đòn đâm."}
+{"id":"RDS-e5c2928bf5aa5543fc9a","vi":"Kiếm mỏng, sắc lẹm,<CFFFD>rất hiệu quả khi<CFFFD>ra đòn chém."}
+{"id":"RDS-ad807323bedc9bec1a7e","vi":"Kiếm một tay cơ bản."}
+{"id":"RDS-0285f8a6213ab6c531ea","vi":"Tượng trưng khí thế chiến đấu<CFFFD>và hút HP mục tiêu.<CFFFD>50% cơ hội tốn 15 SP."}
+{"id":"RDS-0d7afb704f90a13a27dd","vi":"Thanh kiếm hiếm của Orc.<CFFFD>Biểu tượng sức mạnh."}
+{"id":"RDS-195efd30a1cd92073b85","vi":"Kiếm một tay có<CFFFD>chuôi trang trí cầu kỳ."}
+{"id":"RDS-e43ae63c7ecaa64c277f","vi":"Kiếm nghi lễ mang<CFFFD>phép hệ Water.<CFFFD>Mạnh trước hệ Fire."}
+{"id":"RDS-28f282663229829c503b","vi":"Kiếm nghi lễ mang<CFFFD>phép hệ Fire.<CFFFD>Mạnh trước hệ Earth."}
+{"id":"RDS-857af8400fe43a3ac146","vi":"Lưỡi kiếm trong veo<CFFFD>rất đẹp, chuôi gắn<CFFFD>đá quý vô giá."}
+{"id":"RDS-68ea19de653afbeb9c7f","vi":"Kiếm kỵ binh một tay<CFFFD>nặng, có lưỡi kiếm<CFFFD>hơi cong."}
+{"id":"RDS-f099791c456642d4e0a4","vi":"Kiếm một tay có<CFFFD>lưỡi cực sắc,<CFFFD>gây vết thương nặng."}
+{"id":"RDS-9823afcc8d83e6824855","vi":"Kiếm dùng luyện tinh thần.<CFFFD>Tăng INT."}
+{"id":"RDS-1957542ae7dd16f11282","vi":"Nhiều cạnh sắc gây<CFFFD>vết thương nặng.<CFFFD>Mạnh trước quái hình người."}
+{"id":"RDS-68919161bdfcf80a0426","vi":"Thanh kiếm chế tạo<CFFFD>chỉ để tàn sát."}
+{"id":"RDS-d81c06683ebebce85fdb","vi":"Trông như chiếc kéo.<CFFFD>Hiệu quả trước quái<CFFFD>hệ Plant."}
+{"id":"RDS-b965f2390e53696fee01","vi":"Kiếm vô hình hệ Ghost<C3000><CFFFD>khiến tâm trí<CFFFD>địch rối loạn. Tốn 1 SP/đòn."}
+{"id":"RDS-d7e44a143cebea0cac0f","vi":"Kiếm ban cho người<CFFFD>sử dụng sự che chở<CFFFD>của Nữ thần Đất."}
+{"id":"RDS-f49086025f32749ba4a8","vi":"Kiếm một tay mạnh mẽ<CFFFD>có lưỡi lượn sóng<CFFFD>như ngọn lửa."}
+{"id":"RDS-d86f7839144aba89a24f","vi":"Kiếm một tay nổi tiếng<CFFFD>trong giới cướp biển.<CFFFD>Tăng sức mạnh Skill vật lý."}
+{"id":"RDS-deb6801a2a000fdb97f7","vi":"Từng mắc trong tảng đá.<CFFFD>Tự chọn chủ nhân<CFFFD>để ban sức mạnh thánh."}
+{"id":"RDS-9c5738cddd11d995ad2f","vi":"Đại kiếm của tướng lĩnh.<CFFFD>Tăng sát thương lên quái.<CFFFD>Rất mạnh khi đánh Boss."}
+{"id":"RDS-0a99c8a4b5a4641f877e","vi":"Tương truyền đã hạ Baldur,<CFFFD>Thần Ánh Sáng.<CFFFD>Mạnh trước quái hệ Ghost."}
+{"id":"RDS-f839d5649253a97fec18","vi":"Người dùng bị đồn sẽ<CFFFD>gặp số phận bi thảm.<CFFFD>Có thể tự mất HP khi đánh."}
+{"id":"RDS-f4cf453f01d253c6d8e9","vi":"Katana cơ bản."}
+{"id":"RDS-9989cf69b7866faadcb5","vi":"Kiếm hai tay cơ bản."}
+{"id":"RDS-c2cc7801030d3b04e731","vi":"Kiếm hai tay đa dụng,<CFFFD>hợp với mọi tình huống."}
+{"id":"RDS-081266516dc54e1c3a86","vi":"Kiếm có lưỡi rộng,<CFFFD>sắc cả hai cạnh."}
+{"id":"RDS-a0bdef2429f0b665efef","vi":"Làm từ xương của rồng.<CFFFD>Mạnh trước quái<CFFFD>hệ Dragon."}
+{"id":"RDS-b104058177c56c897152","vi":"Katana huyền thoại phương Đông.<CFFFD>Tăng Attack Speed."}
