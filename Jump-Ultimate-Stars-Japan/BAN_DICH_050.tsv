@@ -1,6 +1,6 @@
 file	row_index	id	manga_code	question_index	role	position	ja	vi
 06-jquiz-009.jsonl	616	JUS-0decf128f82777e87a1b	38	2884	question_line	0	オーラと呼ばれる霊気を指先に集中して	Tụ linh khí gọi là Aura ở đầu ngón
-06-jquiz-009.jsonl	617	JUS-909654c52575c8ca6841	38	2884	question_line	1	一気に放つ霊丸という技。	rồi bắn ra thành đòn Rei Gun.
+06-jquiz-009.jsonl	617	JUS-909654c52575c8ca6841	38	2884	question_line	1	一気に放つ霊丸という技。	rồi phóng chiêu Spirit Gun.
 06-jquiz-009.jsonl	618	JUS-bf0ead005d774ef8a1a1	38	2884	question_line	2	幽助が初めて使った相手は誰？	Yusuke dùng lần đầu với ai?
 06-jquiz-009.jsonl	619	JUS-95fad1acedc486f2ddab	38	2884	answer_option	0	岩本先生	Thầy Iwamoto
 06-jquiz-009.jsonl	620	JUS-05e74438556639c73524	38	2884	answer_option	1	剛鬼	Gouki
@@ -329,21 +329,21 @@ file	row_index	id	manga_code	question_index	role	position	ja	vi
 06-jquiz-009.jsonl	943	JUS-a0614e1b727eea9b3c1b	38	2940	answer_option	1	火炎地獄	Địa ngục lửa
 06-jquiz-009.jsonl	944	JUS-e233bea08af2f24b67ca	38	2940	answer_option	2	針の山	Núi kim châm
 06-jquiz-009.jsonl	945	JUS-1cb71e85e5f55cef0fb0	38	2940	answer_option	3	ごはん抜き	Cấm ăn cơm
-06-jquiz-009.jsonl	946	JUS-83dd6db70f0745f2634f	38	2941	question_line	0	暗黒武術会。その開催場所に	Dark Tournament được tổ chức
+06-jquiz-009.jsonl	946	JUS-83dd6db70f0745f2634f	38	2941	question_line	0	暗黒武術会。その開催場所に	Dark Tournament tổ chức ở đâu?
 06-jquiz-009.jsonl	947	JUS-f288add5cee0851acb0e	38	2941	answer_option	0	首縊島	Đảo Kubikukuri (首縊)
 06-jquiz-009.jsonl	948	JUS-c31a7e90591851e28af0	38	2941	answer_option	1	首括島	Đảo Kubikukuri (首括)
 06-jquiz-009.jsonl	949	JUS-06dc46f026c5544f56ac	38	2941	answer_option	2	首締島	Đảo Kubishime (首締)
 06-jquiz-009.jsonl	950	JUS-0c3b71426b100e823d1d	38	2941	answer_option	3	首長島	Đảo Kubinaga (首長)
 06-jquiz-009.jsonl	951	JUS-315bf5b33ba0bb24ec3b	38	2942	question_line	0	暗黒武術会に、浦飯チームの５人目の	Tại Dark Tournament, người thứ 5
-06-jquiz-009.jsonl	952	JUS-6eebe9a884deaae2f179	38	2942	question_line	1	メンバーとして参加した、覆面戦士の	đội Urameshi là chiến binh đeo mặt nạ
+06-jquiz-009.jsonl	952	JUS-6eebe9a884deaae2f179	38	2942	question_line	1	メンバーとして参加した、覆面戦士の	đội Urameshi đeo mặt nạ là ai?
 06-jquiz-009.jsonl	953	JUS-20d3a9c297d084e60c2b	38	2943	question_line	0	Ｂ・Ｂ・Ｃのひとりであると同時に、	Một thành viên của B.B.C.,
 06-jquiz-009.jsonl	954	JUS-4f47d4171bd41d44b674	38	2943	question_line	1	戸愚呂チームのスポンサーを務める男。	đồng thời tài trợ đội Toguro là ai?
 06-jquiz-009.jsonl	955	JUS-d85cdd671c0e2ee721bd	38	2943	answer_option	1	権田原	Gondawara
 06-jquiz-009.jsonl	956	JUS-e63517aa2fdc9fbed480	38	2943	answer_option	2	垂金	Tarukane
 06-jquiz-009.jsonl	957	JUS-f39c35b0d5e12c4e3173	38	2944	question_line	0	暗黒武術会一回戦第一試合。	Trận mở màn vòng một Dark Tournament.
 06-jquiz-009.jsonl	958	JUS-6befa5352cedaabad4dc	38	2944	question_line	1	浦飯チームの先鋒は誰だった？	Ai xuất trận đầu cho đội Urameshi?
-06-jquiz-009.jsonl	959	JUS-232b0ede3ab567d0d200	38	2945	question_line	0	飛影の必殺技、邪王炎殺・黒龍波。	Hiei dùng chiêu Black Dragon Wave.
-06-jquiz-009.jsonl	960	JUS-66b607447b40aec9861d	38	2945	question_line	1	人間界での犠牲者第一号は誰？	Nạn nhân đầu tiên ở Nhân Giới là ai?
+06-jquiz-009.jsonl	959	JUS-232b0ede3ab567d0d200	38	2945	question_line	0	飛影の必殺技、邪王炎殺・黒龍波。	Hiei: Dragon of the Darkness Flame.
+06-jquiz-009.jsonl	960	JUS-66b607447b40aec9861d	38	2945	question_line	1	人間界での犠牲者第一号は誰？	Nạn nhân đầu ở Nhân Giới là ai?
 06-jquiz-009.jsonl	961	JUS-91e87a0ecc546eb9a5a5	38	2945	answer_option	0	是流	Zeru
 06-jquiz-009.jsonl	962	JUS-75b970cfa6d5f742f765	38	2945	answer_option	1	青龍	Seiryu
 06-jquiz-009.jsonl	963	JUS-8046fb3e39f3a1878263	38	2945	answer_option	2	陣	Jin
@@ -360,7 +360,7 @@ file	row_index	id	manga_code	question_index	role	position	ja	vi
 06-jquiz-009.jsonl	974	JUS-b3e2bc697e2d93c54f78	38	2948	question_line	1	それは、幽助へ「あるもの」を	Bà sẽ trao cho cậu
 06-jquiz-009.jsonl	975	JUS-ade881279311b2f46842	38	2948	question_line	2	渡すことだった。	một thứ cực kỳ quan trọng.
 06-jquiz-009.jsonl	976	JUS-9bee34f5dff925f919a9	38	2948	answer_option	0	霊光玉	Spirit Wave Orb
-06-jquiz-009.jsonl	977	JUS-0b7874f73d20d1d3cfda	38	2948	answer_option	1	霊丸	Rei Gun
+06-jquiz-009.jsonl	977	JUS-0b7874f73d20d1d3cfda	38	2948	answer_option	1	霊丸	Spirit Gun
 06-jquiz-009.jsonl	978	JUS-744350b30bedf3c427d4	38	2948	answer_option	2	聖光気	Sacred Energy
 06-jquiz-009.jsonl	979	JUS-ccf0cb9658bb701cdedf	38	2948	answer_option	3	次元刀	Dimension Sword
 06-jquiz-009.jsonl	980	JUS-906f4b67619ddf87608a	38	2949	question_line	0	暗黒武術会・準決勝で、死々若丸は	Ở bán kết Dark Tournament,
