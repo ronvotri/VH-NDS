@@ -2,13 +2,13 @@
 
 Nhánh độc lập `vh/ragnarok-ds-usa` của kho `VH-NDS`. Không trộn với các dự án Ni no Kuni, Magician’s Quest hoặc Ragnarok Odyssey ACE.
 
-## Trạng thái mới nhất — Checkpoint 036 (20/11/2026)
+## Trạng thái mới nhất — Checkpoint 037 (20/11/2026)
 
-- **12.762/14.616 ID đã dịch (87,31%)**; còn **1.854** ID.
-- Đã đồng bộ patch 027–029, 034–036. Riêng patch 036 gồm 80 mô tả Item (mục 322–401 của `02-vat-pham-001.jsonl`), Git blob SHA `55365e1b986ac8b6ffd0a7c9b82b7bb81b944f54`, đối chiếu ZIP khớp byte-level.
-- Patch 001–026 có 11.386 ID; các patch 027–029 và 034–036 có 1.376 ID khác nhóm, không tính trùng.
+- **13.596/14.616 ID đã xử lý (93,02%)**; còn **1.020** ID.
+- **Nhóm Item hoàn tất 1.074/1.074 mục**: patch 034–036 có 240 mục, patch 037 bổ sung 834 mục (228 bản Việt hóa khác tiếng Anh, 606 tên Item/Card/quái/thuật ngữ được chủ động giữ nguyên).
+- Đã đồng bộ patch 027–029 và 034–037; SHA patch 037 `b44295c8d02d7c2de65310d07dc8d594c236b149` khớp với ZIP bàn giao. Đối chiếu với 12.762 ID trên nhánh trước đó: **0 trùng ID**.
 - **Không áp dụng patch 030** vì nội dung hệ thống/credit đã được xử lý ở đợt 001–002.
-- Còn 834 Item, 475 Job/Skill và 545 Quest. Chi tiết: [CHECKPOINT_036_AUDIT.md](CHECKPOINT_036_AUDIT.md).
+- Còn **475 Job/Skill** và **545 Quest**. Chi tiết: [CHECKPOINT_037_AUDIT.md](CHECKPOINT_037_AUDIT.md).
 - Chưa nhúng font tiếng Việt, chưa vá ROM hoặc kiểm thử bằng NDS.
 
 ## Nguồn dữ liệu
@@ -287,13 +287,13 @@ Bản ZIP đầy đủ của đợt 001 đã được xuất trong phiên ChatGP
 
 ## Khôi phục bản dịch từ GitHub
 
-Trong nhánh có **12.762 patch records** từ các đợt 001–029 và 034–036 (bỏ qua đợt 030 vì trùng nhóm hệ thống/credit), không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
+Trong nhánh có **13.596 patch records** từ các đợt 001–029 và 034–037 (bỏ qua đợt 030 vì trùng nhóm hệ thống/credit), không trùng ID. Công cụ kiểm tra của bộ nguồn xác nhận 0 lỗi cấu trúc; vẫn cần kiểm tra hiển thị sau khi bổ sung font.
 
 ```bash
 python Ragnarok-DS/tools/apply_patches.py \
   --handoff RagnarokDS_USA_BanGiao_Cloud.zip \
   --patch-dir Ragnarok-DS/translation \
-  --output RagnarokDS_VH_Checkpoint_036_GitHub.zip
+  --output RagnarokDS_VH_Checkpoint_037_GitHub.zip
 ```
 
 Lệnh chỉ xuất ZIP dịch thuật, không chỉnh ROM hay font và không xóa dòng chưa dịch. Bản ZIP đã xuất trực tiếp trong phiên chat còn có danh bạ nhân vật và bảng thuật ngữ cập nhật.
