@@ -1,0 +1,22 @@
+{
+  "game": "Jump Ultimate Stars (Japan)",
+  "type": "QA overlay, no new ID",
+  "checkpoint": "046A",
+  "source_checkpoint": "046",
+  "date": "2026-11-20",
+  "updated_rows": 1,
+  "previous_vi": "Chun-Li",
+  "corrected_vi": "Shunrei",
+  "source_id": "JUS-a8f7e58a4bbaeff42db6",
+  "source_ja": "春麗",
+  "checks": {
+    "original_id_unchanged": true,
+    "japanese_original_unchanged": true,
+    "quiz_context_unchanged": true,
+    "new_translation_count": 0,
+    "vi_length": 7,
+    "maximum_vi_length": 37
+  },
+  "reason": "Saint Seiya character 春麗 is named Shunrei; Chun-Li is Mandarin pinyin rather than franchise's standard character name.",
+  "apply": "Replace vi for matching ID only; do not append a new record or increment total translated."
+}
