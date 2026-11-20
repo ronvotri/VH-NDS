@@ -1,0 +1,51 @@
+{
+  "game": "Jump Ultimate Stars (Japan) AJUJ",
+  "checkpoint": "053",
+  "date": "2026-11-20",
+  "source_zip": "JumpUltimateStars_Japan_BanGiao_Cloud.zip",
+  "source_zip_sha256": "14e839a35e75f35534a93a1b37ebe42731ea530fbc012267b45bbbed8446f241",
+  "source_files": 30,
+  "source_total_ids": 34919,
+  "new_translations": 507,
+  "new_by_file": {
+    "00-he-thong-ten-goi-001.jsonl": 507
+  },
+  "new_by_context": {
+    "bin/commwin.bin": 92,
+    "bin/demo.bin": 60,
+    "bin/infoname.bin": 42,
+    "bin/location.bin": 90,
+    "bin/piece.bin": 223
+  },
+  "from_row_index": 240,
+  "to_row_index": 746,
+  "previous_total": 33680,
+  "translated_total": 34187,
+  "still_untranslated": 732,
+  "progress_percent": 97.9,
+  "new_unique_ids": true,
+  "ja_metadata_exactly_match_source": true,
+  "control_tokens_preserved": true,
+  "unicode_nfc": true,
+  "byte_limits_pass_where_declared": true,
+  "rows_with_source_fixed_field_bytes": 0,
+  "largest_vi_unicode_codepoints": 45,
+  "largest_vi_utf8_bytes": 60,
+  "merged_038_053_ids": 10591,
+  "cp050a_10_corrections_retained": true,
+  "nds_rom_patch_built": false,
+  "font_pixel_qa_done": false,
+  "manual_accuracy_review_complete": false,
+  "notes": [
+    "Rows 240-331: DS/Wi-Fi/Deck system notices; 332-523: titles, names and locations; 524-746: manga reference paragraphs, grouped by series.",
+    "00-system source has no declared fixed byte cap; static QA does not demonstrate ROM text-field fit or glyph rendering.",
+    "Some character / publisher name transliterations are working spellings; human franchise QA is still needed.",
+    "CP052 total of 33680 and CP050A overlay are unchanged; 507 new distinct IDs are counted once."
+  ],
+  "outputs_sha256": {
+    "BAN_DICH_053.jsonl": "acfb42db1a9cf91d580c6646e05a1fe1602b0093c964fe3c1f76ee08cfe6b363",
+    "BAN_DICH_TONG_HOP_038-053.jsonl": "5d55b9ff248b4649aed436e59393384fe5513ffe48dcf5ccb44851446fa485f6",
+    "NGUON_CHUA_DICH_SAU_053.jsonl": "ab05cce5037bc43bbb23a2f291632afe1ba88f15512bb41a6083bf75402f8f12",
+    "BAN_DICH_053.tsv": "a48a27552b1a2b5adfddee5a334c48b7d462044dea6758a8caa1e72c3caed4f5"
+  }
+}
