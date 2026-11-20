@@ -1,6 +1,19 @@
-# Jump Ultimate Stars (Japan) — Checkpoint 053 (hệ thống & giới thiệu manga) 🇻🇳
+# Jump Ultimate Stars (Japan) — Checkpoint 054 (24 manga)
 
-**Tiến độ: 34.187 / 34.919 (97,90%)** — thêm **507 chuỗi Nhật–Việt** trong CP053; còn **732 chuỗi**.
+**Tiến độ: 34.671 / 34.919 (99,29%)** — thêm **484 chuỗi Nhật–Việt** trong CP054; còn **248 chuỗi**.
+
+## Mới nhất — Checkpoint 054: hoàn tất 00-he-thong-ten-goi-001 (20/11/2026)
+
+**+484 ID mới, 34.671/34.919 ID (99,29%).** Dịch toàn bộ 24 mục giới thiệu manga còn lại trong `00-he-thong-ten-goi-001.jsonl`, dòng **747–1230**, đối chiếu trực tiếp ZIP Nhật gốc. Tệp 001 đã hoàn tất. Giữ nguyên ID/JA/context/tokens, bao gồm `<IDEOSP>`. Chưa xác minh font và patch ROM.
+
+- [BAN_DICH_054.jsonl](BAN_DICH_054.jsonl) — 484 bản dịch mới.
+- [BAN_DICH_054.tsv](BAN_DICH_054.tsv) — bảng Nhật–Việt, byte UTF-8.
+- [QA_054.json](QA_054.json) / [BAN_GIAO_054.md](BAN_GIAO_054.md) — QA tĩnh và bàn giao.
+- [NGUON_CHUA_DICH_SAU_054.jsonl](NGUON_CHUA_DICH_SAU_054.jsonl) — **248 ID cuối**, chỉ ở `00-he-thong-ten-goi-002.jsonl`, dòng **0–247**.
+- [build_cp054.py](build_cp054.py), [make_mappings.py](make_mappings.py), [draft_054.tsv](draft_054.tsv), [segments.py](segments.py) — quy trình QA/tái dựng dữ liệu có thể kiểm tra.
+- Bản gộp CP038–054 (**11.075 ID**, giữ 10 đính chính CP050A) nằm trong ZIP CP054. Trên GitHub có thể dựng từ các delta/overlay qua script.
+
+**Checkpoint 055:** dịch 248 dòng nguồn cuối, sau đó kiểm toán toàn bộ 34.919 ID, vòng rà ngữ nghĩa và tích hợp ROM riêng. Tệp nguồn 002 bắt đầu bằng phần nối câu chuyện Makibao ở cuối tệp 001.
 
 ## Mới nhất — Checkpoint 053: hệ thống & giới thiệu manga (20/11/2026)
 
