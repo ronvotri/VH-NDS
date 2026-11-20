@@ -20,3 +20,51 @@
 4. Chỉ cộng tỷ lệ hoàn thành khi có `vi` thật, không trùng ID, metadata đúng nguồn và QA tĩnh đạt. Kiểm tra font và ROM vẫn là một bước riêng.
 
 Bản gộp CP038–050 đã giữ sửa **Shunrei** từ CP046A. Overlay 037B/C khi phục hồi dùng **ghi đè `vi` theo ID**, không cộng bản ghi.
+
+
+## Kiểm tra bổ sung ngày 20/11/2026 — CP051 (chưa thêm bản dịch)
+
+Đã đọc trực tiếp các delta BAN_DICH_001–037 từ nhánh
+vh/jump-ultimate-stars-japan và kiểm tra các dải file/row_index;
+đã đối chiếu bản gộp CP038–050 từ ZIP CP050.
+
+- CP001–037: 23.596 bản ghi, bao phủ 22 tên tệp nguồn.
+- CP038–050: 9.150 ID duy nhất, bao phủ 06-jquiz-005 đến
+  06-jquiz-009; bốn tên tệp mới bổ sung ngoài 22 tệp trước.
+- Tổng cộng đã đụng tới 26 tên tệp nguồn; J-Quiz 005 có 4 dòng
+  đầu ở CP037 và 1.877 dòng sau ở CP038–050, nối thành 1.881 dòng.
+- Trong tất cả các dải file/row_index đã quan sát trên GitHub,
+  không có lỗ hổng nội bộ: các phần được ghi liên tục từ 0 tới
+  row_index lớn nhất đã xuất hiện của từng tệp.
+- Nhật ký CP050 ghi tổng cộng 30 tệp nguồn (34.919 ID).
+  Ngoài 26 tệp đã dịch và hai tệp 07-deck/08-credit (429 ID),
+  có thể còn hai **tệp nguồn hoàn toàn chưa được dịch**.
+  Đây chỉ là giả thuyết cần đối chiếu với danh sách tên tệp gốc,
+  không phải kết luận chắc chắn rằng mọi ID thiếu thuộc hai tệp.
+- 1.744 ID chênh lệch trước Deck/Credits vẫn là **chưa xác định**:
+  không được tự tổng hợp câu Nhật, tự đặt ID hoặc tự nhận đã dịch.
+
+**Trở ngại truy cập:** ZIP nguồn có trong Library cũ nhưng bản
+gốc không được cấp quyền đọc byte ở phiên hiện tại; vì vậy không
+thể nêu tên chính xác hai tệp nghi thiếu, đọc 352+77 dòng Deck/
+Credits, hoặc hoàn thành phép so toàn bộ 34.919 ID ngay trong phiên này.
+
+### Công cụ đã thêm lên GitHub
+
+[AUDIT_CP051.py](AUDIT_CP051.py) là công cụ kiểm toán nguồn theo ID
+không có thư viện ngoài Python chuẩn. Từ thư mục làm việc chứa repo,
+chạy:
+
+    python Jump-Ultimate-Stars-Japan/AUDIT_CP051.py JumpUltimateStars_Japan_BanGiao_Cloud.zip --translations Jump-Ultimate-Stars-Japan
+
+Công cụ tìm JSONL trong ZIP lồng ZIP, xác thực tổng 30 tệp/34.919
+ID, kiểm SHA256 gốc của Deck/Credits, so 50 tệp delta, từ chối ID
+lạ/trùng, sai JA, sai file, sai row_index và xuất ra thư mục audit-051:
+
+- CHUA_DICH_051.jsonl — đúng các dòng nguồn chưa có bản Việt;
+- NGUON_DECK_CREDITS_051.jsonl — riêng 07/08 chưa dịch;
+- QA_KIEM_TOAN_051.json — bảng chi tiết số dòng còn thiếu theo tệp.
+
+**Trạng thái:** CP051 là giai đoạn kiểm toán/chuẩn bị; **0 bản dịch
+mới**, không thay đổi số liệu 32.746/34.919. Chưa có QA font NDS,
+kiểm byte thực tế của Deck/Credits, kiểm đáp án trong ROM hoặc patch.
