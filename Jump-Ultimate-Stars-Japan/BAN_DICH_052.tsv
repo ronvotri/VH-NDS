@@ -1,0 +1,506 @@
+file	row_index	id	ja	vi	utf8_bytes	field_bytes	context
+00-he-thong-ten-goi-001.jsonl	0	JUS-95e8ef1c5dc73ea6b6fe	ＵＬＴＩＭＡＴＥ<IDEOSP>ＳＴＡＲＳ	ULTIMATE<IDEOSP>STARS	21		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	1	JUS-f97d2fa36533a21cbe8f	タイトルＢＧＭ	Nhạc màn hình tiêu đề	29		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	2	JUS-804b5ef9d3131e76d0b5	ＹＡ！ＨＡ！	YA! HA!	7		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	3	JUS-d719eea78d98fd3a5e55	バトルステージＢＧＭ	Nhạc sân đấu	18		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	4	JUS-05a7c47b6a0c38f0f086	～競技場	~ Đấu trường	18		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	5	JUS-5ad729b0ba634906a928	心糖滅却	Shintou Mekkyaku	16		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	6	JUS-280e51e76d6ae410e974	～万事屋銀ちゃん	~ Tiệm Vạn Sự Gin-chan	28		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	7	JUS-6dfd4b4158017831ed10	Ｔｏｕｒｎａｍｅｎｔ<IDEOSP>Ｍｔ．	Tournament<IDEOSP>Mt.	21		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	8	JUS-049b0b06634c2815945b	～トーナメントマウンテン	~ Núi Tournament	17		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	9	JUS-72e66b76e56b79481e55	雪花繚乱	Hoa tuyết rợp trời	24		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	10	JUS-cf5bf30e08abd9fc8902	～大雪の亀有公園前派出所	~ Đồn Kameari ngập tuyết	31		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	11	JUS-8af22125cbb3b9676784	～漢道～	~ Đạo nam nhi ~	18		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	12	JUS-d702c18e65bfb2b30371	～冥凰島第三闘技場	~ Đấu trường 3 đảo Meiou	33		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	13	JUS-837ae23a337bf71f7c16	聖域の道標	Dấu chỉ Thánh địa	25		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	14	JUS-010085e68a22fd4199f9	～宇宙に浮かぶ十二宮	~ Mười hai cung giữa không trung	38		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	15	JUS-8e190dbabe243562e19c	異星の龍	Rồng ngoài hành tinh	24		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	16	JUS-b8df9af813b2d37246df	～ナメック星とポルンガ	~ Namek và Porunga	19		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	17	JUS-4c3768fac7d766c7dc61	火影の魂	Linh hồn Hokage	17		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	18	JUS-225799d730cffd7ea4c0	～木ノ葉隠れの里	~ Làng Lá Konoha	18		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	19	JUS-af37682f1469c791f0c5	天空の強者	Cao thủ trên trời	22		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	20	JUS-6fc3052abbde38ba609c	～天空闘技場	~ Đấu trường Thiên Không	32		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	21	JUS-411ecfeaf661383733e2	Ｐｈａｎｔｏｍ<IDEOSP>ｏｆ<IDEOSP>ＨＥＬＬ	Phantom<IDEOSP>of<IDEOSP>HELL	29		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	22	JUS-8ef6f3ae46e3d5dbb520	～尸魂界と斬魄刀の世界	~ Soul Society và Zanpakuto	28		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	23	JUS-785d13fc84b015bb3e8c	一粒の星片	Mảnh sao nhỏ	16		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	24	JUS-cc2859b68d9c367aa970	～荒野に輝く北斗七星	~ Bắc Đẩu sáng giữa hoang mạc	39		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	25	JUS-8fc0145b27ebba553bf3	ＳＨＩＮＧＥ<IDEOSP>ＴＷＥＮＴＹ<IDEOSP>ＯＮＥ	SHINGE<IDEOSP>TWENTY<IDEOSP>ONE	31		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	26	JUS-6c2a53f1481b435ecd96	～新・毛の王国	~ Tân Vương quốc Lông	27		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	27	JUS-3eda091e3c85503aa196	偉大なる道しるべ	Dấu chỉ đường vĩ đại	32		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	28	JUS-ab28f3197428f0ed569d	～デービーバックファイト	~ Davy Back Fight	17		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	29	JUS-d8cc7972b6b0d96e2030	Ｇｒｅａｔｅｓｔ<IDEOSP>Ｅａｒｔｈ	Greatest<IDEOSP>Earth	21		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	30	JUS-422e9957c46a2813cf80	～自然	~ Thiên nhiên	15		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	31	JUS-36c4a36b44a1582a30f0	Ｌｉｇｈｔｎｉｎｇ<IDEOSP>Ｃｉｔｙ	Lightning<IDEOSP>City	21		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	32	JUS-6c9fe9e6f200ce5f0115	～街	~ Phố thị	13		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	33	JUS-c41d39cab0fd20b055b2	Ｓｃｈｏｏｌ<IDEOSP>ＪＡＭ	School<IDEOSP>JAM	17		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	34	JUS-2282a297be3c5d72baf1	～学校	~ Trường học	17		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	35	JUS-ac999590098e483d4b24	Ｃｏｌｌａｐｓｅ	Collapse	8		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	36	JUS-3b0a8180ed5ece83b3be	～崩れゆく世界	~ Thế giới sụp đổ	26		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	37	JUS-5d1929dbef498e3b4c2e	無限空間	Không gian vô tận	21		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	38	JUS-63ed9998e7ee069de1fd	～宇宙	~ Vũ trụ	11		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	39	JUS-a393cdca04ce00763f58	Ｓｈａｄｏｗ<IDEOSP>Ｄａｎｃｉｎｇ	Shadow<IDEOSP>Dancing	21		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	40	JUS-d1660aa0103c1709ea28	～ジャンプ	~ JUMP	6		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	41	JUS-768b87bceb0f5329107e	Ｆｉｇｈｔ<IDEOSP>ｏｒ<IDEOSP>Ｄａｎｃｉｎ’？	Fight<IDEOSP>or<IDEOSP>Dancin'?	31		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	42	JUS-be558646c44c38ed77a1	バトルステージ共通ＢＧＭ	Nhạc sân đấu chung	24		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	43	JUS-729c30e9c9709f4ae36c	～ＴＹＰＥ－Ａ	~ TYPE-A	8		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	44	JUS-f81d15a0d77eaecf1009	Ｄｏｎ’ｔ<IDEOSP>ａｌｌｏｗ<IDEOSP>ｔｏ<IDEOSP>ｇｏ	Don't<IDEOSP>allow<IDEOSP>to<IDEOSP>go	38		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	45	JUS-6e6b5be4c4f55acd53ed	～ＴＹＰＥ－Ｂ	~ TYPE-B	8		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	46	JUS-55a03f31829dc22eb9f3	Ｓｗｅａｔ<IDEOSP>ｗｉｔｈ<IDEOSP>Ｐａｉｎ	Sweat<IDEOSP>with<IDEOSP>Pain	29		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	47	JUS-898da3b6f82bd7283cfd	～ＴＹＰＥ－Ｃ	~ TYPE-C	8		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	48	JUS-fd169b2acc35fd4beb68	Ｆｅｅｌ<IDEOSP>Ｇｏｏｄ！	Feel<IDEOSP>Good!	17		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	49	JUS-3bdbdec29fa6e7bbff3f	～ＴＹＰＥ－Ｄ	~ TYPE-D	8		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	50	JUS-8e745c03796df59a4dd8	ソラの彼方へ	Bên kia bầu trời	21		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	51	JUS-5bf5b70469e757c42e5b	～ＴＹＰＥ－Ｅ	~ TYPE-E	8		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	52	JUS-4e1cb2d891c140284b72	Ｃｈａｌｌｅｎｇｅ	Challenge	9		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	53	JUS-aa2a18d7cfcbdfbd5bd3	～衝撃	~ Cú sốc	11		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	54	JUS-63bbc0ce273e72c3f071	流転乱舞	Vũ điệu xoay vần	22		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	55	JUS-4930c9a0246d036f016f	～神谷道場	~ Võ đường Kamiya	22		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	56	JUS-061ab7be6512ff1a278f	Ｂ．Ｉ．Ａｍｂｉｔｉｏｎ	B.I. Ambition	13		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	57	JUS-10408c36eb635dcb8f84	～崩壊	~ Sụp đổ	13		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	58	JUS-7660be58b36e0cd64324	Ｄ－ＷＡＹ<IDEOSP>ＲＩＤＩＮＧ	D-WAY<IDEOSP>RIDING	19		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	59	JUS-cbcebe5015e2c142625b	バトルＢＧＭ	Nhạc chiến đấu	21		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	60	JUS-3ba880a2ea2e59a7bf46	～Ｊアリーナ最終決戦	~ Trận cuối J-Arena	23		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	61	JUS-e9c50054e52efd420e61	Ｔａｋｅ<IDEOSP>Ｓｐａｒｋ	Take<IDEOSP>Spark	17		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	62	JUS-7c3ea222d1577986fff8	～ダウンロードプレイ	~ Download Play	15		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	63	JUS-16f56d14e628636cc5e7	Ｆ．Ｔ．	F.T.	4		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	64	JUS-81716dc300975054f12b	トップメニューのＢＧＭ	Nhạc menu chính	18		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	65	JUS-f896228a1090bee76c49	Ｇｒｏｏｖｅ’ｎ	Groove'n	8		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	66	JUS-6563eddbdb0448ae5c28	オプションのＢＧＭ	Nhạc Tùy chọn	18		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	67	JUS-f9699fbdef0a77060158	ＴＡＫＥ<IDEOSP>ＩＴ	TAKE<IDEOSP>IT	14		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	68	JUS-3a74837ef9f1d5e29c82	デッキメイクのＢＧＭ	Nhạc tạo Deck	17		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	69	JUS-7c1ece57de7826dccf93	Ｌｉｖｅ<IDEOSP>Ｃｏｍ．	Live<IDEOSP>Com.	16		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	70	JUS-8bc56ec39d9d6c684398	ツウシンメニューのＢＧＭ	Nhạc menu kết nối	23		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	71	JUS-b775f53336cda810418c	Ｓｔａｙ<IDEOSP>Ｈｅｒｅ	Stay<IDEOSP>Here	16		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	72	JUS-73e8b822c31130eadcf1	データベースのＢＧＭ	Nhạc Database	15		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	73	JUS-5ee07ab79082666de876	Ｃａｌｌｉｎｇ	Calling	7		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	74	JUS-4412f0e584f379897e01	Ｊクイズ中のＢＧＭ	Nhạc J-Quiz	13		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	75	JUS-7b03c3c6b23a159bbc8d	放たれた歯車、そして・・・	Bánh răng xoay, rồi...	26		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	76	JUS-5c980212864def0a3d60	デモＢＧＭ	Nhạc cảnh demo	18		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	77	JUS-db3f207e7e2e7558a4e8	～Ｊギャラクシーオープニング	~ Mở màn J-Galaxy	20		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	78	JUS-b53d4d49913ecf6c593e	Ｉｎｔｏ<IDEOSP>Ｐｌａｎｅｔ	Into<IDEOSP>Planet	18		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	79	JUS-569a38ec1f015e1d58f3	～プラネットデモ	~ Giới thiệu hành tinh	27		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	80	JUS-0b1b0f086c95a170488e	消えた光	Ánh sáng vụt tắt	22		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	81	JUS-1b92d482f2419fe17efd	～ボス	~ Boss	6		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	82	JUS-3a54e262e61ce37e7803	悠久の彼方	Phía xa vĩnh cửu	20		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	83	JUS-46c69c74cec02b84884b	～平和が訪れた	~ Bình yên trở lại	24		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	84	JUS-3a72355e558cdfc8bfee	オボエテロ	Oboetero	8		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	85	JUS-0b89d7de2931e754ff44	～おぼえてろ～	~ Nhớ lấy đấy!	21		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	86	JUS-29be0c002d148ea7dfc2	Ｓａｉｌ<IDEOSP>ＯＮ	Sail<IDEOSP>ON	14		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	87	JUS-b113ac22ad4ddd500ed3	ＪギャラクシーマップＢＧＭ	Nhạc bản đồ J-Galaxy	27		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	88	JUS-135ffca632c1707d17bd	～地球	~ Trái Đất	14		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	89	JUS-dda1f5a537e9de1d7726	Ｇａｌａｘｙ<IDEOSP>Ｒ＋	Galaxy<IDEOSP>R+	16		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	90	JUS-36ba3bac5e8b82152824	～ギャラクシー	~ Thiên hà	12		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	91	JUS-dbe3716badfc47b4179d	漆黒の回廊へ	Vào hành lang tối đen	26		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	92	JUS-91829b28368b7ce90b3a	～ブラックホール	~ Lỗ đen	11		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	93	JUS-713ee265cae8148870d0	ＳＥＴ<IDEOSP>ＳＡＩＬ<IDEOSP>ＴＨＥ・・・	SET<IDEOSP>SAIL<IDEOSP>THE...	29		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	94	JUS-3d66a41210064e107f89	～Ｊワールド	~ J-World	9		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	95	JUS-368c8971f59db0675a75	Ｃｏｌｉｓｅｕｍ	Coliseum	8		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	96	JUS-ce0bae924c12b608ff15	ＪアリーナＢＧＭ	Nhạc J-Arena	14		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	97	JUS-ca3aaca8746a3debda97	～Ｊアリーナメニュー	~ Menu J-Arena	14		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	98	JUS-fc4f39ad009adb774e93	Ｒａｎｋｉｎｇ	Ranking	7		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	99	JUS-5ad1c4ba133ac1918355	～ランキング	~ Bảng xếp hạng	21		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	100	JUS-6f72ac5976f6b17f6211	歓喜の宴	Tiệc mừng chiến thắng	29		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	101	JUS-2d067e470568ca1c6626	～シーズン終了ランキング	~ BXH cuối mùa	17		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	102	JUS-d7fd8d4b66709a7f526a	Ｂａｔｔｌｅ<IDEOSP>Ｓｅｔｔｉｎｇ	Battle<IDEOSP>Setting	21		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	103	JUS-981d5e3ecc70919a5fc5	バトルセッティングのＢＧＭ	Nhạc thiết lập trận đấu	34		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	104	JUS-bbf6175d824aa4ec23ad	Ｗｉｎｎｅｒ！	Winner!	7		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	105	JUS-dac63599f03426d2b2fe	勝利、成功のＢＧＭ	Nhạc chiến thắng, thành công	36		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	106	JUS-e18e5390504e1db22fd2	Ｌｏｓｅｒ！	Loser!	6		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	107	JUS-a9a9b03a3782c4770764	敗北、失敗のＢＧＭ	Nhạc thất bại	19		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	108	JUS-0f01bdc3cf56b2af6eeb	ＵＬＴＩＭＡＴＥ<IDEOSP>ＳＴＡＲＳ<IDEOSP>ＥＲ	ULTIMATE<IDEOSP>STARS<IDEOSP>ER	31		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	109	JUS-43b34b6dd7ef58d92cca	Ｅｎｄ<IDEOSP>ＲｏｌｌのＢＧＭ	Nhạc End<IDEOSP>Roll	22		bin/bgm.bin
+00-he-thong-ten-goi-001.jsonl	110	JUS-7790ba0f09c55d891b01	デッキメイクで	Trong Deck Make,	16		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	111	JUS-44e5f19f6f41c940452f	『<PERCENT_FULL>』が	"""<PERCENT_FULL>"" đã"	21		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	112	JUS-ba3b4d3ef57e9259b98c	使えるぞ！	dùng được rồi!	21		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	113	JUS-1b678da16589e74fe66b	使えるようになっているぞ！	giờ dùng được rồi!	27		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	114	JUS-564fc180a754fbba4c44	個手に入れた！	đã nhận được ... cái!	30		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	115	JUS-8c4c9625c79a1e703a6f	Ｊパワーで	Nhờ J-Power,	14		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	116	JUS-c959b086d148e45030aa	『<PERCENT_FULL>』の	"đường tới ""<PERCENT_FULL>"""	32		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	117	JUS-3e9c42afc608ba4c0e2e	新たな道が開いたぞ！	đã mở ra!	13		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	118	JUS-5736f67e44d1bf02b072	新たな道が開いているぞ！	đã có đường mới!	25		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	119	JUS-13cd1ba3fd443c2d393b	Ｊギャラクシーで	Trong J-Galaxy,	15		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	120	JUS-8a6b12178205893ba93c	『<PERCENT_FULL>』への	"đường tới ""<PERCENT_FULL>"""	32		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	121	JUS-6ff9eb2eeb2968da7f0a	サンプルデッキ	Sample Deck	11		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	122	JUS-864c7fc0ff3bf95d37f9	ステージ	Stage	5		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	123	JUS-d79c2f9a6daedea87211	遊べるぞ！	đã chơi được!	20		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	124	JUS-83df518ec72ece068263	遊べるようになっているぞ！	giờ có thể chơi rồi!	28		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	125	JUS-72d777e473a088d587c9	データベースでサウンドデータ	Trong Database, nhạc nền	28		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	126	JUS-c583e03bb22385321b88	聴けるぞ！	đã nghe được!	19		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	127	JUS-066f6e8c890be86643cd	聴けるようになっているぞ！	giờ đã nghe được!	25		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	128	JUS-141aa02e6de035d97c64	データベースで作品紹介	Trong Database, giới thiệu	30		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	129	JUS-3325da4709f2b40ac3b5	『<PERCENT_FULL>』を	"""<PERCENT_FULL>"" đã"	21		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	130	JUS-e486d3e74be3e114dd37	見る事が出来るぞ！	xem được rồi!	19		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	131	JUS-7e1f7e3bab395862ff3c	見る事が出来るようになっているぞ！	giờ xem được rồi!	25		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	132	JUS-8ccff6d111a6f70eb43f	データベースでデモ	Trong Database, demo	20		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	133	JUS-145c5bb834cf18287728	Ｊクイズで	Trong J-Quiz,	13		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	134	JUS-8fdc99e3b5c5c777892a	問題が増えたぞ！	đã thêm câu hỏi!	22		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	135	JUS-cefbd01398273cf7beb2	問題が増えているぞ！	đã có câu hỏi mới!	26		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	136	JUS-4ed83fd2e0171ca0b801	インフォキャラ選択で	Trong mục chọn Info Character,	34		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	137	JUS-7062073434ab5baa07ef	使えるようになったぞ！	đã mở cho dùng!	20		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	138	JUS-856a7beb200f82cac9d8	隠しコマンド	Lệnh bí mật	16		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	139	JUS-dcfad4bad58e78c5c53d	Ｊギャラクシーモードで	Trong J-Galaxy,	15		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	140	JUS-7f6160b740051ed1bafc	<PERCENT_FULL>の	"""<PERCENT_FULL>"" đã"	21		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	141	JUS-dfae2d3a1da40a941a45	コマ入手条件『ＳＰ』が開示したぞ！	lộ điều kiện lấy Koma SP!	34		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	142	JUS-b9a44b579c17995257e7	ヘルプ・サポート・バトルコマは	Help, Support, Battle Koma:	27		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	143	JUS-cd87bf3e498138d00116	最低１コマずつセットしてください。	mỗi loại gắn ít nhất 1 Koma.	37		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	144	JUS-1a71990cda54a3f007f3	リーダーが居ません。バトルコマに	Chưa có Leader. Hãy dán	27		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	145	JUS-da2966360f24419b64bf	リーダーシールを貼ってください。	Leader Seal lên Battle Koma.	29		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	146	JUS-5b8252e1c09f22cc7741	セーブ中です。電源を切らないでください。	Đang lưu. Đừng tắt máy.	31		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	147	JUS-7ca1ac5bd287d97cd6d2	セーブに失敗しました。電源を切って、	Lưu thất bại. Hãy tắt máy,	35		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	148	JUS-f2172a2c2f1a990a4608	カードを差し込み直してください。	rồi cắm lại thẻ game.	29		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	149	JUS-6f8340b7665dc5ca3032	たくさん対戦したので何かがおこった！	Đấu nhiều, có điều lạ xảy ra!	42		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	150	JUS-493b981ab9ed8addfd57	Ｊギャラクシーをはじめてみよう！	Thử chơi J-Galaxy nào!	26		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	151	JUS-487da953ee12530e170b	データが壊れてしまいました。	Dữ liệu đã hỏng.	24		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	152	JUS-30d7d116701b9802e7d0	初期状態でゲームを始めます。	Game sẽ chơi lại từ đầu.	34		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	153	JUS-9c97f38cd1575e813be0	データを読めませんでした。電源を切って	Không đọc được dữ liệu. Tắt máy và	50		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	154	JUS-50869c42a8d50de397d1	Ｗｉ－Ｆｉコネクションに	Không thể kết nối	24		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	155	JUS-2bcf9d8d02e12bef4889	接続できません。	Wi-Fi Connection.	17		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	156	JUS-2a7412d601622c0767e1	詳しくはガイドブックをご覧ください。	Xem hướng dẫn để biết thêm.	38		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	157	JUS-b22cc77fe6e46af53aa0	お客様のＷｉ－ＦｉコネクションＩＤは	ID Wi-Fi Connection của bạn	31		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	158	JUS-e4169ad591cf51545856	長い間使用されなかったため削除されまし	đã bị xóa vì lâu không dùng.	37		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	159	JUS-145f073c2a58cbd8fb33	た。詳しくはガイドブックをご覧ください。	Xem hướng dẫn để biết thêm.	38		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	160	JUS-2a22df3b7b6e990a70a4	このソフトの	Dịch vụ Wi-Fi Connection	28		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	161	JUS-75419ca21369142297f9	Ｗｉ－Ｆｉコネクションサービスは	của game này	15		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	162	JUS-cde95a9ffc72e415acf7	終了しました。	đã ngừng hoạt động.	28		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	163	JUS-d458775f86dad2ead6e0	ご利用ありがとうございました。	Cảm ơn bạn đã sử dụng!	33		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	164	JUS-ef1e72fc99d56386bac3	接続できるアクセスポイントが	Không tìm thấy	18		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	165	JUS-fb940c4f1f2e9c22d4f9	見つかりません。	điểm truy cập nào.	24		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	166	JUS-8bfa5324c7ade197ee72	Ｗｉ－Ｆｉコネクション設定で	Kiểm tra điểm kết nối trong	36		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	167	JUS-314b69f305d5dfe66529	接続先の設定をご確認ください。	cài đặt Wi-Fi Connection.	29		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	168	JUS-8cada842388199eb11a8	ニンテンドーＷｉ－Ｆｉコネクタに	Với Nintendo Wi-Fi Connector,	31		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	169	JUS-e51a7858ac3da97de4cb	ニンテンドーＷｉ－Ｆｉコネクタの	hãy kiểm tra	15		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	170	JUS-0456eb95a183713ffa46	接続をご確認ください。	kết nối của thiết bị.	31		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	171	JUS-aab9d91a84f49f717f1c	アクセスポイントが見つかりません。	Không tìm thấy điểm truy cập.	38		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	172	JUS-3a3c88d6ee713468c0fc	アクセスポイントに近づいて	Hãy đến gần điểm truy cập,	37		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	173	JUS-dda9bb591545e0ad66ba	もう一度おためしください。	rồi thử lại.	18		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	174	JUS-2c8038e10cfbb9b8af5a	Ｗｉ－Ｆｉコネクションが混み合っているか	Wi-Fi Connection quá tải	27		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	175	JUS-a33aa60646353c3af2a4	サービスが停止しているために	hoặc dịch vụ đang ngừng,	33		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	176	JUS-dc810921bc47f397a9c3	しばらく待ってやり直してください。	hãy thử lại sau.	21		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	177	JUS-2e73e0bd8af24c51ed31	アクセスポイントが混み合っているため	Điểm truy cập đang quá tải.	36		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	178	JUS-642066e278b0e68dde36	相手からの応答がありません。	Đối phương không phản hồi.	36		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	179	JUS-7fdbad6b4b9276e3fa72	既に相手がＷｉ－Ｆｉコネクションに	Có thể đối phương đã ngắt	37		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	180	JUS-1bfaba4a0569d069dd22	接続していないか、相手のフレンドリスト	Wi-Fi Connection hoặc xóa bạn	34		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	181	JUS-bff086a1e0f8d6a2e854	から登録がなくなった可能性があります。	khỏi Friend List.	19		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	182	JUS-25598ee00d0181b1df93	接続していないか、相手のライバルリスト	Có thể đã bị xóa khỏi Rival List.	43		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	183	JUS-2bf6ae3bbdafb69a499d	通信エラーによってＷｉ－Ｆｉコネクション	Do lỗi kết nối, bạn đã bị	37		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	184	JUS-11ba5c50f02ebd8c184b	から切断されました。	ngắt khỏi Wi-Fi Connection.	31		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	185	JUS-59d4886d3afbee21576c	通信エラーが発生しました。	Đã xảy ra lỗi kết nối.	32		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	186	JUS-54fda5871ad5649444b5	しばらくお待ちください。	Vui lòng chờ một lát.	27		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	187	JUS-c43a65f22887186b755c	ＤＳ本体のＷｉ－Ｆｉユーザー情報が	Có thể dữ liệu Wi-Fi trên DS	36		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	188	JUS-9e97473ada7b89d0a1a1	消えた可能性があります。	đã bị mất.	16		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	189	JUS-3447dd710db55c768173	Ｗｉ－Ｆｉコネクションに接続しますか？	Kết nối Wi-Fi Connection chứ?	35		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	190	JUS-676734568b252c26eae2	Ｗｉ－Ｆｉコネクションでは、ＤＳカードと	Wi-Fi Connection coi thẻ DS	29		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	191	JUS-2f4b658109c95647e7a5	ＤＳ本体をセットで扱います。	và máy DS là một bộ.	27		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	192	JUS-ca385876742694dddfbe	ＤＳカードにＤＳ本体のＷｉ－Ｆｉユーザー	Lưu dữ liệu Wi-Fi của máy DS	36		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	193	JUS-161d3073a368944f2898	情報を保存して、Ｗｉ－Ｆｉコネクションに	vào thẻ, rồi kết nối	29		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	194	JUS-527bd0b30edb988e8142	接続しますか？	Wi-Fi Connection chứ?	23		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	195	JUS-35d2d87cd8280743849b	このＤＳ本体のＷｉ－Ｆｉユーザー情報を	Dữ liệu Wi-Fi của máy DS này	36		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	196	JUS-9d0b771074efca07f637	ＤＳカードに保存しました。	đã được lưu lên thẻ game.	35		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	197	JUS-fb3357796c4848f59f43	今後のＷｉ－Ｆｉコネクションへの接続は、	Từ nay, khi kết nối Wi-Fi,	32		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	198	JUS-74391bb83d74756d0b44	このＤＳ本体をお使いください。	hãy dùng chính máy DS này.	31		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	199	JUS-c8bc0603a09de009cbe0	ＤＳ本体とＤＳカードの	Dữ liệu Wi-Fi trên máy DS	31		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	200	JUS-5fc7b34e93467304ed17	Ｗｉ－Ｆｉユーザー情報がちがうため	và thẻ game không khớp,	29		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	201	JUS-1b062fedacbbd8b6a80f	Ｗｉ－Ｆｉコネクションに接続できません。	nên không thể kết nối.	30		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	202	JUS-890561ff764594738eeb	ＤＳカードに保存されている	Bạn muốn cập nhật dữ liệu	37		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	203	JUS-d99430cb60a59e59030a	Ｗｉ－Ｆｉユーザー情報を更新しますか？	Wi-Fi đã lưu trên thẻ chứ?	34		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	204	JUS-f8fa5e5384abd88aee66	Ｗｉ－Ｆｉユーザー情報を更新すると	Nếu cập nhật dữ liệu Wi-Fi,	37		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	205	JUS-422e98ab5c3c5c9a0aaa	Ｗｉ－Ｆｉコネクションでこれまで	toàn bộ dữ liệu từng dùng	35		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	206	JUS-6a8f836524f9e4f37cd7	お使いになっていたデータは	trên Wi-Fi Connection	22		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	207	JUS-4cfdbde2b43931b86f98	失われてしまいます。	sẽ mất hết.	17		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	208	JUS-1ed89c788a790ad74db2	本当に更新してもよろしいですか？	Bạn chắc chắn muốn cập nhật?	40		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	209	JUS-ef0fae465430098d637a	Ｗｉ－Ｆｉコネクションに接続しています。	Đang kết nối Wi-Fi Connection.	35		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	210	JUS-5ea742e8113d5d13ef3c	お使いのユーザーネームでは	Tên người dùng này	24		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	211	JUS-23c7c4a5b7b82d0f3692	Ｗｉ－Ｆｉコネクションを利用できません。	không dùng được trên Wi-Fi.	34		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	212	JUS-af53173ecd43dc923e39	ユーザーネームを変更して接続しなおして	Hãy đổi tên và kết nối lại.	39		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	213	JUS-4c600b8fbc5f9d89bbbd	ください。	nhé.	5		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	214	JUS-ad6f717c6aac7be74d0d	Ｗｉ－Ｆｉコネクションから切断しても	Bạn chắc chắn muốn ngắt	33		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	215	JUS-218fff5601cbb6149d01	よろしいですか？	Wi-Fi Connection chứ?	23		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	216	JUS-6b7c6fda77bdcc0214f9	Ｗｉ－Ｆｉコネクションから	Đang ngắt khỏi	19		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	217	JUS-f6810fc67a2b5e353cc6	切断しています。	Wi-Fi Connection.	17		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	218	JUS-21204de050f939fc0aca	切断しました。	Đã ngắt kết nối.	24		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	219	JUS-ff47f062ed83cb8eab6a	フレンドコードがありません。	Chưa có Friend Code.	22		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	220	JUS-baf802bb456fdd1a975b	フレンドコードを取得するには、	Để lấy Friend Code,	24		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	221	JUS-ac3acb080d84a5f147c0	一度、Ｗｉ－Ｆｉコネクションに	cần kết nối Wi-Fi Connection	34		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	222	JUS-f26790e610443db078aa	接続する必要があります。	ít nhất một lần.	23		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	223	JUS-d98ddef1e71993dabe60	フレンド「<PERCENT_FULL>」を	"Xóa bạn ""<PERCENT_FULL>"""	27		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	224	JUS-e4af9bac6c84b54efe7e	リストから削除します、よろしいですか？	khỏi danh sách, đồng ý chứ?	36		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	225	JUS-a0d8b483c6afc5c76f9e	フレンドリストに空きがありません。	Friend List đã đầy.	24		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	226	JUS-f45ad8d2b2fe3f963f50	リストに空きを作ってから	Hãy tạo chỗ trống,	25		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	227	JUS-d026c99c16dc53115876	入力してください。	rồi nhập lại.	19		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	228	JUS-d645436c8c95b52ef094	入力されたフレンドコードに	Friend Code vừa nhập	24		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	229	JUS-cf769d5ffbc2e5686cf6	誤りがあります。	không đúng.	14		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	230	JUS-a679172564123a11ecd2	入力されたフレンドコードは	Friend Code này	16		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	231	JUS-d1c6c6d55efbcd36099d	すでに登録済みです。	đã đăng ký rồi.	22		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	232	JUS-2f108b013530edd8872b	フレンドコードの入力に成功しました。	Đã nhập Friend Code thành công.	37		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	233	JUS-ed90405c15f221e3a5d0	このフレンドをリストから削除します。	Bạn này sẽ bị xóa khỏi danh sách.	44		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	234	JUS-f037b2a8708d78f529d3	このユーザーを	Thêm người chơi này	25		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	235	JUS-05146c9428b0680a8f01	フレンドリストに登録します。	vào Friend List.	17		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	236	JUS-bd43513dd9b4f7572499	登録してください。	Hãy đăng ký nhé.	21		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	237	JUS-9e2ee391a613e1af23d1	フレンドリストに登録されました。	Đã thêm vào Friend List.	28		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	238	JUS-e79c4569862c9b74ebd9	Ｗｉ-Ｆｉ通信の設定中に、	Khi cài đặt Wi-Fi,	22		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	239	JUS-2a0ddd4215750a176cc4	Ｗｉ-Ｆｉ通信を行うことがあります。	hệ thống có thể tự kết nối.	40		bin/commwin.bin
+03-nhiem-vu-luat-001.jsonl	184	JUS-5549a21cfd47bcbfcfbe	【ついに最上階だ！<IDEOSP>仲間と共に、	Đỉnh!<IDEOSP>Cùng đội,	29	32	jgalaxy/jgalaxy.aar::jgalaxy/battle.bin
+03-nhiem-vu-luat-001.jsonl	185	JUS-4ac04e25601474168772	歩隠闘破闘流（ポイント）	Point Battle	12	32	jgalaxy/jgalaxy.aar::jgalaxy/battle.bin
+03-nhiem-vu-luat-001.jsonl	186	JUS-25ff13337bd81f0492e6	弟守末血破闘流（デスマッチ）	Deathmatch Battle	17	32	jgalaxy/jgalaxy.aar::jgalaxy/battle.bin
+03-nhiem-vu-luat-001.jsonl	187	JUS-9c8f67daa1119557461c	真暴流破闘流（シンボル）	Symbol Battle	13	32	jgalaxy/jgalaxy.aar::jgalaxy/battle.bin
+03-nhiem-vu-luat-001.jsonl	188	JUS-7cfbc2651d5bc0fad3da	【Ｊ－ＳＰＡＣＥを解放するために	[Để mở J-SPACE,	20	32	jgalaxy/jgalaxy.aar::jgalaxy/battle.bin
+03-nhiem-vu-luat-001.jsonl	189	JUS-4e25071cf5b61e7c2ccd	ルで勝負だ！】	hãy đấu và thắng!]	25	32	jgalaxy/jgalaxy.aar::jgalaxy/battle.bin
+03-nhiem-vu-luat-001.jsonl	190	JUS-ec023b64677145462d72	【Ｊ－ＧＡＬＡＸＹを解放するため	[Để mở J-GALAXY,	21	32	jgalaxy/jgalaxy.aar::jgalaxy/battle.bin
+03-nhiem-vu-luat-001.jsonl	191	JUS-ee5963f2becb37072dfc	に	hãy	4	32	jgalaxy/jgalaxy.aar::jgalaxy/battle.bin
+03-nhiem-vu-luat-001.jsonl	192	JUS-65d165c5139c14b340f4	Ｊ－ＷＯＲＬＤ<IDEOSP>ＢＯＳＳ	hạ J-WORLD<IDEOSP>BOSS!]	26	32	jgalaxy/jgalaxy.aar::jgalaxy/battle.bin
+03-nhiem-vu-luat-001.jsonl	193	JUS-7e4f102f79129bc88ffc	【ついに最終決戦だ！<IDEOSP>全ての敵を	Chốt!<IDEOSP>Hạ địch,	28	32	jgalaxy/jgalaxy.aar::jgalaxy/battle.bin
+03-nhiem-vu-luat-001.jsonl	194	JUS-60102f04eec0c4f96e47	り戻すのだ！】	giành lại tất cả!]	25	32	jgalaxy/jgalaxy.aar::jgalaxy/battle.bin
+03-nhiem-vu-luat-001.jsonl	195	JUS-0003ebe2942fdddb61f3	最終ボス	Final Boss	10	32	jgalaxy/jgalaxy.aar::jgalaxy/battle.bin
+03-nhiem-vu-luat-001.jsonl	196	JUS-7142638d63e74e37cd3b	【どうやら真の悪者は他にいるよう	[Kẻ ác còn ẩn nấp!	26	32	jgalaxy/jgalaxy.aar::jgalaxy/battle.bin
+03-nhiem-vu-luat-001.jsonl	197	JUS-702b1c1349503ed80928	だ！	Hắn vẫn ở đâu đó!	27	32	jgalaxy/jgalaxy.aar::jgalaxy/battle.bin
+03-nhiem-vu-luat-001.jsonl	198	JUS-467b4afa0be5a564cbeb	戻すのだ！】	Giành lại tất cả!]	25	32	jgalaxy/jgalaxy.aar::jgalaxy/battle.bin
+03-nhiem-vu-luat-001.jsonl	199	JUS-9cc87c4f2c2ec57d0e05	チュートリアル５	Tutorial 5	10	32	jgalaxy/jgalaxy.aar::jgalaxy/battle.bin
+03-nhiem-vu-luat-001.jsonl	200	JUS-6a13dc4036423143a267	【知って得する情報を伝授するぞ！	[Bật mí vài mẹo hay!	26	32	jgalaxy/jgalaxy.aar::jgalaxy/battle.bin
+03-nhiem-vu-luat-001.jsonl	201	JUS-7719d4a4a4d3cb6b72ff	立てるのだ！】	Dùng cho hiệu quả!]	24	32	jgalaxy/jgalaxy.aar::jgalaxy/battle.bin
+03-nhiem-vu-luat-001.jsonl	202	JUS-b47718819ba5db4660e9	チュートリアル６	Tutorial 6	10	32	jgalaxy/jgalaxy.aar::jgalaxy/battle.bin
+03-nhiem-vu-luat-001.jsonl	203	JUS-695604945062053d195d	チュートリアル７	Tutorial 7	10	32	jgalaxy/jgalaxy.aar::jgalaxy/battle.bin
+03-nhiem-vu-luat-001.jsonl	204	JUS-c31dc762be4d0304911e	ＥＡＲＴＨ	EARTH	5	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	205	JUS-dd4ab0ab2a625a5d9c88	Ｊ－ＳＰＡＣＥ	J-SPACE	7	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	206	JUS-44ca4005037bcc724e93	Ｊ－ＧＡＬＡＸＹ	J-GALAXY	8	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	207	JUS-2a213f10e97c96dc9270	Ｊ－ＢＬＡＣＫＨＯＬＥ	J-BLACKHOLE	11	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	208	JUS-73c5c6e60b1f3fda1963	Ｊ－ＷＯＲＬＤ	J-WORLD	7	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	209	JUS-ab1b7a9a301cc3eef3d1	プラネット地球	Hành tinh Trái Đất	23	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	210	JUS-afe4a695b7003bfffdeb	ワープゲート	Warp Gate	9	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	211	JUS-ea3f973f98f36af0c17a	冒険の星系	Tinh hệ Phiêu lưu	21	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	212	JUS-00975f897e54691cbf91	拳の星系	Tinh hệ Nắm đấm	22	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	213	JUS-22448a5ff3be020b5c1a	魔の星系	Tinh hệ Ma thuật	20	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	214	JUS-16586d2da3f48f1d4c8d	セントラルプラネット	Hành tinh Trung tâm	21	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	215	JUS-d6f6a97e386af65bc5c0	和の星系	Tinh hệ Phương Đông	25	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	216	JUS-28d26177de14ead62ce9	技の星系	Tinh hệ Kỹ năng	20	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	217	JUS-dabbeca48da3914f3478	笑の星系	Tinh hệ Hài hước	22	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	218	JUS-bd9afac825a07548df92	大河の星系	Tinh hệ Sử thi	18	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	219	JUS-1fecc8f6a70645e3f271	魂の星系	Tinh hệ Linh hồn	20	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	220	JUS-35c27e49e816da463d7f	プラネットＸ	Planet X	8	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	221	JUS-00d5c056f645b5516e9c	知の星系	Tinh hệ Trí tuệ	20	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	222	JUS-451c80055ea10cf2b0f3	ＪＵＭＰ星系	Tinh hệ JUMP	14	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	223	JUS-5ad7eb1f57091a87fde9	力の星系	Tinh hệ Sức mạnh	22	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	224	JUS-9af845f152d332b67d79	愛の星系	Tinh hệ Tình yêu	20	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	225	JUS-ff6efce9388ccd7e0f52	シークレットプラネット	Secret Planet	13	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	226	JUS-90c9a3a80f8ec844d8ae	小惑星	Tiểu hành tinh	17	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	227	JUS-a9b5f107549995e5bb0c	地球	Trái Đất	12	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	228	JUS-bca00303e9b5fd181c4a	Ｊ－ＳＰＡＣＥへ	Đến J-SPACE	14	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	229	JUS-9bb3e62dd71eddfe8eef	わーぷ２	Warp 2	6	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	230	JUS-4517360103b5795e5566	ＥＡＲＴＨへ	Về EARTH	10	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	231	JUS-463e428e7523c2e4954f	謎の星系	Tinh hệ Bí ẩn	18	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	232	JUS-fa5bd7dbadf2919b304d	ＯＮＥ<IDEOSP>ＰＩＥＣＥ	ONE<IDEOSP>PIECE	16	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	233	JUS-45ebd7e8fc1bb7c2a02a	ＨＵＮＴＥＲ×ＨＵＮＴＥＲ	HUNTER × HUNTER	16	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	234	JUS-53f9e831772ae9865492	ＢＬＡＣＫ<IDEOSP>ＣＡＴ	BLACK<IDEOSP>CAT	16	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	235	JUS-779831b0a68841d41ef9	ＤＲＡＧＯＮ<IDEOSP>ＢＡＬＬ	DRAGON<IDEOSP>BALL	18	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	236	JUS-65c9208f2271f72320f0	聖闘士星矢	Saint Seiya	11	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	237	JUS-60e6ef793bd2abfe4657	ろくでなしＢＬＵＥＳ	Rokudenashi BLUES	17	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	238	JUS-5b5ef8790cdba3fc0bff	魔人探偵脳噛ネウロ	Neuro: Supernatural Detective	29	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	239	JUS-180c0f9de958c7d142eb	ムヒョとロージーの魔法律相談事務所	Muhyo & Roji's Bureau	21	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	240	JUS-0cd602ca2ac45fa1ea04	Ｄ．Ｇｒａｙ－ｍａｎ	D.Gray-man	10	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	241	JUS-9beee1a140d8c1a31823	Ｊ－ＧＡＬＡＸＹへ	Đến J-GALAXY	15	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	242	JUS-70ebfe923791d0333dfb	プラネット	Planet	6	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	243	JUS-b720ee55e1fd07c0ab14	キン肉マン	Kinnikuman	10	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	244	JUS-fa0daf085ff30f6a27c4	ＮＡＲＵＴＯ－ナルト－	NARUTO	6	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	245	JUS-93906fd9fe3c82cf5867	るろうに剣心	Rurouni Kenshin	15	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	246	JUS-aa0c65392d8adba0829e	テニスの王子様	The Prince of Tennis	20	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	247	JUS-7dbb150b6360c9ed4cee	キャプテン翼	Captain Tsubasa	15	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	248	JUS-cc991265d400ea61c824	ＳＬＡＭ<IDEOSP>ＤＵＮＫ	SLAM<IDEOSP>DUNK	16	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	249	JUS-4b70d33551cf187959d4	アイシールド２１	Eyeshield 21	12	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	250	JUS-07535cf5054d62f4033b	銀魂	Gintama	7	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	251	JUS-15f2c010999b479a2359	ボボボーボ・ボーボボ	Bobobo-bo Bo-bobo	17	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	252	JUS-fd56a3aa82bf1360844e	ピューと吹く！ジャガー	Pyuu to Fuku! Jaguar	20	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	253	JUS-578bdda756cd3464201a	家庭教師ヒットマンＲＥＢＯＲＮ！	Katekyo Hitman REBORN!	22	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	254	JUS-c23b3f6662fe3dd4f4f0	北斗の拳	Fist of the North Star	22	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	255	JUS-20730466fd8807a17a9d	Ｊ－ＢＬＡＣＫＨＯＬＥへ	Đến J-BLACKHOLE	18	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	256	JUS-e110ec1c22249ae4e9bb	Ｄｒ．スランプ	Dr. Slump	9	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	257	JUS-70515c8d89b550913c8f	こちら葛飾区亀有公園前派出所	Kochikame	9	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	258	JUS-196faa8e9d5c0d445e7c	コブラ	Cobra	5	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	259	JUS-30143bee6ea9ba09c915	幽★遊★白書	Yu Yu Hakusho	13	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	260	JUS-20a80edbf0bd431608d1	ＢＬＥＡＣＨ	BLEACH	6	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	261	JUS-c0a7e5b5fa1c44228d0e	シャーマンキング	Shaman King	11	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	262	JUS-cda76db9613b9186a0f9	ファイナルタワー	Final Tower	11	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	263	JUS-ec43aff3cb27a8983c7c	ＤＥＡＴＨ<IDEOSP>ＮＯＴＥ	DEATH<IDEOSP>NOTE	17	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	264	JUS-d7367f118d99d99d05e4	封神演義	Hoshin Engi	11	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	265	JUS-21a6e3310a7b538b5a32	遊☆戯☆王	Yu-Gi-Oh!	9	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	266	JUS-5e167f67d80323cc106d	Ｊ－ＷＯＲＬＤへ	Đến J-WORLD	14	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	267	JUS-9e5ba8ee275e135a059c	始まりの草原	Đồng cỏ Khởi đầu	26	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	268	JUS-2ebf4764905dd387f0dc	放浪の砂漠	Sa mạc Lang thang	19	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	269	JUS-21205d1abae6624fb3f2	激闘の街	Phố Chiến đấu	20	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	270	JUS-698db05e40fb0270b7dd	決戦の大地	Đất Quyết chiến	22	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	271	JUS-787245e294acd6cd22d3	太臓もて王サーガ	Taizo Mote King Saga	20	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	272	JUS-08af205a4a65cec3d56d	ＮＩＮＫＵ－忍空－	NINKU	5	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	273	JUS-8443e7dc4f8f0ed3fe91	ジャングルの王者ターちゃんヾ	Jungle King Tar-chan	20	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	274	JUS-6c5fdf5adae359630918	魁∥男塾	Sakigake!! Otokojuku	20	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	275	JUS-83df0abfdde287184ad3	みどりのマキバオー	Midori no Makibao	17	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	276	JUS-2ff39aacec2b758571e9	地獄先生ぬ～べ～	Hell Teacher Nube	17	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	277	JUS-66333bd6874aeace11c1	武装錬金	Buso Renkin	11	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	278	JUS-6a91295b0305496c7a2c	いちご１００<PERCENT_FULL>	Ichigo 100<PERCENT_FULL>	24	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	279	JUS-dd81c5e1ee14c6f24072	Ｉ￣ｓ	I''s	4	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	280	JUS-2310cd1dcf2aa72cecf8	ジョジョの奇妙な冒険	JoJo's Bizarre Adventure	24	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	281	JUS-eeda30cf611d9782d12e	とっても！ラッキーマン	Tottemo! Luckyman	17	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	282	JUS-de195dc6b5c5deac6864	Ｊ－ＳＰＡＣＥ<IDEOSP>ボス	J-SPACE<IDEOSP>BOSS	19	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	283	JUS-89772a4f08b11ed409c0	Ｊ－ＧＡＬＡＸＹ<IDEOSP>ボス	J-GALAXY<IDEOSP>BOSS	20	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	284	JUS-7ff3580d1879d317fa6e	Ｊ－ＷＯＲＬＤ<IDEOSP>ボス	J-WORLD<IDEOSP>BOSS	19	44	jgalaxy/jgalaxy.aar::jgalaxy/jgalaxy.bin
+03-nhiem-vu-luat-001.jsonl	285	JUS-c3fba676d12c21e39f45	お宝は私のもの！	Kho báu là của ta!	22	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	286	JUS-bf0f5da261c76600e3dc	【お宝（中コイン）をめぐって	[Giành đồng xu báu,	24	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	287	JUS-0004ea17fe9aede78f20	ミと対決だ！】	đấu với Nami!]	19	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	288	JUS-3954fe32e3009116979d	ビスケの課題！！	Bài tập của Bisky!!	24	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	289	JUS-b02df945b9d927dd1887	【ビスケからの課題は基礎修行だっ	[Bisky giao bài cơ bản.	27	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	290	JUS-c5022ffcacde2a2f2ffe	た	Luyện thôi nào!	19	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	291	JUS-f5143b36b5d3bbba3e64	壁を壊すのだ】	Phá tường đi!]	19	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	292	JUS-8123d5c7516666d045d6	賞金稼ぎ！！	Thợ săn tiền thưởng!!	29	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	293	JUS-0e02b7317e7df8472d96	【トレインたち掃除屋チームと	[Gặp nhóm Train,	19	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	294	JUS-56ab648cbbe2dd3354d4	って対決だ！】	đấu một trận!]	21	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	295	JUS-68794eb676881288b3a2	ドラゴンボールを集めろ！！	Thu thập Dragon Ball!!	24	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	296	JUS-29c0647cefa74f63b5a2	【フリーザやベジータたちより先に	[Nhanh hơn Frieza, Vegeta,	27	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	297	JUS-dcbd4edff4d3f9019826	ろえるのだ！】	nhặt đủ ngọc!]	21	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	298	JUS-8db79a0deb612ac33ff4	死守せよ！！黄金聖衣！！	Bảo vệ Gold Cloth!!	23	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	299	JUS-ebcd43da37338c808847	【迫りくる敵から『１０秒』	[Giữ vững suốt 10 giây,	30	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	300	JUS-64a57c1c41d0f5d117dc	ス）を守れ！】	bảo vệ Gold Cloth!]	23	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	301	JUS-be055b0b8e1a5299ec13	小宇宙を高めろ！！	Bùng cháy Cosmos!!	20	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	302	JUS-56fff429e8f0b766e885	【小宇宙（コスモ）を高め	[Nâng Cosmos lên cao,	23	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	303	JUS-e2b6b17c08dfc438a677	て壊すのだ！】	rồi phá tường!]	21	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	304	JUS-a6e3c97a0ede39448300	犯人はおまえだ！	Thủ phạm là mi!	20	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	305	JUS-d58ca0e253ef90ca6c4b	【弥子が隠していたオヤツを食べた	[Ai ăn vụng đồ của Yako?	32	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	306	JUS-5fc33bbb3042f0e00934	まえるのだ！】	Tóm ngay thủ phạm!]	24	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	307	JUS-12ac4aa700f4e01f61a9	ムヒョ大ピンチ！	Muhyo gặp nguy!	17	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	308	JUS-5051e1efcc88b6bc37a1	【煉を使い果たして動けなくなった	[Cạn Ren, Muhyo gục rồi.	30	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	309	JUS-56e24a78d38c323cb599	』守りぬけ！】	Hãy bảo vệ cậu ấy!]	28	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	310	JUS-0c9159f4c8637ec7459c	レベル２の『アクマ』を倒せ！	Hạ Akuma cấp 2!	19	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	311	JUS-aa4a2de5bb4d0c3893c7	【能力を写しとる能力をもった	[Quỷ sao chép sức mạnh.	30	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	312	JUS-00d3fa4236130d917ee9	』を倒すのだ】	Hạ hắn ngay!]	17	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	313	JUS-581071e4f9399ebe34d9	見せろ！火事場のクソ力！！	Bùng nổ Kuso Chikara!!	25	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	314	JUS-eb0e109831b2bbbd470b	【３ポイント差がついたバトルを	[Bị dẫn trước 3 điểm?	31	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	315	JUS-8de685692ca9bd2a6734	力』で覆せ！】	Dùng Kuso Chikara lật kèo!]	31	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	316	JUS-716b63c65ba9bc0de7e6	黄金のマスク編	Golden Mask Arc	15	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	317	JUS-84bbedc0bd6184b97871	【戦いの神、黄金のマスクを	[Thần chiến Gold Mask.	26	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	318	JUS-6efb4909617e3bcce25d	』守るのだ！】	Hãy bảo vệ mặt nạ!]	28	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	319	JUS-ee5f2be3e4d6d90da5f9	カカシ先生と修行だってばよ！！	Luyện với thầy Kakashi!!	30	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	320	JUS-542515e9138d3abf0b44	【カカシ先生とサバイバル演習だ！	[Thầy mở bài sống sót!	30	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	321	JUS-610536681e8a7effbf3a	逃げるのだ！】	Cố trốn thoát!]	20	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	322	JUS-1d8d71474ebf88e7e9c3	激闘！新撰組？	Đại chiến Shinsengumi?	27	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	323	JUS-7a1694ed09a3da9efd0b	【剣心のかつての宿敵？との	[Kẻ thù cũ của Kenshin?	29	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	324	JUS-b6dec99f58518e92b804	る時が・・・】	Đối đầu ngay thôi...]	28	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	325	JUS-abd0c60956beaabde815	まだまだだね！！	Còn non lắm nha!!	20	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	326	JUS-75ddfe2e9c2ca07c5b22	【２ポイントの差をつけたポイント	[Point Battle: hơn đối thủ	32	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	327	JUS-78b8206e71eb8356b579	バトル	2 điểm,	10	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	328	JUS-3071059321747f51e203	けた対戦だ！】	rồi đấu cho ra trò!]	26	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	329	JUS-da0f3d6e7326ddd8f97a	ボールは友達！	Bóng là bạn!	16	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	330	JUS-0ba5c447a2ed9cd0ec53	【大事な友達、サッカーボールを持	[Mang quả bóng thân yêu,	29	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	331	JUS-4e83ca812214aadae758	って	giữ thật chắc!]	21	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	332	JUS-6f1ae9b1a23563859c89	流川の居眠り運転	Rukawa đạp xe ngủ gật	28	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	333	JUS-18beb3e4ae068287c86e	【居眠り運転をしている流川の自転	[Rukawa gục trên xe đạp.	30	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	334	JUS-4a7629f952423fccc14b	車に	Tránh xa chiếc xe ấy!]	27	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	335	JUS-3d098be415a6afb1f4e7	セナで抜き去れ！！	Sena bứt tốc!!	18	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	336	JUS-7f461fa8a3bba44deb28	【並みいる強敵を	[Qua mặt lũ cao thủ,	25	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	337	JUS-0af0f5c904cf6e6b9e95	で抜き去れ！】	Sena lao lên!]	15	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	338	JUS-3c687976782f93582c24	逆転！！	Lật kèo!!	12	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	339	JUS-5fbf4f9d7a54f7da779f	【２ポイント差がついたポイントバ	[Point Battle đang lệch	26	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	340	JUS-b6d463985276f0930af0	トル	2 điểm.	10	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	341	JUS-9a25388e725ce2ae9d2a	て勝利せよ！】	Thắng ngược nào!]	23	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	342	JUS-3f7ef558268157087427	天人？来襲！！	Amanto? Đổ bộ!!	20	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	343	JUS-43c0380306e394faa326	【天人（あまんと）？たちがエドの	[Amanto? tới thành Edo.	26	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	344	JUS-67beff9bc45785f45af9	街に	Phố xá náo loạn,	22	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	345	JUS-c945882ea71577b0527d	の始まりだ！】	màn náo nhiệt bắt đầu!]	32	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	346	JUS-c74da521183b3b89bee7	恥ずかしくねーのかァ！！	Không biết ngượng à!!	28	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	347	JUS-357c8d5eb97d4e02bb07	【最後のジャンプを奪って	[Cướp cú Jump cuối,	25	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	348	JUS-1ff7ac398d16ace5e1d1	げ切るのだ！】	rồi trốn thoát!]	21	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	349	JUS-274b8f2bcd927f73bd87	サイヤ人の逆襲！	Saiyan phản công!	20	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	350	JUS-9a7f9a54f0e408996954	【ナメック星に飛ばされた首領パッ	[Boss Patchi lạc đến Namek!	32	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	351	JUS-b4c99a153960c141cceb	チ！	Đừng để hắn thua!]	26	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	352	JUS-7c30a25648f5690eb591	炸裂！鼻毛真拳！	Hanage Shinken bùng nổ!	26	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	353	JUS-cfdc9791f0b7ca8d1290	【鼻毛真拳炸裂！ボーボボの攻撃	[Bobobo xuất chiêu tóc mũi!	32	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	354	JUS-19a802f211f574874023	させるのだ！】	Cho địch biết tay!]	24	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	355	JUS-ae13b2a43ae84436c588	ふえ拾いの季節	Mùa săn sáo lạ	19	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	356	JUS-a3af2368d5691599f32e	【秘蔵のマニアック珍笛、ぺふえを	[Tranh chiếc sáo hiếm,	27	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	357	JUS-869d17255ec1a595d125	巡る	đang bị săn đón.	22	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	358	JUS-a9cce2263e7fdb7116dd	って逃げろ！】	Giữ nó rồi chạy!]	24	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	359	JUS-6ef900381d1e31f71d7b	ランボＶＳイーピン	Lambo vs I-Pin	14	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	360	JUS-f7d7ff52344980480837	【ランボとイーピンがケンカ中！	[Lambo và I-Pin cãi nhau!]	28	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	361	JUS-8e6f646829f6eef1e1bf	運命を覆せ！！	Lật ngược số phận!!	28	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	362	JUS-323375f4cd02a8ed5e29	【キミは運命にあらがえるか？	[Dám cãi lại số phận?	29	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	363	JUS-76425d7e6f1ae9ed890b	トルを覆せ！】	Lật kèo trận này!]	24	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	364	JUS-147593cef3484a9ca09e	アラレとオニゴッコ！！	Arale đuổi bắt!!	21	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	365	JUS-60d235bd729a23ac2a77	【今日はアラレとオニゴッコ	[Hôm nay chơi đuổi bắt!]	31	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	366	JUS-6b81622b5741e738a0ad	ボーナス袋を死守せよ！の巻	Giữ túi tiền thưởng!	28	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	367	JUS-d0ffe6db3aa81a7299b7	【寝ている間に落としてしまった	[Ngủ quên, rơi mất túi.	30	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	368	JUS-2d771a840d0c0627edca	戻すのだ！！】	Đòi lại ngay!!]	19	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	369	JUS-333a7b78ce9ddcd06384	大食い選手権！！の巻	Đại hội ăn khỏe!!	25	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	370	JUS-2949a2fcbb9cc33dc183	【大食い選手権で賞金狙いの両さん	[Ryo nhắm tiền thưởng,	29	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	371	JUS-2a70c2180f560c7b04ac	位を目指せ！】	quyết giành hạng nhất!]	30	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	372	JUS-65e0f843b8c47bb5498c	追うものＶＳ追われるもの！！	Kẻ đuổi vs kẻ chạy!!	29	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	373	JUS-863ed1da938e913e2038	【海賊ギルドの刺客たちを	[Sát thủ hội hải tặc	29	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	374	JUS-2d1896b4b45a32f8010b	退するのだ！】	ập tới! Đẩy lùi đi!]	29	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	375	JUS-6ae42970eb92d3160dde	暗黒武術会！？	Dark Tournament?!	17	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	376	JUS-a96c4fff1b848bff2840	【史上最悪の格闘技戦	[Giải võ đài kinh hoàng,	30	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	377	JUS-c5bbfae1271913b890cc	のは誰だ？】	ai sẽ thắng?]	17	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	378	JUS-fe99d7ac0f963596a0ae	ルキアを守れ！！	Bảo vệ Rukia!!	18	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	379	JUS-2de2cfa26fcbb7c97f6a	【ルキアに群がる魔物たち・・・	[Quái vật vây lấy Rukia!	30	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	380	JUS-93767487d7b83751e39e	り抜くのだ！】	Hộ tống cô ấy qua!]	26	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	381	JUS-e32da42ab63bd51acb35	霊界一武闘会	Giải võ Linh giới	22	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	382	JUS-eac1b3dd2950c72a170b	【霊界一を決める頂上決戦！	[Ai số một Linh giới?	27	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	383	JUS-370b70fb8cd26a754094	員倒すのだ！】	Hạ sạch đối thủ!]	26	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	384	JUS-d26accc4eef9f1e92cee	死神ＶＳ旅禍	Shinigami vs Ryoka	18	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	385	JUS-82139f02bc8c1c430297	【尸魂界に侵入した一護たちと共に	[Cùng Ichigo vào Soul Society,	32	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	386	JUS-44f0c70991f18ebd8003	副官を倒せ！】	hạ phó đội trưởng!]	28	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	387	JUS-5c4dab2791340f3e1347	アンナの口寄せ特訓！！	Anna tập triệu hồi!!	26	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	388	JUS-412cfc72dfd1db01bd8b	【口寄せの特訓中のアンナ	[Anna đang luyện gọi hồn.	32	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	389	JUS-87fc8f5ca1540dcf45be	者を退けろ！】	Đánh lui kẻ địch!]	25	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	390	JUS-2bbfe429af9a2b899307	新世界の神になる！！	Thần của thế giới mới!	32	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	391	JUS-07421565fa34cf1729dc	【新しい世界の神を決める最終決戦	[Tranh ngôi thần thôi.	26	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	392	JUS-031fd383cbefa0452dd8	き残るのだ！】	Sống sót đến cùng!]	26	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	393	JUS-fc4326daa4b216f42c00	おさぼり道士太公望を追え！	Bắt Taikobo trốn việc!	28	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	394	JUS-bd4c879039c21c35a223	【いつもさぼってばかりの『太公望	[Taikobo lại lười biếng!	31	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	395	JUS-b6a0a18e8a444a6fe500	』師叔	Sư thúc, chạy đâu đấy?]	32	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	396	JUS-64fb3d10ef8fed8eb3e3	エクゾディアを召喚するぜ！！	Triệu hồi Exodia!!	22	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	397	JUS-968a1259fff45732d836	【封印カード『エクゾディア』をそ	[Gom đủ các lá Exodia,	27	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	398	JUS-6af4048fc78aa3cb603c	ろえ	ghép trọn bộ,	18	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	399	JUS-bbc00a8a069a172823ae	にするのだ！】	rồi triệu hồi!]	21	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	400	JUS-8889ffcd0b52b2397e5a	全員ビックリさせろ！！	Hù cả bọn giật mình!!	29	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	401	JUS-691b4dcf780f64993934	【ボーボボの攻撃（↑Ｙ）などを使	[Dùng đòn Bobobo (↑Y),	27	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	402	JUS-f766f587eb9d2fc5fec4	ジャンプスロット！？	Jump Slot?!	11	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	403	JUS-4a34936e7bb513a606b4	【力？知？笑？	[Sức mạnh? Trí tuệ? Hài?	32	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	404	JUS-a572635ed9b4c638e054	えるのだ！！】	Gom hết đi!!]	16	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	405	JUS-ef5c105f558169e0476c	俺のジャンプだ！！	Jump là của ta!!	19	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	406	JUS-1b4c69b58f0d0a839f38	【俺のジャンプは誰にもわたさない	[Không nhường Jump cho ai!	30	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	407	JUS-56e205783814d5de47bd	集めるのだ！】	Gom cho hết!]	15	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	408	JUS-dc11f9833e1aad9694af	常識の枠をぶち壊せ！！	Phá vỡ khuôn phép!!	24	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	409	JUS-0bb6045b09d6dae9c9a2	【常識の枠という名の壁を	[Phá tường khuôn phép,	28	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	410	JUS-acf59ee5f0d336d6ef33	するのだ！！】	phá tan đi!!]	15	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	411	JUS-2b66e547ad0b53e2e87a	自らを超えろ！！	Vượt chính mình!!	22	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	412	JUS-ae394d3d9445f3275320	【最大の敵は自分自身だ！	[Địch lớn: chính ta!	26	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	413	JUS-78714c2aabd0952289a6	トバトルだ！】	Đấu Point Battle!]	21	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	414	JUS-a0906ba11dada94ff818	トレーニング！？	Luyện tập à?!	18	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	415	JUS-35acaa2d488b40dc855c	【たまにはトレーニングも良いだろ	[Lâu lâu tập cũng hay!	27	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	416	JUS-5798a195b96de8309008	う！	Vậy thì chiến,	19	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	417	JUS-35bca3edb5e769ddb30a	く倒すのだ！】	hạ địch thật nhanh!]	27	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	418	JUS-213c4a8a6dadf58c6b47	コママンの逆襲！！	Koma Man trả thù!!	21	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	419	JUS-ba90ca760a81715a7504	【コママンの怒り爆発！	[Koma Man giận bùng nổ!]	29	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	420	JUS-d5dbd0036cbc7b9a4d66	コママンで挑戦！！	Đấu bằng Koma Man!!	24	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	421	JUS-5c7767fbaefc78111eda	【コママンの気持ちになって勝負だ	[Nhập vai Koma Man, chiến!]	31	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	422	JUS-59c0c8f6fa6419e1ed2f	スポーツ軍団の挑戦！！	Hội thể thao thách đấu!!	32	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	423	JUS-156da455e01a2e91b7a8	【スポーツ軍団の競演！】	[Hội thể thao so tài!]	27	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	424	JUS-da091afa134adee1c0d4	漢の戦いッ！！	Trận chiến nam nhi!!	24	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	425	JUS-bb650cb5b27c2fa4c08c	【漢と漢の熱い競演！】	[Nam nhi máu lửa quá!]	26	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	426	JUS-4f0b887d83dc6a977f33	お笑い★誕生！！	Sao hài ra đời!!	20	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	427	JUS-70732823b87cbecc8019	【ギャグスター達の爆笑の競演！】	[Các thánh hài quậy tung!]	31	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	428	JUS-8ab947a241502330d3cd	剣豪達の腕試し！！	Đấu kiếm cao thủ!!	25	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	429	JUS-403071a048e64d49db3a	【Ｊヒーローの剣豪たちが	[Kiếm khách J-Hero	21	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	430	JUS-0b0d69fc0381677362a4	突する！！！】	đụng độ rồi!!!]	23	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	431	JUS-878d7acbbf70eedc0806	ヒロイン大決戦	Đại chiến nữ chính	26	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	432	JUS-1903629629dada7ecfeb	【Ｊヒロインたちの華麗なる競演！	[Dàn J-Heroine tranh tài!]	28	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	433	JUS-74c6717cb16b2e846006	忍者軍団登場！！	Đội ninja xuất hiện!!	28	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	434	JUS-4c91f18c74a47cfd99ea	【忍者軍団の影の競演！】	[Ninja lặng lẽ so tài!]	28	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	435	JUS-438fe827cdde663aa8c5	最強対決に巻き込まれ！？	Kẹt giữa siêu cao thủ?!	30	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	436	JUS-f72c7fce56815b472dbe	【最強の拳士の	[Các tay đấm mạnh nhất,	31	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	437	JUS-7e83f5e693b1d23f9ac9	制するのだ！】	ai sẽ làm chủ trận?]	27	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	438	JUS-d96d0596e956d6db8e6b	決戦！！	Quyết chiến!!	17	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	439	JUS-afba4430b14119c932f4	【天下分け目の決戦！？】	[Phân định thiên hạ!]	28	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	440	JUS-b29eb0e08a2a3f15747d	なんて激しい愛情表現なんだ～！	Yêu kiểu gì dữ vậy~!	28	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	441	JUS-e5caa0356794b1cf10f7	【間界の王子・太臓の野望	[Dã tâm hoàng tử Taizo!	28	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	442	JUS-8d4bb1bed12714419607	止するのだ！】	Ngăn hắn lại!]	19	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	443	JUS-4372dad219d845ffe5ea	いちご争奪戦！？	Tranh giành dâu tây?!	24	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	444	JUS-86d8eff5ba4ec23c9cbc	【今日はいちごの収穫祭	[Hôm nay hội hái dâu,	26	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	445	JUS-07a2ad001204ebd721e6	目指すのだ！】	nhắm ngôi đầu nào!]	26	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	446	JUS-5980451066fa32ffb450	逃げるんだよォ！！	Chạy mau lên!!	17	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	447	JUS-31890a4e3697cd8b7349	【エイジャの赤石を狙うＤＩＯ！	[DIO săn Red Stone of Aja!	27	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
+03-nhiem-vu-luat-001.jsonl	448	JUS-065f7bbe3ad5196a89b2	んだよォ！！】	Chạy mau đi!!]	17	32	jgalaxy/jgalaxy.aar::jgalaxy/mission.bin
