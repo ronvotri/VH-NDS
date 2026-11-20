@@ -1,6 +1,23 @@
-# Jump Ultimate Stars (Japan) — Checkpoint 054 (24 manga)
+# Jump Ultimate Stars (Japan) — Checkpoint 055 (ĐỦ 100% VĂN BẢN) 🇻🇳
 
-**Tiến độ: 34.671 / 34.919 (99,29%)** — thêm **484 chuỗi Nhật–Việt** trong CP054; còn **248 chuỗi**.
+**Tiến độ: 34.919 / 34.919 (100%)** — CP055 dịch thêm **248 chuỗi**; **0 chuỗi chưa dịch**. *Đây là mốc dữ liệu, không phải ROM Việt hóa đã chạy được.*
+
+## Mới nhất — Checkpoint 055: hoàn tất nguồn Nhật 34.919 ID (20/11/2026)
+
+**+248 chuỗi trong `00-he-thong-ten-goi-002.jsonl`, từ dòng 0–247.** Đã dịch trọn đoạn kết *Midori Makibao*, giới thiệu *Muhyo & Roji, Yu-Gi-Oh!, Yu Yu Hakusho, Rurouni Kenshin, Rokudenashi Blues, One Piece*, danh hiệu người chơi và tên đấu trường. Giữ tên riêng/Item/Skill/thuật ngữ chính bằng English/romanized, diễn đạt tiếng Việt tự nhiên.
+
+- [BAN_DICH_055.jsonl](BAN_DICH_055.jsonl) — bản dịch 248 ID cuối.
+- [BAN_DICH_055.tsv](BAN_DICH_055.tsv) — đối chiếu Nhật/Việt và byte.
+- [QA_055.json](QA_055.json) — 100% nguồn đã có bản dịch, giới hạn QA kỹ thuật.
+- [BAN_GIAO_055.md](BAN_GIAO_055.md) / [KIEM_TOAN_TONG_055.md](KIEM_TOAN_TONG_055.md) — bàn giao cuối và kiểm toán.
+- [KIEM_TOAN_CP001_037_055.json](KIEM_TOAN_CP001_037_055.json) — kiểm lại toàn bộ 23.596 ID cũ: **PASS**, khớp ID/JA/file/row_index/quiz_context với ZIP gốc.
+- [TAO_TONG_HOP_055.py](TAO_TONG_HOP_055.py) — từ **checkout đủ nhánh**, ghép CP001–055 thành **34.919** bản ghi và áp 4 đợt sửa lỗi.
+- [SOURCE_BASELINE_CP001_037.json](SOURCE_BASELINE_CP001_037.json), [prepare_cp055.py](prepare_cp055.py), [draft_055.tsv](draft_055.tsv), [build_cp055.py](build_cp055.py) — công cụ và vết QA.
+- Bản gộp CP038–055 **11.323 ID** được đính kèm trong ZIP CP055; phần CP001–037 **23.596 ID** có trên repo và có thể ghép qua script. Đây chưa phải một ZIP full-ROM NDS.
+
+**Sửa lỗi QA quan trọng:** 651 câu thuộc [BAN_DICH_026.jsonl](BAN_DICH_026.jsonl) trước kia thiếu `quiz_context`; đã phục hồi dữ liệu gốc từ ZIP (commit `ed0c6672`), không đổi `id`, `ja`, `vi`. Kiểm toán lại CP001–037 **PASS**.
+
+**Giới hạn nghiệm thu:** đủ ID, có bản dịch, đối chiếu nguồn + metadata cơ bản **PASS**; font Việt, giới hạn pixel, khả năng patch ROM và kiểm thử trực tiếp game **chưa làm**. Một số tên địa danh hiếm còn cần xác minh sâu.
 
 ## Mới nhất — Checkpoint 054: hoàn tất 00-he-thong-ten-goi-001 (20/11/2026)
 
