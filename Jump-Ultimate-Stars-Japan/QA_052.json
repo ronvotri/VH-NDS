@@ -1,0 +1,56 @@
+{
+  "game": "Jump Ultimate Stars (Japan) AJUJ",
+  "checkpoint": "052",
+  "date": "2026-11-20",
+  "source_zip": "JumpUltimateStars_Japan_BanGiao_Cloud.zip",
+  "source_zip_sha256": "14e839a35e75f35534a93a1b37ebe42731ea530fbc012267b45bbbed8446f241",
+  "source_files": 30,
+  "source_total_ids": 34919,
+  "new_translations": 505,
+  "new_by_file": {
+    "00-he-thong-ten-goi-001.jsonl": 240,
+    "03-nhiem-vu-luat-001.jsonl": 265
+  },
+  "prior_translated": 33175,
+  "translated_total": 33680,
+  "still_untranslated": 1239,
+  "progress_percent": 96.45,
+  "all_265_mission_and_law_rows_184_448_completed": true,
+  "system_rows_0_239_completed": true,
+  "new_id_uniqueness": true,
+  "no_duplicates_in_038_052_merge": true,
+  "source_original_ja_and_metadata_unmodified": true,
+  "control_tokens_preserved": true,
+  "unicode_nfc": true,
+  "byte_caps_for_03_rows_pass": true,
+  "bytes": {
+    "00-he-thong-ten-goi-001.jsonl": {
+      "max_utf8_bytes": 50,
+      "max_source_fixed_field_bytes": 0,
+      "fixed_field_rows": 0
+    },
+    "03-nhiem-vu-luat-001.jsonl": {
+      "max_utf8_bytes": 32,
+      "max_source_fixed_field_bytes": 44,
+      "fixed_field_rows": 265
+    }
+  },
+  "cp050a_10_corrections_retained": true,
+  "latest_merged_cp038_052_ids": 10084,
+  "full_001_052_merged_not_created": true,
+  "nds_rom_patch_built": false,
+  "font_pixel_qa_done": false,
+  "manual_accuracy_review_complete": false,
+  "flags": [
+    "Several 03 source lines are truncated fragments (e.g. 185-187 corrupted Battle names, 350-351) and need runtime context QA.",
+    "Music track 00 row_index 5 has unusual Japanese 心糖滅却, phonetic rendering is provisional.",
+    "00-system fields have no explicit source_fixed_field_bytes; byte-cap QA applies to 03 rows only.",
+    "Core English names maintained, but UI/ROM visual tests remain outstanding."
+  ],
+  "outputs_sha256": {
+    "BAN_DICH_052.jsonl": "2605b00d0636adf1501c6945c365063f15afb12e1d48aa8b75e592e33534eae6",
+    "BAN_DICH_TONG_HOP_038-052.jsonl": "a45870677c8c7f2fde7a64dca144e67d6c65b8f1a615c684a5e7e1b802a1d610",
+    "NGUON_CHUA_DICH_SAU_052.jsonl": "32396ea4cc13cda6ecdf8d038ca6fb56ebca1bff20cd7f60ba88d200b844182d",
+    "BAN_DICH_052.tsv": "bd1f6a9be497b1936f417df82d994845848ffe22f4bbdcc14c7d17ee0fbcafd5"
+  }
+}
