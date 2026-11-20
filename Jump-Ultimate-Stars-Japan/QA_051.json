@@ -1,0 +1,51 @@
+{
+  "checkpoint": "051",
+  "source_zip": "JumpUltimateStars_Japan_BanGiao_Cloud.zip",
+  "total_source_records": 34919,
+  "new_translations": 429,
+  "deck_records": 352,
+  "credit_records": 77,
+  "previous_translation_total": 32746,
+  "translated_total": 33175,
+  "remaining": 1744,
+  "static_checks": {
+    "id_unique": true,
+    "original_ja_and_metadata_preserved": true,
+    "all_vi_nonempty": true,
+    "no_unicode_nfc_errors": true,
+    "source_control_tokens_preserved": true,
+    "utf8_bytes_below_source_fixed_field_bytes": true
+  },
+  "important_limitations": [
+    "Field byte capacity check is conservative heuristic: actual binary encoding and font not proven.",
+    "Deck labels and selected shorthand codes are deliberately preserved or NFKC normalized.",
+    "No ROM/font/pixel/gameplay QA completed.",
+    "This batch does not translate 1744 earlier source rows."
+  ],
+  "source_file_sha256": {
+    "00-he-thong-ten-goi-001.jsonl": "f8170b3d32036bc98ef85493d2976996a7df3548d50d39c29572fe188b255eb6",
+    "00-he-thong-ten-goi-002.jsonl": "4b39a58faefb38a5fc9c9df1ec5b45727418a5ad6a6a6ecd595bbfcc29d85e09",
+    "03-nhiem-vu-luat-001.jsonl": "07af45750aa79a99f9002af0be8875bcbe5c9529de025724ed7e41bfbfdd91d0",
+    "07-deck-001.jsonl": "dc52ad7a1a57f2298c576f6783c4fe2b915ff7947a0f987d643682cdfa789950",
+    "08-credit-001.jsonl": "08982eb9c40751e1ce85f90349b1194e2ae12d1ca8e40c47c95b447398914224"
+  },
+  "delta_sha256": "ba3d3b67a473a86566bbe846afba54d7ccff69a263afc434e0d73f1d737960ec",
+  "previous_translated_001_037": 23596,
+  "previous_translated_038_050": 9150,
+  "percent_translated": 95.01,
+  "exact_remaining_source_files": {
+    "00-he-thong-ten-goi-001.jsonl": 1231,
+    "00-he-thong-ten-goi-002.jsonl": 248,
+    "03-nhiem-vu-luat-001.jsonl": 265
+  },
+  "legacy_cp001_037_reconstruction": "Based on GitHub-verified row_index coverage from CP001-037; not independently loaded byte-by-byte in this package",
+  "crosscheck_against_source": {
+    "source_count": 34919,
+    "source_unique_ids": 34919,
+    "new_and_recent_merged_ids": 9579,
+    "new_and_recent_ids_unique": true,
+    "all_merged_ja_and_present_metadata_match_source": true,
+    "new_and_recent_no_collision_with_reconstructed_legacy_coverage": true
+  },
+  "generated_merged_sha256": "6869671bde48e9c520bb7aa6d95b28e5c5bb9e41df5167a4591268aab24aca7c"
+}
