@@ -22,7 +22,7 @@
 - [AP_DINH_CHINH_050A.py](AP_DINH_CHINH_050A.py) — script tái tạo merged có sửa; tệp merged cũ chưa được sửa trực tiếp.
 - [QA_050A.json](QA_050A.json) và [BAN_GIAO_051.md](BAN_GIAO_051.md) — QA, hướng dẫn bàn giao.
 
-**CP051 chưa thể tiếp tục Deck/Credits hoặc 1.744 ID thiếu:** ZIP nguồn Nhật trong phiên lưu trữ cũ hiện không đọc được. Chỉ dịch bổ sung khi có nguồn kiểm tra được.
+**Lưu ý lịch sử:** Đây là tình trạng ở lượt đính chính CP050A. ZIP Nhật hiện đã truy cập được, và 429 ID Deck/Credits đã được dịch trong CP051 ở mục mới nhất.
 
 ## Mới nhất — Checkpoint 050 (20/11/2026)
 
