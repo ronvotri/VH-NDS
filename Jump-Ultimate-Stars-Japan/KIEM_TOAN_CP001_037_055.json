@@ -1,8 +1,8 @@
 {
   "checkpoint": "055",
   "source": "JumpUltimateStars_Japan_BanGiao_Cloud.zip",
-  "cp_last": 30,
-  "records": 19038,
+  "cp_last": 37,
+  "records": 23596,
   "files": {
     "01-huong-dan-001.jsonl": {
       "n": 281,
@@ -113,11 +113,47 @@
       "h2": 3411973237
     },
     "06-jquiz-002.jsonl": {
-      "n": 1429,
-      "next": 1429,
-      "h1": 1731450861,
-      "h2": 1727686346
+      "n": 1932,
+      "next": 1932,
+      "h1": 2501478745,
+      "h2": 2027374392
+    },
+    "06-jquiz-003.jsonl": {
+      "n": 2121,
+      "next": 2121,
+      "h1": 2243848807,
+      "h2": 4197323006
+    },
+    "06-jquiz-004.jsonl": {
+      "n": 1930,
+      "next": 1930,
+      "h1": 3298219719,
+      "h2": 1614141990
+    },
+    "06-jquiz-005.jsonl": {
+      "n": 4,
+      "next": 4,
+      "h1": 3216829962,
+      "h2": 1612345117
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "name": "06-jquiz-001.jsonl",
+      "expected": {
+        "n": 1931,
+        "h1": 3135977205,
+        "h2": 1259602540
+      },
+      "actual": {
+        "n": 1931,
+        "next": 1931,
+        "h1": 1026306050,
+        "h2": 3411973237
+      }
+    }
+  ],
+  "audit_status": "FAIL",
+  "source_index_and_japanese_match": false,
+  "source_files_checked": 22
 }
