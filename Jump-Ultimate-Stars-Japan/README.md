@@ -1,6 +1,18 @@
-# Jump Ultimate Stars (Japan) — Checkpoint 052 (nhiệm vụ & hệ thống) 🇻🇳
+# Jump Ultimate Stars (Japan) — Checkpoint 053 (hệ thống & giới thiệu manga) 🇻🇳
 
-**Tiến độ: 33.680 / 34.919 (96,45%)** — thêm **505 chuỗi Nhật–Việt** trong CP052; còn **1.239 chuỗi**.
+**Tiến độ: 34.187 / 34.919 (97,90%)** — thêm **507 chuỗi Nhật–Việt** trong CP053; còn **732 chuỗi**.
+
+## Mới nhất — Checkpoint 053: hệ thống & giới thiệu manga (20/11/2026)
+
+Hoàn thành **507 chuỗi** trong `00-he-thong-ten-goi-001.jsonl`, từ `row_index=240` đến **746**, liền mạch và đối chiếu ZIP Nhật gốc. Mảng gồm: giao tiếp DS/Wi-Fi/Deck (92); tên manga/cảnh (60); nhân vật (42); địa danh (90); đoạn giới thiệu manga (223). Đã phân biệt **Ichitaka Seto** và **Itsuki Akiba** theo glossary.
+
+- [BAN_DICH_053.jsonl](BAN_DICH_053.jsonl) — 507 bản ghi mới, không lặp CP052.
+- [BAN_DICH_053.tsv](BAN_DICH_053.tsv) — bảng Nhật–Việt và số byte UTF-8.
+- [QA_053.json](QA_053.json) / [BAN_GIAO_053.md](BAN_GIAO_053.md) — QA và hướng dẫn bàn giao.
+- [NGUON_CHUA_DICH_SAU_053.jsonl](NGUON_CHUA_DICH_SAU_053.jsonl) — chính xác **732 bản ghi Nhật chưa dịch**.
+- [TAO_TONG_HOP_053.py](TAO_TONG_HOP_053.py) — script dựng bản gộp toàn bộ CP001–053 từ delta/overlay khi chạy trong repo. Bản gộp CP038–053 (**10.591 ID**) được đính kèm trong ZIP CP053; đã giữ 10 đính chính CP050A.
+
+**Tiếp CP054:** `00-he-thong-ten-goi-001.jsonl`, dòng **747–1230 (484 ID)**; sau đó `00-he-thong-ten-goi-002.jsonl` **0–247 (248 ID)**. Giữ mạch giới thiệu manga, tên riêng và ngữ cảnh. Phần `00` không khai báo giới hạn byte cố định: đã QA ID/JA/token/NFC, nhưng **chưa xác minh độ rộng pixel, font hoặc patch ROM NDS**.
 
 ## Mới nhất — Checkpoint 052: nhiệm vụ + hệ thống (20/11/2026)
 
