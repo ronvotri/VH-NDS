@@ -1,8 +1,8 @@
 {
   "checkpoint": "055",
   "source": "JumpUltimateStars_Japan_BanGiao_Cloud.zip",
-  "cp_last": 10,
-  "records": 6022,
+  "cp_last": 20,
+  "records": 12452,
   "files": {
     "01-huong-dan-001.jsonl": {
       "n": 281,
@@ -41,10 +41,46 @@
       "h2": 1963335734
     },
     "04-koma-chieu-thuc-002.jsonl": {
-      "n": 366,
-      "next": 366,
-      "h1": 1747011163,
-      "h2": 868126318
+      "n": 1364,
+      "next": 1364,
+      "h1": 2090714009,
+      "h2": 661463974
+    },
+    "04-koma-chieu-thuc-003.jsonl": {
+      "n": 1007,
+      "next": 1007,
+      "h1": 3877681839,
+      "h2": 3860866852
+    },
+    "05-thu-vien-nhan-vat-001.jsonl": {
+      "n": 967,
+      "next": 967,
+      "h1": 791983381,
+      "h2": 422040874
+    },
+    "05-thu-vien-nhan-vat-002.jsonl": {
+      "n": 963,
+      "next": 963,
+      "h1": 2685396659,
+      "h2": 3160833782
+    },
+    "05-thu-vien-nhan-vat-003.jsonl": {
+      "n": 945,
+      "next": 945,
+      "h1": 2318794167,
+      "h2": 2178885692
+    },
+    "05-thu-vien-nhan-vat-004.jsonl": {
+      "n": 949,
+      "next": 949,
+      "h1": 3120451546,
+      "h2": 2038503061
+    },
+    "05-thu-vien-nhan-vat-005.jsonl": {
+      "n": 601,
+      "next": 601,
+      "h1": 3612923211,
+      "h2": 1823607072
     }
   },
   "errors": []
