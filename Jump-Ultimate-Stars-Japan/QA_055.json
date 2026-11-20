@@ -1,0 +1,63 @@
+{
+  "game": "Jump Ultimate Stars (Japan) AJUJ",
+  "checkpoint": "055",
+  "date": "2026-11-20",
+  "source_zip": "JumpUltimateStars_Japan_BanGiao_Cloud.zip",
+  "source_zip_sha256": "14e839a35e75f35534a93a1b37ebe42731ea530fbc012267b45bbbed8446f241",
+  "source_file_count": 30,
+  "source_total_unique_ids": 34919,
+  "previous_translated": 34671,
+  "new_translated": 248,
+  "cp001_037_history_reported_ids": 23596,
+  "cp038_055_verified_merged_ids": 11323,
+  "translation_total_by_checkpoint_sum": 34919,
+  "remaining_by_checkpoint_sum": 0,
+  "progress_percent": 100.0,
+  "new_source_file": "00-he-thong-ten-goi-002.jsonl",
+  "new_row_range": [
+    0,
+    247
+  ],
+  "new_source_id_matches": true,
+  "new_ja_and_metadata_matches": true,
+  "new_unique_ids": true,
+  "new_ideosp_control_token_matches": true,
+  "new_unicode_normalized_nfc": true,
+  "new_fixed_field_limits_where_declared": true,
+  "new_fixed_field_length_rows": 0,
+  "new_vi_max_unicode_codepoints": 63,
+  "new_vi_max_utf8_bytes": 85,
+  "cp050a_10_corrections_retained": true,
+  "new_source_context_counts": {
+    "bin/piece.bin": 126,
+    "bin/pname.bin": 89,
+    "bin/stage.bin": 32,
+    "bin/title.bin": 1
+  },
+  "full_001_055_delta_audited_against_source": true,
+  "full_all_34919_ids_audited_against_source": true,
+  "nds_rom_patch_built": false,
+  "font_pixel_qa_done": false,
+  "manual_translation_accuracy_audit_complete": false,
+  "notes": [
+    "100% is source string coverage verified by on-branch CP001-037 audit plus CP038-055 local original-source comparison.",
+    "CP026 651 quiz entries were missing original quiz_context; fixed on branch without changing Japanese, IDs, position, or translations; reaudited source digests PASS.",
+    "Older CP001-037 delta formats omit some source auxiliary fields (group/context/uses); their core file, row_index, id, ja, quiz_context checked. CP038-055 checked all present fields except vi.",
+    "No byte cap declared in original source for CP055 strings. Preserved source token count and Unicode normalization; ROM binary layout, pixel font, line rendering untested.",
+    "Row 0 continues Midori Makibao introduction from CP054 row 1230.",
+    "Rows 119 and 120 preserve each of the 3 IDEOSP source tokens; speech continues through row 121.",
+    "Ransen Festival spelling and other less common stage/title romanizations need in-game QA and manga reference review.",
+    "CP050A 10 quiz term/correctness corrections preserved in merged CP038-055."
+  ],
+  "sha256": {
+    "BAN_DICH_055.jsonl": "56d132b0fd24fe853820efcd9269eb76083da88443a56b6e9f6c59d6b7c81c80",
+    "BAN_DICH_055.tsv": "09179a99db6479e002317114b6f6193c8b82aeb2c0a3c14131d60c0435aaaae5",
+    "BAN_DICH_TONG_HOP_038-055.jsonl": "a7373dc3c85c53053ff6f9f3f4dccf85b8d03f00fe696d6d99113766e1f44dac"
+  },
+  "full_audit_verification_level": "CP001-037: all 23,596 IDs and JA, row_index, file, quiz_context match original source via dual rolling digests across 22 source files; CP038-055: all 11,323 original fields match source via direct local comparison.",
+  "legacy_qa_source_reference": "Jump-Ultimate-Stars-Japan/KIEM_TOAN_CP001_037_055.json (audit_status PASS)",
+  "legacy_qa_github_commit": "97922813e50d23c1e64061bdd1998186aaece74f",
+  "cp026_quiz_context_repaired_rows": 651,
+  "cp026_metadata_repair_commit": "ed0c6672ab9cf9221adcfca33a58c6a33712987c",
+  "full_unique_source_coverage_verified": true
+}
