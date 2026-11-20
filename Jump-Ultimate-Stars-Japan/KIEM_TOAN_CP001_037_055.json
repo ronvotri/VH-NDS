@@ -1,8 +1,8 @@
 {
   "checkpoint": "055",
   "source": "JumpUltimateStars_Japan_BanGiao_Cloud.zip",
-  "cp_last": 20,
-  "records": 12452,
+  "cp_last": 30,
+  "records": 19038,
   "files": {
     "01-huong-dan-001.jsonl": {
       "n": 281,
@@ -77,10 +77,46 @@
       "h2": 2038503061
     },
     "05-thu-vien-nhan-vat-005.jsonl": {
-      "n": 601,
-      "next": 601,
-      "h1": 3612923211,
-      "h2": 1823607072
+      "n": 957,
+      "next": 957,
+      "h1": 2783270125,
+      "h2": 2946409616
+    },
+    "05-thu-vien-nhan-vat-006.jsonl": {
+      "n": 945,
+      "next": 945,
+      "h1": 1579890395,
+      "h2": 60705686
+    },
+    "05-thu-vien-nhan-vat-007.jsonl": {
+      "n": 958,
+      "next": 958,
+      "h1": 3462709565,
+      "h2": 2494063146
+    },
+    "05-thu-vien-nhan-vat-008.jsonl": {
+      "n": 955,
+      "next": 955,
+      "h1": 100402969,
+      "h2": 2752257880
+    },
+    "05-thu-vien-nhan-vat-009.jsonl": {
+      "n": 12,
+      "next": 12,
+      "h1": 3265243112,
+      "h2": 146439667
+    },
+    "06-jquiz-001.jsonl": {
+      "n": 1931,
+      "next": 1931,
+      "h1": 1026306050,
+      "h2": 3411973237
+    },
+    "06-jquiz-002.jsonl": {
+      "n": 1429,
+      "next": 1429,
+      "h1": 1731450861,
+      "h2": 1727686346
     }
   },
   "errors": []
