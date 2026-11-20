@@ -1,6 +1,16 @@
-# Jump Ultimate Stars (Japan) — Checkpoint 050 🇻🇳
+# Jump Ultimate Stars (Japan) — Checkpoint 051 (QA CP050A) 🇻🇳
 
 **Tiến độ: 32.746 / 34.919 (93,78%)** — thêm **735 chuỗi Nhật–Việt mới** so với CP049; còn **2.173 chuỗi**.
+
+## Mới nhất — Đính chính CP050A trong CP051 (20/11/2026)
+
+**10 dòng sửa có xác minh; 0 ID dịch mới.** Phục hồi câu hỏi và bốn đáp án về mẹ Hiei (842–846), tách hai câu hỏi Kurama/Raizen (847–849), sửa hai tên thẻ Yu-Gi-Oh! theo nguồn chính thức (1230, 1350). Dữ liệu `ja`, `id`, `quiz_context`, thứ tự đáp án và số liệu **32.746/34.919** không đổi.
+
+- [BAN_DINH_CHINH_050A.jsonl](BAN_DINH_CHINH_050A.jsonl) — ghi đè chỉ trường `vi` của 10 ID, không cộng ID.
+- [AP_DINH_CHINH_050A.py](AP_DINH_CHINH_050A.py) — script tái tạo merged có sửa; tệp merged cũ chưa được sửa trực tiếp.
+- [QA_050A.json](QA_050A.json) và [BAN_GIAO_051.md](BAN_GIAO_051.md) — QA, hướng dẫn bàn giao.
+
+**CP051 chưa thể tiếp tục Deck/Credits hoặc 1.744 ID thiếu:** ZIP nguồn Nhật trong phiên lưu trữ cũ hiện không đọc được. Chỉ dịch bổ sung khi có nguồn kiểm tra được.
 
 ## Mới nhất — Checkpoint 050 (20/11/2026)
 
