@@ -1,0 +1,430 @@
+file	row_index	id	ja	vi	utf8_bytes	field_bytes	context
+07-deck-001.jsonl	0	JUS-8b5cdae808a8d16cd824	ＳＳ１	SS1	3	28	deck/Deck.aar::deck/jadv/000.bin;deck/Deck.aar::deck/jadv/023.bin
+07-deck-001.jsonl	1	JUS-e3a2aa64ed10dd3661c7	ちゅーとりぁる１	Hướng dẫn 1	16	28	deck/Deck.aar::deck/jadv/001.bin
+07-deck-001.jsonl	2	JUS-08bc2ae546decd695469	ちゅ～とりある２	Hướng dẫn 2	16	28	deck/Deck.aar::deck/jadv/002.bin
+07-deck-001.jsonl	3	JUS-9a874e5a48142274d6b3	ＯＰ１	OP1	3	28	deck/Deck.aar::deck/jadv/003.bin
+07-deck-001.jsonl	4	JUS-25703f14fcdbcc20b6c5	ＯＰ２	OP2	3	28	deck/Deck.aar::deck/jadv/004.bin
+07-deck-001.jsonl	5	JUS-e91cf9d61f0430da6280	ＯＰ３Ｍ	OP3M	4	28	deck/Deck.aar::deck/jadv/005.bin
+07-deck-001.jsonl	6	JUS-b51a256a97c374a00e69	ＨＨ１	HH1	3	28	deck/Deck.aar::deck/jadv/006.bin
+07-deck-001.jsonl	7	JUS-46b553ea1167fa56b8c2	ＨＨ２	HH2	3	28	deck/Deck.aar::deck/jadv/007.bin
+07-deck-001.jsonl	8	JUS-0e5b637394af2d8823b9	せいや	Seiya	5	28	deck/Deck.aar::deck/jadv/008.bin
+07-deck-001.jsonl	9	JUS-56f4b01849741de66e31	ＢＣ１	BC1	3	28	deck/Deck.aar::deck/jadv/009.bin
+07-deck-001.jsonl	10	JUS-3e0bd6c26123239195fd	ＢＣ２	BC2	3	28	deck/Deck.aar::deck/jadv/010.bin
+07-deck-001.jsonl	11	JUS-754de676cd37438ac2ee	ＮＲ１	NR1	3	28	deck/Deck.aar::deck/jadv/011.bin
+07-deck-001.jsonl	12	JUS-35d7610818612520385e	ＮＮ２	NN2	3	28	deck/Deck.aar::deck/jadv/012.bin
+07-deck-001.jsonl	13	JUS-7e9e240b144e3af56f45	ＭＲ１	MR1	3	28	deck/Deck.aar::deck/jadv/013.bin
+07-deck-001.jsonl	14	JUS-075ccbb3bedb3a9ffb90	ＭＲ２	MR2	3	28	deck/Deck.aar::deck/jadv/014.bin
+07-deck-001.jsonl	15	JUS-db101840499725bd23e8	ＤＧ１	DG1	3	28	deck/Deck.aar::deck/jadv/015.bin
+07-deck-001.jsonl	16	JUS-70246613d34e3f52b5ce	ＤＧ２	DG2	3	28	deck/Deck.aar::deck/jadv/016.bin
+07-deck-001.jsonl	17	JUS-33e82d5dc79b72943a54	ＤＢ１	DB1	3	28	deck/Deck.aar::deck/jadv/017.bin
+07-deck-001.jsonl	18	JUS-371fe9570c896d50a98d	ＤＢ２	DB2	3	28	deck/Deck.aar::deck/jadv/018.bin
+07-deck-001.jsonl	19	JUS-d42d4da054648804f83a	ＤＢ３	DB3	3	28	deck/Deck.aar::deck/jadv/019.bin
+07-deck-001.jsonl	20	JUS-5ef6455589ffe6a31467	ＤＢ４	DB4	3	28	deck/Deck.aar::deck/jadv/020.bin
+07-deck-001.jsonl	21	JUS-138b94d21061ddf949d3	ＤＢ５	DB5	3	28	deck/Deck.aar::deck/jadv/021.bin
+07-deck-001.jsonl	22	JUS-20a23828b913b38f69f3	ＤＢ６	DB6	3	28	deck/Deck.aar::deck/jadv/022.bin
+07-deck-001.jsonl	23	JUS-bb25bfe026b54042b28b	ＳＳ２	SS2	3	28	deck/Deck.aar::deck/jadv/024.bin
+07-deck-001.jsonl	24	JUS-e421f2422e2beb7519e7	ＳＳ３	SS3	3	28	deck/Deck.aar::deck/jadv/025.bin
+07-deck-001.jsonl	25	JUS-b1f004dc999291c5e2f9	ＲＢ１	RB1	3	28	deck/Deck.aar::deck/jadv/026.bin
+07-deck-001.jsonl	26	JUS-0eec84660ce9f86bc2e5	ＲＢ２	RB2	3	28	deck/Deck.aar::deck/jadv/027.bin
+07-deck-001.jsonl	27	JUS-f984ddfbc74b3bbcec3d	ＲＢ３	RB3	3	28	deck/Deck.aar::deck/jadv/028.bin
+07-deck-001.jsonl	28	JUS-7bd9dd26326e09bb6255	ＤＮ１	DN1	3	28	deck/Deck.aar::deck/jadv/029.bin
+07-deck-001.jsonl	29	JUS-9eb4b449c4ee94f9fa09	ＤＮ２	DN2	3	28	deck/Deck.aar::deck/jadv/030.bin
+07-deck-001.jsonl	30	JUS-e3b853bc67f904a9b4c6	ＨＥ１	HE1	3	28	deck/Deck.aar::deck/jadv/031.bin
+07-deck-001.jsonl	31	JUS-ee7ee50a0b3b5b69b314	ＨＥ２	HE2	3	28	deck/Deck.aar::deck/jadv/032.bin
+07-deck-001.jsonl	32	JUS-3e750db7a8709837fd8f	ＨＥ３	HE3	3	28	deck/Deck.aar::deck/jadv/033.bin
+07-deck-001.jsonl	33	JUS-3ad193cc72b3b7e344be	ＹＯ１	YO1	3	28	deck/Deck.aar::deck/jadv/034.bin
+07-deck-001.jsonl	34	JUS-43571f8d66f4e35bac76	ＹＯ２	YO2	3	28	deck/Deck.aar::deck/jadv/035.bin
+07-deck-001.jsonl	35	JUS-aea01ae5c50f2e6d1d9b	ＫＭ１	KM1	3	28	deck/Deck.aar::deck/jadv/036.bin;deck/Deck.aar::deck/jadv/106.bin;deck/Deck.aar::deck/jadv/124.bin
+07-deck-001.jsonl	36	JUS-0db6a898c8230e0c85ac	ＫＭ２	KM2	3	28	deck/Deck.aar::deck/jadv/037.bin
+07-deck-001.jsonl	37	JUS-1e438af98119b5f0bf16	ＫＭ３	KM3	3	28	deck/Deck.aar::deck/jadv/038.bin
+07-deck-001.jsonl	38	JUS-daead3b4d8ababe04e52	ＫＭ４	KM4	3	28	deck/Deck.aar::deck/jadv/039.bin
+07-deck-001.jsonl	39	JUS-e5fe0b181c508232f88b	ＫＭ５	KM5	3	28	deck/Deck.aar::deck/jadv/040.bin
+07-deck-001.jsonl	40	JUS-878b9ac71309000c38ef	ＫＮ６	KN6	3	28	deck/Deck.aar::deck/jadv/041.bin
+07-deck-001.jsonl	41	JUS-14b7c6f2e1d08882ed75	ＫＭ７	KM7	3	28	deck/Deck.aar::deck/jadv/042.bin
+07-deck-001.jsonl	42	JUS-363bb9b78aedb325ef1f	ＴＺ１	TZ1	3	28	deck/Deck.aar::deck/jadv/043.bin
+07-deck-001.jsonl	43	JUS-59c4f66591626ea522f2	ＴＺ２	TZ2	3	28	deck/Deck.aar::deck/jadv/044.bin
+07-deck-001.jsonl	44	JUS-7b62798f846e3d07c46a	ＮＫ１	NK1	3	28	deck/Deck.aar::deck/jadv/045.bin
+07-deck-001.jsonl	45	JUS-fd60697c19730b0b1173	ＮＫ２	NK2	3	28	deck/Deck.aar::deck/jadv/046.bin
+07-deck-001.jsonl	46	JUS-ca007102adb601a06190	ＮＡ１	NA1	3	28	deck/Deck.aar::deck/jadv/047.bin
+07-deck-001.jsonl	47	JUS-3d5a179c3130914a6633	ＮＡ２	NA2	3	28	deck/Deck.aar::deck/jadv/048.bin
+07-deck-001.jsonl	48	JUS-ce31b27b660def03d153	ＮＡ３	NA3	3	28	deck/Deck.aar::deck/jadv/049.bin
+07-deck-001.jsonl	49	JUS-8e92cb2d40e2286804ee	ＮＡ４Ｍ	NA4M	4	28	deck/Deck.aar::deck/jadv/050.bin
+07-deck-001.jsonl	50	JUS-567d79f84fe71f54e4cc	ＲＫ１	RK1	3	28	deck/Deck.aar::deck/jadv/051.bin
+07-deck-001.jsonl	51	JUS-44f67d4568acb8a680de	ＲＫ２	RK2	3	28	deck/Deck.aar::deck/jadv/052.bin
+07-deck-001.jsonl	52	JUS-a08141620312650ec645	ＲＫ３	RK3	3	28	deck/Deck.aar::deck/jadv/053.bin
+07-deck-001.jsonl	53	JUS-cbd97c635f96d3a30caa	ＲＫ４	RK4	3	28	deck/Deck.aar::deck/jadv/054.bin
+07-deck-001.jsonl	54	JUS-278b7904d3d78933e418	ＧＴ１	GT1	3	28	deck/Deck.aar::deck/jadv/055.bin
+07-deck-001.jsonl	55	JUS-58a7a41850f9bb6d8288	ＧＴ２	GT2	3	28	deck/Deck.aar::deck/jadv/056.bin
+07-deck-001.jsonl	56	JUS-2581d31b34f9a4f8fb7a	ＧＴ３	GT3	3	28	deck/Deck.aar::deck/jadv/057.bin
+07-deck-001.jsonl	57	JUS-c2bcf016d935e786d9ba	ＢＢ１	BB1	3	28	deck/Deck.aar::deck/jadv/058.bin
+07-deck-001.jsonl	58	JUS-75dbaafffa0981be7556	ＢＢ２	BB2	3	28	deck/Deck.aar::deck/jadv/059.bin
+07-deck-001.jsonl	59	JUS-2a36ddb68c190bd6cb79	ＢＢ３	BB3	3	28	deck/Deck.aar::deck/jadv/060.bin
+07-deck-001.jsonl	60	JUS-34166e29c5a58b5766af	ＢＢ４	BB4	3	28	deck/Deck.aar::deck/jadv/061.bin
+07-deck-001.jsonl	61	JUS-362976dc5353f5928599	ＰＪ	PJ	2	28	deck/Deck.aar::deck/jadv/062.bin
+07-deck-001.jsonl	62	JUS-9863d35ea5ddd510b654	ＰＪ２	PJ2	3	28	deck/Deck.aar::deck/jadv/063.bin
+07-deck-001.jsonl	63	JUS-ac63d156d5b98e70b2a1	ＰＪ３	PJ3	3	28	deck/Deck.aar::deck/jadv/064.bin
+07-deck-001.jsonl	64	JUS-687389262c143e505b10	ＴＲ１	TR1	3	28	deck/Deck.aar::deck/jadv/065.bin;deck/Deck.aar::deck/jadv/122.bin
+07-deck-001.jsonl	65	JUS-43ae896bc3bbbca5f801	ＴＲ２	TR2	3	28	deck/Deck.aar::deck/jadv/066.bin;deck/Deck.aar::deck/jadv/123.bin
+07-deck-001.jsonl	66	JUS-edb3c66746234659ed25	ＴＲ３	TR3	3	28	deck/Deck.aar::deck/jadv/067.bin
+07-deck-001.jsonl	67	JUS-5e62d44ca9ec4c694850	ＴＲ４	TR4	3	28	deck/Deck.aar::deck/jadv/068.bin
+07-deck-001.jsonl	68	JUS-799341da70c421ed2b5a	ＴＯ１	TO1	3	28	deck/Deck.aar::deck/jadv/069.bin
+07-deck-001.jsonl	69	JUS-8cdd935eaf61b25a9572	ＴＯ２	TO2	3	28	deck/Deck.aar::deck/jadv/070.bin
+07-deck-001.jsonl	70	JUS-0319c2d4fca15b77a50a	ＴＯ３	TO3	3	28	deck/Deck.aar::deck/jadv/071.bin
+07-deck-001.jsonl	71	JUS-d3aaceefeaefa8c5d7e8	ＴＯ４	TO4	3	28	deck/Deck.aar::deck/jadv/072.bin
+07-deck-001.jsonl	72	JUS-dbfc1bfaa3f2cc8c5d29	ＣＴ１	CT1	3	28	deck/Deck.aar::deck/jadv/073.bin
+07-deck-001.jsonl	73	JUS-cb40aebbb18130d3e0d6	ＣＴ２	CT2	3	28	deck/Deck.aar::deck/jadv/074.bin
+07-deck-001.jsonl	74	JUS-0e0a23d10c9cadd6ba00	ＳＤ１	SD1	3	28	deck/Deck.aar::deck/jadv/075.bin
+07-deck-001.jsonl	75	JUS-5d2eedca53c76c31df3c	ＳＤ２	SD2	3	28	deck/Deck.aar::deck/jadv/076.bin
+07-deck-001.jsonl	76	JUS-96931335564f141aaf30	ＳＤ３	SD3	3	28	deck/Deck.aar::deck/jadv/077.bin
+07-deck-001.jsonl	77	JUS-a32d83793d8a191e637f	ＥＳ１	ES1	3	28	deck/Deck.aar::deck/jadv/078.bin
+07-deck-001.jsonl	78	JUS-096b111e408aebd0710b	ＥＳ２	ES2	3	28	deck/Deck.aar::deck/jadv/079.bin
+07-deck-001.jsonl	79	JUS-7fe83c103757a9df36ce	ＥＳ３	ES3	3	28	deck/Deck.aar::deck/jadv/080.bin
+07-deck-001.jsonl	80	JUS-bf2224ba86caf2a92151	ＥＳ４	ES4	3	28	deck/Deck.aar::deck/jadv/081.bin
+07-deck-001.jsonl	81	JUS-c4a7ea09385434e6ee59	ＴＣ１	TC1	3	28	deck/Deck.aar::deck/jadv/082.bin
+07-deck-001.jsonl	82	JUS-a4bdb8fad18da5ea5295	ＴＣ２	TC2	3	28	deck/Deck.aar::deck/jadv/083.bin
+07-deck-001.jsonl	83	JUS-10183d6ff6ad13c96a41	ＯＪ１	OJ1	3	28	deck/Deck.aar::deck/jadv/084.bin
+07-deck-001.jsonl	84	JUS-741264adbb5af1785a18	ＯＪ２	OJ2	3	28	deck/Deck.aar::deck/jadv/085.bin
+07-deck-001.jsonl	85	JUS-99241850d237a3eb6be3	ＨＫ１	HK1	3	28	deck/Deck.aar::deck/jadv/086.bin
+07-deck-001.jsonl	86	JUS-5890d5bf47744f798755	ＨＫ２	HK2	3	28	deck/Deck.aar::deck/jadv/087.bin
+07-deck-001.jsonl	87	JUS-48900349e0fd2c30b562	ＨＫ３	HK3	3	28	deck/Deck.aar::deck/jadv/088.bin
+07-deck-001.jsonl	88	JUS-0e08496a7a33ce3f22aa	ＨＫ４	HK4	3	28	deck/Deck.aar::deck/jadv/089.bin
+07-deck-001.jsonl	89	JUS-18c9641277d4826ec5ff	ＨＫ５	HK5	3	28	deck/Deck.aar::deck/jadv/090.bin
+07-deck-001.jsonl	90	JUS-5af8bba011b4b2b2e98a	ＭＯ１	MO1	3	28	deck/Deck.aar::deck/jadv/091.bin
+07-deck-001.jsonl	91	JUS-4a5e7442b31799396b3c	ＭＯ２	MO2	3	28	deck/Deck.aar::deck/jadv/092.bin
+07-deck-001.jsonl	92	JUS-059b961e17283c08490e	ＮＢ１	NB1	3	28	deck/Deck.aar::deck/jadv/093.bin
+07-deck-001.jsonl	93	JUS-93ed14e688751ea2bf76	ＮＢ２	NB2	3	28	deck/Deck.aar::deck/jadv/094.bin
+07-deck-001.jsonl	94	JUS-73136f2eea07c81972de	ＹＨ１	YH1	3	28	deck/Deck.aar::deck/jadv/095.bin
+07-deck-001.jsonl	95	JUS-f8d62a9000640edfd0f4	ＹＨ２	YH2	3	28	deck/Deck.aar::deck/jadv/096.bin
+07-deck-001.jsonl	96	JUS-d526b864d560103b49ff	ＹＨ３	YH3	3	28	deck/Deck.aar::deck/jadv/097.bin
+07-deck-001.jsonl	97	JUS-c46127c84398fe645430	ＢＬ１	BL1	3	28	deck/Deck.aar::deck/jadv/098.bin
+07-deck-001.jsonl	98	JUS-6a59af6d91167c80c0a1	ＢＬ２	BL2	3	28	deck/Deck.aar::deck/jadv/099.bin
+07-deck-001.jsonl	99	JUS-3f2299a998d9ded56744	ＢＬ３	BL3	3	28	deck/Deck.aar::deck/jadv/100.bin
+07-deck-001.jsonl	100	JUS-1c516afe68e99fc82922	ＢＬ４	BL4	3	28	deck/Deck.aar::deck/jadv/101.bin
+07-deck-001.jsonl	101	JUS-41349ca8b536aa8dd84d	ＢＬ５	BL5	3	28	deck/Deck.aar::deck/jadv/102.bin
+07-deck-001.jsonl	102	JUS-1e47d075edebf026004b	ＳＫ１	SK1	3	28	deck/Deck.aar::deck/jadv/103.bin
+07-deck-001.jsonl	103	JUS-c3b407ef0386a9b584e7	ＳＫ２	SK2	3	28	deck/Deck.aar::deck/jadv/104.bin
+07-deck-001.jsonl	104	JUS-95a77abb92ff52abd553	ＢＵ１	BU1	3	28	deck/Deck.aar::deck/jadv/105.bin
+07-deck-001.jsonl	105	JUS-79c1eeb047ccad54591a	ＢＵ２	BU2	3	28	deck/Deck.aar::deck/jadv/107.bin
+07-deck-001.jsonl	106	JUS-9d59d0588920a3abec13	ＩＧ１	IG1	3	28	deck/Deck.aar::deck/jadv/108.bin
+07-deck-001.jsonl	107	JUS-3d9ebe451355303fb306	ＩＧ２	IG2	3	28	deck/Deck.aar::deck/jadv/109.bin
+07-deck-001.jsonl	108	JUS-98d7522d9c7aa0c2bd26	ＩＳ１	IS1	3	28	deck/Deck.aar::deck/jadv/110.bin
+07-deck-001.jsonl	109	JUS-f8da4ed8216677a49c71	ＩＳ２	IS2	3	28	deck/Deck.aar::deck/jadv/111.bin
+07-deck-001.jsonl	110	JUS-b4c8297e3a73bce074a6	ＤＳ１	DS1	3	28	deck/Deck.aar::deck/jadv/112.bin
+07-deck-001.jsonl	111	JUS-20d014969fb1603ff24a	ＤＳ２	DS2	3	28	deck/Deck.aar::deck/jadv/113.bin
+07-deck-001.jsonl	112	JUS-5a9d00f0a8d8fd4dcdbe	ＫＫ１	KK1	3	28	deck/Deck.aar::deck/jadv/114.bin
+07-deck-001.jsonl	113	JUS-58f7f5fd0a397a407680	ＫＫ２	KK2	3	28	deck/Deck.aar::deck/jadv/115.bin
+07-deck-001.jsonl	114	JUS-9068d4760964d7b9a7be	ＫＫ３	KK3	3	28	deck/Deck.aar::deck/jadv/116.bin
+07-deck-001.jsonl	115	JUS-75ff24733514933d99e2	ＣＢ１	CB1	3	28	deck/Deck.aar::deck/jadv/117.bin
+07-deck-001.jsonl	116	JUS-17cc424f382fbef5a073	ＣＢ２	CB2	3	28	deck/Deck.aar::deck/jadv/118.bin
+07-deck-001.jsonl	117	JUS-dbeb15a61ab341746ea9	ＪＪ１	JJ1	3	28	deck/Deck.aar::deck/jadv/119.bin
+07-deck-001.jsonl	118	JUS-1b4e3d4363498c60927d	ＪＪ２	JJ2	3	28	deck/Deck.aar::deck/jadv/120.bin
+07-deck-001.jsonl	119	JUS-08346f7d8c160eb857a7	ＪＪ３	JJ3	3	28	deck/Deck.aar::deck/jadv/121.bin
+07-deck-001.jsonl	120	JUS-5027eb3adadcd521884d	２Ｆ	Tầng 2	8	28	deck/Deck.aar::deck/jadv/125.bin
+07-deck-001.jsonl	121	JUS-85112d013500315e8a01	３Ｆ	Tầng 3	8	28	deck/Deck.aar::deck/jadv/126.bin
+07-deck-001.jsonl	122	JUS-b4c183ebbdc2d8304849	４Ｆ	Tầng 4	8	28	deck/Deck.aar::deck/jadv/127.bin
+07-deck-001.jsonl	123	JUS-1d2c8d70d31b2efd075a	５Ｆ	Tầng 5	8	28	deck/Deck.aar::deck/jadv/128.bin
+07-deck-001.jsonl	124	JUS-87ab2c2446a781cf8ed5	６Ｆ	Tầng 6	8	28	deck/Deck.aar::deck/jadv/129.bin
+07-deck-001.jsonl	125	JUS-f7059e2a42a1d5323235	７Ｆ	Tầng 7	8	28	deck/Deck.aar::deck/jadv/130.bin
+07-deck-001.jsonl	126	JUS-9a2c1c0783a4f7f45b6f	８Ｆ	Tầng 8	8	28	deck/Deck.aar::deck/jadv/131.bin
+07-deck-001.jsonl	127	JUS-19c8cef89734ab5da3f6	９Ｆ	Tầng 9	8	28	deck/Deck.aar::deck/jadv/132.bin
+07-deck-001.jsonl	128	JUS-1e8cddd2d7d287519c38	１０Ｆ	Tầng 10	9	28	deck/Deck.aar::deck/jadv/133.bin;deck/Deck.aar::deck/jadv/134.bin;deck/Deck.aar::deck/jadv/135.bin
+07-deck-001.jsonl	129	JUS-2326716127ab375eb27d	ましりとよう	Mashirito 1	11	28	deck/Deck.aar::deck/jadv/136.bin
+07-deck-001.jsonl	130	JUS-437c542a754e29da9a92	ましりとよう２	Mashirito 2	11	28	deck/Deck.aar::deck/jadv/137.bin
+07-deck-001.jsonl	131	JUS-c8b06fe14257d9b50b89	ＢＬ６Ｍ	BL6M	4	28	deck/Deck.aar::deck/jadv/138.bin
+07-deck-001.jsonl	132	JUS-0f1f25b6d484c57981d8	はんよう１	Deck chung 1	12	28	deck/Deck.aar::deck/jadv/139.bin
+07-deck-001.jsonl	133	JUS-1098cb55a3ab95c17ed1	はんよう２	Deck chung 2	12	28	deck/Deck.aar::deck/jadv/140.bin
+07-deck-001.jsonl	134	JUS-cf6f84557020af912882	ハンヨウ３	Deck chung 3	12	28	deck/Deck.aar::deck/jadv/141.bin
+07-deck-001.jsonl	135	JUS-68de37d729ec8eec2a35	ハンヨウ４	Deck chung 4	12	28	deck/Deck.aar::deck/jadv/142.bin
+07-deck-001.jsonl	136	JUS-2bdd2213b49f45b41612	ハンヨウ５	Deck chung 5	12	28	deck/Deck.aar::deck/jadv/143.bin
+07-deck-001.jsonl	137	JUS-e42549df8463eb21a093	ハンヨウ６	Deck chung 6	12	28	deck/Deck.aar::deck/jadv/144.bin
+07-deck-001.jsonl	138	JUS-f98bbf44c6fa1f5436f8	ハンヨウ７	Deck chung 7	12	28	deck/Deck.aar::deck/jadv/145.bin
+07-deck-001.jsonl	139	JUS-7197a80df18d284f35f8	ハンヨウ８	Deck chung 8	12	28	deck/Deck.aar::deck/jadv/146.bin
+07-deck-001.jsonl	140	JUS-9584c060da14aee121de	ハンヨウ９	Deck chung 9	12	28	deck/Deck.aar::deck/jadv/147.bin
+07-deck-001.jsonl	141	JUS-147cef6d4cd8db4fc879	ハンヨウ１０	Deck chung 10	13	28	deck/Deck.aar::deck/jadv/148.bin
+07-deck-001.jsonl	142	JUS-6fafb270f8adb30782c1	ハンヨウ１３	Deck chung 13	13	28	deck/Deck.aar::deck/jadv/149.bin;deck/Deck.aar::deck/jadv/152.bin
+07-deck-001.jsonl	143	JUS-7199749aa291cdee5f0d	ハンヨウ１１	Deck chung 11	13	28	deck/Deck.aar::deck/jadv/150.bin
+07-deck-001.jsonl	144	JUS-1114847c80a89d061a82	ハンヨウ１２	Deck chung 12	13	28	deck/Deck.aar::deck/jadv/151.bin
+07-deck-001.jsonl	145	JUS-1aa848004a5998cd5d29	ハンヨウ１４	Deck chung 14	13	28	deck/Deck.aar::deck/jadv/153.bin
+07-deck-001.jsonl	146	JUS-84bdaf7352877373d2c0	ハンヨウ１５	Deck chung 15	13	28	deck/Deck.aar::deck/jadv/154.bin
+07-deck-001.jsonl	147	JUS-3d8769cc90f19b44f581	ハンヨウ１６	Deck chung 16	13	28	deck/Deck.aar::deck/jadv/155.bin
+07-deck-001.jsonl	148	JUS-dc3423feeef3a772a76e	ハンヨウ１７	Deck chung 17	13	28	deck/Deck.aar::deck/jadv/156.bin
+07-deck-001.jsonl	149	JUS-88a2f6d1af7d7fe81da1	ハンヨウ１８	Deck chung 18	13	28	deck/Deck.aar::deck/jadv/157.bin
+07-deck-001.jsonl	150	JUS-5ceefc6ea160e585186b	ハンヨウ１９	Deck chung 19	13	28	deck/Deck.aar::deck/jadv/158.bin
+07-deck-001.jsonl	151	JUS-6b744e6830131f366149	ハンヨウ２０	Deck chung 20	13	28	deck/Deck.aar::deck/jadv/159.bin
+07-deck-001.jsonl	152	JUS-f5f3c950ecd4540011ca	ハンヨウ２１	Deck chung 21	13	28	deck/Deck.aar::deck/jadv/160.bin
+07-deck-001.jsonl	153	JUS-e08f9869c60760a372b5	ハンヨウ２２	Deck chung 22	13	28	deck/Deck.aar::deck/jadv/161.bin
+07-deck-001.jsonl	154	JUS-4a0301c6dd6986135288	ハンヨウ２３	Deck chung 23	13	28	deck/Deck.aar::deck/jadv/162.bin
+07-deck-001.jsonl	155	JUS-ae9691678b494aa3781a	ハンヨウ２４	Deck chung 24	13	28	deck/Deck.aar::deck/jadv/163.bin
+07-deck-001.jsonl	156	JUS-4277512aedbed534cb13	ハンヨウ２５	Deck chung 25	13	28	deck/Deck.aar::deck/jadv/164.bin
+07-deck-001.jsonl	157	JUS-96da5288374004f6c141	ハンヨウ２６	Deck chung 26	13	28	deck/Deck.aar::deck/jadv/165.bin
+07-deck-001.jsonl	158	JUS-126d1db64e4d3ec6ef5e	ハンヨウ２７	Deck chung 27	13	28	deck/Deck.aar::deck/jadv/166.bin
+07-deck-001.jsonl	159	JUS-c508d376621eb3f43b85	ハンヨウ２８	Deck chung 28	13	28	deck/Deck.aar::deck/jadv/167.bin
+07-deck-001.jsonl	160	JUS-cf96cb94b0624b6b5cf4	ハンヨウ２９	Deck chung 29	13	28	deck/Deck.aar::deck/jadv/168.bin
+07-deck-001.jsonl	161	JUS-4010637e0cde4aa4905f	ハンヨウ３０	Deck chung 30	13	28	deck/Deck.aar::deck/jadv/169.bin
+07-deck-001.jsonl	162	JUS-61ffa474d0e23d8fa4ae	ハンヨウ３１	Deck chung 31	13	28	deck/Deck.aar::deck/jadv/170.bin
+07-deck-001.jsonl	163	JUS-40e873bf0ea7502a8254	ハンヨウ３２	Deck chung 32	13	28	deck/Deck.aar::deck/jadv/171.bin
+07-deck-001.jsonl	164	JUS-61c8dcee5fd2026df5e6	ハンヨウ３３	Deck chung 33	13	28	deck/Deck.aar::deck/jadv/172.bin
+07-deck-001.jsonl	165	JUS-f7cb205486e103db3ddf	ハンヨウ３４	Deck chung 34	13	28	deck/Deck.aar::deck/jadv/173.bin
+07-deck-001.jsonl	166	JUS-2be690f03effb4952749	ハンヨウ３５	Deck chung 35	13	28	deck/Deck.aar::deck/jadv/174.bin
+07-deck-001.jsonl	167	JUS-f77b716694943ddd8e0e	こま１	Koma 1	6	28	deck/Deck.aar::deck/jadv/175.bin
+07-deck-001.jsonl	168	JUS-3bfe24ffc7b3ef134d1d	こま２	Koma 2	6	28	deck/Deck.aar::deck/jadv/176.bin
+07-deck-001.jsonl	169	JUS-7e9651220c4245b9d235	こま３	Koma 3	6	28	deck/Deck.aar::deck/jadv/177.bin
+07-deck-001.jsonl	170	JUS-0f58e6aabfff1b87d69b	こま４	Koma 4	6	28	deck/Deck.aar::deck/jadv/178.bin
+07-deck-001.jsonl	171	JUS-abd11a636c86ef6a9cd3	こま５	Koma 5	6	28	deck/Deck.aar::deck/jadv/179.bin
+07-deck-001.jsonl	172	JUS-5a84dbe3b581ffd41285	こま６	Koma 6	6	28	deck/Deck.aar::deck/jadv/180.bin
+07-deck-001.jsonl	173	JUS-4d4569aedf1c62cda5e6	ハンヨウ３６	Deck chung 36	13	28	deck/Deck.aar::deck/jadv/181.bin
+07-deck-001.jsonl	174	JUS-39e6aa085a7df2abb33b	ハンヨウ３７	Deck chung 37	13	28	deck/Deck.aar::deck/jadv/182.bin
+07-deck-001.jsonl	175	JUS-d2c7d69f78489639b746	ハンヨウ３８	Deck chung 38	13	28	deck/Deck.aar::deck/jadv/183.bin
+07-deck-001.jsonl	176	JUS-fdbfda5b771bb44e25db	ハンヨウ３９	Deck chung 39	13	28	deck/Deck.aar::deck/jadv/184.bin
+07-deck-001.jsonl	177	JUS-94cbd64feaafe3aef332	ハンヨウ４０	Deck chung 40	13	28	deck/Deck.aar::deck/jadv/185.bin
+07-deck-001.jsonl	178	JUS-5021d63a077e62e2a9ec	ハンヨウ４１	Deck chung 41	13	28	deck/Deck.aar::deck/jadv/186.bin
+07-deck-001.jsonl	179	JUS-e126b89b7b4a43f36165	ハンヨウ４２	Deck chung 42	13	28	deck/Deck.aar::deck/jadv/187.bin
+07-deck-001.jsonl	180	JUS-1468da58aa81067176f4	オレ！オレンジデッキ	Deck Cam Rực	14	28	deck/Deck.aar::deck/jard/000.bin
+07-deck-001.jsonl	181	JUS-b0a8acc09e64539cc38f	クールデッキ	Deck Lạnh Lùng	17	28	deck/Deck.aar::deck/jard/001.bin
+07-deck-001.jsonl	182	JUS-832d0188c1b9e56d26c3	ナックルアーム	Knuckle Arm	11	28	deck/Deck.aar::deck/jard/002.bin
+07-deck-001.jsonl	183	JUS-fd474f5b7bd82a4cc152	ナンバリングデッキ	Deck Đánh Số	16	28	deck/Deck.aar::deck/jard/003.bin
+07-deck-001.jsonl	184	JUS-83b3b03339f08e18d7bb	ＳＷＥＡＴ＆ＴＥＡＲＳ	SWEAT & TEARS	13	28	deck/Deck.aar::deck/jard/004.bin
+07-deck-001.jsonl	185	JUS-590c547b52371afd1f72	オリエンタルデッキ	Deck Phương Đông	20	28	deck/Deck.aar::deck/jard/005.bin
+07-deck-001.jsonl	186	JUS-2d668d456a21039efc16	おれはまけないデッキ	Deck Không Thua	16	28	deck/Deck.aar::deck/jard/006.bin
+07-deck-001.jsonl	187	JUS-5be3b5c98f67d3e732e6	ホースデッキ	Deck Ngựa	11	28	deck/Deck.aar::deck/jard/007.bin
+07-deck-001.jsonl	188	JUS-5c52b48a14b41de57121	シンメトリデッキ	Deck Đối Xứng	18	28	deck/Deck.aar::deck/jard/008.bin
+07-deck-001.jsonl	189	JUS-a2f5852c5e812c88bd22	さけびのデッキ	Deck Gào Thét	15	28	deck/Deck.aar::deck/jard/009.bin
+07-deck-001.jsonl	190	JUS-3276cb9b1f6c35fcd22b	そげきのおう	Vua Bắn Tỉa	15	28	deck/Deck.aar::deck/jard/010.bin
+07-deck-001.jsonl	191	JUS-4a66778c3059879ed431	キッカーズ	Kickers	7	28	deck/Deck.aar::deck/jard/011.bin
+07-deck-001.jsonl	192	JUS-4f7cec8a31c9ec1cde34	むてきサクラデッキ	Deck Sakura Bất Bại	23	28	deck/Deck.aar::deck/jard/012.bin
+07-deck-001.jsonl	193	JUS-9028359c8836c0fa45f6	スピードキング	Vua Tốc Độ	15	28	deck/Deck.aar::deck/jard/013.bin
+07-deck-001.jsonl	194	JUS-3c68d4e33abfe855e63d	ネクロマンサー	Necromancer	11	28	deck/Deck.aar::deck/jard/014.bin
+07-deck-001.jsonl	195	JUS-d2e5dbfbb2588be5d349	おわらいデッキ	Deck Hài Hước	17	28	deck/Deck.aar::deck/jard/015.bin
+07-deck-001.jsonl	196	JUS-09a5b13efff5294af0e0	ニンジャデッキ	Deck Ninja	10	28	deck/Deck.aar::deck/jard/016.bin
+07-deck-001.jsonl	197	JUS-60035478c7f86a3da825	しにがみデッキ	Deck Shinigami	14	28	deck/Deck.aar::deck/jard/017.bin
+07-deck-001.jsonl	198	JUS-1a26b83f5ce52c336033	ロボットデッキ	Deck Robot	10	28	deck/Deck.aar::deck/jard/018.bin
+07-deck-001.jsonl	199	JUS-abbef96d6efa50aa7416	パーマデッキ	Deck Tóc Xoăn	15	28	deck/Deck.aar::deck/jard/019.bin
+07-deck-001.jsonl	200	JUS-42c57bda680a05da3cba	ラッキーデッキ	Deck May Mắn	14	28	deck/Deck.aar::deck/jard/020.bin
+07-deck-001.jsonl	201	JUS-534df52fc9be6619ea4b	ゆびさしデッキ	Deck Chỉ Tay	14	28	deck/Deck.aar::deck/jard/021.bin
+07-deck-001.jsonl	202	JUS-7aa9803773109ae97161	メロリンデッキ	Deck Mê Mẩn	14	28	deck/Deck.aar::deck/jard/022.bin
+07-deck-001.jsonl	203	JUS-549be53069be99d93270	つくるひとたべるひとデッキ	Deck Nấu & Ăn	16	28	deck/Deck.aar::deck/jard/023.bin
+07-deck-001.jsonl	204	JUS-0eb40c1ff189c4a3eb37	ぶそうけんしん	Buso Kenshin	12	28	deck/Deck.aar::deck/jard/024.bin
+07-deck-001.jsonl	205	JUS-696fd570c2830b4532a9	プリティデッキ	Deck Xinh Xắn	15	28	deck/Deck.aar::deck/jard/025.bin
+07-deck-001.jsonl	206	JUS-ba6fa80a27cedfe810e8	さむらいデッキ	Deck Samurai	12	28	deck/Deck.aar::deck/jard/026.bin
+07-deck-001.jsonl	207	JUS-81353dd2b2ee7b470cd1	オラオラデッキ	Deck Ora Ora	12	28	deck/Deck.aar::deck/jard/027.bin
+07-deck-001.jsonl	208	JUS-09bf82d453818eb7311d	ツン×２ボーイズ	Tsundere Boys	13	28	deck/Deck.aar::deck/jard/028.bin
+07-deck-001.jsonl	209	JUS-cdd50ca7fd9b94852b0d	イタコデッキ	Deck Itako	10	28	deck/Deck.aar::deck/jard/029.bin;deck/Deck.aar::deck/priv/013.bin
+07-deck-001.jsonl	210	JUS-f1d4b5d591247dd039ad	ゆるでっき	Deck Nhẹ Nhàng	17	28	deck/Deck.aar::deck/jard/030.bin
+07-deck-001.jsonl	211	JUS-ecbc1e145fb51aa4d971	ハンターはくしょ	Hunter Hakusho	14	28	deck/Deck.aar::deck/jard/031.bin
+07-deck-001.jsonl	212	JUS-fc168fc2f19e8837e44a	ドラゴンスランプ	Dragon Slump	12	28	deck/Deck.aar::deck/jard/032.bin
+07-deck-001.jsonl	213	JUS-ca1fd4d2b1d9ec9fb91c	マシンガントレイン	Machine Gun Train	17	28	deck/Deck.aar::deck/jard/033.bin
+07-deck-001.jsonl	214	JUS-c4555f595fc0eceeac2f	ストロングガールズ	Strong Girls	12	28	deck/Deck.aar::deck/jard/034.bin
+07-deck-001.jsonl	215	JUS-38858a1d23d04a753ac0	フットボーラー	Footballer	10	28	deck/Deck.aar::deck/jard/035.bin
+07-deck-001.jsonl	216	JUS-15e0cb08de01b97be199	なのりをあげろ！デッキ	Deck Xưng Danh	15	28	deck/Deck.aar::deck/jard/036.bin
+07-deck-001.jsonl	217	JUS-93704b23005bfcf73121	パープルデッキ	Deck Tím	9	28	deck/Deck.aar::deck/jard/037.bin
+07-deck-001.jsonl	218	JUS-96fb274cbdc2d963989b	ハーレムデッキ	Deck Harem	10	28	deck/Deck.aar::deck/jard/038.bin
+07-deck-001.jsonl	219	JUS-d0f71d3a9021b50aaffa	アニマルデッキ	Deck Động Vật	18	28	deck/Deck.aar::deck/jard/039.bin
+07-deck-001.jsonl	220	JUS-62609669e66328c71254	ヨロイデッキ	Deck Áo Giáp	14	28	deck/Deck.aar::deck/jard/040.bin
+07-deck-001.jsonl	221	JUS-32303ef7d8abc58b4c09	リトルデッキ	Deck Bé Hạt Tiêu	20	28	deck/Deck.aar::deck/jard/041.bin
+07-deck-001.jsonl	222	JUS-20b5ef39246dce5f225c	カップルランデブー	Couple Rendezvous	17	28	deck/Deck.aar::deck/jard/042.bin
+07-deck-001.jsonl	223	JUS-f0a3022b67cb236fc750	スキンヘッズ	Đội Đầu Trọc	20	28	deck/Deck.aar::deck/jard/043.bin
+07-deck-001.jsonl	224	JUS-203627b83eaa2f599fe8	ロングヘアボーイズ	Boys Tóc Dài	14	28	deck/Deck.aar::deck/jard/044.bin
+07-deck-001.jsonl	225	JUS-2d2e89e16ccba40f97bd	ディフェンシブデッキ	Deck Phòng Thủ	17	28	deck/Deck.aar::deck/jard/045.bin
+07-deck-001.jsonl	226	JUS-b596883ea90d6ab4034d	アウトローデッキ	Deck Giang Hồ	15	28	deck/Deck.aar::deck/jard/046.bin
+07-deck-001.jsonl	227	JUS-7ea0c64292144aa0d8c7	ぼうしデッキ	Deck Đội Mũ	15	28	deck/Deck.aar::deck/jard/047.bin
+07-deck-001.jsonl	228	JUS-5db23d85cde349c6b90d	げんえいでっき	Deck Phân Thân	16	28	deck/Deck.aar::deck/jard/048.bin
+07-deck-001.jsonl	229	JUS-2576b2bb756d4d480d5a	めがねデッキ	Deck Kính Cận	16	28	deck/Deck.aar::deck/jard/049.bin
+07-deck-001.jsonl	230	JUS-cc132483e18f8e53e7b3	みかん！みかん！みかん！	Cam! Cam! Toàn là cam!	24	32	deck/Deck.aar::deck/jard/p000.bin
+07-deck-001.jsonl	231	JUS-4978c3a6e37d79ce15aa	つめたくしないでね	Đừng lạnh lùng với tui!	31	32	deck/Deck.aar::deck/jard/p001.bin
+07-deck-001.jsonl	232	JUS-3a47578ee051e1ecc5f9	コブシにウデにおぼえあり！	Đấm này có nghề!	23	32	deck/Deck.aar::deck/jard/p002.bin
+07-deck-001.jsonl	233	JUS-5a2af0d09d9e2bcff734	１から８までそろってます	Đủ số từ 1 đến 8!	27	32	deck/Deck.aar::deck/jard/p003.bin
+07-deck-001.jsonl	234	JUS-a03bdeaac8e44a311494	あせとなみだがキセキをおこす！	Mồ hôi hóa kỳ tích!	26	32	deck/Deck.aar::deck/jard/p004.bin
+07-deck-001.jsonl	235	JUS-010ef3cc003be0a6d599	おりえんたるアルヨ	Đậm chất phương Đông!	30	32	deck/Deck.aar::deck/jard/p005.bin
+07-deck-001.jsonl	236	JUS-01e2fac31156d8ed36a3	ひるむことなくたちむかえ！	Quyết không lùi!	20	32	deck/Deck.aar::deck/jard/p006.bin
+07-deck-001.jsonl	237	JUS-2a7e908f2dc58f6217c2	うまだけにウマがあう<IDEOSP>ウヒヒ	Ngựa hợp<IDEOSP>hí hí!	28	32	deck/Deck.aar::deck/jard/p007.bin
+07-deck-001.jsonl	238	JUS-72f8e18e6a548b65540a	じょうげさゆうたいしょう！	Đối xứng cả 4 phía!	27	32	deck/Deck.aar::deck/jard/p008.bin
+07-deck-001.jsonl	239	JUS-b20dee4162d69a62f1bf	ゴラァ！たましいのさけび！	Gào hết cỡ, chiến nào!	30	32	deck/Deck.aar::deck/jard/p009.bin
+07-deck-001.jsonl	240	JUS-e89678e0516677f20b4e	チクチクとおくからいくぜ！	Bắn xa đau nha!	18	32	deck/Deck.aar::deck/jard/p010.bin
+07-deck-001.jsonl	241	JUS-3ff7bbff9b3fe6fce79b	あしぐせのわるいひとたち	Toàn cao thủ sút bóng!	27	32	deck/Deck.aar::deck/jard/p011.bin
+07-deck-001.jsonl	242	JUS-ff4f67a4a0a94aa7d4ed	さいきょうのサクラ	Sakura vô địch đây!	25	32	deck/Deck.aar::deck/jard/p012.bin
+07-deck-001.jsonl	243	JUS-a36e3c5867f6293c62ee	オレのスピードについてこれるか？	Theo kịp tui không?	22	32	deck/Deck.aar::deck/jard/p013.bin
+07-deck-001.jsonl	244	JUS-c4a25a92bc48ab1cecff	ＫＯされてもよみがえる！	Gục rồi vẫn tái xuất!	30	32	deck/Deck.aar::deck/jard/p014.bin
+07-deck-001.jsonl	245	JUS-39deb88fecb6e400d935	わははははははははははははははは	Ha ha, cười xỉu!	21	32	deck/Deck.aar::deck/jard/p015.bin
+07-deck-001.jsonl	246	JUS-885d9d46e9d9abef2739	せっしゃニンジャでござるＹＯ	Ninja tới đây, YO!	22	32	deck/Deck.aar::deck/jard/p016.bin
+07-deck-001.jsonl	247	JUS-4b41ed8cda32902bb5b1	あのよでまってるぜ！	Hẹn gặp ở âm giới!	27	32	deck/Deck.aar::deck/jard/p017.bin
+07-deck-001.jsonl	248	JUS-b58b9b790262f80dbc2d	こんなキカイはめったにいない！	Máy móc hiếm có khó tìm!	31	32	deck/Deck.aar::deck/jard/p018.bin
+07-deck-001.jsonl	249	JUS-3821f8c9a77778c451a0	ちりちりをなめんじゃねぇ	Đừng khinh tóc xoăn nha!	29	32	deck/Deck.aar::deck/jard/p019.bin
+07-deck-001.jsonl	250	JUS-31036ea2e59ceae30ba0	しょうぶはときのうん<IDEOSP>ってね	Hên xui<IDEOSP>thôi!	22	32	deck/Deck.aar::deck/jard/p020.bin
+07-deck-001.jsonl	251	JUS-3008d45111781b5bee3e	ヒトをゆびさしちゃ<IDEOSP>いけません	Chỉ tay<IDEOSP>là xấu nha!	31	32	deck/Deck.aar::deck/jard/p021.bin
+07-deck-001.jsonl	252	JUS-26b0d239b72a18a1fd90	ラブストーム！	Bão tình yêu tới đây!	28	32	deck/Deck.aar::deck/jard/p022.bin
+07-deck-001.jsonl	253	JUS-a58fd300557b8e1f057a	りょうりにんとしょくつう	Đầu bếp gặp sành ăn!	29	32	deck/Deck.aar::deck/jard/p023.bin
+07-deck-001.jsonl	254	JUS-f4ff8460f9a1032d4792	ファンのあいをみよ！	Xem fan yêu tụi tui nè!	27	32	deck/Deck.aar::deck/jard/p024.bin
+07-deck-001.jsonl	255	JUS-886bf74f38a28c89383f	ゆうがでかれんでりりしいおとめ？	Dịu dàng hay oai vệ?	25	32	deck/Deck.aar::deck/jard/p025.bin
+07-deck-001.jsonl	256	JUS-64a3ecd06f9a828fdc20	さわるとケガするぜ	Chạm là ăn đòn!	21	32	deck/Deck.aar::deck/jard/p026.bin
+07-deck-001.jsonl	257	JUS-71d2ba026d235e589c49	オラオラのつどい	Hội Ora Ora tập hợp!	26	32	deck/Deck.aar::deck/jard/p027.bin
+07-deck-001.jsonl	258	JUS-b56058473eb8bd1ae222	いまハヤリのツンデレでしょうぶ！	Tsundere đang là mốt đó!	30	32	deck/Deck.aar::deck/jard/p028.bin
+07-deck-001.jsonl	259	JUS-4b4f68dd37c7e5cb6f17	いちどしんだきがします	Vừa chết rồi sao?	23	32	deck/Deck.aar::deck/jard/p029.bin
+07-deck-001.jsonl	260	JUS-ac39df8e9cc2af5be953	ま～てきと～にやりましょ～	Thôi, cứ chơi thư thư~	28	32	deck/Deck.aar::deck/jard/p030.bin
+07-deck-001.jsonl	261	JUS-ae88486df30280d8eb53	あいしょうバッチリのコラボデッキ	Kết hợp cực kỳ ăn ý!	30	32	deck/Deck.aar::deck/jard/p031.bin
+07-deck-001.jsonl	262	JUS-606a1cb402c0109d69a7	そのつよさは<IDEOSP>うちゅうスケール	Mạnh<IDEOSP>tầm vũ trụ!	30	32	deck/Deck.aar::deck/jard/p032.bin
+07-deck-001.jsonl	263	JUS-feeef1f55b8035bb7bbd	１２ひっさつたましいでうちまくり	Bắn tung 12 tuyệt kỹ!	27	32	deck/Deck.aar::deck/jard/p033.bin
+07-deck-001.jsonl	264	JUS-fffa3151f59b25c9750a	つよいおねえさんはスキですか？	Thích chị đại không?	27	32	deck/Deck.aar::deck/jard/p034.bin
+07-deck-001.jsonl	265	JUS-0fdf9906fe741d8d7394	めざせ！２０１０ＷＣせいは！	Hướng tới World Cup 2010!	30	32	deck/Deck.aar::deck/jard/p035.bin
+07-deck-001.jsonl	266	JUS-9a1c1a42d428473014a2	しょうぶのまえに<IDEOSP>まずなのれ！	Đấu<IDEOSP>xưng danh!	25	32	deck/Deck.aar::deck/jard/p036.bin
+07-deck-001.jsonl	267	JUS-497f1ba5533f81e787f2	むらさきでそめあげてみました	Nhuộm cả đội màu tím!	30	32	deck/Deck.aar::deck/jard/p037.bin
+07-deck-001.jsonl	268	JUS-f553b3123972552e8e23	あるいみ、オレはすでにかっている	Tui thắng sẵn rồi!	24	32	deck/Deck.aar::deck/jard/p038.bin
+07-deck-001.jsonl	269	JUS-d79099f9ef2af5086fb8	どうぶつにかこまれてしあわせです	Ở cùng thú vui ghê!	24	32	deck/Deck.aar::deck/jard/p039.bin
+07-deck-001.jsonl	270	JUS-4c10ad08be533333849b	よろいでみをかためたせんしたち！	Giáp kín người, chiến!	29	32	deck/Deck.aar::deck/jard/p040.bin
+07-deck-001.jsonl	271	JUS-5d6ce1a4f38e8a622ef9	ちいさいことはいいことだとおもう	Nhỏ mà có võ nha!	22	32	deck/Deck.aar::deck/jard/p041.bin
+07-deck-001.jsonl	272	JUS-ebb211f8abc167486d24	５くみのカップルせいぞろい	Đủ cả năm cặp đôi!	28	32	deck/Deck.aar::deck/jard/p042.bin
+07-deck-001.jsonl	273	JUS-8a773e497124e8f0c628	シャイニングヘーーーーッド！	Đầu trọc sáng lóa!	25	32	deck/Deck.aar::deck/jard/p043.bin
+07-deck-001.jsonl	274	JUS-1d7576ce0e3c122b46d7	ロンゲってしごかしら？	Tóc dài là nghề à?	24	32	deck/Deck.aar::deck/jard/p044.bin
+07-deck-001.jsonl	275	JUS-66f167c5781dc6f9cc3d	しゅびこそさいだいのせんりゃく！	Phòng thủ là số 1!	24	32	deck/Deck.aar::deck/jard/p045.bin
+07-deck-001.jsonl	276	JUS-6949a3f3191af8e54da6	けんかはおとこのはなみち	Đánh là chất đàn ông!	29	32	deck/Deck.aar::deck/jard/p046.bin
+07-deck-001.jsonl	277	JUS-2492b6c263a68e806e1f	みんなぼうしをかぶってます	Ai cũng đội mũ nè!	24	32	deck/Deck.aar::deck/jard/p047.bin
+07-deck-001.jsonl	278	JUS-11ad608f5b492843049b	ぶんしんしまくりデッキです	Toàn cao thủ phân thân!	28	32	deck/Deck.aar::deck/jard/p048.bin
+07-deck-001.jsonl	279	JUS-3023623510fc3c3a397a	みんなホントにめがわるいのかな？	Ai cũng cận thật sao?	26	32	deck/Deck.aar::deck/jard/p049.bin
+07-deck-001.jsonl	280	JUS-1c48ab34de0448700f3f	むぎわらのいちみ	Băng Mũ Rơm	14	28	deck/Deck.aar::deck/jarg/000.bin
+07-deck-001.jsonl	281	JUS-c57157dad3d1eccf45a4	ＢＬＥＡＣＨデッキ	Deck BLEACH	11	28	deck/Deck.aar::deck/jarg/001.bin
+07-deck-001.jsonl	282	JUS-245f95824385789549fd	ツナファミリー	Gia đình Tsuna	16	28	deck/Deck.aar::deck/jarg/002.bin
+07-deck-001.jsonl	283	JUS-4a729faa36e8a0808d8f	ぎんたまれんごう	Liên minh Gintama	18	28	deck/Deck.aar::deck/jarg/003.bin
+07-deck-001.jsonl	284	JUS-cdb3e656884a8cc001ca	ムヒョデッキ	Deck Muhyo	10	28	deck/Deck.aar::deck/jarg/004.bin
+07-deck-001.jsonl	285	JUS-8aebc3d634c911bc115b	ドラゴンボールデッキ	Deck Dragon Ball	16	28	deck/Deck.aar::deck/jarg/005.bin
+07-deck-001.jsonl	286	JUS-ec267580aeb0ddad23e4	コスモデッキ	Deck Cosmos	11	28	deck/Deck.aar::deck/jarg/006.bin
+07-deck-001.jsonl	287	JUS-606cb2ae3b75f40e81e3	きんにくデッキ	Deck Kinnikuman	15	28	deck/Deck.aar::deck/jarg/007.bin
+07-deck-001.jsonl	288	JUS-5f2ebef71c5a6dd35bcf	こちかめデッキ	Deck Kochikame	14	28	deck/Deck.aar::deck/jarg/008.bin
+07-deck-001.jsonl	289	JUS-3f55fd423540a03c7c31	インテリデッキ	Deck Trí Tuệ	15	28	deck/Deck.aar::deck/jarg/009.bin
+07-deck-001.jsonl	290	JUS-4ac539e1dde6584e0739	ナルトデッキ	Deck Naruto	11	28	deck/Deck.aar::deck/jarg/010.bin
+07-deck-001.jsonl	291	JUS-410e7ef02bbf0e04c104	ボーボボデッキ	Deck Bobobo	11	28	deck/Deck.aar::deck/jarg/011.bin
+07-deck-001.jsonl	292	JUS-b8a402fa06b8a22c6967	ほくとデッキ	Deck Hokuto	11	28	deck/Deck.aar::deck/jarg/012.bin
+07-deck-001.jsonl	293	JUS-033e8d343820adc757dc	エクソシストデッキ	Deck Exorcist	13	28	deck/Deck.aar::deck/jarg/013.bin
+07-deck-001.jsonl	294	JUS-54cf2d0998faefde2e2d	ジョジョのけっとう	Huyết thống JoJo	20	28	deck/Deck.aar::deck/jarg/014.bin
+07-deck-001.jsonl	295	JUS-fcb0027e32147f0a103d	さいきょーでっき	Deck Siêu Mạnh	17	28	deck/Deck.aar::deck/jarg/015.bin
+07-deck-001.jsonl	296	JUS-bf9bca200760b39e052b	マンマンデッキ	Deck Manman	11	28	deck/Deck.aar::deck/jarg/016.bin
+07-deck-001.jsonl	297	JUS-16fa2752fb6422013d87	レジェンドヒーロー	Anh Hùng Huyền Thoại	25	28	deck/Deck.aar::deck/jarg/017.bin
+07-deck-001.jsonl	298	JUS-67c5244aee7e65633fb1	サイキョーデッキ	Deck Mạnh Nhất	18	28	deck/Deck.aar::deck/jarg/018.bin
+07-deck-001.jsonl	299	JUS-1c5f97a5b8026a77af4d	かくちょうたかいデッキ	Deck Đẳng Cấp	18	28	deck/Deck.aar::deck/jarg/019.bin
+07-deck-001.jsonl	300	JUS-842e94b637573302fac2	おれはかいぞくおうになるおとこだ	Ta sẽ thành Vua Hải Tặc!	31	32	deck/Deck.aar::deck/jarg/p000.bin
+07-deck-001.jsonl	301	JUS-90fdd2f0e98af4577c3f	うっし！やるか！！	Được rồi! Quẩy thôi!	29	32	deck/Deck.aar::deck/jarg/p001.bin
+07-deck-001.jsonl	302	JUS-f79da9db3f4427cc528d	なんかつよそーなヒトばかりだなぁ	Ai cũng trông mạnh ghê!	28	32	deck/Deck.aar::deck/jarg/p002.bin
+07-deck-001.jsonl	303	JUS-97bd32c8c98531fd2ca4	ゲームばっかやってんじゃないよ	Đừng cắm mặt chơi game!	31	32	deck/Deck.aar::deck/jarg/p003.bin
+07-deck-001.jsonl	304	JUS-86a2b74fd5e01b7db37a	ヒッヒッヒ・・・	Hí hí hí...	14	32	deck/Deck.aar::deck/jarg/p004.bin
+07-deck-001.jsonl	305	JUS-bd0819d305d508de07da	わくわくすんなぁ！！	Hào hứng quá đi!	21	32	deck/Deck.aar::deck/jarg/p005.bin
+07-deck-001.jsonl	306	JUS-984d0947a9b6a252009c	オレのコスモがもえているぜ！！	Cosmos của ta bùng cháy!	28	32	deck/Deck.aar::deck/jarg/p006.bin
+07-deck-001.jsonl	307	JUS-69ccbc43de145c71de64	ゆうじょうパワーをみせてやるぞ！	Sức mạnh tình bạn đây!	31	32	deck/Deck.aar::deck/jarg/p007.bin
+07-deck-001.jsonl	308	JUS-5b8b8421de371a8249a7	わしにかとうなど３０ねんはやい！	Muốn hạ ta? Còn non!	25	32	deck/Deck.aar::deck/jarg/p008.bin
+07-deck-001.jsonl	309	JUS-ce9aaf5355ffa3d3f5e5	デッキのナゾを…いただくとしよう	Bí mật Deck này, ta xin!	28	32	deck/Deck.aar::deck/jarg/p009.bin
+07-deck-001.jsonl	310	JUS-2449ccf00dbff59608c1	ハデにやるってばよ！！	Chơi lớn đấy, tin đi!	28	32	deck/Deck.aar::deck/jarg/p010.bin
+07-deck-001.jsonl	311	JUS-1a67a0d1dc6a8c9bb6b7	オレにあたるとは<IDEOSP>うんがないな	Gặp ta<IDEOSP>xui rồi!	26	32	deck/Deck.aar::deck/jarg/p011.bin
+07-deck-001.jsonl	312	JUS-44645ae970367c0c4798	ともよ！くるがよい！！	Bạn ơi, đến đây nào!	29	32	deck/Deck.aar::deck/jarg/p012.bin
+07-deck-001.jsonl	313	JUS-c3668d36745b00c4c6fb	まけるきはしませんね（にこにこ）	Thua á? Không có đâu!	26	32	deck/Deck.aar::deck/jarg/p013.bin
+07-deck-001.jsonl	314	JUS-911dda5249135063079c	グッドなかなかおもしろいゲームだ	Trò chơi này hay thật!	27	32	deck/Deck.aar::deck/jarg/p014.bin
+07-deck-001.jsonl	315	JUS-e7228ebab61b1a4ee9c8	これからもジャンプをよろしく！！	Hãy ủng hộ Jump mãi nha!	30	32	deck/Deck.aar::deck/jarg/p015.bin
+07-deck-001.jsonl	316	JUS-8ba95b3922a7c239e065	へんしゅうちょうにおれはなる！！	Ta làm tổng biên tập!	27	32	deck/Deck.aar::deck/jarg/p016.bin
+07-deck-001.jsonl	317	JUS-cbb70639e3c249d98b09	ぜんりょくをだしきるのだ！！	Tung hết sức đi nào!	26	32	deck/Deck.aar::deck/jarg/p017.bin
+07-deck-001.jsonl	318	JUS-3a2ac6e9506c9c8ff114	ここもわしがせいふくするのだ！！	Nơi này cũng là của ta!	29	32	deck/Deck.aar::deck/jarg/p018.bin
+07-deck-001.jsonl	319	JUS-facda3845efc2ef15115	たのしくやろうよ～	Chơi vui vẻ thôi nào~	26	32	deck/Deck.aar::deck/jarg/p019.bin
+07-deck-001.jsonl	320	JUS-a70b7df22367d9ce9285	ごはん	Gohan	5	28	deck/Deck.aar::deck/play/000.bin;deck/Deck.aar::deck/test/000.bin
+07-deck-001.jsonl	321	JUS-179cf92f423ab0ae9b8d	セイヤ	Seiya	5	28	deck/Deck.aar::deck/play/001.bin
+07-deck-001.jsonl	322	JUS-334f8eb1f8a5f2a0131c	きんにく	Kinnikuman	10	28	deck/Deck.aar::deck/play/002.bin;deck/Deck.aar::deck/test/002.bin
+07-deck-001.jsonl	323	JUS-c76531337a83e7cac7ee	かぐら	Kagura	6	28	deck/Deck.aar::deck/play/003.bin
+07-deck-001.jsonl	324	JUS-525eac6ab77938d24a46	スターターデッキ	Starter Deck	12	28	deck/Deck.aar::deck/priv/000.bin;deck/Deck.aar::deck/priv/024.bin;deck/Deck.aar::deck/smpl/000.bin
+07-deck-001.jsonl	325	JUS-6b59015d50df4cef2272	セイントデッキ	Saint Deck	10	28	deck/Deck.aar::deck/priv/001.bin
+07-deck-001.jsonl	326	JUS-3dace325003bd4a1a0cf	しんせかいのかみデッキ	Deck Thần Tân Thế	22	28	deck/Deck.aar::deck/priv/002.bin
+07-deck-001.jsonl	327	JUS-421d5eb9eb0b759130ea	おんなのこデッキ	Deck Con Gái	13	28	deck/Deck.aar::deck/priv/003.bin
+07-deck-001.jsonl	328	JUS-5caf2676c83b09e1626d	かじばのくそぢからデッキ	Deck Sức Bùng Nổ	21	28	deck/Deck.aar::deck/priv/004.bin
+07-deck-001.jsonl	329	JUS-56b4d2eeea47a24da312	るろうにデッキ	Deck Rurouni	12	28	deck/Deck.aar::deck/priv/005.bin
+07-deck-001.jsonl	330	JUS-dbef91c29eecaaeaad0a	よろずやデッキ	Deck Yorozuya	13	28	deck/Deck.aar::deck/priv/006.bin
+07-deck-001.jsonl	331	JUS-3e2303f80ebd4f2e96f3	にげるデッキ	Deck Chạy Trốn	18	28	deck/Deck.aar::deck/priv/007.bin
+07-deck-001.jsonl	332	JUS-262aabee3d78457ec5df	シンノシュジンコウデッキ	Deck Chân Chính	17	28	deck/Deck.aar::deck/priv/008.bin
+07-deck-001.jsonl	333	JUS-ab6c8c8a6798125c6ed6	ハナゲシンケンデッキ	Deck Hanage Shinken	19	28	deck/Deck.aar::deck/priv/009.bin
+07-deck-001.jsonl	334	JUS-5667a6ca71132c2ef4e3	カイゾクデッキ	Deck Hải Tặc	16	28	deck/Deck.aar::deck/priv/010.bin
+07-deck-001.jsonl	335	JUS-20ed6d7b39534a134b4f	ウラメシＴデッキ	Deck Urameshi	13	28	deck/Deck.aar::deck/priv/011.bin
+07-deck-001.jsonl	336	JUS-d5be4bc8ff13757fc129	シニガミデッキ	Deck Shinigami	14	28	deck/Deck.aar::deck/priv/012.bin
+07-deck-001.jsonl	337	JUS-2aa88a80ae6e8abb780d	コママンデッキ	Deck Koma Man	13	28	deck/Deck.aar::deck/priv/014.bin
+07-deck-001.jsonl	338	JUS-a6e2282ed8e3cf1c6db8	デュエリストデッキ	Deck Duelist	12	28	deck/Deck.aar::deck/priv/015.bin
+07-deck-001.jsonl	339	JUS-ef7caeb85e1bfdf57f54	カメアリデッキ	Deck Kameari	12	28	deck/Deck.aar::deck/priv/016.bin
+07-deck-001.jsonl	340	JUS-ff60f4f1adcccc9a26db	ハンターデッキ	Deck Hunter	11	28	deck/Deck.aar::deck/priv/017.bin
+07-deck-001.jsonl	341	JUS-9084ed2fe3f6c1f27b8f	シンケンデッキ	Deck Shinken	12	28	deck/Deck.aar::deck/priv/018.bin
+07-deck-001.jsonl	342	JUS-0929ad8a619c09ed7e39	セイガクデッキ	Deck Seigaku	12	28	deck/Deck.aar::deck/priv/019.bin
+07-deck-001.jsonl	343	JUS-0c3eb4cb7d61d42be9d0	デビルバッツデッキ	Deck Devil Bats	15	28	deck/Deck.aar::deck/priv/020.bin
+07-deck-001.jsonl	344	JUS-c56f1b1bac489c51a3d3	アイシーデッキ	Deck Eyeshield	14	28	deck/Deck.aar::deck/priv/021.bin
+07-deck-001.jsonl	345	JUS-2ad2cae76d765f2d1f86	マカイタンテイデッキ	Deck Thám Tử Ma Giới	25	28	deck/Deck.aar::deck/priv/022.bin
+07-deck-001.jsonl	346	JUS-d8d1dbe5e97d4e0268c8	ボンゴレデッキ	Deck Vongola	12	28	deck/Deck.aar::deck/priv/023.bin
+07-deck-001.jsonl	347	JUS-826230f7108aea64fba4	Ｊスペースデッキ	Deck J-Space	12	28	deck/Deck.aar::deck/smpl/001.bin
+07-deck-001.jsonl	348	JUS-de5808a2ff952b87e8d0	Ｊギャラクシーデッキ	Deck J-Galaxy	13	28	deck/Deck.aar::deck/smpl/002.bin
+07-deck-001.jsonl	349	JUS-d0bcee5f168ac42001ab	Ｊブラックホールデッキ	Deck J-Black Hole	17	28	deck/Deck.aar::deck/smpl/003.bin
+07-deck-001.jsonl	350	JUS-de12a23b54a25af3f9c7	わがはいにまかせるのだ！	Giao cho ta là được!	25	32	deck/Deck.aar::deck/smpl/p000.bin;deck/Deck.aar::deck/smpl/p001.bin;deck/Deck.aar::deck/smpl/p002.bin
+07-deck-001.jsonl	351	JUS-ab027b880094296050f0	つな	Tsuna	5	28	deck/Deck.aar::deck/test/001.bin
+08-credit-001.jsonl	0	JUS-74308563097b723baccf	＜スタッフクレジット＞	<CREDITS>	9	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	1	JUS-11163d3834f2e4311cef	◆エグゼクティブプロデューサー	◆Giám đốc SX	18	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	2	JUS-33c2729c672403616e37	◆プロデューサー	◆Nhà sản xuất	20	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	3	JUS-f17606c6df9f18234ddd	◆コーディネーション	◆Điều phối	17	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	4	JUS-cd9185ae677eddd5793b	◆ディレクター／ゲームデザイン	◆Đạo diễn / Thiết kế game	36	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	5	JUS-ddce5cdbf06bef6b4bc5	芳賀徹	Toru Haga	9	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	6	JUS-80536ec0b0a825f44c86	◆ディレクター	◆Đạo diễn	16	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	7	JUS-16e65643a1294ea3d63e	◆サブディレクター／メインプログラム	◆Phó đạo diễn / Lập trình chính	43	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	8	JUS-68dc4cfcbac718558a78	◆サブディレクター	◆Phó đạo diễn	21	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	9	JUS-31adc2de985ab5143027	◆デザインディレクター／デザイン	◆Giám đốc thiết kế / Thiết kế	43	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	10	JUS-85906b2f98db47de8920	◆ライブラリプログラム	◆Lập trình thư viện	27	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	11	JUS-5dac8c89e91f8788e32d	◆プログラム	◆Lập trình	15	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	12	JUS-4ad2eae7efe1d80ae7a5	◆デザイン	◆Thiết kế	15	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	13	JUS-5602cb3dd7310067f767	◆デザイン協力	◆Hỗ trợ thiết kế	26	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	14	JUS-f6fe2a1fca218b996987	アバンテック株式会社	Avantec Co., Ltd.	17	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	15	JUS-d54285384fba00aaa40b	◆サウンド	◆Âm thanh	12	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	16	JUS-813d789d3ca597c0becc	◆サウンド協力	◆Hỗ trợ âm thanh	23	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	17	JUS-c83f26bf619bd4bb2db4	◆プランニング	◆Lên kế hoạch	20	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	18	JUS-ac8b14e59dcfe017adfb	◆プランニング協力	◆Hỗ trợ kế hoạch	26	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	19	JUS-62193757b3c2d5bfbd89	◆テキスト、クイズ協力	◆Hỗ trợ lời thoại, quiz	33	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	20	JUS-39d19fcc380623e2c385	シナリオ工房<IDEOSP>月光	Gekko<IDEOSP>Scenario Studio	28	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	21	JUS-11d51fcd5af28db21d39	◆アシスタント	◆Trợ lý	12	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	22	JUS-17d00bca99a51b15106e	◆アートワーク	◆Đồ họa	14	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	23	JUS-906ebe2e46dca845cd38	◆広報・プロモーション	◆Truyền thông, quảng bá	31	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	24	JUS-1e2bfa433b38a7e72f83	◆開発サポート	◆Hỗ trợ phát triển	27	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	25	JUS-7f69d0fc23804bfda844	◆デバッグ	◆Kiểm thử	15	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	26	JUS-e21a49adeb2df138ba0f	スーパーマリオクラブ	Super Mario Club	16	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	27	JUS-b207380484977c350a64	＜集英社＞	<Shueisha>	10	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	28	JUS-fa22644e91449722e63d	鳥嶋和彦	Kazuhiko Torishima	18	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	29	JUS-dbaeba4780e2e642dc98	◆監修	◆Giám sát	13	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	30	JUS-845a05edb11924409633	週刊少年ジャンプ	Weekly Shonen Jump	18	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	31	JUS-dd2412e3c13830cdd35c	月刊Ｖジャンプ	V Jump	6	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	32	JUS-1df27356b193b24a7df0	ライツ事業部	Bộ phận bản quyền	25	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	33	JUS-43d576b5bd55506c9cf0	◆スーパーバイザー	◆Cố vấn	13	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	34	JUS-373119ef4c40543d3e88	◆スペシャルサンクス	◆Lời cảm ơn đặc biệt	32	48	ending/ending.aar::ending/StaffRoll.bin
+08-credit-001.jsonl	35	JUS-95e6fb7b222a5467b685	稲垣理一郎（原作）	Riichiro Inagaki (gốc)	24	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	36	JUS-f5dffde8edc1dd65f8cc	村田雄介（漫画）	Yusuke Murata (vẽ)	20	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	37	JUS-95f033d66342a0000d56	桂正和	Masakazu Katsura	16	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	38	JUS-adc9e1b72ae898b3b3c8	河下水希	Mizuki Kawashita	16	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	39	JUS-0f08e445fad2a68565b7	天野明	Akira Amano	11	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	40	JUS-55b8e32243f2c2254306	高橋陽一	Yoichi Takahashi	16	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	41	JUS-3be73304fad8087d3f6e	空知英秋	Hideaki Sorachi	15	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	42	JUS-4423a297fe2676f26ba0	ゆでたまご	Yudetamago	10	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	43	JUS-ab14a83ec12497aff6e2	秋本治	Osamu Akimoto	13	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	44	JUS-8532509702a190ce1401	寺沢武一	Buichi Terasawa	15	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	45	JUS-573a6e57eab2ca170b55	宮下あきら	Akira Miyashita	15	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	46	JUS-cb8c837600ee65786250	真倉翔（原作）	Sho Makura (gốc)	18	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	47	JUS-a0806b80c084bdacd1a3	岡野剛（漫画）	Takeshi Okano (vẽ)	20	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	48	JUS-6de2e042ab170a03c2e9	武井宏之	Hiroyuki Takei	14	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	49	JUS-1f35e67b6772ddc1aad9	徳弘正也	Masaya Tokuhiro	15	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	50	JUS-c0013fe12fe5cf27eac0	荒木飛呂彦	Hirohiko Araki	14	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	51	JUS-dcd838d63e7469208cb8	井上雄彦	Takehiko Inoue	14	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	52	JUS-665401692b2070d5da12	車田正美	Masami Kurumada	15	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	53	JUS-d4e1fca961b32545046f	大亜門	Daimon	6	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	54	JUS-a0c76aaa70dc6762ec06	許斐剛	Takeshi Konomi	14	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	55	JUS-1a6215b3a26c1fd77791	星野桂	Katsura Hoshino	15	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	56	JUS-9f3f3a58b9bdfe8fcdb1	大場つぐみ（原作）	Tsugumi Ohba (gốc)	20	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	57	JUS-597a2480f46013a86f48	小畑健（漫画）	Takeshi Obata (vẽ)	20	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	58	JUS-805d90bfd8d8aa556648	鳥山明	Akira Toriyama	14	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	59	JUS-cebc8b03bdb4cf407252	ガモウひろし	Hiroshi Gamo	12	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	60	JUS-9f40c0dfb7991e63f0a5	岸本斉史	Masashi Kishimoto	17	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	61	JUS-20d6c78d5b524fc6dab8	桐山光侍	Koji Kiriyama	13	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	62	JUS-14d4e5d1680f00c3a20b	冨樫義博	Yoshihiro Togashi	17	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	63	JUS-81dde78f00ef8e51e69c	うすた京介	Kyosuke Usuta	13	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	64	JUS-5efab5a444609176d4e4	和月伸宏	Nobuhiro Watsuki	16	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	65	JUS-2b09a6507abf9f46ad01	矢吹健太朗	Kentaro Yabuki	14	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	66	JUS-35add65d9d137865dd0d	久保帯人	Tite Kubo	9	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	67	JUS-cd600ce98ef93580ffb4	藤崎竜	Ryu Fujisaki	12	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	68	JUS-15abaf08fce858b0a620	武論尊（原作）	Buronson (gốc)	16	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	69	JUS-9b9721bb28a632d97628	原哲夫（漫画）	Tetsuo Hara (vẽ)	18	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	70	JUS-76d76ff818492d4a3f67	澤井啓夫	Yoshio Sawai	12	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	71	JUS-ee29c41c96215d6e8ac8	松井優征	Yusei Matsui	12	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	72	JUS-383ffc77a2e941ebdc7c	つの丸	Tsunomaru	9	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	73	JUS-634da2c5513152b15526	西義之	Yoshiyuki Nishi	15	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	74	JUS-8a1451a440638fd9f117	高橋和希	Kazuki Takahashi	16	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	75	JUS-e2ea1f554e132fbd1137	森田まさのり	Masanori Morita	15	28	ending/ending.aar::ending/TitleOrder.bin
+08-credit-001.jsonl	76	JUS-9df38745a92a172bd76d	尾田栄一郎	Eiichiro Oda	12	28	ending/ending.aar::ending/TitleOrder.bin
