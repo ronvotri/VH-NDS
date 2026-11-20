@@ -1,0 +1,508 @@
+file	row_index	id	ja	vi	utf8_bytes	field_bytes	context
+00-he-thong-ten-goi-001.jsonl	240	JUS-6d80cddd872e3b87e5e8	ユーザー名に禁止ワードが含まれています。	Tên người dùng chứa từ bị cấm.	43		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	241	JUS-dcd38011d18e88dbe771	「<PERCENT_FULL>」で参加します。	"Tham gia với tên ""<PERCENT_FULL>""."	37		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	242	JUS-644c90e15195cc3ccfbd	ＤＳ本体の名前を変更してください。	Hãy đổi tên máy DS của bạn.	37		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	243	JUS-a5d85693879c0c0b88d8	すれちがい通信を始めるのだ！	Bắt đầu trao đổi khi đi ngang nhau!	44		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	244	JUS-d1da7fc2da7a43e4c16a	自動的にセーブする事があるのだ！	Trò chơi đôi lúc sẽ tự lưu đó!	42		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	245	JUS-6a997adf5e7ae47e8fb2	電源を切ったりカードを抜いたり	Đừng tắt máy hay rút thẻ game	38		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	246	JUS-d163c97f554164e0f757	しないでくれ！	ra giữa chừng nhé!	23		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	247	JUS-223db116c3e75177287d	画面をタッチするか、Ａボタンを	Chạm màn hình hoặc nhấn nút A	38		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	248	JUS-5c058a7e07631c877c2d	押すと中断できるのだ！	để dừng giữa chừng nhé!	33		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	249	JUS-2d819c1d70949079d7ff	すれちがい通信中なのだ！	Đang trao đổi khi đi ngang nhau!	37		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	250	JUS-f7b930c28901bdce114d	ＤＳ本体のフタを閉じても良いぞ！	Đóng nắp máy DS cũng được nhé!	41		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	251	JUS-38e1611ac1403d223c47	（タッチかＡボタンで中断できます）	(Chạm hoặc nhấn A để dừng)	37		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	252	JUS-ded20b764efa17149e55	すれちがい通信が成功したぞ！	Trao đổi thành công rồi!	31		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	253	JUS-0b3ff1b49546def3ef7d	ライバルデータを確認してみるのだ！	Thử kiểm tra dữ liệu đối thủ nhé!	47		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	254	JUS-a48451cecb94a800735c	まだ誰とも、すれちがっていないようだ	Có vẻ chưa gặp ai cả.	29		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	255	JUS-bbbaef3650e5cfb3103c	通信を続けるかな？	Tiếp tục trao đổi chứ?	31		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	256	JUS-b2a9fac4cad63288ea13	ツウシン用の設定をセーブ中です。	Đang lưu thiết lập kết nối.	37		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	257	JUS-ab8d350dce1a714bb8af	電源を切らないでください。	Đừng tắt nguồn nhé.	27		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	258	JUS-6106f6a9864a30912768	電源を切ってやり直してください。	Hãy tắt máy rồi thử lại.	34		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	259	JUS-74908f12edcbbf9612f7	自分のフレンドコードは、	Không thể đăng ký	23		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	260	JUS-f412315665b5e0f0bd9f	登録することはできません。	Friend Code của chính mình.	31		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	261	JUS-c56dcd6a779058800723	フレンドリストはそのまま使えますが、	Bạn vẫn dùng được Friend List,	39		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	262	JUS-f7c6837ebae4418e1b55	Ｗｉ－Ｆｉ対戦をするには友達からもう一度	nhưng muốn đấu qua Wi-Fi thì bạn bè	45		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	263	JUS-63fda1b8062943d13e50	フレンドリストに追加してもらう必要があり	phải thêm bạn vào Friend List	35		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	264	JUS-06511468bb2525372599	ます。	một lần nữa.	18		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	265	JUS-da17de2eae00aa75ad4c	抜けたプレイヤーがいるので	Có người chơi đã rời trận,	37		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	266	JUS-fbb969d22ed82eb56b72	対戦を終了します。	nên trận đấu sẽ kết thúc.	36		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	267	JUS-ed40eab920997e4097a7	通信を切断して対戦を終了しますか？	Ngắt kết nối và kết thúc trận?	42		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	268	JUS-a43c93a028ae84020cb3	通信が切断されました。	Kết nối đã bị ngắt.	29		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	269	JUS-6dc160aa462fa9d00a9f	他のプレイヤーが決定するまで、	Trong khi đợi người khác xác nhận,	44		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	270	JUS-73c10b766d089ef855e7	このメンバーとデータを交換しますか？	trao đổi dữ liệu với nhóm này chứ?	47		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	271	JUS-db65ec41764ec02ba221	データの交換が終了しました。	Đã trao đổi dữ liệu xong.	34		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	272	JUS-22a895888162475a9369	通信待機中です。	Đang chờ kết nối.	24		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	273	JUS-a9c2fe9f9dd4e096a389	プレイヤーが足りません。	Chưa đủ người chơi.	27		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	274	JUS-2e13f2a03c6b8ae1fefa	このモードをプレイするには、	Để chơi chế độ này,	29		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	275	JUS-500abc5db9a64d4d33ad	オリジナルデッキが必要です。	bạn cần có Deck tự tạo.	32		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	276	JUS-247da81aa1f6ad805cc2	エントリーがキャンセルされました。	Đã hủy đăng ký tham gia.	31		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	277	JUS-4d3310d658dd0ec64e2a	対戦を続けますか？	Tiếp tục đấu chứ?	26		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	278	JUS-767d3d0169e427dc7586	対戦を終了しますか？	Kết thúc trận đấu chứ?	32		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	279	JUS-5323b5745ef26ae3282e	このデッキと入れ替えますか？	Đổi sang Deck này chứ?	28		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	280	JUS-489961432f41a66a8bb0	このデッキをコピーして	Sao chép Deck này để	25		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	281	JUS-b1f01200ce9e4b777a6b	新しくデッキを作りますか？	tạo một Deck mới chứ?	29		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	282	JUS-476c58d9cf48624a9355	このデッキを削除しますか？	Xóa Deck này chứ?	21		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	283	JUS-def5c3db5c9eb2713b31	このライバルデータを削除しますか？	Xóa dữ liệu đối thủ này chứ?	41		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	284	JUS-e0b6cd9c09f35a1886d9	ＤＳワイヤレス通信を始めますか？	Bắt đầu kết nối không dây DS?	40		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	285	JUS-7444db5082d0a20c312f	すれちがい通信で送るデッキを	Hãy chọn Deck để gửi qua	32		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	286	JUS-ddf9dcf26d7d6e1c2a95	選んでください。	chế độ trao đổi khi đi ngang.	38		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	287	JUS-01398998afed42dc3443	相手に送るデッキを選んでください。	Chọn Deck muốn gửi cho đối thủ.	42		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	288	JUS-c2ec402835ea51b3d0ec	Ｊパワーを注入しますか？	Bơm J-Power vào chứ?	24		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	289	JUS-d52904e6008f024251eb	Ｊパワーが足りません。	Không đủ J-Power.	21		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	290	JUS-f8f6b89d963ad1a00c41	ランキング内に固定するために	Khóa để giữ cố định	30		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	291	JUS-88eccc9c14c7ae628d0d	ロックしますか？	trong bảng xếp hạng chứ?	32		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	292	JUS-2bd9954b749583d35691	ロックを解除しますか？	Mở khóa chứ?	17		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	293	JUS-c342c86f79086468d7d1	ランキング戦を途中から始めますか？	Tiếp tục trận xếp hạng dang dở?	43		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	294	JUS-017c4d78be31072aad98	リタイアして	Bỏ cuộc và bắt đầu lại	34		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	295	JUS-3d078d02d60e36d9f7f6	ランキング戦を最初から始めますか？	trận xếp hạng từ đầu chứ?	38		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	296	JUS-e3befd7830974356d73b	おめでとう！！<IDEOSP>新たな『ライバル』が	Chúc mừng!!<IDEOSP>Đối thủ mới	40		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	297	JUS-e6476283dea2bc727453	ランキングに登場するようになったぞ！	đã xuất hiện trên bảng xếp hạng!	45		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	298	JUS-513b27988d76fcfd5765	デッキメイクを終了します。	Thoát Deck Make.	17		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	299	JUS-55a7686960ab3bf342f6	セーブしますか？	Lưu game chứ?	16		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	300	JUS-0431dee97ecf7f432f0a	これ以上コマをセットできません。	Không đặt thêm Koma được nữa.	40		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	301	JUS-ce1580796aa079fd1738	デッキセレクトに戻りますか？	Quay lại chọn Deck chứ?	29		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	302	JUS-e13ca02372a0157aa0a4	コマを全てリストに戻しますか？	Trả toàn bộ Koma về danh sách?	38		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	303	JUS-b60e0e517a2729e2f9fe	マンガデッキの名前を入力して下さい。	Hãy nhập tên Manga Deck.	28		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	304	JUS-8ef0fcd5c3ac8ab38cd4	好きな言葉を入力して下さい。	Hãy nhập câu chữ bạn thích.	36		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	305	JUS-5bd871232ec8b8e195a3	フレンドコードを入力して下さい。	Hãy nhập Friend Code.	24		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	306	JUS-86fdc0f7ce063db320e6	パスワードを入力して下さい。	Hãy nhập mật khẩu.	25		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	307	JUS-cde90b37b9e29572c9ae	デッキ名は１文字以上入力してください。	Tên Deck phải có ít nhất 1 ký tự.	43		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	308	JUS-98ee3f2b5bd8e622988f	入力した文字でよろしいですか？	Dùng nội dung vừa nhập chứ?	36		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	309	JUS-4181870c63910636cac3	文字入力を終了します。よろしいですか？	Kết thúc nhập chữ, đồng ý chứ?	43		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	310	JUS-d84a2e09b05be486488f	このライバルデータを登録しますか？	Lưu dữ liệu đối thủ này chứ?	41		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	311	JUS-745efa836d5dbc7825d5	ライバルデータは登録されませんでした。	Chưa lưu được dữ liệu đối thủ.	45		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	312	JUS-138b6bef2acf75748289	ライバルデータを更新しました。	Đã cập nhật dữ liệu đối thủ.	43		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	313	JUS-84344e222d82fecea569	ライバルデータを登録しました。	Đã lưu dữ liệu đối thủ.	35		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	314	JUS-f9234945925b8cd5af53	ライバルデータがいっぱいです。	Bộ nhớ dữ liệu đối thủ đã đầy.	48		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	315	JUS-4f8e9e86c3d0bd3574da	データを削除しますか？	Xóa dữ liệu chứ?	23		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	316	JUS-1d695657e5ba6e997af1	ライバルデータを削除して、	Đã xóa dữ liệu đối thủ cũ,	39		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	317	JUS-f1607ed165e4dc885b83	新しいライバルデータを登録しました。	và lưu dữ liệu đối thủ mới.	40		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	318	JUS-a7a187bc3aeb70359ad6	データを削除してください。	Hãy xóa bớt dữ liệu.	28		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	319	JUS-867f8186bf8f23cdbad6	パスワードの入力に成功しました。	Nhập mật khẩu thành công.	33		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	320	JUS-f1b838cbcc48aebd3e9e	パスワードに誤りがあります。	Sai mật khẩu rồi.	23		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	321	JUS-dbdcd352a672044c9b76	パスワードを入力しますか？	Nhập mật khẩu chứ?	26		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	322	JUS-b7847011f7ac46ca966b	パスワードを出力します。	Xuất mật khẩu.	20		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	323	JUS-0c81eb84068b8cd8104c	セーブデータを消しますか？	Xóa dữ liệu đã lưu chứ?	33		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	324	JUS-4aec2159a6c7b85f9b72	本当に消してもよろしいですか？	Bạn chắc chắn muốn xóa chứ?	38		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	325	JUS-db7fed6ddb8c6d8c91ec	データを初期化しました。	Đã khôi phục dữ liệu ban đầu.	41		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	326	JUS-e0703770123d097f06c5	相手のチームが設定されていません。	Đội hình đối thủ chưa được thiết lập.	55		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	327	JUS-d2ed6bd53f7a578bb77a	Ｊギャラクシーを終わりますか？	Thoát J-Galaxy chứ?	22		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	328	JUS-7eacef7de449ed05de17	『デッキメイク』が使えるようになったぞ！	"Đã mở khóa ""Deck Make""!"	28		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	329	JUS-936cd29a08fcc5ca86fa	『Ｊパワー』が使えるようになったぞ！	"Đã mở khóa ""J-Power""!"	26		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	330	JUS-5650de939acbf33ad9be	コマは入手できませんでした。	Không nhận được Koma.	28		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	331	JUS-6de69fcb1878001158e1	ルートが出現した！	Đã xuất hiện tuyến đường mới!	43		bin/commwin.bin
+00-he-thong-ten-goi-001.jsonl	332	JUS-7a7846a510dc2de0ef79	オープニング	Mở đầu	11		bin/demo.bin
+00-he-thong-ten-goi-001.jsonl	333	JUS-b2c9d74ec226854ec50e	アイシールド２１	Eyeshield 21	12		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	334	JUS-cd58ddc87e33881c38ff	プラネットデモ	Giới thiệu hành tinh	25		bin/demo.bin
+00-he-thong-ten-goi-001.jsonl	335	JUS-9b3e87f6ac0486242c4a	Ｉ￣ｓ	I''s	4		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	336	JUS-4ecad992d37ab9d8b538	いちご１００<PERCENT_FULL>	Ichigo 100<PERCENT_FULL>	24		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	337	JUS-b5217413fbceb5d57f2b	家庭教師ヒットマン<IDEOSP>ＲＥＢＯＲＮ！	Katekyo Hitman<IDEOSP>Reborn!	29		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	338	JUS-c8040fef013e6d134505	キャプテン翼	Captain Tsubasa	15		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	339	JUS-0866f46c7feda7e5fcec	銀魂	Gintama	7		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	340	JUS-e7682b5a1e5edc9f133c	キン肉マン	Kinnikuman	10		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	341	JUS-15ca5f6a387d3af70020	こちら葛飾区亀有公園前派出所	Kochikame	9		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	342	JUS-345db1aca3b23bbb843f	コブラ	Cobra	5		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	343	JUS-279b5ea33e0aacb980f5	魁∥男塾	Sakigake!! Otokojuku	20		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	344	JUS-e96fd60448d92209aec7	地獄先生ぬ～べ～	Hell Teacher Nube	17		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	345	JUS-10fd38878abc3e0c02c6	シャーマンキング	Shaman King	11		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	346	JUS-9e0cfd9971d00ae205cd	ジャングルの王者ターちゃんヾ	Jungle King Tar-chan	20		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	347	JUS-e3da6212fee1ea1e91c5	ジョジョの奇妙な冒険	JoJo's Bizarre Adventure	24		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	348	JUS-9dce3059ccea7428288c	ＳＬＡＭ<IDEOSP>ＤＵＮＫ	Slam<IDEOSP>Dunk	16		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	349	JUS-3959605ef6fa904c9422	聖闘士星矢	Saint Seiya	11		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	350	JUS-cc625d45cec5fd7abf57	太臓もて王サーガ	Taizo Mote King Saga	20		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	351	JUS-86d86e9ceb401a7885f6	テニスの王子様	The Prince of Tennis	20		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	352	JUS-b91674451182052361fc	Ｄ．Ｇｒａｙ－ｍａｎ	D.Gray-man	10		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	353	JUS-00511e1de342e563dfe4	ＤＥＡＴＨ<IDEOSP>ＮＯＴＥ	Death<IDEOSP>Note	17		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	354	JUS-9164635d841c198e9f8d	Ｄｒ．スランプ	Dr. Slump	9		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	355	JUS-a022fd42f0cabc4c9d3e	とっても！ラッキーマン	Tottemo! Luckyman	17		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	356	JUS-9d0d77aa315e8a84d8bd	ＤＲＡＧＯＮ<IDEOSP>ＢＡＬＬ	Dragon<IDEOSP>Ball	18		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	357	JUS-aec43b0bcf99780e085f	ＮＡＲＵＴＯ－ナルト－	Naruto	6		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	358	JUS-6b5a0732f60fa1bf6246	ＮＩＮＫＵ－忍空－	Ninku	5		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	359	JUS-cf86ab1dc46697cd656d	ＨＵＮＴＥＲ×ＨＵＮＴＥＲ	Hunter × Hunter	16		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	360	JUS-79ba365552c4ba44e04d	ピューと吹く！ジャガー	Pyu to Fuku! Jaguar	19		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	361	JUS-22d5a50a3d741554b46f	武装錬金	Buso Renkin	11		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	362	JUS-9f469b218901b5511880	ＢＬＡＣＫ<IDEOSP>ＣＡＴ	Black<IDEOSP>Cat	16		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	363	JUS-b7274a6a961ea619a9b1	ＢＬＥＡＣＨ	Bleach	6		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	364	JUS-28d69a942088a3dea5a3	封神演義	Hoshin Engi	11		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	365	JUS-83f3f2c304428dcd32fa	北斗の拳	Fist of the North Star	22		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	366	JUS-fde57dd955eb4a21478a	ボボボーボ・ボーボボ	Bobobo-bo Bo-bobo	17		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	367	JUS-496709b7045937bd05c0	魔人探偵脳噛ネウロ	Majin Tantei Neuro	18		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	368	JUS-0c2849b92fece3ca127b	みどりのマキバオー	Midori no Makibao	17		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	369	JUS-3ebb1344df02f994c0db	ムヒョとロージーの魔法律相談事務所	Muhyo & Roji	12		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	370	JUS-46ec24894f0a92e60eb0	遊☆戯☆王	Yu-Gi-Oh!	9		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	371	JUS-b93d8d43eb2c3e18fa1f	幽★遊★白書	Yu Yu Hakusho	13		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	372	JUS-b69497b9dd5143aff602	るろうに剣心－明治剣客浪漫譚－	Rurouni Kenshin	15		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	373	JUS-d6d4c2b032836701eae0	ろくでなしＢＬＵＥＳ	Rokudenashi Blues	17		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	374	JUS-05474e7bb15930ae39b0	ＯＮＥ<IDEOSP>ＰＩＥＣＥ	One<IDEOSP>Piece	16		bin/demo.bin;bin/piece.bin;bin/title.bin
+00-he-thong-ten-goi-001.jsonl	375	JUS-bddfe46190557df64f57	ＯＮＥ ＰＩＥＣＥ	One Piece	9		bin/demo.bin
+00-he-thong-ten-goi-001.jsonl	376	JUS-7b785e049440c1acda41	プラネットＸ（Ｊスペース）	Planet X (J-Space)	18		bin/demo.bin
+00-he-thong-ten-goi-001.jsonl	377	JUS-b570b40b696e38b6d229	Ｊ－スペースデモ２	J-Space: cảnh 2	17		bin/demo.bin
+00-he-thong-ten-goi-001.jsonl	378	JUS-39c31f851e4f4d0ec22f	プラネットＸ（Ｊギャラクシー）	Planet X (J-Galaxy)	19		bin/demo.bin
+00-he-thong-ten-goi-001.jsonl	379	JUS-28973b00aa96046a105d	Ｊ－ギャラクシーデモ２	J-Galaxy: cảnh 2	18		bin/demo.bin
+00-he-thong-ten-goi-001.jsonl	380	JUS-cdc34c732638fc5b60f8	プラネットＸ（Ｊブラックホール）	Planet X (J-Black Hole)	23		bin/demo.bin
+00-he-thong-ten-goi-001.jsonl	381	JUS-313ddbd2ec85d334cb36	Ｊ－ブラックホールデモ２	J-Black Hole: cảnh 2	22		bin/demo.bin
+00-he-thong-ten-goi-001.jsonl	382	JUS-568dee58118b26caa989	マシリトＡ<IDEOSP>（クイズ）	Mashirito A<IDEOSP>(Quiz)	25		bin/demo.bin
+00-he-thong-ten-goi-001.jsonl	383	JUS-7fae7d97f136bb0f92b0	Ｊーワールドデモ１	J-World: cảnh 1	17		bin/demo.bin
+00-he-thong-ten-goi-001.jsonl	384	JUS-9098481e6e348d6b3fae	マシリトＢ	Mashirito B	11		bin/demo.bin
+00-he-thong-ten-goi-001.jsonl	385	JUS-9f6152f7a9c4d3347b44	Ｊーワールドデモ２	J-World: cảnh 2	17		bin/demo.bin
+00-he-thong-ten-goi-001.jsonl	386	JUS-3c991d9355e049d134f1	マシリトＣ<IDEOSP>	Mashirito C<IDEOSP>	19		bin/demo.bin
+00-he-thong-ten-goi-001.jsonl	387	JUS-32e0c6a8b39b8a28d96f	Ｊーワールドデモ３	J-World: cảnh 3	17		bin/demo.bin
+00-he-thong-ten-goi-001.jsonl	388	JUS-7788185efc8a0ff0bc6f	マシリトＤ	Mashirito D	11		bin/demo.bin
+00-he-thong-ten-goi-001.jsonl	389	JUS-890714659679e68f9342	Ｊーワールドデモ４	J-World: cảnh 4	17		bin/demo.bin
+00-he-thong-ten-goi-001.jsonl	390	JUS-2069da393ce6223b176a	マシリトＥ<IDEOSP>（エンディング）	Mashirito E<IDEOSP>(Kết)	26		bin/demo.bin
+00-he-thong-ten-goi-001.jsonl	391	JUS-a2b785bc82a4470f6d2a	エンディング	Kết thúc	11		bin/demo.bin
+00-he-thong-ten-goi-001.jsonl	392	JUS-f0769455d76f79669352	ジャンプ	Jump	4		bin/infoname.bin;bin/location.bin;bin/stage.bin
+00-he-thong-ten-goi-001.jsonl	393	JUS-3dc26a69c5dd1a1c1c65	姉崎まもり	Mamori Anezaki	14		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	394	JUS-f000de013c126b93aa76	磯崎泉	Izumi Isozaki	13		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	395	JUS-fa8a6f3cf8de4944fe3a	外村美鈴	Misuzu Sotomura	15		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	396	JUS-972e45709c655e5091ec	笹川京子	Kyoko Sasagawa	14		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	397	JUS-cad07787ff15aee9a7b8	ロベルト本郷	Roberto Hongo	13		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	398	JUS-f3183fb361245f8d3439	お登勢	Otose	5		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	399	JUS-7351b2e76e8788c617ea	テリーマン	Terryman	8		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	400	JUS-cb059a64d6284e826890	御堂春	Haru Mido	9		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	401	JUS-f2a4923e8b043df14d08	レディ	Lady	4		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	402	JUS-4c416b4ead6316719f2f	雷電	Raiden	6		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	403	JUS-69b716f4147a40fa62c5	稲葉郷子	Kyoko Inaba	11		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	404	JUS-861d549a745bf4b3963e	まん太	Manta	5		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	405	JUS-5cf2870939830b3619e1	ヂェーン	Jane	4		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	406	JUS-7dff41d499ccb9616628	岸辺露伴	Rohan Kishibe	13		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	407	JUS-353581ef94cb3926e79c	安西先生	Thầy Anzai	12		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	408	JUS-ef4b4f839fff8aa82752	牡羊座のムウ	Mu (Aries)	10		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	409	JUS-8c188446b0018327a3ed	佐渡あいす	Sado Ice	8		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	410	JUS-3faaaf4dda5c7ef44e7e	乾貞治	Sadaharu Inui	13		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	411	JUS-5c9c9d8b49d443e7fc25	コムイ室長	Trưởng phòng Komui	22		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	412	JUS-dd3bf87685e158c4398b	弥海砂	Misa Amane	10		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	413	JUS-d14552fe301461a35d84	みどり先生	Cô Midori	10		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	414	JUS-b0d3f199c92ebeeff840	努力マン	Doryokuman	10		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	415	JUS-c0f3b6b63c5a080e6b8d	ブルマ	Bulma	5		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	416	JUS-08b7703a96293e22be2a	綱手	Tsunade	7		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	417	JUS-2057c5dd1cade514faf4	ポチ	Pochi	5		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	418	JUS-f6a274c2613cec840d17	ビスケ	Biscuit	7		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	419	JUS-2ce305e096891272930c	白川高菜	Takana Shirakawa	16		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	420	JUS-37678a4f6380b8c1a80e	パピヨン	Papillon	8		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	421	JUS-c0acfc5db644f5329fd5	キョウコ	Kyoko	5		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	422	JUS-1881aa96b8b29bb68342	コン	Kon	3		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	423	JUS-87c05a8463173d625391	四不象	Su Pu Shang	11		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	424	JUS-5ed89a56caa83cd1d941	リン	Rin	3		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	425	JUS-da7ff49d674b0b70348a	ビュティ	Beauty	6		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	426	JUS-f4c12c3180ed605f0348	あかねちゃん	Akane	5		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	427	JUS-2485f49da4387f67a164	チュウ兵衛	Chuubei	7		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	428	JUS-6aa46e5d797670c14cf7	ナナ	Nana	4		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	429	JUS-adf3585af6835aaf3d0d	真崎杏子	Anzu Mazaki	11		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	430	JUS-3e0251e7cc6b8e1fbc6f	ぼたん	Botan	5		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	431	JUS-9c9baa02256412b5058d	神谷薫	Kaoru Kamiya	12		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	432	JUS-112d70d5601ee42e58fd	マサさん	Masa	4		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	433	JUS-9f98fa5ada6e640b403f	チョッパー	Chopper	7		bin/infoname.bin
+00-he-thong-ten-goi-001.jsonl	434	JUS-1cbcddbc2e4a13e2601b	愛知県	Aichi	5		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	435	JUS-291308f47e440f580817	青森県	Aomori	6		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	436	JUS-66068b46324d7eb36e21	秋田県	Akita	5		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	437	JUS-d08f97b26f3958937423	アフリカ	Châu Phi	9		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	438	JUS-8b5ae53d552c45b8d31f	石川県	Ishikawa	8		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	439	JUS-853b4fc53326c506a4c6	泉坂高校	Trường Izumizaka	19		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	440	JUS-e71c75551837de447aba	茨城県	Ibaraki	7		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	441	JUS-ac85b2a6b18d39b643e2	岩手県	Iwate	5		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	442	JUS-74e67c39f44f9fb62448	エクソシスト総本部	Tổng bộ Exorcist	20		bin/location.bin;bin/stage.bin
+00-he-thong-ten-goi-001.jsonl	443	JUS-99cad2e230afc0d1e390	エジプト	Ai Cập	8		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	444	JUS-d0c6c1ed05d107d683cd	愛媛県	Ehime	5		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	445	JUS-34f0b1c7527ce99a11e0	大分県	Oita	4		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	446	JUS-070e27758d8ab8403597	大阪府	Osaka	5		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	447	JUS-a0d00e14276d3e72c5d7	岡山県	Okayama	7		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	448	JUS-d006cc3561c3602e3e3a	沖縄県	Okinawa	7		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	449	JUS-3e26212125fd28dbcb59	男塾	Otokojuku	9		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	450	JUS-035d25172a98e1b3cf18	香川県	Kagawa	6		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	451	JUS-23d6a01d8cdb73efb22d	鹿児島県	Kagoshima	9		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	452	JUS-79c65530ee35ff63c6ef	桂木弥子探偵事務所	Văn phòng thám tử Yako Katsuragi	37		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	453	JUS-a1f458fbb9bb3107785a	神奈川県	Kanagawa	8		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	454	JUS-568bfe81ae5347638f89	神谷活心流道場	Võ đường Kamiya Kasshin	28		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	455	JUS-ec4054c5eba6742ea9d1	亀有公園前派出所	Đồn cảnh sát trước công viên Kameari	47		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	456	JUS-b41d4a8e053b043b38b1	ガリ寮	Ký túc xá Gari	17		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	457	JUS-6e2cead888b28b581f70	岐阜県	Gifu	4		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	458	JUS-84fbf452edb789794fcf	京都府	Kyoto	5		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	459	JUS-b96b8f28ba66f79bd84f	銀成学園	Học viện Ginsei	19		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	460	JUS-89b9be803775f4edff7d	キン肉星	Hành tinh Kinniku	18		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	461	JUS-c981fec1fe4aa77741a4	くじら島	Đảo Cá Voi	14		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	462	JUS-0e12640272e469cee3f1	熊本県	Kumamoto	8		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	463	JUS-01705af4a74b9e391625	偉大なる航路	Grand Line	10		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	464	JUS-6c35dd0c24eb7f768878	群馬県	Gunma	5		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	465	JUS-318780aaf50cee31f003	幸運の星	Hành tinh May Mắn	20		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	466	JUS-8dc5ab4c1dd404ff77fb	高知県	Kochi	5		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	467	JUS-179821dd7af3a8a1eb00	木ノ葉隠れの里	Làng Lá (Konoha)	18		bin/location.bin;bin/stage.bin
+00-he-thong-ten-goi-001.jsonl	468	JUS-21a66949678faf8a318c	崑崙山	Núi Kunlun	11		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	469	JUS-9888a267a9f7199081d5	埼玉県	Saitama	7		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	470	JUS-176729381f428606c1d0	佐賀県	Saga	4		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	471	JUS-82bcc1d7cd9d3dc7e675	聖域	Sanctuary	9		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	472	JUS-ddaaac061ceb6fd475bc	滋賀県	Shiga	5		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	473	JUS-01cb464ccccac46bf9de	静岡県	Shizuoka	8		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	474	JUS-8b06ee787285fd4d47ac	島根県	Shimane	7		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	475	JUS-6264cfd5ceba25a8ac88	湘北高校	Trường Shohoku	17		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	476	JUS-91630830d0869894eda5	青春学園	Học viện Seishun	20		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	477	JUS-bbe50a6eb2c110f6e5b5	聖帝十字陵	Lăng Thánh Đế	18		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	478	JUS-ff2fcb25f504bb4df223	掃除屋同盟	Liên minh Sweeper	18		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	479	JUS-cff131a749771e531788	尸魂界	Soul Society	12		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	480	JUS-8d9bae2a3d54b722fabc	地球	Trái Đất	12		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	481	JUS-14bd0c911b7000f3c4b1	千葉県	Chiba	5		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	482	JUS-2bc52bc403c14d8c3e19	帝拳高校	Trường Teiken	16		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	483	JUS-7aecd7f85f14b3d3d8ac	泥門高校	Trường Deimon	16		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	484	JUS-b9a7af93749ee087db43	東京都	Tokyo	5		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	485	JUS-694d464df57a7b85f297	童守小学校	Trường tiểu học Domori	29		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	486	JUS-28da8ab01878d9048a12	ドキドキ学園	Học viện Dokidoki	21		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	487	JUS-18ec2d7663d05b197422	徳島県	Tokushima	9		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	488	JUS-1cda364bb852aff67282	栃木県	Tochigi	7		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	489	JUS-e3153d862093a9151cb4	鳥取県	Tottori	7		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	490	JUS-bc4c85c68f9752cf7afe	富山県	Toyama	6		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	491	JUS-8406dff1cba3a05576b0	長崎県	Nagasaki	8		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	492	JUS-b9d8119c7197f9d0a1f9	長野県	Nagano	6		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	493	JUS-3a96f005d228ede7da11	並盛中学	Trường Namimori	18		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	494	JUS-0fa4f8c6a70693a40d19	ナメック星	Hành tinh Namek	16		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	495	JUS-f2a014c55cc5fbdb391c	奈良県	Nara	4		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	496	JUS-67d6d853fb086cbdfbab	南葛市	Nankatsu	8		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	497	JUS-a2b58bffc898095081ad	新潟県	Niigata	7		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	498	JUS-e06e1547a78ea066a245	日本	Nhật Bản	12		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	499	JUS-58194557546f41f72351	忍空の里	Làng Ninku	11		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	500	JUS-7fe88ef258434305c52d	兵庫県	Hyogo	5		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	501	JUS-7db1e04f54d13a478698	広島県	Hiroshima	9		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	502	JUS-dd11770768b095705e16	福井県	Fukui	5		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	503	JUS-cc164dadbdbd8805b6eb	福岡県	Fukuoka	7		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	504	JUS-09882baa14608f1c4b72	福島県	Fukushima	9		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	505	JUS-097822a1b213bfa46570	ふんばり温泉	Nhà trọ Funbari Onsen	24		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	506	JUS-6ad26ef50e14b6a089ef	ペンギン村	Làng Chim Cánh Cụt	22		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	507	JUS-f651193e662d44e26787	北海道	Hokkaido	8		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	508	JUS-9ce060e52efc7b3439a2	魔界	Ma Giới	9		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	509	JUS-ced35ac2e1c42c5723a0	マルハーゲ帝国	Đế quốc Maruhage	21		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	510	JUS-09423acb1b31a3b50029	三重県	Mie	3		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	511	JUS-0e6888df726a5ece12de	美浦・飯富昌虎厩舎	Chuồng ngựa Iitomi Masatora (Miho)	38		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	512	JUS-2403c1d163f66ce6cbb6	宮城県	Miyagi	6		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	513	JUS-c462ff42a2f256f4c290	宮崎県	Miyazaki	8		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	514	JUS-ed138ea1d3fcdb6224b3	六氷魔法律事務所	Văn phòng Pháp thuật Muhyo	31		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	515	JUS-a90ad1f637b7f0564f84	杜王町	Thị trấn Morioh	19		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	516	JUS-4f45aec0c17ac71a5bdc	山形県	Yamagata	8		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	517	JUS-0f6832095bf5b189e51e	山口県	Yamaguchi	9		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	518	JUS-e9a21802072eb2a7bd1c	山梨県	Yamanashi	9		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	519	JUS-243c00771fd9f0472cf7	万事屋銀ちゃん	Tiệm Vạn Năng Gin-chan	27		bin/location.bin;bin/stage.bin
+00-he-thong-ten-goi-001.jsonl	520	JUS-72bd0c3c119572d98d46	ワイミーズハウス	Wammy's House	13		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	521	JUS-e29d9db9e50686e91344	和歌山県	Wakayama	8		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	522	JUS-165217037d897203632e	惑星ダスト	Hành tinh Dust	15		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	523	JUS-42fcc8bf3c707e390982	湾田高校	Trường Wanda	15		bin/location.bin
+00-he-thong-ten-goi-001.jsonl	524	JUS-67f5e9c2ab4580500bd4	稲垣理一郎（原作）	Riichiro Inagaki (kịch bản)	31		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	525	JUS-c83e2bec940479eeb876	村田雄介（漫画）	Yusuke Murata (tranh)	21		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	526	JUS-098e8dacbd1ead43fa35	０２年３４号～	Từ số 34 năm 2002	22		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	527	JUS-83650f79cd040bafecdd	連載中	Đang phát hành	17		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	528	JUS-43a8c37e5ea9cc12e225	気弱でパシリ人生を送ってきた少年、小早川	Sena Kobayakawa vốn nhút nhát,	34		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	529	JUS-6f378bcea5903fae4a34	瀬那と弱小チーム“泥門デビルバッツ”の成	quen bị sai vặt, gia nhập đội bóng bầu dục	56		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	530	JUS-8ddeeb41e90314379f47	長を描いた本格派アメフト漫画。気弱で背も	Deimon Devil Bats đang yếu thế.	36		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	531	JUS-c3debc24e510f5936c50	低く、幼い頃からパシリとしてこき使われて	Cậu thấp bé, rụt rè, từ nhỏ đã	44		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	532	JUS-072544f1a0472b31b00e	きた少年――小早川瀬那は、高校入学を機に	phải chạy vặt cho người khác.	39		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	533	JUS-169f0ba5750704880198	自分を変えることを決心し、アメフト部“泥	Khi lên cấp ba, Sena quyết đổi đời,	46		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	534	JUS-682bff146da80bc0f07f	門デビルバッツ”に主務として入部した。だ	nên xin làm quản lý đội Devil Bats.	43		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	535	JUS-379e358d825b04ce6f52	が、悪魔のような男として、皆に恐れられる	Nhưng đàn anh Hiruma, kẻ đáng sợ	41		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	536	JUS-cdbad7b6ff169cf3942e	先輩、ヒル魔はただ一人、パシリで鍛え上げ	như ác quỷ, nhìn ra đôi chân siêu tốc	48		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	537	JUS-06547940c98aa795b070	られたセナの俊足を見抜いていた。セナは言	được tôi luyện nhờ chạy vặt của Sena.	52		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	538	JUS-e7372cbf9d96a314ba5d	われるままに、光速のランニングバック“ア	Thế là Sena thành running back	34		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	539	JUS-630443548cbf9dc9bf2d	イシールド２１”として、フィールドに立つ	"""Eyeshield 21"" nhanh như ánh sáng,"	37		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	540	JUS-94288f161b10c9313b29	ことになる。試合の中で開花していくセナの	bước ra sân và dần bộc lộ tài năng.	48		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	541	JUS-c2efdde90ad72d40de4a	才能。仲間たちと特訓を重ね、強大なライバ	Cùng đồng đội tập luyện hết mình,	47		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	542	JUS-26c8799bec3996399348	ルに立ち向かっていくうちに、一人のアメリ	đối mặt những đối thủ đáng gờm,	47		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	543	JUS-76f109625157c4769d1b	カンフットボール選手として成長を遂げてい	Sena trưởng thành thành một tuyển thủ	48		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	544	JUS-22af6e82e1853a0abe98	く。	bóng bầu dục thực thụ.	31		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	545	JUS-43e5826fc3da92ccadf1	桂正和	Masakazu Katsura	16		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	546	JUS-bdb8b103d7ad4785af66	９７年１９号～	Từ số 19 năm 1997	22		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	547	JUS-68b472c8d555338426bc	００年２４号	Đến số 24 năm 2000	24		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	548	JUS-045567554eea4e4e7117	誰もが認める美少女に恋してしまった、恋に	Một cậu trai nhát yêu trót phải lòng	46		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	549	JUS-de35532996abb1f19d47	臆病だった少年の、出会いと別れ、成長と奮	cô gái đẹp ai cũng công nhận.	38		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	550	JUS-b511217c9899a506aa39	闘を描くラブコメディ。雑誌に水着グラビア	Đây là chuyện tình vui buồn, trưởng thành.	54		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	551	JUS-b3449a44a9c3bdc8a24c	が掲載されるほどの美少女・葦月伊織に恋焦	Ichitaka Seto mê mẩn Iori Yoshizuki,	39		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	552	JUS-c69ebdd2796b8183fbef	がれる瀬戸一貴は、若干妄想癖のあるごく平	mỹ nữ từng được đăng ảnh áo tắm.	49		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	553	JUS-67fca31f421b1dc8e170	凡な高校２年生。幼少期に、好きな女の子か	Cậu chỉ là học sinh lớp 11 bình thường,	52		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	554	JUS-9576afae48d7ca794723	らこっぴどく嫌われるという経験をしていた	còn hơi hay tưởng tượng lung tung.	42		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	555	JUS-3fbaaf003f337bad3b1a	一貴は、伊織と同じクラスにも関わらず、ほ	Từ nhỏ từng bị người mình thích ghét bỏ,	56		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	556	JUS-46ea96fdfabf6823608f	とんど口もきけないでいた。ところがある日	cậu dù học cùng lớp với Iori	38		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	557	JUS-800913b483da6838f7aa	新入生歓迎イベントの実行委員に、一貴と伊	cũng chẳng dám mở lời.	30		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	558	JUS-9e040072f33c3f989da7	織が選ばれてしまう。伊織の提案で、ふたり	Rồi cả hai bất ngờ được giao	40		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	559	JUS-20dc5a43f253b8c2517f	の名前の頭文字をとり“チーム・アイズ”と	phụ trách buổi đón tân học sinh.	42		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	560	JUS-730004d86810d0a0eae6	命名され、最初こそぎこちなかったものの徐	"Iori đề nghị tên nhóm ""Team I's"","	40		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	561	JUS-f009ca216934c80990a9	々にその距離が近づいていく。そんな時３人	ghép chữ cái đầu tên hai người.	42		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	562	JUS-1a670b55baa03ef8c9e4	目の“Ｉ”、一貴の幼馴染である秋葉いつき	Khi đôi bên dần trở nên thân thiết,	46		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	563	JUS-6aeaeda223fe5f0807a8	がアメリカから帰ってきて…。	Itsuki Akiba, bạn thuở nhỏ, về từ Mỹ...	51		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	564	JUS-014d5582374b2c3d04b0	河下水希	Mizuki Kawashita	16		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	565	JUS-6388af2396ec33b98186	０２年１２号～	Từ số 12 năm 2002	22		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	566	JUS-b8deed852e38ccc46bf9	０５年３５号	Đến số 35 năm 2005	24		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	567	JUS-2e7da9d56d7e1d8ce176	映画監督を目指す少年、“真中淳平”と彼の	Junpei Manaka mơ làm đạo diễn.	37		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	568	JUS-d27987eefd22f1ee897e	周囲の美少女たちが繰り広げるお色気たっぷ	Bên cậu là dàn mỹ nữ, cùng chuyện tình	51		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	569	JUS-2e8f35bd58a385495ee6	りの恋愛コメディー。中学３年の冬、屋上で	vừa lãng mạn vừa không thiếu cảnh nóng.	52		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	570	JUS-ddabebb2127e46951cb8	偶然出会った謎の“いちごパンツの美少女”	Mùa đông lớp 9, cậu vô tình thấy	43		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	571	JUS-55fe0b1ca1e1a41f1add	を映像に収めるため、学年一の美少女、“西	một cô gái mặc quần lót dâu trên sân thượng.	59		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	572	JUS-97e3b1bde35c2a859751	野つかさ”に告白する淳平。だが、美少女の	Muốn quay lại khoảnh khắc ấy, Junpei	46		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	573	JUS-e6691f1a4cbfdd08390e	正体は、小説家を目指す目立たないクラスメ	lại tỏ tình với Tsukasa Nishino,	39		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	574	JUS-25bf1a5d3a59aec802d8	ート、“東城綾”だった…。淳平と同じ高校	người đẹp nổi nhất khối. Nhưng cô gái	52		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	575	JUS-1d860a73699e53940a37	に進学し、脚本家として淳平の夢をサポート	trên sân thượng là Aya Tojo ít nổi bật,	50		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	576	JUS-12626fe1e8bd48f1a29e	する綾。綾と張りあうため、わざと違う高校	người có ước mơ trở thành tiểu thuyết gia.	57		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	577	JUS-afea429ab9e264b55734	に通うつかさ。そこに、大胆お色気で淳平に	Aya học cùng trường, viết kịch bản	46		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	578	JUS-d970fd0c0ca19516d747	迫る、ストレートな性格の持ち主、“北大路	để hỗ trợ giấc mơ của Junpei.	41		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	579	JUS-0a7233f753cb89a600ac	さつき”や、見た目が小学生な淳平の幼なじ	Tsukasa cố tình học trường khác,	41		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	580	JUS-c00ca4748a67650311dc	み“南戸唯”が加わり、淳平を巡る恋模様は	quyết không chịu thua Aya. Rồi Satsuki	45		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	581	JUS-84aa7e43ac5f63c1473e	フクザツになる一方…。淳平は誰か一人に絞	Kitaoji bạo dạn và Yui Minamito,	37		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	582	JUS-730328a40ccff5daaf29	ることができるのだろうか？そして、彼らの	bạn thuở nhỏ trông như học sinh tiểu học,	55		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	583	JUS-32b27bf7427b9eb5491e	夢の行方は？	cũng nhập cuộc. Junpei chọn ai đây?	44		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	584	JUS-79efc332cc8235877b9d	天野明	Akira Amano	11		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	585	JUS-68d6702f30f78f64c5a7	０４年２６号～	Từ số 26 năm 2004	22		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	586	JUS-8c758dc450685ea276ee	ギャグありバトルありのマフィアボス育成	Chuyện hài pha hành động về đào tạo	48		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	587	JUS-b91132c5375c63e4816d	（？）物語。なにをやってもダメな『ダメツ	một trùm mafia tương lai... có thật không?	51		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	588	JUS-938c1599b5d757292bb9	ナ』こと沢田綱吉（つなよし）。彼の前にあ	"Tsuna Sawada, biệt danh ""Tsuna Vô Dụng"","	45		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	589	JUS-9ca9c440d791972572d2	る日突然、赤ん坊で殺し屋というリボーンが	làm gì cũng hỏng. Một ngày nọ,	40		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	590	JUS-57813d0da8250809423c	現れる。なんとツナはマフィア界最大のファ	sát thủ bé xíu Reborn bỗng xuất hiện.	48		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	591	JUS-93ca600f48976595aaf9	ミリー・ボンゴレ一家の１０代目ボス候補で	Hóa ra Tsuna được chọn làm ứng viên	46		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	592	JUS-760519db514712f8f420	あり、リボーンは９代目からツナを鍛えるよ	trùm đời thứ mười của nhà Vongola.	46		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	593	JUS-2ae1c417965fd618d8eb	うに頼まれた家庭教師だったのだ。かくし	Reborn là gia sư được đời thứ chín	46		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	594	JUS-00c38d4aa67c7b337bfb	て、ツナは哀れリボーンの生徒となり、自分	nhờ huấn luyện Tsuna. Thế là cậu	43		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	595	JUS-0a2cf7791a459ae8f530	のファミリーを作るために奔走させられるこ	bất đắc dĩ thành học trò của Reborn,	48		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	596	JUS-325cb128b07b62f960a9	ととなる。リボーンが撃つ『死ぬ気弾』で死	lo xây dựng gia tộc của riêng mình.	44		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	597	JUS-ea450a77b9fe8df07d08	ぬ気になってものすごい力を発揮するツナ。	Nhờ viên đạn Dying Will của Reborn,	43		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	598	JUS-ae0317b331e41ec54573	そんな彼のまわりには、いつしか友達や仲間	Tsuna liều hết mình, bộc phát sức mạnh.	51		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	599	JUS-ec053d0efbbdf561a0c8	と呼べる人たちが集まってきていた。しかし	Bạn bè, đồng đội dần tụ hội quanh cậu,	55		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	600	JUS-56eace372bd233158858	同時に、１０代目ボンゴレ候補として、避け	nhưng cùng lúc đó, những trận chiến	46		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	601	JUS-7d8a9381f5cff60bdc66	て通れない戦いも訪れる――。大切な仲間（	không thể tránh của người kế thừa	46		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	602	JUS-f09e60b78a4df04609e2	ファミリー）を守るため、今日もツナは死ぬ	Vongola cũng kéo đến. Vì bảo vệ	41		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	603	JUS-b254d88fac8f5365eebb	気で戦う！	gia đình của mình, Tsuna lại hết mình!	48		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	604	JUS-a60d4386de33386d5c97	高橋陽一	Yoichi Takahashi	16		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	605	JUS-e75ebf61407f90314f5c	８１年１８号～	Từ số 18 năm 1981	22		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	606	JUS-8b658f1ef0b26c32dd7c	８８年２２号	Đến số 22 năm 1988	24		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	607	JUS-49efbefac8dbd5344082	サッカーの申し子・大空翼を中心に、フィー	Truyện theo chân thần đồng Tsubasa Ozora,	49		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	608	JUS-6eb4af78635eee40a900	ルドを駆ける少年たちの激闘と成長を描く。	cùng các chàng trai trưởng thành trên sân cỏ.	56		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	609	JUS-0dea3c953e6184857912	静岡県南葛市に引っ越してきた大空翼は、小	Chuyển đến Nankatsu, tỉnh Shizuoka,	42		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	610	JUS-3df8e7dd54f73327913e	学６年のサッカー少年。地元では全国大会優	Tsubasa đang học lớp 6 và mê bóng đá.	47		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	611	JUS-47da7d783afcd9961ea8	勝を果たしたサッカーの強豪・若林源三率い	Ở đây, đội Shutetsu do Genzo Wakabayashi	47		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	612	JUS-40db789da1ac7da4459b	る修哲小と、翼が通うことになる南葛小が対	dẫn dắt vừa vô địch toàn quốc,	43		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	613	JUS-5cf5bd10c1e11daac0ea	立していた。ブラジルのプロチームで活躍し	đối đầu với trường Nankatsu cậu theo học.	56		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	614	JUS-58968e3f0d5273892585	ていたロベルト本郷のコーチを受け、翼や石	Được Roberto Hongo, cựu cầu thủ	41		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	615	JUS-abe887887e678f207a76	崎、そして同じく転校生である岬の活躍で、	chuyên nghiệp ở Brazil, huấn luyện,	44		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	616	JUS-eab3a2c94030ad009b7e	南葛小は修哲との対抗戦に延長戦の末引き分	Tsubasa, Ishizaki và tân binh Misaki	38		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	617	JUS-6fb2b191a9ceb773c310	ける。やがて全国大会の地区予選を前に、南	giúp Nankatsu cầm hòa Shutetsu	34		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	618	JUS-705d083bcf1c74f4ba45	葛市選抜チームが結成され、若林をはじめと	sau một trận kéo dài đến hiệp phụ.	47		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	619	JUS-7cf4b507a3d27a5cf27a	する修哲のメンバーがそのほとんどを占める	Trước vòng loại toàn quốc, đội tuyển	50		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	620	JUS-0e2d6a20762db8ac1963	中、翼、岬、石崎が選抜チーム入りを果たし	Nankatsu được lập, chủ yếu là cầu thủ	52		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	621	JUS-eec773b6ba32d07810aa	た。全国制覇へ向け始動した南葛ＳＣだった	Shutetsu, nhưng cả Tsubasa, Misaki,	38		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	622	JUS-4a5d2d3326812b4f8e50	が、そこへ明和ＦＣの日向小次郎が現れ、若	Ishizaki đều có suất. Kojiro Hyuga	40		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	623	JUS-29d9af5965ddc3eccf6f	林を挑発する。それは生涯のライバル、翼と	của Meiwa FC xuất hiện khiêu khích Genzo.	49		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	624	JUS-68d442e3316a86d71f32	小次郎の初顔合わせでもあった。	Tsubasa gặp đối thủ truyền kiếp lần đầu!	56		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	625	JUS-0746b4703ba25b82c798	空知英秋	Hideaki Sorachi	15		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	626	JUS-e92a6fa80d1b65c7aa74	０４年<IDEOSP>２号～	Từ số<IDEOSP>2 năm 2004	28		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	627	JUS-4e19676d60b6869e58b6	舞台は江戸。死んだ魚の目をした銀髪の男、	Bối cảnh ở Edo. Gintoki Sakata,	37		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	628	JUS-98a49c84716eddbc50e2	坂田銀時と彼の周囲の人々が様々な事件を巻	anh tóc bạc, mắt lờ đờ như cá chết,	49		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	629	JUS-fa2892512f54a266784e	き起こす、人情ドタバタ・コメディ漫画。あ	cùng hội bạn gây ra đủ trò dở khóc	47		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	630	JUS-1f2d424e4f6e07dc9149	る日突然、天から江戸に舞い降りた異星人、	dở cười trong bộ hài đầy tình người.	51		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	631	JUS-586e6f5ff833b3f01c17	“天人”。侍の国は彼らに開国を迫られた。	Một ngày, người ngoài hành tinh Amanto	46		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	632	JUS-dc3b375133ddcf240b64	そして開国から２０年、江戸は見違えるほど	đổ bộ và ép xứ samurai mở cửa.	43		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	633	JUS-3277e08558f255726b52	発展したが、天人の台頭と廃刀令によりかつ	Hai mươi năm sau, Edo phát triển	38		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	634	JUS-8b0d3e4a33cb8751eb66	て隆盛を極めた侍は、衰退の一途を辿ってい	nhanh chóng. Nhưng lệnh cấm kiếm	40		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	635	JUS-185229713b91c2ebd725	た。誇りも何も捨て去った侍たちは、落ちぶ	và thế lực Amanto khiến samurai	38		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	636	JUS-a666717ec312ef2cbb4e	れ、困窮する生活に喘いでいた。そんな侍の	dần sa sút, sống túng thiếu và mất chí.	51		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	637	JUS-458bf658556ff233f14d	ひとり志村新八は、ある日バイト先で天人た	Một trong số ấy là Shinpachi Shimura.	44		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	638	JUS-10cf00164fcd44c2634b	ちから嫌がらせをされていたのを、ひとりの	Hôm nọ, lúc đi làm thêm cậu bị Amanto	48		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	639	JUS-a9e161647b3836fa955d	男に助けられた。その名は坂田銀時。甘党＆	hành hung, may được một người cứu.	46		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	640	JUS-f2fbfc982fed612492f1	糖尿病寸前、そして何でも屋“万事屋”を営	Đó là Gintoki, mê đồ ngọt đến mức	47		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	641	JUS-717e6a2b20a3f22e2438	む人物であった。彼の侍魂に感銘を受けた新	suýt tiểu đường, chủ tiệm Vạn Năng.	49		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	642	JUS-138d4e50ad3cf0f1b110	八は、万事屋に仲間入り。さらにひょんなこ	Cảm phục tinh thần samurai ấy, Shinpachi	48		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	643	JUS-4d78a7daba7693d384c6	とから出会った神楽も半ば強引にバイトとし	gia nhập tiệm. Kagura cũng đến làm	43		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	644	JUS-35fb0cbecea03ccb8def	て加わり、今日も万事屋は大騒ぎ。	thêm gần như ép buộc. Tiệm lại loạn!	49		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	645	JUS-a58c60885f0f87699860	ゆでたまご	Yudetamago	10		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	646	JUS-f95e125b446abd89e401	７９年２２号～	Từ số 22 năm 1979	22		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	647	JUS-dfd356b103b8aaaa941a	８７年２１号	Đến số 21 năm 1987	24		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	648	JUS-9c539b0f89282a0e8eab	ドジでわがままなダメ超人のキン肉マンが、	Kinnikuman là siêu nhân hậu đậu,	40		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	649	JUS-1e50d4faa6f8113dd47a	さまざまな超人たちとの闘いを経て、キン肉	ích ích kỷ, suốt ngày gây chuyện.	43		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	650	JUS-96b335ba0c123a1ba926	族の王位継承者にふさわしい超人へと成長し	Qua những trận đấu với các siêu nhân,	49		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	651	JUS-6046799cf3706953e351	ていく様を描いた、熱血超人格闘マンガ。	cậu dần xứng đáng kế vị tộc Kinniku.	50		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	652	JUS-e08383aea03f7c04b77c	――日本で活躍している（！？）ダメ超人、	Vốn là một siêu nhân vô dụng ở Nhật,	50		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	653	JUS-2009ee2a200302bc6d97	キン肉マンは、大キン肉星雲キン肉星のキン	Kinnikuman thực ra là hoàng tử	36		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	654	JUS-e891b39546d070ed0063	肉族の王子だった。だが、赤ん坊のときにブ	của hành tinh Kinniku. Nhưng khi còn bé,	46		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	655	JUS-c0e7b888bbc3b2a3329d	タと間違えて捨てられてしまい、地球にやっ	cậu bị nhầm là heo rồi vứt bỏ,	43		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	656	JUS-5652d7fe173a8dab8b20	てきたのだ。日本のダメ超人として、みんな	thế là lạc xuống Trái Đất!	37		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	657	JUS-5b9414b2b540af0f8bd1	に笑われてきた彼だったが、運と潜在能力で	Ai cũng cười nhạo, song nhờ may mắn	45		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	658	JUS-795473780e117f4f81ac	超人オリンピックに優勝。その後も、超人カ	và sức mạnh tiềm ẩn, cậu thắng	43		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	659	JUS-202b2bb9d993daf7ba21	メハメから受け継いだ“４８の殺人技”や、	Superhuman Olympics. Rồi từ thầy	38		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	660	JUS-ffd15be89bf7efd598c0	追いつめられた時に発揮する“火事場のクソ	Kamehame, cậu học 48 Killing Techniques.	44		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	661	JUS-c1964c2043e7b6d1f933	力”で破竹の快進撃を繰り広げていく！弱音	Khi bị dồn vào góc, sức mạnh Kajiba	45		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	662	JUS-6a50ab9244247bcaa694	を吐きながらも立ち上がり、最後には勝利す	no Kuso Chikara giúp cậu lật ngược thế cờ!	54		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	663	JUS-8b7cad24aebfdabf2264	るキン肉マンの姿に当時の少年たちは、心を	Miệng than sợ mà vẫn đứng dậy chiến đấu,	57		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	664	JUS-e6c2be988ef1a4d3f4ff	おどらせた。作中には、読者が考えた超人も	cậu khiến bao độc giả phấn khích.	45		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	665	JUS-ade5af6c551feffdfd38	多数登場しているぞ。	Nhiều siêu nhân còn do độc giả sáng tạo!	53		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	666	JUS-cd1647055501238ab084	秋本治	Osamu Akimoto	13		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	667	JUS-bf180afe248f82d4d73d	７６年４２号～	Từ số 42 năm 1976	22		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	668	JUS-bec76a4398456da87b75	東京の下町、葛飾にある亀有公園前派出所に	Tại đồn cảnh sát trước công viên Kameari,	54		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	669	JUS-194d64a2af73b340bc45	勤務する巡査長、両津勘吉を中心に、様々な	Kankichi Ryotsu là anh cảnh sát	35		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	670	JUS-fd022959577de840b59e	登場人物が繰り広げる、下町人情コメディ。	liên tục kéo mọi người vào chuyện dở khóc	56		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	671	JUS-1b1cf5d13f72fd4baa10	亀有公園前派出所は、両津勘吉が起こす事件	dở cười, rất đậm tình người khu phố.	52		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	672	JUS-6bcdd59570fcca46096d	で、いつもてんやわんや。遊びと金儲けに対	Vì Ryotsu, đồn lúc nào cũng loạn.	42		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	673	JUS-0f9c137a82f194591a8e	して、異様なまでの欲望と知識と集中力を持	Anh mê vui chơi, kiếm tiền đến mức	45		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	674	JUS-b781032ea050bd0205e3	つ両津の行動は、いつも最初はうまくいくが	kiến thức và độ tập trung đều đáng sợ.	55		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	675	JUS-6fee01004090f4583bc6	すぐにエスカレートし収拾がつかなくなって	Ban đầu kế hoạch nào cũng suôn sẻ,	46		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	676	JUS-81e4007864839ced12d4	しまう。それにいつも振り回される、亀有公	rồi càng làm càng quá, mất kiểm soát.	48		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	677	JUS-418f92a453a2285f6a21	園前派出所のメンバーたち。中川財閥の御曹	Đồng nghiệp lại phải đi dọn hậu quả:	52		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	678	JUS-3da7523bf22dece271d7	司・中川、秋本財閥の令嬢・麗子、庶民代表	Nakagawa, thiếu gia nhà tài phiệt;	40		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	679	JUS-e70e522db9e60aa9abe8	・寺井、白バイ隊の本田といったいつものメ	Reiko, tiểu thư nhà Akimoto;	32		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	680	JUS-910d658a96becb1c07f4	ンバーに加え、新葛飾署のボルボ西郷や左近	Terai bình dân, Honda đội mô tô,	39		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	681	JUS-59c55d43b69e5f96ed82	寺、特殊刑事課の海パン刑事らの個性的な登	cùng Volvo Saigo, Sakonji ở sở mới,	42		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	682	JUS-0f608159786d882bf39c	場人物や交通課の婦警たち、そして、下町の	các thám tử quái chiêu của đơn vị đặc biệt,	60		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	683	JUS-27c128793e582bf6104a	住民たちも巻き込んで、今日も大事件が発生	cảnh sát giao thông và cư dân khu phố.	47		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	684	JUS-ce03d4c3bb6b1c40e2e0	する！<IDEOSP>「両津～！！」派出所長の大原部長	"Hôm nay lại có biến!<IDEOSP>""Ryotsu!!"""	44		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	685	JUS-622f12ba2e8f1941903a	の怒鳴り声が亀有の空にこだまする。	Tiếng trưởng đồn Ohara vang khắp Kameari.	51		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	686	JUS-7b5859809dbafc9d27c7	寺沢武一	Buichi Terasawa	15		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	687	JUS-2eec4ceb1f38b60cc4c7	７８年４５号～	Từ số 45 năm 1978	22		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	688	JUS-1c03b0e9dc3fc896c245	継続中	Vẫn tiếp tục	18		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	689	JUS-1d35a5d6f2f10f5f4b7c	左腕のサイコガンと、常にくわえている葉巻	Cánh tay trái gắn Psychogun	31		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	690	JUS-73c635db4a25fb9e1f6c	がトレードマークのコブラは、パートナーの	và điếu xì gà luôn ngậm trên môi:	44		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	691	JUS-ca1304c4c5ebc0bb4a70	アーマロイド・レディと共に宇宙を駆け巡る	đó là Cobra, hải tặc đơn độc	40		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	692	JUS-94eea3f575049bb34172	一匹狼の海賊だ。宇宙の隅々にまで勢力を張	cùng đồng đội Android Lady rong ruổi vũ trụ.	56		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	693	JUS-db65211dc24f3fde6d3d	り巡らせる、極悪非道のマフィア的組織“海	Cậu không đội trời chung với	38		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	694	JUS-fd2abf5f902110c2f9ec	賊ギルド”とはそりが合わず、彼らの船をこ	Pirate Guild, tổ chức mafia tàn ác	40		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	695	JUS-3d8a2d387f65e781e4d9	とごとく沈めていた。ところがある日、ギル	có thế lực khắp thiên hà, nên cứ	44		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	696	JUS-aa19342e04cf65cc7bbe	ドの幹部であるキャプテン・バイケンを逃が	gặp tàu của chúng là bắn chìm.	40		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	697	JUS-a2e520814658bbb7e1bc	したために、顔写真をばらまかれ、ギルドか	Một lần, cậu để Captain Baiken chạy thoát,	54		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	698	JUS-0992683cd55e03f53c17	ら命をねらわれることに。そんな殺し合いの	khiến ảnh chân dung bị tung ra khắp nơi.	50		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	699	JUS-1720aeb8f99ad8e6f905	日々に嫌気が差したコブラは、顔を変え、記	Pirate Guild liền săn lùng Cobra.	37		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	700	JUS-02156d426d60e6bc3963	憶を消し、市井の一市民としての平凡な生活	Quá ngán cảnh chém giết, cậu đổi mặt,	51		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	701	JUS-d463a7910815acd9b9cf	を送ることにした。平穏ながらも退屈な日々	xóa trí nhớ, sống như dân thường.	44		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	702	JUS-d401637bffe3bbf4aaec	が３年ばかり続いたころ、ひょんなことから	Ba năm bình yên mà chán đến phát ngấy,	49		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	703	JUS-d499beda86ce7f30a679	記憶がよみがえったコブラ、スリルに満ちた	một sự tình cờ đánh thức ký ức,	45		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	704	JUS-667f6fa651da46b6c6be	世界へと舞い戻る！	Cobra trở lại đời phiêu lưu nghẹt thở!	51		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	705	JUS-62c924043e3b221ce1b3	宮下あきら	Akira Miyashita	15		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	706	JUS-b6299d19447752699b09	８５年２２号～	Từ số 22 năm 1985	22		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	707	JUS-b262b3a384a4c7f295b4	９１年３５号	Đến số 35 năm 1991	24		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	708	JUS-5841b26a4c5887d80ba9	暴力傷害などで幾つもの高校を退学させられ	Nơi tập hợp những gã từng bị đuổi	48		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	709	JUS-b6de03d80fad33f04885	た、行き場のない連中が行き着くところ。昨	khỏi nhiều trường vì đánh nhau, gây rối.	53		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	710	JUS-261643467503ec480d3b	今の軟弱な民主主義教育に異を唱え、時代錯	Chê giáo dục dân chủ ngày nay yếu đuối,	52		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	711	JUS-b9b22b3e89da69de6959	誤な軍国主義で男の魂を磨き上げる学舎。そ	nơi này rèn chí nam nhi theo kỷ luật	44		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	712	JUS-fddd8f00f8732b2555b9	れが男塾である！さまざまな事情でこの塾に	quân phiệt lỗi thời. Đó là Otokojuku!	47		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	713	JUS-ae11736527475a16de95	入学した、剣桃太郎を始めとする男塾一号生	Momotaro Tsurugi và những học viên	40		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	714	JUS-7e68195fc1f7f434c226	たちは、理不尽な教官や先輩たちの元で、汗	năm nhất mang đủ cảnh đời khác nhau,	48		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	715	JUS-918a458ad22bd615b70b	くさい青春を送っていたが、伊達臣人率いる	bị thầy và đàn anh hành đến toát mồ hôi.	55		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	716	JUS-ba84065e420a9d2d18ed	関東豪学連との抗争をきっかけに、壮絶な闘	Rồi cuộc xung đột với Kanto Gogakuren	46		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	717	JUS-15ab40b49430af0eb4bf	いの日々を迎えることになる。次々と現れる	của Omito Date mở đầu chuỗi chiến đấu	51		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	718	JUS-cf55ae48d5eb37cff210	強敵。拳を交えるうちに芽生える熱き友情。	vô cùng khốc liệt, gặp hết địch mạnh	51		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	719	JUS-b596e0a595ccfdcc1821	死と隣り合わせの日々を送るうちに、一歩、	lại nảy sinh tình bạn sau mỗi màn tỉ thí.	54		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	720	JUS-aa392816c52eb9228470	また一歩と成長を遂げていく男たちの姿が描	Sát cánh giữa sống và chết,	36		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	721	JUS-ddaba9699561a8006045	かれている。劇中のさまざまな事象を解説す	các chàng trai dần trưởng thành.	40		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	722	JUS-058c5a698992b04f2ced	る架空の出版社、“民明書房”や“太公望書	Truyện còn trích dẫn sách của hai	42		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	723	JUS-3c234bad8109ec2522ee	林”の書物はあまりにも有名。連載時は本物	nhà xuất bản hư cấu Minmei Shobo	40		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	724	JUS-fbe5225799222ae9cd8b	と信じ、書店で探す人間が続出した。実在し	và Taikobo Shorin quá đỗi nổi tiếng!	45		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	725	JUS-eec070408f28efd76365	ないので注意すべし！！	Từng có người đi tìm mua. Đừng tin nhé!	51		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	726	JUS-7c17e1a883119f5e1d8b	真倉翔（原作）	Sho Makura (kịch bản)	25		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	727	JUS-1c7396cafd44953fcb37	岡野剛（漫画）	Takeshi Okano (tranh)	21		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	728	JUS-dde64d6f20020a4862bf	９３年３８号～	Từ số 38 năm 1993	22		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	729	JUS-bb556153b2291d900003	９９年２４号	Đến số 24 năm 1999	24		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	730	JUS-044066f5de7713e1e199	鵺野鳴介（ぬ～べ～）は、あらゆるものを無	Meisuke Nueno, biệt danh Nube,	32		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	731	JUS-c57851e828088c4a24a2	に帰することが出来る『鬼の手』を持つ、日	là thầy giáo trừ tà duy nhất Nhật Bản	50		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	732	JUS-732e9723c3a1ed195bee	本唯一の霊能力教師。九十九の蟲の成長体に	có Demon Hand, vô hiệu hóa mọi thứ.	44		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	733	JUS-8f63ffebe56be9f2c9ab	取り憑かれ、問題児としてぬ～べ～のクラス	Chuyện bắt đầu khi Hiroshi Tateno,	41		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	734	JUS-c05cdad5e17effef6ae8	（５年３組）に立野広が転入してくるところ	bị quái trùng Tsukumo ký sinh,	35		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	735	JUS-d0f505577826a7f0b8d6	から物語は始まる。学校を中心に、まわりに	chuyển vào lớp 5-3 của Nube.	35		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	736	JUS-606489a5566c4145b2d5	起こる様々な心霊現象や妖怪を『鬼の手』で	Ở trường, thầy dùng Demon Hand xử lý	47		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	737	JUS-89a8c9778b8b02b276a5	解決してゆく。また『鬼の手』に封じられた	đủ loại yêu quái và hiện tượng siêu nhiên.	57		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	738	JUS-9f9ca57549e62ed39072	覇鬼やその弟、絶鬼との死闘も繰り広げられ	Thầy còn liều mạng chiến đấu	40		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	739	JUS-2a437a89ec1587a29027	る。５年３組の生徒が６年へと進級するまで	với Baki trong Demon Hand và em hắn,	41		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	740	JUS-8dfb9735141efa5c84ee	の期間、生徒個人の成長や友情、そしてぬ～	Zekki. Khi cả lớp lên lớp 6,	35		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	741	JUS-cac45f88a502048ac793	べ～との信頼関係が深まっていく姿が描かれ	học sinh trưởng thành, tình bạn và	44		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	742	JUS-777580309227e9ecfd66	ている。またぬ～べ～の人柄に魅せられ人間	niềm tin dành cho thầy càng sâu đậm.	46		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	743	JUS-a726689ed0767173be06	の感情を理解しようとする妖狐や、幼い頃ぬ	Yêu hồ bị lòng tốt của Nube cảm hóa,	49		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	744	JUS-51b6cd5f39673904fcc0	～べ～に助けられた雪女、人魚などの個性豊	Yukionna từng được thầy cứu khi bé,	46		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	745	JUS-c94c5a38d3d2629e3a8b	かな妖怪との絆や愛の行方も見どころのひと	cả nàng tiên cá và những yêu quái khác	49		bin/piece.bin
+00-he-thong-ten-goi-001.jsonl	746	JUS-9ee4438e454982406fe7	つだ。	đều có mối duyên đầy cảm động với thầy.	58		bin/piece.bin
