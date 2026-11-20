@@ -1,0 +1,38 @@
+{
+  "game": "Jump Ultimate Stars (Japan)",
+  "checkpoint": "051 correction CP050A",
+  "status": "CORRECTIONS_ONLY_NO_NEW_TRANSLATIONS",
+  "source_file": "06-jquiz-009.jsonl",
+  "corrected_entries": 10,
+  "corrected_rows": [
+    842,
+    843,
+    844,
+    845,
+    846,
+    847,
+    848,
+    849,
+    1230,
+    1350
+  ],
+  "translated_ids_before": 32746,
+  "translated_ids_after": 32746,
+  "remaining_untranslated_ids": 2173,
+  "merged_038_050_unique_ids": 9150,
+  "japanese_and_metadata_preserved": true,
+  "quiz_role_and_position_preserved": true,
+  "vi_nonempty": true,
+  "max_new_vi_unicode_codepoints": 37,
+  "control_tokens_preserved": true,
+  "new_translations": 0,
+  "rom_tested": false,
+  "font_tested": false,
+  "answer_truth_verified_in_rom": false,
+  "reference_sources": [
+    "https://www.db.yugioh-card.com/yugiohdb/card_search.action?cid=4096&ope=2",
+    "https://www.yugioh.com/cards/curse-of-the-masked-beast",
+    "https://yuyuhakusho.fandom.com/wiki/Hina"
+  ],
+  "notes": "CP051 is a proofread correction only. ZIP source Japanese for remaining 2173 IDs is not readable from the original Project upload. Do not count fixes as new strings."
+}
