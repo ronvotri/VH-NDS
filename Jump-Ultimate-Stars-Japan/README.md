@@ -14,6 +14,15 @@ Nguồn Nhật: `JumpUltimateStars_Japan_BanGiao_Cloud.zip` → `translation/06-
 - [BAN_GIAO_050.md](BAN_GIAO_050.md) — hướng dẫn nối tiếp.
 - [BAN_DICH_TONG_HOP_038-050.jsonl](BAN_DICH_TONG_HOP_038-050.jsonl) — **9.150 ID CP038–050**, đã giữ sửa tên Shunrei trong CP046A; không gồm CP001–037.
 
+## Chuẩn bị Checkpoint 051 — kiểm toán ID (chưa dịch thêm)
+
+Đã bổ sung [AUDIT_CP051.py](AUDIT_CP051.py) và cập nhật
+[KIEM_TOAN_CON_LAI_051.md](KIEM_TOAN_CON_LAI_051.md) với kết quả đối chiếu
+CP001–050: các dải row_index được xử lý liên tục, 26 tệp nguồn đã có
+bản dịch. Cần ZIP Nhật gốc để xác định 1.744 ID nghi thuộc hai tệp
+chưa được xử lý và dịch 429 ID Deck/Credits. **Tiến độ vẫn là
+32.746/34.919; không có chuỗi dịch mới trong bước kiểm toán này.**
+
 ## Các nguồn còn lại — Checkpoint 051
 
 Xem chi tiết [KIEM_TOAN_CON_LAI_051.md](KIEM_TOAN_CON_LAI_051.md), gồm:
