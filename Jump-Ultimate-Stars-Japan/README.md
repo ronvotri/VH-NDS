@@ -1,6 +1,19 @@
-# Jump Ultimate Stars (Japan) — Checkpoint 051 (Deck và Credits) 🇻🇳
+# Jump Ultimate Stars (Japan) — Checkpoint 052 (nhiệm vụ & hệ thống) 🇻🇳
 
-**Tiến độ: 33.175 / 34.919 (95,01%)** — thêm **429 chuỗi Nhật–Việt** trong CP051; còn **1.744 chuỗi**.
+**Tiến độ: 33.680 / 34.919 (96,45%)** — thêm **505 chuỗi Nhật–Việt** trong CP052; còn **1.239 chuỗi**.
+
+## Mới nhất — Checkpoint 052: nhiệm vụ + hệ thống (20/11/2026)
+
+**+505 ID mới, 33.680/34.919 ID dịch (96,45%).** Hoàn thành 265 dòng còn sót (`row_index=184–448`) trong `03-nhiem-vu-luat-001.jsonl`, và dịch 240 dòng đầu (`row_index=0–239`) của `00-he-thong-ten-goi-001.jsonl`. Bản dịch theo ZIP Nhật gốc, giữ ID, JA, metadata, ngữ cảnh và token.
+
+- [BAN_DICH_052.jsonl](BAN_DICH_052.jsonl) — 505 chuỗi đã dịch; không trùng checkpoint cũ.
+- [BAN_DICH_052.tsv](BAN_DICH_052.tsv) — đối chiếu Nhật/Việt và byte UTF-8.
+- [QA_052.json](QA_052.json) / [BAN_GIAO_052.md](BAN_GIAO_052.md) — kết quả QA/bàn giao.
+- [NGUON_CHUA_DICH_SAU_052.jsonl](NGUON_CHUA_DICH_SAU_052.jsonl) — **1.239 dòng Nhật còn lại**, không tự tạo tiếng Việt.
+- [TAO_TONG_HOP_052.py](TAO_TONG_HOP_052.py) — khôi phục bản gộp đầy đủ CP001–052 từ tất cả delta/overlay trên nhánh này; trong ZIP CP052 có bản gộp CP038–052 (10.084 ID).
+- [BAN_DINH_CHINH_050A.jsonl](BAN_DINH_CHINH_050A.jsonl) — các đính chính cũ được bảo toàn.
+
+**Còn lại:** 991 dòng (`00-he-thong-ten-goi-001.jsonl`, 240–1230) + 248 dòng (`00-he-thong-ten-goi-002.jsonl`, 0–247). **Tệp nhiệm vụ 03 đã dịch hết.** QA tĩnh pass cho 505 ID; 265 trường cố định đều không quá 32/44 byte. Chưa có bản vá ROM, kiểm byte cho các trường hệ thống không khai báo độ dài, QA độ rộng font hay xác minh màn hình thực tế.
 
 ## Mới nhất — Checkpoint 051: Deck + Credits (20/11/2026)
 
