@@ -109,8 +109,8 @@
     "06-jquiz-001.jsonl": {
       "n": 1931,
       "next": 1931,
-      "h1": 1026306050,
-      "h2": 3411973237
+      "h1": 3135977205,
+      "h2": 1259602540
     },
     "06-jquiz-002.jsonl": {
       "n": 1932,
@@ -137,23 +137,10 @@
       "h2": 1612345117
     }
   },
-  "errors": [
-    {
-      "name": "06-jquiz-001.jsonl",
-      "expected": {
-        "n": 1931,
-        "h1": 3135977205,
-        "h2": 1259602540
-      },
-      "actual": {
-        "n": 1931,
-        "next": 1931,
-        "h1": 1026306050,
-        "h2": 3411973237
-      }
-    }
-  ],
-  "audit_status": "FAIL",
-  "source_index_and_japanese_match": false,
-  "source_files_checked": 22
+  "errors": [],
+  "audit_status": "PASS",
+  "source_index_and_japanese_match": true,
+  "source_files_checked": 22,
+  "quiz_context_cp026_restored": 651,
+  "fix_commit": "ed0c6672ab9cf9221adcfca33a58c6a33712987c"
 }
