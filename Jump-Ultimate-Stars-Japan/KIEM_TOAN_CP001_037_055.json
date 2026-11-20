@@ -1,0 +1,51 @@
+{
+  "checkpoint": "055",
+  "source": "JumpUltimateStars_Japan_BanGiao_Cloud.zip",
+  "cp_last": 10,
+  "records": 6022,
+  "files": {
+    "01-huong-dan-001.jsonl": {
+      "n": 281,
+      "next": 281,
+      "h1": 2076767749,
+      "h2": 3146758412
+    },
+    "02-thoai-tro-giup-001.jsonl": {
+      "n": 1448,
+      "next": 1448,
+      "h1": 3764776394,
+      "h2": 3952535549
+    },
+    "03-nhiem-vu-luat-001.jsonl": {
+      "n": 184,
+      "next": 184,
+      "h1": 4254074328,
+      "h2": 1742875433
+    },
+    "04-koma-chieu-thuc-001.jsonl": {
+      "n": 1369,
+      "next": 1369,
+      "h1": 1852876226,
+      "h2": 1354536735
+    },
+    "02-thoai-tro-giup-002.jsonl": {
+      "n": 1416,
+      "next": 1416,
+      "h1": 554409898,
+      "h2": 1660781235
+    },
+    "02-thoai-tro-giup-003.jsonl": {
+      "n": 958,
+      "next": 958,
+      "h1": 4080061925,
+      "h2": 1963335734
+    },
+    "04-koma-chieu-thuc-002.jsonl": {
+      "n": 366,
+      "next": 366,
+      "h1": 1747011163,
+      "h2": 868126318
+    }
+  },
+  "errors": []
+}
