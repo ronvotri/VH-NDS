@@ -1,0 +1,45 @@
+{
+  "game": "Jump Ultimate Stars (Japan) AJUJ",
+  "checkpoint": "054",
+  "date": "2026-11-20",
+  "source_zip": "JumpUltimateStars_Japan_BanGiao_Cloud.zip",
+  "source_zip_sha256": "14e839a35e75f35534a93a1b37ebe42731ea530fbc012267b45bbbed8446f241",
+  "source_files": 30,
+  "source_total_ids": 34919,
+  "previous_total": 34187,
+  "new_translations": 484,
+  "from_file": "00-he-thong-ten-goi-001.jsonl",
+  "from_row_index": 747,
+  "to_row_index": 1230,
+  "context_counts": {
+    "bin/piece.bin": 484
+  },
+  "translated_total": 34671,
+  "remaining": 248,
+  "progress_percent": 99.29,
+  "id_uniqueness": true,
+  "ja_metadata_exactly_match_source": true,
+  "control_tokens_preserved": true,
+  "unicode_nfc": true,
+  "byte_limits_pass_where_declared": true,
+  "source_fixed_field_bytes_rows": 0,
+  "max_vi_chars": 52,
+  "max_vi_utf8_bytes": 71,
+  "merged_038_054_ids": 11075,
+  "cp050a_10_corrections_retained": true,
+  "nds_rom_patch_built": false,
+  "font_pixel_qa_done": false,
+  "manual_accuracy_review_complete": false,
+  "notes": [
+    "Narrative descriptions have been translated as cohesive manga-specific paragraphs and redistributed to original fixed ordering of 484 IDs. The source does not specify a fixed per-record byte limit for this section.",
+    "Row 1230 continues into 00-he-thong-ten-goi-002.jsonl row 0; its Vietnamese text intentionally lacks terminal punctuation to allow continuation.",
+    "All 248 IDs left are in 00-he-thong-ten-goi-002.jsonl, from index 0 to 247.",
+    "Text-only static QA; no ROM injection, NDS font width, or exhaustive human review yet."
+  ],
+  "output_sha256": {
+    "BAN_DICH_054.jsonl": "f412d32ece69f2448fdf683796e5efa260f026896d7897044e0356fb9c9dd03c",
+    "BAN_DICH_TONG_HOP_038-054.jsonl": "b5e18a5eb87aed2e59bb95c0615636b0b2ea2a1f7c1fd0cbd2e3157634fdb472",
+    "NGUON_CHUA_DICH_SAU_054.jsonl": "7fa2e95fcb6872c452e0e593578568251d73a0630fbac33439088f137170dd9d",
+    "BAN_DICH_054.tsv": "149bd5ff3d84bfbca24da034f579a030b31a43116c95fb0b291d084398b96b04"
+  }
+}
