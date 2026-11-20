@@ -68,3 +68,27 @@ lạ/trùng, sai JA, sai file, sai row_index và xuất ra thư mục audit-051:
 **Trạng thái:** CP051 là giai đoạn kiểm toán/chuẩn bị; **0 bản dịch
 mới**, không thay đổi số liệu 32.746/34.919. Chưa có QA font NDS,
 kiểm byte thực tế của Deck/Credits, kiểm đáp án trong ROM hoặc patch.
+
+## Xác nhận dứt điểm bằng ZIP nguồn Nhật (CP051)
+
+**Nguồn đã mở thành công ở lượt tiếp theo.** Bộ dữ liệu đủ 30 JSONL/34.919 ID.
+Đã đối chiếu ID + JA + file/row_index của **9.150 bản dịch CP038–050A** với ZIP gốc.
+Bản dịch CP051 thêm **429 ID** từ Deck/Credits. Đối chiếu vùng chỉ mục CP001–037
+đã xác minh trong GitHub, phần nguồn chưa được dịch xác định dứt điểm:
+
+| Tệp gốc | Số ID thiếu | Chỉ mục |
+| --- | ---: | --- |
+| `00-he-thong-ten-goi-001.jsonl` | 1.231 | 0–1230 |
+| `00-he-thong-ten-goi-002.jsonl` | 248 | 0–247 |
+| `03-nhiem-vu-luat-001.jsonl` | 265 | 184–448 |
+| **Tổng** | **1.744** | |
+
+Không còn 429 ID Deck/Credits trong danh sách cần dịch.
+Tiến độ sau CP051 **33.175 / 34.919 (95,01%)**.
+Các đoạn CP050 đầu ghi 2.173 ID thiếu chỉ còn ý nghĩa lịch sử.
+Nội dung từ `00` có nhiều dòng mô tả manga bị cắt nối, phải duyệt theo đoạn.
+Danh sách chính xác 1.744 JSONL chưa dịch nằm trong gói ZIP CP051 bàn giao.
+
+**Giới hạn kiểm toán:** CP001–037 được lấy theo các dải và số lượng đã
+xác minh trước trên GitHub (23.596 ID), chưa thực hiện lại so checksum
+từng byte của bản gộp CP001–037 trong lượt này. QA font và ROM vẫn chờ.
