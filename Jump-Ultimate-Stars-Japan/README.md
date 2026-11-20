@@ -1,8 +1,20 @@
-# Jump Ultimate Stars (Japan) — Checkpoint 051 (QA CP050A) 🇻🇳
+# Jump Ultimate Stars (Japan) — Checkpoint 051 (Deck và Credits) 🇻🇳
 
-**Tiến độ: 32.746 / 34.919 (93,78%)** — thêm **735 chuỗi Nhật–Việt mới** so với CP049; còn **2.173 chuỗi**.
+**Tiến độ: 33.175 / 34.919 (95,01%)** — thêm **429 chuỗi Nhật–Việt** trong CP051; còn **1.744 chuỗi**.
 
-## Mới nhất — Đính chính CP050A trong CP051 (20/11/2026)
+## Mới nhất — Checkpoint 051: Deck + Credits (20/11/2026)
+
+Đã mở và kiểm tra lại `JumpUltimateStars_Japan_BanGiao_Cloud.zip`: **30 tệp nguồn, 34.919 ID duy nhất**. Hoàn thành **352 chuỗi Deck** và **77 chuỗi Credits** từ nguồn Nhật, không đổi metadata gốc. Lô dịch `BAN_DICH_051.jsonl` là **429 ID mới**, khác 10 mục đính chính CP050A.
+
+- [BAN_DICH_051.jsonl](BAN_DICH_051.jsonl) — 429 bản ghi tiếng Việt.
+- [BAN_DICH_051.tsv](BAN_DICH_051.tsv) — bảng Nhật/Việt và byte UTF-8.
+- [QA_051.json](QA_051.json) và [BAN_GIAO_051_DECK_CREDIT.md](BAN_GIAO_051_DECK_CREDIT.md) — QA và bàn giao bản dịch.
+- [BAN_DINH_CHINH_050A.jsonl](BAN_DINH_CHINH_050A.jsonl) — 10 sửa lỗi CP050A vẫn được giữ nguyên.
+
+**1.744 ID chưa dịch đã định vị chính xác trong ZIP nguồn:**
+`00-he-thong-ten-goi-001.jsonl` (1.231); `00-he-thong-ten-goi-002.jsonl` (248); `03-nhiem-vu-luat-001.jsonl` dòng 184–448 (265). Tổng 1.231 + 248 + 265 = 1.744. Dự án chưa có patch ROM/kiểm thử font NDS. Chiều dài UTF-8 của các dòng CP051 không vượt dung lượng trường khai báo, nhưng chưa chứng minh tính tương thích mã hóa nhị phân.
+
+## Đính chính CP050A (lịch sử sửa lỗi quiz) trong CP051 (20/11/2026)
 
 **10 dòng sửa có xác minh; 0 ID dịch mới.** Phục hồi câu hỏi và bốn đáp án về mẹ Hiei (842–846), tách hai câu hỏi Kurama/Raizen (847–849), sửa hai tên thẻ Yu-Gi-Oh! theo nguồn chính thức (1230, 1350). Dữ liệu `ja`, `id`, `quiz_context`, thứ tự đáp án và số liệu **32.746/34.919** không đổi.
 
